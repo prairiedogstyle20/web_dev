@@ -1,0 +1,408 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <!-- BC_OBNW -->
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>The Philly Godfather Homepage</title>
+<link type="text/css" href="/StyleSheets/ModuleStyleSheets.css" rel="StyleSheet" />
+<script type="text/javascript">var jslang='EN';</script>
+<link href="/css/all.css" type="text/css" rel="stylesheet" media="all" />
+<link href="/css/form.css" type="text/css" rel="stylesheet" media="all" />
+<script type="text/javascript" src="/js/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/js/jquery.customForms.js"></script>
+<link href="chrome-extension://nffaoalbilbmmfgbnbgppjihopabppdk/inject.css" type="text/css" rel="stylesheet" />
+<script src="https://cdn.useproof.com/proof.js?acc=wlzXc7ChohaFv2RSUU5ogkCM3ws2" async></script>
+<meta name="google-site-verification" content="Y-Mh_6slZh7hIUMGosOWpBTmRbhIhIR8J9BRo2abtZg" />
+<!--PROOF PIXEL-->
+<!--END PROOF PIXEL-->
+<script type="text/javascript" src="/CatalystScripts/Java_Box.js?vs=b270.r522696-phase1"></script>
+</head>
+<body class="vsc-initialized">
+
+    
+        <script type="text/javascript" src="/js/main.js?ver=200520161806"></script>
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38349340-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+        <div class="w1">
+        <div class="userSubscriptionsListHolder" style="display: none;"><!--This module requires the user to be logged into a secure zone, and should only be placed on pages inside one.--></div>
+        <div id="wrapper">
+        <div id="header">
+        <div class="holder">
+        <h1 class="logo"><a href="/">Philly Godfather</a></h1>
+        <div class="add-nav-holder">
+        <div class="banner">
+        <a target="_blank" href="/BannerProcess.aspx?ID=37017&amp;URL=%2fpodcasts"><img alt="PGF on ESPN" src="/images/banners/PGF-on-ESPN.png"   border="0" /></a>
+        </div>
+        <!--div class="search-form">
+        <form name="catsearchform43049" method="post" action="/Default.aspx?SiteSearchID=-1&amp;ID=/search-results ">
+            <div class="text"><input type="text" class="cat_textbox_small" name="CAT_Search" id="CAT_Search" /></div>
+            <input type="submit" class="cat_button submit" value="Search" />
+        </form>
+        </div-->
+        <div class="login-fb btn-log-fb">&nbsp;</div>
+        <div class="add-nav-box0">
+        <ul class="add-nav">
+    <li>
+    <strong><span><strong><span><a href="/memberships"><strong><span>BUY MEMBERSHIP</span></strong></a></span></strong></span></strong>
+    </li>
+    <li>
+    <span class="logout"></span>
+    <a href="/sign-in-to-the-website" class="tohide0">Sign In</a>
+    </li>
+</ul>
+        <div class="subscribersMenu">
+<div id="subscribersMenu"><ul class="add-nav add-nav2"><li  class="securezone-item-13831"><a href="/pgf-super-bowl-moves"><span>Animals SuperBowl Moves</span></a></li><li  class="securezone-item-10728"><a href="/games-the-godfather-bet-on"><span>@phillygodfather</span></a></li><li  class="securezone-item-12988"><a href="/the-sheeps-moves"><span>@buryrightnumber</span></a></li><li  class="securezone-item-13210"><a href="/the-tigers-moves"><span>@bigbettiger</span></a></li><li  class="securezone-item-13389"><a href="/the-roosters-moves"><span>@phillyrooster</span></a></li><li  class="securezone-item-13468"><a href="/the-nfacmoves-moves"><span>@pokerboysmoves</span></a></li><li  class="securezone-item-13624"><a href="/frankie-diamonds-moves"><span>@diamondsfrankie</span></a></li><li  class="securezone-item-13591"><a href="/phillyseal-moves"><span>@phillyseal</span></a></li><li  class="securezone-item-14407"><a href="/kylewilson_nfl-moves"><span>@KyleWilson_NFL</span></a></li><li  class="tohide0 visible"><a href="/sign-in-to-the-website">Sign In</a></li><li  class="toshow0 visible"><a href="/LogOutProcess.aspx">Log out</a></li><li  class="securezone-item-14409"><a href="/las-vegas-wolf-moves"><span>@LasVegasWolf1</span></a></li></ul></div>
+
+<!-- the following script is needed to set the selected state -->
+<script type="text/javascript" src="/CatalystScripts/Java_DynMenusSelectedCSS.js"></script>
+<script type="text/javascript" src="/js/menuFix.js"></script>
+<script type="text/javascript" >
+	// ids need to be unique per page, use different ones if you are including multiple menus in the same page
+	// id of the nav tag, used above
+	var divTagId = "subscribersMenu";
+
+	// desired id for 1st <ul> tag 
+	var ulTagId = "subscribersMenuList";
+
+	// desired class for 1st <ul> tag 
+	var ulTagClass = "";
+
+	if ((null !== ulTagId) && ("" !== ulTagId)) {
+		document.getElementById(divTagId).getElementsByTagName("ul")[0].setAttribute("id",ulTagId);
+	}
+	if ((null !== ulTagClass) && ("" !== ulTagClass)) {
+		document.getElementById(divTagId).getElementsByTagName("ul")[0].className = ulTagClass;
+	}
+	
+	// this will set the selected state
+	if ((null !== ulTagId) && ("" !== ulTagId)) {
+		catSetSelectedCSSItem(ulTagId);
+	}
+</script>
+</div>
+        </div>
+        </div>
+        </div>
+        <div id="nav">
+        <script type="text/javascript" src="/CatalystScripts/Java_DynMenusSelectedCSS.js?vs=b270.r522696-phase1"></script><!-- Dynamic Menu Begin CSS Output --><div id="cat_1810799_divs"><ul id="nav_1810799"><li><a href="/podcasts">ESPN Gameday</a></li><li><a href="/videos">Videos</a></li><li><a href="#">Handicappers</a><ul id="navsub_1810799_1313052"><li><a href="/who-is-the-philly-godfather">@phillygodfather</a></li><li><a href="/handicapper-the-sheep">@buryrightnumber</a></li><li><a href="/handicapper-the-tiger">@tigersbigbets</a></li><li><a href="/handicapper-pokerboysmoves">@pokerboysmoves</a></li><li><a href="/handicapper-the-rooster">@phillyrooster</a></li><li><a href="/handicapper-the-seal">@phillyseal</a></li><li><a href="/handicapper-frankie-diamonds">@diamondsfrankie</a></li><li><a href="/handicapper-las-vegas-wolf">@LasVegasWolf1</a></li></ul></li><li><a href="/hot-news-articles">Hot News</a></li><li><a href="/become-an-affiliate">Affiliates</a></li><li><a href="/faq">FAQ's</a></li></ul></div><script type="text/javascript">catSetSelectedCSSItem('nav_1810799');</script><!-- Dynamic Menu End CSS Output -->
+        </div>
+        </div>
+        <div id="main">
+        <div class="main-bg">
+        <div class="main-wrapper">
+        
+    
+    
+        <div class="block">
+        <div class="img-holder">
+        <script type="text/javascript" src="http://video.foxbusiness.com/v/embed.js?id=5838360139001&w=695&h=390"></script><noscript>Watch the latest video at <a href="http://www.foxbusiness.com">foxbusiness.com</a></noscript>
+        </div>
+        <div class="text-holder">
+        <h2>YOU WANT our Sports Betting MOVES?</h2>
+        <br />
+        <p>Plans start at <span style="color: #ffff66;"><strong>only $3/day!</strong></span></p>
+        <a class="register" href="/memberships">Access NOW!</a>
+        <span class="member">Already a member?</span>
+        <a href="/sign-in-to-the-website">Sign in &gt;&gt;</a>
+        </div>
+        &nbsp;
+        </div>
+        <div class="today">
+        <script type="text/javascript">function displayToday(){var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December");var curdate = new Date();var date = curdate.getDate();var month = curdate.getMonth();var year = curdate.getFullYear();document.write(monthname[month]+" "+date+", "+year);} displayToday();</script>
+        </div>
+        <div class="boxes">
+        <div class="boxes-t"></div>
+        <div class="boxes-c">
+        <div class="boxes-holder">
+        <div class="box hot">
+        <div class="heading">
+        <h3 class="hot">HOT News Videos &amp; Articles</h3>
+        <a href="/hot-news-articles">view all posts &gt;&gt;</a>
+        </div>
+        <ul class="hot-news">
+            <li><strong><a   href="/articles-web-app/nba-odds-derozan-spurs-visit-raptors">NBA Odds: DeRozan, Spurs Visit Raptors</a></strong>
+<img alt="" src="/images/video-hot-news/NBA-logo.jpg?Action=thumbnail&amp;Width=195&amp;Height=125&amp;algorithm=fill_proportional" />
+<span class="author"> by: Staff Writer</span><br />
+
+
+ DeMar DeRozan will make his first return to Scotiabank Arena this Friday when the San Antonio Spurs (33-26 SU, 31-27-1 ATS) visit his former employers, the Toronto Raptor.....</li><li><strong><a   href="/articles-web-app/nhl-odds-flyers-and-habs-do-battle-at-the-bell-centre">NHL Odds: Flyers and Habs Do Battle at the Bell Centre</a></strong>
+<img alt="" src="/images/video-hot-news/sports-headers-NHL.jpg?Action=thumbnail&amp;Width=195&amp;Height=125&amp;algorithm=fill_proportional" />
+<span class="author"> by: Staff Writer</span><br />
+
+
+This Thursday, playoff implications are on the line as the Philadelphia Flyers head to Montreal to take on the Canadiens. The Habs have struggled of late, dropping four of.....</li><li><strong><a   href="/articles-web-app/nba-odds-2019-nba-all-star-game">NBA Odds: 2019 NBA All-Star Game</a></strong>
+<img alt="" src="/images/video-hot-news/NBA-logo.jpg?Action=thumbnail&amp;Width=195&amp;Height=125&amp;algorithm=fill_proportional" />
+<span class="author"> by: Staff Writer</span><br />
+
+
+This Sunday is the 68th edition of the NBA All-Star Game, live from the Spectrum Center in Charlotte at 8 PM ET on TNT. And just like last year, it won't be East vs. West......</li><li><strong><a   href="/articles-web-app/nhl-odds-nashville-predators-host-montreal-canadiens-thursday-night">NHL Odds: Nashville Predators Host Montreal Canadiens Thursday Night</a></strong>
+<img alt="" src="/images/video-hot-news/sports-headers-NHL.jpg?Action=thumbnail&amp;Width=195&amp;Height=125&amp;algorithm=fill_proportional" />
+<span class="author"> by: Staff Writer</span><br />
+
+
+Two highly defensive squads take the ice Thursday night in a battle of East vs. West. With Pekka Rinne between the pipes, Nashville (33-21-5) has allowed the fourth-fewest.....</li><ul id="webapp33921pagination" class="pagination webapp">
+<li class="pag-current">1</li>
+<li class="pag-number"><a href="/Default.aspx?PageID=17174221&amp;A=WebApp&amp;CCID=33921&amp;Page=2&amp;Items=4">2</a></li>
+<li class="pag-number"><a href="/Default.aspx?PageID=17174221&amp;A=WebApp&amp;CCID=33921&amp;Page=3&amp;Items=4">3</a></li>
+<li class="pag-number"><a href="/Default.aspx?PageID=17174221&amp;A=WebApp&amp;CCID=33921&amp;Page=4&amp;Items=4">4</a></li>
+<li class="pag-number"><a href="/Default.aspx?PageID=17174221&amp;A=WebApp&amp;CCID=33921&amp;Page=5&amp;Items=4">5</a></li>
+<li class="pag-number"><span class="pag-range">..</span> <a href="/Default.aspx?PageID=17174221&amp;A=WebApp&amp;CCID=33921&amp;Page=776&amp;Items=4">776</a></li>
+<li class="pag-next"><a href="/Default.aspx?PageID=17174221&amp;A=WebApp&amp;CCID=33921&amp;Page=2&amp;Items=4">Next</a></li>
+</ul>
+
+        </ul>
+        </div>
+        <div class="aside-block">
+<div class="heading-box">
+<strong>WIN Streaks <a href="/streaks-page">View All</a></strong></div>
+<div class="row">
+<li><span>#VIP MEMBERS in 2018 $100 bettor won $35,328 (Average Bet Size Released $100) Won over 353 positions</span>
+<a href="/who-is-the-philly-godfather">@phillygodfather</a>
+</li>
+</div>
+<div class="row even">
+<li><span>MARCH 1st 2014- Oct 27th 2018 MONSTER BURIALS 882-670 L/1552 Wagers (56.8%)</span>
+<a href="/handicapper-the-tiger">@tigersbigbets</a>
+</li>
+</div>
+<div class="row">
+<li><span>@phillyseal $100 sports bettor won $23,375 since joining on 7/9/2015 (Updated Oct 27th 2018)</span>
+<a href="/handicapper-the-seal">@phillyseal</a>
+</li>
+</div>
+<div class="row even">
+<li><span>MARCH 1st 2014 - JAN 9th 2018 HOT STREAK 2612-1854 L/4466 Moves (58%)</span>
+<a href="/who-is-the-philly-godfather">@phillygodfather</a>
+</li>
+</div>
+<div class="row">
+<li><span>MARCH 1st 2014 - JAN 9TH 2018 HOT STREAK 2870-2149 L/5,019 Bets (57%)</span>
+<a href="/handicapper-the-sheep">@buryrightnumber</a>
+</li>
+</div>
+<div class="row even">
+<li><span>@PhillyRooster $100 bettor Up &#43;$36,198 L/58 Months (Updated Oct 27th 2018)</span>
+<a href="/handicapper-the-rooster">@phillyrooster</a>
+</li>
+</div>
+</div>
+<div class="aside-block" style="padding: 0px; margin-top: 10px; border-color: #ffffff;">
+<a href="https://geo.itunes.apple.com/us/podcast/gameday-philly-godfather/id1066329643?mt=2" target="_blank"><img alt="" src="/images/iTunes-podcast-278.jpg" style="border: 0px;" /></a>
+</div>
+        </div>
+        </div>
+        <div class="boxes-b"></div>
+        </div>
+        <div class="container">
+        <div class="table">
+        <div class="heading"><span id="title">Daily Odds</span>
+        <form class="sport-selector-form" action="#">
+            <select id="sport-selector" class="test">
+            <option value="23110">NCAA - Basketball</option>
+            <option value="2755659">NBA - Basketball</option>
+            <option value="396">NFL - Football</option>
+            <option value="395">NCAA - Football</option>
+            <option value="226">MLB - Baseball</option>
+            </select>
+        </form>
+        </div>
+        <div class="table-holder">
+        <table>
+            <tbody id="odds-holder">
+                <tr class="odds-header">
+                    <th class="matchup">Matchup</th>
+                    <th>Date/Time</th>
+                    <th class="spread" id="spread">Spread</th>
+                    <th>Moneyline</th>
+                    <th class="total_points">Total Points</th>
+                </tr>
+                <!--tr>
+                    <td class="matchup">Memphis</td>
+                    <td class="bg">03/26</td>
+                    <td>132<sub>1/2</sub></td>
+                    <td class="bg"> </td>
+                    <td> </td>
+                    <td class="bg"> </td>
+                </tr>
+                <tr class="border">
+                    <td class="matchup">New Jersey</td>
+                    <td class="bg">7:00PM</td>
+                    <td>1</td>
+                    <td class="bg"> </td>
+                    <td> </td>
+                    <td class="bg"> </td>
+                </tr>
+                <tr>
+                    <td class="matchup">Memphis</td>
+                    <td class="bg">03/26</td>
+                    <td>132<sub>1/2</sub></td>
+                    <td class="bg"> </td>
+                    <td> </td>
+                    <td class="bg"> </td>
+                </tr>
+                <tr class="border">
+                    <td class="matchup">New Jersey</td>
+                    <td class="bg">7:00PM</td>
+                    <td>1</td>
+                    <td class="bg"> </td>
+                    <td> </td>
+                    <td class="bg"> </td>
+                </tr>
+                <tr>
+                    <td class="matchup">Memphis</td>
+                    <td class="bg">03/26</td>
+                    <td>132<sub>1/2</sub></td>
+                    <td class="bg"> </td>
+                    <td> </td>
+                    <td class="bg"> </td>
+                </tr>
+                <tr class="border">
+                    <td class="matchup">New Jersey</td>
+                    <td class="bg">7:00PM</td>
+                    <td>1</td>
+                    <td class="bg"> </td>
+                    <td> </td>
+                    <td class="bg"> </td>
+                </tr>
+                <tr>
+                    <td class="matchup">Memphis</td>
+                    <td class="bg">03/26</td>
+                    <td>132<sub>1/2</sub></td>
+                    <td class="bg"> </td>
+                    <td> </td>
+                    <td class="bg"> </td>
+                </tr>
+                <tr class="border">
+                    <td class="matchup">New Jersey</td>
+                    <td class="bg">7:00PM</td>
+                    <td>1</td>
+                    <td class="bg"> </td>
+                    <td> </td>
+                    <td class="bg"> </td>
+                </tr>
+                <tr>
+                    <td class="matchup">Memphis</td>
+                    <td class="bg">03/26</td>
+                    <td>132<sub>1/2</sub></td>
+                    <td class="bg"> </td>
+                    <td> </td>
+                    <td class="bg"> </td>
+                </tr>
+                <tr class="border">
+                    <td class="matchup">New Jersey</td>
+                    <td class="bg">7:00PM</td>
+                    <td>1</td>
+                    <td class="bg"> </td>
+                    <td> </td>
+                    <td class="bg"> </td>
+                </tr -->
+                <tr class="odds-template tpl-visiting">
+                    <td class="matchup visiting-team"> </td>
+                    <td class="bg time-monthday"> </td>
+                    <td class="spread">
+                    <span class="spread-visiting">
+                    <span class="sv-main"></span>&nbsp;<span class="sv-subpart"></span>&nbsp;
+                    </span>
+                    <span class="spread-adjust-visiting">
+                    <span class="sv-main"></span>&nbsp;<span class="sv-subpart"></span>
+                    </span>
+                    </td>
+                    <td class="bg moneyline-visiting"> </td>
+                    <td class="total_points total-visiting">
+                    <span class="over_text">Ov</span>&nbsp;<span class="sv-main"></span>&nbsp;<span class="sv-subpart"></span>&nbsp;<span class="over-points"></span>
+                    </td>
+                </tr>
+                <tr class="odds-template tpl-home border">
+                    <td class="matchup home-team"> </td>
+                    <td class="bg time-12hourtime"> </td>
+                    <td class="spread">
+                    <span class="spread-home">
+                    <span class="sv-main"></span>&nbsp;<span class="sv-subpart"></span>&nbsp;
+                    </span>
+                    <span class="spread-adjust-home">
+                    <span class="sv-main"></span>&nbsp;<span class="sv-subpart"></span>
+                    </span>
+                    </td>
+                    <td class="bg moneyline-home"> </td>
+                    <td class="total_points total-home">
+                    <span class="under_text">Un</span>&nbsp;<span class="sv-main"></span>&nbsp;<span class="sv-subpart"></span>&nbsp;<span class="under-points"></span>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        </div>
+        <div class="advert"><!-- Affiliate Code Do NOT Modify--><a onclick="window.open(this.href,'_blank');return false;" href="http://partners.fanduel.com/processing/clickthrgh.asp?btag=a_2665b_159"  ><img src="http://partners.fanduel.com/processing/impressions.asp?btag=a_2665b_159" alt="Daily Fantasy Sports Games at FanDuel.com"  style="border:none; width:300px;  height:250px; "/></a><!-- End affiliate Code-->
+<br /><br />
+<center><!-- Affiliate Code Do NOT Modify--><OBJECT id="affMV465" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"  width="234"  height="60" ><param name="movie" value="http://partners.fanduel.com/processing/impressions.asp?btag=a_2665b_465"><param name="allowScriptAccess" value="always"><param name="flashvars" value="creativeURL=http://partners.fanduel.com/processing/clickthrgh.asp?btag=a_2665b_465"><embed src="http://partners.fanduel.com/processing/impressions.asp?btag=a_2665b_465"  width="234"  height="60"  allowScriptAccess="always"  NAME="AffMV465" ALIGN="" TYPE="application/x-shockwave-flash"  PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"  flashvars="creativeURL=http://partners.fanduel.com/processing/clickthrgh.asp?btag=a_2665b_465"></embed></object></center><!-- End affiliate Code--></div>
+        <div class="box">
+        <div class="holder">
+        <a class="twitter-timeline" href="https://twitter.com/phillygodfather" data-widget-id="256798766609334272">Tweets by @phillygodfather</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>
+        </div>
+        </div>
+    
+
+        </div>
+        </div>
+        <div class="as-seen-box">
+<div style="text-align: center; margin-bottom: 12px;"><strong><span style="font-size: 24px;">You Can Hear The Philly Godfather On:</span></strong></div>
+<ul class="socials">
+    <li><img alt="" src="/images/as-seen-on/cbs-radio-sm.jpg" style="border: 0px;" /></li>
+    <li><img alt="" src="/images/as-seen-on/fox-LA-sm.jpg" style="border: 0px;" /></li>
+    <li><img alt="" src="/images/as-seen-on/boxing-show-sm.jpg" style="border: 0px;" /></li>
+    <li><img alt="" src="/images/as-seen-on/espn950logo-sm.jpg" style="border: 0px;" /></li>
+    <li><img alt="" src="/images/as-seen-on/espn-LV-sm.jpg" style="border: 0px;" /></li>
+    <li><img alt="" src="/images/as-seen-on/the-coast-sm.jpg" style="border: 0px;" /></li>
+    <li><img alt="" src="/images/as-seen-on/the-fanatic-sm.jpg" style="border: 0px;" /></li>
+</ul>
+</div>
+        </div>
+        <div id="footer">
+<div class="sub-nav">
+<ul>
+    <li><a href="/privacy-policy">Privacy Policy</a></li>
+    <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
+    <li><a href="/contact-the-philly-godfather">Contact Us</a></li>
+    <li><a href="/affiliates/affiliate-login">Affiliate Login</a></li>
+</ul>
+</div>
+<p>&copy; Copyright
+<script language="JavaScript" type="text/javascript">document.write((new Date()).getFullYear());</script>
+You Win LLC | All rights reserved</p>
+<p>&nbsp;</p>
+<hr style="border-top-style: dotted; border-top-width: 1px;" />
+<p>ThePhillyGodfather.com is a Sports entertainment &amp; information website. ThePhillyGodfather.com IS NOT A GAMBLING WEBSITE and does not accept bets or wagers in any capacity. This site should be used for entertainment purposes only. Gambling should be entertaining. Remember that you always risk losing the money you bet so do not spend more than you can afford to lose.</p>
+<script type="text/javascript">
+	var trackcmp_email = '';
+	var trackcmp = document.createElement("script");
+	trackcmp.async = true;
+	trackcmp.type = 'text/javascript';
+	trackcmp.src = '//trackcmp.net/visit?actid=798826901&e='+encodeURIComponent(trackcmp_email)+'&r='+encodeURIComponent(document.referrer)+'&u='+encodeURIComponent(window.location.href);
+	var trackcmp_s = document.getElementsByTagName("script");
+	if (trackcmp_s.length) {
+		trackcmp_s[0].parentNode.appendChild(trackcmp);
+	} else {
+		var trackcmp_h = document.getElementsByTagName("head");
+		trackcmp_h.length && trackcmp_h[0].appendChild(trackcmp);
+	}
+</script>
+</div>
+        </div>
+        </div>
+    
+</body>
+</html>

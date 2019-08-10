@@ -1,0 +1,1315 @@
+<!DOCTYPE html> <html lang="en-US"><head itemid='' itemscope itemtype='http://schema.org/SpeakableSpecification'> <script>window.serviceCallbacks=[];window.pageBuilder=window.pageBuilder||{};window.pageBuilder.featureLoaded=function(el){if(window.services.asyncFeatureCallback)window.services.asyncFeatureCallback(el);else window.serviceCallbacks.push(function(){window.services.asyncFeatureCallback(el)})};</script> <script>i$={plugins:{},cache:{window:{innerHeight:window.innerHeight,innerWidth:window.innerWidth},document:{documentElement:{clientWidth:document.documentElement.clientWidth}}}};
+trb={run:[],runInfuse:[],registration:[],appendResource:function appendResource(tagname,url,async,defer,onload,onerror,prepend){var r=document.createElement(tagname);if(tagname=="script"){r.src=url;r.async=async||false;r.defer=async||defer||false;if(onload)r.addEventListener("load",onload);if(onerror)r.addEventListener("error",onerror)}else if(tagname=="link"){r.href=url;r.rel="stylesheet"}else return;var h=document.head||document.documentElement;h[prepend?"insertBefore":"appendChild"](r,prepend?
+h.firstChild:null)},metrics:{},data:{ads:{slotPrefix:"/4011/trb.latimes"},page:{ads:{options:{ptype:"s"},slot:"/4011/trb.latimes/sports/basketball/nba/lakers"},siteName:"latimes",tags:["Coaches","Los Angeles Lakers","Luke Walton","Basketball","Atlanta Hawks","Jeanie Buss","Magic Johnson","NBA","Indiana Pacers","Rob Pelinka"]},videos:{},embed:{},metrics:{prdomain:"latimes.com",pbrd:"1",pvid:Date.now()+"_"+Math.floor(Math.random()*1E9)}},vendor:{snt:{}},dpl:[],dpp:[],utils:{},browsersupport:{isMobile:function(){return/(android|bb\d+|meego).+mobile|bada\/|blackberry|fennec|iemobile|ip(hone|od|ad)|kindle|maemo|midp|mmp|netfront|opera m|palm|phone|p(ixi|re)\/|series(4|6)0|symbian|up\.(b|l)|vodafone|wap|windows (ce|phone)|android|playbook|silk/i.test(navigator.userAgent)}}};
+if(trb.data.isMobile=trb.browsersupport.isMobile())document.documentElement.setAttribute("data-content-mobile","");(trb.userTiming=window.performance&&performance.mark&&location.hash.indexOf("trb_perf")>-1?function(a){performance.mark(a)}:function(){})("trb head");_sf_startpt=Date.now&&Date.now();document.addEventListener("DOMContentLoaded",function isReady(){i$.hasDocReadyRun=true;document.removeEventListener("DOMContentLoaded",isReady)});</script> <link rel="icon" href="/pb/resources/images/lat_icons/favicon.ico?v=18"/> <link rel="apple-touch-icon" href="/pb/resources/images/lat_icons/57-iTunesArtwork.png?v=18"/> <link rel="apple-touch-icon" sizes="72x72" href="/pb/resources/images/lat_icons/72-iTunesArtwork.png?v=18"/> <link rel="apple-touch-icon" sizes="114x114" href="/pb/resources/images/lat_icons/114-iTunesArtwork.png?v=18"/> <link rel="apple-touch-icon" sizes="144x144" href="/pb/resources/images/lat_icons/144-iTunesArtwork.png?v=18"/> <meta charset="UTF-8"/> <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1"> <meta name="language" content="English (United States), en-US"/> <meta http-equiv="Content-Language" content="en-US"/> <link rel="dns-prefetch" href="//eb.trbas.com"/> <title>Luke Walton’s Lakers coaching job said to be safe in wake of loss to Hawks - Los Angeles Times</title> <meta name="copyright" content="Copyright (c) 2018 Los Angeles Times"/> <meta name="y_key" content="cee2fe4077f8d050"/> <meta name="msvalidate.01" content="AAC9C18F70AC386BC4DCF4DDF9BF1786"/> <meta name="distribution" content="global"/> <meta name="rating" content="general"/> <meta name="keywords" content=""> <meta name="news_keywords" content=""/> <meta name="date" content="2019-02-13T21:00:00Z"/> <meta itemprop="description" name="description" content="The Lakers have had no internal discussions about coach Luke Walton's future since Tuesday's loss to the Atlanta Hawks, people with knowledge of the situation say."/> <meta name="googlebot-news" content="index"/> <link rel="canonical" href="https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html"> <link rel="amphtml" href="https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html?outputType=amp"> <meta name="twitter:title" content="Luke Walton’s Lakers coaching job said to be safe in wake of loss to Hawks"/> <meta name="twitter:image" content="https://www.latimes.com/resizer/qRjw4vUJfT1JB85HD20ZTnPRmp0=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/BAWIWI5RTNH7DK4L6Q7GVLZPMQ.jpg"/> <meta name="twitter:description" content="The Lakers have had no internal discussions about coach Luke Walton's future since Tuesday's loss to the Atlanta Hawks, people with knowledge of the situation say."/> <meta name="twitter:card" content="summary_large_image"> <meta name="twitter:site" content="@latimes"/> <meta name="twitter:creator" content="@latimes"> <meta name="fb_title" content="Luke Walton’s Lakers coaching job said to be safe in wake of loss to Hawks"/> <meta property="og:url" content="https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html"/> <meta property="og:title" content="Luke Walton’s Lakers coaching job said to be safe in wake of loss to Hawks"/> <meta itemprop="image" property="og:image" content="https://www.latimes.com/resizer/qRjw4vUJfT1JB85HD20ZTnPRmp0=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/BAWIWI5RTNH7DK4L6Q7GVLZPMQ.jpg"/> <meta property="og:description" content="The Lakers have had no internal discussions about coach Luke Walton's future since Tuesday's loss to the Atlanta Hawks, people with knowledge of the situation say."/> <meta property="og:locale" content="en_US"/> <meta property="og:site_name" content="latimes.com"/> <meta property="og:type" content="article"/> <meta property="article:content_tier" content="metered"/> <meta property="fb:app_id" content="119932621434123"/> <meta property="fb:page_id" content="5863113009"/> <meta property="article:tag" content="Coaches, Los Angeles Lakers, Luke Walton, Basketball, Atlanta Hawks, Jeanie Buss, Magic Johnson, NBA, Indiana Pacers, Rob Pelinka"> <meta property="article:section" content=",,,, LA Times, Sports, Lakers"> <meta name="author" content="Broderick Turner"> <meta name="apple-itunes-app" content="app-id=373238146, app-argument=http://www.latimes.com/deeplinkid3GDAUWNANFFG7IEJMRQOANILC4"> <script data-schema="NewsArticle" type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html"
+        },
+        "isAccessibleForFree": "False",
+        "hasPart": {
+          "@type": "WebPageElement",
+          "isAccessibleForFree": "False",
+          "cssSelector": ".paywall"
+        },
+        "headline": "Luke Walton’s Lakers coaching job said to be safe in wake of loss to Hawks",
+        "url": "https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html",
+        "thumbnailUrl": "",
+
+        
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.latimes.com/resizer/qRjw4vUJfT1JB85HD20ZTnPRmp0=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/BAWIWI5RTNH7DK4L6Q7GVLZPMQ.jpg",
+          "height": 1151.0,
+          "width": 1200
+        },
+        
+        "articleSection": "",
+        "dateCreated": "2019-02-13T20:25:50Z",
+        "datePublished": "2019-02-13T20:25:50Z",
+        "dateModified": "2019-02-14T00:17:50.377Z",
+        "articleBody": "There have been no internal discussions about Lakers coach Luke Walton&amp;#8217;s job status in the wake of the team&amp;#8217;s loss to the lowly Atlanta Hawks on Tuesday night, according to people with knowledge of the situation not authorized to speak publicly on the sensitive matter.Walton &amp;#8220;will definitely finish the season&amp;#8221; and has the full support of the Lakers&amp;#8217; front office, one person said.Lakers owner Jeanie Buss, president of basketball operations Magic Johnson and general manager Rob Pelinka are all on the same page regarding Walton being the coach for the rest of the season, the people said.Buss especially wants to give Walton every opportunity to succeed, one person said.&amp;#8220;Nothing is going to happen with Luke,&amp;#8221; that person said. &amp;#8220;There hasn&amp;#8217;t even been any talk about it and there won&amp;#8217;t be any talks about it. Luke will definitely finish the season and he has the full support. So any talk in the media or on social media can be put to bed about Luke. He&amp;#8217;s not going anywhere. There has been no conversation about it.&amp;#8221;The Lakers want Walton to hold his players &amp;#8220;accountable.&amp;#8221; The Lakers&amp;#8217; front office personnel want to see player and team improvement as well as Walton make better in-game adjustments, the people said.One of the many sore points with the front office is that the Lakers are the worst free-throw shooting team in the NBA, at 68.7%, after finishing last  in the league in the same category last season at 71.4%.During the loss to the Hawks in Atlanta, there seemed to be some &amp;#8220;disconnect&amp;#8221; between Walton and the players, one person said.LeBron James didn&amp;#8217;t look &amp;#8220;totally engaged,&amp;#8221; despite producing a triple-double of 28 points, 16 assists and 11 rebounds, one person said.Another person said all the players had &amp;#8220;bad body language&amp;#8221; during the loss, which dropped the Lakers below .500 (28-29) for the first time since November. The Lakers are currently 10th in the Western Conference standings, 2&amp;#189; games behind eighth-place Sacramento (30-26) for the final playoff spot..Another person said that Johnson, who was at the game in Atlanta, didn&amp;#8217;t like how the team played with such &amp;#8220;low energy&amp;#8221;.The Lakers&amp;#8217; 42-point loss to the Indiana Pacers last week was disturbing to the front office, one person said, and the poor defensive effort in the 23-point loss to the Philadelphia 76ers on Sunday was problematic.The stirring, last-second 129-128 win at Boston between those defeats was impressive, one person said, and that&amp;#8217;s the kind of effort the front office wants to see.In evaluating Walton this season, the Lakers have taken into account all the injuries he has had to deal with heading into the All-Star break this weekend.Starting point guard Lonzo Ball is still out recovering from a sprained left ankle. He&amp;#8217;s expected back after the break.James missed 18 games while recovering from a groin injury. Rajon Rondo was out five weeks because of a broken right hand and sat out another four weeks after he had surgery for a Grade 3 sprain of his right ring finger. Brandon Ingram missed two weeks because of a sprained ankle.But there was a time when the Lakers were  healthy andhad climbed to fourth in the West in late December.With 25 regular-season games remaining, the front office wants to see the Lakers make a push for the playoffs by playing better, more inspired basketball the rest of the way.&amp;#8220;Everyone believes in Luke,&amp;#8221; one person said. &amp;#8220;Now it&amp;#8217;s about him getting the best out of the team.&amp;#8221;",
+        "creator": [
+          
+            
+              
+              
+                "Broderick Turner "
+              
+            
+            
+          
+        ],
+        "author": [
+          
+            
+              
+                {
+                  
+                  "@type": "Person",
+                  "name": "Broderick Turner "
+                }
+              
+            
+            
+          
+        ],
+        "keywords": [
+          
+            "Coaches",
+            "Los Angeles Lakers",
+            "Luke Walton",
+            "Basketball",
+            "Atlanta Hawks",
+            "Jeanie Buss",
+            "Magic Johnson",
+            "NBA",
+            "Indiana Pacers",
+            "Rob Pelinka"
+            
+          
+        ],
+        "publisher": {
+        "@type": "Organization",
+        "name": "Los Angeles Times",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.latimes.com/pb/resources/images/lat_icons/logo_meta.png?token=123",
+          "width": 467,
+          "height": 60
+        }
+      },
+        "description": "The Lakers have had no internal discussions about coach Luke Walton's future since Tuesday's loss to the Atlanta Hawks, people with knowledge of the situation say."
+      }
+    </script> <script data-schema="Organization" type="application/ld+json">
+      {
+        "name": "Los Angeles Times",
+        "url": "https://www.latimes.com",
+        "logo": "https://www.latimes.com/pb/resources/images/lat_icons/logo_meta.png?token=123",
+        "@type": "Organization",
+        
+          "sameAs": [ "https://www.facebook.com/latimes", "https://twitter.com/latimes", "https://www.youtube.com/user/losangelestimes", "https://www.instagram.com/latimes/", "https://vimeo.com/latimes" ],
+        
+        "@context": "http://schema.org"
+      }
+    </script> <meta itemprop="cssSelector" content="h1"/> <meta itemprop="xpath" content="/html/head/meta[@name='description']/@content"/> <meta name="ptype" content="s"/> <meta name="title" content="Luke Walton’s Lakers coaching job said to be safe in wake of loss to Hawks"/> <link href="/pb/resources/gdist/3ae940770b0738513037/lat/lat-framework3ae940770b0738513037.css?v=18" rel="stylesheet"/> <link href="/pb/resources/gdist/3ae940770b0738513037/lat/lat-features3ae940770b0738513037.css?v=18" rel="stylesheet"/> <link href="/pb/resources/gdist/3ae940770b0738513037/lat/lat-index3ae940770b0738513037.css?v=18" rel="stylesheet"/> <link href="/pb/resources/gdist/3ae940770b0738513037/lat/lat-services3ae940770b0738513037.css?v=18" rel="stylesheet"/> <style>body{background-color:#FFF}.card.card-pull-left{border:0;margin:0 24px 24px 0;width:100%}.card.card-pull-right{border:0;margin:0 0 24px 24px;width:100%}@media screen and (min-width:416px){.card.card-pull-left{margin:6px 48px 24px 0;width:calc(50% - 12px)}.card.card-pull-right{margin:6px 0 24px 48px;width:calc(50% - 12px)}}.card .card-content p.trb_br{margin-top:18px;padding-top:0}.trb_br_a{color:#A87A03;text-decoration:none;font-weight:normal}.trb_br_a:hover{color:#CFB53C}.trb_br_a:after{content:attr(data-br-t)}.card .card-content p.trb_br_dc{font:12px Arial,sans-serif;display:table-cell;padding-top:0}.trb_br_dc_p,.trb_br_dc+p{display:none}.trb_br_dc_a{color:#9a9a99;position:relative;font:12px Arial,sans-serif;text-decoration:none}.trb_br_dc_a:hover{text-decoration:none;color:#9a9a99}.trb_br_dc_a:after,.trb_br_dc_p:before{content:attr(data-br-dct)}.trb_br_dc_a:hover+.trb_br_dc_p{background-color:#363636;color:#FFF;position:absolute;display:block;width:170px;line-height:14px;border-radius:5px;padding:10px;z-index:60;margin-top:5px;word-wrap:normal}.trb_br_dc_p:after{border-color:transparent transparent #363636;border-style:solid;border-width:0 6px 6px 6px;content:'';position:absolute;z-index:32;top:-5px;left:10px}</style> <script async src="/pb/resources/gdist/3ae940770b0738513037/lat/lat-lib3ae940770b0738513037.js?v=18"></script> <script async src="/pb/resources/gdist/3ae940770b0738513037/lat/lat-index3ae940770b0738513037.js?v=18"></script> <script>(function(){if(location.href.indexOf("disable-dss")>-1){window.history.replaceState({},document.title,window.location.href.replace("?disable-dss",""));var domain=window.location.host;if(domain.split(".").length>2)domain=domain.substr(domain.indexOf("."));var now=new Date;now.setTime(now.getTime()+3600*24E3);document.cookie="ddss\x3d; expires\x3d"+now.toUTCString()+"; domain\x3d"+domain+"; path\x3d/";return}else if((";"+document.cookie).indexOf("; ddss\x3d")>-1)return;var ssorUrl="//ssor.tribdss.com/reg/tribune/latarc.min.js";
+var meterUrl="//www.tribdss.com/meter/latarc.min.js";trb.appendResource("script",ssorUrl,true);trb.appendResource("script",meterUrl,true)})();</script> <script>var initialTrackData={src:"arc",byline:"Broderick Turner",advancedByline:"Broderick Turner",articleType:"robust",channel:"sports:lakers",contentId:"112848739",contentType:"story",credit:"Chris Szagola / Associated Press",globalHierarchy:"sports:lakers",googleAnalytics:"UA-40841508-1",individualPhotoID:"112848691",linkTrackingAction:"story",liveblogPubDate:"",liveblogSlug:"",marketCode:"lanews",omnitureAccountId:"tribnglobal",owner:"lanews",pageName:"lat:sports:lakers:la-sp-luke-walton-lakers-job-20190213:story.",
+pageNumber:"",pageTitle:"Luke Walton\u2019s Lakers coaching job said to be safe in wake of loss to Hawks",paginationType:"paragraph",parentSectionName:"sports",postContentId:"",postNumber:"",premiumContentLevel:"default",chartbeatDomain:"latimes.com",pubDate:"02-13-2019 13:00",relateditems:true,sectionName:"",sectionPath:"",server:"www.latimes.com",site:"latimes",siteAbbrv:"lat",siteHierarchy:"latimes:sports:lakers",siteName:"latimes",slug:"la-sp-luke-walton-lakers-job-20190213",subtype:"stories",
+topLevelSection:"sports",topicID:"",topicPageName:"",uid:"3908",siteURL:"https://www.latimes.com",searchValue:"",homepageOrSection:"false",curatedPage:"curatedpage"};trb.data.page.pathName="/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html";trb.data.page.metrics=initialTrackData;window.serviceCallbacks.push(function(){analytics=new services.AnalyticsService(trb.data.page.metrics)});</script> <script>(function(){var loc=location.href;if(location.href.indexOf("disable-ensighten")>-1)return;var systemEnv="production";var ensightenUrl=(location.href.indexOf("ensightenTest")>-1?"//nexus-test.ensighten.com":"//eb.trbas.com")+"/tronc/latimesarc";var isProd=systemEnv==="production"||systemEnv==="prod";var isDev=location.href.indexOf("ensightenEnv\x3ddev")>-1||!isProd;var url=isDev?ensightenUrl+"dev":ensightenUrl+"prod";trb.appendResource("script",url+"/Bootstrap.js",true,null,null,null,false)})();</script> <script>(function(){window.trb.ads={adOfTypeLoaded:function(type){if(type=="reskin"||type=="videoscroll"){var head=document.head||document.getElementsByTagName("head")[0];var style=document.createElement("style");var isWindows=!!navigator.userAgent.match(/Windows/i);var minWidth=isWindows?1580:1560;var reskinCSS='.container { max-width: 100%; } main { background-color: #f1f1f1; } @media screen and (max-width: 1060px) { #pb-root, , #pb-root [data-role\x3d"close-tray"] { z-index: 0; background-color: #f1f1f1; position: relative;} } @media screen and (min-width: 1060px) { #masthead, #bottom { padding: 0 40px 0 40px; } #pb-root main { padding-top: 1px; } div[data-ad-container\x3d"reskin"], #masthead { width: calc(100% - 200px); margin: 0 auto; } #bottom { width: calc(100% - 200px); } } @media screen and (min-width: '+
+minWidth+'px) { div[data-ad-container\x3d"reskin"], #masthead, #bottom { max-width: 1280px; padding: 0; } }';style.type="text/css";style.appendChild(document.createTextNode(reskinCSS));head.appendChild(style);if(type=="videoscroll"){var videoScrollCSS="#pb-root main { margin-top: 100vh;} #pb-root main, #pb-root #bottom { position: relative; z-index: 5; } .links-container { display:none !important;} .pb-f-global-main-masthead {display: none;} .logo-container {display: block !important;} .logo-full {display: inline !important;}";
+var style=document.createElement("style");style.type="text/css";style.appendChild(document.createTextNode(videoScrollCSS));head.appendChild(style)}}}}})();</script> <script>if(location.href.indexOf("disable-gpt")==-1&&location.href.indexOf("disable-thirdparty")==-1){var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var gads=document.createElement("script");gads.async=true;gads.type="text/javascript";var useSSL="https:"==document.location.protocol;gads.src=(useSSL?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var node=document.getElementsByTagName("script")[0];node.parentNode.insertBefore(gads,node)})();window.serviceCallbacks.push(function(){window.services.headerBiddingAdVendorService=
+new services.HeaderBiddingAdVendorService("4011","3503","//js-sec.indexww.com/ht/htw-la-times.js")})};</script> <script>window.serviceCallbacks.push(function(){if(window.services.isVendorEnabled("lotame"))new services.LotameService("13200","13199")});</script> <script>window.serviceCallbacks.push(function(){if(window.isMobile.any()&&window.services.isAdEnabled("yieldmo"))services.YieldmoService.preloads()});</script> <script>if(location.href.indexOf("/paid-posts")==-1){var _prx=window._prx||[];_prx.push(["cfg.SetNoAutoStart"])};</script><script>(function(){if(window.BOOMR&&window.BOOMR.version)return;var dom,doc,where,iframe=document.createElement("iframe"),win=window;function boomerangSaveLoadTime(e){win.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(win.addEventListener)win.addEventListener("load",boomerangSaveLoadTime,false);else if(win.attachEvent)win.attachEvent("onload",boomerangSaveLoadTime);iframe.src="javascript:false";iframe.title="";iframe.role="presentation";(iframe.frameElement||iframe).style.cssText="width:0;height:0;border:0;display:none;";
+where=document.getElementsByTagName("script")[0];where.parentNode.insertBefore(iframe,where);try{doc=iframe.contentWindow.document}catch(e){dom=document.domain;iframe.src="javascript:var d\x3ddocument.open();d.domain\x3d'"+dom+"';void(0);";doc=iframe.contentWindow.document}doc.open()._l=function(){var js=this.createElement("script");if(dom)this.domain=dom;js.id="boomr-if-as";js.src="https://c.go-mpulse.net/boomerang/"+"9E52W-759Q8-QRNWG-5DBLH-ZFZGZ";BOOMR_lstart=(new Date).getTime();this.body.appendChild(js)};
+doc.write('\x3cbody onload\x3d"document._l();"\x3e');doc.close()})();</script> <script>(function(){if(location.href.indexOf("disable-inform")>-1)return;var informUrl="//launch.newsinc.com/222/js/embed.js";trb.appendResource("script",informUrl,true)})();</script> </head> <body lang="en-US"> <div id="pb-root" class="c o l l a p s e d - n a v"><a class="skip-link" href="#top">Skip to content</a> <header id="app-bar-sticky" class="sticky high-z-index"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-global-app-bar" data-pb-name="App Bar" data-pb-curated="curated" data-pb-id="main-app-bar" id="f3MVu21WrdhThr"> <div id="app-bar" class="app-bar card card-dark card-accent card-shadowed" role="navigation"> <div class="justify-space-between flex-container-row relative app-bar-inner container"> <div class="flex flex-container-row"> <div data-role="tray" data-tray="topics"> <button id="app-bar-topics-button" name="topicsMenu" class="tag tag-solid tag-accent app-button align-center justify-center flex-container-row" data-arctrack="topicsOpen" data-role="open-tray" data-tray="topics"> <span class="fa fa-2x icon-light fa-newspaper-o" aria-hidden="true"></span> <span class="spaced spaced-sm spaced-left hidden-mobile">Topics</span> </button> <div class="tray-arrow-container invisible relative"> <div class="tray-arrow absolute"> <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 292.362 292.362" fill="#616668" height="22px" width="22px"> xml:space="preserve"> <path d="M286.935,197.286L159.028,69.379c-3.613-3.617-7.895-5.424-12.847-5.424s-9.233,1.807-12.85,5.424L5.424,197.286 C1.807,200.9,0,205.184,0,210.132s1.807,9.233,5.424,12.847c3.621,3.617,7.902,5.428,12.85,5.428h255.813 c4.949,0,9.233-1.811,12.848-5.428c3.613-3.613,5.427-7.898,5.427-12.847S290.548,200.9,286.935,197.286z"/> </svg> </div> </div> <nav class="tray tray-left invisible absolute"> <div class="topics-tray tray-contents card"> <div class="tray-contents-inner" tabindex="0"> <div class="card-content search-container"> <div class="mobile-search-wrapper hidden-desktop"> <form class="form-inline flex-container-row" method="GET" action="/search/" target="_top" autocomplete="off"> <input class="search-bar" title="Type search term here" name="q-72163" type="text" placeholder="Search for a topic" data-autocomplete="false" data-autocomplete-target="app-bar-topics-autocomplete-results" autocomplete="off"/> <button aria-label="submit" type="submit" class="search-button button-icon button-rounded button-lg button-accent"> <i class="fa icon-light fa-search" aria-hidden="true"></i> </button> </form> <div id="app-bar-topics-autocomplete-results"></div> </div> </div> <ul class="side-nav-items topics-list list-unstyled"> <li data-topic-index="0" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://membership.latimes.com/">Subscriber Services</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://myaccount2.latimes.com/index.aspx">Manage Subscription</a> </li> <li class="subtopic"> <a class="uppercase" href="https://membership.latimes.com/newsletters/">Newsletters</a> </li> <li class="subtopic"> <a class="uppercase" href="https://myaccount2.latimes.com/login.aspx?ReturnUrl=%2fsecurepage%2fEZPay.aspx">EZPay</a> </li> <li class="subtopic"> <a class="uppercase" href="https://myaccount2.latimes.com/login.aspx?ReturnUrl=%2fsecurepage%2fMissedPaper.aspx">Delivery Issue</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.tronc.com/subscriber-terms-and-conditions/">Subscriber Terms</a> </li> </ul> </div> </li> <li data-topic-index="1" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/local/#nt=primarynavbar">Local</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/local/earthquakes/#nt=secondarynavbar">Earthquakes</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/local/datadesk/#nt=secondarynavbar">Data Desk</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/local/california/#nt=secondarynavbar">California</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/local/orangecounty/#nt=secondarynavbar">Times OC</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/local/abcarian/#nt=secondarynavbar">California Journal</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/local/education/#nt=secondarynavbar">Education</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/local/readers-rep/#nt=secondarynavbar">Readers' Representative Journal</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/brandpublishing/localplus/#nt=secondarynavbar">Local +</a> </li> </ul> </div> </li> <li data-topic-index="2" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/local/lanow/#nt=primarynavbar">L.A. Now</a> </li> <li data-topic-index="3" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/politics/#nt=primarynavbar">Politics</a> </li> <li data-topic-index="4" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/business/#nt=primarynavbar">Business</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/business/hollywood/#nt=secondarynavbar">Company Town</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/business/autos/#nt=secondarynavbar">Autos</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/business/hiltzik/#nt=secondarynavbar">Michael Hiltzik</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/business/lazarus/#nt=secondarynavbar">Consumer Confidential</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/brandpublishing/businessplus/#nt=secondarynavbar">Business +</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/brandpublishing/autoplus/#nt=secondarynavbar">Auto +</a> </li> </ul> </div> </li> <li data-topic-index="5" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/nation/#nt=primarynavbar">Nation</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/politics/#nt=secondarynavbar">Politics</a> </li> </ul> </div> </li> <li data-topic-index="6" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/entertainment/#nt=primarynavbar">Entertainment</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/entertainment/arts/#nt=secondarynavbar">Arts & Culture</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/entertainment/herocomplex/#nt=secondarynavbar">Hero Complex</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/entertainment/movies/#nt=secondarynavbar">Movies</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/entertainment/tv/#nt=secondarynavbar">Television</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/entertainment/music/#nt=secondarynavbar">Music</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/entertainment/gossip/#nt=secondarynavbar">Gossip</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/entertainment/envelope/#nt=secondarynavbar">Envelope</a> </li> <li class="subtopic"> <a class="uppercase" href="https://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=lat">TV Listings</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/brandpublishing/entertainmentplus/#nt=secondarynavbar">Entertainment +</a> </li> </ul> </div> </li> <li data-topic-index="7" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/opinion/#nt=primarynavbar">Opinion</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/opinion/op-ed/#nt=secondarynavbar">Op-Ed</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/opinion/opinion-la/#nt=secondarynavbar">Opinion L.A.</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/opinion/editorials/#nt=secondarynavbar">Editorials</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/opinion/readersreact/#nt=secondarynavbar">Readers React</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/opinion/topoftheticket/#nt=secondarynavbar">Top of the Ticket</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/opinion/endorsements/#nt=secondarynavbar">Endorsements</a> </li> </ul> </div> </li> <li data-topic-index="8" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/food/#nt=primarynavbar">Food</a> </li> <li data-topic-index="9" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/sports/#nt=primarynavbar">Sports</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/sportsnow/#nt=secondarynavbar">Sports Now</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/dodgers/#nt=secondarynavbar">Dodgers</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/lakers/#nt=secondarynavbar">Lakers</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/usc/#nt=secondarynavbar">USC</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/ucla/#nt=secondarynavbar">UCLA</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/clippers/#nt=secondarynavbar">Clippers</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/rams/#nt=secondarynavbar">Rams</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/chargers/#nt=secondarynavbar">Chargers</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/boxing/#nt=secondarynavbar">Boxing & MMA</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/highschool/#nt=secondarynavbar">High School</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/highschool/varsity-times/#nt=secondarynavbar">Varsity Times</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/angels/#nt=secondarynavbar">Angels</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/kings/#nt=secondarynavbar">Kings</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/soccer/#nt=secondarynavbar">Soccer</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/ducks/#nt=secondarynavbar">Ducks</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/olympics/#nt=secondarynavbar">Olympics</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/mlb/#nt=secondarynavbar">MLB</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/nba/#nt=secondarynavbar">NBA</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/nfl/#nt=secondarynavbar">NFL</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/sports/more/#nt=secondarynavbar">More Sports</a> </li> </ul> </div> </li> <li data-topic-index="10" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/world/#nt=primarynavbar">World</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/world/afghanistan-pakistan/#nt=secondarynavbar">Afghanistan & Pakistan</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/world/africa/#nt=secondarynavbar">Africa</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/world/asia/#nt=secondarynavbar">Asia</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/world/brazil/#nt=secondarynavbar">Brazil</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/world/europe/#nt=secondarynavbar">Europe</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/world/mexico-americas/#nt=secondarynavbar">Mexico & The Americas</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/world/middleeast/#nt=secondarynavbar">Middle East</a> </li> </ul> </div> </li> <li data-topic-index="11" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/local/obituaries/#nt=primarynavbar">Obituaries</a> </li> <li data-topic-index="12" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/business/realestate/#nt=primarynavbar">Real Estate</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/business/realestate/hot-property/#nt=secondarynavbar">Hot Property</a> </li> </ul> </div> </li> <li data-topic-index="13" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/style/#nt=primarynavbar">California Living</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/fashion/#nt=secondarynavbar">Fashion</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/health/#nt=secondarynavbar">Health & Wellness</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/style/laaffairs/#nt=secondarynavbar">L.A. Affairs</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/style/pets/#nt=secondarynavbar">Pets</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/home/#nt=secondarynavbar">Home & Garden</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/books/#nt=secondarynavbar">Books</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/brandpublishing/healthplus/#nt=secondarynavbar">Health +</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/paid-posts/?ntv_adpz=3111#nt=secondarynavbar">Living Plus +</a> </li> </ul> </div> </li> <li data-topic-index="14" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/business/technology/#nt=primarynavbar">Technology</a> </li> <li data-topic-index="15" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/science/#nt=primarynavbar">Science</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/science/sciencenow/#nt=secondarynavbar">Science Now</a> </li> </ul> </div> </li> <li data-topic-index="16" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/travel/#nt=primarynavbar">Travel</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/travel/cruises/#nt=secondarynavbar">Cruises</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/travel/mexico/#nt=secondarynavbar">Mexico & Latin America</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/travel/themeparks/#nt=secondarynavbar">Theme Parks</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/brandpublishing/travelplus/#nt=secondarynavbar">Travel +</a> </li> </ul> </div> </li> <li data-topic-index="17" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/visuals/#nt=primarynavbar">Visuals</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/visuals/graphics/#nt=secondarynavbar">Graphics</a> </li> </ul> </div> </li> <li data-topic-index="18" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/espanol/#nt=primarynavbar">L.A. Times en Español</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/espanol/comida/#nt=secondarynavbar">Sabor</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/espanol/eeuu/#nt=secondarynavbar">EEUU</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/espanol/entretenimiento/#nt=secondarynavbar">Entretenimiento</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/espanol/internacional/#nt=secondarynavbar">Internacional</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/espanol/mexico/#nt=secondarynavbar">México</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/espanol/politica/#nt=secondarynavbar">Política</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/espanol/vidayestilo/#nt=secondarynavbar">Vida y Estilo</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/espanol/deportes/#nt=secondarynavbar">Deportes</a> </li> </ul> </div> </li> <li data-topic-index="19" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://enewspaper.latimes.com/">E-Newspaper</a> </li> <li data-topic-index="20" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/designla/#nt=primarynavbar">Design LA</a> </li> <li data-topic-index="21" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com#nt=primarynavbar">Extras</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://jobs.latimes.com/">Find/Post a job</a> </li> <li class="subtopic"> <a class="uppercase" href="http://games.latimes.com/">Games</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/style/la-comics-htmlstory.html#nt=secondarynavbar">Comics</a> </li> </ul> </div> </li> <li data-topic-index="22" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/shopping/#nt=primarynavbar">Shop</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/lat-archives/#nt=secondarynavbar">Los Angeles Times Archives</a> </li> <li class="subtopic"> <a class="uppercase" href="https://store.latimes.com/?utm_campaign=evergreen&utm_medium=referral&utm_source=navigation&utm_content=&utm_term=">Los Angeles Times Store</a> </li> <li class="subtopic"> <a class="uppercase" href="https://store.latimes.com/photos.html?utm_campaign=evergreen&utm_medium=referral&utm_source=navigation&utm_content=&utm_term=">Los Angeles Times Photos</a> </li> <li class="subtopic"> <a class="uppercase" href="https://mylocal.latimes.com/">Local Ads</a> </li> <li class="subtopic"> <a class="uppercase" href="https://marketplace.latimes.com/">Marketplace</a> </li> </ul> </div> </li> <li data-topic-index="23" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="https://www.latimes.com/about/la-about-us-storygallery.html#nt=primarynavbar">About</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/about/pressreleases/#nt=secondarynavbar">Press Releases</a> </li> <li class="subtopic"> <a class="uppercase" href="https://www.latimes.com/about/la-editorial-staff-directory-htmlstory.html#nt=secondarynavbar">Staff Directory</a> </li> </ul> </div> </li> </ul> <div class="tray-contents-util"> <hr/> <div data-reg-role="trial"></div> </div> </div> </div> </nav> </div> <div data-role="tray" data-tray="search"> <button id="app-bar-search-button" name="searchMenu" class="tag tag-solid tag-accent app-button spaced spaced-left spaced-md align-center justify-center flex-container-row hidden-mobile hidden-tablet" data-arctrack="searchOpen" data-role="open-tray" data-tray="search"> <span class="fa fa-2x icon-light fa-search" aria-hidden="true"></span> <span class="hidden-tablet spaced spaced-sm spaced-left">Search</span> </button> <div class="tray-arrow-container relative spaced spaced-left spaced-md hidden-mobile hidden-tablet"> <div class="tray-arrow absolute"> <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 292.362 292.362" fill="#616668" height="22px" width="22px"> xml:space="preserve"> <path d="M286.935,197.286L159.028,69.379c-3.613-3.617-7.895-5.424-12.847-5.424s-9.233,1.807-12.85,5.424L5.424,197.286 C1.807,200.9,0,205.184,0,210.132s1.807,9.233,5.424,12.847c3.621,3.617,7.902,5.428,12.85,5.428h255.813 c4.949,0,9.233-1.811,12.848-5.428c3.613-3.613,5.427-7.898,5.427-12.847S290.548,200.9,286.935,197.286z"/> </svg> </div> </div> <nav class="tray tray-left invisible absolute hidden-mobile hidden-tablet" tabindex="0"> <div class="search-tray tray-contents search card"> <div class="tray-contents-inner" tabindex="0"> <div class="card-content"> <form class="form-inline flex-container-row" method="GET" action="/search/" target="_top" autocomplete="off"> <input class="search-bar" title="Type search term here" name="q-28219" type="text" placeholder="Search for a topic" data-autocomplete="false" data-autocomplete-target="app-bar-search-autocomplete-results" autocomplete="off"/> <button aria-label="submit" type="submit" class="search-button button-icon button-rounded button-lg button-accent"> <i class="fa icon-light fa-search" aria-hidden="true"></i> </button> </form> <div id="app-bar-search-autocomplete-results"></div> </div> </div> </div> </nav> </div> </div> <div class="flex-2 flex-container-row align-items-center justify-center"> <a aria-label="Visit homepage" href="/#nt=mastheadnavbar" class="logo-container hidden"> <img class="logo logo-full logo-no-background logo-transparent logo-md" alt="The Los Angeles Times Logo" src="/pb/resources/images/lat_icons/app-bar-logo.svg?v=18"/> </a> <div class="flex-container-row align-items-center hidden-mobile hidden-tablet links-container"> <ul class="app-bar-menu no-overflow flex-wrap flex-container-row list-unstyled"> <li class="links spaced spaced-right spaced-left spaced-sm"> <a class="uppercase text-color-light mobile app-bar-text" href="https://www.latimes.com/local/#nt=tertiarynavbar">Local</a> </li> <li class="links spaced spaced-right spaced-left spaced-sm"> <a class="uppercase text-color-light mobile app-bar-text" href="https://www.latimes.com/politics/#nt=tertiarynavbar">Politics</a> </li> <li class="links spaced spaced-right spaced-left spaced-sm"> <a class="uppercase text-color-light mobile app-bar-text" href="https://www.latimes.com/sports/#nt=tertiarynavbar">Sports</a> </li> <li class="links spaced spaced-right spaced-left spaced-sm"> <a class="uppercase text-color-light mobile app-bar-text" href="https://www.latimes.com/entertainment/#nt=tertiarynavbar">Entertainment</a> </li> <li class="links spaced spaced-right spaced-left spaced-sm"> <a class="uppercase text-color-light mobile app-bar-text" href="https://www.latimes.com/opinion/#nt=tertiarynavbar">Opinion</a> </li> <li class="links spaced spaced-right spaced-left spaced-sm"> <a class="uppercase text-color-light mobile app-bar-text" href="http://placeanad.latimes.com/">Place an ad</a> </li> </ul> </div> </div> <div class="flex flex-container-row"> <div class="login-subscribe"> <div class="dss-login-subscribe bar-dss" data-reg-role="base"></div> </div> </div> </div> </div> </div> <div data-reg-role="prompt"></div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-global-screamer" data-pb-name="Screamer" data-pb-curated="curated" data-pb-id="breaking-news-bar" id="f0jJ90oXrdhThr"> <div id="screamer-wrapper" class="screamer-wrapper" data-view-unpublished="true" data-href="/pb/api/v2/render/feature?name=breaking-news-bar&uri=/zzz-breaking-news/&wrapper=false&_website=latimes"> </div> </div> <div id="f9w8dk2XrdhThr" class="pb-async pb-feature"></div> <div class="pb-container"> </div> </header> <div data-role="close-tray" amp-access="NOT showPaywall" class="paywall"> <article class="grid container padded-container"> <header id="top" class="top full-columns"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" data-pb-name="DFP Ad" data-pb-curated="curated" data-pb-id="article-responsive-masthead-leaderboard-combo" id="fyHxVv1XrdhThr"> <div class="pb-ad pb-ad-prod ad-320x50 relative"> <div class="ad-caption-text align-center uppercase">Advertisement</div> <div id="sports_basketball_nba_lakers_98" class="hidden" data-ad-type="leaderboard"> > </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"sports_basketball_nba_lakers_98",adType:"leaderboard",slotName:"/4011/trb.latimes/sports/basketball/nba/lakers",displayMobile:true,displayDesktop:true,isOOP:false,is5x1:false,dimensionsString:" [[[1280, 220], [970, 250], [970, 90], [728, 90]], [[1280, 220], [728, 90]], [[1280, 220], [320, 100], [320, 50]]] ",sizemapString:"[[1280, 0], [800, 0], [0, 0]]",
+sizemapRefresh:"true",refreshOnPhotoChange:false,includeInA9:true,includeInIndexExchange:true,options:{ptype:"s",iab:"sports",apv:"false",site:"trb.latimes",slug:"la-sp-luke-walton-lakers-job-20190213",cid:"112848739",at:"Coaches,LosAngelesLakers,LukeWalton,Basketball,AtlantaHawks,JeanieBuss,MagicJohnson,NBA,IndianaPacers,RobPelinka",kw:"luke,person,walton,loss,talk,season,office,lakers,media,team,people,atlanta,Lakers,week,player,Luke,Walton,support,weeks,rest,effort,time,ankle,matter,knowledge",
+tg:"Basketball",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-article-header" data-pb-name="Article Header" data-pb-curated="curated" id="f4I3D42XrdhThr"> <div class="card"> <div class="card-content align-left"> <ul class="tag-list-wrapper list-unstyled flex-container-row align-left"> <li> <a class="tag tag-solid tag-first" href="https://www.latimes.com/sports/lakers/#nt=taxonomy-article"> Lakers </a> </li> <li> <a class="tag tag-solid tag-last" href="https://www.latimes.com/sports/#nt=taxonomy-article"> Sports </a> </li> </ul> <h1 class="spaced spaced-xl spaced-top spaced-bottom">Luke Walton’s Lakers coaching job said to be safe in wake of loss to Hawks</h1> </div> <div class="card-footer flex-container-row flex-mobile-column align-items-center "> <div class="byline-container flex-container-row align-items-center"> <div class="hidden-mobile spaced spaced-right spaced-sm"> </div> <div class="byline-timestamp-container flex-container-row flex-tablet-column flex-mobile-column align-items-center"> <div class="byline-wrapper"> <span class="byline byline-article">By <a class="uppercase" aria-label="Broderick Turner" href="/la-bio-broderick-turner-staff.html#nt=byline" rel="author"><span class="uppercase">Broderick Turner</span></a> </span> </div> <span class="spaced spaced-right spaced-md hidden-mobile"></span> <div class="timestamp-wrapper "> <span class="timestamp timestamp-article "> Feb 13, 2019 </span> <span class="timestamp spaced spaced-sm spaced-left spaced-right ">|</span> <span class="timestamp timestamp-article "> 1:00 PM </span> </div> </div> </div> <span class="sharebar align-right flex"> <button class="button button-icon button-icon-hover-accent " aria-label="share on twitter" name="twitter" onclick="window.open( 'https://twitter.com/intent/tweet?text=Luke+Walton%E2%80%99s+Lakers+coaching+job+said+to+be+safe+in+wake+of+loss+to+Hawks&url=https%3A%2F%2Fwww.latimes.com%2Fsports%2Flakers%2Fla-sp-luke-walton-lakers-job-20190213-story.html', 'share_popup', 'height=500,width=650' ); return false;" role="button" data-arctrack="socialShareTwtr" data-referrer="" target="_blank" rel="noopener noreferrer"> <i class="fa fa-twitter button-icon-inset-accent"></i> </button> <button class="button button-icon button-icon-hover-accent " name="facebook" aria-label="share on facebook" onclick="window.open( 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.latimes.com%2Fsports%2Flakers%2Fla-sp-luke-walton-lakers-job-20190213-story.html&title=Luke+Walton%E2%80%99s+Lakers+coaching+job+said+to+be+safe+in+wake+of+loss+to+Hawks', 'share_popup', 'height=500,width=650' ); return false;" data-arctrack="socialShareFb" data-referrer="" data-href="https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html" target="_blank" rel="noopener noreferrer"> <i class="fa fa-facebook-square button-icon-inset-accent"></i> </button> <a class="button button-icon button-icon-hover-accent " href="mailto:?subject=Luke%20Walton%E2%80%99s%20Lakers%20coaching%20job%20said%20to%20be%20safe%20in%20wake%20of%20loss%20to%20Hawks&body=https%3A%2F%2Fwww.latimes.com%2Fsports%2Flakers%2Fla-sp-luke-walton-lakers-job-20190213-story.html" role="button" aria-label="share story via email" data-arctrack="socialShareEmail" data-referrer="" rel="noopener noreferrer"> <i class="fa fa-share button-icon-inset-accent"></i> </a> </span> </div> </div> </div> <div class="pb-container"> </div> </header> <section id="left" class="left guttered width-100"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-utilities-lead-art" data-pb-name="Lead Art" data-pb-curated="curated" id="f0MUVW5XrdhThr"> <div class="card card-captioned "> <div class="card-content"> <figure class=""> <div class="full-width img-container aspect-ratio-no-aspect"> <img class="full-width" alt="Luke Walton’s Lakers coaching job said to be safe in wake of loss to Hawks" src="https://www.latimes.com/resizer/KP7IQ6Bp9Rz1DSHQ5EF6G9ii8S0=/415x0/www.trbimg.com/img-5c647b6e/turbine/la-1550089062-symz4i32l6-snap-image" data-src="https://www.latimes.com/resizer/aK37CwgQsy3nX0Iowz7WcohzkqU=/1200x0/www.trbimg.com/img-5c647b6e/turbine/la-1550089062-symz4i32l6-snap-image" data-src-small="https://www.latimes.com/resizer/KP7IQ6Bp9Rz1DSHQ5EF6G9ii8S0=/415x0/www.trbimg.com/img-5c647b6e/turbine/la-1550089062-symz4i32l6-snap-image" data-src-medium="https://www.latimes.com/resizer/CMtXDZ17nL9ANPqCKMKpBJZ0EMk=/800x0/www.trbimg.com/img-5c647b6e/turbine/la-1550089062-symz4i32l6-snap-image"/> </div> <figcaption class="caption-text spaced spaced-top spaced-sm flex-container-row justify-space-between "> <div>Lakers coach Luke Walton looks on during the first half the team's 143-120 loss to the Philadelphia 76ers on Sunday. (Chris Szagola / Associated Press)</div> </figcaption> </figure> </div> </div> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-article-body" data-pb-name="Article Body (Elements)" data-pb-curated="curated" id="f0aYpgiXrdhThr"> <div class=""> </div> <div class="collection collection-cards"> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p data-page="1">There have been no internal discussions about <a href="https://www.latimes.com/sports/lakers/?_lb=1" target="_blank" rel="noopener">Lakers</a> coach Luke Walton&#8217;s job status in the wake of the <a href="https://www.latimes.com/sports/lakers/la-sp-lakers-hawks-20190212-story.html" target="_blank" rel="noopener">team&#8217;s</a><a href="https://www.latimes.com/sports/lakers/la-sp-lakers-hawks-20190212-story.html" target="_blank" rel="noopener"> loss to the lowly Atlanta Hawks</a> on Tuesday night, according to people with knowledge of the situation not authorized to speak publicly on the sensitive matter.</p> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>Walton &#8220;will definitely finish the season&#8221; and has the full support of the Lakers&#8217; front office, one person said.</p> </div></div> <div class="mobile-dfp inline-ad hidden-desktop" data-inline-ad-count="1"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" data-pb-name="DFP Ad" data-pb-curated="curated" id="f0GCTKqHaBNcjr"> <div class="pb-ad pb-ad-prod ad-300x250 hidden-desktop relative"> <div class="ad-caption-text align-center uppercase">Advertisement</div> <div id="sports_basketball_nba_lakers_1317" class="hidden"> > </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"sports_basketball_nba_lakers_1317",adType:"cube",slotName:"/4011/trb.latimes/sports/basketball/nba/lakers",displayMobile:true,displayDesktop:false,isOOP:false,is5x1:false,dimensionsString:"[[300, 250]]",sizemapString:"",sizemapRefresh:"false",refreshOnPhotoChange:false,includeInA9:true,includeInIndexExchange:false,options:{ptype:"s",
+iab:"sports",apv:"false",site:"trb.latimes",slug:"la-sp-luke-walton-lakers-job-20190213",cid:"112848739",at:"Coaches,LosAngelesLakers,LukeWalton,Basketball,AtlantaHawks,JeanieBuss,MagicJohnson,NBA,IndianaPacers,RobPelinka",kw:"luke,person,walton,loss,talk,season,office,lakers,media,team,people,atlanta,Lakers,week,player,Luke,Walton,support,weeks,rest,effort,time,ankle,matter,knowledge",tg:"Basketball",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>Lakers owner Jeanie Buss, president of basketball operations Magic Johnson and general manager Rob Pelinka are all on the same page regarding Walton being the coach for the rest of the season, the people said.</p> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>Buss especially wants to give Walton every opportunity to succeed, one person said.</p> </div></div> <div class="desktop-nativo mobile-yieldmo inline-ad " data-inline-ad-count="2"> <span class="hidden-desktop"> <div class="wrapper clearfix col pb-feature pb-layout-item pb-f-ads-yieldmo" data-pb-name="Yieldmo Ad" data-pb-curated="curated" id=""> </div></span> <span class="hidden-mobile"><div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-nativo" data-pb-name="Nativo Ad" data-pb-curated="curated" id="f5VgOp14bBNcjr"> <div class="hidden-mobile"> <div id="12891" data-nativo-id-desktop="1081131" class="desktop-nativo-ad trb_ar_nt"></div> </div> </div></span> </div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>&#8220;Nothing is going to happen with Luke,&#8221; that person said. &#8220;There hasn&#8217;t even been any talk about it and there won&#8217;t be any talks about it. Luke will definitely finish the season and he has the full support. So any talk in the media or on social media can be put to bed about Luke. He&#8217;s not going anywhere. There has been no conversation about it.&#8221;</p> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>The Lakers want Walton to hold his players &#8220;accountable.&#8221; The Lakers&#8217; front office personnel want to see player and team improvement as well as Walton make better in-game adjustments, the people said.</p> </div></div> <div data-type="story" class="card card-pull-left "> <div class=" card-content "> <div class=" align-items-start flex-container-column"> <div class="art width-100 spaced spaced-bottom spaced-md"> <figure class=""> <div class="full-width img-container aspect-ratio-4x3"> <a href="http://www.latimes.com/sports/lakers/la-sp-lakers-hawks-20190212-story.html"> <img class="b-lazy full-width" alt="" data-src="https://www.latimes.com/resizer/3e-vxQRbcTBOCybOdt-mUGcLbLA=/1200x900/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WDL4HLED3FGGFH653GJOTOR5QI.jpg" data-src-small="https://www.latimes.com/resizer/goRrC0jCfd1X-sq7BlbgW7bDUJY=/415x311/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WDL4HLED3FGGFH653GJOTOR5QI.jpg" data-src-medium="https://www.latimes.com/resizer/d8xFDrciptqIrmsNcBuZEXygV8g=/800x600/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WDL4HLED3FGGFH653GJOTOR5QI.jpg" src="/pb/resources/images/tinygif.gif"/> </a> </div> </figure> </div> <div class="width-100 flex-container-column"> <div class="h7 "><a href="http://www.latimes.com/sports/lakers/la-sp-lakers-hawks-20190212-story.html">LeBron James' triple-double not enough for Lakers, who fall below .500 with loss to Hawks</a></div> <div class="spaced spaced-sm spaced-top byline-container flex-container-row align-items-center"> <div class="flex-container-row hidden"> </div> <div class="byline-timestamp-container flex-container-column align-items-start"> <div class="byline-wrapper flex-container-row hidden"> <span class="byline ">By <a class="uppercase" aria-label="Tania Ganguli" href="/la-bio-tania-ganguli-staff.html#nt=byline" rel="author"><span class="uppercase">Tania Ganguli</span></a> </span> </div> <span class="spaced spaced-right spaced-md hidden-mobile"></span> <div class="timestamp-wrapper "> <span class="timestamp "> Feb 12, 2019 </span> <span class="timestamp spaced spaced-sm spaced-left spaced-right ">|</span> <span class="timestamp "> 9:25 PM </span> </div> </div> </div> <div class="flex-container-column"> </div> </div> </div> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>One of the many sore points with the front office is that the Lakers are the worst free-throw shooting team in the NBA, at 68.7%, after finishing last in the league in the same category last season at 71.4%.</p> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>During the loss to the Hawks in Atlanta, there seemed to be some &#8220;disconnect&#8221; between Walton and the players, one person said.</p> </div></div> <div class="mobile-nativo inline-ad hidden-desktop" data-inline-ad-count="3"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-nativo" data-pb-name="Nativo Ad" data-pb-curated="curated" id="f0aYEN5IbBNcjr"> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>LeBron James didn&#8217;t look &#8220;totally engaged,&#8221; despite producing a triple-double of 28 points, 16 assists and 11 rebounds, one person said.</p> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>Another person said all the players had &#8220;bad body language&#8221; during the loss, which dropped the Lakers below .500 (28-29) for the first time since November. The Lakers are currently 10th in the Western Conference standings, 2&#189; games behind eighth-place Sacramento (30-26) for the final playoff spot..</p> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>Another person said that Johnson, who was at the game in Atlanta, didn&#8217;t like how the team played with such &#8220;low energy&#8221;.</p> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>The Lakers&#8217; <a href="https://www.latimes.com/sports/lakers/la-sp-lakers-pacers-20190205-story.html" target="_blank" rel="noopener">42-point loss</a> to the Indiana Pacers last week was disturbing to the front office, one person said, and the poor defensive effort in the <a href="https://www.latimes.com/sports/lakers/la-sp-lakers-76ers-takeaways-20190211-story.html" target="_blank" rel="noopener">23-point loss</a> to the Philadelphia 76ers on Sunday was problematic.</p> </div></div> <div class="mobile-yieldmo inline-ad hidden-desktop" data-inline-ad-count="4"> <div class="wrapper clearfix col pb-feature pb-layout-item pb-f-ads-yieldmo" data-pb-name="Yieldmo Ad" data-pb-curated="curated" id=""> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>The stirring, last-second 129-128 <a href="https://www.latimes.com/sports/lakers/la-sp-lakers-celtics-20190207-story.html" target="_blank" rel="noopener">win at Boston</a> between those defeats was impressive, one person said, and that&#8217;s the kind of effort the front office wants to see.</p> </div></div> <div data-type="interstitial_link" class="card collection-item"> <div class=" card-content "> <span class="roadblock"> <strong><a href="https://www.latimes.com/la-newsletter-lakers-signup-page-htmlstory.html">Sign up for our Lakers newsletter »</a></strong> </span> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>In evaluating Walton this season, the Lakers have taken into account all the injuries he has had to deal with heading into the All-Star break this weekend.</p> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>Starting point guard Lonzo Ball is still out recovering from a sprained left ankle. He&#8217;s expected back after the break.</p> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>James missed 18 games while recovering from a groin injury. Rajon Rondo was out five weeks because of a broken right hand and sat out another four weeks after he had surgery for a Grade 3 sprain of his right ring finger. Brandon Ingram missed two weeks because of a sprained ankle.</p> </div></div> <div class="mobile-dfp inline-ad hidden-desktop" data-inline-ad-count="5"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" data-pb-name="DFP Ad" data-pb-curated="curated" id="facbVf21cBNcjr"> <div class="pb-ad pb-ad-prod ad-300x250 hidden-desktop relative"> <div class="ad-caption-text align-center uppercase">Advertisement</div> <div id="sports_basketball_nba_lakers_965" class="hidden"> > </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"sports_basketball_nba_lakers_965",adType:"cube",slotName:"/4011/trb.latimes/sports/basketball/nba/lakers",displayMobile:true,displayDesktop:false,isOOP:false,is5x1:false,dimensionsString:"[[300, 250]]",sizemapString:"",sizemapRefresh:"false",refreshOnPhotoChange:false,includeInA9:true,includeInIndexExchange:false,options:{ptype:"s",
+iab:"sports",apv:"false",site:"trb.latimes",slug:"la-sp-luke-walton-lakers-job-20190213",cid:"112848739",at:"Coaches,LosAngelesLakers,LukeWalton,Basketball,AtlantaHawks,JeanieBuss,MagicJohnson,NBA,IndianaPacers,RobPelinka",kw:"luke,person,walton,loss,talk,season,office,lakers,media,team,people,atlanta,Lakers,week,player,Luke,Walton,support,weeks,rest,effort,time,ankle,matter,knowledge",tg:"Basketball",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>But there was a time when the Lakers were healthy andhad climbed to fourth in the West in late December.</p> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>With 25 regular-season games remaining, the front office wants to see the Lakers make a push for the playoffs by playing better, more inspired basketball the rest of the way.</p> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>&#8220;Everyone believes in Luke,&#8221; one person said. &#8220;Now it&#8217;s about him getting the best out of the team.&#8221;</p> </div></div> <div data-type="raw_html" class="card card-pull-center collection-item card-border-bottom card-border-bottom-thick card-border-bottom-dark"> <div class=" card-content "> <div class="element element-rawhtml "> <iframe src="https://art19.com/shows/arrive-early-leave-late/episodes/f9585c83-2bf4-41ea-ab15-7920ca0f9313/embed?theme=dark-blue" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe><script id="snap_blurb_ratios">var parentDoc=parent.document.body,resizeFrame=function(){var e=[],t="none";parentDoc.clientWidth<420?(e=document.getElementsByClassName("lat-embed-small"),t="block"):(e=document.getElementsByClassName("lat-embed-small"),t="none");for(var a=0;a<e.length;a++)e[a].style.display=t;parentDoc.clientWidth>=420&&parentDoc.clientWidth<840?(e=document.getElementsByClassName("lat-embed-medium"),t="block"):(e=document.getElementsByClassName("lat-embed-medium"),t="none");for(var a=0;a<e.length;a++)e[a].style.display=
+t;parentDoc.clientWidth>=840?(e=document.getElementsByClassName("lat-embed-large"),t="block"):(e=document.getElementsByClassName("lat-embed-large"),t="none");for(var a=0;a<e.length;a++)e[a].style.display=t};parent.window.addEventListener("resize",resizeFrame,!1);</script></div> </div></div> </div> </div> <div class="wrapper clearfix spaced spaced-none full pb-feature pb-layout-item pb-f-global-newsletter-promo" data-pb-name="Newsletter Promo Card" data-pb-curated="curated" id="f0Z0PMYXrdhThr"> <div class="card card-border-bottom card-border-bottom-thick "> <div class="card-content flex-grid"> <div class="flex-container-row col col-desktop-6 col-tablet-6 col-mobile-6 "> <div class="flex-grid justify-center"> <div class="col col-desktop-6 col-tablet-6 col-mobile-6"> <div class="flex-container-row "> <div class="flex-container-column"> <div class="newsletter-promo-image"> <figure class=""> <div class="left-element image-xs img-container aspect-ratio-1x1"> <img class="b-lazy full-width" alt="A promotional image." data-src="https://www.latimes.com/resizer/SgO_bjkjTHicOTJo4OXeRmvxEgY=/72x72/www.trbimg.com/img-5c37057d/turbine/la-me-sports-20190110" data-src-small="" data-src-medium="" src="/pb/resources/images/tinygif.gif"/> </div> </figure> </div> </div> <div class="flex-container-column flex-fill"> <div class="newsletter-promo-text "> <div> <h6 class="flex capitalized">The Sports Report Newsletter</h6> </div> <div class="caption-text">Daily</div> <div> <hr class=""/> </div> <div class="preview-text">The best, most interesting and strangest stories of the day from the L.A. sports scene and beyond. </div> </div> </div> </div> <div class="flex-container-row"> <figure> <div class="hidden-tablet hidden-mobile left-element image-xs img-container aspect-ratio-1x1"></div> </figure> <form data-cm-aid="2089072581" data-captcha-site-key="6Lf5_S8UAAAAAHl7F1vVNEm3Pwvl_ny1q_dp-mAf" data-api-key="tvAHqD6ZBD9EdKJVv1boM4urZVhuN6lW7nArA4Ar" data-endpoint="https://api.nlr.tronc.com/v3/newsletters/subscriptions" data-newsletter-id="d3f3656fb8" data-newsletter-esp = 'mc' class="form-inline flex-container-row flex-fill spaced spaced-top spaced-md"> <input title="Enter your email address here" type="email" placeholder="ENTER YOUR EMAIL ADDRESS"/> <button name="submit" aria-label="submit" type="submit" class="button-icon button-accent button-submit button-xl button-rounded"> <i class="fa fa-angle-right"></i> </button> <button name="error" aria-label="error" type="submit" class="button-icon button-error button-lg button-rounded"> <i class="fa fa-exclamation"></i> </button> <button disabled name="loading" class="button-icon button-accent button-rounded button-lg button-loading"> <i class="fa fa-circle-o-notch fa-spin fa-fw"></i> </button> <div id="recaptcha"></div> </form> <div data-role="newsletter-form-success" class="newsletter-success-message call-to-action spaced spaced-top spaced-lg hidden">You are now following this newsletter. <a href="http://newsletters.latimes.com/" class="underlined">See all newsletters.</a> </div> </div> </div> </div> </div> </div> </div> </div> <div id="f0oPECNXrdhThr" class="pb-async pb-feature"></div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" data-pb-name="DFP Ad" data-pb-curated="curated" data-pb-id="article-mobile-cube-above-comments" id="f0nMbeGXrdhThr"> <div class="pb-ad pb-ad-prod ad-300x250 hidden-desktop relative"> <div class="ad-caption-text align-center uppercase">Advertisement</div> <div id="sports_basketball_nba_lakers_250" class="hidden"> > </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"sports_basketball_nba_lakers_250",adType:"cube",slotName:"/4011/trb.latimes/sports/basketball/nba/lakers",displayMobile:true,displayDesktop:false,isOOP:false,is5x1:false,dimensionsString:"[[300, 250]]",sizemapString:"",sizemapRefresh:"false",refreshOnPhotoChange:false,includeInA9:true,includeInIndexExchange:true,options:{ptype:"s",
+iab:"sports",apv:"false",site:"trb.latimes",slug:"la-sp-luke-walton-lakers-job-20190213",cid:"112848739",at:"Coaches,LosAngelesLakers,LukeWalton,Basketball,AtlantaHawks,JeanieBuss,MagicJohnson,NBA,IndianaPacers,RobPelinka",kw:"luke,person,walton,loss,talk,season,office,lakers,media,team,people,atlanta,Lakers,week,player,Luke,Walton,support,weeks,rest,effort,time,ankle,matter,knowledge",tg:"Basketball",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-article-comments" data-pb-name="Article Comments" data-pb-curated="curated" id="f0zMF79XrdhThr"> <div class="align-center"> <button name="show-comments" aria-label="show-comments" data-comments="show" class="button-comments-view button-solid button-accent full-width" data-role="toggle-comments" data-arctrack="commentsOpened"> Be the first to comment </button> <button name="hide-comments" aria-label="hide-comments" data-comments="hide" class="button-comments-hide button-solid button-accent full-width hidden" data-role="toggle-comments">Hide Comments</button> </div> <div class="trb_cm_so" data-role="cm_container"> <div data-role="comments" data-comments-id="112848739" class="so_comments hidden" data-sitename="lanewsprod" data-content-id="lanews112848739" data-type="promo-comment" data-publisher="tronc"></div> </div> <noscript>Please enable JavaScript to view the <a href="http://solidopinion.com/">comments powered by SolidOpinion.</a></noscript> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-article-video-playlist" data-pb-name="Video Playlist" data-pb-curated="curated" id="fepYvV1XrdhThr"> <div class="card"> <div class="card flex-container-column align-items-stretch"> <div class="card-header flex-container-row align-items-center"> <div class="logo logo-full logo-src-1 header-logo"></div> </div> </div> <div class="card-content"> <div id="pb-179767"></div> <div class="brightcove-info" data-account="3690581438001" data-player="HkhIMtvwW"></div> <div class="goldfish-info" data-script-path="diodxcszlbmwk" data-environment="prod"></div> <script id="react-179767">
+
+      const videos179767 = [
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+              
+                  
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "https://www.latimes.com/resizer/MSNlDZ8np75qPAYEqognyL6JTgQ=/140x79/d3jj1xescvzl2o.cloudfront.net/02-20-2019/t_436314eab8d24c099f928755ff31560a_name_la_sp_comments_from_mlb_commissioner_rob_manfred_20190219",
+              headline: "Comments from MLB commissioner Rob Manfred",
+              brightcoveVideoId: "GUDRNF4GORBRVDM62AKELEY53M",
+              goldfishVideoId: "GUDRNF4GORBRVDM62AKELEY53M",
+              urlId: "112904800",
+              site: "",
+              date: "Feb 19, 2019",
+              duration: "201962",
+              description: "Rob Manfred commented on numerous subjects during media day at Spring Training in Glendale, AZ",
+              rand: "179767",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "",
+  "data-arctrack-item-videoid": "112904800",
+  "data-arctrack-item-classification": "",
+  "data-arctrack-item-name": "Comments from MLB commissioner Rob Manfred",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+              
+                  
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "https://www.latimes.com/resizer/W_JugsTg9E4TqMTq7aU98rHviNs=/140x79/d3jj1xescvzl2o.cloudfront.net/02-20-2019/t_f535d9785e614e97ad56745e4b99aee1_name_la_sp_dave_roberts_rob_manfred_and_the_padres_comment_on_manny_machado_20190219_scaled.jpg",
+              headline: "Dave Roberts, Rob Manfred, and the Padres comment on Manny Machado",
+              brightcoveVideoId: "JX2VXMMP3RB3HJAON54RQ7UFOQ",
+              goldfishVideoId: "JX2VXMMP3RB3HJAON54RQ7UFOQ",
+              urlId: "112904825",
+              site: "",
+              date: "Feb 19, 2019",
+              duration: "129258",
+              description: "Los Angeles Dodgers manager Dave Roberts, commissioner Rob Manfred, and San Diego Padres general manager A.J. Preller comment on the reports that Manny Machado signed with the Padres.",
+              rand: "179767",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "",
+  "data-arctrack-item-videoid": "112904825",
+  "data-arctrack-item-classification": "",
+  "data-arctrack-item-name": "Dave Roberts, Rob Manfred, and the Padres comment on Manny Machado",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+              
+                  
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "https://www.latimes.com/resizer/CiFs56gJbbnE-hSTW_Z0dCn0Sd4=/140x79/d3jj1xescvzl2o.cloudfront.net/02-20-2019/t_abb75ae3c8bd48d3b5aa61330856fdb2_name_la_sp_how_the_dodgers_and_angels_fared_in_the_offseason_20190219_scaled.jpg",
+              headline: "How the Dodgers and Angels fared in the offseason",
+              brightcoveVideoId: "L6NSTRIHBZGWTFACCUCXYK2TE4",
+              goldfishVideoId: "L6NSTRIHBZGWTFACCUCXYK2TE4",
+              urlId: "112904829",
+              site: "",
+              date: "Feb 19, 2019",
+              duration: "163882",
+              description: "Los Angeles Times sportswriters Andy McCullough and Maria Torres talk offeseaon moves for the Los Angeles Dodgers and the Los Angeles Angels.",
+              rand: "179767",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "",
+  "data-arctrack-item-videoid": "112904829",
+  "data-arctrack-item-classification": "",
+  "data-arctrack-item-name": "How the Dodgers and Angels fared in the offseason",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+      ]
+
+      if (videos179767.length > 0) {
+        window.serviceCallbacks.push(function() {
+          window.services.lazyLoadService.addPendingObject({
+            id: 179767,
+            el: document.getElementById("pb-179767"),
+            load: function() {
+              services.mountComponent({
+                component: 'VideoComponent',
+                props: {
+                  videos: videos179767,
+                  sharebar: "<span class=\"sharebar \">    <button class=\"button button-icon button-icon-hover-accent \"          aria-label=\"share on twitter\"          name=\"twitter\"          onclick=\"window.open(      'https://twitter.com/intent/tweet?&url=https%3A%2F%2Fwww.latimes.com%2F-132.html',      'share_popup',      'height=500,width=650'      ); return false;\"          role=\"button\"          data-arctrack=\"socialShareTwtr\"          data-referrer=\"\"                    target=\"_blank\" rel=\"noopener noreferrer\">          <i class=\"fa fa-twitter button-icon-inset-accent\"></i>        </button>    <button class=\"button button-icon button-icon-hover-accent \"            name=\"facebook\"            aria-label=\"share on facebook\"            onclick=\"window.open(      'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.latimes.com%2F-132.html',      'share_popup',      'height=500,width=650'      ); return false;\"            data-arctrack=\"socialShareFb\"            data-referrer=\"\"            data-href=\"https://www.latimes.com/sports/la-sports-video-playlist-premiumvideoplaylist.html\"                        target=\"_blank\" rel=\"noopener noreferrer\">          <i class=\"fa fa-facebook-square button-icon-inset-accent\"></i>        </button>    <a class=\"button button-icon button-icon-hover-accent \"      href=\"mailto:?subject=&body=https%3A%2F%2Fwww.latimes.com%2F-132.html\"      role=\"button\"      aria-label=\"share story via email\"      data-arctrack=\"socialShareEmail\"      data-referrer=\"\"      rel=\"noopener noreferrer\">      <i class=\"fa fa-share button-icon-inset-accent\"></i>    </a>          </span>",
+                  isPlaylist: true,
+                  showInfo: true,
+                  brightcoveAccountId: "3690581438001",
+                  brightcovePlayerId: "HkhIMtvwW",
+                  goldfishDataOrg: "tronc",
+                  rand: "179767"
+                },
+                id: 179767
+              })
+            }
+          })
+        })
+      }
+      </script> </div> </div> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-list-recommender" data-pb-name="Recommender" data-pb-curated="curated" data-pb-id="recommender-latest-news" id="f0i5tsgXrdhThr"> <div class="card flex-container-column align-items-stretch"> <div class="card-header flex-container-row align-items-center" style=""> <div class="flex"> Most Read </div> </div> <div class="card-content "> <ul class="list-unstyled collection collection-vertical collection-cards "> <li class="collection-item flex-container-row align-items-start collection-item-border-bottom "> <div class="flex-container-column align-items-start flex"> <ul class="tag-list-wrapper list-unstyled flex-container-row "> <li> <a class="tag tag-minimal tag-first" href="https://www.latimes.com/entertainment/#nt=taxonomy-article"> Entertainment </a> </li> </ul> <div> <a href="/entertainment/la-et-mn-emma-thompson-john-lasseter-skydance-20190226-story.html#nt=latestnews" class="recommender"> <h6> Emma Thompson’s letter to Skydance: Why I can’t work for John Lasseter </h6> </a> </div> <div class="timestamp collection-bottom-element"> <span class="timestamp "> 3:00 AM </span> </div> </div> <a aria-label="Emma Thompson’s letter to Skydance: Why I can’t work for John Lasseter" href="/entertainment/la-et-mn-emma-thompson-john-lasseter-skydance-20190226-story.html#nt=latestnews"> <figure class=""> <div class="right-element image-xs img-container aspect-ratio-1x1"> <img class="b-lazy full-width" alt="Emma Thompson’s letter to Skydance: Why I can’t work for John Lasseter" data-src="https://www.latimes.com/resizer/xpQiKjlh-CpCWu_rZvzrgZmZRl8=/72x72/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/3U5OG4WIX5F4FL75RJ4QZRVD4M.jpg" data-src-small="" data-src-medium="" src="/pb/resources/images/tinygif.gif"/> </div> </figure> </a> </li> <li class="collection-item flex-container-row align-items-start collection-item-border-bottom "> <div class="flex-container-column align-items-start flex"> <ul class="tag-list-wrapper list-unstyled flex-container-row "> <li> <a class="tag tag-minimal tag-first" href="https://www.latimes.com/sports/dodgers/#nt=taxonomy-article"> Dodgers </a> </li> </ul> <div> <a href="/sports/dodgers/la-sp-dodgers-dugout-harper-20190225-story.html#nt=latestnews" class="recommender"> <h6> Dodgers Dugout: The long and winding road to Bryce Harper may be near an end </h6> </a> </div> <div class="timestamp collection-bottom-element"> <span class="timestamp recent"> 1h </span> </div> </div> <a aria-label="Dodgers Dugout: The long and winding road to Bryce Harper may be near an end" href="/sports/dodgers/la-sp-dodgers-dugout-harper-20190225-story.html#nt=latestnews"> <figure class=""> <div class="right-element image-xs img-container aspect-ratio-1x1"> <img class="b-lazy full-width" alt="Dodgers Dugout: The long and winding road to Bryce Harper may be near an end" data-src="https://www.latimes.com/resizer/ejS0Ehj4L17xXu0o1RAL-XSuejk=/72x72/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EH5AX3QEBFDHFF3KFEIXRK57RY.jpg" data-src-small="" data-src-medium="" src="/pb/resources/images/tinygif.gif"/> </div> </figure> </a> </li> <li class="collection-item flex-container-row align-items-start collection-item-border-bottom last-item"> <div class="flex-container-column align-items-start flex"> <ul class="tag-list-wrapper list-unstyled flex-container-row "> <li> <a class="tag tag-minimal tag-first" href="https://www.latimes.com/entertainment/movies/#nt=taxonomy-article"> Movies </a> </li> </ul> <div> <a href="/entertainment/movies/la-et-mn-oscars-green-book-worst-best-picture-winner-20190224-story.html#nt=latestnews" class="recommender"> <h6> Oscars 2019: ‘Green Book’ is the worst best picture winner since ‘Crash’ </h6> </a> </div> <div class="timestamp collection-bottom-element"> <span class="timestamp "> Feb 24, 2019 </span> </div> </div> <a aria-label="Oscars 2019: ‘Green Book’ is the worst best picture winner since ‘Crash’" href="/entertainment/movies/la-et-mn-oscars-green-book-worst-best-picture-winner-20190224-story.html#nt=latestnews"> <figure class=""> <div class="right-element image-xs img-container aspect-ratio-1x1"> <img class="b-lazy full-width" alt="Oscars 2019: ‘Green Book’ is the worst best picture winner since ‘Crash’" data-src="https://www.latimes.com/resizer/qd1r4IajsN12ehBN0cQtes2gODQ=/72x72/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/JQM7CQWUZ5FLFJ4IPZ2X6LPD7A.jpg" data-src-small="" data-src-medium="" src="/pb/resources/images/tinygif.gif"/> </div> </figure> </a> </li> <li class="collection-item flex-container-row align-items-start hidden-mobile collection-item-border-bottom "> <div class="flex-container-column align-items-start flex"> <ul class="tag-list-wrapper list-unstyled flex-container-row "> <li> <a class="tag tag-minimal tag-first" href="https://www.latimes.com/politics/#nt=taxonomy-article"> Politics </a> </li> </ul> <div> <a href="/politics/la-na-pol-michael-cohen-trump-oversight-hearing-20190226-story.html#nt=latestnews" class="recommender"> <h6> In echoes of Watergate, Trump’s ex-lawyer is expected to tell all to House committee </h6> </a> </div> <div class="timestamp collection-bottom-element"> <span class="timestamp recent"> 2h </span> </div> </div> <a aria-label="In echoes of Watergate, Trump’s ex-lawyer is expected to tell all to House committee" href="/politics/la-na-pol-michael-cohen-trump-oversight-hearing-20190226-story.html#nt=latestnews"> <figure class=""> <div class="right-element image-xs img-container aspect-ratio-1x1"> <img class="b-lazy full-width" alt="In echoes of Watergate, Trump’s ex-lawyer is expected to tell all to House committee" data-src="https://www.latimes.com/resizer/61E-98YmBmndqjxJeQbWwXYfU10=/72x72/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/HORTPTUJPBEBJAB3SS6JE4Q5MI.jpg" data-src-small="" data-src-medium="" src="/pb/resources/images/tinygif.gif"/> </div> </figure> </a> </li> <li class="collection-item flex-container-row align-items-start hidden-mobile collection-item-border-bottom "> <div class="flex-container-column align-items-start flex"> <ul class="tag-list-wrapper list-unstyled flex-container-row "> <li> <a class="tag tag-minimal tag-first" href="https://www.latimes.com/local/lanow/#nt=taxonomy-article"> L.A. Now </a> </li> </ul> <div> <a href="/local/lanow/la-me-ln-uber-tax-los-angeles-20190226-story.html#nt=latestnews" class="recommender"> <h6> L.A. may tax Uber and Lyft rides to curb traffic congestion </h6> </a> </div> <div class="timestamp collection-bottom-element"> <span class="timestamp recent"> 1h </span> </div> </div> <a aria-label="L.A. may tax Uber and Lyft rides to curb traffic congestion" href="/local/lanow/la-me-ln-uber-tax-los-angeles-20190226-story.html#nt=latestnews"> <figure class=""> <div class="right-element image-xs img-container aspect-ratio-1x1"> <img class="b-lazy full-width" alt="L.A. may tax Uber and Lyft rides to curb traffic congestion" data-src="https://www.latimes.com/resizer/R-GrI1HNy7dckGLm8Vwj0LXRi5s=/72x72/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/Q2M3TRSFPZGPBM5VRA5WCF2KX4.jpg" data-src-small="" data-src-medium="" src="/pb/resources/images/tinygif.gif"/> </div> </figure> </a> </li> </ul> </div> </div> </div> <div class="pb-container"> </div> </section> <aside id="right-rail" class="right right-rail guttered flex-container-column"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" data-pb-name="DFP Ad" data-pb-curated="curated" data-pb-id="article-desktop-cube-right-rail" id="f9xg622XrdhThr"> <div class="pb-ad pb-ad-prod ad-300x250 hidden-mobile hidden-tablet relative"> <div class="ad-caption-text align-center uppercase">Advertisement</div> <div id="sports_basketball_nba_lakers_32" class="hidden" data-ad-type="cube"> > </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"sports_basketball_nba_lakers_32",adType:"cube",slotName:"/4011/trb.latimes/sports/basketball/nba/lakers",displayMobile:false,displayDesktop:true,isOOP:false,is5x1:false,dimensionsString:"[[300, 600], [300, 250]]",sizemapString:"",sizemapRefresh:"false",refreshOnPhotoChange:false,includeInA9:true,includeInIndexExchange:true,
+options:{ptype:"s",iab:"sports",apv:"false",site:"trb.latimes",slug:"la-sp-luke-walton-lakers-job-20190213",cid:"112848739",at:"Coaches,LosAngelesLakers,LukeWalton,Basketball,AtlantaHawks,JeanieBuss,MagicJohnson,NBA,IndianaPacers,RobPelinka",kw:"luke,person,walton,loss,talk,season,office,lakers,media,team,people,atlanta,Lakers,week,player,Luke,Walton,support,weeks,rest,effort,time,ankle,matter,knowledge",tg:"Basketball",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div> <div id="f0IqhqOXrdhThr" class="pb-async pb-feature"></div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-list-recommender" data-pb-name="Recommender" data-pb-curated="curated" data-pb-id="recommender-site" id="f0kj1mNXrdhThr"> <div class="card flex-container-column align-items-stretch"> <div class="card-header flex-container-row align-items-center" style=""> <div class="flex"> Latest Lakers </div> </div> <div class="card-content "> <ul class="list-unstyled collection collection-vertical collection-cards "> <li class="collection-item flex-container-row align-items-start collection-item-border-bottom "> <div class="flex-container-column align-items-start flex"> <div> <a href="/sports/lakers/la-sp-lakers-grizzlies-takeaways-20190226-story.html#nt=related-content" class="recommender"> Five takeaways from the Lakers' 110-105 loss to Memphis </a> </div> <div class="timestamp collection-bottom-element"> <span class="timestamp recent"> 1h </span> </div> </div> <a aria-label="Five takeaways from the Lakers' 110-105 loss to Memphis" href="/sports/lakers/la-sp-lakers-grizzlies-takeaways-20190226-story.html#nt=related-content"> <figure class=""> <div class="right-element image-xs img-container aspect-ratio-1x1"> <img class="b-lazy full-width" alt="Five takeaways from the Lakers&#039; 110-105 loss to Memphis" data-src="https://www.latimes.com/resizer/K12R9aYPOY00cHFAvhPW3Ccfy0s=/72x72/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/HN7ZTMWNDBBS3DNYZDQFC7UNJA.jpg" data-src-small="" data-src-medium="" src="/pb/resources/images/tinygif.gif"/> </div> </figure> </a> </li> <li class="collection-item flex-container-row align-items-start collection-item-border-bottom "> <div class="flex-container-column align-items-start flex"> <div> <a href="/sports/lakers/la-sp-lakers-grizzlies-20190225-story.html#nt=related-content" class="recommender"> LeBron James' 79th triple-double isn't enough for Lakers in loss to Memphis </a> </div> <div class="timestamp collection-bottom-element"> <span class="timestamp "> Feb 25, 2019 </span> </div> </div> <a aria-label="LeBron James' 79th triple-double isn't enough for Lakers in loss to Memphis" href="/sports/lakers/la-sp-lakers-grizzlies-20190225-story.html#nt=related-content"> <figure class=""> <div class="right-element image-xs img-container aspect-ratio-1x1"> <img class="b-lazy full-width" alt="LeBron James&#039; 79th triple-double isn&#039;t enough for Lakers in loss to Memphis" data-src="https://www.latimes.com/resizer/tcbU7o_ae2-fXmYtaeLCyWfX8to=/72x72/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/XCMEJRO6A5B4VB5IAXCTE3X7LY.jpg" data-src-small="" data-src-medium="" src="/pb/resources/images/tinygif.gif"/> </div> </figure> </a> </li> <li class="collection-item flex-container-row align-items-start collection-item-border-bottom last-item"> <div class="flex-container-column align-items-start flex"> <div> <a href="/sports/lakers/la-sp-lakers-report-20190225-story.html#nt=related-content" class="recommender"> Lakers coach Luke Walton says there is no timetable for Lonzo Ball's return </a> </div> <div class="timestamp collection-bottom-element"> <span class="timestamp "> Feb 25, 2019 </span> </div> </div> <a aria-label="Lakers coach Luke Walton says there is no timetable for Lonzo Ball's return" href="/sports/lakers/la-sp-lakers-report-20190225-story.html#nt=related-content"> <figure class=""> <div class="right-element image-xs img-container aspect-ratio-1x1"> <img class="b-lazy full-width" alt="Lakers coach Luke Walton says there is no timetable for Lonzo Ball&#039;s return" data-src="https://www.latimes.com/resizer/pLMgosS8UPkzAYX2x8TmR_xaf3M=/72x72/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/ORZEWVFUQ5DX5GYUFK5CBAUXFU.jpg" data-src-small="" data-src-medium="" src="/pb/resources/images/tinygif.gif"/> </div> </figure> </a> </li> <li class="collection-item flex-container-row align-items-start hidden-mobile collection-item-border-bottom "> <div class="flex-container-column align-items-start flex"> <div> <a href="/sports/lakers/la-sp-lakers-report-20190224-story.html#nt=related-content" class="recommender"> LeBron James gives his ‘personal take’ on what’s gone wrong for Lakers </a> </div> <div class="timestamp collection-bottom-element"> <span class="timestamp "> Feb 24, 2019 </span> </div> </div> <a aria-label="LeBron James gives his ‘personal take’ on what’s gone wrong for Lakers" href="/sports/lakers/la-sp-lakers-report-20190224-story.html#nt=related-content"> <figure class=""> <div class="right-element image-xs img-container aspect-ratio-1x1"> <img class="b-lazy full-width" alt="LeBron James gives his ‘personal take’ on what’s gone wrong for Lakers" data-src="https://www.latimes.com/resizer/tGQKOHBSHo2fyB94D8s9TlMsJVA=/72x72/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EWZLX4MAFZBFFGP3MCVQLMMPEQ.jpg" data-src-small="" data-src-medium="" src="/pb/resources/images/tinygif.gif"/> </div> </figure> </a> </li> <li class="collection-item flex-container-row align-items-start hidden-mobile collection-item-border-bottom "> <div class="flex-container-column align-items-start flex"> <div> <a href="/sports/lakers/la-sp-lakers-pelicans-takeaways-20190224-story.html#nt=related-content" class="recommender"> Five takeaways from the Lakers’ loss to the Pelicans </a> </div> <div class="timestamp collection-bottom-element"> <span class="timestamp "> Feb 24, 2019 </span> </div> </div> <a aria-label="Five takeaways from the Lakers’ loss to the Pelicans" href="/sports/lakers/la-sp-lakers-pelicans-takeaways-20190224-story.html#nt=related-content"> <figure class=""> <div class="right-element image-xs img-container aspect-ratio-1x1"> <img class="b-lazy full-width" alt="Five takeaways from the Lakers’ loss to the Pelicans" data-src="https://www.latimes.com/resizer/MrU1SA380KohzY5OvQyfIOtdB70=/72x72/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/XMCOFYM7JJAT5EKQUOZ3HMEYXY.jpg" data-src-small="" data-src-medium="" src="/pb/resources/images/tinygif.gif"/> </div> </figure> </a> </li> </ul> </div> </div> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-article-dynamic-rail-ads" data-pb-name="Dynamic Rail-ads" data-pb-curated="curated" data-pb-id="article-dynamic-rail-ads" id="f0suYQkXrdhThr"> <div id="dynamic-rail-ads" class="dynamic-rail-wrapper hidden-tablet hidden-mobile" data-slot-name="sports/basketball/nba/lakers" data-ad-canonical="/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html" data-ad-site="latimes" data-ix="true" data-a9="true"></div> </div> <div class="pb-container"> </div> </aside> <aside id="left-bottom" class="left guttered"> <div id="fkoESq1XrdhThr" class="pb-async pb-feature"></div> <div class="pb-container"> </div> </aside> </article> <section id="bottom" class="full-columns container"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" data-pb-name="DFP Ad" data-pb-curated="curated" data-pb-id="article-desktop-bottom-leaderboard" id="f0IC2ApXrdhThr"> <div class="pb-ad pb-ad-prod ad-320x50 relative"> <div class="ad-caption-text align-center uppercase">Advertisement</div> <div id="sports_basketball_nba_lakers_1974" class="hidden" data-ad-type="leaderboard"> > </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"sports_basketball_nba_lakers_1974",adType:"leaderboard",slotName:"/4011/trb.latimes/sports/basketball/nba/lakers",displayMobile:true,displayDesktop:true,isOOP:false,is5x1:false,dimensionsString:" [[[970, 250], [970, 90], [728, 90]], [[728, 90]], [[320, 50]]] ",sizemapString:"[[1280, 0], [800, 0], [0, 0]]",sizemapRefresh:"true",
+refreshOnPhotoChange:false,includeInA9:true,includeInIndexExchange:true,options:{ptype:"s",iab:"sports",apv:"false",site:"trb.latimes",slug:"la-sp-luke-walton-lakers-job-20190213",cid:"112848739",at:"Coaches,LosAngelesLakers,LukeWalton,Basketball,AtlantaHawks,JeanieBuss,MagicJohnson,NBA,IndianaPacers,RobPelinka",kw:"luke,person,walton,loss,talk,season,office,lakers,media,team,people,atlanta,Lakers,week,player,Luke,Walton,support,weeks,rest,effort,time,ankle,matter,knowledge",tg:"Basketball",design:"arc",
+nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" data-pb-name="DFP Ad" data-pb-curated="curated" data-pb-id="article-responsive-teads-tout" id="f7xBRB1XrdhThr"> <div class="pb-ad pb-ad-prod ad-5x1 hidden"> <div id="sports_basketball_nba_lakers_27" class="hidden" data-ad-type="teads-and-tout"> > </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"sports_basketball_nba_lakers_27",adType:"teads-and-tout",slotName:"/4011/trb.latimes/sports/basketball/nba/lakers",displayMobile:true,displayDesktop:true,isOOP:false,is5x1:true,dimensionsString:"[[5, 1]]",sizemapString:"",sizemapRefresh:"false",refreshOnPhotoChange:false,includeInA9:false,includeInIndexExchange:false,
+options:{ptype:"s",iab:"sports",apv:"false",site:"trb.latimes",slug:"la-sp-luke-walton-lakers-job-20190213",cid:"112848739",at:"Coaches,LosAngelesLakers,LukeWalton,Basketball,AtlantaHawks,JeanieBuss,MagicJohnson,NBA,IndianaPacers,RobPelinka",kw:"luke,person,walton,loss,talk,season,office,lakers,media,team,people,atlanta,Lakers,week,player,Luke,Walton,support,weeks,rest,effort,time,ankle,matter,knowledge",tg:"Basketball",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" data-pb-name="DFP Ad" data-pb-curated="curated" data-pb-id="article-responsive-oop" id="f0hm38MXrdhThr"> <div class="pb-ad pb-ad-prod ad-reskin pb-ad-oop hidden"> <div id="sports_basketball_nba_lakers_1048" class="hidden" data-ad-type="reskin"> > </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"sports_basketball_nba_lakers_1048",adType:"reskin",slotName:"/4011/trb.latimes/sports/basketball/nba/lakers",displayMobile:true,displayDesktop:true,isOOP:true,is5x1:false,dimensionsString:"",sizemapString:"",sizemapRefresh:"false",refreshOnPhotoChange:false,includeInA9:false,includeInIndexExchange:false,options:{ptype:"s",
+iab:"sports",apv:"false",site:"trb.latimes",slug:"la-sp-luke-walton-lakers-job-20190213",cid:"112848739",at:"Coaches,LosAngelesLakers,LukeWalton,Basketball,AtlantaHawks,JeanieBuss,MagicJohnson,NBA,IndianaPacers,RobPelinka",kw:"luke,person,walton,loss,talk,season,office,lakers,media,team,people,atlanta,Lakers,week,player,Luke,Walton,support,weeks,rest,effort,time,ankle,matter,knowledge",tg:"Basketball",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div> <div class="pb-container"> <div class="wrapper clearfix col col-desktop-6 col-tablet-6 col-mobile-6 pb-feature pb-layout-item pb-f-ads-dfp" data-pb-name="DFP Ad" data-pb-curated="curated" data-pb-id="article-amp-sticky" id="f0lpQpIXrdhThr"> </div> </div> <div id="fI5zWZ1XrdhThr" class="pb-async pb-feature"></div> <div class="pb-container"> </div> </section> </div> </div> <script>var pb_global={pageName:"article-right-rail",pageId:"r0MojvyV1otcjr",contextPath:"/pb",isAdmin:false,layoutEngineName:"",environment:"production",resourceToken:""};</script> <script>(function(){window.pageBuilder=window.pageBuilder||{};var testIdToFeatureId={};var status={};var TIMEOUT=1500;var TIME_NOW=Date.now();var BANDITO_IS_ADMIN=null;var BANDITO_PERF_API=null;var BANDITO_TESTS_API=null;var BANDITO_EVENTS_API=null;var supportsPassive=false;try{var opts=Object.defineProperty({},"passive",{get:function(){supportsPassive=true}});window.addEventListener("test",null,opts)}catch(e){}var visibilityCallbacks={};function visibilityCallback(){var config=null;var element=null;var callback=
+null;var body=document.body;var html=document.documentElement;var height=html.clientHeight||body.clientHeight;for(var key in visibilityCallbacks)if(visibilityCallbacks.hasOwnProperty(key)){config=visibilityCallbacks[key];if(config){element=config[0];callback=config[1];var boundaries=element.getBoundingClientRect();if(boundaries.top>0&&boundaries.top<height){callback();visibilityCallbacks[key]=null}}}}window.addEventListener("resize",visibilityCallback,supportsPassive?{passive:true}:false);document.addEventListener("scroll",
+visibilityCallback,supportsPassive?{passive:true}:false);function ajax(url,success,failure,timeout){var xhr=new XMLHttpRequest;xhr.open("GET",url);xhr.onreadystatechange=function(){if(xhr.readyState==4)if(xhr.status===200)try{var response=JSON.parse(xhr.responseText);success(response)}catch(e){failure()}else failure()};if(timeout){xhr.ontimeout=failure;xhr.timeout=timeout}xhr.send()}function perf(status){var elapsed=Date.now()-TIME_NOW;var url=BANDITO_PERF_API+"?status\x3d"+status+"\x26time\x3d"+
+elapsed;ajax(url,function(){},function(){})}function showDefaultVariants(){for(var id in window._variantFeatureIds)if(window._variantFeatureIds.hasOwnProperty(id)){perf("failure");showDefaultVariant(window._variantFeatureIds[id],false)}}function iterateFeatures(testId,callback){var id,feature;for(id in window._variantFeatureIds)if(window._variantFeatureIds.hasOwnProperty(id))if(window._variantFeatureIds[id]==testId){feature=document.getElementById(id);if(feature)callback(feature)}}function showDefaultVariant(testId,
+success){iterateFeatures(testId,function(feature){variantLoaded(testId,testId,feature,success)})}function showOtherVariant(testId,winner,timeLeft){var uri=window._context+"/api/v2/render/feature/variant/"+winner+"?rid\x3d"+window._rid+"\x26uri\x3d"+window._uri+"\x26outputType\x3d"+window._outputType;ajax(uri,function(response){iterateFeatures(testId,function(feature){var resources=response.pageResources||{};var parent=feature.parentNode;var div=document.createElement("div");div.innerHTML=response.rendering.trim();
+var newFeature=div.childNodes[0];parent.replaceChild(newFeature,feature);var scripts=Array.prototype.slice.call(newFeature.getElementsByTagName("script"));for(var i=0;i<scripts.length;i++)if(scripts[i]["type"]==""||scripts[i]["type"]=="text/javascript")if(scripts[i].src!=""){var s=document.createElement("script");s.setAttribute("src",scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility="visible";if(success){feature.addEventListener("click",
+function(event){var url=null;var target=event.target;while(target&&!(target.tagName.toUpperCase()=="A")&&!(target==feature))target=target.parentNode;if(target.tagName.toUpperCase()=="A"){url=target.href;if(url){var request=new XMLHttpRequest;request.open("POST",BANDITO_EVENTS_API,true);request.setRequestHeader("Content-Type","application/json");request.send(JSON.stringify({event:"clicked",test_id:testId,variant_id:variantId}));if(event.button>0||event.ctrlKey||event.metaKey||event.shiftKey);else{event.preventDefault();
+setTimeout(function(){document.location=url},250)}}}});visibilityCallbacks[tag]=[feature,function(){var request=new XMLHttpRequest;request.open("POST",BANDITO_EVENTS_API,true);request.setRequestHeader("Content-Type","application/json");request.send(JSON.stringify({event:"served",test_id:testId,variant_id:variantId}))}];visibilityCallback()}}}function loadVariants(tests){var testsFound={},testId,winner,timeLeft;if(tests&&tests["length"]){for(var i=0;i<tests.length;i++){winner=tests[i]["winner"];testId=
+tests[i]["_id"];testsFound[testId]=true;if(testId==winner){perf("success-default");showDefaultVariant(testId,true)}else{timeLeft=TIMEOUT-(Date.now()-TIME_NOW);if(timeLeft>50)showOtherVariant(testId,winner,timeLeft);else{perf("timeout-step1");showDefaultVariant(testId,false)}}}for(var id in window._variantFeatureIds)if(window._variantFeatureIds.hasOwnProperty(id)){testId=window._variantFeatureIds[id];if(!testsFound[testId]){perf("not-found");showDefaultVariant(testId,false)}}}else showDefaultVariants()}
+window.pageBuilder.initVariants=function(opts){opts=opts||{};TIMEOUT=opts["TIMEOUT"];BANDITO_IS_ADMIN=opts["IS_ADMIN"];BANDITO_PERF_API=opts["PERF_API"];BANDITO_TESTS_API=opts["TESTS_API"];BANDITO_EVENTS_API=opts["EVENTS_API"]};window.pageBuilder.showVariants=function(){if(BANDITO_IS_ADMIN)return;var tests=[];for(var id in window._variantFeatureIds)if(window._variantFeatureIds.hasOwnProperty(id)){var testId=window._variantFeatureIds[id];testIdToFeatureId[testId]=id;tests.push(testId)}if(tests.length>
+0){var url=BANDITO_TESTS_API+"?ids\x3d"+tests.join(",");ajax(url,loadVariants,showDefaultVariants)}}})();</script> <script>window.banditoEnv={TIMEOUT:1500,PERF_API:"https://bandito-events-prod.tronc.arcpublishing.com/api/save-perf",TESTS_API:"https://bandito-tests.tronc.arcpublishing.com/tests-pb/",EVENTS_API:"https://bandito-events-prod.tronc.arcpublishing.com/api/save-event"};if(window["pageBuilder"]&&window["pageBuilder"]["initVariants"])window.pageBuilder.initVariants({IS_ADMIN:false,TIMEOUT:window.banditoEnv.TIMEOUT,PERF_API:window.banditoEnv.PERF_API,TESTS_API:window.banditoEnv.TESTS_API,EVENTS_API:window.banditoEnv.EVENTS_API});</script> <script>(function(){var topics=[];topics.push("lg");var keywords=[];keywords.push("luke");keywords.push("person");keywords.push("walton");keywords.push("loss");keywords.push("talk");keywords.push("season");keywords.push("office");keywords.push("lakers");keywords.push("media");keywords.push("team");keywords.push("people");keywords.push("atlanta");keywords.push("Lakers");keywords.push("week");keywords.push("player");keywords.push("Luke");keywords.push("Walton");keywords.push("support");keywords.push("weeks");
+keywords.push("rest");keywords.push("effort");keywords.push("time");keywords.push("ankle");keywords.push("matter");keywords.push("knowledge");var auxiliaries=[];window.clavis={site:"latimes",topics:topics,keywords:keywords,auxiliaries:auxiliaries,contentId:"/",targetingUrl:"https://targeting.tronc.arcpublishing.com/TargetingWebAPP/targeting"}})();</script> <script async src='/pb/gr/c/default/r0MojvyV1otcjr/js/c04b30fe08.js?v=18'></script> <script async src='/pb/gr/p/default/r0MojvyV1otcjr/render.js?v=18'></script> <script>(function(){_uzactfeed=window._uzactfeed||[];_uzactfeed.push(["_setID","70F837F1337DE71180CF0050569444FB"]);_uzactfeed.push(["_setSID","EC8D9EAD337DE71180CF0050569444FB"]);_uzactfeed.push(["_start"]);var userZoomUrl="cdn5.userzoom.com/files/js/QzUzNDhUMSAg.js?t\x3duz_feed\x26cuid\x3dAD0E0D666CCDE41180C90050569444FB";var uz=document.createElement("script");uz.type="text/javascript";uz.async=true;uz.charset="utf-8";uz.src=("https:"==document.location.protocol?"https://":"http://")+userZoomUrl;var s=
+document.getElementsByTagName("script")[0];s.parentNode.insertBefore(uz,s)})();</script> <div id="parsely-root" style="display: none"> <span id="parsely-cfg" data-parsely-site="latimes.com"></span> </div> <script>(function(s,p,d){var h=d.location.protocol,i=p+"-"+s,e=d.getElementById(i),r=d.getElementById(p+"-root"),u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net":"static."+p+".com";if(e)return;e=d.createElement(s);e.id=i;e.async=true;e.src=h+"//"+u+"/p.js";r.appendChild(e)})("script","parsely",document);</script> <script>if(trb.data.ads.optimera)(function(){trb.appendResource("script","https://s3.amazonaws.com/optimera-client/"+oAv[0]+"/"+window.location.host+window.location.pathname+".js?t\x3d"+Math.random(),true);trb.appendResource("script","https://s3.amazonaws.com/optimera-ops/oPS.js",true)})();</script> <div class="sidebar-mask" data-role="close-tray"/> </body> </html><script>
+  var _uri = "/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html"
+  var _context = "/pb"
+  var _outputType = "default"
+  var _rid = "r0MojvyV1otcjr"
+  //polyfill
+String.prototype.endsWith||Object.defineProperty(String.prototype,"endsWith",{value:function(t,e){var n=this.toString();(void 0===e||e>n.length)&&(e=n.length),e-=t.length;var r=n.indexOf(t,e);return-1!==r&&r===e}});
+/* Async loader code here */
+window.pageBuilder = window.pageBuilder || {};
+
+window.pageBuilder.featureLoaded =  window.pageBuilder.featureLoaded || function(){};
+window.pageBuilder.chainLoaded = window.pageBuilder.chainLoaded || function(chain,apiResponse){
+        var d = window.document;
+        for (var i = 0; i < apiResponse.featureIds.length; i++) {
+            var f = d.getElementById(apiResponse.featureIds[i]);
+            window.pageBuilder.featureLoaded(f);
+        }
+    };
+window.pageBuilder._isNestedFeature = window.pageBuilder._isNestedFeature || function (element) {
+        if(!element.parentElement) return false;
+        var parent = element.parentElement;
+        if (parent.className && parent.className.split(' ').indexOf("pb-feature")>=0) return true;
+        return window.pageBuilder._isNestedFeature(parent);
+    };
+window.pageBuilder._executeAsyncFeatureScripts = window.pageBuilder._executeAsyncFeatureScripts || function(s){eval(s)};
+
+window.pageBuilder._getJson = window.pageBuilder._getJson || function(url, success, failure) {
+    var xmlhttp;
+    failure = failure|| function () {};
+    if (window.XMLHttpRequest) {
+        xmlhttp = new XMLHttpRequest();
+    } else {
+        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    xmlhttp.onreadystatechange = function() {
+        if (xmlhttp.readyState == 4) {
+            if(xmlhttp.status == 200){
+                try {
+                    success.call(null, JSON.parse(xmlhttp.responseText));
+                } catch (e) {
+                    failure.call(null, xmlhttp, e)
+                }
+            } else  {
+                failure.call(null, xmlhttp);
+            }
+        }
+    };
+    xmlhttp.open("GET", url, true);
+    xmlhttp.send();
+};
+
+window.pageBuilder.loadAsyncFeature = window.pageBuilder.loadAsyncFeature || function (id) {
+        var d = window.document;
+        function injectFeatureDom(id, featureRendering) {
+            var element = d.getElementById(id);
+            var resources = featureRendering.pageResources || {};
+            element.outerHTML = featureRendering.rendering;
+            element = d.getElementById(id); //update the element
+            var scripts = Array.prototype.slice.call(element.getElementsByTagName("script"));
+            for (var i = 0; i < scripts.length; i++) {
+                if (scripts[i].src != "") {
+                    var s = d.createElement("script");
+                    s.setAttribute("src", scripts[i].src);
+                    d.body.appendChild(s);
+                }
+                else {
+                    window.pageBuilder._executeAsyncFeatureScripts(scripts[i].innerHTML); //eval isn't evil always.
+                }
+            }
+            for(var file in resources) {
+                if(resources.hasOwnProperty(file) && file.endsWith(".js")) {
+                    var s1 = d.createElement("script");
+                    s1.setAttribute("src", resources[file]);
+                    d.body.appendChild(s1);
+                }
+            }
+            window.pageBuilder.featureLoaded(element);
+        }
+        var url = _context + "/api/v2/render/feature/"+id+"?rid="+_rid+"&contentUri="+_uri;
+        window.pageBuilder._getJson(url, function(obj) { injectFeatureDom(id, obj); });
+    };
+
+window.pageBuilder.loadAsyncChain = window.pageBuilder.loadAsyncChain || function (id) {
+        var d = window.document;
+        function injectChainDom(id, apiResponse) {
+            var element = d.getElementById(id);
+            var resources = apiResponse.pageResources || {};
+            element.outerHTML = apiResponse.rendering;
+            element = d.getElementById(id); //update the element
+            var scripts = Array.prototype.slice.call(element.getElementsByTagName("script"));
+            for (var i = 0; i < scripts.length; i++) {
+                if (scripts[i].src != "") {
+                    var s = d.createElement("script");
+                    s.setAttribute("src", scripts[i].src);
+                    d.body.appendChild(s);
+                }
+                else {
+                    window.pageBuilder._executeAsyncFeatureScripts(scripts[i].innerHTML); //eval isn't evil always.
+                }
+            }
+            for(var file in resources) {
+                if(resources.hasOwnProperty(file) && file.endsWith(".js")) {
+                    var s1 = d.createElement("script");
+                    s1.setAttribute("src", resources[file]);
+                    d.body.appendChild(s1);
+                }
+            }
+            window.pageBuilder.chainLoaded(element,apiResponse);
+        }
+        var url = _context + "/api/v2/render/chain/"+id+"?rid="+_rid+"&contentUri="+_uri;
+        window.pageBuilder._getJson(url, function(obj) { injectChainDom(id, obj); });
+    };
+
+window.pageBuilder.loadAsyncFeatures = window.pageBuilder.loadAsyncFeatures || function () {
+        var d = window.document;
+        var scriptsToAdd = [];
+        var featuresLoaded = [];
+        function injectAsyncFeatures(apiResp){
+            for(var fid in apiResp){
+                if (!apiResp.hasOwnProperty(fid)) continue;
+
+                var element = d.getElementById(fid);
+                var resources = apiResp[fid].pageResources || {};
+                element.outerHTML = apiResp[fid].rendering;
+                element = d.getElementById(fid); //update the element
+                var scripts = Array.prototype.slice.call(element.getElementsByTagName("script"));
+                for (var i = 0; i < scripts.length; i++) {
+                    if (scripts[i].src != "") {
+                        var s = d.createElement("script");
+                        s.setAttribute("src", scripts[i].src);
+                        d.body.appendChild(s);
+                    }
+                    else {
+                        window.pageBuilder._executeAsyncFeatureScripts(scripts[i].innerHTML); //eval isn't evil always.
+                    }
+                }
+                for(var file in resources) {
+                    if(resources.hasOwnProperty(file) && file.endsWith(".js")) {
+                        resources[file].forEach(function(src){
+                            if (scriptsToAdd.indexOf(src) === -1) { scriptsToAdd.push(src) }
+                        });
+                    }
+                }
+                featuresLoaded.push(element);
+            }
+            scriptsToAdd.forEach(function (src) {
+                var s = d.createElement("script");
+                s.setAttribute("src", src);
+                d.body.appendChild(s);
+            });
+            featuresLoaded.forEach(function(element){
+                window.pageBuilder.featureLoaded(element);
+            });
+        }
+    var url = _context + "/api/v2/async/features?rid="+_rid+"&contentUri="+_uri;
+    window.pageBuilder._getJson(url, function(resp) { injectAsyncFeatures(resp)});
+};
+window.pageBuilder.loadAsyncChains = window.pageBuilder.loadAsyncChains || function () {
+        var d = window.document;
+        var chains = d.getElementsByClassName("pb-async pb-chain");
+        var ids = [].slice.call(chains).map(function (node) { return node.id; });
+        ids.forEach(function(id) {
+            window.pageBuilder.loadAsyncChain(id);
+        });
+    };
+
+window.pageBuilder.loadAsync = window.pageBuilder.loadAsync || function(){
+        window.pageBuilder.loadAsyncFeatures();
+        window.pageBuilder.loadAsyncChains();
+};
+
+window.pageBuilder.loadAsync();
+
+</script>

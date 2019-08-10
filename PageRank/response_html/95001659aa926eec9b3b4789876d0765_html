@@ -1,0 +1,1195 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><!--> <html lang="es" class="ie ie6"> <!--<![endif]-->
+<!--[if IE 7 ]><!--> <html lang="es" class="ie ie7"> <!--<![endif]-->
+<!--[if IE 8 ]><!--> <html lang="es" class="ie ie8"> <!--<![endif]-->
+<!--[if IE 9 ]><!--> <html lang="es" class="ie ie9"> <!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="es"> <!--<![endif]-->
+<head>
+<!-- Facebook Pixel Code -->
+<script>
+document.addEventListener("DOMContentLoaded", function (event) {
+if (DWDE.dsgvo.isStoringCookiesOkay()) {
+facebookTracking();
+}
+});
+function facebookTracking() {
+!function (f, b, e, v, n, t, s) {
+if (f.fbq) return;
+n = f.fbq = function () {
+n.callMethod ?
+n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+};
+if (!f._fbq) f._fbq = n;
+n.push = n;
+n.loaded = !0;
+n.version = '2.0';
+n.queue = [];
+t = b.createElement(e);
+t.async = !0;
+t.src = v;
+s = b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t, s)
+}(window, document, 'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '157204581336210');
+fbq('track', 'ViewContent');
+}
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=157204581336210&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><link rel="canonical" href="https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197">
+<link rel="amphtml" href="https://amp.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197">
+<script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script>
+<script type="text/javascript" src="/js/dsgvo/dsgvo_utils.js"></script>
+<script type="text/javascript">
+window.languagePreferenceTTL = 2628000;
+var languagePreferenceTTL = 2628000;
+var hostNameMobile = "https://m.dw.com";
+var mobileRedirectTTL = 86400;
+</script>
+<script type="text/javascript" src="/js/de.dw.cdaLanguage.min.js?v=6.39.0"></script>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<!--[if IE]><meta http-equiv="imagetoolbar" content="no"><![endif]-->
+<meta name="robots" content="index, follow"/>
+<meta name="revisit-after" content="1 days"/>
+<meta name="publisher" content="Deutsche Welle (www.dw.com)"/>
+<meta name="copyright" content="&copy; 2019 Deutsche Welle (www.dw.com)"/>
+<meta name="author" content="Deutsche Welle (www.dw.com)"/>
+<meta content="app-id=498833085" name="apple-itunes-app">
+<meta content="app-id=com.idmedia.android.newsportal" name="google-play-app">
+<link rel="icon" href="/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/favicon.png">
+<meta name="language" content="es_ES"/>
+<meta property="fb:pages" content="146634408702997"/>
+<meta property="fb:pages" content="146822482008281"/>
+<meta property="fb:pages" content="46657640977"/>
+<meta property="fb:pages" content="66069193936"/>
+<meta property="fb:pages" content="338998993519"/>
+<meta property="fb:pages" content="164418313578851"/>
+<meta property="fb:pages" content="180013702044400"/>
+<meta property="fb:pages" content="141111232580541"/>
+<meta property="fb:pages" content="130435762955"/>
+<meta property="fb:pages" content="24369314439"/>
+<meta property="fb:pages" content="131314590235972"/>
+<meta property="fb:pages" content="204430626300528"/>
+<meta property="fb:pages" content="229148123764036"/>
+<meta property="fb:pages" content="533361940012569"/>
+<meta property="fb:pages" content="49621769215"/>
+<meta property="fb:pages" content="142061114273"/>
+<meta property="fb:pages" content="125113390860188"/>
+<meta property="fb:pages" content="144393622272640"/>
+<meta property="fb:pages" content="245974238781165"/>
+<meta property="fb:pages" content="171270196224553"/>
+<meta property="fb:pages" content="118184978196457"/>
+<meta property="fb:pages" content="178734186974"/>
+<meta property="fb:pages" content="329373860454526"/>
+<meta property="fb:pages" content="107256659303602"/>
+<meta property="fb:pages" content="423198735471"/>
+<meta property="fb:pages" content="122470481130194"/>
+<meta property="fb:pages" content="114256188645"/>
+<meta property="fb:pages" content="165174814436"/>
+<meta property="fb:pages" content="155438574470276"/>
+<meta property="fb:pages" content="50498982209"/>
+<meta property="fb:pages" content="146790007393"/>
+<meta property="fb:pages" content="164947183521601"/>
+<meta property="fb:pages" content="211745678846355"/>
+<meta property="fb:pages" content="134391923301563"/>
+<meta property="fb:pages" content="63821723396"/>
+<meta property="fb:pages" content="188157417929359"/>
+<meta property="fb:pages" content="183239561787790"/>
+<meta property="fb:pages" content="449623021724487"/>
+<meta property="fb:pages" content="138206409609783"/>
+<meta property="fb:pages" content="85945845557"/>
+<meta property="fb:pages" content="226482300719948"/>
+<meta property="fb:pages" content="60713064323"/>
+<meta property="fb:pages" content="239025992817731"/>
+<meta property="fb:pages" content="822896961134864"/>
+<meta property="fb:pages" content="522458607878947"/>
+<meta property="fb:pages" content="188850101556821"/>
+<meta property="fb:pages" content="618268655042471"/>
+<meta property="fb:pages" content="423198735471"/>
+<meta property="fb:pages" content="276810869063357"/>
+<meta property="fb:pages" content="100960075341"/>
+<meta property="fb:pages" content="80408983549"/>
+<meta property="fb:pages" content="100897936618493"/>
+<meta property="fb:pages" content="138706041945"/>
+<meta property="fb:pages" content="211775368865879"/>
+<meta property="fb:pages" content="171400242905536"/>
+<meta property="fb:pages" content="132731133463621"/>
+<meta property="fb:pages" content="195750250443390"/>
+<meta property="fb:pages" content="179443708766951"/>
+<meta property="fb:pages" content="1804124663153407"/>
+<meta property="fb:pages" content="134957921127"/>
+<meta property="fb:pages" content="308858529571862"/>
+<meta property="fb:pages" content="245084839304894"/>
+<meta property="fb:pages" content="1643141409322787"/>
+<meta property="fb:pages" content="161206864395653"/>
+<meta property="fb:pages" content="166280690549965"/>
+<meta property="fb:pages" content="1306227629456410"/>
+<meta property="fb:pages" content="172144003288251"/>
+<meta property="fb:pages" content="789839844513554"/>
+<meta property="fb:pages" content="1907513229480533"/>
+<meta property="fb:pages" content="1673788669587458"/>
+<meta property="fb:pages" content="475937372553968"/>
+<meta property="fb:pages" content="670958179648696"/>
+<meta property="fb:pages" content="608485009178753"/>
+<meta property="fb:pages" content="174528749295024"/>
+<meta property="fb:pages" content="86161846910"/>
+<meta property="fb:pages" content="268396416590741"/>
+<meta property="fb:pages" content="239261806709"/>
+<meta property="fb:pages" content="61626715828"/>
+<meta property="fb:pages" content="210354862357400"/>
+<meta name="keywords" content="Donald Trump,Nicolás Maduro,Venezuela,Estados Unidos,Eliot Engel,intervención militar,América Latina,Latinoamérica,Iván Duque,Despacho Oval,Colombia"/>
+<meta name="news_keywords" content="Donald Trump,Nicolás Maduro,Venezuela,Estados Unidos,Eliot Engel,intervención militar,América Latina,Latinoamérica,Iván Duque,Despacho Oval,Colombia"/>
+<meta name="description" content="El mandatario de Estados Unidos insistió en que tiene “todas las opciones sobre la mesa”, aunque desde el Congreso le recordaron que las cosas no son tan así."/>
+<meta property="og:description" content="El mandatario de Estados Unidos insistió en que tiene “todas las opciones sobre la mesa”, aunque desde el Congreso le recordaron que las cosas no son tan así."/>
+<meta property="og:url" content="https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197"/>
+<meta property="og:site_name" content="DW.COM"/>
+<meta property="fb:admins" content="100000944106340"/>
+<meta property="fb:admins" content="100004095264842"/>
+<meta property="fb:admins" content="100004135624835"/>
+<link rel="stylesheet" href="/css/dwde-ltr.min.css?v=6.39.0" type="text/css"
+media="all"/>
+<link rel="stylesheet" href="/css/dw-print.css" type="text/css" media="print"/>
+<link rel="stylesheet" href="/css/dw-fonts-latin.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/css/dw-epg-ltr.css" type="text/css" media="all"/>
+<!--[if IE 8]><link rel="stylesheet" href="/css/dw-epg-ie-ltr.css" type="text/css" media="all"/><![endif]-->
+<style type="text/css" media="screen">
+div#navMain ul#navLevel1 a#n01 {color: #fff !important;}
+div#navMain ul#navLevel1 a#n01:hover {color: #000 !important;}
+div#navMain ul#navLevel1 li:hover a#n01 {color: #000 !important;}
+div#navMain ul#navLevel2 a#navAct2 {color: #fff !important;}
+</style>
+<!-- Global site tag (gtag.js) - Google Analytics (Tracking-Code für Marketing-Zwecke) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109618266-1"></script>
+<script type="text/javascript">
+function googleTracking() {
+var gtagTrackingId = 'UA-109618266-1';
+var gtagDisableStr = 'ga-disable-' + gtagTrackingId;
+if (!DWDE.dsgvo.isStoringCookiesOkay()) {
+window[gtagDisableStr] = true;
+gtagOptout();
+} else {
+window[gtagDisableStr] = false;
+gtagOptin();
+}
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', gtagTrackingId, {'anonymize_ip': true});
+function gtagOptout() {
+document.cookie = gtagDisableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+window[gtagDisableStr] = true;
+return "Google Tag Manager disabled";
+}
+function gtagOptin() {
+document.cookie = gtagDisableStr + '=false; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+window[gtagDisableStr] = false;
+return "Google Tag Manager enabled";
+}
+}
+googleTracking();
+</script> <meta property="og:title" content="Trump: Maduro comete &quot;terrible error&quot; al bloquear ayuda | DW | 13.02.2019"/>
+<meta property="og:image" content="https://www.dw.com/image/47243783_304.jpg"/>
+<meta property="og:image:width" content="940" />
+<meta property="og:image:height" content="529" />
+<title>Trump: Maduro comete ″terrible error″ al bloquear ayuda | Venezuela en DW | DW | 13.02.2019</title>
+<script type="text/javascript" src="/js/dwde.min.js?v=6.39.0"></script>
+<!-- DW jwplayer skin -->
+<link rel="stylesheet" href="/js/jwplayer8/skins/DW/dwskinfile.css" type="text/css" media="all">
+<link rel="stylesheet" href="/js/jwplayer8/skins/DW/desktop-additions.css" type="text/css" media="all">
+<script>jwplayer.key = 'Y8nORY7CUY5RnlN/f8onh+AXI1ZWodkujMJAXBwpcAnDG5N4';</script>
+<script type="text/javascript" src="/js/datepicker/jquery.ui.datepicker-es.min.js"></script>
+<script type="text/javascript" src= https://commons.dw.com/tracking/dynatrace.js ></script>
+<script type="text/javascript">
+function getQueryVariable(variable) {
+var query = window.location.search.substring(1);
+var vars = query.split('&');
+for (var i = 0; i < vars.length; i++) {
+var pair = vars[i].split('=');
+if (decodeURIComponent(pair[0]) === variable) {
+return decodeURIComponent(pair[1]);
+}
+}
+return false;
+}
+function setRecaptchaLanguage() {
+var languageCode = "es";
+if (languageCode === 'ha') {
+return 'en';
+} else {
+var queryStringVal = getQueryVariable('zhongwen');
+if (queryStringVal === false) {
+return languageCode;
+} else if (queryStringVal === 'trad') {
+return 'zh-TW';
+} else if (queryStringVal === 'simp') {
+return 'zh';
+}
+}
+}
+var recaptchaScript = document.createElement('script');
+var recaptchaLink = 'https://www.google.com/recaptcha/api.js?render=explicit&hl=' + setRecaptchaLanguage();
+recaptchaScript.setAttribute('defer', true);
+recaptchaScript.setAttribute('async', true);
+recaptchaScript.setAttribute('src', recaptchaLink);
+$('head').append(recaptchaScript);
+</script>
+<script type="text/javascript">
+var disqus_shortname = 'dwde-es';
+</script>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@dw_espanol"/>
+<meta name="twitter:title"
+content="Trump: Maduro comete &quot;terrible error&quot; al bloquear ayuda "/>
+<meta name="twitter:image" content="https://www.dw.com/image/47243783_7.jpg"/>
+</head>
+<body id="html_body" >
+<!-- Trackingcode Body-Area -->
+<script type="text/javascript">
+var dwXT = {
+visibleStructure: "",
+fullUrl: "http%3A%2F%2Fwww.dw.com%2Fes%2Ftrump-maduro-comete-terrible-error-al-bloquear-ayuda%2Fa-47508197",
+maca: "",
+articleChangeDateShort: "20190213",
+structureId: "35950715",
+structureTypeId: "1",
+chap: "ACTUALIDAD::Am%C3%A9rica+Latina::Venezuela",
+pageId: "47508197",
+richMediaTracking: true,
+trackingProfileId: "1",
+subjects: "",
+firstCategoryId: "19990022",
+secondCategoryId: ""
+};
+var channelNameAppendix = "-";
+xtnv = document;
+xtsd = "https://logs1242";
+xtsite = "510544";
+xtdmc = ".dw.com";
+xtn2 = "28";
+xtdkLanguage = "";
+xtdi = "";
+xt_an = "";
+xt_ac = "";
+xt_multc = "";
+xt_profile = "NORMAL";
+xtpageSingleEncoded = "ACTUALIDAD::Am%C3%A9rica+Latina::Venezuela::Trump%3A+Maduro+comete+%22terrible+error%22+al+bloquear+ayuda+";
+xtpage = "ACTUALIDAD::Am%C3%A9rica+Latina::Venezuela::Trump%3A+Maduro+comete+%22terrible+error%22+al+bloquear+ayuda+";
+xt_multc = "&x1=1&x2=28&x3=47508197&x4=35950715&x5=Trump%3A+Maduro+comete+%22terrible+error%22+al+bloquear+ayuda+&x6=&x7=http%3A%2F%2Fwww.dw.com%2Fes%2Ftrump-maduro-comete-terrible-error-al-bloquear-ayuda%2Fa-47508197&x8=&x9=20190213&x10=ACTUALIDAD::Am%C3%A9rica+Latina::Venezuela&x13=1&x14=&x15=19990022&x16=&x17=&x18=";
+if (window.xtparam != null) {
+window.xtparam += "&ac=" + xt_ac + "&an=" + xt_an + xt_multc;
+} else {
+window.xtparam = "&ac=" + xt_ac + "&an=" + xt_an + xt_multc;
+}
+</script>
+<noscript>
+<img width="1" height="1" alt=""
+src="https://logs1242.xiti.com/hit.xiti?s=510544&amp;s2=28&amp;p=ACTUALIDAD::Am%C3%A9rica+Latina::Venezuela::Trump%3A+Maduro+comete+%22terrible+error%22+al+bloquear+ayuda+&amp;di=&amp;an=&amp;ac=&amp;x1=1&amp;x2=28&amp;x3=47508197&amp;x4=35950715&amp;x5=Trump%3A+Maduro+comete+%22terrible+error%22+al+bloquear+ayuda+&amp;x6=&amp;x7=http%3A%2F%2Fwww.dw.com%2Fes%2Ftrump-maduro-comete-terrible-error-al-bloquear-ayuda%2Fa-47508197&amp;x8=&amp;x9=20190213&amp;x10=ACTUALIDAD::Am%C3%A9rica+Latina::Venezuela&amp;x13=1&amp;x14=&amp;x15=19990022&amp;x16=null&amp;x17=&amp;x18=">
+</noscript>
+<!--AT Internet Smart Tag Tracking-->
+<script type="text/javascript" src="https://commons.dw.com/tracking/smarttag.js"></script>
+<script type="text/javascript">
+var tag = new ATInternet.Tracker.Tag({
+secure: true,
+site: "510544",
+logSSL: "logs1242"
+});
+tag.page.set({
+name: "ACTUALIDAD::Am%C3%A9rica+Latina::Venezuela::Trump%3A+Maduro+comete+%22terrible+error%22+al+bloquear+ayuda+",
+pageID: "47508197",
+level2: 28
+});
+tag.customVars.set({
+site: {
+1: 1,
+2: 28,
+3: 47508197,
+4: 35950715,
+5: "[Trump%3A+Maduro+comete+%22terrible+error%22+al+bloquear+ayuda+]",
+6: "",
+7: "[http%3A%2F%2Fwww.dw.com%2Fes%2Ftrump-maduro-comete-terrible-error-al-bloquear-ayuda%2Fa-47508197]",
+8: "[]",
+9: 20190213,
+10: "[ACTUALIDAD::Am%C3%A9rica+Latina::Venezuela]",
+11: "",
+12: "",
+13: 1,
+14: "",
+15: "19990022",
+16: "",
+17: "",
+18: ""
+}
+});
+tag.dispatch();
+</script> <script src="https://commons.dw.com/tracking/smarttagJwPlayerPlugin.js" type="text/javascript"></script>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+var gptAdSlots = [];
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+// https://developers.google.com/doubleclick-gpt/reference
+googletag.cmd.push(function () {
+let leaderboard = googletag.sizeMapping()
+.addSize([1680, 1050], [[728, 90]])
+.addSize([1440, 900], [[728, 90]])
+.addSize([1527, 837], [[728, 90]])
+.build();
+gptAdSlots.push(googletag
+.defineSlot('/228556409/DW_Es_Start-Sections/DW_Es_Articles', [728, 90], 'div--adLeaderboard')
+.defineSizeMapping(leaderboard)
+.setCollapseEmptyDiv(true, true)
+.addService(googletag.pubads())
+);
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableAsyncRendering();
+googletag.enableServices();
+});
+//Hide left & right skyscrapers on detail pages
+$(document).ready(function () {
+document.getElementById("div--Skyscraper_left").style.display = 'none';
+document.getElementById("div--Skyscraper_right").style.display = 'none';
+});
+</script> 
+<div class="cookie">
+<div class="cookie__wrap">
+<div class="cookie__item">
+<p class="cookie__text">Usamos cookies a fin de mejorar nuestro servicio. Encontrará más información en nuestras Políticas de privacidad.</p>
+</div>
+<div class="cookie__buttons">
+<a class="cookie__btn cookie__btn--more"
+href="/a-18265246">Más información</a>
+<a class="cookie__btn cookie__btn--ok" href="#">OK</a>
+</div>
+</div>
+</div>
+<!-- Language selection and quickjump navigation: -->
+<ol id="quickjump" role="list">
+<li role="listitem" aria-labelledby="Inhalt"><a href="#bodyContent" id="Inhalt">Inhalt</a></li>
+<li role="listitem" aria-labelledby="Navigation"><a href="#navMain" id="Navigation">Navigation</a></li>
+<li role="listitem" aria-labelledby="asideLink"><a href="#aside" id="asideLink">Weitere Inhalte</a></li>
+<li role="listitem" aria-labelledby="metanavigationLink"><a href="#navMeta" id="metanavigationLink">Metanavigation</a></li>
+<li role="listitem" aria-labelledby="sucheLink"><a href="#search" id="sucheLink">Suche</a></li>
+<li role="listitem" aria-labelledby="languageLink"><a href="#langSelect" id="languageLink" xml:lang="de" lang="de" accesskey="6">Choose from 30 Languages</a></li>
+</ol>
+<!-- AUTO-LANGUAGE-SELECT-HINT -->
+<!--[if IE 7 ]><div id="ie7PositionHelper"></div><![endif]-->
+<div id="topMetaLang" style="margin-top: -190px;">
+<a class="closeLink" href="#close" title="close"></a>
+<div id="topMetaInner">
+<!-- L a n g u a g e S e l e c t o r -->
+<div id="languageSection">
+<ul>
+<li><a href="/sq/fokus/s-10250" title="FOKUS" data-lang="sq-AL"
+>
+Albanian <span class="native">Shqip</span></a>
+</li>
+<li><a href="/am/ይዘት/s-11646" title="ይዘት" data-lang="am-ET"
+>
+Amharic <span class="native">አማርኛ</span></a>
+</li>
+<li><a href="/ar/الرئيسية/s-9106" title="الرئيسية" data-lang="ar-AE"
+>
+Arabic <span class="native">العربية</span></a>
+</li>
+<li><a href="/bn/বিষয়/s-11929" title="বিষয়" data-lang="bn-BD"
+>
+Bengali <span class="native">বাংলা</span></a>
+</li>
+<li><a href="/bs/teme/s-10037" title="TEME" data-lang="bs-BA"
+>
+Bosnian <span class="native">B/H/S</span></a>
+</li>
+<li><a href="/bg/начало/s-10257" title="Начало" data-lang="bg-BG"
+>
+Bulgarian <span class="native">Български</span></a>
+</li>
+<li>
+<a href="/zh/在线报导/s-9058?&zhongwen=simp" title="在线报导" data-lang="zh-CN">
+Chinese <span class="native">(Simplified) 简</span></a>
+</li>
+<li>
+<a href="/zh/在线报导/s-9058?&zhongwen=trad" title="在線報導" data-lang="zh-CN-t">
+Chinese <span class="native">(Traditional) 繁</span></a>
+</li>
+</ul>
+<ul>
+<li><a href="/hr/teme/s-9747" title="TEME" data-lang="hr-HR"
+>
+Croatian <span class="native">Hrvatski</span></a>
+</li>
+<li><a href="/fa-af/دويچه-وله-دری/s-10259" title="دويچه وله دری" data-lang="fa-AF"
+>
+Dari <span class="native">دری </span></a>
+</li>
+<li><a href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world" data-lang="en-GB"
+>
+English <span class="native">English</span></a>
+</li>
+<li><a href="/fr/actualités/s-10261" title="ACTUALITÉS" data-lang="fr-FR"
+>
+French <span class="native">Français</span></a>
+</li>
+<li><a href="/de/themen/s-9077" title="Nachrichten & Analysen: der globale Blick auf Schlagzeilen" data-lang="de-DE"
+>
+German <span class="native">Deutsch</span></a>
+</li>
+<li><a href="/el/θεματα/s-10507" title="ΘΕΜΑΤΑ" data-lang="el-GR"
+>
+Greek <span class="native">Ελληνικά</span></a>
+</li>
+<li><a href="/ha/batutuwa/s-11603" title="BATUTUWA" data-lang="ha-NG"
+>
+Hausa <span class="native">Hausa</span></a>
+</li>
+<li><a href="/hi/खबरें/s-11931" title="खबरें" data-lang="hi-IN"
+>
+Hindi <span class="native">हिन्दी</span></a>
+</li>
+</ul>
+<ul>
+<li><a href="/id/beranda/s-11546" title="BERANDA" data-lang="id-ID"
+>
+Indonesian <span class="native">Indonesia</span></a>
+</li>
+<li><a href="/sw/idhaa-ya-kiswahili/s-11588" title="IDHAA YA KISWAHILI" data-lang="sw-TZ"
+>
+Kiswahili <span class="native">Kiswahili</span></a>
+</li>
+<li><a href="/mk/теми/s-10339" title="Теми" data-lang="mk-MK"
+>
+Macedonian <span class="native">Македонски</span></a>
+</li>
+<li><a href="/ps/دويچه-ويله-پښتو/s-11722" title="دويچه ويله پښتو" data-lang="ps-AF"
+>
+Pashto <span class="native">پښتو</span></a>
+</li>
+<li><a href="/fa-ir/دویچه-وله-فارسی/s-9993" title="دویچه وله فارسی" data-lang="fa-IR"
+>
+Persian <span class="native">فارسی</span></a>
+</li>
+<li><a href="/pl/start/s-11394" title="Niemcy – najnowsze wiadomości z Niemiec, Europy i świata" data-lang="pl-PL"
+>
+Polish <span class="native">Polski</span></a>
+</li>
+<li><a href="/pt-002/notícias/s-13918" title="NOTÍCIAS" data-lang="pt-002"
+>
+Portuguese <span class="native">Português para África</span></a>
+</li>
+<li><a href="/pt-br/notícias/s-7111" title="DW Brasil | Notícias e análises do Brasil e do mundo" data-lang="pt-BR"
+>
+Portuguese <span class="native">Português do Brasil</span></a>
+</li>
+</ul>
+<ul>
+<li><a href="/ro/focus/s-10575" title="FOCUS" data-lang="ro-RO"
+>
+Romanian <span class="native">Română</span></a>
+</li>
+<li><a href="/ru/темы-дня/s-9119" title="Новости и аналитика о Германии, России, Европе, мире" data-lang="ru-RU"
+>
+Russian <span class="native">Русский</span></a>
+</li>
+<li><a href="/sr/rubrike/s-10682" title="RUBRIKE" data-lang="sr-RS"
+>
+Serbian <span class="native">Српски/Srpski</span></a>
+</li>
+<li><a href="/es/actualidad/s-30684" title="ACTUALIDAD" data-lang="es-ES"
+class="ici">
+Spanish <span class="native">Español</span></a>
+</li>
+<li><a href="/tr/gündem/s-10201" title="GÜNDEM" data-lang="tr-TR"
+>
+Turkish <span class="native">Türkçe</span></a>
+</li>
+<li><a href="/uk/головна/s-9874" title="Новини й аналітика про Німеччину, Україну, Європу та світ" data-lang="uk-UA"
+>
+Ukrainian <span class="native">Українська</span></a>
+</li>
+<li><a href="/ur/عنوانات/s-11933" title="عنوانات" data-lang="ur-PK"
+>
+Urdu <span class="native">اردو</span></a>
+</li>
+</ul>
+</div><!-- / L a n g u a g e S e l e c t o r -->
+<div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- META-NAVI -->
+<div id="topMeta" style="margin-top: -30px; display:none;">
+<a title="close" href="#close" class="closeLink"></a>
+<div id="topMetaInner">
+<span class="langHint">
+<a href="">Wrong language? Change it here</a>
+</span>
+DW.COM has chosen Español as your language setting. <div class="rightarrow"></div>
+<div class="leftarrow"></div>
+</div>
+</div>
+<!-- E X T R A W R A P B O D Y M O V E R -->
+<div id="bodyMover">
+<!-- META-NAVI -->
+<div id="navMeta">
+<div id="langSelect" class="v2">
+<a name="langSelectTrigger" id="langSelectTrigger" href="javascript:void(0);">DW.COM in 30 languages</a>
+</div>
+<div class="metaLink"><a href="/en/dw-akademie/about-us/s-9519" title="DW AKADEMIE">DW AKADEMIE</a></div>
+<div class="metaLink"><a href="/es/empresa/quiénes-somos/s-31839" title="Empresa">ACERCA DE DW</a></div>
+<div class="metaLink"><a href="/es/actualidad/s-30684" title="ACTUALIDAD">DW.COM</a></div>
+</div>
+<!-- OUTER FRAME -->
+<div id="outerFrame">
+<!-- NAV CONTAINER -->
+<div id="navContainer">
+<!-- NAVI MAIN: main categories:-->
+<div id="navHead">
+<div id="logo" class="dwnews">
+<a href="/es/actualidad/s-30684" title="ACTUALIDAD">
+Deutsche Welle
+</a>
+</div>
+<div id="logoprint">
+<img width="98" height="100" alt="Deutsche Welle" src="/cssi/dwlogo-print.gif">
+</div>
+<div id="search">
+<form id="navSearchForm" class="modular" action="/search/es" title="GlobalSearch" method="get">
+<input type="hidden" param="searchNavigationId" name="searchNavigationId"
+value="30684"/>
+<input type="hidden" param="languageCode" name="languageCode" value="es"/>
+<input type="hidden" param="origin" name="origin" value="gN"/>
+<input id="item" name="item" placeholder="Búsqueda ACTUALIDAD">
+<div id="searchButton"></div>
+</form>
+</div>
+</div><!-- subcategories: -->
+<div id="navMain">
+<ul id="navLevel1">
+<li>
+<a id="n01" href="/es/actualidad/s-30684"
+title="ACTUALIDAD">ACTUALIDAD</a>
+
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/es/actualidad/américa-latina/s-42464457" title="Las noticias y análisis más importantes en América Latina">América Latina</a>
+</li>
+<li><a href="/es/actualidad/política/s-6069" title="Política">Política</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/es/actualidad/economía/s-6070" title="Economía">Economía</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/es/actualidad/cultura/s-7570" title="Cultura">Cultura</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/es/actualidad/ciencia-y-ecología/s-7577" title="Ciencia y Ecología">Ciencia y Ecología</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/es/actualidad/alemania-hoy/s-30451" title="Alemania Hoy">Alemania Hoy</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/es/actualidad/deportes/s-7586" title="Deportes">Deportes</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+<div class="flyoutGroup col1">
+<h4>Destacados</h4>
+<ul class="sitemap">
+<li><a href="http://visualdata.dw.com/specials/welterbe/index.php?lg=es" title="Caminos al Patrimonio Mundial">Caminos al Patrimonio Mundial</a></li>
+<li><a href="/es/actualidad/global-ideas/s-30659" title="Global Ideas">Global Ideas</a></li>
+<li><a href="/es/actualidad/legado-germano-judaico/s-32219" title="Legado Cultural Germano Judío">Legado Germano Judaico</a></li>
+<li><a href="/es/actualidad/transición-energética/s-31671" title="Transición energética">Transición energética</a></li>
+<li><a href="/es/actualidad/wagner-200/s-31776" title="Wagner 200">Wagner 200</a></li>
+&nbsp;
+</ul>
+<h4>ESPECIAL</h4>
+<ul class="sitemap">
+<li><a href="/es/actualidad/mexmania/s-32396" title="#MEX_MANIA">#MEX_MANIA</a></li>
+<li><a href="/es/actualidad/alemania-desde-las-alturas/s-37923703" title="Alemania desde las alturas">Alemania desde las alturas</a></li>
+<li><a href="/es/actualidad/conciencia-sur/s-32916" title="Conciencia Sur: el mundo según Pepe Mujica">Conciencia Sur</a></li>
+<li><a href="/es/actualidad/economía-creativa/s-38153585" title="Economía creativa">Economía creativa</a></li>
+<li><a href="/es/actualidad/euromaxx/s-32917" title="Euromaxx - vida y cultura en Europa">Euromaxx</a></li>
+<li><a href="/es/actualidad/havladdorías/s-30685" title="Havladdorías">Havladdorías</a></li>
+<li><a href="/es/actualidad/humboldt-250-américa-latina/s-46375101" title="Humboldt América Latina 250 años de descubrimientos">Humboldt 250 América Latina</a></li>
+<li><a href="/es/actualidad/la-ruta-de-pía/s-45809421" title="La ruta de Pía">La ruta de Pía</a></li>
+</ul>
+</div>
+<div class="navTeaserGroup">
+<div class="navTeaser">
+<a href="/es/siete-periodistas-de-univisión-retenidos-por-orden-de-maduro/a-47688278">
+<img width="120" height="68" src="/image/47666936_305.jpg" alt="Venezuela, Caracas - Amtsantritt: Nicolas Maduro (Getty Images/P. Cozzaglio)" />	<h4>América Latina</h4>
+<h2>Siete periodistas de Univisión retenidos por orden de Maduro <span class="date"> 26.02.2019</span></h2>
+</a>
+</div>
+<div class="navTeaser">
+<a href="/es/venezuela-frente-al-rompecabezas-de-su-deuda/a-47506139">
+<img width="120" height="68" src="/image/47293148_305.jpg" title="Rusia podría terminar quedándose con el gigante petrolero CITGO, con sede en Estados Unidos." alt="USA Raffierie von Citgo in Sulphur, Louisiana (Reuters/J. Bachman)" />	<h4>Venezuela</h4>
+<h2>Venezuela frente al rompecabezas de su deuda <span class="date"> 13.02.2019</span></h2>
+</a>
+</div>
+<div class="navTeaser">
+<a href="/es/nasa-da-por-muerto-al-opportunity-tras-15-años-en-marte/a-47509888">
+<img width="120" height="68" src="/image/47509808_305.jpg" alt="NASA l Marsrover «Opportunity» (picture alliance/dpa/Nasa)" />	<h4>Ciencia y Ecología</h4>
+<h2>NASA da por “muerto” al Opportunity, tras 15 años en Marte <span class="date"> 13.02.2019</span></h2>
+</a>
+</div>
+</div>
+</div>
+
+</li>
+<li>
+<a href="/es/multimedia/s-100836"
+title="Multimedia">Multimedia</a>
+
+<div class="flyout mini">
+<ul class="sitemap" role="menu">
+<li role="menuitem">
+<a href="/es/multimedia/tv-en-vivo/s-100837" title="TV en vivo">TV en vivo</a>
+</li>
+<li role="menuitem">
+<a href="/es/multimedia/todos-los-contenidos/s-100838" title="Todos los contenidos">Todos los contenidos</a>
+</li>
+<li role="menuitem">
+<a href="/es/multimedia/últimos-programas/s-100839" title="Últimos programas">Últimos programas</a>
+</li>
+</ul>
+</div>
+
+</li>
+<li>
+<a href="/es/tv/s-9133"
+title="TV">TV</a>
+
+<div class="flyout">
+<ul class="sitemap">
+<li><a href="/es/tv/programación/s-6309" title="Programación">Programación</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/es/tv/emisiones-tv/s-9134" title="Emisiones TV">Emisiones TV</a>
+</li>
+</ul>
+<div class="flyoutGroup">
+<h4 class="meta">Programas de TV</h4>
+<ul class="sitemap">
+<li><a href="/es/tv/al-volante/s-30326" title="Al volante - El magacín del automóvil">Al volante</a></li>
+<li><a href="/es/tv/aquí-estoy/s-101446" title="Aquí estoy - Encuentros con Pía Castro">Aquí estoy</a></li>
+<li><a href="/es/tv/con-sabor-y-saber/s-47084862" title="Con sabor y saber">Con sabor y saber </a></li>
+<li><a href="/es/tv/cuadriga/s-7295" title="Cuadriga - El debate internacional desde Berlín">Cuadriga</a></li>
+<li><a href="/es/tv/cuestión-de-fe/s-3992" title="Cuestión de fe">Cuestión de fe</a></li>
+<li><a href="/es/tv/cultura21/s-30330" title="Cultura.21 - El magacín cultural">Cultura.21</a></li>
+<li><a href="/es/tv/dw-noticias/s-3229" title="DW noticias">DW noticias</a></li>
+<li><a href="/es/tv/economía/s-30334" title="Economía - Últimas Noticias sobre economía y finanzas">Economía</a></li>
+<li><a href="/es/tv/economía-creativa/s-37645197" title="Economía creativa">Economía creativa</a></li>
+<li><a href="/es/tv/el-reportero/s-31620" title="El reportero - Sobre el terreno">El reportero</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/es/tv/enfoque-europa/s-101187" title="Enfoque Europa - Países, gentes, destinos">Enfoque Europa</a></li>
+<li><a href="/es/tv/en-forma/s-30336" title="En forma - El magacín para una vida sana">En forma</a></li>
+<li><a href="/es/tv/enlaces/s-30338" title="Enlaces - Ventana abierta al mundo digital">Enlaces</a></li>
+<li><a href="/es/tv/escápate/s-32690" title="Escápate - La guía del viajero">Escápate</a></li>
+<li><a href="/es/tv/euromaxx/s-30340" title="Euromaxx - Vida y cultura en Europa">Euromaxx</a></li>
+<li><a href="/es/tv/europa-en-concierto/s-30342" title="Europa en concierto - Las mejores actuaciones musicales">Europa en concierto</a></li>
+<li><a href="/es/tv/fuerza-latina/s-45071906" title="Fuerza Latina">Fuerza Latina</a></li>
+<li><a href="/es/tv/global-3000/s-30346" title="Global 3000 - El magacín de la Globalización">Global 3000</a></li>
+<li><a href="/es/tv/hecho-en-alemania/s-30348" title="Hecho en Alemania - El magacín económico">Hecho en Alemania</a></li>
+<li><a href="/es/tv/la-semana/s-101479" title="La semana - En América Latina">La semana</a></li>
+</ul>
+<ul class="sitemap">
+<li><a href="/es/tv/música-maestra/s-40092570" title="Con Alondra de la Parra">Música Maestra</a></li>
+<li><a href="/es/tv/patrimonio-mundial/s-30352" title="Patrimonio Mundial">Patrimonio Mundial</a></li>
+<li><a href="/es/tv/primer-plano/s-100284" title="Primer plano">Primer plano</a></li>
+<li><a href="/es/tv/reporteros-en-el-mundo/s-30356" title="Reporteros en el mundo - Crónicas de la semana">Reporteros en el mundo</a></li>
+<li><a href="/es/tv/sarahs-music/s-42752926" title="Sarah's Music">Sarah's Music</a></li>
+<li><a href="/es/tv/todo-gol/s-30358" title="Todo gol - La jornada de la Bundesliga">Todo gol</a></li>
+<li><a href="/es/tv/visión-futuro/s-30362" title="Visión futuro - El magacín científico">Visión futuro</a></li>
+<li><a href="/es/tv/zonadocu/s-3611" title="ZonaDocu">ZonaDocu</a></li>
+</ul>
+</div>
+</div>
+
+</li>
+<li>
+<a href="/es/aprender-alemán/s-4639"
+title="APRENDER ALEMÁN">APRENDER ALEMÁN</a>
+
+<div class="flyout">
+<div class="flyoutGroup">
+<div class="flyoutGroup">
+<h4>Cursos de alemán</h4>
+<ul class="sitemap">
+<li><a href="/es/aprender-alemán/cursos-de-alemán/s-4640" title="Cursos de alemán">Cursos de alemán</a></li>
+<li><a href="/es/aprender-alemán/inicio-rápido/s-100197" title="Den richtigen Deutschkurs finden und sofort Deutsch lernen">Inicio rápido</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/es/aprender-alemán/harry/s-32621" title="Harry – curso gratuito de alemán para principiantes">Harry</a>
+</li>
+<li><a href="/es/aprender-alemán/deutsch-interaktiv/s-9627" title="Deutsch Interaktiv">Deutsch Interaktiv</a>
+</li>
+<li><a href="/es/aprender-alemán/mission-europe/s-9838" title="Mission Europe">Mission Europe</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/es/aprender-alemán/radio-d/s-9628" title="Radio D">Radio D</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/es/aprender-alemán/deutsch-warum-nicht/s-4642" title="Deutsch - warum nicht?">Deutsch - warum nicht?</a>
+<ul class="sitemap">
+</ul>
+</li>
+<li><a href="/es/aprender-alemán/audiotrainer/s-9634" title="Audiotrainer">Audiotrainer</a>
+<ul class="sitemap">
+</ul>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Deutsch XXL</h4>
+<ul class="sitemap">
+<li><a href="/deutsch-lernen/deutsch-xxl/s-12376" title="Deutsch XXL">Deutsch XXL</a></li>
+<li><a href="/deutsch-lernen/deutsch-aktuell/s-2146" title="Deutsch Aktuell">Deutsch Aktuell</a>
+</li>
+<li><a href="/deutsch-lernen/deutsch-im-fokus/s-9213" title="Deutsch im Fokus">Deutsch im Fokus</a>
+</li>
+<li><a href="/deutsch-lernen/telenovela/s-13121" title="Telenovela">Telenovela</a>
+</li>
+<li><a href="/deutsch-lernen/bandtagebuch/s-13891" title="Bandtagebuch">Bandtagebuch</a>
+</li>
+<li><a href="/deutsch-lernen/landeskunde/s-12377" title="Landeskunde">Landeskunde</a>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Community D</h4>
+<ul class="sitemap">
+<li><a href="/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/deutsch-lernen/das-portr%C3%A4t/s-30546" title="Das Porträt">Das Porträt</a>
+</li>
+<li><a href="/deutsch-lernen/podcasts-newsletter/s-11696" title="Podcasts & Newsletter">Podcasts & Newsletter</a>
+</li>
+<li><a href="/deutsch-lernen/service/s-9032" title="Service">Service</a>
+</li>
+</ul>
+</div>
+<div class="flyoutGroup">
+<h4>Deutsch unterrichten</h4>
+<ul class="sitemap">
+<li><a href="/deutsch-lernen/deutsch-unterrichten/s-2233" title="Deutsch unterrichten">Deutsch unterrichten</a></li>
+<li><a href="/deutsch-lernen/dw-im-unterricht/s-14199" title="DW im Unterricht">DW im Unterricht</a>
+</li>
+<li><a href="/deutsch-lernen/unterrichtsreihen/s-9729" title="Unterrichtsreihen">Unterrichtsreihen</a>
+</li>
+<li><a href="/deutsch-lernen/deutschlehrer-info/s-13503" title="Deutschlehrer-Info">Deutschlehrer-Info</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+</li>
+</ul>
+<ul id="navLevel2">
+<li><a href="/es/actualidad/américa-latina/s-42464457"
+title="Las noticias y análisis más importantes en América Latina">América Latina</a></li>
+<li><a href="/es/actualidad/política/s-6069"
+title="Política">Política</a></li>
+<li><a href="/es/actualidad/economía/s-6070"
+title="Economía">Economía</a></li>
+<li><a href="/es/actualidad/cultura/s-7570"
+title="Cultura">Cultura</a></li>
+<li><a href="/es/actualidad/ciencia-y-ecología/s-7577"
+title="Ciencia y Ecología">Ciencia y Ecología</a></li>
+<li><a href="/es/actualidad/alemania-hoy/s-30451"
+title="Alemania Hoy">Alemania Hoy</a></li>
+<li><a href="/es/actualidad/deportes/s-7586"
+title="Deportes">Deportes</a></li>
+<li><a href="/es/actualidad/mexmania/s-32396"
+title="#MEX_MANIA">#MEX_MANIA</a></li>
+<li><a href="/es/actualidad/humboldt-250-américa-latina/s-46375101"
+title="Humboldt América Latina 250 años de descubrimientos">Humboldt 250 América Latina</a></li>
+</ul>
+</div>
+<div class="advertising">
+<!-- GoogleDfP_SkyscraperLeft -->
+<div class="skyscraper_left">
+<div id="div--Skyscraper_left">
+<div class="adHeadline">Publicidad</div>
+<div id="div--adSkyscraper_left">
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function () {
+googletag.display('div--adSkyscraper_left');
+});
+</script>
+</div>
+</div>
+</div>
+<!-- End/GoogleDfP_SkyscraperLeft --><!-- GoogleDfP_SkyscraperRight -->
+<div class="skyscraper_right">
+<div id="div--Skyscraper_right">
+<div class="adHeadline">Publicidad</div>
+<div id="div--adSkyscraper_right">
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function () {
+googletag.display('div--adSkyscraper_right');
+});
+</script>
+</div>
+</div>
+</div>
+<!-- End/GoogleDfP_SkyscraperRight --><!-- GoogleDfP_Leaderboard -->
+<div class="bannerAd">
+<div id="div--Leaderboard">
+<div class="adHeadline">Publicidad</div>
+<div id="div--adLeaderboard">
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function () {
+googletag.display('div--adLeaderboard');
+});
+</script>
+</div>
+</div>
+</div>
+<!-- End/GoogleDfP_Leaderboard --> </div>
+<!-- breadcrumbs navigation: -->
+<div id="navPath">
+<a href="/es/actualidad/s-30684" title="ACTUALIDAD">
+ACTUALIDAD
+</a>
+/
+<a href="/es/actualidad/venezuela/s-35950715" title="Venezuela en DW">
+Venezuela
+</a>
+</div>
+</div>
+<div id="innerFrame">
+
+
+<div id="bodyContent">
+<div class="col3">
+<h4 class="artikel">Venezuela</h4>
+<h1>Trump: Maduro comete "terrible error" al bloquear ayuda </h1>
+<p class="intro">El mandatario de Estados Unidos insistió en que tiene “todas las opciones sobre la mesa”, aunque desde el Congreso le recordaron que las cosas no son tan así.</p>
+<div id="sharing-bar" class="min">
+<span dir="ltr">
+<a dir="ltr" class="sharing-item fb static" target="new" rel="nofollow"
+href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fp.dw.com%2Fp%2F3DL3F%3Fmaca%3Des-Facebook-sharing"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('28', 'Trump%3A%20Maduro%20comete%20%22terrible%20error%22%20al%20bloquear%20ayuda%20', '47508197', '1', 'facebook')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item twitter static" target="new" rel="nofollow"
+href="https://twitter.com/intent/tweet?source=webclient&amp;text=https%3A%2F%2Fp.dw.com%2Fp%2F3DL3F%3Fmaca%3Des-Twitter-sharing+Trump%3A%20Maduro%20comete%20%22terrible%20error%22%20al%20bloquear%20ayuda%20"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('28', 'Trump%3A%20Maduro%20comete%20%22terrible%20error%22%20al%20bloquear%20ayuda%20', '47508197', '1', 'twitter')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item whatsapp static" target="new" rel="nofollow"
+href="https://web.whatsapp.com/send?text=https%3A%2F%2Fp.dw.com%2Fp%2F3DL3F%3Fmaca%3Des-Whatsapp%2BWeb-sharing+Trump%3A%20Maduro%20comete%20%22terrible%20error%22%20al%20bloquear%20ayuda%20"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('28', 'Trump%3A%20Maduro%20comete%20%22terrible%20error%22%20al%20bloquear%20ayuda%20', '47508197', '1', 'whatsapp-web')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item email static" target="new" rel="nofollow"
+href="mailto:?body=https%3A%2F%2Fwww.dw.com%2Fes%2Ftrump-maduro-comete-terrible-error-al-bloquear-ayuda%2Fa-47508197%3Fmaca%3Des-EMail-sharing&amp;subject=Trump%3A%20Maduro%20comete%20%22terrible%20error%22%20al%20bloquear%20ayuda%20"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('28', 'Trump%3A%20Maduro%20comete%20%22terrible%20error%22%20al%20bloquear%20ayuda%20', '47508197', '1', 'email')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item meneame option" target="new" rel="nofollow"
+href="https://meneame.net/submit.php?url=https%3A%2F%2Fp.dw.com%2Fp%2F3DL3F%3Fmaca%3Des-Meneame-sharing"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('28', 'Trump%3A%20Maduro%20comete%20%22terrible%20error%22%20al%20bloquear%20ayuda%20', '47508197', '1', 'meneame')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item fb-messenger option" target="new" rel="nofollow"
+href="https://www.facebook.com/dialog/send?app_id=161807964535758&amp;redirect_uri=https%3A%2F%2Fp.dw.com%2Fp%2F3DL3F%3Fmaca%3Des-Facebook%2BMessenger%2BWeb-sharing&amp;link=https%3A%2F%2Fp.dw.com%2Fp%2F3DL3F%3Fmaca%3Des-Facebook%2BMessenger%2BWeb-sharing&amp;display=popup"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('28', 'Trump%3A%20Maduro%20comete%20%22terrible%20error%22%20al%20bloquear%20ayuda%20', '47508197', '1', 'fb-messenger-web')"></a>
+</span>
+<span dir="ltr">
+<a dir="ltr" class="sharing-item linkedin option" target="new" rel="nofollow"
+href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fp.dw.com%2Fp%2F3DL3F%3Fmaca%3Des-linkedin-sharing&amp;title=Trump%3A%20Maduro%20comete%20%22terrible%20error%22%20al%20bloquear%20ayuda%20&amp;source=DW.COM"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('28', 'Trump%3A%20Maduro%20comete%20%22terrible%20error%22%20al%20bloquear%20ayuda%20', '47508197', '1', 'linkedin')"></a>
+</span>
+<p class="sharing-item toggler" ></p>
+</div> <div class="picBox full">
+<a class="overlayLink" href="#"
+link="/overlay/image/article/47508197/47243783" rel="nofollow"
+style="cursor: pointer;">
+<img itemprop="image" src="/image/47243783_303.jpg" title="USA Krise Shutdown l Präsident Trump verkündet vorläufige Aufhebung der Haushaltssperre (picture-alliance/CNP/O. Douliery)" alt="USA Krise Shutdown l Präsident Trump verkündet vorläufige Aufhebung der Haushaltssperre (picture-alliance/CNP/O. Douliery)" /> </a>
+<p></p>
+</div>
+<div class="group">
+<div class="longText">
+<p>El presidente de Estados Unidos, Donald Trump, reiteró este miércoles (13.02.2019) que evalúa "todas las opciones” ante la crisis política que vive Venezuela, a la vez que destacó el apoyo internacional que ha recibido su estrategia para enfrentar ese problema. Además, el mandatario estadounidense dijo que su colega Nicolás Maduro comete un "terrible error” al bloquear el ingreso de la ayuda humanitaria.</p> <p>Las declaraciones las realizó al recibir en el Despacho Oval a su homólogo de Colombia, Iván Duque. Allí, al ser consultado sobre si tiene previsto enviar 5.000 soldados a Colombia para enfrentar la situación en Venezuela, se limitó a responder "ya veremos”. También dijo que si Maduro se quedaba en el poder, tenía otros planes. "Siempre tengo un plan B, C y D. Probablemente soy el que más flexibilidad tengo entre quienes han ocupado este cargo”, aseguró.</p> <p>También se vanaglorió del "apoyo tremendo” que tiene su estrategia para Venezuela, y calificó de "muy valiente” al presidente de la Asamblea Nacional, Juan Guaidó. "Tenemos un apoyo tremendo en toda Sudamérica y en todo el mundo", destacó Trump, que agregó que lo que ocurre en Venezuela es algo muy "triste”.</p> <p><strong>Intervención militar no es opción</strong></p> <p>Las declaraciones de Trump sobre no descartar ninguna opción no parecen contar con respaldo en el Congreso de su país. El jefe del comité de Asuntos Exteriores de la Cámara de Representantes, el demócrata Eliot Engel, dijo que le preocupa "el ruido de sables que hace el presidente y sus insinuaciones de que una intervención militar es una opción. Quiero dejar en claro a todos quienes nos están mirando: una intervención militar (en Venezuela) no es una opción”.</p> <p>El parlamentario dijo que compartía la idea de que hay que presionar a Maduro, pero expresó su temor de que las sanciones contra la cúpula del Gobierno chavista afecten más a la gente común y corriente que a los jerarcas. "La Casa Blanca debería pensar más en las repercusiones de las sanciones si Maduro no deja el cargo en las próximas semanas”, apuntó el parlamentario. Según la Constitución estadounidense, una intervención militar solo es posible con la venia del Congreso.</p> <p><strong>"Festín de odio", según Maduro</strong></p> <p>Nicolás Maduro se ha referido a la reunión desde la televisión pública venezolana: "Hoy el presidente de Estados Unidos, Donald Trump, se reunió con el señor Iván Duque, de Colombia, como un festín del odio; si uno le ve los ojos, la postura, las palabras, las declaraciones, un festín de odio contra Venezuela, declarando de manera vulgar, haciendo anuncios de manera alocada". </p> <p>Maduro volvió a tildar a Guaidó de "títere" y de "caballo de Troya" de Washington que quiere "imponer un régimen al servicio de los Estados Unidos" en Venezuela. "Hoy otra vez el presidente de Estados Unidos ha amenazado con una invasión militar a Venezuela", dijo Maduro pidiendo "solidaridad" a la comunidad internacional. "Manos fuera de Venezuela", clamó.</p> <p>DZC/LGC (EFE, AFP, Reuters)<br /> <em>Última actualización a la 01:20 CET con la respuesta de Nicolás Maduro a las declaraciones de Donald Trump.</em></p> <div class="longText"> <!-- PictureGallery --> <div class="gallery col3"> <div class="imgTeaserL slideshow noDim" data-id="47222535" data-title="Venezuela: un país, dos presidentes " data-date="20190124" data-firstcategory="19990022"> <ul class="slides"> <!-- Picture gallery - related image --> <li class="first"> <div class="teaserImg"> <img itemprop="image" src="/image/47206597_303.jpg" title="Juan Guaidó." alt="Juan Guaidó." />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Venezuela: un país, dos presidentes </h4> <h2>En curso de confrontación</h2> <p>Con solo tres semanas en el cargo, el nuevo presidente de la Asamblea Nacional venezolana, Juan Guaidó, es la nueva cara de la oposición. El miércoles (23.01.2019.), el político de 35 años se declaró presidente interino. El presidente de Estados Unidos, Donald Trump, le aseguró inmediatamente su apoyo. Las fuerzas armadas venezolanas, sin embargo, siguen apoyando al jefe de Estado, Nicolás Maduro.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/47206749_303.jpg" title="Protestas en Caracas." alt="Protestas en Caracas." />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Venezuela: un país, dos presidentes </h4> <h2>Disturbios y muertes</h2> <p>Sin embargo, 27 soldados se amotinaron contra Maduro el lunes (21.01.2019). Desde el fracaso de este levantamiento, la situación en el país ha empeorado. Hay protestas y disturbios, como aquí, en Caracas. Según el Observatorio de Conflictos Sociales (OVCS), una organización no gubernamental, al menos 13 personas perdieron la vida.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/47206612_303.jpg" title="Guaidó y el beso de una seguidora." alt="Guaidó y el beso de una seguidora." />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Venezuela: un país, dos presidentes </h4> <h2>Guaidó, ¿portador de esperanza? </h2> <p>El miércoles, cientos de miles de personas siguieron el llamamiento a protestar de la oposición. Se manifestaron contra el gobierno socialista de Maduro, al que culpan la mala situación económica, la represión y la mayor inflación a nivel mundial. Los obispos venezolanos pidieron a los militares que protegieran a los ciudadanos. </p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/47206844_303.jpg" title="Un manifestante en Caracas es llevado en motocicleta a un lugar seguro. " alt="Un manifestante en Caracas es llevado en motocicleta a un lugar seguro. " />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Venezuela: un país, dos presidentes </h4> <h2>"Venezuela pide libertad y un Estado de Derecho"</h2> <p>Un manifestante en Caracas es llevado en motocicleta a un lugar seguro. En la madrugada del jueves (24.01.2019) continuaron los enfrentamientos violentos entre las fuerzas de seguridad y los manifestantes. El presidente estadounidense, Trump, dijo en una declaración: "La sociedad venezolana ha alzado valientemente la voz contra Maduro, y ha pedido libertad y un Estado de Derecho"</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/47206636_303.jpg" title=" Nicolás Maduro en una manifestación en Caracas." alt=" Nicolás Maduro en una manifestación en Caracas." />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Venezuela: un país, dos presidentes </h4> <h2>Maduro moviliza a sus seguidores</h2> <p>Los seguidores de Maduro también salieron a la calle el miércoles. Celebraron el fin de la dictadura militar de Marcos Pérez Jiménez, derrocado el 23 de enero de 1958. En una maifestación masiva en Caracas, Nicolás Maduro demandó que sus partidarios defendieran a su gobierno y al socialismo.</p> </div> </li> <!-- Picture gallery - related image --> <li class="hideBeforeLoad"> <div class="teaserImg"> <img itemprop="image" src="/image/47206966_303.jpg" title="Dos venezolanas en Honduras. " alt="Dos venezolanas en Honduras. " />
+</div> <div class="teaserContentWrap"> <div class="tools"> </div> <h4>Venezuela: un país, dos presidentes </h4> <h2>Apoyo desde el extranjero</h2> <p>Estas dos venezolanas sostienen en Honduras carteles que muestran su apoyo a Juan Guaidó. En el curso de la crisis estatal y de suministro, que ya dura varios años, cerca de tres millones de venezolanos han abandonado su país. Las Naciones Unidas advirtieron recientemente que podría producirse otro éxodo masivo en 2019.</p> <p class="author"> Autor: Ines Eisele </p> </div> </li> </ul> <br class="clearfix" /> <div class="teaserNavWrap"> <div class="slidePagination"> <div style="float: right"> <a class="function tostart" href="javascript:void(0);" rel="nofollow"></a> <a class="function rwd" href="javascript:void(0);" rel="nofollow"></a> <a class="function fwd" href="javascript:void(0);" rel="nofollow"></a> <a class="function toend" href="javascript:void(0);" rel="nofollow"></a> </div> <a class="function playpause" href="javascript:void(0);" rel="nofollow"></a> <span class="slideshowNav"></span> </div> </div> </div> </div> </div> <p><strong>Deutsche Welle es la emisora internacional de Alemania y produce periodismo independiente en 30 idiomas. Síganos en</strong> <a href="https://www.facebook.com/dw.espanol/" target="_blank">Facebook</a> | <a href="https://twitter.com/dw_espanol" target="_blank">Twitter</a> | <a href="https://www.youtube.com/user/DeutscheWelleEspanol" target="_blank">YouTube</a> |  </p>
+</div>
+</div>
+<div style="clear:both; height:0; font-size:1px; line-height: 0"></div>
+<!-- detail_toolbox -->
+<h4>DW recomienda</h4>
+<div class="group">
+<div class="lineExtra"></div>
+<div class="linkList intern">
+<a href="/es/diario-papa-dice-a-maduro-que-incumplió-acuerdos/a-47494726">
+<h2>
+Diario: Papa dice a Maduro que "incumplió acuerdos"
+</h2>
+<p>En una carta, Francisco se dirige a Maduro como "Excelentísimo señor" y no como presidente de Venezuela.Según el "Corriere della Sera", el Papa reitera "la necesidad de evitar cualquier forma de derramamiento de sangre". (13.02.2019)
+&nbsp; </p>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/es/steinmeier-guaidó-está-en-la-posición-correcta-al-pedir-elecciones/a-47489167">
+<h2>
+Steinmeier: Guaidó está en la posición "correcta" al pedir elecciones
+</h2>
+<p>El presidente alemán realiza una visita oficial de tres días a Colombia, donde tiene previsto, entre otros, una reunión con inmigrantes venezolanos. (13.02.2019)
+&nbsp; </p>
+</a>
+</div>
+<div class="linkList intern">
+<a href="/es/ayuda-humanitaria-de-europa-para-venezuela-lo-ideal-es-que-el-gobierno-consienta-la-ayuda-a-través-de-la-onu/a-47500678">
+<h2>
+Asistencia europea para Venezuela: “Exigirle al gobierno que la permita”
+</h2>
+<p>Se han agotado los canales abiertos para la ayuda humanitaria. La ayuda europea también espera en las fronteras. Sólo hace falta que Caracas y sus Fuerzas Armadas permitan que entre formalmente. (13.02.2019)
+&nbsp; </p>
+</a>
+</div>
+<div class="linkList overlayIcon">
+<a href="/overlay/media/es/venezuela-un-país-dos-presidentes/47222535/47508197" rel="nofollow" class="overlayLink" link="/overlay/media/es/venezuela-un-país-dos-presidentes/47222535/47508197">
+<h2>
+Venezuela: un país, dos presidentes </h2>
+<p>El presidente de la Asamblea Nacional, Juan Guaidó, ha desafiado abiertamente al gobernante venezolano Nicolás Maduro y autoproclamándose presidente. Una lucha de poder, acompañada de protestas sangrientas. (24.01.2019)<span class='icon pics'></span>
+&nbsp; </p>
+</a>
+</div>
+</div>
+<div class="group">
+<ul class="smallList">
+<li><strong>Fecha</strong>
+13.02.2019
+</li>
+<!-- ESI fragment of related auto topics -->
+
+<li>
+<strong>Temas</strong>
+<a href="/es/sentosa/t-44182203">Sentosa</a>, <a href="/es/iván-duque/t-42943872">Iván Duque</a>, <a href="/es/nicolás-maduro/t-17409336">Nicolás Maduro</a>, <a href="/es/juan-manuel-santos/t-17410159">Juan Manuel Santos</a>, <a href="/es/venezuela/t-17410652">Venezuela</a>, <a href="/es/colombia/t-17411736">Colombia</a>, <a href="/es/estados-unidos/t-17411942">Estados Unidos</a>, <a href="/es/deshielo-cuba-ee-uu-en-video/t-18478421">Deshielo Cuba - EE. UU. en video</a>, <a href="/es/cumbre-de-las-américas/t-18480361">Cumbre de las Américas</a>, <a href="/es/más-noticias-y-análisis/t-18480385">Más noticias y análisis</a>
+</li>
+
+<li>
+<strong>Palabras clave</strong>
+<a href="/search/es?languageCode=es&origin=gN&item=Donald+Trump&searchNavigationId=30684"
+rel="nofollow">Donald Trump</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Nicol%C3%A1s+Maduro&searchNavigationId=30684"
+rel="nofollow">Nicolás Maduro</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Venezuela&searchNavigationId=30684"
+rel="nofollow">Venezuela</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Estados+Unidos&searchNavigationId=30684"
+rel="nofollow">Estados Unidos</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Eliot+Engel&searchNavigationId=30684"
+rel="nofollow">Eliot Engel</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=intervenci%C3%B3n+militar&searchNavigationId=30684"
+rel="nofollow">intervención militar</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Am%C3%A9rica+Latina&searchNavigationId=30684"
+rel="nofollow">América Latina</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Latinoam%C3%A9rica&searchNavigationId=30684"
+rel="nofollow">Latinoamérica</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Iv%C3%A1n+Duque&searchNavigationId=30684"
+rel="nofollow">Iván Duque</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Despacho+Oval&searchNavigationId=30684"
+rel="nofollow">Despacho Oval</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Colombia&searchNavigationId=30684"
+rel="nofollow">Colombia</a>
+</li>
+<li><strong>Feedback </strong>: <a class="overlayLink" href="#" rel="nofollow"
+link="/overlay/send_feedback/page/35950715/47508197">Consultas y observaciones</a>
+</li>
+<li>
+<strong>Imprimir</strong>
+<a class="icon print" rel="nofollow" href="javascript:window.print()">Imprimir esta página</a>
+</li>
+<li>
+<strong>Enlace permanente</strong>
+https://p.dw.com/p/3DL3F
+</li>
+</ul>
+</div>
+
+<div class="col3 relatedContent">
+<h4 class="meta">Contenido relacionado</h4>
+<div class="col1" data-id="47688251">
+<div class="news">
+<a href="/es/venezuela-la-ue-rechaza-una-intervención-militar/a-47688251">
+<div class="teaserImg">
+<img width="220" height="124" src="/image/47661358_301.jpg" title="Venezuela: la UE rechaza una intervención militar" alt="Politische Krise in Venezuela" /> </div>
+<h2 class="">
+Venezuela: la UE rechaza una intervención militar
+<span class="date">26.02.2019</span>
+</h2>
+<p>La UE se ha limitado a pedir al régimen de Maduro que permita el ingreso de ayuda humanitaria y elecciones libres. UE es acusada de no ejercer suficiente influencia para la solución pacífica del conflicto en Venezuela. </p>
+</a>
+</div>
+</div>
+<div class="col1" data-id="47684778">
+<div class="news">
+<a href="/es/grupo-de-lima-abre-reunión-sobre-venezuela-rechazando-el-uso-de-la-fuerza/a-47684778">
+<div class="teaserImg">
+<img width="220" height="124" src="/image/47682945_301.jpg" title="Grupo de Lima abre reunión sobre Venezuela rechazando el uso de la fuerza" alt="
+US-Vizepräsident Mike Pence wird vom kolumbianischen Außenminister Luz Stella Jara begrüßt" /> </div>
+<h2 class="">
+Grupo de Lima abre reunión sobre Venezuela rechazando el uso de la fuerza
+<span class="date">25.02.2019</span>
+</h2>
+<p>El Grupo de Lima, constituido para buscar salidas a la crisis política y social venezolana, desmiente a quienes "insinúan" que abogan por una intervención militar para poner fin a la "dictadura" de Nicolás Maduro. </p>
+</a>
+</div>
+</div>
+<div class="col1" data-id="47686587">
+<div class="news">
+<a href="/es/un-desacuerdo-europeo-llamado-venezuela/a-47686587">
+<div class="teaserImg">
+<img width="220" height="124" src="/image/47656218_301.jpg" title="Un desacuerdo europeo llamado Venezuela" alt="Venezuela Caracas Übergangspräsident Guaido" /> </div>
+<h2 class="">
+Un desacuerdo europeo llamado Venezuela
+<span class="date">25.02.2019</span>
+</h2>
+<p>Las diferentes posturas de los países de la UE respecto al reconocimiento de Guaidó como presidente interino impiden al bloque hablar con una voz única. DW habló con expertos sobre el tema. </p>
+</a>
+</div>
+</div>
+</div>
+
+</div>
+<!-- RECHTE SPALTE in DETAIL -->
+<div class="col1 dim">
+<div class="group">
+<ul class="smallList">
+<li><strong>Fecha</strong>
+13.02.2019
+</li>
+<!-- ESI fragment of related auto topics -->
+
+<li>
+<strong>Temas</strong>
+<a href="/es/sentosa/t-44182203">Sentosa</a>, <a href="/es/iván-duque/t-42943872">Iván Duque</a>, <a href="/es/nicolás-maduro/t-17409336">Nicolás Maduro</a>, <a href="/es/juan-manuel-santos/t-17410159">Juan Manuel Santos</a>, <a href="/es/venezuela/t-17410652">Venezuela</a>, <a href="/es/colombia/t-17411736">Colombia</a>, <a href="/es/estados-unidos/t-17411942">Estados Unidos</a>, <a href="/es/deshielo-cuba-ee-uu-en-video/t-18478421">Deshielo Cuba - EE. UU. en video</a>, <a href="/es/cumbre-de-las-américas/t-18480361">Cumbre de las Américas</a>, <a href="/es/más-noticias-y-análisis/t-18480385">Más noticias y análisis</a>
+</li>
+
+<li>
+<strong>Palabras clave</strong>
+<a href="/search/es?languageCode=es&origin=gN&item=Donald+Trump&searchNavigationId=30684"
+rel="nofollow">Donald Trump</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Nicol%C3%A1s+Maduro&searchNavigationId=30684"
+rel="nofollow">Nicolás Maduro</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Venezuela&searchNavigationId=30684"
+rel="nofollow">Venezuela</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Estados+Unidos&searchNavigationId=30684"
+rel="nofollow">Estados Unidos</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Eliot+Engel&searchNavigationId=30684"
+rel="nofollow">Eliot Engel</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=intervenci%C3%B3n+militar&searchNavigationId=30684"
+rel="nofollow">intervención militar</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Am%C3%A9rica+Latina&searchNavigationId=30684"
+rel="nofollow">América Latina</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Latinoam%C3%A9rica&searchNavigationId=30684"
+rel="nofollow">Latinoamérica</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Iv%C3%A1n+Duque&searchNavigationId=30684"
+rel="nofollow">Iván Duque</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Despacho+Oval&searchNavigationId=30684"
+rel="nofollow">Despacho Oval</a>,
+<a href="/search/es?languageCode=es&origin=gN&item=Colombia&searchNavigationId=30684"
+rel="nofollow">Colombia</a>
+</li>
+<li><a class="icon mail overlayLink" rel="nofollow" href="#"
+link="/overlay/send_feedback/page/35950715/47508197">Consultas y observaciones</a>
+</li>
+<li>
+<strong>Imprimir</strong>
+<a class="icon print" rel="nofollow" href="javascript:window.print()">Imprimir esta página</a>
+</li>
+<li>
+<strong>Enlace permanente</strong>
+https://p.dw.com/p/3DL3F
+</li>
+</ul>
+</div>
+</div>
+
+<div style="clear:both;"></div>
+</div>
+</div>
+
+<!-- Footer -->
+<div id="footerSection" style="clear:both;">
+<div id="footerBody">
+<ul class="footer">	<li><a style="font-weight: bold;" href="/es/actualidad/s-30684" title="ACTUALIDAD">ACTUALIDAD</a></li>
+<li><a href="/es/actualidad/américa-latina/s-42464457" title="Las noticias y análisis más importantes en América Latina">América Latina</a></li>
+<li><a href="/es/actualidad/política/s-6069" title="Política">Política</a></li>
+<li><a href="/es/actualidad/economía/s-6070" title="Economía">Economía</a></li>
+<li><a href="/es/actualidad/cultura/s-7570" title="Cultura">Cultura</a></li>
+<li><a href="/es/actualidad/ciencia-y-ecología/s-7577" title="Ciencia y Ecología">Ciencia y Ecología</a></li>
+<li><a href="/es/actualidad/alemania-hoy/s-30451" title="Alemania Hoy">Alemania Hoy</a></li>
+<li><a href="/es/actualidad/deportes/s-7586" title="Deportes">Deportes</a></li>
+<li>&nbsp;</li>
+<li><a href="/es/temas-de-a-a-z/index-es">Temas de la A a la Z</a></li>
+</ul>
+<ul class="footer">	<li><a style="font-weight: bold;" href="/es/multimedia/s-100836" title="Multimedia">MULTIMEDIA</a></li>
+<li><a href="/es/multimedia/tv-en-vivo/s-100837" title="TV en vivo">TV en vivo</a></li>
+<li><a href="/es/multimedia/todos-los-contenidos/s-100838" title="Todos los contenidos">Todos los contenidos</a></li>
+<li><a href="/es/multimedia/últimos-programas/s-100839" title="Últimos programas">Últimos programas</a></li>
+</ul>
+<ul class="footer">	<li><a style="font-weight: bold;" href="/es/tv/s-9133" title="TV">TV</a></li>
+<li><a href="/es/tv/programación/s-6309" title="Programación">Programación</a></li>
+<li><a href="/es/tv/emisiones-tv/s-9134" title="Emisiones TV">Emisiones TV</a></li>
+</ul>
+<ul class="footer">	<li><a style="font-weight: bold;" href="/es/aprender-alemán/s-4639" title="APRENDER ALEMÁN">APRENDER ALEMÁN</a></li>
+<li><a href="/es/aprender-alemán/cursos-de-alemán/s-4640" title="Cursos de alemán">Cursos de alemán</a></li>
+<li><a href="/deutsch-lernen/deutsch-xxl/s-12376" title="Deutsch XXL">Deutsch XXL</a></li>
+<li><a href="/deutsch-lernen/community-d/s-9035" title="Community D">Community D</a></li>
+<li><a href="/deutsch-lernen/deutsch-unterrichten/s-2233" title="Deutsch unterrichten">Deutsch unterrichten</a></li>
+</ul>
+<ul class="footer">	<li><a style="font-weight: bold;" href="/es/empresa/quiénes-somos/s-31839" title="Empresa">EMPRESA</a></li>
+<li><a href="/es/empresa/quiénes-somos/s-31839" title="Quiénes somos">Quiénes somos</a></li>
+<li><a href="/es/empresa/distribución/s-31778" title="Distribución">Distribución</a></li>
+</ul>
+<ul class="footer">	<li><a style="font-weight: bold;" href="/es/servicio/recepción/s-7562" title="Servicio">SERVICIO</a></li>
+<li><a href="/es/servicio/recepción/s-7562" title="Recepción de programas de TV de Deutsche Welle en su región">Recepción</a></li>
+<li><a href="/es/servicio/móvil/s-8734" title="Las apps de la DW para Android, iOS, Windows Phone y Symbian">Móvil</a></li>
+<li><a href="/es/servicio/smart-tv/s-32865" title="DW Smart TV, aplicación de Apple TV, Android TV, LG, Samsung">Smart TV</a></li>
+<li><a href="/suscripci%C3%B3n-a-los-boletines/a-15718285" title="Boletines y más">Boletines y más</a></li>
+<li><a href="/es/servicio/faq/s-31756" title="FAQ: Respuestas a las preguntas más frecuentes sobre la DW">FAQ</a></li>
+<li><a href="/es/servicio/contacto/s-31755" title="Direcciones y personas a contactar en la Deutsche Welle">Contacto</a></li>
+</ul>
+<p id="copyright">
+© 2019 Deutsche Welle |
+<a href="/en/european-union-general-data-protection-regulationgdpr-valid-may-25-2018/a-18265246" >Política de privacidad</a> |
+<a href="/imprint">Aviso legal</a> |
+<a href="/contact">Contacto</a>
+| <a id="mobilePreferredLink" href="https://m.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197">Versión para móvil</a>
+</p>
+</div></div>
+<!-- /Footer -->
+</div>
+</div>
+</body>
+</html>

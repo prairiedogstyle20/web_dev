@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" class="no-js">
+<head>
+	<script>
+		document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, 'js');
+		document.createElement('picture');
+	</script>
+	<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ4FUVdTCBAIVVFUBQUGUw=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Remarks by President Trump on Infrastructure | The White House</title>
+
+
+<link rel="canonical" href="https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Remarks by President Trump on Infrastructure | The White House" />
+<meta property="og:description" content="Trump Tower New York, New York 3:58 P.M. EDT THE PRESIDENT:  Hello, everybody.  Great to be back in New York with all of our friends, and some great friends outside the building, I must tell you.  I want to thank all of our distinguished guests who are with us today, including members of our Cabinet: &hellip;" />
+<meta property="og:url" content="https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure/" />
+<meta property="og:site_name" content="The White House" />
+<meta property="article:publisher" content="https://facebook.com/whitehouse" />
+<meta property="fb:app_id" content="1790466490985150" />
+<meta property="og:image" content="https://www.whitehouse.gov/wp-content/uploads/2017/12/wh.gov-share-img_03-1024x538.png" />
+<meta property="og:image:secure_url" content="https://www.whitehouse.gov/wp-content/uploads/2017/12/wh.gov-share-img_03-1024x538.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Trump Tower New York, New York 3:58 P.M. EDT THE PRESIDENT:  Hello, everybody.  Great to be back in New York with all of our friends, and some great friends outside the building, I must tell you.  I want to thank all of our distinguished guests who are with us today, including members of our Cabinet: [&hellip;]" />
+<meta name="twitter:title" content="Remarks by President Trump on Infrastructure | The White House" />
+<meta name="twitter:site" content="@whitehouse" />
+<meta name="twitter:image" content="https://www.whitehouse.gov/wp-content/uploads/2017/12/wh.gov-share-img_03-1024x538.png" />
+<meta name="twitter:creator" content="@whitehouse" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.whitehouse.gov\/","name":"The White House","alternateName":"White House","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.whitehouse.gov\/search\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.whitehouse.gov\/briefings-statements\/remarks-president-trump-infrastructure\/","sameAs":["https:\/\/facebook.com\/whitehouse","https:\/\/instagram.com\/whitehouse","https:\/\/www.youtube.com\/user\/whitehouse","https:\/\/twitter.com\/whitehouse"],"@id":"#organization","name":"The White House","logo":"https:\/\/www.whitehouse.gov\/wp-content\/uploads\/2017\/12\/wh.gov-share-img_03.png"}</script>
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.googleapis.com' crossorigin rel='preconnect' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel='stylesheet' id='google-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i|Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i,900,900i&#038;subset=latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='site-css'  href='https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/dist/site.min.css?ver=ccb7e60d' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/dist/polyfills.min.js?ver=ccb7e60d'></script>
+<script type='text/javascript' src='https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/vendor/picturefill/dist/picturefill.min.js?ver=ccb7e60d'></script>
+<link rel="icon" type="image/x-icon" href="/favicon.ico?ver=ccb7e60d">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?ver=ccb7e60d">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?ver=ccb7e60d">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/apple-touch-icon-precomposed.png?ver=ccb7e60d">
+<link rel="icon" type="image/png" sizes="256x256" href="/touch-icon-256x256.png?ver=ccb7e60d">
+<link rel="icon" type="image/png" sizes="192x192" href="/touch-icon-192x192.png?ver=ccb7e60d">
+<link rel="manifest" href="/site.webmanifest?ver=ccb7e60d">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?ver=ccb7e60d" color="#336799">
+<meta name="apple-mobile-web-app-title" content="The White House">
+<meta name="application-name" content="The White House">
+<meta name="msapplication-TileColor" content="#0c2644">
+<meta name="theme-color" content="#f5f5f5">
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-12099831-10"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-12099831-10');
+	</script>
+</head>
+<body class="briefing-statement-template-default single single-briefing-statement postid-2860">
+<a class="skip-link" href="#main-content"><span>Skip to content</span></a>
+
+<div class="body-overflow">
+
+<header class="header header--has-share">
+	<div class="header__container">
+		<div class="header__inner">
+			<button type="button" class="header__hamburger">
+				<b class="svg svg--hamburger" data-svg-url="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/hamburger.svg" data-img-url="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/hamburger.png" data-icon="hamburger"><svg aria-label="Open Menu" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 14" height="20" width="28"><path d="M.64,12H16.36c.36,0,.64.43.64,1s-.28,1-.64,1H.64C.28,14,0,13.57,0,13s.28-1,.64-1M23.1,2H.9A.94.94,0,0,1,0,1,.94.94,0,0,1,.9,0H23.1A.94.94,0,0,1,24,1a.94.94,0,0,1-.9,1M.9,8A.94.94,0,0,1,0,7,.94.94,0,0,1,.9,6H23.1A.94.94,0,0,1,24,7a.94.94,0,0,1-.9,1Z" fill="#a98860"/></svg><title>open-menu</title>
+</b>			</button>
+			<div class="header__wrap">
+				<div class="header__logo">
+					<a href="https://www.whitehouse.gov">
+						<img src="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-sm-wh.png" srcset="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-sm-wh.png 1x, https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-md-wh.png 2x, https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-lg-wh.png 3x" alt="" class="logo--white" />
+						<img src="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-sm-bl.png" srcset="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-sm-bl.png 1x, https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-md-bl.png 2x, https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-lg-bl.png 3x" alt="" class="logo--blue" />
+												<span class="visually-hidden">White House Logo</span>
+					</a>
+				</div>
+
+									<div class="header__share">
+						<a class="header__share--copy" data-clipboard-text="https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure/?utm_source=link&#038;utm_medium=header" href="https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure/?utm_source=link&#038;utm_medium=header">
+							<b class="svg svg--share-link" data-svg-url="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/share-link.svg" data-icon="share-link"><svg aria-label="Copy URL to your clipboard" role="img" width="17" height="15"><g fill="#30669B"><path d="M3.96 9.65c.85.8 2 1.22 3.2 1.22 1.2 0 2.35-.43 3.2-1.22l.94-.88c.35-.33.35-.85 0-1.2-.36-.32-.92-.32-1.28 0l-.94.9c-.5.47-1.2.74-1.92.74-.74 0-1.4-.26-1.93-.74L2.66 6.08c-1.07-1-1.07-2.6 0-3.6 1.08-.98 2.8-.98 3.85 0l.84.77c.35.33.9.33 1.27 0s.37-.85 0-1.2L7.8 1.3c-1.76-1.65-4.63-1.65-6.4 0-1.74 1.64-1.74 4.3 0 5.93l2.58 2.42zM5.7 6.25c-.35.33-.35.85 0 1.2.36.32.92.32 1.28 0l.94-.9c.5-.47 1.2-.74 1.92-.74s1.4.28 1.93.76l2.57 2.4c1.07 1 1.07 2.6 0 3.6-1.08 1-2.8 1-3.87 0l-.83-.77c-.36-.34-.92-.34-1.27 0-.36.32-.36.85 0 1.18l.82.77c.87.8 2.03 1.23 3.2 1.23 1.16 0 2.3-.42 3.2-1.23 1.76-1.65 1.76-4.3 0-5.96l-2.56-2.45c-.85-.8-2-1.22-3.2-1.22-1.2 0-2.35.43-3.2 1.22l-.94.9z"/></g></svg><title>copy-url-to-your-clipboard</title></b> Share
+						</a>
+					</div>
+								<nav class="nav nav--primary header__nav"><ul class="nav__menu nav__menu--depth0 menu"><li class="nav__menu-item nav__menu-item--depth0 menu-item menu-item-type-post_type menu-item-object-issue menu-item-692"><a href="https://www.whitehouse.gov/issues/economy-jobs/" class="nav__link">Economy</a></li>
+<li class="nav__menu-item nav__menu-item--depth0 menu-item menu-item-type-post_type menu-item-object-issue menu-item-693"><a href="https://www.whitehouse.gov/issues/national-security-defense/" class="nav__link">National Security</a></li>
+<li class="nav__menu-item nav__menu-item--depth0 menu-item menu-item-type-post_type menu-item-object-issue menu-item-16229"><a href="https://www.whitehouse.gov/issues/budget-spending/" class="nav__link">Budget</a></li>
+<li class="nav__menu-item nav__menu-item--depth0 menu-item menu-item-type-post_type menu-item-object-issue menu-item-16236"><a href="https://www.whitehouse.gov/issues/immigration/" class="nav__link">Immigration</a></li>
+<li class="nav__menu-item nav__menu-item--depth0 menu-item menu-item-type-post_type menu-item-object-initiative menu-item-38035"><a href="https://www.whitehouse.gov/opioids/" class="nav__link">The Opioid Crisis</a></li>
+</ul></nav>			</div>
+			<a href="https://www.whitehouse.gov/search/"  class="header__search">
+				<span class="visually-hidden">Search WhiteHouse.gov</span>
+				<b class="svg svg--search" data-svg-url="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/search.svg" data-img-url="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/search.png" data-icon="search"><svg aria-label="Open Search" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" height="20" width="20"><title>open-search</title>
+<path fill="#A98860" d="M20,18.7l-5.1-5.1c2.6-3.3,2.4-8.1-0.6-11.2C12.7,0.9,10.6,0,8.4,0C6.1,0,4,0.9,2.5,2.5
+	C0.9,4,0,6.1,0,8.4s0.9,4.3,2.5,5.9c1.6,1.6,3.7,2.5,5.9,2.5c1.9,0,3.8-0.7,5.3-1.8l5.1,5.1L20,18.7z M8.5,15
+	c-1.7,0-3.4-0.7-4.6-1.9C2.7,11.9,2,10.2,2,8.5s0.7-3.4,1.9-4.6C5.1,2.7,6.8,2,8.5,2c1.7,0,3.4,0.7,4.6,1.9c2.5,2.5,2.5,6.7,0,9.2
+	C11.9,14.3,10.2,15,8.5,15z"/>
+</svg>
+</b>			</a>
+		</div>
+	</div>
+</header>
+<main id="main-content">
+
+<div class="page-header page-header--small-title">
+	<div class="page-header__wrap">
+					<p class="page-header__section">
+				Remarks			</p>
+				<h1 class="page-header__title">Remarks by President Trump on Infrastructure</h1>
+		<div class="meta meta--mobile-wrap">
+							<div class="meta__issue">
+					<p class="issue-flag">
+			<a href="https://www.whitehouse.gov/issues/infrastructure-technology/">
+			Infrastructure &#038; Technology		</a>
+		</p>
+				</div>
+						<p class="meta__date">
+				<span class="meta__label">Issued on:</span>
+				<time>August 15, 2017</time>
+			</p>
+		</div>
+		<span class="divider"><hr><hr></span>
+	</div>
+</div>
+
+<div class="page-content">
+	<div class="page-content__wrap">
+		<div class="page-content__content editor">
+			<aside class="editor__module editor__module--left editor__module--named editor__module-share"><div class="share">
+	<ul>
+		<li class="share__item share__label">
+							Share:
+					</li>
+		<li class="share__item share__item--facebook">
+			<a class="share__link share__link--facebook" href="https://www.facebook.com/dialog/share?app_id=1790466490985150&#038;display=popup&#038;quote=Remarks%20by%20President%20Trump%20on%20Infrastructure&#038;href=https%3A%2F%2Fwww.whitehouse.gov%2Fbriefings-statements%2Fremarks-president-trump-infrastructure%2F%3Futm_source%3Dfacebook" target="_blank">
+				<b class="svg svg--share-facebook" data-svg-url="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/share-facebook.svg" data-icon="share-facebook"><svg aria-label="Share this page on Facebook" role="img" width="10" height="18"><g fill="#30669B"><path d="M2.86 6.56V4.94c0-.6.1-1.15.3-1.68.2-.52.5-.97.84-1.35.36-.37.77-.67 1.25-.9.47-.22.98-.33 1.52-.33H9.4v3.2H6.76c-.15 0-.3.1-.44.3-.13.2-.2.43-.2.7v1.7H9.4V9.8H6.12v7.92H2.86V9.82H.24V6.56h2.62z"/></g></svg><title>share-this-page-on-facebook</title></b>			</a>
+		</li>
+		<li class="share__item share__item--twitter">
+			<a class="share__link share__link--twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.whitehouse.gov%2Fbriefings-statements%2Fremarks-president-trump-infrastructure%2F%3Futm_source%3Dtwitter&#038;text=Remarks%20by%20President%20Trump%20on%20Infrastructure&#038;via=whitehouse" target="_blank">
+				<b class="svg svg--share-twitter" data-svg-url="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/share-twitter.svg" data-icon="share-twitter"><svg aria-label="Share this page on Twitter" role="img" width="17" height="14"><path fill="#30669B" d="M16.75 2.13c-.44.65-1 1.24-1.67 1.76v.38c0 1.1-.2 2.24-.63 3.4-.42 1.13-1.03 2.16-1.84 3.08-.8.93-1.8 1.67-2.98 2.25-1.18.6-2.54.88-4.08.88-.95 0-1.86-.14-2.72-.4-.87-.28-1.68-.66-2.44-1.14.13.02.26.03.4.03h.4c1.6 0 3-.48 4.16-1.42-.74-.02-1.4-.25-1.96-.7-.57-.42-.96-.98-1.16-1.65.22.06.43.1.6.1.18 0 .33-.02.47-.04.13-.02.28-.05.42-.1-.78-.15-1.42-.54-1.94-1.14-.5-.6-.76-1.32-.76-2.14v-.03c.22.12.46.2.7.28.26.08.54.1.86.1-.48-.28-.86-.67-1.12-1.16-.26-.48-.4-1.02-.4-1.62 0-.6.16-1.16.46-1.7.84 1.04 1.85 1.88 3.04 2.5 1.2.62 2.48.96 3.88 1.02-.06-.23-.08-.47-.08-.73 0-.46.08-.9.26-1.32.18-.42.42-.78.73-1.1.3-.3.66-.54 1.06-.72.4-.17.84-.26 1.3-.26.5 0 .96.1 1.37.3.4.2.77.44 1.1.76.36-.06.73-.16 1.1-.3.38-.16.72-.3 1.04-.48-.3.78-.78 1.4-1.47 1.84.35-.04.7-.1 1-.2.32-.1.63-.2.92-.33z"/></svg><title>share-this-page-on-twitter</title></b>			</a>
+		</li>
+		<li class="share__item share__item--clipboard">
+							<a class="share__link share__link--copy" data-clipboard-text="https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure/?utm_source=link" href="https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure/?utm_source=link">
+					<b class="svg svg--share-link" data-svg-url="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/share-link.svg" data-icon="share-link"><svg aria-label="Copy URL to your clipboard" role="img" width="17" height="15"><g fill="#30669B"><path d="M3.96 9.65c.85.8 2 1.22 3.2 1.22 1.2 0 2.35-.43 3.2-1.22l.94-.88c.35-.33.35-.85 0-1.2-.36-.32-.92-.32-1.28 0l-.94.9c-.5.47-1.2.74-1.92.74-.74 0-1.4-.26-1.93-.74L2.66 6.08c-1.07-1-1.07-2.6 0-3.6 1.08-.98 2.8-.98 3.85 0l.84.77c.35.33.9.33 1.27 0s.37-.85 0-1.2L7.8 1.3c-1.76-1.65-4.63-1.65-6.4 0-1.74 1.64-1.74 4.3 0 5.93l2.58 2.42zM5.7 6.25c-.35.33-.35.85 0 1.2.36.32.92.32 1.28 0l.94-.9c.5-.47 1.2-.74 1.92-.74s1.4.28 1.93.76l2.57 2.4c1.07 1 1.07 2.6 0 3.6-1.08 1-2.8 1-3.87 0l-.83-.77c-.36-.34-.92-.34-1.27 0-.36.32-.36.85 0 1.18l.82.77c.87.8 2.03 1.23 3.2 1.23 1.16 0 2.3-.42 3.2-1.23 1.76-1.65 1.76-4.3 0-5.96l-2.56-2.45c-.85-.8-2-1.22-3.2-1.22-1.2 0-2.35.43-3.2 1.22l-.94.9z"/></g></svg><title>copy-url-to-your-clipboard</title></b>				</a>
+					</li>
+	</ul>
+</div>
+</aside>
+			
+			<aside class="editor__module editor__module--left editor__module--named editor__module-all"><div class="sidebar-button">
+	<a class="sidebar-button__text" href="https://www.whitehouse.gov/news/"><img class="sidebar-button__icon" src="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/menu-large.svg" alt="menu" />All News</a>
+</div>
+</aside>
+			
+			<!-- The Content -->
+			<p>Trump Tower<br />
+New York, New York</p>
+<p>3:58 P.M. EDT</p>
+<p>THE PRESIDENT:  Hello, everybody.  Great to be back in New York with all of our friends, and some great friends outside the building, I must tell you.  I want to thank all of our distinguished guests who are with us today, including members of our Cabinet:  Treasury Secretary Steven Mnuchin, OMB Director Mick Mulvaney and, of course, our Transportation Secretary &#8212; who is doing a fabulous job &#8212; Elaine Chao.</p>
+<p>Thank you all for doing a really incredible and creative job on what we’re going to be discussing today, which is infrastructure.  We’ve just had a great set of briefings upstairs on our infrastructure agenda.  My administration is working every day to deliver the world-class infrastructure that our people deserve and, frankly, that our country deserves.</p>
+<p>That’s why I just signed a new executive order to dramatically reform the nation’s badly broken infrastructure permitting process.</p>
+<p>Just blocks away is the Empire State Building.  It took 11 months to build the Empire State Building.  But today, it can take as long as a decade and much more than that &#8212; many, many stories where it takes 20 and 25 years just to get approvals to start construction of a fairly routine highway.  Highway builders must get up to 16 different approvals involving nine different federal agencies governed by 29 different statutes.  One agency alone can stall a project for many, many years, and even decades.</p>
+<p>Not only does this cost our economy billions of dollars, but it also denies our citizens the safe and modern infrastructure they deserve.  This overregulated permitting process is a massive self-inflicted wound on our country &#8212; it’s disgraceful &#8212; denying our people much-needed investments in their community.</p>
+<p>And I just want to show you this because it was just shown to me, and I said, I think I’m going to show it to the media &#8212; both real and fake media, by the way.  This is what it takes to get something approved today.  Elaine, you see that?  So this is what it takes.  Permitting process flowchart &#8212; that’s a flowchart.</p>
+<p>So that can go out to 20 years.  This shows about 10, but that can go out to about 20 years to get something approved.  This is for a highway.  I’ve seen a highway recently in a certain state &#8212; I won’t mention its name &#8212; 17 years.  I could have built it for four or five million dollars without the permitting process.  It cost hundreds of millions of dollars, but it took 17 years to get it approved and many, many, many, many pages of environmental impact studies.</p>
+<p>This is what we will bring it down to.  This is less than two years.  This is going to happen quickly.  That’s what I’m signing today.  This will be less than two years for a highway.  So it’s going to be quick, it’s going to be a very streamlined process.  And, by the way, if it doesn’t meet environmental safeguards, we’re not going to approve it.  Very simple.  We’re not going to approve it.  Maybe this one will say, let’s throw the other one away.  Would anybody like it from the media?  (Laughter.)  Would anybody like that long, beautiful chart?  You can have it.</p>
+<p>So my executive order also requires agencies to work together efficiently by requiring one lead agency for each major infrastructure project.  It also holds agencies accountable if they fail to streamline their review process.  So each agency is accountable.  We’re going to get infrastructure built quickly, inexpensively &#8212; relatively speaking &#8212; and the permitting process will go very, very quickly.</p>
+<p>No longer will we tolerate one job-killing delay after another.  No longer will we accept a broken system that benefits consultants and lobbyists at the expense of hardworking Americans.</p>
+<p>Now, I knew the process very well &#8212; probably better than anybody.  I had to get permits for this building and many of the buildings I built &#8212; all of the buildings I built in Manhattan and many other places.  And I will tell you that the consultants are rich people.  They go around making it very difficult.  They lobby Congress, they lobby state governments, city governments to make it very difficult so that you have to hire consultants, and that you have to take years and pay them a fortune.  So we’re streamlining the process, and we won’t be having so much of that anymore.</p>
+<p>No longer will we allow the infrastructure of our magnificent country to crumble and decay.  While protecting the environment, we will build gleaming new roads, bridges, railways, waterways, tunnels, and highways.  We will rebuild our country with American workers, American iron, American aluminum, American steel.  We will create millions of new jobs and make millions of American dreams come true.</p>
+<p>Our infrastructure will again be the best in the world.  We used to have the greatest infrastructure anywhere in the world, and today we’re like a third-world country.  We are literally like a third-world country.  Our infrastructure will again be the best, and we will restore the pride in our communities, our nation, and all over the United States we’ll be proud again.</p>
+<p>So I want to thank everybody for being here.  God bless you.  God bless the United States.</p>
+<p>And if you have any questions, we have &#8212; Mick, you can come up here please.  Come on up.  Mick Mulvaney.</p>
+<p>If you have any questions, please feel free to ask.</p>
+<p>Q    Mr. President, why do you think these CEOs are leaving your manufacturing council?</p>
+<p>THE PRESIDENT:  Because they&#8217;re not taking their job seriously as it pertains to this country.  And we want jobs, manufacturing in this country.  If you look at some of those people that you&#8217;re talking about they’re outside of the country, they&#8217;re having a lot of their product made outsider.  If you look at Merck as an example, take a look where &#8212; excuse me, excuse me &#8212; take a look at where their product is made.  It&#8217;s made outside of our country.  We want products made in the country.</p>
+<p>Now, I have to tell you, some of the folks that will leave, they&#8217;re leaving out of embarrassment because they make their products outside.  And I&#8217;ve been lecturing them, including the gentleman that you&#8217;re referring to, about you have to bring it back to this country.  You can&#8217;t do it necessarily in Ireland and all of these other places.  You have to bring this work back to this country.  That&#8217;s what I want.  I want manufacturing to be back into the United States so that American workers can benefit.</p>
+<p>Q    Let me ask you, Mr. President, why did you wait so long to blast neo-Nazis?</p>
+<p>THE PRESIDENT:  I didn’t wait long.</p>
+<p>Q    You waited two days &#8212;</p>
+<p>THE PRESIDENT:  I didn’t wait long.</p>
+<p>Q    Forty-eight hours.</p>
+<p>THE PRESIDENT:  I wanted to make sure, unlike most politicians, that what I said was correct &#8212; not make a quick statement.  The statement I made on Saturday, the first statement, was a fine statement.  But you don’t make statements that direct unless you know the facts.  It takes a little while to get the facts.  You still don’t know the facts.  And it&#8217;s a very, very important process to me, and it&#8217;s a very important statement.</p>
+<p>So I don’t want to go quickly and just make a statement for the sake of making a political statement.  I want to know the facts.  If you go back to &#8212;</p>
+<p>Q    So you had to (inaudible) white supremacists?</p>
+<p>THE PRESIDENT:  I brought it.  I brought it.  I brought it.</p>
+<p>Q    Was it terrorism, in your opinion, what happened?</p>
+<p>THE PRESIDENT:  As I said on &#8212; remember, Saturday &#8212; we condemn in the strongest possible terms this egregious display of hatred, bigotry, and violence.  It has no place in America.  And then it went on from there.</p>
+<p>Now, here&#8217;s the thing &#8212;</p>
+<p>Q    (Inaudible) many sides.</p>
+<p>THE PRESIDENT:  Excuse me.  Excuse me.  Take it nice and easy.  Here&#8217;s the thing:  When I make a statement, I like to be correct.  I want the facts.  This event just happened.  In fact, a lot of the event didn’t even happen yet, as we were speaking.  This event just happened.</p>
+<p>Before I make a statement, I need the facts.  So I don’t want to rush into a statement.  So making the statement when I made it was excellent.  In fact, the young woman, who I hear was a fantastic young woman, and it was on NBC &#8212; her mother wrote me and said through, I guess, Twitter, social media, the nicest things.  And I very much appreciated that.  I hear she was a fine &#8212; really, actually, an incredible young woman.  But her mother, on Twitter, thanked me for what I said.</p>
+<p>And honestly, if the press were not fake, and if it was honest, the press would have said what I said was very nice.  But unlike you, and unlike &#8212; excuse me, unlike you and unlike the media, before I make a statement, I like to know the facts.</p>
+<p>Q    Why do Nazis like you &#8212; (inaudible) &#8212; these statements?</p>
+<p>THE PRESIDENT:  They don’t.  They don’t.</p>
+<p>Q    They do.  Look &#8212;</p>
+<p>(Cross-talk.)</p>
+<p>THE PRESIDENT:  How about a couple of infrastructure questions.</p>
+<p>Q    Was it terrorism, that event?  Was that terrorism?</p>
+<p>Q    The CEO of Walmart said you missed a critical opportunity &#8212;</p>
+<p>THE PRESIDENT:  Say it.  What?</p>
+<p>Q    The CEO of Walmart said you missed a critical opportunity to help bring the country together.  Did you?</p>
+<p>THE PRESIDENT:  Not at all.  I think the country &#8212; look, you take a look.  I&#8217;ve created over a million jobs since I&#8217;m President.  The country is booming.  The stock market is setting records.  We have the highest employment numbers we&#8217;ve ever had in the history of our country.  We&#8217;re doing record business.  We have the highest levels of enthusiasm.  So the head of Walmart, who I know &#8212; who&#8217;s a very nice guy &#8212; was making a political statement.  I mean &#8212;</p>
+<p>Q    (Inaudible.)</p>
+<p>THE PRESIDENT:  I&#8217;d do it the same way.  And you know why?  Because I want to make sure, when I make a statement, that the statement is correct.  And there was no way &#8212; there was no way of making a correct statement that early.  I had to see the facts, unlike a lot of reporters.  Unlike a lot of reporters &#8212;</p>
+<p>Q    Nazis were there.</p>
+<p>Q    David Duke was there.</p>
+<p>THE PRESIDENT:  I didn’t know David Duke was there.  I wanted to see the facts.  And the facts, as they started coming out, were very well stated.  In fact, everybody said, &#8220;His statement was beautiful.  If he would have made it sooner, that would have been good.&#8221;  I couldn’t have made it sooner because I didn’t know all of the facts.  Frankly, people still don’t know all of the facts.</p>
+<p>It was very important &#8212; excuse me, excuse me &#8212; it was very important to me to get the facts out and correctly.  Because if I would have made a fast statement &#8212; and the first statement was made without knowing much, other than what we were seeing.  The second statement was made after, with knowledge, with great knowledge.  There are still things &#8212; excuse me &#8212; there are still things that people don’t know.</p>
+<p>I want to make a statement with knowledge.  I wanted to know the facts.</p>
+<p>Q    Two questions.  Was this terrorism?  And can you tell us how you&#8217;re feeling about your chief strategist, Stephen Bannon?</p>
+<p>THE PRESIDENT:  Well, I think the driver of the car is a disgrace to himself, his family, and this country.  And that is &#8212; you can call it terrorism.  You can call it murder.  You can call it whatever you want.  I would just call it as &#8220;the fastest one to come up with a good verdict.&#8221;  That&#8217;s what I&#8217;d call it.  Because there is a question:  Is it murder?  Is it terrorism?  And then you get into legal semantics.  The driver of the car is a murderer.  And what he did was a horrible, horrible, inexcusable thing.</p>
+<p>Q    Can you tell us how you&#8217;re feeling about your chief strategist, Mr. Bannon?  Can you talk about that?</p>
+<p>THE PRESIDENT:  Go ahead.</p>
+<p>Q    I would echo Maggie&#8217;s question.  Steve Bannon has come under &#8212;</p>
+<p>THE PRESIDENT:  I never spoke to Mr. Bannon about it.</p>
+<p>Q    Can you tell us broadly what your &#8212; do you still have confidence in Steve?</p>
+<p>THE PRESIDENT:  Well, we&#8217;ll see.  Look, look &#8212; I like Mr. Bannon.  He&#8217;s a friend of mine.  But Mr. Bannon came on very late.  You know that.  I went through 17 senators, governors, and I won all the primaries.  Mr. Bannon came on very much later than that.  And I like him, he&#8217;s a good man.  He is not a racist, I can tell you that.  He&#8217;s a good person.  He actually gets very unfair press in that regard.  But we&#8217;ll see what happens with Mr. Bannon.  But he&#8217;s a good person, and I think the press treats him, frankly, very unfairly.</p>
+<p>Q    Senator McCain has called on you to defend your National Security Advisor, H.R. McMaster, against these attacks.</p>
+<p>THE PRESIDENT:  I did it the last time.</p>
+<p>Q    And he called on it again, linking &#8212;</p>
+<p>THE PRESIDENT:  Senator McCain?</p>
+<p>Q    &#8212; to the alt-right, and saying &#8212;</p>
+<p>THE PRESIDENT:  Senator McCain?</p>
+<p>Q    Yes.</p>
+<p>THE PRESIDENT:  You mean the one who voted against Obamacare?</p>
+<p>Q    And he said &#8212;</p>
+<p>THE PRESIDENT:  Who is &#8212; you mean Senator McCain who voted against us getting good healthcare?</p>
+<p>Q    Senator McCain said that the alt-right is behind these attacks, and he linked that same group to those who perpetrated the attack in Charlottesville.</p>
+<p>THE PRESIDENT:  Well, I don’t know.  I can&#8217;t tell you.  I&#8217;m sure Senator McCain must know what he&#8217;s talking about.  But when you say the alt-right, define alt-right to me.  You define it.  Go ahead.</p>
+<p>Q    Well, I&#8217;m saying, as Senator &#8212;</p>
+<p>THE PRESIDENT:  No, define it for me.  Come on, let&#8217;s go.  Define it for me.</p>
+<p>Q    Senator McCain defined them as the same group &#8212;</p>
+<p>THE PRESIDENT:  Okay, what about the alt-left that came charging at &#8212; excuse me, what about the alt-left that came charging at the, as you say, the alt-right?  Do they have any semblance of guilt?</p>
+<p>Let me ask you this:  What about the fact that they came charging with clubs in their hands, swinging clubs?  Do they have any problem?  I think they do.  As far as I&#8217;m concerned, that was a horrible, horrible day.</p>
+<p>Q    You&#8217;re not putting these &#8212;</p>
+<p>THE PRESIDENT:  Wait a minute.  I&#8217;m not finished.  I&#8217;m not finished, fake news.  That was a horrible day &#8212;</p>
+<p>Q    Sir, you&#8217;re not putting these protestors on the same level as neo-Nazis &#8212;</p>
+<p>Q    Is the alt-left as bad as white supremacy?</p>
+<p>THE PRESIDENT:  I will tell you something.  I watched those very closely &#8212; much more closely than you people watched it.  And you have &#8212; you had a group on one side that was bad, and you had a group on the other side that was also very violent.  And nobody wants to say that, but I&#8217;ll say it right now.  You had a group &#8212; you had a group on the other side that came charging in, without a permit, and they were very, very violent.</p>
+<p>Q    Is the alt-left as bad as Nazis?  Are they as bad as Nazis?</p>
+<p>THE PRESIDENT:  Go ahead.</p>
+<p>Q    Do you think that what you call the alt-left is the same as neo-Nazis?</p>
+<p>THE PRESIDENT:  Those people &#8212; all of those people &#8211;excuse me, I&#8217;ve condemned neo-Nazis.  I&#8217;ve condemned many different groups.  But not all of those people were neo-Nazis, believe me.  Not all of those people were white supremacists by any stretch.  Those people were also there because they wanted to protest the taking down of a statue of Robert E. Lee.</p>
+<p>Q    Should that statue be taken down?</p>
+<p>THE PRESIDENT:  Excuse me.  If you take a look at some of the groups, and you see &#8212; and you&#8217;d know it if you were honest reporters, which in many cases you&#8217;re not &#8212; but many of those people were there to protest the taking down of the statue of Robert E. Lee.</p>
+<p>So this week it&#8217;s Robert E. Lee.  I noticed that Stonewall Jackson is coming down.  I wonder, is it George Washington next week?  And is it Thomas Jefferson the week after?  You know, you really do have to ask yourself, where does it stop?</p>
+<p>But they were there to protest &#8212; excuse me, if you take a look, the night before they were there to protest the taking down of the statue of Robert E. Lee.</p>
+<p>Infrastructure question.  Go ahead.</p>
+<p>Q    Should the statues of Robert E. Lee stay up?</p>
+<p>THE PRESIDENT:  I would say that&#8217;s up to a local town, community, or the federal government, depending on where it is located.</p>
+<p>Q    How concerned are you about race relations in America?  And do you think things have gotten worse or better since you took office?</p>
+<p>THE PRESIDENT:  I think they&#8217;ve gotten better or the same.  Look, they&#8217;ve been frayed for a long time.  And you can ask President Obama about that, because he&#8217;d make speeches about it.  But I believe that the fact that I brought in &#8212; it will be soon &#8212; millions of jobs &#8212; you see where companies are moving back into our country &#8212; I think that&#8217;s going to have a tremendous, positive impact on race relations.</p>
+<p>We have companies coming back into our country.  We have two car companies that just announced.  We have Foxconn in Wisconsin just announced.  We have many companies, I say, pouring back into the country.  I think that&#8217;s going to have a huge, positive impact on race relations.  You know why?  It&#8217;s jobs.  What people want now, they want jobs.  They want great jobs with good pay, and when they have that, you watch how race relations will be.</p>
+<p>And I’ll tell you, we’re spending a lot of money on the inner cities.  We’re fixing the inner cities.  We’re doing far more than anybody has done with respect to the inner cities.  It’s a priority for me, and it’s very important.</p>
+<p>Q    Mr. President, are you putting what you’re calling the alt-left and white supremacists on the same moral plane?</p>
+<p>THE PRESIDENT:  I’m not putting anybody on a moral plane.  What I’m saying is this:  You had a group on one side and you had a group on the other, and they came at each other with clubs &#8212; and it was vicious and it was horrible.  And it was a horrible thing to watch.</p>
+<p>But there is another side.  There was a group on this side.  You can call them the left &#8212; you just called them the left &#8212; that came violently attacking the other group.  So you can say what you want, but that’s the way it is.</p>
+<p>Q    (Inaudible) both sides, sir.  You said there was hatred, there was violence on both sides.  Are the &#8212;</p>
+<p>THE PRESIDENT:  Yes, I think there’s blame on both sides.  If you look at both sides &#8212; I think there’s blame on both sides.  And I have no doubt about it, and you don’t have any doubt about it either.</p>
+<p>And if you reported it accurately, you would say.</p>
+<p>Q    The neo-Nazis started this.  They showed up in Charlottesville to protest &#8212;</p>
+<p>THE PRESIDENT:  Excuse me, excuse me.  They didn’t put themselves &#8212; and you had some very bad people in that group, but you also had people that were very fine people, on both sides.  You had people in that group.</p>
+<p>Q    (Inaudible.)</p>
+<p>THE PRESIDENT:  Excuse me, excuse me.  I saw the same pictures as you did.</p>
+<p>You had people in that group that were there to protest the taking down of, to them, a very, very important statue and the renaming of a park from Robert E. Lee to another name.</p>
+<p>Q    George Washington and Robert E. Lee are not the same.</p>
+<p>THE PRESIDENT:  George Washington was a slave owner.  Was George Washington a slave owner?  So will George Washington now lose his status?  Are we going to take down &#8212;</p>
+<p>Excuse me, are we going to take down statues to George Washington?  How about Thomas Jefferson?  What do you think of Thomas Jefferson?  You like him?</p>
+<p>Q    I do love Thomas Jefferson.</p>
+<p>THE PRESIDENT:  Okay, good.  Are we going to take down the statue?  Because he was a major slave owner.  Now, are we going to take down his statue?</p>
+<p>So you know what, it’s fine.  You’re changing history.  You’re changing culture.  And you had people &#8212; and I’m not talking about the neo-Nazis and the white nationalists &#8212; because they should be condemned totally.  But you had many people in that group other than neo-Nazis and white nationalists.  Okay?  And the press has treated them absolutely unfairly.</p>
+<p>Now, in the other group also, you had some fine people.  But you also had troublemakers, and you see them come with the black outfits and with the helmets, and with the baseball bats.  You had a lot of bad people in the other group.</p>
+<p>Q    Who are the good people?</p>
+<p>Q    Sir, I just didn’t understand what you were saying.  You were saying the press has treated white nationalists unfairly?  I just don’t understand what you were saying.</p>
+<p>THE PRESIDENT:  No, no.  There were people in that rally &#8212; and I looked the night before &#8212; if you look, there were people protesting very quietly the taking down of the statue of Robert E. Lee.  I’m sure in that group there were some bad ones.  The following day it looked like they had some rough, bad people &#8212; neo-Nazis, white nationalists, whatever you want to call them.</p>
+<p>But you had a lot of people in that group that were there to innocently protest, and very legally protest &#8212; because I don’t know if you know, they had a permit.  The other group didn’t have a permit.  So I only tell you this:  There are two sides to a story.  I thought what took place was a horrible moment for our country &#8212; a horrible moment.  But there are two sides to the country.</p>
+<p>Does anybody have a final &#8212;</p>
+<p>Q    I have an infrastructure question.</p>
+<p>THE PRESIDENT:  You have an infrastructure &#8212;</p>
+<p>Q    What makes you think you can get an infrastructure bill?  You didn’t get healthcare &#8212;</p>
+<p>THE PRESIDENT:  Well, you know, I’ll tell you.  We came very close with healthcare.  Unfortunately, John McCain decided to vote against it at the last minute.  You’ll have to ask John McCain why he did that.  But we came very close to healthcare.  We will end up getting healthcare.  But we’ll get the infrastructure.  And actually, infrastructure is something that I think we’ll have bipartisan support on.  I actually think Democrats will go along with the infrastructure.</p>
+<p>Q    Mr. President, have you spoken to the family of the victim of the car attack?</p>
+<p>THE PRESIDENT:  No, I’ll be reaching out.  I’ll be reaching out.</p>
+<p>Q    When will you be reaching out?</p>
+<p>THE PRESIDENT:  I thought that the statement put out &#8212; the mother’s statement I thought was a beautiful statement.  I will tell you, it was something that I really appreciated.  I thought it was terrific.  And, really, under the kind of stress that she’s under and the heartache that she’s under, I thought putting out that statement, to me, was really something.  I won’t forget it.</p>
+<p>Thank you, all, very much.  Thank you.  Thank you.</p>
+<p>* * * *</p>
+<p>Q    Will you go to Charlottesville?  Will you go to check out what happened?</p>
+<p>THE PRESIDENT:  I own a house in Charlottesville.  Does anyone know I own a house in Charlottesville?</p>
+<p>Q    Where is it?</p>
+<p>THE PRESIDENT:  Oh boy, it’s going to be &#8212;</p>
+<p>Q    Where is it?</p>
+<p>THE PRESIDENT:  It&#8217;s in Charlottesville.  You&#8217;ll see.</p>
+<p>Q    Is it a winery or something?</p>
+<p>THE PRESIDENT:  It is the winery.</p>
+<p>I mean, I know a lot about Charlottesville.  Charlottesville is a great place that&#8217;s been very badly hurt over the last couple of days.</p>
+<p style="margin: 0px 0px 1em;padding: 0px;border: 0px;font-style: normal;font-weight: 400;line-height: 24px;font-family: 'Source Sans Pro', HelveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Nimbus Sans L', sans-serif;font-size: 16px;vertical-align: baseline;color: #333333;letter-spacing: 0.01em;text-align: start;text-indent: 0px">Q    (Inaudible.)</p>
+<p>THE PRESIDENT:  I own, actually, one of the largest wineries in the United States.  It&#8217;s in Charlottesville.</p>
+<p>Q    Do you believe your words are helping to heal this country right now?</p>
+<p>Q    What do you think needs to be done to overcome the racial divides in this country?</p>
+<p>THE PRESIDENT:  Well, I think jobs can have a big impact.  I think if we continue to create jobs &#8212; over a million, substantially more than a million.  And you see just the other day, the car companies coming in with Foxconn.  I think if we continue to create jobs at levels that I’m creating jobs, I think that’s going to have a tremendous impact &#8212; positive impact on race relations.</p>
+<p>Q    Your remarks today, how do you think that will impact the racial, sort of conflict, today?</p>
+<p>THE PRESIDENT:  The people are going to be working, they’re going to be making a lot of money &#8212; much more money than they ever thought possible.  But that’s going to happen.</p>
+<p>Q    Your remarks today.</p>
+<p>THE PRESIDENT:  And the other thing &#8212; very important &#8212; I believe wages will start going up.  They haven’t gone up for a long time.  I believe wages now &#8212; because the economy is doing so well with respect to employment and unemployment, I believe wages will start to go up.  I think that will have a tremendously positive impact on race relations.</p>
+<p>END<br />
+4:21 P.M. EDT</p>
+		</div>
+	</div>
+</div>
+
+</main><!-- end main -->
+
+<footer class="footer">
+	<div class="footer__wrap">
+		<div class="footer__logo">
+			<a href="https://www.whitehouse.gov">
+				<img class="footer__img" src="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-footer-sm.png" srcset="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-footer-sm.png 1x, https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-footer-md.png 2x, https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-footer-lg.png 3x" alt="White House Logo">
+			</a>
+		</div>
+		<div class="footer__site-title">The White House</div>
+		<span class="footer__divider divider"><hr><hr></span>
+		<div class="footer__nav">
+			<nav class="nav nav--footer"><ul class="nav__menu nav__menu--depth0 menu"><li class="nav__menu-item nav__menu-item--depth0 menu-item menu-item-type-post_type menu-item-object-page menu-item-17230"><a href="https://www.whitehouse.gov/live/" class="nav__link">Live</a></li>
+<li class="nav__menu-item nav__menu-item--depth0 menu-item menu-item-type-custom menu-item-object-custom menu-item-8288"><a href="https://apply.whitehouse.gov/" class="nav__link">Jobs</a></li>
+<li class="nav__menu-item nav__menu-item--depth0 menu-item menu-item-type-post_type menu-item-object-page menu-item-8093"><a href="https://www.whitehouse.gov/get-involved/" class="nav__link">Get Involved</a></li>
+<li class="nav__menu-item nav__menu-item--depth0 menu-item menu-item-type-post_type menu-item-object-page menu-item-8092"><a href="https://www.whitehouse.gov/copyright/" class="nav__link">Copyright Policy</a></li>
+<li class="nav__menu-item nav__menu-item--depth0 menu-item menu-item-type-post_type menu-item-object-page menu-item-8095"><a href="https://www.whitehouse.gov/privacy-policy/" class="nav__link">Privacy Policy</a></li>
+</ul></nav>		</div>
+	</div>
+	<div class="footer__social">
+		<nav class="nav nav--social-links-menu"><ul class="nav__menu nav__menu--depth0 menu"><li class="nav__menu-item nav__menu-item--depth0 footer__social-link__twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a target="_blank" href="https://twitter.com/whitehouse" class="nav__link"><span>Twitter</span></a></li>
+<li class="nav__menu-item nav__menu-item--depth0 footer__social-link__facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a target="_blank" href="https://www.facebook.com/WhiteHouse/" class="nav__link"><span>Facebook</span></a></li>
+<li class="nav__menu-item nav__menu-item--depth0 footer__social-link__instagram menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a target="_blank" href="https://www.instagram.com/whitehouse/" class="nav__link"><span>Instagram</span></a></li>
+<li class="nav__menu-item nav__menu-item--depth0 footer__social-link__email menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="/contact/" class="nav__link"><span>Contact</span></a></li>
+</ul></nav>	</div>
+</footer>
+</div><!-- end .body-overflow -->
+
+<section id="wp-footer">
+	<script type='text/javascript' src='https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/vendor/jquery/dist/jquery.min.js?ver=ccb7e60d'></script>
+<script type='text/javascript' src='https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/vendor/clipboard/dist/clipboard.min.js?ver=ccb7e60d'></script>
+<script type='text/javascript' src='https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/vendor/bows/dist/bows.min.js?ver=ccb7e60d'></script>
+<script type='text/javascript' src='https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/dist/site.min.js?ver=ccb7e60d'></script>
+<script type='text/javascript'>
+window.site = new Site();
+</script>
+</section><div class="popover" role="dialog">
+	<div class="popover__bar">
+		<button type="button" class="popover__hamburger-toggle">
+			<img class="popover__hamburger-toggle-close" src="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/close.svg" alt="Close Menu" width="20" height="20" />
+			<img class="popover__hamburger-toggle-open" src="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/hamburger.svg" alt="Open Menu" width="28" height="20" />
+		</button>
+
+		<button type="button" class="popover__search-toggle">
+			<img class="popover__search-toggle-close" src="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/close.svg" alt="Close Search" width="20" height="20" />
+			<img class="popover__search-toggle-open" src="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/search.svg" alt="Open Search" width="20" height="20" />
+		</button>
+	</div>
+
+	<div class="popover__content">
+		<div class="popover__hamburger">
+			<div class="popover__nav">
+				<nav class="nav nav--popover"><ul class="nav__menu nav__menu--depth0 menu"><li class="nav__menu-item nav__menu-item--depth0 nav__menu-item--has-submenu nav__menu-item--active-ancestor menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children current-menu-parent current-menu-ancestor nav__menu-item--has-menu-4 menu-item-658"><a href="https://www.whitehouse.gov/news/" class="nav__link">News</a>
+<ul class="nav__menu nav__menu--depth1 sub-menu">
+	<li class="nav__menu-item nav__menu-item--depth1 nav__menu-item--active menu-item menu-item-type-post_type_archive menu-item-object-briefing-statement current-menu-item menu-item-105680"><a href="https://www.whitehouse.gov/briefings-statements/" class="nav__link">Briefings &#038; Statements</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type_archive menu-item-object-presidential-action menu-item-105687"><a href="https://www.whitehouse.gov/presidential-actions/" class="nav__link">Presidential Actions</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-105701"><a href="https://www.whitehouse.gov/articles/" class="nav__link">Articles</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-page menu-item-105694"><a href="https://www.whitehouse.gov/news/" class="nav__link">All News</a></li>
+</ul>
+</li>
+<li class="nav__menu-item nav__menu-item--depth0 nav__menu-item--has-submenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav__menu-item--has-menu-6 menu-item-659"><a href="https://www.whitehouse.gov/issues/" class="nav__link">Issues</a>
+<ul class="nav__menu nav__menu--depth1 sub-menu">
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-issue menu-item-105708"><a href="https://www.whitehouse.gov/issues/education/" class="nav__link">Education</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-issue menu-item-105715"><a href="https://www.whitehouse.gov/issues/national-security-defense/" class="nav__link">National Security &#038; Defense</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-issue menu-item-105729"><a href="https://www.whitehouse.gov/issues/budget-spending/" class="nav__link">Budget &#038; Spending</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-issue menu-item-105722"><a href="https://www.whitehouse.gov/issues/immigration/" class="nav__link">Immigration</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-issue menu-item-105736"><a href="https://www.whitehouse.gov/issues/healthcare/" class="nav__link">Healthcare</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-page menu-item-105743"><a href="https://www.whitehouse.gov/issues/" class="nav__link">All Issues</a></li>
+</ul>
+</li>
+<li class="nav__menu-item nav__menu-item--depth0 nav__menu-item--has-submenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav__menu-item--has-menu-6 menu-item-795"><a href="https://www.whitehouse.gov/the-trump-administration/" class="nav__link">The Administration</a>
+<ul class="nav__menu nav__menu--depth1 sub-menu">
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-authors menu-item-105757"><a href="https://www.whitehouse.gov/people/donald-j-trump/" class="nav__link">President Donald J. Trump</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-authors menu-item-105764"><a href="https://www.whitehouse.gov/people/mike-pence/" class="nav__link">Vice President Michael R. Pence</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-authors menu-item-105750"><a href="https://www.whitehouse.gov/people/melania-trump/" class="nav__link">First Lady Melania Trump</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-authors menu-item-105771"><a href="https://www.whitehouse.gov/people/karen-pence/" class="nav__link">Mrs. Karen Pence</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-page menu-item-105778"><a href="https://www.whitehouse.gov/the-trump-administration/the-cabinet/" class="nav__link">The Cabinet</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-page menu-item-105785"><a href="https://www.whitehouse.gov/disclosures/" class="nav__link">Disclosures</a></li>
+</ul>
+</li>
+<li class="nav__menu-item nav__menu-item--depth0 nav__menu-item--has-submenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav__menu-item--has-menu-6 menu-item-105792"><a href="#" class="nav__link">Executive Offices</a>
+<ul class="nav__menu nav__menu--depth1 sub-menu">
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-eop-component menu-item-105806"><a href="https://www.whitehouse.gov/cea/" class="nav__link">Council of Economic Advisers</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-eop-component menu-item-105799"><a href="https://www.whitehouse.gov/ceq/" class="nav__link">Council on Environmental Quality</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-eop-component menu-item-105813"><a href="https://www.whitehouse.gov/nsc/" class="nav__link">National Security Council</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-eop-component menu-item-106142"><a href="https://www.whitehouse.gov/omb/" class="nav__link">Office of Management and Budget</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-eop-component menu-item-105827"><a href="https://www.whitehouse.gov/ondcp/" class="nav__link">Office of National Drug Control Policy</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-eop-component menu-item-105834"><a href="https://www.whitehouse.gov/ostp/" class="nav__link">Office of Science and Technology Policy</a></li>
+</ul>
+</li>
+<li class="nav__menu-item nav__menu-item--depth0 nav__menu-item--has-submenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav__menu-item--has-menu-5 menu-item-1548"><a href="https://www.whitehouse.gov/about-the-white-house/" class="nav__link">About The White House</a>
+<ul class="nav__menu nav__menu--depth1 sub-menu">
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-page menu-item-105848"><a href="https://www.whitehouse.gov/about-the-white-house/tours-events/" class="nav__link">Tours &#038; Events</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-page menu-item-105855"><a href="https://www.whitehouse.gov/about-the-white-house/presidents/" class="nav__link">Past Presidents</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-page menu-item-105862"><a href="https://www.whitehouse.gov/about-the-white-house/first-ladies/" class="nav__link">Past First Ladies</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 nav__menu-item--has-submenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav__menu-item--has-menu-5 menu-item-105995"><a href="https://www.whitehouse.gov/about-the-white-house/the-grounds/" class="nav__link">The Grounds</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 nav__menu-item--has-submenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav__menu-item--has-menu-7 menu-item-106079"><a href="https://www.whitehouse.gov/about-the-white-house/our-government/" class="nav__link">Our Government</a></li>
+</ul>
+</li>
+<li class="nav__menu-item nav__menu-item--depth0 nav__menu-item--has-submenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav__menu-item--has-menu-3 menu-item-5738"><a href="https://www.whitehouse.gov/get-involved/" class="nav__link">Get Involved</a>
+<ul class="nav__menu nav__menu--depth1 sub-menu">
+	<li class="nav__menu-item nav__menu-item--depth1 menu-item menu-item-type-post_type menu-item-object-page menu-item-105869"><a href="https://www.whitehouse.gov/get-involved/write-or-call/" class="nav__link">Write or Call the White House</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 nav__menu-item--has-submenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav__menu-item--has-menu-3 menu-item-105876"><a href="https://www.whitehouse.gov/get-involved/internships/" class="nav__link">White House Internship Program</a></li>
+	<li class="nav__menu-item nav__menu-item--depth1 nav__menu-item--has-submenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav__menu-item--has-menu-4 menu-item-105904"><a href="https://www.whitehouse.gov/get-involved/fellows/" class="nav__link">White House Fellows</a></li>
+</ul>
+</li>
+<li class="nav__menu-item nav__menu-item--depth0 menu-item menu-item-type-post_type menu-item-object-page menu-item-105988"><a href="https://www.whitehouse.gov/contact/" class="nav__link">Contact</a></li>
+<li class="nav__menu-item nav__menu-item--depth0 menu-item menu-item-type-post_type menu-item-object-page nav__menu-item--live menu-item-105974"><a href="https://www.whitehouse.gov/live/" class="nav__link"><span class="nav__menu-item-label">Live</span></a></li>
+</ul></nav>			</div>
+			<div class="popover__seal">
+				<img height="435" width="435" src="https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/presidential-crest-gray.svg" alt="Presidential Crest" />
+			</div>
+		</div>
+
+		<div class="popover__search">
+			<form class="popover__search-form" action="https://www.whitehouse.gov/search/">
+				<label class="visually-hidden" for="popover__search-input">
+					Type Your Search
+				</label>
+				<input type="text" id="popover__search-input" class="popover__search-input" name="s" placeholder="Type Your Search..." autocomplete="off">
+				<button type="submit" class="popover__search-submit"><span>Press enter to search</span></button>
+			</form>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9360826e15","applicationID":"81062415","transactionName":"MVNbZhQFXEAEVBBfWQgZeFESDV1dSkQNWFEKUxRQFA1XVQxZAxtFEldNVwsBXEc=","queueTime":0,"applicationTime":465,"atts":"HRRYEFwfT04=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

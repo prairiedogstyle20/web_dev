@@ -1,0 +1,2806 @@
+
+
+
+<!DOCTYPE html><!--[if IE]><![endif]-->
+<!--[if lt IE 7]><html class="ie ie6 ielegacy no-js" lang="en-US"><![endif]-->
+<!--[if IE 7]><html class="ie ie7 ielegacy no-js" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="ie ie8 ielegacy no-js" lang="en-US"><![endif]-->
+<!--[if IE 9]><html class="ie ie9 no-js" lang="en-US"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+  <!-- Piano / VX Composer -->
+  <script>
+    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function (adblocker) {
+      var d = new Date();
+      d.setTime(d.getTime() + 60 * 60 * 24 * 2 * 1000);
+      document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    }
+    var script = document.createElement("script");
+    script.setAttribute("async", true);
+    script.setAttribute("src", "//www.npttech.com/advertising.js");
+    script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+    document.getElementsByTagName("head")[0].appendChild(script);
+  </script>
+
+  <script src="//twt-assets.washtimes.com/v4/js/prebid.1.30.0.807a43d8416e.js"></script>
+
+  
+  <!-- BEGIN marfeel -->
+  <script>window.mrf={host:"bc.marfeel.com",dt:3},function(e,t,o,a,i,n,r){function s(){l&&(e.cookie="fromt=yes;path=/;expires="+new Date(Date.now()+18e5).toGMTString(),o.reload())}var l=!/marfeelgarda=no|fromt=yes/i.test(n+";"+i);if((/(ipad.*?OS )(?!1_|2_|3_|4_|X)|mozilla.*android (?!(1|2|3)\.)[0-9](?!.*mobile)|\bSilk\b/i.test(a)&&2&r.dt||/(ip(hone|od).*?OS )(?!1_|2_|3_|4_|X)|mozilla.*android (?!(1|2|3)\.)[0-9].*mobile|bb10/i.test(a)&&1&r.dt||/marfeelgarda=off/i.test(n))&&t===t.top){l&&e.write('<plaintext style="display:none">');var m="script",d=setTimeout(s,1e4),c=e.createElement(m),f=e.getElementsByTagName(m)[0];c.src="https://"+t.mrf.host+"/statics/marfeel/gardac.js",c.onerror=s,c.onload=function(){clearTimeout(d)},f.parentNode.insertBefore(c,f)}else{var p=o.pathname.split("/"),m=e.createElement("script");m.src="https://"+t.mrf.host+"/"+o.hostname+(r.multi&&p.length>1&&p[1].length?"/"+p[1]:"")+"/main.d.js",m.async=!0,e.head.appendChild(m)}}(document,window,location,navigator.userAgent,document.cookie,location.search,window.mrf);</script>
+  <script>function getMrfP() {var r=.1,n=.15,t=.2,a=Math.random();return a>r&&n>a?"S":a>r&&t>a?"D":"M"} </script>
+  <!-- END marfeel -->
+  
+
+  <script id="js-jquery" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  
+    <!-- Load GPT ASYNC --->
+<script async src="//www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script>
+   var googletag = googletag || {};
+   googletag.cmd = googletag.cmd || [];
+   googletag.cmd.push(function(){
+
+     console.log('__ADS enableSingleRequest');
+     googletag.pubads().enableSingleRequest();
+     console.log('__ADS disableInitialLoad');
+     googletag.pubads().disableInitialLoad();
+     console.log('__ADS enableServices');
+     googletag.enableServices();
+   });
+
+  window.GPT = {
+    SITE: 'production',
+    ACCOUNT: '/5856/wash.times'
+  };
+  window.GPT.segmentation = document.cookie.match('Segmentation=Preferred') ? 'Preferred' : 'Normal';
+</script>
+
+
+    <script async src="//twt-assets.washtimes.com/js/dart.8ad33fb3ede5.js"></script>
+    <!-- BEGIN: Nativo -->
+    <script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+    <!-- End Nativo Code -->
+    
+    <script>
+      //load the apstag.js library
+      !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+    </script>
+    <script type="text/javascript" src="//twt-assets.washtimes.com/js/twt_app_.e5f8f25b257e.js" charset="utf-8"></script>
+  
+
+  
+
+
+<script>
+	window.GPT.path = '/5856/wash.times/dossier-shows-democrat-russian-collusion-no-proof-';
+	window.GPT.cats = JSON.parse('["editor-favorites", "inside-politics", "politics", "security", "waste-fraud-abuse", "politics"]');
+	window.GPT.slug = 'dossier-shows-democrat-russian-collusion-no-proof-';
+	window.GPT.contenttype = 'story';
+	window.GPT.referred = 'document.referrer.split('/')[2]';
+	
+  	
+  	
+        window.GPT.tag = JSON.parse('["donald trump","moscow","russia"]');
+    
+</script>
+
+
+  
+    
+        <script src="//twt-assets.washtimes.com/v4/js/ads/config/story-politics.49a5e0957f92.js"></script>
+    
+
+
+  
+	<!-- Begin comScore Tag -->
+  <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "17692074", c3: "", c4: "www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/" });
+    (function() {
+      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      el.parentNode.insertBefore(s, el);
+    })();
+  </script>
+  <noscript>
+    <img src="//b.scorecardresearch.com/p?c1=2&c2=17692074&c3=&c4=www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/&c5=&c6=&c15=&cv=2.0&cj=1" />
+  </noscript>
+	<!-- End comScore Tag -->
+  
+
+  
+   <!-- BEGIN onesignal -->
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+      appId: '90fa34ea-9c30-4657-83d5-14b0f91fb62c',
+      autoRegister: true,
+      subdomainName: 'washtimes',
+      safari_web_id: 'web.onesignal.auto.11181d92-f3cb-414e-9b3e-6471e643153c',
+      httpPermissionRequest: {
+        enable: true
+      },
+      notifyButton: {
+        enable: false
+      }
+    }]);
+  </script>
+  <!-- END onesignal -->
+
+
+	<title>Dossier shows Democrat, Russian collusion; no proof of Trump gossip - Washington Times</title>
+
+	
+		<meta name="description" content="For over a year, the Hillary Clinton campaign, other Democrats and liberal pundits have pummeled President Trump and his men with one main weapon: a dossier." />
+		
+	
+
+	<meta charset="UTF-8" />
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="bitly-verification" content="d180fd45f70d" />
+	<meta property="fb:app_id" content="877559545760875" />
+  <meta name="msvalidate.01" content="5B44585918D69318CA2120B5FA20D85C" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+	<meta http-equiv="x-rim-auto-match" content="none" />
+	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="author" content="The Washington Times http://www.washingtontimes.com" />
+  <meta name="serverf" content="web3" />
+  
+  
+
+  <!-- Pinterest Verify Code -->
+  <meta name="p:domain_verify" content="a57fa64b791c3f2c004bf337ea4b54da" />
+  <!-- END Pinterest Verify Code -->
+  <!-- Pinterest Tracking Code -->
+  <script type="text/javascript"> !function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");  pintrk('load','2614346040902'); pintrk('page', { page_name: 'My Page', page_category: 'My Page Category' }); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2614346040902&noscript=1" /> </noscript>
+  <!-- END Pinterest Tracking Code -->
+  <!-- Pinterest Event Code -->
+  <script>
+  pintrk('track', 'pagevisit' , {
+    promo_code: 'TWTCHACKAPINT'
+  });
+  </script>
+  <!-- END Pinterest Event Code -->
+
+	
+  <link rel="amphtml" href="http://amp.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/">
+  <meta property="article:section" content="Politics" />
+  <link rel="canonical" href="https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/" />
+  <meta name="Author" content="Rowan Scarborough" />
+  
+  
+  
+  
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@washtimes" />
+<meta name="twitter:title" content="Dossier shows Democrat, Russian collusion; no proof of Trump gossip" />
+<meta name="twitter:description" content="For over a year, the Hillary Clinton campaign, other Democrats and liberal pundits have pummeled President Trump and his men with one main weapon: a dossier." />
+
+
+<meta name="twitter:image" content="https://twt-thumbs.washtimes.com/media/image/2016/10/05/105_2016_clinton-kaine8201_s2048x1251.jpg?e4625fe714f04eeee7ed50a8ffc664a2f8cbb24e" />
+
+
+
+  <meta property="og:title" content="Dossier shows Democrat, Russian collusion; no proof of Trump gossip" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/" />
+  
+    <meta property="og:image" content="https://twt-thumbs.washtimes.com/media/image/2016/10/05/105_2016_clinton-kaine8201_s2048x1251.jpg?e4625fe714f04eeee7ed50a8ffc664a2f8cbb24e" />
+  
+  
+    
+  
+
+  <meta property="og:site_name" content="The Washington Times" />
+  <meta property="og:description" content="For over a year, the Hillary Clinton campaign, other Democrats and liberal pundits have pummeled President Trump and his men with one main weapon: a dossier." />
+  
+  
+    <meta name="news_keywords" content="Politics, Donald Trump, Carter Page, Paul Manafort, Christopher Steele"/>
+  
+  <script type='text/javascript' data-cfasync='false' src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js' data-shr-siteid='1b4cd6dea80b282c132df03b8b3fd9ac' async='async'></script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": "https://washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/",
+    "headline": "Dossier shows Democrat, Russian collusion; no proof of Trump gossip",
+    
+    "image": [
+      "https://twt-media.washtimes.com/media/image/2016/10/05/105_2016_clinton-kaine8201.jpg"
+     ],
+     
+     
+    "dateModified": "2017-10-26T20:43:20",
+    
+    "datePublished": "2017-10-26T19:24:07",
+    "author": {
+      "@type": "Person",
+      "name": "Rowan Scarborough"
+    },
+     "publisher": {
+      "@type": "Organization",
+      "name": "The Washington Times",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://twt-assets.washtimes.com/v4/images/logo-black-text-600x60.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "description": "For over a year, the Hillary Clinton campaign, other Democrats and liberal pundits have pummeled President Trump and his men with one main weapon: a dossier."
+  }
+  </script>
+
+	
+
+
+	<link rel="shortcut icon" href="//twt-assets.washtimes.com/images/favicon.30333d68dff6.ico" />
+	<link rel="apple-touch-icon" href="//twt-assets.washtimes.com/v4/images/icons/apple-touch-icon-precomposed.faa3cb2fc54e.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="//twt-assets.washtimes.com/v4/images/icons/apple-touch-icon-72x72-precomposed.a1d8974619ea.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="//twt-assets.washtimes.com/v4/images/icons/apple-touch-icon-114x114-precomposed.5ca7e79711fa.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="//twt-assets.washtimes.com/v4/images/icons/apple-touch-icon-precomposed.faa3cb2fc54e.png" />
+  
+  <link rel="canonical" href="https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/" />
+  
+
+	<link href="//twt-assets.washtimes.com/css/global.286a358b93f7.css" rel="stylesheet" type="text/css" media="all" />
+
+  <link href="//twt-assets.washtimes.com/sass/css/main.2454ad1ed56c.css" rel="stylesheet" type="text/css" />
+  <link href="//twt-assets.washtimes.com/v4/css/print.e6a412c08f30.css" rel="stylesheet" type="text/css" media="print" />
+	<link id="css-google-fonts" rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic|Montserrat:400,700|Signika:400,600" media="all" />
+	<link id="css-font-awesome" rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" media="all" />
+
+	
+<link rel="stylesheet" type="text/css" href="//twt-assets.washtimes.com/v4/css/tablet.0b70bead6ac8.css" media="(max-width: 1257px)" />
+
+	<!--[if IE]><link id="css-twig-ie" rel="stylesheet" type="text/css" href="//twt-assets.washtimes.com/v4/css/ie.6041df651bb7.css" media="all" /><![endif]-->
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="//cdn.jsdelivr.net/html5shiv/3.7.0/html5shiv.js"></script>
+		<script type="text/javascript" src="//twt-assets.washtimes.com/v4/js/respond.custom.min.f788fbb39f96.js"></script>
+	<![endif]-->
+
+	
+<style type="text/css">
+@media all and (max-width: 500px) {
+  .jcarousel-wrapper {
+    display: none !important;
+  }
+}
+</style>
+
+
+  
+  <!-- Facebook Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '1061671217207746');
+  fbq('track', "PageView");
+  fbq('track', 'ViewContent');
+  </script>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1061671217207746&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code -->
+  
+
+  
+
+
+<!-- BEGIN: Admiral Monitoring -->
+<script>(function(a,b,c,d,e){e=a.createElement(b);a=a.getElementsByTagName(b)[0];e.async=1;e.src=c;a.parentNode.insertBefore(e,a)})(document,'script','//profitrumour.com/a2c5ccebbf330a12ba32cf602bdc0251bd7ba17771dbd8cd0daaca1f9560658475867750634ecac7688918eaad9a29ce37c16b43b8803b9d16bc25e00275');</script>
+<!-- END: Admiral Monitoring -->
+
+<!-- Keywee Event Code -->
+<script src="//dc8xl0ndzn2cb.cloudfront.net/js/washingtontimescom/v0/keywee.min.js" type="text/javascript" async></script>
+<!-- End Keywee Event Code -->
+
+<!-- Facebook Link Ownership -->
+<meta property="fb:pages" content="35994014410" />
+<!-- END Facebook Link Ownership -->
+
+<!-- Google+ Experiment -->
+<link href="https://plus.google.com/u/0/112795231933243492488" rel="publisher" />
+<!-- END Google+ Experiment -->
+
+<!-- BEGIN Bing UET -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5695066"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5695066&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+<!-- END Bing UET -->
+
+<!-- Twitter universal website tag code -->
+<script>
+  !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+  },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+  a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+  // Insert Twitter Pixel ID and Standard Event data below
+  twq('init','nwae8');
+  twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+<!-- LiveConnectTag for publishers -->
+<script type="text/javascript" src="//b-code.liadm.com/a-01en.min.js" async="true" charset="utf-8"></script>
+<!-- LiveConnectTag for publishers -->
+
+
+
+<noscript><div id="no-js-warning">JavaScript is required for full functionality on this website, but scripting is currently disabled. Please enable JavaScript and reload this page.</div></noscript>
+
+
+  
+  
+  
+
+  
+
+  
+  <!-- BEGIN: Google Analytics -->
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3328123-2']);
+    _gaq.push(['_setCustomVar', 1, 'PageType', 'Story', ]);
+_gaq.push(['_setCustomVar', 4, 'UserSegment', 'Anonymous', ]);
+_gaq.push(['_setCustomVar', 3, 'ChildNode', 'politics', ]);
+_gaq.push(['_setCustomVar', 2, 'TopNode', 'news', ]);
+_gaq.push(['_setCustomVar', 5, 'Author', 'Rowan Scarborough', ]);
+
+    _gaq.push(['_setCustomVar', 1, 'Segmentation', GPT.segmentation]);
+    _gaq.push(['_setDomainName', 'washingtontimes.com']);
+    _gaq.push(['_addIgnoredOrganic', 'washington times']);
+    _gaq.push(['_addIgnoredOrganic', 'the washington times']);
+    _gaq.push(['_addIgnoredOrganic', 'washingtontimes']);
+    _gaq.push(['_addIgnoredOrganic', 'washingtontimes.com']);
+    _gaq.push(['_addIgnoredOrganic', 'www.washingtontimes.com']);
+    _gaq.push(['_addIgnoredOrganic', 'washington times newspaper']);
+    _gaq.push(['_addIgnoredOrganic', 'washington times news']);
+    _gaq.push(['_addIgnoredOrganic', 'wash times']);
+    _gaq.push(['_addIgnoredOrganic', 'washtimes']);
+    _gaq.push(['_addIgnoredOrganic', 'washtimes.com']);
+    _gaq.push(['_addIgnoredOrganic', 'washington time']);
+    _gaq.push(['_addIgnoredOrganic', 'washington times.com']);
+    _gaq.push(['_addIgnoredOrganic', 'washinton times']);
+    _gaq.push(['_addIgnoredOrganic', 'wahington times']);
+    _gaq.push(['_addIgnoredOrganic', 'the washington times newspaper']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+
+    var sitepage;
+  </script>
+  <!-- END: Google Analytics -->
+  
+
+  
+
+	
+
+	<script>
+	$(document).ready(function(){
+		$( "#sponsored_block" ).click(function() {
+		  $( "#sponsored_content_block" ).slideToggle( "slow", function() {
+		    // Animation complete.
+		  });
+		});
+	});
+	</script>
+
+	<style type="text/css">
+	.sponsored .page-headline,
+	.sponsored .storyareawrapper p {
+		font-family: georgia;
+	}
+	.bigtext {
+		display: block;
+		overflow: hidden;
+		color: #787878;
+	}
+
+	.expand, .contract {
+		cursor: pointer;
+		font-weight: bold;
+		padding: 15px 0;
+		text-align: center;
+		color: #b00021;
+		font-size: 20px;
+	}
+
+	.expand:hover, .contract:hover {
+		color: #555;
+	}
+
+	.hide {
+		display: none;
+	}
+	</style>
+
+	<link rel="stylesheet" type="text/css" href="//twt-assets.washtimes.com/css/story.a2dc352edd5f.css" />
+	
+		
+		
+	
+
+	
+
+	<script>
+  /*
+   from http://detectmobilebrowsers.com/
+   generated 2014-10-10
+   */
+
+  (function(w, n) {
+      'use strict';
+      w.adbladeExports = w.adbladeExports || {};
+      adbladeExports.isMobile = (function(a){
+          return /(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4));
+      })(n.userAgent||n.vendor||w.opera);
+
+      adbladeExports.isTablet = !adbladeExports.isMobile && typeof w.orientation !== 'undefined';
+
+   })(window, navigator);
+
+</script>
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+  
+  
+<!-- BEGIN: NDN activation -->
+<script type="text/javascript" async src="//launch.newsinc.com/js/embed.js"></script>
+<script type="text/javascript">var _informq = _informq || [];</script>
+<!-- END: NDN activation -->
+
+
+  
+  <script>
+    function comscoreBeacon () {
+      (self.COMSCORE && COMSCORE.beacon({c1: "2", c2: "17692074"}));
+      $.get('/comscore-pageview-candidate.html');
+    }
+  </script>
+  
+
+  <script type="text/javascript">
+    $(window).scroll(function() {
+      if ($(window).width() > 800) {
+        if ($(this).scrollTop() > 150) {
+          $('.header-container').addClass('sticky');
+          $('body').css('padding-top', '157px');
+          updateMenuAccountOptions(true);
+        } else {
+          $('.header-container').removeClass('sticky');
+          $('body').css('padding-top', 0);
+          updateMenuAccountOptions(false);
+        }
+      }
+    });
+
+    // Mobile menu
+    $(document).ready(function() {
+      var buttonCount = 0;
+      var slideMenu = document.querySelector('#cssmenu');
+
+      $('#mobileMenuButton').on('click', function() {
+        $(this).toggleClass('open');
+
+        if (buttonCount % 2 === 0) {
+          slideMenu.style.marginTop = 0;
+          buttonCount++;
+        } else {
+          slideMenu.style.marginTop = '-200vh';
+          buttonCount++;
+        }
+      });
+    });
+  </script>
+
+<!-- Engage Google re-marketing -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-771189196"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'AW-771189196');
+  </script>
+</head>
+
+<body class="
+	
+	
+		home with-editors-pick-info-bar
+	
+	
+">
+
+  
+
+  <!-- Begin #wrapper -->
+  <div id="wrapper">
+
+    
+	
+		
+<script src="//twt-assets.washtimes.com/v4/js/twig.js"></script>
+<div style="display: none;"><div id="div-gpt-ad-oop">
+  <script type="text/javascript">
+    (function() {
+      //check for Chacka in full request path
+      var fromChacka = window.location.href.search(new RegExp('Chacka', 'i')) >= 0;
+
+      // check for 'mkt_tok' in params
+      var fromMarketo = twig_qs()['mkt_tok'];
+      var fromOneSignal = Cookies.get('RefererIsOneSignal');
+      var isPreferred = Cookies.get('Segmentation');
+      var isQuizPage = window.location.href.match(/\/quiz/);
+      var sessionPageViews = parseInt(Cookies.get('ads_spv'));
+
+      // don't ever show interstitial on quiz pages
+      if (!isQuizPage && !fromMarketo && !fromChacka && !fromOneSignal) {
+        if (isPreferred === 'Preferred' || sessionPageViews > 1) {
+          // out of page ad slot display
+          googletag.cmd.push(function () {
+            googletag.display('div-gpt-ad-oop');
+          });
+        }
+      }
+    })();
+    </script>
+</div></div>
+
+	
+
+
+    <div class="sr-only"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+    <div class="globalheader_container">
+      
+      <div class="header-container">
+        <div id="mobileMenuButton">
+          <span></span><span></span><span></span><span></span>
+        </div>
+        <div class="wrapcontainer">
+          <header id="mainnav">
+            <div class="topper">
+              <div class="sponsor headcol"></div>
+              <div class="sitelogo headcol">
+                <a data-track-event="NavBar,home-logo,positionhome" href="/" title="The Washington Times | Home"><img
+                  src="//twt-assets.washtimes.com/images/TWTlogo3.5238e37e24b5.png" alt="Logo: The Washington Times"
+                  class="blacklogo"/><img src="//twt-assets.washtimes.com/img/WLogoNoBack.b80e1949f96a.png"
+                                          alt="Logo: The Washington Times" class="whitelogo"
+                                          style="display: none;"/></a><br/><em>Reliable Reporting. The Right
+                Opinion.</em>
+              </div>
+              <div class="signin headcol" style="vertical-align: middle">
+                <div class="signinbox">
+                  <div class="leftSignin">
+                    <a href="/subscribe/?subscribe-button-header">
+                      <strong>Subscribe</strong><br/>
+                    </a>
+                  </div>
+                  <div class="leftWelcome">
+                    <strong>Welcome</strong><br/>
+                  </div>
+
+
+                  
+                  <div class="rightSignin dropdownmenu">
+
+                    <p class="dropbtn" id="piano-login" style="margin:0px; min-width: 75px; font-size: 18px">
+                      <strong class="dropbtn">Sign In</strong>
+                    </p>
+
+                      <div class="dropdown-content" id="anonUserMenu">
+                        <a href="javascript: showPianoLogin()">Sign In</a>
+                        <a href="https://washingtontimes-dc.newsmemory.com/?utm_source=washingtontimes&utm_medium=header">Today's E-Edition</a>
+                        <a href="/subscribe/?subscribe-button-header">Subscribe</a>
+                      </div>
+
+                       <div class="dropdown-content" id="memberMenu">
+                        <a href="javascript: pianoLogout()">Sign Out</a>
+                        <a href="https://washingtontimes-dc.newsmemory.com/?utm_source=washingtontimes&utm_medium=header">Today's E-Edition</a>
+                        <a href="/my-account/">My Account</a>
+                        <a href="/subscribe/?subscribe-button-header">Subscribe</a>
+                      </div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </header>
+          <div id="cssmenu">
+            <ul>
+              
+                
+
+	<li class="has-sub active" id="nav_root_news">
+		<a id="main-nav-drop1" href="javascript:;" title="News">News</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/news/politics/" title="Politics" data-track-event="NavBarSub,politics,positionpolitics">Politics</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/national/" title="National" data-track-event="NavBarSub,national,positionnational">National</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/world/" title="World" data-track-event="NavBarSub,world,positionworld">World</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/security/" title="Security" data-track-event="NavBarSub,security,positionsecurity">Security</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/business-economy/" title="Business &amp; Economy" data-track-event="NavBarSub,business-economy,positionbusiness-economy">Business &amp; Economy</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/local/" title="D.C. Local" data-track-event="NavBarSub,dc-local,positiondc-local">D.C. Local</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/faith-and-family/" title="Faith &amp; Family" data-track-event="NavBarSub,faith-family,positionfaith-family">Faith &amp; Family</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/inside-politics/" title="Inside Politics" data-track-event="NavBarSub,inside-politics,positioninside-politics">Inside Politics</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/inside-the-beltway/" title="Inside the Beltway" data-track-event="NavBarSub,inside-the-beltway,positioninside-the-beltway">Inside the Beltway</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/inside-the-ring/" title="Inside the Ring" data-track-event="NavBarSub,inside-the-ring,positioninside-the-ring">Inside the Ring</a>
+		</li>
+	
+		<li class="has-sub"><a href="/culture/" title="Culture" data-track-event="NavBarSub,culture,positionculture">Culture</a>
+		</li>
+	
+		<li class="has-sub"><a href="/culture/entertainment/" title="Entertainment" data-track-event="NavBarSub,entertainment,positionentertainment">Entertainment</a>
+		</li>
+	
+		<li class="has-sub"><a href="/culture/technology/" title="Technology" data-track-event="NavBarSub,technology,positiontechnology">Technology</a>
+		</li>
+	
+		<li class="has-sub"><a href="http://www.legacy.com/washingtontimes/" title="Obituaries" data-track-event="NavBarSub,obituaries,positionobituaries">Obituaries</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/today/" title="Just the Headlines" data-track-event="NavBarSub,just-the-headlines,positionjust-the-headlines">Just the Headlines</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/trump-central/" title="Trump Central" data-track-event="NavBarSub,trump-central,positiontrump-central">Trump Central</a>
+		</li>
+	
+		<li class="has-sub"><a href="/multimedia/" title="Photo Galleries" data-track-event="NavBarSub,photo-galleries,positionphoto-galleries">Photo Galleries</a>
+		</li>
+	
+		<li class="has-sub"><a href="http://video.washingtontimes.com" title="Video" data-track-event="NavBarSub,video,positionvideo">Video</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_policy">
+		<a id="main-nav-drop2" href="javascript:;" title="Policy">Policy</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/specials/energy-environment-news/" title="Energy &amp; Environment" data-track-event="NavBarSub,energy-environment,positionenergy-environment">Energy &amp; Environment</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/banking-finance/" title="Banking &amp; Finance" data-track-event="NavBarSub,banking-finance,positionbanking-finance">Banking &amp; Finance</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/health-care-reform/" title="Health Care Reform" data-track-event="NavBarSub,health-care-reform,positionhealth-care-reform">Health Care Reform</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/second-amendment-and-gun-control/" title="Second Amendment" data-track-event="NavBarSub,second-amendment,positionsecond-amendment">Second Amendment</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/immigration-reform/" title="Immigration Reform" data-track-event="NavBarSub,immigration-reform,positionimmigration-reform">Immigration Reform</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/intelligence-cybersecurity/" title="Homeland &amp; Cybersecurity" data-track-event="NavBarSub,homeland-cybersecurity,positionhomeland-cybersecurity">Homeland &amp; Cybersecurity</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/defense-aerospace/" title="Aerospace &amp; Defense" data-track-event="NavBarSub,aerospace-defense,positionaerospace-defense">Aerospace &amp; Defense</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/taxes-budget/" title="Taxes &amp; Budget" data-track-event="NavBarSub,taxes-budget,positiontaxes-budget">Taxes &amp; Budget</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/law-enforcement-intelligence/" title="Law Enforcement &amp; Intelligence" data-track-event="NavBarSub,law-enforcement-intelligence,positionlaw-enforcement-intelligence">Law Enforcement &amp; Intelligence</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/transportation-infrastructure/" title="Transportation &amp; Infrastructure" data-track-event="NavBarSub,transportation-infrastructure,positiontransportation-infrastructure">Transportation &amp; Infrastructure</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_investigations">
+		<a id="main-nav-drop3" href="javascript:;" title="Investigations">Investigations</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/news/waste-fraud-abuse/" title="Waste, Fraud &amp; Abuse" data-track-event="NavBarSub,waste-fraud-abuse,positionwaste-fraud-abuse">Waste, Fraud &amp; Abuse</a>
+		</li>
+	
+		<li class="has-sub"><a href="/media-spotlight/" title="Media Spotlight" data-track-event="NavBarSub,media-spotlight,positionmedia-spotlight">Media Spotlight</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/dive-deeper/" title="Dive Deeper" data-track-event="NavBarSub,dive-deeper,positiondive-deeper">Dive Deeper</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_opinion">
+		<a id="main-nav-drop4" href="/opinion/" title="Opinion">Opinion</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/opinion/" title="Opinion Main" data-track-event="NavBarSub,opinion-main,positionopinion-main">Opinion Main</a>
+		</li>
+	
+		<li class="has-sub"><a href="/opinion/commentary/" title="Commentary" data-track-event="NavBarSub,commentary,positioncommentary">Commentary</a>
+		</li>
+	
+		<li class="has-sub"><a href="/opinion/editorials/" title="Editorials" data-track-event="NavBarSub,editorials,positioneditorials">Editorials</a>
+		</li>
+	
+		<li class="has-sub"><a href="/opinion/letters/" title="Letters" data-track-event="NavBarSub,letters,positionletters">Letters</a>
+		</li>
+	
+		<li class="has-sub"><a href="/opinion/pruden-on-politics/" title="Pruden on Politics" data-track-event="NavBarSub,pruden-on-politics,positionpruden-on-politics">Pruden on Politics</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/charles-hurt/" title="Charles Hurt" data-track-event="NavBarSub,charles-hurt,positioncharles-hurt">Charles Hurt</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/tammy-bruce/" title="Tammy Bruce" data-track-event="NavBarSub,tammy-bruce,positiontammy-bruce">Tammy Bruce</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/ralph-z-hallow/" title="Ralph Z. Hallow" data-track-event="NavBarSub,ralph-z-hallow,positionralph-z-hallow">Ralph Z. Hallow</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/monica-crowley/" title="Monica Crowley" data-track-event="NavBarSub,monica-crowley,positionmonica-crowley">Monica Crowley</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/stephen-moore/" title="Stephen Moore" data-track-event="NavBarSub,stephen-moore,positionstephen-moore">Stephen Moore</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/cal-thomas/" title="Cal Thomas" data-track-event="NavBarSub,cal-thomas,positioncal-thomas">Cal Thomas</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/clifford-d-may/" title="Clifford D. May" data-track-event="NavBarSub,clifford-d-may,positionclifford-d-may">Clifford D. May</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/cheryl-k-chumley/" title="Cheryl K. Chumley" data-track-event="NavBarSub,cheryl-k-chumley,positioncheryl-k-chumley">Cheryl K. Chumley</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/joseph-curl/" title="Joseph Curl" data-track-event="NavBarSub,joseph-curl,positionjoseph-curl">Joseph Curl</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/everett-piper/" title="Everett Piper" data-track-event="NavBarSub,everett-piper,positioneverett-piper">Everett Piper</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/matt-mackowiak/" title="Matt Mackowiak" data-track-event="NavBarSub,matt-mackowiak,positionmatt-mackowiak">Matt Mackowiak</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/robert-knight/" title="Robert Knight" data-track-event="NavBarSub,robert-knight,positionrobert-knight">Robert Knight</a>
+		</li>
+	
+		<li class="has-sub"><a href="/opinion/rapid-reactions/" title="Rapid Reactions" data-track-event="NavBarSub,rapid-reactions,positionrapid-reactions">Rapid Reactions</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/tim-constantine/" title="Tim Constantine" data-track-event="NavBarSub,tim-constantine,positiontim-constantine">Tim Constantine</a>
+		</li>
+	
+		<li class="has-sub"><a href="/books/" title="Books" data-track-event="NavBarSub,books,positionbooks">Books</a>
+		</li>
+	
+		<li class="has-sub"><a href="/cartoons/" title="Cartoons" data-track-event="NavBarSub,cartoons,positioncartoons">Cartoons</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/threat-assessment/" title="Threat Assessment" data-track-event="NavBarSub,threat-assessment,positionthreat-assessment">Threat Assessment</a>
+		</li>
+	
+		<li class="has-sub"><a href="/news/us-russia-crosstalk/" title="U.S.-Russia Crosstalk" data-track-event="NavBarSub,us-russia-crosstalk,positionus-russia-crosstalk">U.S.-Russia Crosstalk</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_sports">
+		<a id="main-nav-drop5" href="/sports/" title="Sports">Sports</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/sports/" title="Sports Main" data-track-event="NavBarSub,sports-main,positionsports-main">Sports Main</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/washington-redskins-season/" title="Redskins" data-track-event="NavBarSub,redskins,positionredskins">Redskins</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/football/" title="Football" data-track-event="NavBarSub,football,positionfootball">Football</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/baseball/" title="Baseball" data-track-event="NavBarSub,baseball,positionbaseball">Baseball</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/basketball/" title="Basketball" data-track-event="NavBarSub,basketball,positionbasketball">Basketball</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/ncaa/" title="NCAA" data-track-event="NavBarSub,ncaa,positionncaa">NCAA</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/thom-loverro/" title="Thom Loverro" data-track-event="NavBarSub,thom-loverro,positionthom-loverro">Thom Loverro</a>
+		</li>
+	
+		<li class="has-sub"><a href="/staff/deron-snyder/" title="Deron Snyder" data-track-event="NavBarSub,deron-snyder,positionderon-snyder">Deron Snyder</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/tennis/" title="Tennis" data-track-event="NavBarSub,tennis,positiontennis">Tennis</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/golf/" title="Golf" data-track-event="NavBarSub,golf,positiongolf">Golf</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/hockey/" title="Hockey" data-track-event="NavBarSub,hockey,positionhockey">Hockey</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/soccer/" title="Soccer" data-track-event="NavBarSub,soccer,positionsoccer">Soccer</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/horse-racing/" title="Horse Racing" data-track-event="NavBarSub,horse-racing,positionhorse-racing">Horse Racing</a>
+		</li>
+	
+		<li class="has-sub"><a href="/sports/racing/" title="NASCAR &amp; Racing" data-track-event="NavBarSub,nascar-racing,positionnascar-racing">NASCAR &amp; Racing</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_special_reports">
+		<a id="main-nav-drop6" href="/specials/" title="Special Reports">Special Reports</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/specials/" title="Special Reports Main" data-track-event="NavBarSub,special-reports-main,positionspecial-reports-main">Special Reports Main</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/americas-opioid-addiction/" title="America&#39;s Opioid Addiction" data-track-event="NavBarSub,americas-opioid-addiction,positionamericas-opioid-addiction">America&#39;s Opioid Addiction</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/free-iran/" title="Free Iran" data-track-event="NavBarSub,free-iran,positionfree-iran">Free Iran</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/peace-starts-me/" title="Peace Starts With Me" data-track-event="NavBarSub,peace-starts-with-me,positionpeace-starts-with-me">Peace Starts With Me</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/good-intentions-gone-wrong-congress-admit-mistake/" title="Good Intentions Gone Wrong" data-track-event="NavBarSub,good-intentions-gone-wrong,positiongood-intentions-gone-wrong">Good Intentions Gone Wrong</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/agricultural-mixed-use-revolutionizing-farming/" title="Agricultural Mixed-Use" data-track-event="NavBarSub,agricultural-mixed-use,positionagricultural-mixed-use">Agricultural Mixed-Use</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/sonospine-spinal-fusion-avoidance/" title="SonoSpine®" data-track-event="NavBarSub,sonospine,positionsonospine">SonoSpine®</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/commerce-alliance-against-china/" title="Commerce Alliance Against China" data-track-event="NavBarSub,commerce-alliance-against-china,positioncommerce-alliance-against-china">Commerce Alliance Against China</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/greaterkarachi/" title="#GreaterKarachi" data-track-event="NavBarSub,greaterkarachi,positiongreaterkarachi">#GreaterKarachi</a>
+		</li>
+	
+		<li class="has-sub"><a href="/specials/new-africa/" title="New Africa" data-track-event="NavBarSub,new-africa,positionnew-africa">New Africa</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_games">
+		<a id="main-nav-drop7" href="/puzzles/games/" title="Games">Games</a>
+		
+
+	<ul>
+	
+		<li class="has-sub"><a href="/puzzles/games/" title="Games Main" data-track-event="NavBarSub,games-main,positiongames-main">Games Main</a>
+		</li>
+	
+		<li class="has-sub"><a href="/puzzles/sudoku/" title="Play Sudoku" data-track-event="NavBarSub,play-sudoku,positionplay-sudoku">Play Sudoku</a>
+		</li>
+	
+		<li class="has-sub"><a href="/puzzles/crossword/" title="Crossword Puzzle" data-track-event="NavBarSub,crossword-puzzle,positioncrossword-puzzle">Crossword Puzzle</a>
+		</li>
+	
+		<li class="has-sub"><a href="/puzzles/word-search/" title="Word Search" data-track-event="NavBarSub,word-search,positionword-search">Word Search</a>
+		</li>
+	
+		<li class="has-sub"><a href="/quiz/" title="Quizzes" data-track-event="NavBarSub,quizzes,positionquizzes">Quizzes</a>
+		</li>
+	
+	</ul>
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_subscribe">
+		<a id="main-nav-drop8" href="/subscribe/?subscribe-button-scroll" title="Subscribe">Subscribe</a>
+		
+
+
+	</li>
+
+	<li class="has-sub" id="nav_root_signin">
+		<a id="main-nav-drop9" href="/piano-sign-in" title="Sign In">Sign In</a>
+		
+
+
+	</li>
+
+
+              
+            </ul>
+          </div>
+        </div>
+        
+          
+  
+
+
+
+
+
+        
+        
+          <div class="topics">
+            <div class="topics">
+              
+
+  
+  <div><strong>TRENDING:</strong></div>
+  
+    <div class="noborder"><a href="/topics/donald-trump/" title="Donald Trump" data-track-event="Hilighted,topics">Donald Trump</a></div>
+  
+    <div><a href="/topics/north-korea/" title="North Korea" data-track-event="Hilighted,topics">North Korea</a></div>
+  
+    <div><a href="/topics/nhl/" title="Nhl" data-track-event="Hilighted,topics">Nhl</a></div>
+  
+    <div><a href="/topics/vietnam/" title="Vietnam" data-track-event="Hilighted,topics">Vietnam</a></div>
+  
+    <div><a href="/topics/china/" title="China" data-track-event="Hilighted,topics">China</a></div>
+  
+    <div><a href="/topics/russia/" title="Russia" data-track-event="Hilighted,topics">Russia</a></div>
+  
+    <div><a href="/topics/senate/" title="Senate" data-track-event="Hilighted,topics">Senate</a></div>
+  
+    <div><a href="/topics/nba/" title="Nba" data-track-event="Hilighted,topics">Nba</a></div>
+  
+    <div><a href="/topics/hanoi/" title="Hanoi" data-track-event="Hilighted,topics">Hanoi</a></div>
+  
+    <div><a href="/topics/congress/" title="Congress" data-track-event="Hilighted,topics">Congress</a></div>
+  
+
+
+            </div>
+          </div>
+        
+      </div>
+      
+    </div>
+
+    <!-- Begin Piano My-Account Section -->
+    
+    <script>
+
+      function navIsSticky() {
+        if ($('.header-container.sticky').length ){
+          return true;
+        }
+        return false;
+      }
+
+      function updateMenuAccountOptions(isSticky) {
+        if (isSticky) {
+          tp = window.tp || [];
+          if (tp.pianoId) {
+            if (tp.pianoId.isUserValid()) {
+              $('#nav_root_subscribe').css('display', 'none');
+              $('#nav_root_signin a').text(tp.pianoId.getUser().given_name);
+              $('#nav_root_signin').css('display', 'inline-block').css('margin-left', '10px');
+            } else {
+              $('#nav_root_subscribe').css('display', 'inline-block');
+              $('#nav_root_signin a').text('Sign In');
+              $('#nav_root_signin').css('display', 'inline-block').css('margin-left', '-20px');
+            }
+          }
+
+        } else {
+          $('#nav_root_subscribe').css('display', 'none');
+          $('#nav_root_signin').css('display', 'none');
+
+        }
+      }
+
+      function showMenu() {
+        tp = window.tp || [];
+        if (tp.pianoId.isUserValid()) {
+          var menuState = $('#memberMenu').css('display');
+          if (menuState === 'block') {
+            $('#memberMenu').css('display', 'none');
+          } else {
+            $('#memberMenu').css('display', 'block');
+          }
+        } else {
+          var menuState = $('#anonUserMenu').css('display');
+          if (menuState === 'block') {
+            $('#anonUserMenu').css('display', 'none');
+          } else {
+            $('#anonUserMenu').css('display', 'block');
+          }
+        }
+
+      }
+
+      function showPianoLogin() {
+        tp = window.tp || [];
+        tp.push(["init", function () {
+          tp.pianoId.show({
+            screen: 'login',
+            loggedIn: function (data) {
+              console.log('user ', data.user, ' logged in with token', data.token);
+
+              //hide Subscribe button
+              $('#piano-login').html('<span class="signintext">' + tp.pianoId.getUser().given_name + '</span>');
+              $('.leftSignin').hide();
+              $('.leftWelcome').css('display', 'table-cell');
+              $('.dropdown-content').hide();
+              $('.rightSignin').removeClass('rightSignin').addClass('accountButton');
+
+              $('#nav_root_subscribe').css('display', 'none');
+              $('#nav_root_signin a').text(tp.pianoId.getUser().given_name);
+              $('#nav_root_signin').css('display', 'inline-block').css('margin-left', '10px');
+
+              gtag('event', 'page_view', {'send_to': 'AW-771189196', 'user_id': data.user.uid});
+
+            }
+          });
+          $('.tp-modal').css('z-index', '2000000000');
+        }]);
+      }
+
+      function pianoLogout() {
+        console.log('logout');
+        tp = window.tp || [];
+        tp.pianoId.logout(function () {
+          $('#memberMenu').css('display', 'none');
+          showMenu();
+          $('#piano-login').html('<strong>Sign In</strong>');
+          $('.leftSignin').show();
+          $('.leftWelcome').hide();
+          $('.accountButton').removeClass('accountButton').addClass('rightSignin');
+        });
+        
+      }
+      //set initial user account state
+      tp = window.tp || [];
+      tp.push(["init", function() {
+
+        if (tp.pianoId.isUserValid()) {
+          $('#piano-login').html('<span class="signintext">' + tp.pianoId.getUser().given_name + '</span>');
+          //hide Subscribe button
+          $('.leftSignin').hide();
+          $('.leftWelcome').css('display', 'table-cell');
+          $('.rightSignin').removeClass('rightSignin').addClass('accountButton');
+
+          gtag('event', 'page_view', { 'send_to': 'AW-771189196', 'user_id': tp.pianoId.getUser().uid });
+        }
+
+      }]);
+
+      $(document).ready(function(){
+        $('.rightSignin').hover(showMenu);
+
+        $('#nav_root_signin').click(function(evt){
+              evt.preventDefault();
+              showPianoLogin();
+        });
+
+      });
+
+    </script>
+    
+    <!-- End Piano My-Account Section -->
+
+  </div>
+  <!-- End #wrapper -->
+
+  
+    <div class="container">
+      <div id="ad-lead" data-size="970x90" class="ad">
+        
+          <div class="ad-slot"
+     id="div-gpt-ad-leaderboard"
+     data-ad-settings="desktopLeaderboard">
+<script>
+  console.log('__ADS element on page', 'div-gpt-ad-leaderboard');
+  ADSFORPAGE.push('div-gpt-ad-leaderboard');
+</script>
+</div>
+
+
+        
+      </div>
+    </div>
+  
+
+  
+<!-- START 3-column layout -->
+<div id="main" class="container">
+
+	<div class="right-border">
+		
+		<nav id="breadcrumb" role="navigation">
+			<ul class="menu">
+				<li><a href="/">Home</a></li>
+				
+					<li><a href="/news/">News</a></li>
+					<li class="current"><a href="/news/politics/">Politics</a></li>
+				
+			</ul>
+		</nav>
+		
+
+		<div id="page-title-container">
+
+			
+
+			<h1 class="page-headline">Dossier wielded by Democrats shows only Clinton campaign collusion with Russians</h1>
+			
+
+		</div>
+	</div>
+
+    <div class="row equal-heights three-column with-sidebar with-sidebar-primary with-sidebar-secondary">
+          
+
+<aside id="secondary" class="hidden-xs col-md-10 col-lg-8">
+  <div class="equal-heights-column-inner">
+    <div class="aside-inner">
+
+      
+
+<div class="socialbar">
+  Follow Us
+
+  <a href="https://www.facebook.com/TheWashingtonTimes" target="_blank"><img src="//twt-assets.washtimes.com/img/icon-facebook.jpg" class="socialicon" /></a>
+  <a href="https://twitter.com/WashTimes" target="_blank"><img src="//twt-assets.washtimes.com/img/icon-twitter.jpg" class="socialicon" /></a>
+  <a href="https://www.instagram.com/washtimes/" target="_blank"><img src="//twt-assets.washtimes.com/img/icon-instagram.jpg" class="socialicon" /></a>
+  <a href="/feeds/"><img src="//twt-assets.washtimes.com/img/icon-rss.jpg" class="socialicon" /></a>
+
+</div>
+
+<div class="search">
+  <form id="frm_search" action="/search/">
+    <fieldset>
+      <legend class="sr-only">Search</legend>
+      <label for="search-keyword" class="sr-only" title="Search Keyword">Search Keyword:</label>
+      <input type="hidden" name="cx" value="015385541671335030271:nfb7f1nj88q" />
+      <input type="hidden" name="cof" value="FORID:11" />
+      <input type="hidden" name="ie" value="UTF-8" />
+      <input id="search-keyword" name="q" placeholder="Search" type="search" value="" />
+      <input type="submit" name="sa" value="GO" class="btn btn-default btn-xs" title="Search" />
+    </fieldset>
+  </form>
+  <script type="text/javascript" src="//www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+</div>
+
+
+      <div id="ad-secondary-sidebar-1" data-size="300x600" class="ad hidden-xs">
+        <div class="ad-slot"
+     id="div-gpt-ad-right-sidebar-top"
+     data-ad-settings="desktopRightSideTop">
+<script>
+  console.log('__ADS element on page', 'div-gpt-ad-right-sidebar-top');
+  ADSFORPAGE.push('div-gpt-ad-right-sidebar-top');
+</script>
+</div>
+
+
+      </div>
+
+      
+        
+        
+      
+
+      
+        
+        
+      
+
+      <section class="block topic-list most-shared">
+        <h2 class="block-title">Recommended</h2>
+      <!--  26th February 2019 13:28-->
+        <div class="block-content">
+          
+          
+            
+
+<article>
+	<div class="main-photo">
+			<a href="/quiz/2015/jul/14/are-you-smarter-5th-grader/" data-track-event="RecommendedBlock,RecommendedBlock,position1"><img src="https://twt-thumbs.washtimes.com/media/image/2015/07/14/cover_c106-0-683-577_s85x85.png?e2007653ce185aa4e026eeb2e6dd8c8db3582be1" width="85" height="85" alt="obj.0.content_object.caption" /></a>
+	</div>
+	<h3 class="article-headline">
+		<a href="/quiz/2015/jul/14/are-you-smarter-5th-grader/" title="Are You Smarter Than A 5th Grader?" onclick="_gaq.push(['_trackEvent', 'RecommendedBlock', 'RecommendedBlock', 'position1']);">Quiz: Are You Smarter Than A 5th Grader?</a>
+	</h3>
+</article>
+
+          
+            
+
+<article>
+	<div class="main-photo">
+    
+    
+
+		
+			<a href="/news/2019/feb/25/mark-harris-loses-republican-support-north-carolin/" data-track-event="RecommendedBlock,RecommendedBlock,position2"><img src="https://twt-thumbs.washtimes.com/media/image/2019/02/21/election_2018_north_carolina_98906_c412-0-1813-1401_s85x85.jpg?1f3052192069da56f47ff6aa4842035d9c68daab" width="85" height="85" alt="Mark Harris, Republican candidate in North Carolina&amp;#39;s 9th Congressional race, listens to testimony during the third day of a public evidentiary hearing on the 9th Congressional District voting irregularities investigation Wednesday, Feb. 20, 2019, at the North Carolina State Bar in Raleigh, N.C.  (Travis Long/The News &amp;amp;amp; Observer via AP, Pool)" /></a>
+		
+	</div>
+	<h3 class="article-headline">
+		<a href="/news/2019/feb/25/mark-harris-loses-republican-support-north-carolin/" title="Republicans pressure Mark Harris to quit North Carolina &#8216;do-over&#8217; race after ballot scandal" onclick="_gaq.push(['_trackEvent', 'RecommendedBlock', 'RecommendedBlock', 'position2']);">Republicans pressure Mark Harris to quit North Carolina &#8216;do-over&#8217; race after ballot scandal</a>
+	</h3>
+</article>
+
+          
+            
+
+<article>
+	<div class="main-photo">
+			<a href="/quiz/2019/feb/21/name-movie-won-actor-academy-award/" data-track-event="RecommendedBlock,RecommendedBlock,position3"><img src="https://twt-thumbs.washtimes.com/media/image/2019/02/21/OscarsBestActorFinal-900_c188-0-712-524_s85x85.jpg?b0254c8db5ed38f9c35532203153253ce3304a2e" width="85" height="85" alt="obj.0.content_object.caption" /></a>
+	</div>
+	<h3 class="article-headline">
+		<a href="/quiz/2019/feb/21/name-movie-won-actor-academy-award/" title="Oscars: Name the movie that won this actor an Academy Award" onclick="_gaq.push(['_trackEvent', 'RecommendedBlock', 'RecommendedBlock', 'position3']);">Quiz: Oscars: Name the movie that won this actor an Academy Award</a>
+	</h3>
+</article>
+
+          
+            
+
+<article>
+	<div class="main-photo">
+    
+    
+
+		
+			<a href="/news/2019/feb/25/elizabeth-warren-shuns-wealthy-donors/" data-track-event="RecommendedBlock,RecommendedBlock,position4"><img src="https://twt-thumbs.washtimes.com/media/image/2019/02/22/Election_2020_Warren_99350.jpg-ff1bc_c780-0-4140-3360_s85x85.jpg?f27fca6819c2f0715dd8eb9592e0fa83ba370f6f" width="85" height="85" alt="Democratic presidential candidate Sen. Elizabeth Warren, D-Mass., speaks at the New Hampshire Democratic Party&amp;#39;s 60th Annual McIntyre-Shaheen 100 Club Dinner, Friday, Feb. 22, 2019, in Manchester, N.H. (AP Photo/Elise Amendola)" /></a>
+		
+	</div>
+	<h3 class="article-headline">
+		<a href="/news/2019/feb/25/elizabeth-warren-shuns-wealthy-donors/" title="Elizabeth Warren walls off wealthy donors: No private events, no phone calls" onclick="_gaq.push(['_trackEvent', 'RecommendedBlock', 'RecommendedBlock', 'position4']);">Elizabeth Warren walls off wealthy donors: No private events, no phone calls</a>
+	</h3>
+</article>
+
+          
+            
+<article >
+	<div class="main-photo">
+		<a href="/multimedia/collection/best-concealed-carry-handgun-states-ranked/" data-track-event="RecommendedBlock,RecommendedBlock,position5">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2014/08/25/ap99040802570_c9-0-1219-1210_s85x85.jpg?d8e5c983eb16129d3b256d6edad2e3a091e8a474" width="85" height="85" alt="AP99040802570.jpg" />
+		
+		</a>
+	</div>
+	<h3 class="article-headline">
+		<a href="/multimedia/collection/best-concealed-carry-handgun-states-ranked/" title="Best states for concealed carry — ranked worst to first" onclick="_gaq.push(['_trackEvent', 'RecommendedBlock', 'RecommendedBlock', 'position5']);">Best states for concealed carry — ranked worst to first</a>
+	</h3>
+</article>
+
+          
+          
+          
+            
+              
+
+<article class="sponsored-container">
+<span class="sponsored-heading">SPONSORED CONTENT</span>
+<div class="sponsored-background">
+	<div class="main-photo">
+		<a href="https://www.washingtontimes.com/sponsored/statement-world-buddhism-association-headquarters/" target="_blank"  onclick="_gaq.push(['_trackEvent', 'RECOMMENDstoryAds', 'rightrail-ad-tracking2', 'rightrail-ad-tracking2']);"><img src="https://twt-media.washtimes.com/media/image/2019/01/28/190128-dorje-chang-buddha-85.jpg" width="85" height="85" alt="Statement by World Buddhism Association Headquarters"></a>
+	</div>
+	<h3 class="article-headline"><a href="https://www.washingtontimes.com/sponsored/statement-world-buddhism-association-headquarters/" target="_blank"  onclick="_gaq.push(['_trackEvent', 'RECOMMENDstoryAds', 'rightrail-ad-tracking2', 'rightrail-ad-tracking2']);" title="Statement by World Buddhism Association Headquarters">Statement by World Buddhism Association Headquarters</a></h3>
+  <div style="clear:both;"></div>
+</div>
+</article>
+
+            
+          
+        </div>
+      </section>
+      <!-- //.ed-columns -->
+
+      <div id="ad-primary-story-flex" data-size="300x250" class="ad hidden-xs">
+        <div class="ad-slot"
+     id="div-gpt-ad-story-flex"
+     data-ad-settings="desktopStoryFlex">
+<script>
+  console.log('__ADS element on page', 'div-gpt-ad-story-flex');
+  ADSFORPAGE.push('div-gpt-ad-story-flex');
+</script>
+</div>
+
+
+      </div>
+
+      
+      
+        <section class="block breaking-news no-bottom-border">
+          <div class="block-content" style="border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; padding: 10px 0;">
+            
+              <article class="sponsored-container">
+<span class="sponsored-heading">SPONSORED CONTENT</span>
+<div class="sponsored-background">
+  <div class="main-photo">
+    <a href="http://gundrymd.com/cmd.php?ad=814771" target="_blank" onclick="_gaq.push(['_trackEvent', 'YMALpageAds', 'homepage-ad-tracking2', 'homepage-ad-tracking2']);"><img src="https://twt-media.washtimes.com/media/image/2016/08/17/Gundry-85.jpg" width="85" height="85" alt="How To: Fix Your Fatigue And Get More Energy"></a>
+  </div>
+  <h2 class="article-headline"><a href="http://gundrymd.com/cmd.php?ad=814771" target="_blank" onclick="_gaq.push(['_trackEvent', 'YMALpageAds', 'homepage-ad-tracking2', 'homepage-ad-tracking2']);" title="How To: Fix Your Fatigue And Get More Energy">How To: Fix Your Fatigue And Get More Energy</a></h2>
+  <div style="clear:both;"></div>
+</div>
+</article>
+            
+          </div>
+        </section>
+      
+
+      <div id="ad-primary-story-2" data-size="300x250" class="ad hidden-xs">
+        <div class="ad-slot"
+     id="div-gpt-ad-story-two"
+     data-ad-settings="desktopStoryTwo">
+<script>
+  console.log('__ADS element on page', 'div-gpt-ad-story-two');
+  ADSFORPAGE.push('div-gpt-ad-story-two');
+</script>
+</div>
+
+
+      </div>
+
+      
+      
+        <section class="block breaking-news no-bottom-border">
+          <div class="block-content" style="border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; padding: 10px 0;">
+            
+              <div id="L6Wh6EinvOZMP2dyoJbbAZuYVrZdC69gbJAHMH6l"></div>
+            
+          </div>
+        </section>
+      
+
+      
+
+
+<section class="block our-voices desktop-only" style="border-bottom: 0 !important;">
+  <h2 class="block-title">Commentary</h2>
+  <div class="block-content">
+	
+	
+		
+		<article >
+			<div class="main-photo">
+				
+					
+						<a href=""><img src="https://twt-thumbs.washtimes.com/media/img/staff/2014/wesley-pruden-350_1_s85x119.jpg?aa9e42ea593811e08acc2f2e2737164ab5d201f0" width="85" height="119" alt="staff" /></a></a>
+					
+				
+			</div>
+	        <h3 class="article-headline" style="color: #000;"><a href=""><a href="/staff/wesley-pruden/">Wesley Pruden</a></a></h3>
+			<p><a href="/news/2019/feb/25/alexandria-ocasio-cortez-liberals-say-theres-a-gri/" title="The grim future lying in wait dead ahead">The grim future lying in wait dead ahead</a></p>
+		
+		</article>
+		
+	
+		
+		<article >
+			<div class="main-photo">
+				
+					
+						<a href=""><img src="https://twt-thumbs.washtimes.com/media/img/staff/2016/richard-rahn-350_s85x119.jpg?aa9e42ea593811e08acc2f2e2737164ab5d201f0" width="85" height="119" alt="staff" /></a></a>
+					
+				
+			</div>
+	        <h3 class="article-headline" style="color: #000;"><a href=""><a href="/staff/richard-w-rahn/">Richard W. Rahn</a></a></h3>
+			<p><a href="/news/2019/feb/25/starting-over-in-venezuela/" title="Starting over in Venezuela">Starting over in Venezuela</a></p>
+		
+		</article>
+		
+	
+		
+		<article style="border-bottom: 0;">
+			<div class="main-photo">
+				
+					
+						<a href=""><img src="https://twt-thumbs.washtimes.com/media/img/staff/2017/cheryl-chumley-350_s85x119.jpg?aa9e42ea593811e08acc2f2e2737164ab5d201f0" width="85" height="119" alt="staff" /></a></a>
+					
+				
+			</div>
+	        <h3 class="article-headline" style="color: #000;"><a href=""><a href="/staff/cheryl-k-chumley/">Cheryl K. Chumley</a></a></h3>
+			<p><a href="/news/2019/feb/26/democrats-and-their-race-and-gender-card-antics/" title="Democrats and their race and gender card antics">Democrats and their race and gender card antics</a></p>
+		
+		</article>
+		
+	
+    <span class="view-all" style="float: right;"><a href="/opinion/" title="View all" data-track-event="CommentaryBlock,CommentaryBlock,position" style="color: #000; font-weight: bold; padding-bottom: 7px;">View all <i class="fa fa-arrow-circle-o-right"></i></a></span>
+  </div>
+</section>
+
+<!-- //.our-voices --> 
+
+
+      
+
+      
+      
+
+      
+
+
+
+
+
+      <div id="ad-primary-story-3" data-size="300x250" class="ad hidden-xs">
+        <div class="ad-slot"
+     id="div-gpt-ad-story-three"
+     data-ad-settings="desktopStoryThree">
+<script>
+  console.log('__ADS element on page', 'div-gpt-ad-story-three');
+  ADSFORPAGE.push('div-gpt-ad-story-three');
+</script>
+</div>
+
+
+      </div>
+
+      
+        
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        
+      
+
+      
+
+
+
+
+<section class="block qotd">
+<h2 class="block-title">Question of the Day</h2>
+<div class="block-content">
+  
+    
+      <h3>Will Trump&#39;s second summit with Kim Jong-un be a success?</h3>
+        <fieldset>
+          <legend class="sr-only">Question of the Day</legend>
+          
+            <form action="/polls/2019/feb/26/will-trumps-second-summit-kim-jong-un-be-success/" method="POST">
+    <!--  This is bot detection stuff, do not remove  -->
+    <input type='text' name='email' class='poll_required' value='valid_email'/>
+    <input type='text' name='username' class='poll_required'/>
+    
+    
+    <div class="field">
+        <input id="choice1" type="radio" name="choice" value="6294" />&nbsp;
+        <label for="choice1">Yes</label>
+    </div>
+    
+    <div class="field">
+        <input id="choice2" type="radio" name="choice" value="6295" />&nbsp;
+        <label for="choice2">No</label>
+    </div>
+    
+    <div class="field">
+        <input id="choice3" type="radio" name="choice" value="6296" />&nbsp;
+        <label for="choice3">Not sure</label>
+    </div>
+    
+    <br />
+    
+        <input type="submit" value="Vote" title="Vote" />
+    
+    &nbsp; <a href="/polls/2019/feb/26/will-trumps-second-summit-kim-jong-un-be-success/results/" class="ml small">View results</a></p>
+</form>
+
+          
+        </fieldset>
+    
+  
+</div>
+</section>
+
+<!-- //.qotd -->
+
+
+      <div id="ad-primary-story-4" data-size="300x250" class="ad hidden-xs">
+        <div class="ad-slot"
+     id="div-gpt-ad-story-four"
+     data-ad-settings="desktopStoryFour">
+<script>
+  console.log('__ADS element on page', 'div-gpt-ad-story-four');
+  ADSFORPAGE.push('div-gpt-ad-story-four');
+</script>
+</div>
+
+
+      </div>
+
+      
+
+
+    
+	
+	
+		<section class="block whats-trending">
+		    <h2 class="block-title">Story TOpics</h2>
+		    <div class="block-content">
+		        <ul>
+		        
+		        
+		            <li><a href="/topics/politics/" title="" data-track-event="Hilighted,topics">Politics</a></li>
+		        
+		        
+		        
+		            <li><a href="/topics/donald-trump/" title="" data-track-event="Hilighted,topics">Donald Trump</a></li>
+		        
+		        
+		        
+		            <li><a href="/topics/carter-page/" title="" data-track-event="Hilighted,topics">Carter Page</a></li>
+		        
+		        
+		        
+		            <li><a href="/topics/paul-manafort/" title="" data-track-event="Hilighted,topics">Paul Manafort</a></li>
+		        
+		        
+		        
+		            <li><a href="/topics/christopher-steele/" title="" data-track-event="Hilighted,topics">Christopher Steele</a></li>
+		        
+		        
+		        </ul>
+		    </div>
+		</section>
+		<!-- //.whats-trending -->
+	
+    
+
+
+
+    </div>
+
+</aside>
+<!-- //#secondary -->
+
+        
+
+
+<section id="content" class="col-xs-31 col-lg-22 right-border">
+  <div class="equal-heights-column-inner" style="padding-right: 15px; border-right: 1px solid #ccc;">
+  <div class="content-inner">
+  <!-- //#ad-lead-mobile -->
+    <section class="full-article">
+      <article style="margin-bottom: 0;">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+          <div class="ndn_embed" id="Inform-Washington-Times-Player-1" data-config-playlist-id="18050" data-config-distributor-id="91568" data-config-width="100%" data-config-height="9/16w">
+            <div class="main-photo article-story-photo">
+              <section class="block more-from-story" style="padding-bottom: 10px; margin-bottom: 0; border-bottom: 1px solid #ccc;">
+                <div class="block-content">
+                  <figure class="photo-zoom">
+                    <div class="photo"><a href="/multimedia/image/105_2016_clinton-kaine8201jpg/" alt="Democratic presidential candidate Hillary Clinton and running mate Sen. Tim Kaine at a rally in Virginia. (Associated press) ** FILE **" title="Democratic presidential candidate Hillary Clinton and running mate Sen. Tim Kaine at a rally in Virginia. (Associated press) ** FILE **" target="_blank"><img src="https://twt-thumbs.washtimes.com/media/image/2016/10/05/105_2016_clinton-kaine8201_c0-0-1501-875_s885x516.jpg?6a591ca65a267f882c8470cb28702f0f2babac4c" width="885" height="516" alt="Democratic presidential candidate Hillary Clinton and running mate Sen. Tim Kaine at a rally in Virginia. (Associated press) ** FILE **" /><i class="zoom"></i></a></div>
+                    
+                    <figcaption class="source">Democratic presidential candidate Hillary Clinton and running mate Sen. Tim Kaine at a rally in Virginia. (Associated press) ** FILE ** <a href="/multimedia/image/105_2016_clinton-kaine8201jpg/" target="_blank">more &gt;</a></figcaption>
+                    
+                  </figure>
+                </div>
+              </section>
+            </div>
+          </div>
+        
+
+<script type="text/javascript">
+  var _informq = _informq || [];
+  _informq.push(['hook', 'Inform-Washington-Times-Player-1/videoLoad', function(event) {
+  }]);
+</script>
+
+        
+        
+
+        
+          
+        
+
+        <div class="article-text">
+
+    <div class="share-and-comments">
+        <div class='shareaholic-canvas' data-app='share_buttons' data-app-id='24605281'></div>
+          <a class="expand-comments" href="javascript:window.print();" style="background: #555; padding: 10px; color: #fff; float: right; margin-top: 16px;"><i class="fa fa-print" aria-hidden="true"></i> Print</a>
+    </div>
+
+    
+    
+    <div class="meta" style="padding-top: 10px;">
+    
+      <span class="byline"> By <a href="/staff/rowan-scarborough/">Rowan Scarborough</a> </span> <span class="source"> -
+			
+				The Washington Times
+ -
+      
+        
+        Thursday, October 26, 2017
+      
+      </span>
+    
+    </div>
+    
+
+          
+
+                    <div class="summary" id="font-resizer">
+
+          
+
+            
+
+            <div class="storyareawrapper">
+
+<div class="bigtext">
+
+              
+                
+              
+
+              
+
+                
+                  
+
+                  
+                    
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                        
+                      
+                    
+
+                    
+
+                  
+
+                  <p>For over a year, the Hillary Clinton campaign, other Democrats and liberal pundits have pummeled President <a href="/topics/donald-trump/">Trump</a> and his men with one main weapon: a dossier.</p>
+
+                  
+
+                  
+
+                
+                  
+
+                  
+
+                  <p>Written by former British spy <a href="/topics/christopher-steele/">Christopher Steele</a>, who was paid by opposition research firm Fusion GPS, which received the money from the Clinton campaign, the 35 pages of memos became the Democrats&#8217; vehicle to promote supposed <a href="/topics/donald-trump/">Trump</a>-<a href="/topics/russia/">Russia</a> collusion in the presidential election.</p>
+
+                  
+
+                  
+
+                
+                  
+
+                  
+
+                  <p>The irony: Virtually all of <a href="/topics/christopher-steele/">Mr. Steele</a>&#8217;s sources are Russian, meaning Democrats have been indirectly colluding with <a href="/topics/moscow/">Moscow</a> disinformation to bash the Trump team for purportedly doing the same thing.</p>
+
+                  
+
+                    <div class="read-more-show hide">
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+                      <hr />
+                      <p><strong>
+                      
+                        <a href="/news/2017/oct/26/fbi-turn-over-anti-trump-dossier-congress/" target="_blank">
+                      
+                      
+                        SEE ALSO: FBI to turn over anti-Trump dossier documents to Congress next week
+                      
+                      </a></strong></p>
+                      <hr style="margin-bottom: 15px;" />
+                    
+
+                    
+
+                    </div>
+
+                  
+
+                  
+
+                
+                  
+
+                  
+
+                  <p>Since the dossier&#8217;s first memo hit town in June 2016, none of its core collusion charges has been proved. There has been no confirmation by any public pronouncement or a leak from Congress&#8217; two intelligence committees or from special counsel Robert Mueller.</p>
+
+                  
+
+                  
+
+                
+                  
+
+                  
+
+                  <p>That did not stop the Clinton campaign from attacking <a href="/topics/donald-trump/">Mr. Trump</a>. Neither has it stopped congressional Democrats, especially members of the House Permanent Select Committee on Intelligence, from reading the dossier&#8217;s sensational charges into the Congressional Record and on the network news. Based on the dossier, they publicly accused people of felonies while knowing the document remained unverified.</p>
+
+                  
+
+                  
+
+                
+                  
+
+                  
+
+                  <p>It also did not matter that the Democrats&#8217; targets &mdash; <a href="/topics/carter-page/">Carter Page</a>, <a href="/topics/paul-manafort/">Paul Manafort</a>, <a href="/topics/michael-d-cohen/">Michael Cohen</a> and the president, to name a few &mdash; all called the dossier fiction.</p>
+
+                  
+
+                  
+
+                    
+                      
+                      <div class="GRAYMATTER-DELAY" data-src="http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/" data-widget-id="AR_3" data-ob-template="TheWashingtonTimes"></div>
+                    
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                  
+
+                
+                  
+
+                  
+
+                  <p>Or that investigative journalist Bob Woodward said it was &#8220;garbage.&#8221; Or that former CIA acting Director Michael Morell said the dossier&#8217;s gossip came from paid Kremlin creatures who would say anything for a buck. Or that three people accused of crimes in the dossier have filed libel lawsuits.</p>
+
+                  
+
+                  
+
+                
+                  
+
+                  
+
+                  <p>&#8220;As reasonable, intelligent people have understood for some time, the &#8216;Dodgy Dossier&#8217; was nothing more than a political stunt designed to undermine the Trump campaign and damage the &#8216;deplorable&#8217; members of the Trump movement who supported it,&#8221; <a href="/topics/carter-page/">Mr. Page</a>, who has filed a lawsuit, told The Washington Times.</p>
+
+                  
+
+                  
+
+                
+                  
+
+                  
+
+                  <p>&#8220;Deplorables&#8221; is the label Mrs. Clinton gave to <a href="/topics/donald-trump/">Trump</a> supporters.</p>
+
+                  
+
+                  
+
+                
+                  
+                    <a name="pagebreak"></a>
+                  
+
+                  
+
+                  <p>&#8220;If voters knew the truth in early November 2016, which they began to more fully understand this week regarding the actual interference in last year&#8217;s election, President <a href="/topics/donald-trump/">Trump</a>&#8217;s victory would have unquestionably exceeded 400 [votes] in the Electoral College,&#8221; said <a href="/topics/carter-page/">Mr. Page</a>.</p>
+
+                  
+
+                  
+
+                
+
+                
+                  <p><a href="/topics/christopher-steele/">Mr. Steele</a>&#8217;s accusations were particularly serious against <a href="/topics/carter-page/">Mr. Page</a>, an energy investor who had worked in <a href="/topics/moscow/">Moscow</a> as a Merrill Lynch banker and was briefly a <a href="/topics/donald-trump/">Trump</a> campaign volunteer.</p>
+                
+                  <p>The dossier said <a href="/topics/carter-page/">Mr. Page</a> met with two sanctioned Kremlin figures while on a well-publicized trip to <a href="/topics/moscow/">Moscow</a> in July 2016, that he cut a deal to end U.S. sanctions in exchange for a brokerage fee, and that he and then-<a href="/topics/donald-trump/">Trump</a> campaign manager <a href="/topics/paul-manafort/">Paul Manafort</a> orchestrated the hacking of Democratic Party computers in league with Russian intelligence.</p>
+                
+                  <p><a href="/topics/carter-page/">Mr. Page</a> said he never met the two men, had no brokerage agreement, had never met <a href="/topics/paul-manafort/">Mr. Manafort</a> and didn&#8217;t know about the hacking until it became news in June 2016.</p>
+                
+                  <p>A source knowledgeable about the House intelligence committee probe told The Times that none of <a href="/topics/christopher-steele/">Mr. Steele</a>&#8217;s collusion scenarios has been confirmed after months of interviewing witnesses.</p>
+                
+                  <p>Yet Democrats and the left-wing press have continued to vouch for the dossier, some to this day.</p>
+                
+                  <p><strong>&#8216;Doesn&#8217;t add up to me&#8217;</strong></p>
+                
+                  <p>Brian Fallon, Mrs. Clinton&#8217;s campaign press secretary, said on Twitter that he wished he could have gone to Europe and helped <a href="/topics/christopher-steele/">Mr. Steele</a> collude with the Kremlin to dig up <a href="/topics/donald-trump/">Trump</a> dirt.</p>
+                
+                  <p>&#8220;I regret I didn&#8217;t know about <a href="/topics/christopher-steele/">Christopher Steele</a>&#8217;s hiring pre-election,&#8221; Mr. Fallon said Tuesday. &#8220;If I had, I would have volunteered to go to Europe and try to help him.&#8221;</p>
+                
+                  <p>On Thursday, Rep. Adam B. Schiff of California, the ranking Democrat on the House intelligence committee, continued to defend the dossier and <a href="/topics/christopher-steele/">Mr. Steele</a>.</p>
+                
+                  <p>Of the effort by Republicans to find out who funded the dossier, the congressman told CNN: &#8220;So I think this is a bit of an effort to discredit <a href="/topics/christopher-steele/">Christopher Steele</a>, discredit the dossier, ignore how much of it has been corroborated already, and ignore the fact that the intelligence community is operating from a broad array of sources as a way of basically calling this all a hoax. And it just doesn&#8217;t add up to me.&#8221;</p>
+                
+                  <p>Mr. Schiff has been praising <a href="/topics/christopher-steele/">Mr. Steele</a> for a year. At a televised March hearing, he read copiously from the dossier.</p>
+                
+                  <p>Here is one of his citations: &#8220;According to <a href="/topics/christopher-steele/">Christopher Steele</a>, a former British intelligence officer who is reportedly held in high regard by U.S. intelligence, Russian sources tell him that <a href="/topics/carter-page/">Page</a> has also had a secret meeting with Igor Sechin, CEO of the Russian gas giant Rosneft. Sechin is reported to be a former KGB agent and close friend of [Russian President Vladimir] Putin&#8217;s.&#8221;</p>
+                
+                  <p><a href="/topics/carter-page/">Mr. Page</a> said this never happened. He wrote a letter to the committee complaining about Mr. Schiff&#8217;s tactics.</p>
+                
+                  <p>The Clinton campaign used dossier misinformation to issue press statements in September 2016 that said <a href="/topics/carter-page/">Mr. Page</a> stood as proof of <a href="/topics/donald-trump/">Trump</a>-<a href="/topics/russia/">Russia</a> collusion.</p>
+                
+                  <p>At that time, Fusion GPS founder Glenn Simpson and <a href="/topics/christopher-steele/">Mr. Steele</a> were briefing reporters.</p>
+                
+                  <p>Yahoo News wrote about <a href="/topics/carter-page/">Mr. Page</a>&#8217;s supposed crimes, using dossier misinformation but citing intelligence sources. HuffPost, ABC News and other press jumped on the story.</p>
+                
+                  <p>&#8220;Hillary for America Statement on Bombshell Report About Trump Aide&#8217;s Chilling Ties to Kremlin,&#8221; blared the Clinton campaign&#8217;s Sept. 23 press release.</p>
+                
+                  <p><a href="/topics/carter-page/">Mr. Page</a> told The Times in July that he believes some Clinton campaign workers possessed the dossier or its data.</p>
+                
+                  <p>&#8220;After the report by Yahoo News, the Clinton campaign put out an equally false press release just minutes after the article was released that afternoon,&#8221; <a href="/topics/carter-page/">Mr. Page</a> said. &#8220;Of course, the [Clinton campaign representatives] were lying about it with the media nonstop for many months, and they&#8217;ve continued until this day. Both indirectly as they planted articles in the press and directly with many TV appearances.&#8221;</p>
+                
+                  <p>Meanwhile, then-Democratic Senate leader Harry Reid publicized a letter he wrote to the FBI calling for <a href="/topics/carter-page/">Mr. Page</a> to be investigated.</p>
+                
+                  <p><strong><a href="/topics/christopher-steele/">Steele</a>: I never verified the dossier</strong></p>
+                
+                  <p>Indeed, no forum has been a better pro-dossier fan club than the House intelligence committee and its Democrats.</p>
+                
+                  <p>Rep. Joaquin Castro, Texas Democrat, said at the March hearing: &#8220;I want to take a moment to turn to the Christopher Steele dossier, which was first mentioned in the media just before the election and published in full by media outlets in January. My focus today is to explore how many claims within <a href="/topics/christopher-steele/">Steele</a>&#8217;s dossier are looking more and more likely, as though they are accurate.</p>
+                
+                  <p>&#8220;This is not someone who doesn&#8217;t know how to run a source and not someone without contacts. The allegations it raises about President <a href="/topics/donald-trump/">Trump</a>&#8217;s campaign aides&#8217; connections to Russians, when overlaid with known established facts and timelines from the 2016 campaign, are very revealing,&#8221; Mr. Castro said.</p>
+                
+                  <p>Rep. Andre Carson, Indiana Democrat, said, &#8220;There&#8217;s a lot in the dossier that is yet to be proven, but increasingly, as we&#8217;ll hear throughout the day, allegations are checking out.&#8221;</p>
+                
+                  <p>On MSNBC in March, Rep. Maxine Waters, California Democrat, said she believed the dossier section on <a href="/topics/donald-trump/">Mr. Trump</a> and supposed sex acts with prostitutes in <a href="/topics/moscow/">Moscow</a> were true.</p>
+                
+                  <p>&#8220;Oh, I think it should be taken a look at,&#8221; she said. &#8220;I think they should really read it, understand it, analyze it and determine what&#8217;s fact, what may not be fact. We already know that the part about the coverage that they have on him with sex actions is supposed to be true. They have said that that&#8217;s absolutely true. Some other things they kind of allude to. Yes, I think he should go into that dossier and see what&#8217;s there.&#8221;</p>
+                
+                  <p>Besides <a href="/topics/carter-page/">Mr. Page</a>, other people targeted by <a href="/topics/christopher-steele/">Mr. Steele</a> have rebutted his charges.</p>
+                
+                  <p><a href="/topics/michael-d-cohen/">Michael Cohen</a>, <a href="/topics/donald-trump/">Mr. Trump</a>&#8217;s personal attorney, was said in the dossier to have traveled to Prague to orchestrate a cover-up of computer hacking with Russian agents.</p>
+                
+                  <p><a href="/topics/michael-d-cohen/">Mr. Cohen</a> has produced receipts that show he was in California at the time, and his passport shows he has never been to Prague.</p>
+                
+                  <p>The special counsel is investigating the financial dealings of <a href="/topics/paul-manafort/">Mr. Manafort</a>, who has been told he will be indicted. But there has been no confirmation that <a href="/topics/paul-manafort/">Mr. Manafort</a> was involved in Russian hacking, as reported in the dossier.</p>
+                
+                  <p>Aleksej Gubarev, a Russian-born technology entrepreneur, is suing <a href="/topics/christopher-steele/">Mr. Steele</a> for libel in a London court. The dossier said he created a botnet to pummel Democratic Party computers with porn and spyware.</p>
+                
+                  <p>In a filing mostly ignored by the pro-dossier U.S. and British media, <a href="/topics/christopher-steele/">Mr. Steele</a> acknowledged in a declaration that he never verified the information. He also said his work never should have been made public, as was done by the news website BuzzFeed, which posted the entire document in January.</p>
+                
+                  <p>The filing could lead one to believe that much of <a href="/topics/christopher-steele/">Mr. Steele</a>&#8217;s paid opposition research to destroy the Trump candidacy was based on hearsay information that was never verified by him.</p>
+                
+                  <p>With a filing in U.S. District Court this week by a Democrat-hired law firm, the public now knows that the Democratic National Committee and the Clinton campaign financed the dossier, in part.</p>
+                
+                  <p>Republicans have pounced on the disclosure.</p>
+                
+                  <p>&#8220;The Clinton campaign and the DNC paid a firm that&#8217;s known for doing business with the Kremlin for an opposition research file on President <a href="/topics/donald-trump/">Trump</a>,&#8221; said Michael Ahrens, director of the Republican National Committee&#8217;s rapid response team. &#8220;The Obama administration took it seriously, many in the media took it seriously, and it&#8217;s served as a springboard for the <a href="/topics/russia/">Russia</a> investigation we have today. Oh, and the Democrats have spent the last year lying about it.&#8221;</p>
+                
+
+        
+        
+
+        
+
+      
+
+    
+
+      <div class="permission">
+        <p>Copyright &copy; 2019 The Washington Times, LLC.  <a href="https://goo.gl/forms/xGjXcUKYsKxMeCUl1" title="Reprint permission" target="_blank">Click here for reprint permission</a>.</p>
+      </div>
+
+      
+        
+          <div style="color: black; border: 1px solid gray; padding: 5px 15px 15px 15px; background-color: lightgrey"><h4>The Washington Times Comment Policy</h4>The Washington Times welcomes your comments on Spot.im, our third-party provider. Please read our <a href="https://www.washingtontimes.com/comment-policy/">Comment Policy</a> before commenting.</div>
+<div data-spotim-module="recirculation" data-spot-id="sp_iyCBIB1C"></div>
+<script src="https://recirculation.spot.im/spot/sp_iyCBIB1C"></script>
+<script async src="https://launcher.spot.im/spot/sp_iyCBIB1C"
+    data-spotim-module="spotim-launcher"
+    data-post-id="story_1834522"
+    data-post-url="https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+    data-disqus-url="http://washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+    data-disqus-identifier="story_1834522"
+    data-messages-count="2">
+</script>
+
+        
+      
+
+     </div>
+
+      <p>&nbsp;</p>
+
+          
+
+
+
+
+      
+
+        
+
+      
+
+
+
+      </div>
+
+
+
+      <p class="expand" onclick="_gaq.push(['_trackPageview', '/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/']); comscoreBeacon();" data-track-event="StoryMore,read_more,read_more"><i class="fa fa-arrow-down"></i> Click to Read More and View Comments <i class="fa fa-arrow-down"></i></p>
+      <p class="contract hide" onclick="_gaq.push(['_trackPageview', '/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/'])" data-track-event="StoryMore,read_less,read_less"><i class="fa fa-arrow-up"></i> Click to Hide <i class="fa fa-arrow-up"></i></p>
+
+    
+    <div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_10" data-ob-template="TheWashingtonTimes"></div>
+    <script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</article>
+
+
+
+    <section class="block breaking-news no-bottom-border">
+      <h2 class="block-title">Top Stories</h2>
+      <div class="block-content">
+        
+
+          
+          
+
+
+  
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/02/19/Election_2020_Courting_Freshmen_49339.jpg-4fd90_c897-0-4266-3369_s85x85.jpg?ca6fe54637ee3091b679929e1b11a1e4df07fb4b" width="85" height="85" alt="In this Saturday, Feb. 16, 2019, file photo, Rep. Alexandria Ocasio-Cortez, D-N.Y., delivers her inaugural address following her swearing-in ceremony at the Renaissance School for Musical Theater and Technology in the Bronx borough of New York. (AP Photo/Kevin Hagen, File)" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/25/alexandria-ocasio-cortez-liberals-say-theres-a-gri/" title="The grim future lying in wait dead ahead" data-track-event="TopStoriesBlock,TopStoriesBlock,position1" style="color: #000000;">The grim future lying in wait dead ahead</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/02/25/Supreme_Court_09724.jpg-dbc10_c492-0-4042-3550_s85x85.jpg?d694b01d281727e746604a88b1bbad3d57d1dab9" width="85" height="85" alt="People wait to enter the Supreme Court, Monday, Feb. 25, 2019, in Washington. (AP Photo/Jacquelyn Martin)" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/25/supreme-court-dead-judges-cant-issue-rulings/" title="Supreme Court: Dead judges can&#8217;t issue rulings" data-track-event="TopStoriesBlock,TopStoriesBlock,position2" style="color: #000000;">Supreme Court: Dead judges can&#8217;t issue rulings</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+<!-- templates/positions/render/ymal/quiz_quiz.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+			<a href="/quiz/2015/feb/11/us-citizenship-test-could-you-pass/" data-track-event="TopStoriesBlock,TopStoriesBlock,position3"><img src="https://twt-thumbs.washtimes.com/media/image/2014/12/02/122_2014_americanflagpasspor8201_c240-0-1040-800_s85x85.jpg?268321b9ecf14b86741a7ec893e279a0e7482210" width="85" height="85" alt="obj.0.content_object.caption" /></a>
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/quiz/2015/feb/11/us-citizenship-test-could-you-pass/" title="US Citizenship Test - Could You Pass?" data-track-event="TopStoriesBlock,TopStoriesBlock,position3" style="color: #000000;">Quiz: US Citizenship Test - Could You Pass?</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+
+<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_4" data-ob-template="TheWashingtonTimes" ></div>
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+      
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/02/18/Trump_Border_Security_California_10988.jpg-bfec8_c682-0-2682-2000_s85x85.jpg?a6f8b83cb5c41eafba795a67e90867ce9bdb6dcc" width="85" height="85" alt="In this March 13, 2018, file photo, President Donald Trump talks with reporters as he reviews border wall prototypes in San Diego. (AP Photo/Evan Vucci, File)" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/26/house-committee-ready-issue-first-subpoena-trump/" title="House committee ready to issue first subpoena against Trump over family separations at border" data-track-event="TopStoriesBlock,TopStoriesBlock,position5" style="color: #000000;">House committee ready to issue first subpoena against Trump over family separations at border</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/02/25/AP_19036749069637_c807-0-3474-2667_s85x85.jpg?5693af5762241d37ef8b5df5b0382c4320a37b29" width="85" height="85" alt="&amp;quot;The bill is solely meant to intimidate doctors and restrict patients&amp;#39; access to care and has nothing, nothing, nothing to do with protecting children,&amp;quot; said Senate Minority Leader Charles E. Schumer, New York Democrat. (Associated Press)" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/25/senate-democrats-block-republicans-anti-infanticid/" title="Senate Democrats block Republicans&#8217; anti-infanticide bill" data-track-event="TopStoriesBlock,TopStoriesBlock,position6" style="color: #000000;">Senate Democrats block Republicans&#8217; anti-infanticide bill</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+<!-- templates/positions/render/ymal/massmedia_collection.html 26th February 2019 13:22 -->
+<!-- False 148324 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+      <!-- using primary image -->
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/01/04/Sig_Sauer_P227_c67-0-767-700_s85x85.jpg?e291673e3998853df211d7c4d8a02f7b9975297e" width="85" height="85" alt="Sig Sauer P227" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/multimedia/collection/stars-45-top-concealed-carry-45-caliber-pistols/" title="Top concealed-carry .45 caliber pistols" data-track-event="TopStoriesBlock,TopStoriesBlock,position7" style="color: #000000;">Top concealed-carry .45 caliber pistols</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/02/05/trump_judicial_nominee_25223_c640-0-3440-2800_s85x85.jpg?985533f908e02867effdaa19ff268dbcf7b2d474" width="85" height="85" alt="Neomi Rao, President Donald Trump&amp;#39;s nominee for a seat on the D.C. Circuit Court of Appeals, appears before the Senate Judiciary Committee for her confirmation hearing, on Capitol Hill in Washington, Tuesday, Feb. 5, 2019. (AP Photo/J. Scott Applewhite) ** FILE **" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/25/josh-hawley-raises-concerns-over-neomi-rao-brett-k/" title="Sen. Josh Hawley raises concerns over Neomi Rao, Brett Kavanaugh&#8217;s replacement pick" data-track-event="TopStoriesBlock,TopStoriesBlock,position8" style="color: #000000;">Sen. Josh Hawley raises concerns over Neomi Rao, Brett Kavanaugh&#8217;s replacement pick</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2018/10/03/us_nato_cyber_73851_c477-0-2165-1688_s85x85.jpg?43fb8276d31655612e72489f10d53ed59bd2eb05" width="85" height="85" alt="In this Feb. 12, 2009, file photo, the Pentagon is seen from Air Force One. (AP Photo/Charles Dharapak, File)" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/25/camp-david-pentagon-tops-list-russia-nuke-targets/" title="Russia puts Pentagon, Camp David in nuclear crosshairs amid U.S. missile treaty pullout" data-track-event="TopStoriesBlock,TopStoriesBlock,position9" style="color: #000000;">Russia puts Pentagon, Camp David in nuclear crosshairs amid U.S. missile treaty pullout</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+
+<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_7" data-ob-template="TheWashingtonTimes" ></div>
+
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+      
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2017/06/24/Real_Time_with_Bill_Maher_60651.jpg-60937_c292-0-2292-2000_s85x85.jpg?9c4406d88cc9be47e2c738971c931e9c55d636c2" width="85" height="85" alt="In a photo provided by HBO, Bill Maher speaks during the monologue of HBO&amp;#39;s &amp;quot;Real Time with Bill Maher&amp;quot; on Friday, June 23, 2017, in Los Angeles. (Janet Van Ham/HBO via AP)" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/25/bill-maher-shreds-red-state-americans-we-have-chef/" title="Bill Maher shreds red state Americans: &#8216;We have chef Wolfgang Puck, they have Chef Boyardee&#8217;" data-track-event="TopStoriesBlock,TopStoriesBlock,position11" style="color: #000000;">Bill Maher shreds red state Americans: &#8216;We have chef Wolfgang Puck, they have Chef Boyardee&#8217;</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/02/21/AP_330850225439_c1383-0-4701-3318_s85x85.jpg?50e8c771bc1a155d5189bcf51ce1415c82061613" width="85" height="85" alt="A man polishes the sign for The New York Times at the company&amp;#39;s headquarters, July 18, 2013 in New York. The newspaper has faced declines in print advertising and subscription revenue. The company has tried to offset those drops by increasing the number of digital subscribers. (AP Photo/Mark Lennihan)" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/21/new-york-times-labels-william-happer-princeton-phy/" title="New York Times hit with backlash for labeling Princeton physicist a &#8216;climate denialist&#8217;" data-track-event="TopStoriesBlock,TopStoriesBlock,position12" style="color: #000000;">New York Times hit with backlash for labeling Princeton physicist a &#8216;climate denialist&#8217;</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+<!-- templates/positions/render/ymal/massmedia_collection.html 26th February 2019 13:22 -->
+<!-- False 151179 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+      <!-- using primary image -->
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/02/07/AP_18233048919512_c0-66-700-766_s85x85.jpg?4ecc0063441ac70db80aedbc64aa293ed15bc1d1" width="85" height="85" alt="AP_18233048919512" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/multimedia/collection/americas-wealthiest-celebrities/" title="America’s wealthiest celebrities - ranked" data-track-event="TopStoriesBlock,TopStoriesBlock,position13" style="color: #000000;">America’s wealthiest celebrities - ranked</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/02/21/AP_18310728974291_c1104-0-4044-2940_s85x85.jpg?a63cc559dfd8bab260168e7747171815c3efcaff" width="85" height="85" alt="Gov. Phil Scott, a pro-choice Republican, has said he supports protecting abortion access without saying he would sign a specific bill. (Associated Press)" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/21/vermont-house-passes-h-57-no-limits-abortion-bill/" title="Vermont House passes sweeping no-limits abortion legislation" data-track-event="TopStoriesBlock,TopStoriesBlock,position14" style="color: #000000;">Vermont House passes sweeping no-limits abortion legislation</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/02/21/AP_19050075367706_c287-0-1723-1436_s85x85.jpg?aba9dda6e9d933fd1173ec070fe32e5d057bea31" width="85" height="85" alt="In this Friday, Feb. 15, 2019, file photo, President Donald Trump declares a national emergency in order to build a wall along the southern border during an event in the Rose Garden at the White House in Washington. (Associated Press)" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/21/obama-judge-trump-judge-clinton-judge-hear-border-/" title="Obama judge, Trump judge, Clinton judge to hear border wall emergency challenges" data-track-event="TopStoriesBlock,TopStoriesBlock,position15" style="color: #000000;">Obama judge, Trump judge, Clinton judge to hear border wall emergency challenges</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+<!-- templates/positions/render/ymal/quiz_quiz.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+			<a href="/quiz/2019/feb/14/can-you-name-tv-sitcom-theme-song/" data-track-event="TopStoriesBlock,TopStoriesBlock,position16"><img src="https://twt-thumbs.washtimes.com/media/image/2019/02/14/SitComLyricsFinal-900_c188-0-712-524_s85x85.jpg?b0254c8db5ed38f9c35532203153253ce3304a2e" width="85" height="85" alt="obj.0.content_object.caption" /></a>
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/quiz/2019/feb/14/can-you-name-tv-sitcom-theme-song/" title="Can you name this TV sitcom by its theme song lyric?" data-track-event="TopStoriesBlock,TopStoriesBlock,position16" style="color: #000000;">Quiz: Can you name this TV sitcom by its theme song lyric?</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/01/21/1_212019_2019--1-21-20-20-288201_c292-0-1564-1272_s85x85.jpg?a01f5ad29c8f8c1749d370a13f2e75e8041584a2" width="85" height="85" alt="Michael Cohen. (Associated Press) ** FILE **" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/21/john-fry-irs-employee-charged-leaking-michael-cohe/" title="IRS employee charged with leaking Michael Cohen&#8217;s records to Michael Avenatti" data-track-event="TopStoriesBlock,TopStoriesBlock,position17" style="color: #000000;">IRS employee charged with leaking Michael Cohen&#8217;s records to Michael Avenatti</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/02/21/Van_Jones_CNN_Smollett_c189-0-711-522_s85x85.jpg?9cd683a5696b2e19e1dd679a833c291ed299036e" width="85" height="85" alt="CNN analyst Van Jones discusses the arrest of actor Jussie Smollett, Feb. 21, 2019. (Image: CNN screenshot)" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/21/van-jones-mourns-fall-of-an-icon-after-jussie-smol/" title="Van Jones mourns &#8216;fall of an icon&#8217; after Jussie Smollett arrest" data-track-event="TopStoriesBlock,TopStoriesBlock,position18" style="color: #000000;">Van Jones mourns &#8216;fall of an icon&#8217; after Jussie Smollett arrest</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+<!-- templates/positions/render/ymal/massmedia_collection.html 26th February 2019 13:22 -->
+<!-- False 150572 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+      <!-- using primary image -->
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/01/31/Kel-Tec_KS7_Shotgun_c177-0-877-700_s85x85.jpg?ee4d31143fb4e0be1866649f7e4a4964fa595dfc" width="85" height="85" alt="Kel-Tec KS7 Shotgun" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/multimedia/collection/best-new-rifles-and-shotguns-2019/" title="Best new rifles and shotguns for 2019" data-track-event="TopStoriesBlock,TopStoriesBlock,position19" style="color: #000000;">Best new rifles and shotguns for 2019</a>
+	</h3>
+</article>
+
+      
+    
+      
+        
+
+
+
+
+
+<!-- templates/positions/render/ymal/stories_story.html 26th February 2019 13:22 -->
+<article class="article-position-render">
+	<div class="main-photo">
+		
+			<img src="https://twt-thumbs.washtimes.com/media/image/2019/02/14/Virginia_Politics_Blackface_30032.jpg-b252d_c0-0-3079-3079_s85x85.jpg?e2d9dc74417526e88f950886a99b384092a07da6" width="85" height="85" alt="Virginia Lt. Gov. Justin Fairfax presides over the Senate during the session at the Capitol in Richmond, Va., Thursday, Feb. 14, 2019. (AP Photo/Steve Helber) ** FILE **" />
+		
+	</div>
+	<h3 class="page-headline" style="margin-top: 0;">
+		<a href="/news/2019/feb/21/justin-fairfax-rape-allegations-lawyers-demand-inv/" title="Lawyers demand probe of Va. Lt. Gov. Justin Fairfax&#8217;s rape allegations before Assembly adjourns" data-track-event="TopStoriesBlock,TopStoriesBlock,position20" style="color: #000000;">Lawyers demand probe of Va. Lt. Gov. Justin Fairfax&#8217;s rape allegations before Assembly adjourns</a>
+	</h3>
+</article>
+
+      
+    
+  
+
+
+          
+          
+
+
+
+        
+
+      </div>
+    </section>
+    <!-- //.breaking-news -->
+
+
+
+
+
+</section>
+  </div>
+  </div>
+</section>
+    <script id="dsq-count-scr" src="//washtimes.disqus.com/count.js" async></script>
+
+<!-- //#content -->
+
+    </div>
+
+</div><!-- END 3-column layout -->
+
+
+  
+    
+
+
+    <!-- Begin #footer -->
+    <footer id="footer">
+      <div class="footer-inner" style="padding-top: 30px;">
+        
+        <div id="contact-links" class="container">
+          <div class="row">
+            <script src="https://cdn.boomtrain.com/analyticstrain/washington-times/analyticstrain.min.js"> </script>
+<script>
+  function footerBoomtrainSignup() {
+    var email = document.footerSignupForm.Email.value;
+    var newsletterBreaking = document.footerSignupForm.optInBreakingNews;
+    var newsletterWeekly = document.footerSignupForm.optInWeekly;
+    var newsletterHurt = document.footerSignupForm.optInHurt;
+    var newsletterMorning = document.footerSignupForm.optInDaily;
+    var newsletterPruden = document.footerSignupForm.optInPrudenNL;
+    var _d = new Date();
+    var now = _d.toISOString();
+
+    _bt.signup(
+        {email: email},
+        {
+          'breaking_news': newsletterBreaking.checked,
+          'newsletter_sunday': newsletterWeekly.checked,
+          'newsletter_hurt': newsletterHurt.checked,
+          'newsletter_morning': newsletterMorning.checked,
+          'newsletter_pruden': newsletterPruden.checked
+        }
+    );
+
+    console.log('Boomtrain signup: Post save');
+
+    window.setTimeout(function() {
+      console.log('Boomtrain signup: Post save redirect');
+      window.location.replace('/');
+    }, 1000);
+
+    return false;
+  }
+
+  </script>
+
+<section class="block newsletter block-email-alerts-footer col-lg-13">
+	<div class="block-content">
+		<h3>Newsletters</h3>
+    <form method="POST" name="footerSignupForm" class="form-inline" onsubmit="return footerBoomtrainSignup()">
+			<ul>
+				<li><input type="checkbox" name="optInBreakingNews" />&nbsp;Breaking News</li>
+        <li><input type="checkbox" name="optInDaily" />&nbsp;Daily</li>
+				<li><input type="checkbox" name="optInWeekly" />&nbsp;Weekly</li>
+				<li><input type="checkbox" name="optInPrudenNL" />&nbsp;Pruden on Politics</li>
+        <li><input type="checkbox" name="optInHurt" />&nbsp;Charles Hurt</li>
+			</ul>
+			<div class="cb"></div>
+			<input type="text" name="Email" class="Email" placeholder="Email Address" />
+			<input type="submit" value="Submit" />
+		</form>
+	</div>
+	<div class="cb"></div>
+	<p class="newsletter-small"><a href="/terms-of-use/">Terms of Use</a> / <a href="/privacy/">Privacy Policy</a></p>
+</section>
+
+
+
+
+            <section class="facebook-links col-sm-15 col-lg-7">
+              <div class="section-inner">
+                <h3>Find us on Facebook</h3>
+                <ul class="links">
+                  <li><a href="https://www.facebook.com/TheWashingtonTimes" title="The Washington Times" target="_blank">The Washington Times</a></li>
+                  <li><a href="https://www.facebook.com/WashingtonTimesOpinion/" title="Opinion" target="_blank">Opinion</a></li>
+                  <li><a href="https://www.facebook.com/WashingtonTimesLocal/" title="Local" target="_blank">Local</a></li>
+                  <li><a href="https://www.facebook.com/WashingtonTimesSports/" title="Sports" target="_blank">Sports</a></li>
+                </ul>
+              </div>
+            </section>
+            <section class="twitter-links col-sm-15 col-lg-10">
+              <div class="section-inner">
+                <h3>Find us on Twitter</h3>
+                <div class="container-fluid">
+                  <div class="row">
+                    <ul class="links">
+                      <li><a href="https://twitter.com/WashTimes" title="The Washington Times" target="_blank">The Washington Times</a></li>
+                      <li><a href="https://twitter.com/WashTimesOpEd" title="Opinion" target="_blank">Opinion</a></li>
+                      <li><a href="https://twitter.com/WashTimesLocal" title="Local" target="_blank">Local</a></li>
+                      <li><a href="https://twitter.com/WashTimesSports" title="Sports" target="_blank">Sports</a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+        <!-- //#contact-links -->
+        
+
+        
+
+
+        <nav id="footer-nav" role="navigation">
+          <div class="container">
+            <ul class="menu">
+              <li><a href="/subscribe/?subscribe-link-footer" title="Subscribe">Subscribe</a></li>
+              <li><a href="http://classified.washingtontimes.com" title="Classifieds" target="_blank">Classifieds</a></li>
+              <li><a href="https://washingtontimes-dc.newsmemory.com/?utm_source=washingtontimes&utm_medium=footer" title="E-edition" target="_blank">E-edition</a></li>
+              <li><a href="/customer-service/" title="Customer Service">Customer Service</a></li>
+              <li><a href="/about/jobs/" title="Careers">Careers</a></li>
+              <li><a href="/terms-of-use/" title="Terms">Terms</a></li>
+              <li><a href="/privacy/" title="Privacy">Privacy</a></li>
+              <li><a href="/feeds/" title="RSS">RSS</a></li>
+              <li><a href="/advertise/" title="Advertise">Advertise</a></li>
+              <li><a href="/faq/" title="FAQ">FAQ</a></li>
+              <li><a href="/about/" title="About">About</a></li>
+              <li><a href="/contact-us/" title="Contact">Contact</a></li>
+            </ul>
+          </div>
+        </nav>
+        <section id="colophon">
+          <div class="container">
+            <h6 class="vcard"><span class="copyright-info">All site contents <span title="full">&copy;</span> Copyright <span class="YYYY">2019</span>&nbsp;<span class="nowrap fn">The Washington Times, LLC</span> <span class="separator">|</span></span> <span class="address">3600 New York Avenue NE <span class="separator">|</span> Washington, DC 20002 <span class="separator">|</span> <span class="tel" data-vcard-tel="+12026363000">202-636-3000</span></span></h6>
+          </div>
+        </section>
+      </div>
+    </footer>
+    <!-- End #footer -->
+  
+
+  
+
+
+
+<script>
+    MODALOPTIONS = [[1.0, 1]];
+</script>
+
+
+  
+
+  
+<div class="piano-fixed-footer-one"></div>
+<div class="piano-fixed-footer-two"></div>
+
+
+  <!-- Begin Global Scripts -->
+  <script type="text/javascript" src="//twt-assets.washtimes.com/js/base_global.0d22f7be7501.js" charset="utf-8"></script>
+  <!--End Global Scripts -->
+
+  <script>
+    var isFBReferral = document.cookie.match('RefererIsFacebook=1');
+    if (isFBReferral) {
+      var flaggedElems = document.getElementsByClassName("do-not-display-flag");
+      var numItems = flaggedElems.length;
+      for (var i=0; i<numItems; i++) {
+        flaggedElems[0].remove();
+      }
+    }
+  </script>
+
+  <!-- Quantcast Tag -->
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+  })();
+
+  _qevents.push({
+    qacct:"p-c69_1G6fdlihY"
+  });
+</script>
+
+<noscript>
+  <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-c69_1G6fdlihY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+  </div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- BEGIN Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 878499686;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/878499686/?guid=ON&amp;script=0"/></div>
+</noscript>
+<!-- END Google Code for Remarketing Tag -->
+
+
+
+
+  
+
+<script>
+    tp = window.tp || [];
+    tp.push(["setContentAuthor", "Rowan Scarborough"]);         // The content author
+    tp.push(["setContentSection", "News"]);       // The content section
+    tp.push(["setTags", ["Editor-favorites", "Inside Politics", "Politics", "Security", "Waste, Fraud & Abuse"]]);                 // The content tags
+    tp.push(["setZone", "Web"]);                           // Zone can be an AAM platform or section of your site
+</script>
+
+
+<script type="text/javascript">
+
+  function loadOutbrain () {
+    $('.GRAYMATTER-DELAY').addClass('OUTBRAIN').removeClass('GRAYMATTER-DELAY');
+    if (window.OBR ) {
+      // if script is already loaded, this will trigger the ads to load
+      OBR.extern.researchWidget();
+    } else {
+      $.getScript("//widgets.outbrain.com/outbrain.js");
+    }
+  }
+
+
+  /**
+   *
+   * @type {jQuery.fn.init|Window.jQuery.fn.init|jQuery|HTMLElement}
+   */
+  var $bigTextPag = $('.bigtext > p');
+
+  function showCommentsPanel() {
+
+    var animspeed = 900; // animation speed in milliseconds
+    var $blockquote = $('.bigtext');
+    var height = $blockquote.height();
+    var mini = $bigTextPag.eq(0).outerHeight()
+      + $bigTextPag.eq(1).outerHeight()
+      + $bigTextPag.eq(2).outerHeight()
+      + $bigTextPag.eq(2).outerHeight()
+      + $bigTextPag.eq(3).outerHeight();
+
+    $blockquote.attr('data-fullheight',height+'px');
+    $blockquote.attr('data-miniheight',mini+'px');
+    $blockquote.css('height',mini+'px');
+
+    $('.expand').on('click', function(e){
+      _gaq.push(['_trackPageview', location.pathname + '#read-more']);
+      var $text = $('div.bigtext');
+
+      $text.animate({
+        'height': $text.attr('data-fullheight')
+      }, animspeed, null, function() {
+          $text.height('inherit');
+      });
+
+      var fromFacebook = Cookies.get('RefererIsFacebook');
+      if (fromFacebook) {
+        $('.do-not-display-flag').hide();
+      }
+
+      $(this).next('.contract').removeClass('hide');
+      $(this).addClass('hide');
+      $('.read-more-show').removeClass('hide');
+      loadOutbrain();
+    });
+
+    // used by the Print button to expand all content for printing
+    $('.expand-comments').on('click', function(e) {
+      $('.bigtext').height('inherit');
+      $('.expand').addClass('hide');
+      $('.contract').removeClass('hide');
+      $('.read-more-show').removeClass('hide');
+      loadOutbrain();
+    });
+
+    $('.contract').on('click', function(e){
+      var $text = $('div.bigtext');
+      $text.animate({
+        'height': $text.attr('data-miniheight')
+      }, animspeed);
+      $(this).prev('.expand').removeClass('hide');
+      $(this).addClass('hide');
+      $('.read-more-show').addClass('hide');
+
+    });
+
+  }
+
+  /**
+   * Show more article text and the comments panel on
+   * "Click to read more and comments" hide that link
+   *
+   * NOTE: when 5 or less <p> are set on the content, don't show the
+   *       expand/hide link. There's one extra <p> hard-coded on the
+   *       template after the comments for spacing purposes.
+   */
+  if ($bigTextPag.length < 7) {
+      $('.expand').hide();
+  } else {
+    showCommentsPanel();
+  }
+
+</script>
+
+  <script src="https://s.newsmaxfeednetwork.com/static/js/connectV5.js"></script>
+<script type="text/javascript">
+  NM.init({
+    widgetId: "L6Wh6EinvOZMP2dyoJbbAZuYVrZdC69gbJAHMH6l",
+    template: "NM07"
+  });
+</script>
+
+<script type="text/javascript">
+var fby = fby || [];
+fby.push(['showTab', {id: '11340', position: 'right', color: '#A2182C'}]);
+(function () {
+	var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true;
+	f.src = '//cdn.feedbackify.com/f.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
+})();
+</script>
+
+
+  
+
+  
+  <script>
+    (function(src){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=src;var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})("//experience.tinypass.com/xbuilder/experience/load?aid=hph4LAYuC6");
+  </script>
+
+<script>
+  tp = window.tp || [];
+  console.log('TP setUsePianoIdUserProvider');
+  tp.push(["setUsePianoIdUserProvider", true ]);         // Piano ID Initialization
+
+  
+</script>
+
+
+</body>
+</html>

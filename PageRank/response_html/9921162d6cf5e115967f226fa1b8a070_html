@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="description" content="News and features content service for newspapers, broadcasters and Web sites from sources such as Tribune and the Los Angeles Times.">
+    <meta name="keywords" content="MCT,McClatchy-Tribune,Direct,International,Campus,Tribune,Tribune News Service,world,news,Tribune Media Services,Tribune Content Agency,McClatchy,graphics,photos,illustrations,archives,political,caricatures,syndicated,content,paginated pages,travel,lifestyle,niche,sports,foreign,food,entertainment,fashion,religion,automobile,kids,teen,celebrity,business,books,features,interactive,home,garden,music,science,newspapers,regional,editorial,health,finance,science,That's Racin',onepages">
+    <meta name="robots" content="no archive">
+
+    <title>Tribune News Service | Preview | 'Finish the wall'? Facing failure, Trump tries rebranding</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" type="text/css" href="/includes/css/default.css">
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+    <script src="/includes/js/smartmenus.js"></script>
+    <script src="/includes/js/mct.js?date=1551205650"></script>
+
+    <link rel="stylesheet" type="text/css" href="/includes/css/preview.css">
+
+    <script>
+
+        /* Implied Consent EU Cookie Banner */
+
+        function createDiv(){
+
+            var bodytag = document.getElementsByTagName('body')[0];
+            var div = document.createElement('div');
+            div.setAttribute('id', 'CookieLaw');
+            div.innerHTML = '<p>TCA uses cookies to improve our sites and by continuing you agree to our <a href="http://www.tronc.com/privacy-policy/" rel="nofollow" title="Privacy Policy">Privacy Policy</a>.<button class="acceptCookie" type="button" onclick="acceptCookies();">Accept</button></p>';
+
+            bodytag.insertBefore(div,bodytag.firstChild); //Adds the Cookie Law Banner just after the opening <body> tag
+
+            document.getElementsByTagName('body')[0].className += ' cookiebanner'; //Adds a class to the <body> tag when the banner is visible
+
+        }
+
+        function checkCookie(name){
+            var nameEQ = name + '=';
+            var ca = document.cookie.split(';');
+            for(var i=0; i < ca.length; i++){
+                var c = ca[i];
+                while(c.charAt(0) == ' '){
+                    c = c.substring(1,c.length);
+                }
+                if(c.indexOf(nameEQ) == 0){
+                    return c.substring(nameEQ.length,c.length);
+                }
+            }
+            return null;
+        }
+
+        function eraseCookie(name){
+            SetCookie(name, '', -1);
+        }
+
+        function acceptCookies(){
+
+            //Create the cookie so it won't appear on future visits
+            SetCookie('complianceCookie', 'on', 3650);
+
+            var element = document.getElementById('CookieLaw');
+            element.parentNode.removeChild(element);
+
+        }
+
+
+
+
+        var currentNav = '';
+        var currentNavSubSet = '';
+
+        var $j = jQuery.noConflict();
+
+
+        //Performance enhancement for pages with multiple searches
+        function getSerp(query, title, counter, features, type, cleanQuery, self){
+
+            var url = '/includes/getSearch.php?query=' + query + '&searchTitle=' + title + '&counter=' + counter + '&features=' + features + '&type=' + type + '&cleanQuery=' + cleanQuery + '&self=' + self;
+
+            $j.ajax({
+                type: 'GET',
+                async: true,
+                url: url,
+                cache: false,
+                dataType: 'html',
+
+                success: function(data){
+                    //Remove centering style
+                    $j('#SERP_' + counter).removeClass('load_center');
+                    //Inject search results
+                    $j('#SERP_' + counter).html(data);
+                }
+            });
+
+        }
+
+
+
+        ////****   Performace enhancement for tab-happy users   ****////
+
+        $j(document).ready(function(){
+
+            if(checkCookie('complianceCookie') != 'on'){
+                createDiv();
+            }
+
+            var alreadyFocused = false;
+
+            function handleVisibilityChange(){
+                if(alreadyFocused == false){
+                    checkRelated();
+                    alreadyFocused = true;
+                }
+            }
+
+            //First catch for all modern browsers that support unprefixed "Page Visibility" feature in HTML5
+            if(document.hidden != undefined){
+
+                if(document.visibilityState == 'visible'){
+                    if(alreadyFocused == false){
+                        checkRelated();
+                        alreadyFocused = true;
+                    }
+                }
+                else{
+                    document.addEventListener('visibilitychange', handleVisibilityChange, false);
+                }
+
+            }
+            //Catching Chrome 13+ (maybe future Safari versions, not sure..)
+            else if(document.webkitHidden != undefined){
+
+                if(document.webkitVisibilityState == 'visible'){
+                    if(alreadyFocused == false){
+                        checkRelated();
+                        alreadyFocused = true;
+                    }
+                }
+                else{
+                    document.addEventListener('webkitvisibilitychange', handleVisibilityChange, false);
+                }
+
+            }
+            //Unsupported browsers
+            else{
+
+                checkRelated();
+
+            }
+
+
+            ////**** Video selector ****////
+            $j('.video_select').on('change', function(){
+
+                var directory = $j(this).find(':selected').data('directory');
+
+                if(typeof directory !== 'undefined'){
+                    window.location.href = directory;
+                }
+
+            });
+
+        });
+
+
+    </script>
+</head>
+<body lang="en">
+
+	<div id="Wrapper">
+
+
+
+	<a id="top"></a>
+
+
+    <div id="topHeader">
+        <div id="header">
+            <div id="logos">
+                <div id="mainLogo">
+                    <a href="/" style="text-decoration: none">
+                        <img src="/includes/img/logo_direct.png" alt="Tribune News Service">
+                    </a>
+                </div>
+                <div id="header-remaining">
+					<script>
+						var imagenumber = 10;
+						var randomnumber = Math.random(2);
+						var rand1 = Math.round((imagenumber-1) * randomnumber) + 1;
+						images = new Array;
+						images[1] = "/ad/banners/GunFree-Games.jpeg";
+						images[2] = "/ad/banners/politics.jpg";
+						images[3] = "/ad/banners/adventure.jpg";
+						images[4] = "/ad/banners/Tips4Kids-Ad.jpeg";
+						images[5] = "/ad/banners/Movie-Banner-Ad-01.jpg";
+						images[6] = "/ad/banners/Smart_Home.jpg";
+						images[7] = "/ad/banners/thatsracin.jpg";
+						images[8] = "/ad/banners/Movie-Banner-Ad-01.jpg";
+						images[9] = "/ad/banners/thatsracin.jpg";
+						images[10] = "/ad/banners/politics.jpg";
+
+
+						var image = images[rand1];
+						links = new Array;
+						links[1] = "/preview.php?id=201802271700MCT_____SS_PACK__2018027_No_Gun_Game_APP";
+						links[2] = "/picks/pages/congress_promo.php";
+						links[3] = "/adventure/";
+						links[4] = "/preview.php?id=201702271257MCT_____SS_PACK__20170227_Tips_4_Kids";
+						links[5] = "/topics/topical_movies.php";
+						links[6] = "/preview.php?id=201612281821MCT_____SS_PACK__20161228_Smart_Home";
+						links[7] = "/preview.php?id=201902011355MCT_____SS_PACK__20190201_NASCAR1";
+						links[8] = "/topics/topical_movies.php";
+						links[9] = "/preview.php?id=201902011355MCT_____SS_PACK__20190201_NASCAR1";
+						links[10] = "/picks/pages/congress_promo.php";
+
+
+						var link = links[rand1];
+
+						showAd(link, image);
+					</script>
+                    <div id="contact">
+                        <a href="/contacts/">
+                            <span class="beige big">Sales</span>
+                            <br>US: 800-346-8798
+                            <br>Intl: 312-222-8682
+                        </a>
+                        <br>
+                        <a href="mailto:tcasales@tribpub.com">tcasales@tribpub.com</a>
+                    </div>
+                    <div id="social"></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div id="Search">
+                <form method="get" action="/includes/searchPulldown.php">
+                    <div id="searchNav">
+                        <div class="search_links">
+                            <a href="/search/advanced.php">Advanced Search</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/guide/search_tips.php">Search Tips</a>
+                        </div>
+                        <div class="search_pull">
+                            <select name="category">
+								<option value="v|/visuals/search.php"> Select a search</option>
+								<option value="v|/visuals/search.php"> All Visuals</option>
+								<option value="|/search/search_txt.php"> All Text</option>
+								<option value="|/search/search.php"> ---------------------</option>
+								<option value="|/search/search_txt.php"> All Text</option>
+								<option value="|/news/livearchive.php"> &nbsp;&nbsp;&nbsp;News Service</option>
+								<option value="|/regional/search.php"> &nbsp;&nbsp;&nbsp;Regional News</option>
+								<option value="b|/regional/business/index.php"> &nbsp;&nbsp;&nbsp;Regional News/Business</option>
+								<option value="|/onepages/sstext.php"> &nbsp;&nbsp;&nbsp;OnePages Elements (text)</option>
+								<option value="|/athome/text.php"> &nbsp;&nbsp;&nbsp;At Home (text)</option>
+								<option value="|/50-plus/live.php"> &nbsp;&nbsp;&nbsp;50-Plus (text)</option>
+								<option value="|/adventure/live.php"> &nbsp;&nbsp;&nbsp;Adventure and Fitness (text)</option>
+								<option value="|/entertaining/entertaininglive.php"> &nbsp;&nbsp;&nbsp;Entertaining (text)</option>
+								<option value="|/kids/krtkidselesearch.php"> &nbsp;&nbsp;&nbsp;Kids &amp; Teens (text)</option>
+								<option value="|/moms/momslive.php"> &nbsp;&nbsp;&nbsp;Moms (text)</option>
+								<option value="|/news2use/news2uselive.php"> &nbsp;&nbsp;&nbsp;News2Use (text)</option>
+								<option value="|/pluggedin/pluggedinlive.php"> &nbsp;&nbsp;&nbsp;Plugged In (text)</option>
+								<option value="|/trends/live.php"> &nbsp;&nbsp;&nbsp;Trends &amp; Shopping (text)</option>
+								<option value="|/whatsnext/live.php"> &nbsp;&nbsp;&nbsp;What's Next (text)</option>
+								<option value="|/columnist/search.php"> &nbsp;&nbsp;&nbsp;Columnists</option>
+								<option value="p|/news/corrections.php"> &nbsp;&nbsp;&nbsp;Corrections/Kills</option>
+								<option value="|/news/advisories.php"> &nbsp;&nbsp;&nbsp;Advisories</option>
+								<option value="v|/search/search.php"> ---------------------</option>
+								<option value="v|/photos/searchallphotos.php"> All Photos</option>
+								<option value="v|/photos/livearchive.php"> &nbsp;&nbsp;&nbsp;News Service Photos</option>
+								<option value="v|/photos/senate.php"> &nbsp;&nbsp;&nbsp;House-Senate Mugs</option>
+								<option value="v|/photos/abaca_live.php"> &nbsp;&nbsp;&nbsp;Abaca Press (premium)</option>
+								<option value="v|/sipa/"> &nbsp;&nbsp;&nbsp;Sipa USA (premium)</option>
+								<option value="v|/zuma/"> &nbsp;&nbsp;&nbsp;Zuma Press (premium)</option>
+								<option value="v|/athome/photos.php"> &nbsp;&nbsp;&nbsp;At Home (images)</option>
+								<option value="v|/50-plus/photos.php"> &nbsp;&nbsp;&nbsp;50-Plus (images)</option>
+								<option value="v|/adventure/photos.php"> &nbsp;&nbsp;&nbsp;Adventure and Fitness (images)</option>
+								<option value="v|/entertaining/entertainingphotos.php"> &nbsp;&nbsp;&nbsp;Entertaining (images)</option>
+								<option value="v|/kids/photos.php"> &nbsp;&nbsp;&nbsp;Kids &amp; Teens (images)</option>
+								<option value="v|/moms/momsphotos.php"> &nbsp;&nbsp;&nbsp;Moms (images)</option>
+								<option value="v|/news2use/photos.php"> &nbsp;&nbsp;&nbsp;News2Use (images)</option>
+								<option value="v|/pluggedin/pluggedinphotos.php"> &nbsp;&nbsp;&nbsp;Plugged In (images)</option>
+								<option value="v|/trends/photos.php"> &nbsp;&nbsp;&nbsp;Trends &amp; Shopping (images)</option>
+								<option value="v|/whatsnext/nextphotos.php"> &nbsp;&nbsp;&nbsp;What's Next (images)</option>
+								<option value="v|/photos/columnist.php"> &nbsp;&nbsp;&nbsp;Columnist Mugs (images)</option>
+								<option value="v|/search/search.php"> ---------------------</option>
+								<option value="v|/graphics/searchallgraphics.php"> All Graphics</option>
+								<option value="v|/graphics/livearchive.php"> &nbsp;&nbsp;&nbsp;News Graphics</option>
+								<option value="v|/features/livearchive.php"> &nbsp;&nbsp;&nbsp;Feature Graphics</option>
+								<option value="v|/interactive/livearchive.php"> &nbsp;&nbsp;&nbsp;Web Graphics</option>
+								<option value="v|/faces/livenoillus.php"> &nbsp;&nbsp;&nbsp;Caricatures</option>
+								<option value="v|/illustrations/livenofaces.php"> &nbsp;&nbsp;&nbsp;Illustrations</option>
+								<option value="v|/search/search.php"> ---------------------</option>
+								<option value="v|/onepages/search.php"> Paginated Pages</option>
+								<option value="v|/onepages/spotsearch.php"> &nbsp;&nbsp;&nbsp;Spot News/Feature Pages</option>
+								<option value="v|/nascar/live.php"> &nbsp;&nbsp;&nbsp;That's Racin' Pages</option>
+								<option value="v|/kids/live.php"> &nbsp;&nbsp;&nbsp;KidNews Pages</option>
+                            </select>&nbsp;&nbsp;For&nbsp;
+                            <input name="query" class="query" maxlength="90">&nbsp;&nbsp;
+                        </div>
+                        <div class="search_go">
+                            <input type="image" src="/includes/img/go.gif" title="Search" alt="Search">
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="topNav-left-side-outer">
+        <div id="topNav-left-side">&nbsp;</div>
+    </div>
+    <div id="topNav">
+        <div id="priNav">
+            <ul>
+                <li class="last"><a href="/guide/faq.php">FAQ</a></li>
+                <li><a href="/guide/">User Guides</a></li>
+                <li><a href="/lightbox/">Lightbox</a></li>
+                <li><a href="/email/alerts/">Alerts</a></li>
+                <li><a href="/contacts/">Contact Us</a></li>
+            </ul>
+        </div>
+		<div class="topCyan">
+			<a href="https://www.mctdirect.com/login/">Login</a> | <a href="https://www.mctdirect.com/login/">MyAccount</a>
+		</div>
+		<div class="topCyanEnd"></div>
+    </div>
+    <div id="topNav-right-side-outer">
+    	<div id="topNav-right-side"></div>
+    </div>
+    <div class="clear air">&nbsp;</div>
+
+    <div id="contentArea">
+
+        <div id="previewArea">
+
+<p class="textCredit"><b>This represents a preview of the article below and is not for publication or reuse in any way. To download/purchase the full-text document, please click on one of the download links at the bottom of this page.</b></p><br /><style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	text-indent:.3in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoToc9, li.MsoToc9, div.MsoToc9
+	{mso-style-update:auto;
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:96.0pt;
+	text-indent:.3in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.bizIndustry
+	{mso-style-name:bizIndustry;
+	mso-style-parent:"";
+	color:#339966;}
+span.bizTicker
+	{mso-style-name:bizTicker;
+	mso-style-parent:"";
+	color:blue;}
+p.krtAPOnly, li.krtAPOnly, div.krtAPOnly
+	{mso-style-name:krtAPOnly;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	text-indent:.3in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#339966;}
+p.krtWhatsNew, li.krtWhatsNew, div.krtWhatsNew
+	{mso-style-name:krtWhatsNew;
+	mso-style-parent:krtText;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	text-indent:.3in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#3366FF;}
+span.krtArtFlag
+	{mso-style-name:krtArtFlag;}
+p.krtByline, li.krtByline, div.krtByline
+	{mso-style-name:krtByline;
+	mso-style-next:krtCreditLine;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:1.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.krtEdNote, li.krtEdNote, div.krtEdNote
+	{mso-style-name:krtEdNote;
+	mso-style-parent:krtByline;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:1.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.krtArtText, li.krtArtText, div.krtArtText
+	{mso-style-name:krtArtText;
+	mso-style-parent:krtEdNote;
+	mso-style-next:krtByline;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:1.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+span.krtAtRiskFlag
+	{mso-style-name:krtAtRiskFlag;}
+span.krtAttention
+	{mso-style-name:krtAttention;}
+p.krtBug, li.krtBug, div.krtBug
+	{mso-style-name:krtBug;
+	mso-style-parent:krtByline;
+	mso-style-next:krtText;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:4.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+span.krtCityCode
+	{mso-style-name:krtCityCode;}
+p.krtCreditLine, li.krtCreditLine, div.krtCreditLine
+	{mso-style-name:krtCreditLine;
+	mso-style-parent:krtByline;
+	mso-style-next:krtBug;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:1.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+span.krtCycle
+	{mso-style-name:krtCycle;}
+p.krtEmbargoText, li.krtEmbargoText, div.krtEmbargoText
+	{mso-style-name:krtEmbargoText;
+	mso-style-parent:krtByline;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:1.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.krtHeadline, li.krtHeadline, div.krtHeadline
+	{mso-style-name:krtHeadline;
+	mso-style-next:krtByline;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:14.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:16.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+span.krtHiddenText
+	{mso-style-name:krtHiddenText;
+	display:none;
+	mso-hide:all;
+	text-decoration:none;
+	text-line-through:none;
+	vertical-align:baseline;
+	vertical-align:baseline;}
+p.krtOptionalTrim, li.krtOptionalTrim, div.krtOptionalTrim
+	{mso-style-name:krtOptionalTrim;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	text-indent:.3in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#993300;
+	display:none;
+	mso-hide:all;}
+span.krtPrefix
+	{mso-style-name:krtPrefix;}
+p.krtShirttail, li.krtShirttail, div.krtShirttail
+	{mso-style-name:krtShirttail;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	text-indent:.3in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+p.krtSlug, li.krtSlug, div.krtSlug
+	{mso-style-name:krtSlug;
+	mso-style-next:krtHeadline;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+span.krtSuffix
+	{mso-style-name:krtSuffix;}
+p.krtTag, li.krtTag, div.krtTag
+	{mso-style-name:krtTag;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	text-indent:.3in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.krtText, li.krtText, div.krtText
+	{mso-style-name:krtText;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	text-indent:.3in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.krtTrim, li.krtTrim, div.krtTrim
+	{mso-style-name:krtTrim;
+	mso-style-parent:krtText;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	text-indent:.3in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#993300;
+	display:none;
+	mso-hide:all;}
+p.krtTrimIndicator, li.krtTrimIndicator, div.krtTrimIndicator
+	{mso-style-name:krtTrimIndicator;
+	mso-style-parent:krtAPOnly;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	text-indent:.3in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:#339966;}
+span.krtWebOnlyText
+	{mso-style-name:krtWebOnlyText;}
+p.krtBjtDivider, li.krtBjtDivider, div.krtBjtDivider
+	{mso-style-name:krtBjtDivider;
+	mso-style-parent:krtText;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	background:teal;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	color:white;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.krtBjtHead1, li.krtBjtHead1, div.krtBjtHead1
+	{mso-style-name:krtBjtHead1;
+	mso-style-parent:krtText;
+	margin-top:6.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:18.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.krtBjtHead2, li.krtBjtHead2, div.krtBjtHead2
+	{mso-style-name:krtBjtHead2;
+	mso-style-parent:krtBjtHead1;
+	margin-top:6.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.krtBjtName, li.krtBjtName, div.krtBjtName
+	{mso-style-name:krtBjtName;
+	mso-style-parent:krtText;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.krtBjtPrecede, li.krtBjtPrecede, div.krtBjtPrecede
+	{mso-style-name:krtBjtPrecede;
+	mso-style-parent:krtText;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";}
+p.krtAPOnlyText, li.krtAPOnlyText, div.krtAPOnlyText
+	{mso-style-name:krtAPOnlyText;
+	mso-style-parent:krtBjtPrecede;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	color:#3366FF;}
+p.krtPTitle, li.krtPTitle, div.krtPTitle
+	{mso-style-name:krtPTitle;
+	mso-style-unhide:no;
+	mso-style-parent:krtText;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-indent:.5in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.krtSubHeadline, li.krtSubHeadline, div.krtSubHeadline
+	{mso-style-name:krtHeadline;
+	mso-style-next:krtByline;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:14.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.krtNonPub, li.krtNonPub, div.krtNonPub
+	{mso-style-name:krtNonPub;
+	mso-style-parent:krtText;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	text-indent:.3in;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-style:italic;
+	color:#3366FF;}
+span.krtDateLine
+	{mso-style-name:krtDateLine;}
+p.krtShirttailNews, li.krtShirttailNews, div.krtShirttailNews
+	{mso-style-name:krtShirttailNews;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	text-indent:.3in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:1.0in;
+	mso-footer-margin:1.0in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+<div class="Section1">
+<p class="krtSlug">BC-TRUMP-BORDER:LA — national, itop (1350 words)</p>
+<p class="krtHeadline">‘Finish the wall’? Facing failure, Trump tries rebranding</p>
+<p class="krtArtText">(PHOTO)</p>
+<p class="krtByline">By Eli Stokols and Molly O’Toole</p>
+<p class="krtCreditLine"><a href="http://www.latimes.com">Los Angeles Times</a></p>
+<p class="krtBug"><a href="http://www.tribunenewsservice.com">(TNS)</a></p>
+<p class="krtText">WASHINGTON — For President Donald Trump, chants and signs saying “Build the wall” are so 2016 — “Finish the wall” is his new rallying cry. Yet two years into his term, not one new mile of a barrier has been erected along the nearly 2,000-mile U.S.-Mexico border.</p>
+<p class="krtText">At a rally in El Paso on Monday night, Trump went so far as to declare that nearby, just that day, “the big beautiful wall right on the Rio Grande” had gotten underway. In fact, some brush was cleared in anticipation of construction, according to a check with the Homeland Security Department.</p>
+<p class="krtText">If and when a 25-mile physical barrier ultimately is built there, it...</p></div>
+<br />
+            <form method="POST" action="/includes/serpHandler.php" name="PreviewPage">
+                <div class="downloadArea">
+                    <div class="daLink"><a href="/login/?download=1"><img src="/includes/img/download.gif" alt="Download" /> <span class="downloadLink" style="font-size: 14px;">Download</span></a></div>
+                    <div class="daFormats"><label for="id201902121948MCT_____NEWS_SVC_24638516_0000HTML"><input onclick="javascript:fp('not');" type="radio" name="201902121948MCT_____NEWS_SVC_24638516_0000" id="id201902121948MCT_____NEWS_SVC_24638516_0000HTML" value="HTML" />HTML</label>&nbsp;<label for="id201902121948MCT_____NEWS_SVC_24638516_0000TXT"><input onclick="javascript:fp('not');" type="radio" name="201902121948MCT_____NEWS_SVC_24638516_0000" id="id201902121948MCT_____NEWS_SVC_24638516_0000TXT" value="TXT" checked="checked" />TXT</label>&nbsp;</div>
+                    <div class="daAdd">
+                        <input type="hidden" name="action" value=""><input type="hidden" name="rid" value="201902121948MCT_____NEWS_SVC_24638516_0000">
+                        <ul id="Menu1" class="MM">
+                            <li style="width:155px;">
+                                <a href="/login/"><img src="/includes/img/options_add.gif" class="middle" alt="Add">&nbsp;Add to lightbox</a>
+                                
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="daPrice"><a href="/login/" title="Log in to see the price"><span style="font-size: 9pt;">Login for price</span></a></div><div class="clear"></div>
+                </div>
+            </form>
+
+		</div>
+		<div id="searchArea">
+<div class="shortBlack"><div id="orangeText">Related</div>
+<div class="clear"></div></div>
+<div id="matchingHeadline"><div id="matchingText">Regional News (1)</div><div id="matchingArrow"><a id="matchingArrow0" href="javascript:toggleDiv('matchingContent0', 'matchingArrow0', 'matching', 'small');"><img src="/includes/img/arrow_small_down.png" alt="Arrow" /></a></div><div class="clear"></div></div>
+<div id="matchingContent0" class="matchingContent" style="display: block;">
+<div class="indivMatch" style="background-color: #e5e5e5"><a href="/preview.php?id=201902130001MCT_____REG_NEWS24636410_0" target="_blank">Trump calls Rep. Omar apology 'lame,' says she should resign</a></div><div class="matchingContentEnd"></div></div>
+<div id="matchingHeadline"><div id="matchingText">Photos (1)</div><div id="matchingArrow"><a id="matchingArrow1" href="javascript:toggleDiv('matchingContent1', 'matchingArrow1', 'matching', 'small');"><img src="/includes/img/arrow_small_down.png" alt="Arrow" /></a></div><div class="clear"></div></div>
+<div id="matchingContent1" class="matchingContent" style="display: block;">
+<div class="indivMatch" style="text-align: center; background-color: #e5e5e5"><a href="/preview.php?id=201902121424MCT_____PHOTO____US-NEWS-TRUMP-CALLS-REP.-OMAR-APOLOGY-1-MS" target="_blank"><img src="http://tca-media.acquiremedia.com/cgi-bin/image_thumbnail.cgi?id=201902121424MCT_____PHOTO____US-NEWS-TRUMP-CALLS-REP.-OMAR-APOLOGY-1-MS" alt="Thumbnail" /><br />US-NEWS-TRUMP-CALLS-REP.-OMAR-APOLOGY-1-MS</a></div><div class="matchingContentEnd"></div></div>
+        </div>
+
+    </div>
+
+
+	<script>
+		var relatedRefs = [];
+	</script>
+
+    <div style="display:none;"><a href="/news/download.php?ck=1551205657">News Download</a></div>
+
+    <div class="clear"></div>
+
+    </div>
+
+    <div id="Footer">&copy; Copyright 2019 Tribune Content Agency. All Rights Reserved | <a href="http://www.tronc.com/privacy-policy/" target="_blank">Privacy Policy</a></div>
+
+</body>
+</html>

@@ -1,0 +1,1103 @@
+
+<!DOCTYPE html>
+<html class="root root_js_disabled">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=1170" />
+        <meta name="site" content="11alive.com" />
+        <script>
+            document.documentElement.classList.remove('root_js_disabled');
+        </script>
+        <noscript>
+            <style>
+                * {
+                    transition: none !important;
+                    animation: none !important;
+                }
+                .page__desktop-header {
+                    position: static;
+                    top: auto;
+                    left: auto;
+                    right: auto;
+                    bottom: auto;
+                }
+                .desktop-header__nav-wrapper {
+                    z-index: 3;
+                    opacity: 0;
+                    width: 70px !important;
+                    height: 50px !important;
+                    transform: translateX(-655px) translateY(23px);
+                    transition: none;
+                }
+                .desktop-header__navigation_visible_false {
+                    transition: none !important;
+                    overflow: visible !important;
+                }
+                .desktop-header__nav-wrapper:hover {
+                    height: auto !important;
+                    transform: none;
+                    opacity: 1;
+                    transition: none;
+                }
+                .desktop-header__nav-wrapper:hover .desktop-header__navigation_visible_false {
+                    opacity: 1;
+                    transform: translateX(-670px) translateY(-98px) !important;
+                    padding-top: 100px;
+                }
+                .grid__cell[data-columns="12"] .ad,
+                .page__footer .ad__nojs-placeholder {
+                    display: none !important;
+                }
+                .grid__cell[data-columns="12"] [data-module="ad"] {
+                    display: none !important;
+                }
+                .grid__module[data-module="headline-list-with-abstract"] .ad__nojs-placeholder {
+                    display: none !important;
+                }
+            </style>
+        </noscript>
+        <script>
+            function appendStyle(url) {
+                var sheet = document.createElement("link");
+                sheet.setAttribute("href", url);
+                sheet.setAttribute("rel", "stylesheet");
+                sheet.setAttribute("type", "text/css");
+                document.head.appendChild(sheet);
+            }
+        </script>
+        <link rel="stylesheet" href="/Views/dist/styles/modules.min.css?version=3.3.7" />
+        <script>
+            appendStyle('/Views/lib/jquery-ui/jquery-ui.min.css');
+            appendStyle('/Views/lib/jquery-ui/jquery-ui.structure.min.css');
+            appendStyle('/Views/lib/jquery-ui/jquery-ui.theme.min.css');
+        </script>
+        <!--[if IE]><link rel="shortcut icon" href="/content/favicon/WXIA.png?version=3.3.7"><![endif]-->
+        <link rel="icon" href="/content/favicon/WXIA.png?version=3.3.7">
+        <meta property="fb:app_id" content="2077762549125574" />
+        <meta property="og:site_name" content="WXIA" />
+        <meta property="og:locale" content="en_US" />
+        <meta itemprop="pageType" content="article" />
+        <meta name="description" content="Lewis and the Democrats took their first steps to force the President to release his tax returns." />
+                    <script>
+                var tealiumUrl = 'https://tags.tiqcdn.com/utag/tegna/wxia-redesign-desktop/prod/utag.js';
+                var utag_data = {
+                    //Original Set
+                    template_type: "", // ux name for page layout
+                    page_type: "article",
+                    division: "Broadcast",
+                    site_type: "desktop",
+                    page_url: window.location.href,
+                    simplerreach_tags: "",
+                    pathname: "https://www.11alive.com/article/news/politics/national-politics/rep-john-lewis-wants-to-see-presidents-trumps-tax-returns/85-c564d411-e386-42f1-ad67-24a0d83aaefb",
+                    ad_slots: [],
+                    gpt_network_code: "32805352/GA-Atlanta-WXIA-B3321_DesktopTablet",
+                    //Occurring in Both Sets
+                    section: "news",
+                    subsection: "politics",
+                    topic: "national-politics",
+                    subtopic: "",
+                    content_type: "article",
+                    category: "news",
+                    market: "Atlanta" + ", " + "GA",
+                    //New Set
+                    subcategory: "politics",
+                    keywords: "11alive",
+                    document_title: "11alive.com",
+                    canonical_url: "https://www.11alive.com/article/news/rep-john-lewis-wants-to-see-presidents-trumps-tax-returns/85-c564d411-e386-42f1-ad67-24a0d83aaefb"
+                };
+            </script>
+        <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "url": "https://www.11alive.com",
+            "logo": "https://www.11alive.com/content/logos/mobile/wxia.png",
+            "sameAs": [
+            "https://www.facebook.com/11Alive/",
+            "https://twitter.com/@11AliveNews"
+            ]
+            }
+        </script>
+        <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "url": "https://www.11alive.com",
+            "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.11alive.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+            }
+            }
+        </script>
+            <meta itemprop="datePublished" content="2/7/2019 11:24:51 PM" />
+            <meta itemprop="dateModified" content="2/8/2019 5:08:36 AM" />
+            <meta itemprop="url" content="https://www.11alive.com/article/news/politics/national-politics/rep-john-lewis-wants-to-see-presidents-trumps-tax-returns/85-c564d411-e386-42f1-ad67-24a0d83aaefb" />
+            <meta itemprop="magnet:custom" name="category" content="news" />
+            <meta property="og:url" content="https://www.11alive.com/article/news/politics/national-politics/rep-john-lewis-wants-to-see-presidents-trumps-tax-returns/85-c564d411-e386-42f1-ad67-24a0d83aaefb">
+            <meta property="og:title" content="Rep. John Lewis wants to see President's Trump's Tax Returns">
+            <meta property="og:description" content="Lewis and the Democrats took their first steps to force the President to release his tax returns.">
+            <meta property="og:type" content="article" />
+            <meta property="og:image" content="https://media.11alive.com/assets/WXIA/images/84a5aa04-0bef-4d0f-86f1-0fc559be0ef5/84a5aa04-0bef-4d0f-86f1-0fc559be0ef5_1140x641.jpg">
+            <meta property="og:image:width" content="1140" />
+            <meta property="og:image:height" content="641" />
+            <meta property="og:article:published_time" content="2/7/2019 11:24:51 PM" />
+            <meta name="twitter:title" content="Rep. John Lewis wants to see President's Trump's Tax Returns">
+            <meta name="twitter:image:src" content="https://media.11alive.com/assets/WXIA/images/84a5aa04-0bef-4d0f-86f1-0fc559be0ef5/84a5aa04-0bef-4d0f-86f1-0fc559be0ef5_360x203.jpg">
+            <meta name="twitter:card" content="summary">
+            <meta name="twitter:site" content="@11AliveNews">
+            <meta name="twitter:description" content="Lewis and the Democrats took their first steps to force the President to release his tax returns.">
+            <meta name="twitter:domain" content="www.11alive.com">
+            <link rel="canonical" href="https://www.11alive.com/article/news/rep-john-lewis-wants-to-see-presidents-trumps-tax-returns/85-c564d411-e386-42f1-ad67-24a0d83aaefb" />
+            <link rel="alternate" href="https://www.11alive.com/mobile/article/news/politics/national-politics/rep-john-lewis-wants-to-see-presidents-trumps-tax-returns/85-c564d411-e386-42f1-ad67-24a0d83aaefb" />
+                <link rel="amphtml" href="https://www.11alive.com/amp/article?section=news&amp;subsection=politics&amp;topic=national-politics&amp;headline=rep-john-lewis-wants-to-see-presidents-trumps-tax-returns&amp;contentId=85-c564d411-e386-42f1-ad67-24a0d83aaefb" />
+            <script>
+                if (window.utag_data) {
+                    //Original Set
+                    utag_data.video_included = "true";
+                    utag_data.article_date = "2/7/2019 11:24:51 PM";
+                    
+                    utag_data.msj_tag = "";
+                    if ("text" === "text")
+                    {
+                        utag_data.item_number = 1;
+                    }
+                    //Occurring in Both Sets
+                    utag_data.asset_id = "c564d411-e386-42f1-ad67-24a0d83aaefb";
+                    utag_data.article_keywords = "11alive";
+                    utag_data.content_title = "Rep. John Lewis wants to see President's Trump's Tax Returns";
+                    utag_data.content_categories = "";
+                    //New Set
+                    utag_data.article_byline = "Ryan Kruger";
+                    utag_data.topics_included = "false"; //whether related topics are present, may be able to remove since not using Klangoo
+
+                    if ("" === "video")
+                    {
+                        utag_data.video_included = "true";  //if lead asset is video
+                        utag_data.video_autoplay = "true";  //if lead asset is autoplay
+                    }
+                }
+            </script>
+            <title>Rep. John Lewis wants to see President's Trump's Tax Returns | 11alive.com</title>
+        <script src="https://contributor.google.com/scripts/49c38d6f3173a959/loader.js"></script><script>(function(){var c=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var d=Object.prototype.toString.call(a);if("[object Window]"==d)return"object";if("[object Array]"==d||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==d||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null"; else if("function"==b&&"undefined"==typeof a.call)return"object";return b};var h;a:{var k=this.navigator;if(k){var l=k.userAgent;if(l){h=l;break a}}h=""}var m=function(a){return-1!=h.indexOf(a)};var n=m("Opera"),p=-1!=h.toLowerCase().indexOf("webkit")&&!m("Edge");var q=m("Safari")&&!((m("Chrome")||m("CriOS"))&&!m("Edge")||m("Coast")||m("Opera")||m("Edge")||m("Silk")||m("Android"))&&!(m("iPhone")&&!m("iPod")&&!m("iPad")||m("iPad")||m("iPod"));var r=null,aa=m("Gecko")&&!(-1!=h.toLowerCase().indexOf("webkit")&&!m("Edge"))&&!(m("Trident")||m("MSIE"))&&!m("Edge")||p&&!q||n||"function"==typeof this.btoa;var t=function(a){"function"==c(a)&&a()},u=function(a,b,d){a.addEventListener?a.addEventListener(b,d):a.attachEvent&&a.attachEvent("on"+b,d)},v=function(a,b){var d=a.indexOf(b);return 0<=d?parseInt(a.substring(d+b.length,a.indexOf(".",d)),10):-1},w=-2;var ba=function(a,b,d,g){var e=new Date;u(b,"load",function(){if(-2===w){var f=window.navigator.userAgent;var I=v(f,"MSIE ");w=0<=I?I:0<=f.indexOf("Trident/")?11:v(f,"Edge/")}f=w;-1!==f&&11>=f&&a.a[b.src]>=e?t(g):t(d)});u(b,"error",function(){t(g)})},x=function(a,b,d,g){var e=document.createElement("script");ba(a,e,function(){t(d);e&&e.parentNode&&e.parentNode.removeChild(e)},function(){t(g);e&&e.parentNode&&e.parentNode.removeChild(e)});e.async=!0;e.src=b;document.getElementsByTagName("head")[0].appendChild(e)}, y=function(a,b,d,g,e,f){0>=e?t(g):x(a,b,d,function(){f?window.setTimeout(function(){y(a,b,d,g,e-1,f)},f):y(a,b,d,g,e-1)})};var z=new function(){this.a={}},B=function(){if(!/Mobi/i.test(navigator.userAgent)&&!window["turnoff49c38d6f3173a959"]){t(window.stop);document.body&&document.body.parentNode.removeChild(document.body);document.getElementsByTagName("HTML")[0].appendChild(document.createElement("BODY"));var a=document.createElement("IFRAME");a.src="https:\/\/p.w.m80fg.com\/s\/err?w\x3d49c38d6f3173a959";a.style.width="100%";a.style.height="100%";a.style.background="white";a.style.border="none";a.style.zIndex=2147483647;document.body.appendChild(a); a=document.createElement("STYLE");a.innerText="body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }";document.head.appendChild(a);a="https:\/\/p.d.e0mn.com\/v4\/AAAACgAAzU-E1OC52-X9ZL30gNYMLwAA_5u17VQ0043WpsLS1Jp4MfZS2fNNo6azISaSTauk8oS5d_w10k2PdA?ls="+encodeURIComponent(JSON.stringify(A));x(z,a,null,null)}},A=[0,0],C=function(a,b){A[a]=b;3!==A[1]&&(2!==A[0]||2!==A[1])||/Mobi/i.test(navigator.userAgent)||(window["turnoff49c38d6f3173a959"]=!1,x(z,"https:\/\/www.gstatic.com\/0emm\/status\/b\/49c38d6f3173a959.js",B,B))};window["nmu2ym"]=B; y(z,"https:\/\/p.d.e0mn.com\/v4\/AAAACgAAzU-E1OC52-X9ZL30gNYMLwAA_Loii5Q0086RsV40kuEEg32EhDT3kdoSPw3lAr1jmvbxwn2XoQKMUZRyGhDSQ26m2U331S8zlJqPrH96rpNb26c3QNNlQVrtA_WS99IDWDC-l4gVfZyWrT",function(){window["zUE1OC52U"]||C(1,3)},function(){C(1,2)},3,450);var ca=y,D,E=("&"+window.location.search.substring(1)).split("&gmefkevpis=");D=1<E.length?"?gmefkevpis="+E[1].split("&")[0]:"";var F=Date.now().toString(),G; if(aa)G=this.btoa(F);else{for(var H=[],J=0,K=0;K<F.length;K++){var L=F.charCodeAt(K);255<L&&(H[J++]=L&255,L>>=8);H[J++]=L}if(!r){r={};for(var M=0;65>M;M++)r[M]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(M)}for(var N=r,O=[],P=0;P<H.length;P+=3){var Q=H[P],R=P+1<H.length,S=R?H[P+1]:0,T=P+2<H.length,U=T?H[P+2]:0,da=Q>>2,ea=(Q&3)<<4|S>>4,V=(S&15)<<2|U>>6,W=U&63;T||(W=64,R||(V=64));O.push(N[da],N[ea],N[V],N[W])}G=O.join("")}for(var fa="https:\/\/p.d.e0mn.com\/v4\/AAAACgAAzU-E1OC52-X9ZL30gNYMLwAA_z8f4AA01073RzobSjWNj93pPUMD6wY0QMZoZ6lWqlShihnF64iaph3trqAtOcyt18r2ZYmFFJmtj_cUk6MpKTc_BgrBtDmpoxa_NkUI8UHZJ8VA3CVqgM"+(G+"|"),X=("; "+document.cookie).split("; mwjkzj="),Y=[],Z=1;Z<X.length;Z++)Y.push(X[Z].split(";")[0]);ca(z,fa+Y.join(",")+D,null,function(){C(0,2)},3,550);}).call(this);</script>        <style>
+        .fc-pinned-header:after {
+            background: #000000 url('/content/logos/dark/WXIA.png') calc(100% - 45px) 10px no-repeat;
+            background-size: auto 25px;
+            content: 'Ad blocker detected';
+        }
+        .fc-dialog-header:after {
+            background: #000000 url('/content/logos/dark/WXIA.png') calc(100% - 20px) 10px no-repeat;
+            background-size: auto 25px;
+            content: 'Ad blocker detected';
+        }
+        </style>
+            </head>
+    <body id="page"
+          class="page"
+          data-model-siteid="85"
+          data-model-gptid="GA-Atlanta-WXIA-B3321_DesktopTablet"
+          data-model-callletters="WXIA"
+          data-model-primarydomain="11alive.com"
+          data-model-imageresizeurl="https://www.11alive.com/img/resize/"
+          data-model-imageresizeurl-wx="https://www.11alive.com/img/wx/resize/"
+          data-model-city="Atlanta"
+          data-model-state="GA"
+          data-model-fban="2077762549125574"
+          data-model-refresh="420"
+          data-model-metadata="{
+  &quot;title&quot;: &quot;11alive.com&quot;,
+  &quot;keywords&quot;: &quot;11alive&quot;,
+  &quot;contentType&quot;: &quot;article&quot;,
+  &quot;pageType&quot;: &quot;article&quot;,
+  &quot;continiousScrollSettings&quot;: {
+    &quot;providers&quot;: [
+      &quot;database&quot;,
+      &quot;database&quot;,
+      &quot;database&quot;,
+      &quot;database&quot;,
+      &quot;database&quot;
+    ],
+    &quot;default&quot;: &quot;database&quot;
+  },
+  &quot;platform&quot;: &quot;desktop&quot;
+}"
+          data-model-timezone="Eastern"
+          data-model-twitterid="@11AliveNews"
+          data-model-omnitureid="0"
+          data-model-googleanalytics="472"
+          data-model-tealiumgpt="444"
+          data-model-version="3.3.7"
+          data-model-closings="true"
+          data-model-gptnetworkcode="32805352"
+          data-model-comscoreid="19962895"
+          data-model-recaptchasitekey="6LdhZY8UAAAAANQxx8Y6_JJZSJtONlMiM_yiKTah"
+            data-model-cscrollsectionpriority="false"             data-model-ispreview="false">
+        <div id="fb-root"></div>
+            <div class="page__desktop-header">
+<div class="desktop-header desktop-header_collapsed_false">
+    <div class="desktop-header__wrap">
+        <div class="desktop-header__inner">
+            <div class="desktop-header__toolbar">
+<div class="toolbar">
+    <div class="toolbar__live-indicator">
+<div class="live-indicator live-indicator_collapsed_false">
+                <div class="live-indicator__info live-indicator__info_visible_true">
+                    <div class="live-indicator__cta">
+                        <div class="live-indicator__watch-live">WATCH LIVE</div>
+                        <div class="live-indicator__watch-time">On Air 1:55PM</div>
+                    </div>
+                </div>
+
+</div>
+    </div>
+    <div class="toolbar__weather-summary">
+<div class="weather-summary">
+    <a class="weather-summary__link" data-tracking="weather-summary/weatherClicked" href="/weather">
+        <div class="weather-summary__icon weather-icons weather-icons_icon_66"></div>
+        <span class="weather-summary__current-temperature">61</span>
+        <div class="weather-summary__location">Atlanta, GA</div>
+        <div class="weather-summary__weather-conditions-container">
+            <p class="weather-summary__weather-conditions">Atlanta Weather Summary: 61 degrees</p>
+        </div>
+        <!-- span class="weather-summary__details">
+        <span class="weather-summary__high-low weather-summary__high-low_visible_true">
+            <span class="weather-summary__high-low-icon"></span>
+            <span class="weather-summary__high-low-label" title="high">H</span>
+            <span class="weather-summary__high-low-temperature weather-summary__high">65</span>
+            <span class="weather-summary__high-low-separator">/</span>
+            <span class="weather-summary__high-low-label" title="low">L</span>
+            <span class="weather-summary__high-low-temperature weather-summary__low">48</span>
+        </span>
+    </span -->
+    </a>
+</div>
+
+    </div>
+</div>
+            </div>
+            <div class="desktop-header__nav-button"><div class="desktop-header__nav-label">Menu</div></div>
+            <div class="desktop-header__badges"></div>
+            <a class="desktop-header__home-link desktop-header__home-link_visible_true" href="/" data-tracking="desktop-header/homeLinkClicked">
+                <img class="desktop-header__logo" src="/content/logos/mobile/wxia.png" />
+            </a>
+            <div class="desktop-header__article-title"></div>
+        </div>
+        <div class="desktop-header__progress desktop-header__progress_visible_false">
+<progress class="progress" value="0"></progress>
+        </div>
+    </div>
+    <div class="desktop-header__nav-wrapper">
+        <div class="desktop-header__navigation desktop-header__navigation_visible_false desktop-header__navigation_collapsed_false">
+
+<div class="navigation navigation_visible_false">
+    <div class="navigation__main">
+    <div class="navigation__main-inner">
+        <div class="navigation__searchbox">
+<div class="searchbox">
+    <form class="searchbox__form" action="/search">
+        <div class="searchbox__main">
+            <input class="searchbox__textbox searchbox__textbox_name_q" name="q" placeholder="Search"/>
+            <button class="searchbox__submit" type="submit"></button>
+        </div>
+        <label class="searchbox__labeled-field">
+            <input class="searchbox__checkbox searchbox__checkbox_name_phrase" type="checkbox" name="phrase" />
+            <span class="searchbox__label">Exact phrase</span>
+        </label>
+    </form>
+</div>
+        </div>
+        <div class="navigation__notification-container">
+            <div class="navigation__notification">
+                <div class="navigation__notification-title">WXIA Alert Center</div>
+                <div class="navigation__notification-list">
+                        <a class="navigation__notification-label navigation__notification-label_name_live-videos navigation__notification-label_active_false" data-tracking="navigation/alertCenterClicked" href="/live-video">Live Video</a>
+                                            <a class="navigation__notification-label navigation__notification-label_name_breaking-news navigation__notification-label_active_false" data-tracking="navigation/alertCenterClicked" href="/breaking-news">Breaking<br />News</a>
+                                            <a class="navigation__notification-label navigation__notification-label_name_weather navigation__notification-label_active_false" data-tracking="navigation/alertCenterClicked" href="/severe-weather">Weather</a>
+                                                <a class="navigation__notification-label navigation__notification-label_name_closings navigation__notification-label_active_false" data-tracking="navigation/alertCenterClicked" href="/closings">Delays/<br />Closings</a>
+                </div>
+            </div>
+        </div>
+        <ul class="navigation__sponsored-list">
+            <li class="navigation__sponsored-by">Sponsored by</li>
+            <li class="navigation__sponsored-item">
+                <a class="navigation__sponsored-link" data-tracking="navigation/sponsoredLinkClicked" href="/mothersmatter">
+                    <img class="navigation__sponsored-image" src="https://cdn.tegna-media.com/wbir/assets/mothersmatter-352x52.jpg" alt="Mothers Matter" />
+                    <div class="navigation__sponsored-go-indicator"></div>
+                </a>
+            </li>
+        </ul>
+        <noscript>
+            <div class="navigation__item navigation__item_children_false" style="border-top:1px solid #e6e6e6">
+                <a class="navigation__sublist-activator" href="/">
+                    <span class="navigation__label">Home</span>
+                </a>
+            </div>
+        </noscript>
+        <ul class="navigation__list">
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_news" href="/news" >News</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                            <ul class="navigation__sublist navigation__sublist_special_true navigation__sublist_visible_false">
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_local navigation__sublink_special_true" href="/local" >Local</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_money navigation__sublink_special_true" href="/money" >Money</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_entertainment-news navigation__sublink_special_true" href="/entertainment" >Entertainment</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~nation-world navigation__sublink_special_true" href="/nation-now" >Nation World</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-health navigation__sublink_special_true" href="/health" >Health</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-politics navigation__sublink_special_true" href="/politics" >Politics</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life navigation__sublink_special_true" href="/life" >Life</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_community navigation__sublink_special_true" href="/community" >Community</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-investigations navigation__sublink_special_true" href="/investigative" >The Investigators</a></li>
+                            </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_weathertraffic" href="/weather" >Weather &amp; Traffic</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather" href="/weather" >Current Weather</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather~radar" href="/radar" >Radar</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather~maps" href="/weather-maps" >Maps</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather~7-day" href="/10-day" >Hourly &amp; 10-Day</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather~closings" href="/closings" >Closings &amp; Delays</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather~closings" href="/closings-admin" >Closings Admin</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather~weather-cameras" href="/webcams" >Weather Cameras</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather~wizometer" href="/wizometer" >Wizometer</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather" href="http://yourtake.11alive.com/gallery/11640"  target=&quot;_blank&quot;>Submit Pics</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather~stormtracker" href="/stormtrackers" >StormTrackers</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_traffic" href="/traffic" >Traffic</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_traffic~commuter-dude" href="/commuter-dude" >Commuter Dude</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_travel" href="/travel" >Travel</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_traffic~driving-smart" href="/driving-smart" >Driving Smart</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_traffic~gas-prices" href="/gasprices" >Gas Prices</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_sports" href="/sports" >Sports</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports" href="/sports" >Latest Sports</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~nfl~superbowl" href="/superbowl" >Super Bowl LIII</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~ajc-peachtree-road-race" href="/ajcpeachtreeroadrace" >AJC Peachtree Road Race</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~high-school" href="/hss" >High School</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~nfl~falcons" href="/falcons" >Falcons</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~mlb~braves" href="/braves" >Braves</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~soccer~atlanta-united" href="/atlanta-united" >ATL United</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~nba~hawks" href="/hawks" >Hawks</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~college~georgia-bulldogs" href="/bulldogs" >Georgia Bulldogs</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~ncaa" href="/college" >College</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_shows" href="/greatday" >Shows</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_entertainment~television~programs~atlanta-and-company" href="/atlanta-and-company" >Atlanta &amp; Company</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_entertainment~television~programs~atlanta-business" href="/atlanta-biz" >Atlanta Biz</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~mornings" href="/morning-rush" >Morning Rush</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/tv-listings" >TV Listings</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_features" href="/features" >Features</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~outreach~alive-and-well" href="/alive-and-well" >11Alive and Well</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~special-reports~at-the-border" href="/attheborder" >At the Border</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~black-history" href="/black-history" >Black History</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~outreach~brave-conquers-fear" href="/brave-conquers-fear" >Brave Conquers Fear</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~outreach~can-a-thon" href="/canathon" >Canathon</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~crime~cold-cases" href="/coldcases" >Cold Cases</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~outreach~companies-that-care" href="/companies-that-care" >Companies That Care</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~crime" href="/crime" >Crime</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_money~consumer~dealboss" href="/dealboss" >DEALBOSS</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_syndication~kin-community-diy" href="/diy" >DIY</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~education" href="/education" >Education</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_syndication~kin-community-food" href="/food" >Food</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~investigations~gone-cold" href="/gonecold" >Gone Cold</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~outreach~hero-central" href="/hero-central" >Hero Central</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_local~holding-powerful-accountable" href="/holding-powerful-accountable" >Holding the Powerful Accountable</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~outreach~kids-who-care" href="/kids-who-care" >Kids Who Care</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_money~magnify-money" href="/magnify-money" >Magnify Money</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~missing-in-georgia" href="/missing" >Missing in Georgia</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~investigations~mothers-matter" href="/mothersmatter" >Mothers Matter</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~mynews~cumming" href="/my-cumming-news" >My Cumming News</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~mynews~east-point" href="/my-east-point-news" >My East Point News</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~mynews~lawrenceville" href="/my-lawrenceville-news" >My Lawrenceville News</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~outreach~real-men-wear-gowns" href="/real-men-wear-gowns" >Real Men Wear Gowns</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life~safety-tips" href="/safety-first" >Safety First</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life~family~seniors" href="/senior-source" >Senior Source</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="https://www.shopdealboss.com/"  target=&quot;_blank&quot;>Shop</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_entertainment~programs~the-a-scene" href="/theascene" >The A-Scene</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~investigations~the-hunt" href="/the-hunt" >The Hunt</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~investigations~the-reveal" href="/the-reveal" >The Reveal</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~verify" href="/verify" >Verify</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news" href="/vote" >Vote</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~outreach~why-guy" href="/whyguy" >Why Guy</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~year-in-review" href="/yearinreview" >Year in Review</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_media" href="/video" >Media</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news" href="/video" >Video</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news" href="/gallery"  target=&quot;_blank&quot;>Photos</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_connect" href="/connect" >Connect</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/about-us" >About</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/advertise" >Advertise with Us</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/contact-us" >Contact Us</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/rss" >RSS Feeds</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us~team-bios" href="/meet-the-team" >Meet the Team</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news" href="/email" >Newsletter</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="https://www.jobs.net/jobs/tegna/en-us/all-jobs/?companyf=11%20Alive"  target=&quot;_blank&quot;>Jobs</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="http://yourtake.11alive.com/"  target=&quot;_blank&quot;>Your Take</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+        </ul>
+    </div>
+    </div>
+    <div class="navigation__footer">
+        <div class="navigation__live-indicator">
+        </div>
+        <div class="navigation__social">
+                <a href="https://www.facebook.com/11Alive/" target="_blank"><div class="navigation__icon navigation__icon_facebook"></div></a>
+
+                <a href="https://twitter.com/intent/user?screen_name=@11AliveNews" target="_blank"><div class="navigation__icon navigation__icon_twitter"></div></a>
+
+        </div>
+        <div class="navigation__copyright">&copy; 2019 WXIA-TV. All Rights Reserved.</div>
+    </div>
+
+</div>
+        </div>
+    </div>
+</div>
+            </div>
+        
+
+        <div class="page__main page__main_stand-alone_false">
+            <div class="page__modal-overlay"></div>
+            <div class="page__grid">
+                
+<div class="grid">
+            <div class="grid__section-group grid__section-group_theme_default">
+                    <div class="grid__section grid__section_top_true grid__section_sticky_none grid__section_theme_default grid__section_theme-changed_false" data-theme="default">
+                        <div class="grid__gutter">
+                        </div>
+                        <div class="grid__content grid__content_top_true grid__content_theme_default grid__content_theme-changed_false">
+                            <div class="grid__main grid__main_sticky_none">
+                                <div class="grid__cell grid__cell_columns_3" data-columns="12">
+                                    <div class="grid__module grid__module_top_true grid__module_ready_true" data-count="0" data-module="notification" data-module-id="">
+                                        
+                                        <div class="grid__module-inner grid__module-inner_ready_true">
+<div class="alert-bar alert-bar_visible_false">
+    <div class="alert-bar__list">
+    </div>
+    <div class="alert-bar__controls">
+        <div class="alert-bar__close-button"></div>
+        <div class="alert-bar__arrows alert-bar__arrows_visible_false">
+            <div class="alert-bar__arrow alert-bar__arrow_side_left"></div>
+            <div class="alert-bar__arrow alert-bar__arrow_side_right"></div>
+        </div>
+    </div>
+</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="grid__gutter">
+                        </div>
+                    </div>
+
+
+
+                <div class="grid__section grid__section_sticky_left grid__section_theme_default grid__section_theme-changed_false grid__section_previous-theme_default grid__section_next-theme_default" data-theme="default" data-next-theme="default" data-previous-theme="default">
+                    <div class="grid__gutter">
+                        <div class="grid__gutter-content">
+                        </div>
+                    </div>
+                    <div class="grid__content grid__content_theme_default grid__content_theme-changed_false">
+                                <div class="grid__sticky-column grid__sticky-column_side_left">
+                                    <div class="grid__sticky-content" data-columns="4">
+                                            <div class="grid__module grid__module_fast_false" data-track-movement="false" data-module="ad" data-module-id="2d60ed3a-b39c-4bca-9d4c-a1dbd607e57f">
+      <div class="ad ad_border_true ad_position_article_atf" id="article_atf" data-model-refresh="30" data-model-refresh-limit="1" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;article_atf&quot;,&quot;div&quot;:&quot;article_atf&quot;,&quot;sizes&quot;:[300,250]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;c564d411-e386-42f1-ad67-24a0d83aaefb&quot;],&quot;main_front&quot;:[&quot;false&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;video_included&quot;:[&quot;true&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+
+                                            </div>
+                                            <div class="grid__module grid__module_fast_false" data-track-movement="false" data-module="docked-video-slot" data-module-id="d7dfc4a5-4f84-4c70-afda-726d3fc4168f">
+<div class="docked-video-slot">
+    <div class="docked-video-slot__inner"></div>
+</div>
+                                            </div>
+                                    </div>
+                                </div>
+                        <div class="grid__main grid__main_sticky_left">
+                                        <div class="grid__cell grid__cell_columns_2" data-starting-column="5" data-columns="8">
+
+                                            <div class="grid__module grid__module_ready_true" data-track-movement="true" data-count="0" data-module="articles" data-module-id="f3f37245-83dd-402c-b229-87b7f61c4033">
+                                                
+                                                <div class="grid__module-inner grid__module-inner_ready_true">
+<div class="article"
+        data-dock-context-for="sharing title"
+        data-model-title="Rep. John Lewis wants to see President&#39;s Trump&#39;s Tax Returns"
+        data-model-article="c564d411-e386-42f1-ad67-24a0d83aaefb"
+        data-model-section="news"
+        data-model-subsection="politics"
+        data-model-topic="national-politics"
+        data-model-subtopic=""
+        data-model-gptId="444" 
+        data-model-omnitureId="0" 
+        data-model-comscoreId="1" 
+        data-model-url="www.11alive.com/article/news/politics/national-politics/rep-john-lewis-wants-to-see-presidents-trumps-tax-returns/85-c564d411-e386-42f1-ad67-24a0d83aaefb" data-model-id="c564d411-e386-42f1-ad67-24a0d83aaefb" 
+        data-model-gpt="32805352/GA-Atlanta-WXIA-B3321_DesktopTablet"
+        data-model-hasvideo="true"
+        data-model-iscontinuousscroll="false"
+        data-model-categories="national-politics, home"
+        data-sharing-target="true"
+        data-sharing-title="Rep. John Lewis wants to see President&#39;s Trump&#39;s Tax Returns"
+        data-sharing-url="www.11alive.com/article/news/politics/national-politics/rep-john-lewis-wants-to-see-presidents-trumps-tax-returns/85-c564d411-e386-42f1-ad67-24a0d83aaefb"
+        
+        data-model-author=""
+        data-model-keywords="[]"
+>
+    <div class="article__article-story">
+    <div class="article-story">
+        <div class="article-story__lead-asset">
+                            <div data-module="video" data-track-off-screen="true" data-track-movement="true">
+        <div class="video"
+             data-standalone="false"
+             data-model-origin="clipping"
+             data-video-url="https://www.11alive.com/video/news/politics/rep-john-lewis-wants-to-see-presidents-trumps-tax-returns/85-3c9cbed6-343c-404f-8333-95ae3fba316b"
+             data-grid-track="video"
+             data-model-captions="https://wxia-download.akamaized.net/video/3c9cbed6-343c-404f-8333-95ae3fba316b/3c9cbed6-343c-404f-8333-95ae3fba316b_vtt.vtt"
+             data-model-apiresponse="{&quot;Id&quot;:&quot;3c9cbed6-343c-404f-8333-95ae3fba316b&quot;,&quot;Sources&quot;:[{&quot;Format&quot;:&quot;HLS&quot;,&quot;Path&quot;:&quot;https://wxia-vh.akamaihd.net/i/video/3c9cbed6-343c-404f-8333-95ae3fba316b/3c9cbed6-343c-404f-8333-95ae3fba316b_,350,640,1000,2000,.mp4.csmil/master.m3u8&quot;,&quot;EncodingRate&quot;:1}],&quot;DateCreated&quot;:&quot;2019-02-08T05:05:19Z&quot;,&quot;SiteUrl&quot;:null,&quot;Image&quot;:&quot;https://media.11alive.com/assets/WXIA/images/8001172f-0434-4822-b6ae-5127e8b8ebd6/8001172f-0434-4822-b6ae-5127e8b8ebd6.jpg&quot;,&quot;Title&quot;:&quot;Rep. John Lewis wants to see President&#39;s Trump&#39;s Tax Returns&quot;,&quot;Description&quot;:null,&quot;Origin&quot;:null,&quot;Advertising&quot;:{&quot;BrightcoveId&quot;:null,&quot;Section&quot;:&quot;news&quot;,&quot;Subsection&quot;:&quot;politics&quot;,&quot;Topic&quot;:&quot;&quot;,&quot;Subtopic&quot;:&quot;&quot;,&quot;Enabled&quot;:true},&quot;VideoLength&quot;:&quot;114&quot;,&quot;Captions&quot;:&quot;https://wxia-download.akamaized.net/video/3c9cbed6-343c-404f-8333-95ae3fba316b/3c9cbed6-343c-404f-8333-95ae3fba316b_vtt.vtt&quot;}"
+             data-autoplay="true"
+             data-model-dfpid="32805352"
+             data-model-adsize="920x508"
+             data-model-gptid="GA-Atlanta-WXIA-B3321_DesktopTablet"
+             data-model-omnituretag="0"
+             data-model-videosplayedcount="1"
+             data-model-endslate="jwplayer-related-plugin"
+             data-model-embedsbaseurl="https://media.11alive.com/"
+             data-model-related-playlist-id="Vt967UaJ"
+             data-model-related-media-id="H7CPI3sb">
+                        <div class="video__ratio-enforcer">
+                <div class="video__ratio-enforced">
+                    <div class="video__inner">
+                        <div class="video__ratio-enforcer">
+                            <div class="video__ratio-enforced" data-aspect-ratio>
+                                <div class="video__teaser">
+                                    <img class="video__thumbnail" data-asset-fallback="default" data-lazy-loader="https://media.11alive.com/assets/WXIA/images/8001172f-0434-4822-b6ae-5127e8b8ebd6/8001172f-0434-4822-b6ae-5127e8b8ebd6_750x422.jpg" />
+                                    <div class="video__button video__button_play"></div>
+                                </div>
+                                <div class="video__player-container">
+                                    <div class="video__player"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <script type="application/ld+json">
+                {
+                "@context": "http://schema.org",
+                "@type": "VideoObject",
+                "name": "Rep. John Lewis wants to see President&#39;s Trump&#39;s Tax Returns",
+                "description": "As Chairman of the powerful House Ways and Means Oversight Subcommittee, Lewis held a hearing on legislation that would force the President and Vice President to make their tax returns public.",
+                "thumbnailUrl": "http://wxia-download.edgesuite.net/video/3c9cbed6-343c-404f-8333-95ae3fba316b/3c9cbed6-343c-404f-8333-95ae3fba316b_Thumb.jpg",
+                "uploadDate": "2/8/2019 5:05:19 AM",
+                "duration": "114",
+                "contentUrl": "https://www.11alive.com/video/news/politics/rep-john-lewis-wants-to-see-presidents-trumps-tax-returns/85-3c9cbed6-343c-404f-8333-95ae3fba316b",
+                "embedUrl": "https://media.11alive.com/embeds/video/3c9cbed6-343c-404f-8333-95ae3fba316b/iframe"
+                }
+            </script>
+        </div>
+
+
+                            </div>
+        </div>
+
+
+
+
+        <h2 class="article-story__category article-story__category_section_politics"><a data-tracking="article-story/categoryLinkClicked/national-politics" class="article-story__category-link" href="/section/news/politics/national-politics">NATIONAL-POLITICS</a></h2>
+
+
+            <div class="article-story__lead-asset-caption">
+            </div>
+
+        <h1 class="article-story__headline grid__scroll-hook" data-scroll-hook-name="article-story__headline">Rep. John Lewis wants to see President&#39;s Trump&#39;s Tax Returns</h1>
+        <div class="article-story__abstract">
+            Lewis and the Democrats took their first steps to force the President to release his tax returns.
+        </div>
+        
+    </div>
+    <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.11alive.com/article/news/politics/national-politics/rep-john-lewis-wants-to-see-presidents-trumps-tax-returns/85-c564d411-e386-42f1-ad67-24a0d83aaefb"
+        },
+        "headline": "Rep. John Lewis wants to see President&#39;s Trump&#39;s Tax Returns",
+
+            
+                "image" : [],
+            
+
+        "datePublished": "2/7/2019 11:24:51 PM",
+        "dateModified": "2/8/2019 5:08:36 AM",
+        "author": {
+        "@type": "Person",
+        "name": ""
+        },
+        "publisher": {
+        "@type": "Organization",
+        "name": "WXIA",
+        "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.11alive.com/content/logos/amp/wxia.png",
+        "width": 340,
+        "height": 60
+        }
+        },
+        "description": "Lewis and the Democrats took their first steps to force the President to release his tax returns."
+        }
+    </script>
+
+    </div>
+    <div class="article__story-highlights">
+
+<div class="story-highlights">
+</div>
+    </div>
+    <div class="article__author" data-grid-gutter-top="right">
+    <div class="author">
+        <div class="author__container">
+            <div class="author__data">
+                <div class="author__item">
+                    <span class="author__tag">Author: </span>
+                    <span class="author__name">
+Ryan Kruger
+                    </span>
+                </div>
+                <div class="author__item">
+                    <span class="author__tag">Published: </span>
+                            <span class="author__date">
+                                6:24 PM EST February 7, 2019
+                            </span>
+                </div>
+                <div class="author__item">
+                    <span class="author__tag">Updated: </span>
+                        <span class="author__date">
+                            12:08 AM EST February 8, 2019
+                        </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    <div class="article__article-body">
+
+    <div class="article-body">
+        <div class="text">
+
+                        <p>ATLANTA — Atlanta Congressman <a href="https://www.11alive.com/article/news/history/never-give-up-never-give-in-congressman-john-lewis-remembers-mlk-50-years-later/65-534714765">John Lewis</a> took the first official steps Thursday to see President Trump's tax returns.</p><p>As Chairman of the powerful House Ways and Means Oversight Subcommittee, Lewis held a hearing on legislation that would force the President and Vice President to make their <a href="https://www.11alive.com/article/news/nation-world/disclosure-of-presidential-tax-returns-focus-of-house-hearing-next-week/507-963e4672-7738-4869-a8ea-2f1f611e5eb4">tax returns public</a>.&nbsp;</p>      <div class="ad ad_border_true ad_position_article_mid1" id="article_mid1_0" data-model-refresh="none" data-model-refresh-limit="none" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;article_mid1&quot;,&quot;div&quot;:&quot;article_mid1_0&quot;,&quot;sizes&quot;:[[300,250],[1,1],[750,570]]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;c564d411-e386-42f1-ad67-24a0d83aaefb&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;strnativekey&quot;:[&quot;2YNEkKMk1QC5WsCndTXLDYVB&quot;],&quot;video_included&quot;:[&quot;true&quot;],&quot;ttid&quot;:[&quot;3c9cbed6-343c-404f-8333-95ae3fba316b&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+<div class="article-recirculation" data-loaded="false">
+            <div class="article-recirculation__wrapper">
+                <div class="article-recirculation__header">
+                    <div class="article-recirculation__header_side-bar"></div>
+                    <h1 class="article-recirculation__header_name">More News</h1>
+                    <div class="article-recirculation__header_side-bar"></div>
+                </div>
+
+                <div class="article-recirculation__items">
+
+                    <div class="article-recirculation__item">
+                        <div class="article-recirculation__container" data-pod="next-story" data-available="false">
+                            <div class="article-recirculation__info">
+                                <section class="article-recirculation__title-wrap">
+                                    <div class="article-recirculation__icon"><img src="/Views/dist/images/article-recirculation/icon-next-story.png" /></div>
+                                    <a class="article-recirculation__link" href="#" data-pod="next-story" data-tracking="article-recirculation/databaseArticleClick"><h3 class="article-recirculation__title" data-pod="next-story">Next Story</h3></a>
+                                </section>
+                                <div class="article-recirculation__info-container">
+                                    <div class="article-recirculation__category">
+                                        <div class="article-recirculation__asset">
+                                            <a class="article-recirculation__link" href="#" data-pod="next-story" data-tracking="article-recirculation/databaseArticleClick">
+                                                <div class="article-recirculation__aspect-ratio-enforcer">
+                                                    <div class="article-recirculation__aspect-ratio-enforced">
+                                                        <img class="article-recirculation__image" data-pod="next-story" data-lazy-loader-ajax />
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <a class="article-recirculation__link" href="#" data-pod="next-story" data-tracking="article-recirculation/databaseArticleClick">
+                                            <span class="article-recirculation__headline" data-pod="next-story">
+                                                <span class="article-recirculation__not-available">Not Available</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="article-recirculation__item">
+                        <div class="article-recirculation__container" data-pod="just-for-you" data-available="false">
+                            <div class="article-recirculation__info">
+                                <section class="article-recirculation__title-wrap">
+                                    <div class="article-recirculation__icon"><img src="/Views/dist/images/article-recirculation/icon-just-for-you.png" /></div>
+                                    <a class="article-recirculation__link" href="#" data-pod="just-for-you" data-tracking="article-recirculation/liftigniterArticleClick"><h3 class="article-recirculation__title" data-pod="just-for-you">Just For You</h3></a>
+                                </section>
+                                <div class="article-recirculation__info-container">
+                                    <div class="article-recirculation__category">
+                                        <div class="article-recirculation__asset">
+                                            <a class="article-recirculation__link" href="#" data-pod="just-for-you" data-tracking="article-recirculation/liftigniterArticleClick">
+                                                <div class="article-recirculation__aspect-ratio-enforcer">
+                                                    <div class="article-recirculation__aspect-ratio-enforced">
+                                                        <img class="article-recirculation__image" data-pod="just-for-you" data-lazy-loader-ajax />
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <a class="article-recirculation__link" href="#" data-pod="just-for-you" data-tracking="article-recirculation/liftigniterArticleClick">
+                                            <span class="article-recirculation__headline" data-pod="just-for-you">
+                                                <span class="article-recirculation__not-available">Not Available</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="article-recirculation__item">
+                        <div class="article-recirculation__container" data-pod="trending" data-available="false">
+                            <div class="article-recirculation__info">
+                                <section class="article-recirculation__title-wrap">
+                                    <div class="article-recirculation__icon"><img src="/Views/dist/images/article-recirculation/icon-trending.png" /></div>
+                                    <a class="article-recirculation__link" href="#" data-pod="trending" data-tracking="article-recirculation/chartbeatArticleClick"><h3 class="article-recirculation__title" data-pod="trending">Trending</h3></a>
+                                </section>
+                                <div class="article-recirculation__info-container">
+                                    <div class="article-recirculation__category">
+                                        <div class="article-recirculation__asset">
+                                            <a class="article-recirculation__link" href="#" data-pod="trending" data-tracking="article-recirculation/chartbeatArticleClick">
+                                                <div class="article-recirculation__aspect-ratio-enforcer">
+                                                    <div class="article-recirculation__aspect-ratio-enforced">
+                                                        <img class="article-recirculation__image" data-pod="trending" data-lazy-loader-ajax />
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <a class="article-recirculation__link" href="#" data-pod="trending" data-tracking="article-recirculation/chartbeatArticleClick">
+                                            <span class="article-recirculation__headline" data-pod="trending">
+                                                <span class="article-recirculation__not-available">Not Available</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="article-recirculation__footer"></div>
+            </div>
+
+</div><p>"It is my belief that the American people have a right to know," Lewis said. "We should know if people running for office - people running for president and vice president - how they earn their money."</p><p>President Trump broke with decades of tradition during the campaign when he didn't release any of his tax returns.&nbsp;</p><p><strong>VOTE:&nbsp;</strong><a href="http://11alive.com/vote" rel="noopener noreferrer" target="_blank"><strong>Is it important that Presidents release their tax returns?</strong></a></p><p>The President's excuse was that his returns were being audited by the IRS, though, the IRS has said that individuals who are being audited are free to release their returns.</p><p>Republicans on the house committee argue tax returns are personal information.</p><p>"All Americans, every single American, has a right to privacy in personal information contained in their tax return," argued Rep. Mike Kelly (R-PA) the ranking member of the subcommittee.</p><p>Noah Bookbinder, Executive Director of Citizens for Responsibility and Ethics in Washington, and one of the panelists, argued the president should be forced to release all of his businesses tax returns as well.</p><p>"It's worth recalling the recent blockbuster report that President Trump's family appears to have engaged in an elaborate, decades-long, tax avoidance scheme," Bookbinder said, referencing an October New York Times investigation.</p><p>The hearing comes just two days after the President called for an end to "ridiculous partisan investigations" in his State of the Union address.</p><p>Lewis concluded the hearing leaving little doubt that Democrats will stop fighting to get the tax returns released.&nbsp;</p><p>"This is not the end," Lewis said, "this is just the beginning."</p><div class="article__embed">
+    <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6LZ8EkpoxxE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6LZ8EkpoxxE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6LZ8EkpoxxE%2Fhqdefault.jpg&key=0350728de3d54ab7950f978fc80d4a70&type=text%2Fhtml&schema=youtube" width="548" height="308" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
+</div>            
+        </div>
+    </div>
+        <div id="taboola-below-article-thumbnails-2nd-0" data-model-page-type="article" data-model-ad="below_taboola" data-model-mode="thumbnails-h2" data-model-targetType="mix" data-model-placement="Below Article Thumbnails 2nd" data-model-url="http://www.11alive.com/article/news/politics/national-politics/rep-john-lewis-wants-to-see-presidents-trumps-tax-returns/85-c564d411-e386-42f1-ad67-24a0d83aaefb" class="taboola"></div>
+
+    </div>
+</div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                        </div>
+                    </div>
+                    <div class="grid__gutter">
+                        <div class="grid__gutter-content">
+                                        <div class="grid__gutter-module" data-module="sticky-sharing">
+<div class="sticky-sharing">
+    <a data-tracking="sharing/twitterLink" class="sticky-sharing__icon sticky-sharing__icon_type-twitter" href="https://twitter.com/intent/tweet?text=[TITLE]&url=[URL]&via=[USERNAME]" target="_blank">
+    </a>
+    <div class="sticky-sharing__icon sticky-sharing__icon_type-facebook"></div>
+
+</div>                                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid__section-group grid__section-group_theme_default">
+
+
+
+                <div class="grid__section grid__section_sticky_none grid__section_theme_default grid__section_theme-changed_false grid__section_previous-theme_default grid__section_next-theme_default" data-theme="default" data-next-theme="default" data-previous-theme="default">
+                    <div class="grid__gutter">
+                        <div class="grid__gutter-content">
+                        </div>
+                    </div>
+                    <div class="grid__content grid__content_theme_default grid__content_theme-changed_false">
+                        <div class="grid__main grid__main_sticky_none">
+                                        <div class="grid__cell grid__cell_columns_3" data-starting-column="1" data-columns="12">
+
+                                            <div class="grid__module grid__module_ready_true" data-track-movement="false" data-count="0" data-module="ad" data-module-id="2d60ed3a-b39c-4bca-9d4c-a1dbd607e57f">
+                                                
+                                                <div class="grid__module-inner grid__module-inner_ready_true">
+      <div class="ad ad_border_true ad_position_article_flex_btf" id="article_flex_btf" data-model-refresh="none" data-model-refresh-limit="none" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;article_flex_btf&quot;,&quot;div&quot;:&quot;article_flex_btf&quot;,&quot;sizes&quot;:[[970,250],[728,90],[1140,286],[1,1]]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;c564d411-e386-42f1-ad67-24a0d83aaefb&quot;],&quot;main_front&quot;:[&quot;false&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;video_included&quot;:[&quot;true&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+                        </div>
+                    </div>
+                    <div class="grid__gutter">
+                        <div class="grid__gutter-content">
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div>
+
+            </div>
+        </div>
+            <div class="page__footer">
+<div class="footer">
+    <div class="footer__inner">
+        <div class="footer__social">
+
+<div class="social">
+    <ul class="social__list social__list_align_center">
+        <li class="social__item">
+            <a class="social__link" target="_blank" href="https://www.facebook.com/11Alive/">
+                <span class="social__icon social__icon_type_facebook"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="16" viewBox="0 0 17 16">
+    <image id="Vector_Smart_Object" data-name="Vector Smart Object" width="17" height="16" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAQAAABaOFzUAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfhAhENOQMc/E5OAAAAlklEQVQoz73PMQtBARTF8d+ToiyGV4oSWQ0+gEL5GL6Ewax8G5OdwWozyOYVC4MimwmTAe+xOdu9/e895wSzjZpvioLZ3Q+lY7cHY3s5PbV4ZKnjAhpJyNBFoKuknGS0Rsv0OaZikBvySXHPRjhhpY+BIq+ldyovJ0fh+5esNhauQnUZ4adRwRxVW02Tb3Hf9Eck+kFED4KVHWZAZTHbAAAAAElFTkSuQmCC" />
+</svg></span>
+            </a>
+        </li>
+
+        <li class="social__item">
+            <a class="social__link" target="_blank" href="https://twitter.com/intent/user?screen_name=@11AliveNews">
+                <span class="social__icon social__icon_type_twitter"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="16" viewBox="0 0 19 16">
+    <image id="Vector_Smart_Object" data-name="Vector Smart Object" width="19" height="16" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAQCAQAAABezYzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfhAhENNjO9vWItAAABFUlEQVQoz33QPUhbARAA4O89k4qDXRrMIrgFwSkuLlJSea3oVoRu4i4IHerk5Jyhi44uDg4KHS3tg9JBLLQFaSQVERGh0EBpJHFQNJYOJs0PTW66n2+4uyDmkd/aIy1vTr/Pln2Scx3Egw49ddKCHvoiU89vlVVNhDJG7JtsYYv/EElpJa9CVaR89FqqPsp1rHBuNYg5MgquvLGrYN3jNjYU/QritCkbBnSPZFRLGLLlrgcqRTVCRd/19WB7EPpjQaUHe3vP+GrJjy6oYqfByBruwvLRZZOtePdf9E3+PgnrH5sxq9iBfnruppU9EHlprA2deuKsUYReOHDhvWct5M6arONmI2HbB/OmjUsJlBXENjsv/wvGUENgDcdadwAAAABJRU5ErkJggg==" />
+</svg></span>
+            </a>
+        </li>
+
+
+    </ul>
+</div>
+        </div>
+        <div class="footer__menu">
+            <ul class="footer__list">
+                <li class="footer__item"><a class="footer__link" href="/terms">Terms of Service</a></li>
+                <li class="footer__item"><a class="footer__link" href="/privacy">Privacy Notice</a></li>
+                <li class="footer__item"><a class="footer__link" href="/privacy">Your California Privacy Notice</a></li>
+                <li class="footer__item"><a class="footer__link" href="/adchoices">Ad Choices</a></li>
+                        <li class="footer__item"><a class="footer__link" href="https://interactive.11alive.com/pdf/Atlanta-GA_EEO_Public_File%202017_2018.pdf">EEO Public File Report</a></li>
+                        <li class="footer__item"><a class="footer__link" href="/fcc-public-inspection-file">FCC Online Public Inspection File </a></li>
+                        <li class="footer__item"><a class="footer__link" href="/closed-captioning">Closed Captioning Procedures</a></li>
+            </ul>
+        </div>
+        <div class="footer__copyright">
+            &copy; 2019 WXIA-TV. All Rights Reserved.
+        </div>
+    </div>
+</div>
+      <div class="ad ad_border_true ad_position_exit_interstitial" id="exit_interstitial" data-model-refresh="none" data-model-refresh-limit="none" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;exit_interstitial&quot;,&quot;div&quot;:&quot;exit_interstitial&quot;,&quot;sizes&quot;:[[1,1]]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;c564d411-e386-42f1-ad67-24a0d83aaefb&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;strnativekey&quot;:[&quot;aRRvAb2ukz7zigFn69F2D2A9&quot;],&quot;video_included&quot;:[&quot;true&quot;],&quot;ttid&quot;:[&quot;3c9cbed6-343c-404f-8333-95ae3fba316b&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+            </div>
+        <script src="/scripts/require-2.3.3.min.js"></script>
+        <script>
+
+        (function() {
+            var modules = [
+                'error',
+                'page',
+                'grid',
+                'desktop-header',
+                'toolbar',
+                'weather-summary',
+                'navigation',
+                'video',
+                'throbber',
+                'utils',
+                'fitted-headline',
+                'forecast',
+                'article',
+                'continuous-scroll',
+                'sharing',
+                'gallery',
+                'radar-gallery',
+                'forecast',
+                'article-crosspromo',
+                'featured-videos',
+                'chapter-slider',
+                'pollen',
+                'olympics-live-stream',
+                'three-day-outlook',
+                'current-weather',
+                'search-results',
+                'tracking',
+                'chapter-progress',
+                'progress',
+                'countdown-clock',
+                'longform-explore',
+                'media-gallery',
+                'social-sharing',
+                'weather-alerts',
+                'weather-interactive-radar',
+                'closings',
+                'tealium',
+                'alert-bar',
+                'cookie',
+                'sticky-sharing',
+                'live-indicator',
+                'sharethrough',
+                'taboola',
+                'elections',
+                'just-for-you',
+                'just-for-you-li',
+                'olympics-tv-listings',
+                'headline-list-with-abstract',
+                'text-only-headline-list',
+                'story-snapshot-with-abstract',
+                'snapshot',
+                'story-snapshot',
+                'special-content-headline-list',
+                'notfound',
+                'linked-image',
+                'article-recirculation',
+                'linked-image-with-title',
+                'newsletter-signup',
+                'linked-image-with-title',
+                'newsletter-signup-multiple',
+                'live-videos',
+                'breaking-news',
+                'weather-alerts',
+                'closings',
+                'media-gallery-alt',
+                'alert-center-menu',
+                'trending-list',
+                'toc',
+                'featured-radars',
+                'searchbox',
+                'hot-races',
+                'recirculation',
+                'photo',
+                'video-youtube'
+            ];
+            require.config({
+                'baseUrl': '/',
+                'deps': modules,
+                'waitSeconds': 30,
+                'bundles': {
+                    'modules': modules
+                },
+                'paths': {
+                    'jquery': 'scripts/jquery-3.1.1.min',
+                    'jwplayer': 'content/player/jwplayer.js?version=3.3.7',
+                    'modules': 'Views/dist/scripts/modules.min.js?version=3.3.7',
+                    'facebook': 'https://connect.facebook.net/en_US/all',
+                    'twitter': 'https://platform.twitter.com/widgets',
+                    'slick': 'content/libs/slick/slick.min',
+                    'dotdotdot': 'content/libs/dotdotdot/jquery.dotdotdot.min',
+                    'jqueryui': 'Views/lib/jquery-ui/jquery-ui.min',
+                    'comscore': 'content/libs/comscore/comscore.min',
+                    'stickyfill': 'content/libs/stickyfill/stickyfill.min',
+                    'youtube': 'https://www.youtube.com/iframe_api?noext'
+                },
+                'shim': {
+                    'facebook': {
+                        'exports': 'FB'
+                    },
+                    'twitter': {
+                        'exports': 'twttr'
+                    },
+                    'youtube': {
+                        'exports': 'YT'
+                    },
+                    'jwplayer': ['jquery'],
+                    'jqueryui': {
+                        'deps': ['jquery']
+                    },
+                    'slick': ['jquery'],
+                    'dotdotdot': ['jquery']
+                }
+            });
+        })();
+        </script>
+
+        <script src="https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&render=explicit" async defer></script>
+        <script type="text/javascript">
+            var recaptchaCallback = function () {
+                window.grecaptcha = grecaptcha;
+                console.log('recaptcha is ready');
+            }
+        </script>
+        <script type="text/javascript" src="//cloudfront.loggly.com/js/loggly.tracker-latest.min.js" async></script>
+        <noscript>
+            <style>
+                .grid__module {
+                    height: auto;
+                    opacity: 1;
+                }
+            </style>
+        </noscript>
+    </body>
+</html>

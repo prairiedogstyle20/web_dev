@@ -1,0 +1,1974 @@
+  <!DOCTYPE html>
+<html lang="en">
+	<head>
+
+		
+				
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta charset="utf-8">
+		<meta name="google-site-verification" content="" />
+		<meta name="msvalidate.01" content="" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		
+									<title>Home</title>
+						<meta name="description" content="WTVA 9 News and WLOV are your leading provider of local news, weather information, sports, community events and breaking news in the North Mississippi and West Alabama areas, including Tupelo, Columbus, Oxford, Starkville, and West Point.">
+			<meta property="og:url" content="http://www.wtva.com" />
+			<meta property="og:type" content="website" />
+			<meta property="og:image" content="http://media.heartlandtv.com/designimages/WTVA_640x380.png" />
+			<meta property="og:title" content="Home" />
+			
+				
+		
+		
+		<link rel="icon" type="image/png" href="https://media.heartlandtv.com/designimages/WTVA_32.32.png">
+	 
+		<link rel="stylesheet" media="screen" href="https://s3.us-east-2.amazonaws.com/heartland-css/vendor.min.css">
+		<link id="mainStyles" rel="stylesheet" media="screen" href="https://www.wtva.com/includes/styles.min.css">		
+		<link rel="StyleSheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+		<link id="heartlandStyles" rel="stylesheet" media="screen" href="https://s3.us-east-2.amazonaws.com/heartland-css/heartland.css">
+		<link id="gridStyles" rel="stylesheet" media="screen" href="https://s3.us-east-2.amazonaws.com/heartland-css/bootstrap-grid.css">
+		<link id="appBanner" rel="stylesheet" media="screen" href="https://www.wtva.com/includes/smart-app-banner.css">	
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script src="https://www.wtva.com/includes/modernizr.min.js"></script>
+                 			<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script> 
+		
+				    <meta name="apple-itunes-app" content="app-id=1188060806">
+		    <link rel="apple-touch-icon" href="https://media.heartlandtv.com/designimages/wtva.png" />
+		    				
+		    		    <meta name="google-play-app" content="app-id=com.heartland.wtva">
+		    <link rel="android-touch-icon" href="https://media.heartlandtv.com/designimages/wtva.png" />
+		    		
+
+					<style>/* latin-ext */
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Libre Franklin'), local('LibreFranklin-Regular'), url(https://fonts.gstatic.com/s/librefranklin/v2/jizDREVItHgc8qDIbSTKq4XkRiUR2zcLig.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Libre Franklin'), local('LibreFranklin-Regular'), url(https://fonts.gstatic.com/s/librefranklin/v2/jizDREVItHgc8qDIbSTKq4XkRiUf2zc.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+body {
+    color: #000000;
+    font-family: "Libre Franklin", "Arial", sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    text-transform: none;
+    line-height: 1.5;
+} 
+
+
+.section-title h1 {
+    text-transform: none;
+}</style>
+				
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-54612925-18"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		
+		  gtag('config', 'UA-49588169-1');
+		</script>
+		
+		
+		<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+		<script>
+		  var googletag = googletag || {};
+		  googletag.cmd = googletag.cmd || [];
+		</script>
+		<script>
+		function resizeText(multiplier) {
+  		if (document.getElementById("article").style.fontSize == "") {
+   		 document.getElementById("article").style.fontSize = "1.0em";
+  			}
+  			document.getElementById("article").style.fontSize = parseFloat(document.getElementById("article").style.fontSize) + (multiplier * 0.2) + "em";
+			}
+		</script>
+						<script src="https://www.wtva.com/includes/smart-app-banner.js"></script>	
+								<style>
+		.hl-submenu {min-height:900px}
+		</style>
+		<style>
+			.cycle-slideshow {visibility:hidden;}
+			.cycle-slideshow .wxRotate:first-child {display:block;position:relative; height:auto;visibility:visible;}
+			.cycle-slideshow .alertsTop:first-child {color:#fffff4;display:block;position:relative; height:0px;visibility:visible;}
+		</style>
+		
+				<script type="text/javascript" src="//d3gpkdwom7cn1q.cloudfront.net/script.js"></script>
+
+		
+	</head>
+	
+	<body>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=1465228997135960';
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+							<script type="text/javascript">
+			      new SmartBanner({
+			          daysHidden: 15,   // days to hide banner after close button is clicked (defaults to 15)
+			          daysReminder: 90, // days to hide banner after "VIEW" button is clicked (defaults to 90)
+			          appStoreLanguage: 'us', // language code for the App Store (defaults to users browser language)
+			          title: 'WTVA',
+			          author: 'WTVA - Heartland Media',
+			          button: 'VIEW',
+			          store: {
+			              ios: 'On the App Store',
+			              android: 'In Google Play',
+			              windows: 'In Windows store'
+			          },
+			          price: {
+			              ios: 'FREE',
+			              android: 'FREE',
+			              windows: 'FREE'
+			          }
+			          // , theme: '' // put platform type ('ios', 'android', etc.) here to force single theme on all device
+			          // , icon: '' // full path to icon image if not using website icon image
+			          // , force: 'ios' // Uncomment for platform emulation
+			      });
+			    </script>
+	    	    	    	
+		 	
+  		<script type="text/javascript" >var js="0.0";</script><script type="text/javascript1.0" >js="1.0";</script><script type="text/javascript1.1">js="1.1";</script><script type="text/javascript1.2" >js="1.2";</script><script type="text/javascript1.3">js="1.3";</script><script type="text/javascript1.4" >js="1.4";</script><script type="text/javascript1.5">js="1.5";</script><script type="text/javascript1.6">js="1.6";</script><script type="text/javascript1.7">js="1.7";</script><script type="text/javascript1.8">js="1.8";</script><script type="text/javascript1.9">js="1.9";</script><script type="text/javascript"> 
+/* <![CDATA[ */
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=903082793";_q+="&7=3082793";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="https://s.clickability.com/s?"+_q;
+function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="https://s.clickability.com/s?19=912";_qc+="&6=903082793";_qc+="&7=3082793";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}/* ]]> */
+</script><noscript>
+<img width="1" height="1" src="https://s.clickability.com/s?19=990&14=0&6=903082793&7=3082793&25=0&18=0.6043692568461957">
+</noscript>
+
+			<!-- Off-Canvas Mobile Menu-->
+						<div class="offcanvas-container" id="mobile-menu">
+			<nav class="offcanvas-menu">
+																																																																																																																																																																																							
+										        <!-- NO CHILD: /content -->
+					        																			
+										        <!-- NO CHILD: /home -->
+					        																				                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                      																	                                                      																
+																				                                                      																	                                                      																	                                                      																	                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                      																
+																				                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                      																	                                                      																	                                                      																	                                                      																	                                                                                                            																	                                                                                                            																
+																				                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                                                                            																
+																				                                                      																	                                                                                                            																	                                                                                                            																	                                                      																	                                                                                                            																	                                                                                                            																	                                                      																	                                                      																	                                                                                                            																	                                                      																	                                                                                                            																	                                                      																	                                                      																	                                                      																	                                                      																	                                                      																	                                                      																	                                                      																	                                                      																	                                                                                                            																	                                                                                                            																	                                                      																
+																				                                                      																
+										        <!-- NO CHILD: /contests -->
+					        																				                                                                                                            																	                                                                                                            																	                                                                                                            																
+																				                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                                                                            																	                                                                                                            																
+																			
+										        <!-- NO CHILD: /drive -->
+					        																			
+										        <!-- NO CHILD: /livestream -->
+					        																			
+										        <!-- NO CHILD: /search -->
+					        																			
+										        <!-- NO CHILD: /apps-test -->
+					        																			
+										        <!-- NO CHILD: /newsletter -->
+					        																			
+										        <!-- NO CHILD: /test -->
+					        																			
+										        <!-- NO CHILD: /payments -->
+					        													<!-- NAVTEST -->
+				<!-- [/content, /home, /contests, /drive, /livestream, /search, /apps-test, /newsletter, /test, /payments] -->
+				
+				
+								
+								<ul class="menu">
+																																																																																																																																																																																							
+																																								
+																															<li><a href="/home"><span>Home</span></a></li>
+																																																																																																																																																																																																																	
+																										<li class="has-children"><span><a href="/news"><span>News</span></a><span class="sub-menu-toggle"></span></span>
+																					<ul class="offcanvas-submenu">
+														
+								<!-- <li><a href="/news">News</a> -->
+																																						<li><a href="/news/local">Local</a></li>
+																																																									<li><a href="/news/mississippi">Mississippi</a></li>
+																																																									<li><a href="/news/alabama">Alabama</a></li>
+																																																									<li><a href="/news/national">National News</a></li>
+																																																																				</ul>
+						</li>
+																																																																																																																																																																																																																																																					
+																										<li class="has-children"><span><a href="/sports"><span>Sports</span></a><span class="sub-menu-toggle"></span></span>
+																					<ul class="offcanvas-submenu">
+														
+								<!-- <li><a href="/sports">Sports</a> -->
+																																																																																									<li><a href="/sports/local-sports">Local Sports</a></li>
+																																																									<li><a href="/sports/msu">MSU</a></li>
+																																																									<li><a href="/sports/ole-miss">Ole Miss</a></li>
+																																																									<li><a href="https://www.wtva.com/news/national/?category=Sports" target="_parent">National Sports</a></li>
+																																																			</ul>
+						</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																
+																										<li class="has-children"><span><a href="/weather"><span>Weather</span></a><span class="sub-menu-toggle"></span></span>
+																					<ul class="offcanvas-submenu">
+														
+								<!-- <li><a href="/weather">Weather</a> -->
+																																						<li><a href="https://www.wtva.com/content/news/WTVA-Forecast-Blog-450656613.html" target="_parent">Forecast</a></li>
+																																																									<li><a href="/weather/radar">Interactive Radar</a></li>
+																																																									<li><a href="/weather/radar-maps">Radar Maps</a></li>
+																																																									<li><a href="/weather/maps-forecasts">Maps & Forecasts</a></li>
+																																																									<li><a href="/weather/weather-cams">Weather Cams</a></li>
+																																																									<li><a href="/weather/closings">Weather Closings</a></li>
+																																																									<li><a href="/weather/weathercall">WeatherCall</a></li>
+																																																																																																																													<li><a href="https://www.wtva.com/content/news/List-of-storm-shelters-in-North-Mississippi-475072913.html" target="_parent">Storm Shelters</a></li>
+																																																									<li><a href="http://wtva.secondstreetapp.com/Severe-Weather-Authority-Photos/" target="_parent">Submit Your Weather Photos</a></li>
+																																		</ul>
+						</li>
+																																																																																																																																																					
+																										<li class="has-children"><span><a href="/video"><span>Video</span></a><span class="sub-menu-toggle"></span></span>
+																					<ul class="offcanvas-submenu">
+														
+								<!-- <li><a href="/video">Video</a> -->
+																																						<li><a href="https://www.wtva.com/video" target="_parent">On Demand</a></li>
+																																																									<li><a href="https://www.wtva.com/about/our-apps" target="_parent">TV Apps</a></li>
+																																																									<li><a href="https://www.wtva.com/livestream/" target="_parent">Watch Now</a></li>
+																																																									<li><a href="https://www.youtube.com/channel/UCGZ3rWmXAfs4iZi-Hr2Ahgg?view_as=subscriber" target="_blank">YouTube</a></li>
+																																		</ul>
+						</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																	
+																										<li class="has-children"><span><a href="/features"><span>Features</span></a><span class="sub-menu-toggle"></span></span>
+																					<ul class="offcanvas-submenu">
+														
+								<!-- <li><a href="/features">Features</a> -->
+																																																							<li><a href="/features/wellnessnetwork">Wellness Network</a></li>
+																																																									<li><a href="/features/healthy-living">Healthy Living</a></li>
+																																																																										<li><a href="/features/community-calendar">Community Calendar</a></li>
+																																																									<li><a href="https://www.stjude.org/give/dream-home/tupelo.html?sc_cid=bnn62314" target="_blank">St. Jude Dream Home Giveaway</a></li>
+																																																																																											<li><a href="/features/chasing-the-news">Chasing The News</a></li>
+																																																																										<li><a href="/features/job-fair">Job Fair</a></li>
+																																																																																																																																																																																																	<li><a href="/features/podcasts">Podcasts</a></li>
+																																																									<li><a href="/features/spotlightonyourcity">Spotlight On Your City</a></li>
+																																																			</ul>
+						</li>
+																																																	
+																															<li><a href="/contests"><span>Contests</span></a></li>
+																																																																																																																																		
+																										<li class="has-children"><span><a href="/deals"><span>Deals</span></a><span class="sub-menu-toggle"></span></span>
+																					<ul class="offcanvas-submenu">
+														
+								<!-- <li><a href="/deals">Deals</a> -->
+																																						<li><a href="http://wtva.nimbledeals.com/deal/saltillo" target="_blank">Tips to Toes Deal Store</a></li>
+																																																									<li><a href="http://wtva.nimbledeals.com/deal/saltillo/wtva-2017-golf-card-3" target="_blank">Golf Card</a></li>
+																																																									<li><a href="http://www.holidayvacations.com/index.php?page=promodestinations&mact=HvDisplay,cntnt01,searchKeyword,0&cntnt01returnid=26&cntnt01keyword=tupelo" target="_blank">Travel Deals</a></li>
+																																		</ul>
+						</li>
+																																																																																																																																																																																																																																																																																	
+																										<li class="has-children"><span><a href="/about"><span>About Us</span></a><span class="sub-menu-toggle"></span></span>
+																					<ul class="offcanvas-submenu">
+														
+								<!-- <li><a href="/about">About Us</a> -->
+																																						<li><a href="/about/meet-the-team">Bios</a></li>
+																																																									<li><a href="/about/history">History</a></li>
+																																																									<li><a href="/about/work-for-us">Work For Us</a></li>
+																																																									<li><a href="/about/advertise-with-us">Advertise With Us</a></li>
+																																																									<li><a href="/about/programming">What's On</a></li>
+																																																									<li><a href="/about/contact">Contact</a></li>
+																																																									<li><a href="/about/digital-marketing">Digital Marketing</a></li>
+																																																									<li><a href="/about/our-apps">Our Apps</a></li>
+																																		</ul>
+						</li>
+																									
+																															<li><a href="http://heartland.motominer.net/" target="_blank"><span>Drive</span></a></li>
+																																					
+																															<li><a href="/livestream"><span>Watch Live</span></a></li>
+																																					
+																																								
+																													
+																													
+																													
+																							</ul>
+			</nav>
+		</div>
+		
+		<!-- REMOVED TOP BAR -->
+		<div class="topbar" style="height:0px"></div>
+
+		<!-- Navbar-->
+		
+		<!-- Remove ".navbar-sticky" class to make navigation bar scrollable with the page.-->
+		<header class="navbar navbar-sticky">
+			<!-- Search-->
+			<form class="site-search" method="get" action="/search">
+				<input type="text" name="site_search" title="Site Search" aria-label="Site Search" placeholder="Type to search...">
+				<div class="search-tools">
+					<span class="clear-search">Clear</span>
+					<span class="close-search"><i class="icon-cross"></i></span>
+				</div>
+			</form>
+			<div class="site-branding">
+				<div class="inner">
+				  <!-- Off-Canvas Toggle (#mobile-menu)--><a class="offcanvas-toggle menu-toggle" href="#mobile-menu" aria-label="Menu Toggle" data-toggle="offcanvas"></a>
+				  <!-- Site Logo-->
+				  	<a class="site-logo" href="/">
+				  		<img class="img-responsive mobile-logo" src="https://media.heartlandtv.com/designimages/WTVA_300x100.png" alt="${station} Logo">
+				  		<img class="img-responsive desktop-logo" src="https://media.heartlandtv.com/designimages/WTVALogo480x100.png" alt="${station} Logo">
+				  	</a>
+				</div>
+			</div>
+			<!-- Main Navigation-->
+			<nav class="site-menu">
+				<ul>
+																																																																																																																																																																																																																	
+																																	
+																																								<li><a href="/home"><span>Home</span></a></li>
+																																																																																																																																																																																																																																																				
+																																	<li><a href="/news"><span>News</span></a>
+									
+								<ul class="sub-menu">
+									<!-- <li><a href="/news">News</a> -->
+																																							<li><a href="/news/local">Local</a></li>
+																																																										<li><a href="/news/mississippi">Mississippi</a></li>
+																																																										<li><a href="/news/alabama">Alabama</a></li>
+																																																										<li><a href="/news/national">National News</a></li>
+																																																																								</ul>
+							</li>
+																																																																																																																																																																																																																																																																																											
+																																	<li><a href="/sports"><span>Sports</span></a>
+									
+								<ul class="sub-menu">
+									<!-- <li><a href="/sports">Sports</a> -->
+																																																																																													<li><a href="/sports/local-sports">Local Sports</a></li>
+																																																										<li><a href="/sports/msu">MSU</a></li>
+																																																										<li><a href="/sports/ole-miss">Ole Miss</a></li>
+																																																										<li><a href="https://www.wtva.com/news/national/?category=Sports" target="_parent">National Sports</a></li>
+																																																						</ul>
+							</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																															
+																																	<li><a href="/weather"><span>Weather</span></a>
+									
+								<ul class="sub-menu">
+									<!-- <li><a href="/weather">Weather</a> -->
+																																							<li><a href="https://www.wtva.com/content/news/WTVA-Forecast-Blog-450656613.html" target="_parent">Forecast</a></li>
+																																																										<li><a href="/weather/radar">Interactive Radar</a></li>
+																																																										<li><a href="/weather/radar-maps">Radar Maps</a></li>
+																																																										<li><a href="/weather/maps-forecasts">Maps & Forecasts</a></li>
+																																																										<li><a href="/weather/weather-cams">Weather Cams</a></li>
+																																																										<li><a href="/weather/closings">Weather Closings</a></li>
+																																																										<li><a href="/weather/weathercall">WeatherCall</a></li>
+																																																																																																																																		<li><a href="https://www.wtva.com/content/news/List-of-storm-shelters-in-North-Mississippi-475072913.html" target="_parent">Storm Shelters</a></li>
+																																																										<li><a href="http://wtva.secondstreetapp.com/Severe-Weather-Authority-Photos/" target="_parent">Submit Your Weather Photos</a></li>
+																																				</ul>
+							</li>
+																																																																																																																																																																											
+																																	<li><a href="/video"><span>Video</span></a>
+									
+								<ul class="sub-menu">
+									<!-- <li><a href="/video">Video</a> -->
+																																							<li><a href="https://www.wtva.com/video" target="_parent">On Demand</a></li>
+																																																										<li><a href="https://www.wtva.com/about/our-apps" target="_parent">TV Apps</a></li>
+																																																										<li><a href="https://www.wtva.com/livestream/" target="_parent">Watch Now</a></li>
+																																																										<li><a href="https://www.youtube.com/channel/UCGZ3rWmXAfs4iZi-Hr2Ahgg?view_as=subscriber" target="_blank">YouTube</a></li>
+																																				</ul>
+							</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																			
+																																	<li><a href="/features"><span>Features</span></a>
+									
+								<ul class="sub-menu">
+									<!-- <li><a href="/features">Features</a> -->
+																																																									<li><a href="/features/wellnessnetwork">Wellness Network</a></li>
+																																																										<li><a href="/features/healthy-living">Healthy Living</a></li>
+																																																																												<li><a href="/features/community-calendar">Community Calendar</a></li>
+																																																										<li><a href="https://www.stjude.org/give/dream-home/tupelo.html?sc_cid=bnn62314" target="_blank">St. Jude Dream Home Giveaway</a></li>
+																																																																																														<li><a href="/features/chasing-the-news">Chasing The News</a></li>
+																																																																												<li><a href="/features/job-fair">Job Fair</a></li>
+																																																																																																																																																																																																										<li><a href="/features/podcasts">Podcasts</a></li>
+																																																										<li><a href="/features/spotlightonyourcity">Spotlight On Your City</a></li>
+																																																						</ul>
+							</li>
+																																																							
+																																								<li><a href="/contests"><span>Contests</span></a></li>
+																																																																																																																																																								
+																																	<li><a href="/deals"><span>Deals</span></a>
+									
+								<ul class="sub-menu">
+									<!-- <li><a href="/deals">Deals</a> -->
+																																							<li><a href="http://wtva.nimbledeals.com/deal/saltillo" target="_blank">Tips to Toes Deal Store</a></li>
+																																																										<li><a href="http://wtva.nimbledeals.com/deal/saltillo/wtva-2017-golf-card-3" target="_blank">Golf Card</a></li>
+																																																										<li><a href="http://www.holidayvacations.com/index.php?page=promodestinations&mact=HvDisplay,cntnt01,searchKeyword,0&cntnt01returnid=26&cntnt01keyword=tupelo" target="_blank">Travel Deals</a></li>
+																																				</ul>
+							</li>
+																																																																																																																																																																																																																																																																																																																											
+																																	<li><a href="/about"><span>About Us</span></a>
+									
+								<ul class="sub-menu">
+									<!-- <li><a href="/about">About Us</a> -->
+																																							<li><a href="/about/meet-the-team">Bios</a></li>
+																																																										<li><a href="/about/history">History</a></li>
+																																																										<li><a href="/about/work-for-us">Work For Us</a></li>
+																																																										<li><a href="/about/advertise-with-us">Advertise With Us</a></li>
+																																																										<li><a href="/about/programming">What's On</a></li>
+																																																										<li><a href="/about/contact">Contact</a></li>
+																																																										<li><a href="/about/digital-marketing">Digital Marketing</a></li>
+																																																										<li><a href="/about/our-apps">Our Apps</a></li>
+																																				</ul>
+							</li>
+																											
+																																								<li><a href="http://heartland.motominer.net/" target="_blank"><span>Drive</span></a></li>
+																																												
+																																								<li><a href="/livestream"><span>Watch Live</span></a></li>
+																																												
+																																	
+																																																
+																																																
+																																																
+																																											</ul>
+			</nav>
+			<!-- Toolbar-->
+			<div class="toolbar">
+				<div class="inner">
+					<div class="tools">
+						<div class="search"><i class="icon-search"></i></div>
+					</div>
+				</div>
+			</div>
+		</header>
+				<!-- $cms.hierarchyField("disableAds") -->
+<script>
+	var gptAdSlots = [];
+	googletag.cmd.push(function() {
+
+    	var top1map = googletag.sizeMapping().addSize([1024, 0], [[970,90],[980,30],[728,90]]).addSize([766, 0],[728,90]).addSize([468,0],[[468,60],[300,50],[320,50]]).addSize([0, 0], [[300,50],[320,50]]).build();
+	
+	var left1map = googletag.sizeMapping()
+		.addSize(
+			[1440, 0], [[970,90],[980,30],[728,90]]
+		)
+		.addSize(
+			[1140, 0], [[728,90]]
+		)
+		.addSize(
+			[1024, 0], [[468,60],[300,50],[320,50]]
+		)	
+		.addSize(
+			[766, 0],[[300,50],[320,50]]
+		)
+		.addSize(
+			[0, 0], [[300,50],[320,50]]
+		)
+		.build();
+
+
+	var left2map = googletag.sizeMapping()
+		.addSize(
+			[1440, 0], [[970,90],[980,30],[728,90]]
+		)
+		.addSize(
+			[1140, 0], [[728,90]]
+		)
+		.addSize(
+			[1024, 0], [[468,60],[300,50],[320,50]]
+		)	
+		.addSize(
+			[766, 0],[[300,50],[320,50]]
+		)
+		.addSize(
+			[0, 0], [[300,50],[320,50]]
+		)
+		.build();
+	
+	
+	
+			var left3map = googletag.sizeMapping().addSize([1024, 0], [[970,90],[980,30],[728,90]]).addSize([766, 0],[728,90]).addSize([0, 0], [[300,50],[320,50]]).build();	
+	var left3map = googletag.sizeMapping().addSize([1024, 0], [[970,90],[980,30],[728,90]]).addSize([766, 0],[728,90]).addSize([0, 0], [[300,50],[320,50]]).build();
+	var right0map = googletag.sizeMapping().addSize([0, 0], [300,250]).build();
+
+	var right1map = googletag.sizeMapping().addSize([728, 0], [[300,250],[300,50],[300,600]]).addSize([0, 0], [[300, 250],[300, 50]]).build();
+	var right2map = googletag.sizeMapping().addSize([728, 0], [[300,250],[300,50],[300,600]]).addSize([0, 0], [[300, 250],[300, 50]]).build();
+	var right3map = googletag.sizeMapping().addSize([728, 0], [[300,250],[300,50],[300,600]]).addSize([0, 0], [[300, 250],[300, 50]]).build();
+
+	var articlemap = googletag.sizeMapping().addSize([0, 0], [[300, 250]]).build();
+	var weatherboxmap = googletag.sizeMapping().addSize([0, 0], [[300, 50]]).build();
+	var nativeMap = googletag.sizeMapping().addSize([0, 0], [[300, 250]]).build();
+
+	
+	gptAdSlots[0] = googletag.defineSlot('/30582678/HTV/WTVA/home', [[970,90],[980,30],[728,90],[468,60],[320,50],[300,50]],'WNAd41').setTargeting('pos',['htv-top-1','ad-stack']).defineSizeMapping(top1map).addService(googletag.pubads());
+    gptAdSlots[1] = googletag.defineSlot('/30582678/HTV/WTVA/home', [[970,90],[980,30],[728,90],[468,60],[320,50],[300,50]],'div-gpt-ad-left1').setTargeting('pos',['htv-left-1','ad-stack']).defineSizeMapping(left1map).addService(googletag.pubads());
+    gptAdSlots[2] = googletag.defineSlot('/30582678/HTV/WTVA/home', [[970,90],[980,30],[728,90],[468,60],[320,50],[300,50]],'div-gpt-ad-left2').setTargeting('pos',['htv-left-2','ad-stack']).defineSizeMapping(left2map).addService(googletag.pubads());
+    gptAdSlots[3] = googletag.defineSlot('/30582678/HTV/WTVA/home', [[970,90],[980,30],[728,90],[468,60],[320,50],[300,50]],'div-gpt-ad-left3').setTargeting('pos',['htv-left-3','ad-stack']).defineSizeMapping(left3map).addService(googletag.pubads());
+    gptAdSlots[4] = googletag.defineSlot('/30582678/HTV/WTVA/home', [[300,250]],'div-gpt-ad-right0').setTargeting('pos',['htv-right-0','ad-stack']).defineSizeMapping(right0map).addService(googletag.pubads());
+    gptAdSlots[5] = googletag.defineSlot('/30582678/HTV/WTVA/home', [[300, 250],[300, 600],[300, 50]],'div-gpt-ad-right1').setTargeting('pos',['htv-right-1','ad-stack']).defineSizeMapping(right1map).addService(googletag.pubads());
+    gptAdSlots[6] = googletag.defineSlot('/30582678/HTV/WTVA/home', [[300, 250],[300, 600],[300, 50]],'div-gpt-ad-right2').setTargeting('pos',['htv-right-2','ad-stack']).defineSizeMapping(right2map).addService(googletag.pubads());
+    gptAdSlots[7] = googletag.defineSlot('/30582678/HTV/WTVA/home', [[300, 250],[300, 600],[300, 50]],'div-gpt-ad-right3').setTargeting('pos',['htv-right-3','ad-stack']).defineSizeMapping(right3map).addService(googletag.pubads());
+    gptAdSlots[8] = googletag.defineSlot('/30582678/HTV/WTVA/home', [[300,250]],'div-gpt-ad-article').setTargeting('pos',['htv-article','ad-stack']).defineSizeMapping(articlemap).addService(googletag.pubads());
+    gptAdSlots[9] = googletag.defineSlot('/30582678/HTV/WTVA/home', [[300,250]],'div-gpt-ad-weatherbox').setTargeting('pos',['htv-weatherbox','ad-stack']).defineSizeMapping(weatherboxmap).addService(googletag.pubads());
+        gptAdSlots[10] = googletag.defineSlot('/30582678/HTV/WTVA/home', 'fluid','htvNative').setTargeting('pos',['htv-native','ad-stack']).addService(googletag.pubads());
+	
+	
+    googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs(true);
+    googletag.enableServices();
+  });
+</script>
+
+
+
+<!-- CACHE TIMESTAMPS -->
+	<!- 2019-02-26 12:25:01pm -->
+	<!- 2019-02-26 12:20:02pm -->
+	<!- 2019-02-26 12:15:03pm -->
+	<!- 2019-02-26 12:10:01pm -->
+	<!- 2019-02-26 12:05:02pm -->
+
+
+
+  
+<!-- Current Hour: 10 -->
+<!-- Current Month: 2 -->
+
+ 	
+			
+		<!-- Start: Tue Feb 26 11:55:00 PST 2019 | End: Tue Feb 26 12:35:00 PST 2019 -->
+														
+												<!-- UTIL IS BETWEEN Now: Tue Feb 26 10:26:53 PST 2019 Now Adj: Tue Feb 26 12:26:53 PST 2019 Start: Tue Feb 26 11:55:00 PST 2019 End: Tue Feb 26 12:35:00 PST 2019 Timezone Adj: 2 -->
+										<!-- SteamActive: true -->
+									
+							
+							
+							
+						 			
+		<!-- Start: Tue Feb 26 16:55:00 PST 2019 | End: Tue Feb 26 17:35:00 PST 2019 -->
+														
+												<!-- UTIL IS BETWEEN Now: Tue Feb 26 10:26:53 PST 2019 Now Adj: Tue Feb 26 12:26:53 PST 2019 Start: Tue Feb 26 16:55:00 PST 2019 End: Tue Feb 26 17:35:00 PST 2019 Timezone Adj: 2 -->
+									
+							
+							
+							
+						 			
+		<!-- Start: Tue Feb 26 17:55:00 PST 2019 | End: Tue Feb 26 19:05:00 PST 2019 -->
+														
+												<!-- UTIL IS BETWEEN Now: Tue Feb 26 10:26:53 PST 2019 Now Adj: Tue Feb 26 12:26:53 PST 2019 Start: Tue Feb 26 17:55:00 PST 2019 End: Tue Feb 26 19:05:00 PST 2019 Timezone Adj: 2 -->
+									
+							
+							
+							
+						 			
+		<!-- Start: Tue Feb 26 21:55:00 PST 2019 | End: Tue Feb 26 22:40:00 PST 2019 -->
+														
+												<!-- UTIL IS BETWEEN Now: Tue Feb 26 10:26:53 PST 2019 Now Adj: Tue Feb 26 12:26:53 PST 2019 Start: Tue Feb 26 21:55:00 PST 2019 End: Tue Feb 26 22:40:00 PST 2019 Timezone Adj: 2 -->
+									
+							
+							
+							
+						 			
+		<!-- Start: Tue Feb 26 20:55:00 PST 2019 | End: Tue Feb 26 21:35:00 PST 2019 -->
+														
+												<!-- UTIL IS BETWEEN Now: Tue Feb 26 10:26:53 PST 2019 Now Adj: Tue Feb 26 12:26:53 PST 2019 Start: Tue Feb 26 20:55:00 PST 2019 End: Tue Feb 26 21:35:00 PST 2019 Timezone Adj: 2 -->
+									
+							
+							
+							
+						 			
+		<!-- Start: Tue Feb 26 16:55:00 PST 2019 | End: Tue Feb 26 17:35:00 PST 2019 -->
+														
+						 			
+		<!-- Start: Tue Feb 26 20:55:00 PST 2019 | End: Tue Feb 26 21:35:00 PST 2019 -->
+														
+							
+						 			
+		<!-- Start: Tue Feb 26 21:55:00 PST 2019 | End: Tue Feb 26 23:05:00 PST 2019 -->
+														
+							
+						 			
+		<!-- Start: Tue Feb 26 04:25:00 PST 2019 | End: Tue Feb 26 09:05:00 PST 2019 -->
+														
+												<!-- UTIL IS BETWEEN Now: Tue Feb 26 10:26:53 PST 2019 Now Adj: Tue Feb 26 12:26:53 PST 2019 Start: Tue Feb 26 04:25:00 PST 2019 End: Tue Feb 26 09:05:00 PST 2019 Timezone Adj: 2 -->
+									
+							
+							
+							
+						 			
+		<!-- Start: Tue Feb 26 15:55:00 PST 2019 | End: Tue Feb 26 16:55:00 PST 2019 -->
+														
+												<!-- UTIL IS BETWEEN Now: Tue Feb 26 10:26:53 PST 2019 Now Adj: Tue Feb 26 12:26:53 PST 2019 Start: Tue Feb 26 15:55:00 PST 2019 End: Tue Feb 26 16:55:00 PST 2019 Timezone Adj: 2 -->
+									
+							
+							
+							
+						 	 	
+
+<!-- CACHE TIMESTAMPS -->
+	<!- 2019-02-26 12:25:01pm -->
+	<!- 2019-02-26 12:20:02pm -->
+	<!- 2019-02-26 12:15:03pm -->
+	<!- 2019-02-26 12:10:01pm -->
+	<!- 2019-02-26 12:05:02pm -->
+
+
+				
+						
+
+				
+				
+				
+		
+				
+		
+								
+				
+				
+		
+									
+		 																																																																																																																																					
+		
+		<!-- Off-Canvas Wrapper-->
+		<div class="offcanvas-wrapper">
+			<div class="container-fluid topContainer">
+				<div class="midContainer">
+					
+					
+		
+
+<style>
+	
+.breakingTop {
+    background-color: #cc0000;
+    text-align:center;
+    color: #fff;
+    padding: 7px 3px 7px 3px;
+    margin: 0px 0px 8px 0px;
+    font-weight: bold;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    width: 100%;
+    background: linear-gradient(#990000, #cc0000);
+    min-height:35px;
+	
+}	
+
+.breakingTop a {
+    color: #fff;
+    font-weight:normal;
+    text-decoration:underline;
+    }	
+
+
+.navbar {
+	border-bottom:0px;
+	box-shadow: 2px 2px 2px #888;
+	}
+	
+.noalert {padding-top:10px}
+
+.alertsTop.cycle-slide.cycle-sentinel {
+    height: 100%;
+}
+</style>
+		 
+	
+		
+	
+																																
+			
+		
+	
+	<!-- Closings Bar: false --> 
+	
+	
+			
+	 					
+	
+	
+			<div id="alertsBar" class="breakingTop">
+			<div class="cycle-slideshow" data-cycle-fx="fade" data-cycle-center-vert=true data-cycle-center-horz=true  data-cycle-timeout="3000" data-cycle-slides="> div">
+													<div class="alertsTop"><i class="fa fa-video-camera" aria-hidden="true"></i> STREAMING NOW: <a href="/livestream"> Watch Now </a></div>
+									</div>
+			
+		</div>
+	
+
+					
+					<div class="dfpWrapper pb-2" style="width:100%">
+						<div id='WNAd41' style="text-align:center">
+						<script>googletag.cmd.push(function() { googletag.display('WNAd41'); });</script>
+						</div>
+					</div>
+								
+
+					<div class="row mt-4">
+						<div class="col-xl-9 col-lg-8 col-md-7 sticky">
+							<div class="theiaStickySidebar">
+								<!-- START HOME CONTAINER -->
+
+								<!-- START SPOTLIGHT -->
+								<!-- START SPOTLIGHT -->
+																<!-- END SPOTLIGHT -->
+
+								<!-- END SPOTLIGHT -->
+								
+								<div class="tr-section" id="topStories">
+																			<div class="section-title title-before">
+											<h1>Top Headlines</h1>
+										</div>
+										
+																																<div class="row">
+												 																																																										<div class="col-sm-6">
+																	<div class="embed-responsive embed-responsive-16by9">
+
+<iframe class="embed-responsive-item" src="https://livestream.com/accounts/19464150/events/5405314/player?width=640&height=360&autoPlay=true&mute=true" allowfullscreen=""></iframe>
+</div>
+																</div>
+																<div class="col-sm-6">
+																	<h2 style="font-size:16pt">Livestream</h2>
+																																			<p class="hidden-xs-down"><br/>
+Weekdays: 4:30-9 a.m. | 12-12:30 p.m. | 4-5:30 p.m. | 6-7 p.m. | 9-10:35 p.m.<br/>
+<br/>
+Saturday: 5-7 a.m. | 6-6:30 p.m. | 9-9:30 p.m. | 10-10:30 p.m.<br/>
+<br/>
+Sunday: 5-7 a.m. | 5-5:30 p.m. | 9-9:30 p.m. | 10-10:30 p.m</p>
+																																	</div>
+																																																																																		
+																							</div>
+																																							
+		
+									<div class="hidden-sm-up mt-3 mb-3 rounded p-2" style="border:1px solid #eee">
+										<div class="cycle-slideshow" data-cycle-fx="fade" data-cycle-loader="wait" data-cycle-timeout="4000" data-cycle-slides="> .wxRotate">
+																							<div class="wxRotate"><div class='city'><b>Tupelo</b></div><div class='row'><div class='col-6'><div class='sky'>Overcast</div><div class='temperature'>63&deg; <img alt='wxIcon' class='wxicon' src='https://media.heartlandtv.com/designimages/wx_67.png' /></div></div><div class='col-6 text-left'><div class='hilo'>Hi: 64&deg; Lo: 44&deg;</div><div class='Wind'>Feels Like: 63&deg;</div><div><a class='wxlink' href='/weather'>More Weather</a></div></div></div></div>
+																							<div class="wxRotate"><div class='city'><b>Columbus</b></div><div class='row'><div class='col-6'><div class='sky'>Overcast</div><div class='temperature'>62&deg; <img alt='wxIcon' class='wxicon' src='https://media.heartlandtv.com/designimages/wx_67.png' /></div></div><div class='col-6 text-left'><div class='hilo'>Hi: 63&deg; Lo: 48&deg;</div><div class='Wind'>Feels Like: 62&deg;</div><div><a class='wxlink' href='/weather'>More Weather</a></div></div></div></div>
+																							<div class="wxRotate"><div class='city'><b>Oxford</b></div><div class='row'><div class='col-6'><div class='sky'>Broken Clouds</div><div class='temperature'>63&deg; <img alt='wxIcon' class='wxicon' src='https://media.heartlandtv.com/designimages/wx_66.png' /></div></div><div class='col-6 text-left'><div class='hilo'>Hi: 64&deg; Lo: 43&deg;</div><div class='Wind'>Feels Like: 63&deg;</div><div><a class='wxlink' href='/weather'>More Weather</a></div></div></div></div>
+																							<div class="wxRotate"><div class='city'><b>Starkville</b></div><div class='row'><div class='col-6'><div class='sky'>Scattered Clouds</div><div class='temperature'>63&deg; <img alt='wxIcon' class='wxicon' src='https://media.heartlandtv.com/designimages/wx_66.png' /></div></div><div class='col-6 text-left'><div class='hilo'>Hi: 63&deg; Lo: 47&deg;</div><div class='Wind'>Feels Like: 63&deg;</div><div><a class='wxlink' href='/weather'>More Weather</a></div></div></div></div>
+																					</div>
+										<div style="clear:both"></div>
+									</div>
+									
+
+									<div class="row padding-top-2x border">
+																														
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/Three-buses-involved-in-wreck-in-Guntown-506342501.html"><img src="https://media.heartlandtv.com/images/768*430/Saltillo+Bus+Wreck.JPG"  class="img-responsive" alt="${article.thumbnail.title}" /></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/Three-buses-involved-in-wreck-in-Guntown-506342501.html">Three buses involved in wreck in Guntown</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/NEW-State-releases-damage-assessments-from-flooding-tornadoes-506294551.html"><img src="https://media.heartlandtv.com/images/768*430/flooding15.jpg"  class="img-responsive" alt="${article.thumbnail.title}" /></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/NEW-State-releases-damage-assessments-from-flooding-tornadoes-506294551.html">NEW: State releases damage assessments from flooding, tornadoes</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																																								<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+					<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/WTVA-Forecast-Blog-450656613.html"><img src="https://media.heartlandtv.com/images/768*432/cms4.jpg"  class="img-responsive" alt="${article.thumbnail.title}" /></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																										<div class="author">
+														<a href="https://www.wtva.com/content/news/WTVA-Forecast-Blog-450656613.html"><img class="img-responsive img-circle" src="https://media.heartlandtv.com/designimages/vidIcon.png?c=2" alt="Image"></a>
+													</div>
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/WTVA-Forecast-Blog-450656613.html">Clear and cool to kick off the work week</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																																								<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+					<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/Tornadoes-touch-down-in-Columbus-Burnsville-506278961.html"><img src="https://media.heartlandtv.com/images/768*431/columbus+tornado+3.jpg"  class="img-responsive" alt="${article.thumbnail.title}" /></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																										<div class="author">
+														<a href="https://www.wtva.com/content/news/Tornadoes-touch-down-in-Columbus-Burnsville-506278961.html"><img class="img-responsive img-circle" src="https://media.heartlandtv.com/designimages/vidIcon.png?c=2" alt="Image"></a>
+													</div>
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/Tornadoes-touch-down-in-Columbus-Burnsville-506278961.html">One dead following tornadoes in Columbus, Burnsville</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																																																		<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+					<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/UPDATE-Latest-on-day-following-devastating-tornadoes-506292911.html"><img src="https://media.heartlandtv.com/images/768*443/columbus+damage.jpg"  class="img-responsive" alt="${article.thumbnail.title}" /></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																										<div class="author">
+														<a href="https://www.wtva.com/content/news/UPDATE-Latest-on-day-following-devastating-tornadoes-506292911.html"><img class="img-responsive img-circle" src="https://media.heartlandtv.com/designimages/vidIcon.png?c=2" alt="Image"></a>
+													</div>
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/UPDATE-Latest-on-day-following-devastating-tornadoes-506292911.html">Latest on day following devastating tornadoes</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																																								<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+					<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/Multi-state-chase-ends-in-Lowndes-County-driver-in-custody-506361101.html"><img src="https://media.heartlandtv.com/images/768*432/Minor.jpg"  class="img-responsive" alt="${article.thumbnail.title}" /></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																										<div class="author">
+														<a href="https://www.wtva.com/content/news/Multi-state-chase-ends-in-Lowndes-County-driver-in-custody-506361101.html"><img class="img-responsive img-circle" src="https://media.heartlandtv.com/designimages/vidIcon.png?c=2" alt="Image"></a>
+													</div>
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/Multi-state-chase-ends-in-Lowndes-County-driver-in-custody-506361101.html">Police chase ends in Lowndes County, driver arrested</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+					<a href="https://www.wtva.com/content/news/506375632.html"><img class="img-responsive" src="https://s3.amazonaws.com/cnn-newsource-image-renditions-prod/TECH_YOUTUBE_KIDS_SUICIDE_VIDEOS/S105916344_preview.JPG" alt="Image"></a>		
+			</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/506375632.html">A mom found videos on YouTube Kids that gave children instructions for suicide</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+					<a href="https://www.wtva.com/content/news/506375942.html"><img class="img-responsive" src="https://s3.amazonaws.com/cnn-newsource-image-renditions-prod/TRAVEL_AIRBUS_NEW_ECONOMY_SEAT_P/S105945830_preview.JPG" alt="Image"></a>		
+			</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/506375942.html">Are these airplane seats the future of economy?</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+					<a href="https://www.wtva.com/content/news/506375432.html"><img class="img-responsive" src="https://s3.amazonaws.com/cnn-newsource-image-renditions-prod/US_GIRL_SCOUT_COOKIES_SC_MAN_COL/S105949585_preview.JPG" alt="Image"></a>		
+			</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/506375432.html">A man bought $540 in cookies so these Girl Scouts could escape the cold</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+					<a href="https://www.wtva.com/content/news/506375072.html"><img class="img-responsive" src="https://s3.amazonaws.com/cnn-newsource-image-renditions-prod/MED_FB_ANTIVAXERS/S105916681_preview.JPG" alt="Image"></a>		
+			</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/506375072.html">Facebook to get tougher on anti-vaxers</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+					<a href="https://www.wtva.com/content/news/506374952.html"><img class="img-responsive" src="https://s3.amazonaws.com/cnn-newsource-image-renditions-prod/POL_MEDICARE_FOR_ALL_MEANING/S105922165_preview.JPG" alt="Image"></a>		
+			</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/506374952.html">What &#039;Medicare for All&#039; means, politically and practically</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/Booneville-police-investigate-crash-into-drug-store-506360161.html"><img class="img-responsive" src="https://media.heartlandtv.com/images/Booneville+Crash_.png" alt="Image"></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/Booneville-police-investigate-crash-into-drug-store-506360161.html">Booneville police investigate drug store crash</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/Shelters-open-for-storm-victims-in-Columbus-Tupelo-506279091.html"><img class="img-responsive" src="https://media.heartlandtv.com/images/60726E00-QHDDT.jpg" alt="Image"></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/Shelters-open-for-storm-victims-in-Columbus-Tupelo-506279091.html">Shelters open for storm victims in Columbus, Tupelo, Calhoun County</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/Drug-investigation-leads-to-arrests-in-Tupelo-506343311.html"><img src="https://media.heartlandtv.com/images/768*432/tupelo1.jpg"  class="img-responsive" alt="${article.thumbnail.title}" /></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/Drug-investigation-leads-to-arrests-in-Tupelo-506343311.html">Drug investigation leads to arrests in Tupelo</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+					<a href="https://www.wtva.com/content/news/506338072.html"><img class="img-responsive" src="https://cdn.cnn.com/cnnnext/dam/assets/190225103325-niagara-river-ice-winds-live-video.jpg" alt="Image"></a>		
+			</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/506338072.html">Walls of ice bulldoze ashore from Lake Erie</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/Tupelo-police-look-for-man-wanted-in-home-burglary-506333161.html"><img src="https://media.heartlandtv.com/images/768*432/mug3.jpg"  class="img-responsive" alt="${article.thumbnail.title}" /></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/Tupelo-police-look-for-man-wanted-in-home-burglary-506333161.html">Tupelo police look for man wanted in home burglary</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/New-stamp-to-honor-Alabama-200th-Birthday-506332431.html"><img src="https://media.heartlandtv.com/images/768*432/1280x720_10207B00-DUBBK.jpg"  class="img-responsive" alt="${article.thumbnail.title}" /></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/New-stamp-to-honor-Alabama-200th-Birthday-506332431.html">New stamp to honor Alabama 200th Birthday</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/Tupelo-police-still-trying-to-locate-missing-man-506332301.html"><img src="https://media.heartlandtv.com/images/768*432/essex.jpg"  class="img-responsive" alt="${article.thumbnail.title}" /></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/Tupelo-police-still-trying-to-locate-missing-man-506332301.html">Tupelo police still trying to locate missing man</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/Alabama-governor-to-announce-transportation-improvement-plan-506331651.html"><img src="https://media.heartlandtv.com/images/768*432/13549659_G1.jpeg"  class="img-responsive" alt="${article.thumbnail.title}" /></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/Alabama-governor-to-announce-transportation-improvement-plan-506331651.html">Alabama governor to announce transportation improvement plan</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																														<div class="col-lg-3 col-md-6 col-sm-12 left-post">
+											<div class="tr-post">
+												<div class="entry-header">
+													<div class="entry-feature">
+														
+
+
+
+
+		<div class="imgWrap">
+									<a href="https://www.wtva.com/content/news/District-Attorney-to-run-for-MIssissippi-Governor-506331091.html"><img class="img-responsive" src="https://media.heartlandtv.com/images/Robert+Shuler+Smith.jpg" alt="Image"></a>
+						</div>
+
+													</div>
+												</div>
+												<div class="post-content">
+																																							<h2 class="entry-title"><a href="https://www.wtva.com/content/news/District-Attorney-to-run-for-MIssissippi-Governor-506331091.html">District attorney to run for Mississippi governor</a></h2>	
+											
+												</div>
+											</div>
+										</div>
+																													</div>
+								</div>
+								
+								<!-- END HOME CONTAINER -->
+								<div class="dfpWrapper pb-4">
+									<div id='div-gpt-ad-left2' style="text-align:center">
+									<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-left2'); });</script>
+									</div>
+								</div>	
+
+								<style>
+									.entry {margin:8px 0px; border-bottom:1px solid#eee}
+									.entry:hover {background-color:#eee}
+
+									.entry-thumb {
+										width: 100px;
+										padding-right: 12px;
+									}
+
+									.entry-thumb>a {
+										display: block;
+										overflow: hidden;
+									}
+
+									.entry-thumb>a>img {
+										width: 100%;
+									}
+
+									.entry-thumb, .entry-content {
+										display: table-cell;
+										vertical-align: middle;
+									}
+
+									.catBox {height:90%!important; overflow-y:auto}
+									h4.entry-title {font-size:14px}
+									h3.catName {border-bottom:1px solid #888; font-size:16pt}
+								</style>
+
+								<div class="tr-section">
+									<div class="row h-100">
+																																																					<div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-xs-12 mb-5">
+													<div class='catBox'>
+														<h3 class="catName">Mississippi</h3>
+																																																										<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/District-Attorney-to-run-for-MIssissippi-Governor-506331091.html">
+																																					<img src="https://media.heartlandtv.com/images/100*78/Robert+Shuler+Smith.jpg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/District-Attorney-to-run-for-MIssissippi-Governor-506331091.html">District attorney to run for Mississippi governor</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/Lee-County-Sheriff-scam-warning--506285981.html">
+																																					<img src="https://media.heartlandtv.com/images/100*56/12782347_G11.jpg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Lee-County-Sheriff-scam-warning--506285981.html">Lee County sheriff warns about scam</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/Three-injured-in-Columbus-shooting--506285821.html">
+																																					<img src="https://media.heartlandtv.com/images/100*56/shooting+generic.jpg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Three-injured-in-Columbus-shooting--506285821.html">Three injured in Columbus shooting </a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/Distant-jurors-to-hear-trial-for-8-killings-in-Mississippi-506260751.html">
+																																					<img src="https://media.heartlandtv.com/images/100*56/GetImage9.jpeg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Distant-jurors-to-hear-trial-for-8-killings-in-Mississippi-506260751.html">Distant jurors to hear trial for 8 killings in Mississippi</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/No-guarantee-of-state-employees-raises-in-Mississippi-506114091.html">
+																																					<img src="https://media.heartlandtv.com/images/100*56/14611110_G.jpeg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/No-guarantee-of-state-employees-raises-in-Mississippi-506114091.html">No guarantee of state employees' raises in Mississippi</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/Off-duty-officer-stabbed-man-killed-in-road-rage-fight-506108541.html">
+																																					<img src="https://media.heartlandtv.com/images/100*56/12861424_G1.jpg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Off-duty-officer-stabbed-man-killed-in-road-rage-fight-506108541.html">Off-duty officer stabbed, man killed in road rage fight</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/Deer-disease-found-in-2-more-Mississippi-counties-506062981.html">
+																																					<img src="https://media.heartlandtv.com/images/100*56/ms1.jpg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Deer-disease-found-in-2-more-Mississippi-counties-506062981.html">Deer disease found in 2 more Mississippi counties</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																									</div>
+													<a href="https://www.wtva.com/news/mississippi/" class="btn btn-secondary btn-block mb-3">Mississippi</a>
+												</div>
+																																												<div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-xs-12 mb-5">
+													<div class='catBox'>
+														<h3 class="catName">Alabama</h3>
+																																																										<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="http://www.wtva.com/content/news/US-says-Alabama-woman-who-joined-Islamic-State-cant-return-506114571.html">
+																																					<img src="https://media.heartlandtv.com/images/100*56/GetImage64.jpg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="http://www.wtva.com/content/news/US-says-Alabama-woman-who-joined-Islamic-State-cant-return-506114571.html">US says Alabama woman who joined Islamic State can't return</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/-Federal-utility-picks-exec-of-Canada-power-company-as-CEO-505889831.html">
+																																					<img src="https://media.heartlandtv.com/images/100*56/jeff3.jpg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/-Federal-utility-picks-exec-of-Canada-power-company-as-CEO-505889831.html"> Federal utility picks exec of Canada power company as CEO</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/Man-charged-in-killing-of-Alabama-police-officer-505847411.html">
+																																					<img src="https://media.heartlandtv.com/images/100*67/Screen+Shot+2019-02-14+at+2.jpg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Man-charged-in-killing-of-Alabama-police-officer-505847411.html">Man charged in killing of Alabama police officer</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/Alabama-getting-new-area-code-for-parts-of-state-505724161.html">
+																																					<img src="https://media.heartlandtv.com/images/100*56/GetImage+(2)13.jpg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Alabama-getting-new-area-code-for-parts-of-state-505724161.html">Alabama getting new area code for parts of state</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/Alabama-executes-Muslim-inmate-who-wanted-imam-present-505563361.html">
+																																					<img src="https://media.heartlandtv.com/images/100*56/GetImage61.jpeg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Alabama-executes-Muslim-inmate-who-wanted-imam-present-505563361.html">Alabama executes Muslim inmate who wanted imam present</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/Officer-wont-face-charges-in-Alabama-mall-shooting-505376701.html">
+																																					<img src="https://media.heartlandtv.com/images/100*56/GetImage+(1)54.jpeg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Officer-wont-face-charges-in-Alabama-mall-shooting-505376701.html">Officer won't face charges in Alabama mall shooting</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																																											<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/Alabama-man-convicted-of-sex-trafficking-escapes-prison-504811391.html">
+																																					<img src="https://media.heartlandtv.com/images/100*56/escapee.jpg"  alt="Story Image Thumbnail" class="img-responsive" />
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Alabama-man-convicted-of-sex-trafficking-escapes-prison-504811391.html">Alabama man convicted of sex trafficking escapes prison</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																									</div>
+													<a href="https://www.wtva.com/news/alabama/" class="btn btn-secondary btn-block mb-3">Alabama</a>
+												</div>
+																																												<div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-xs-12 mb-5">
+													<div class='catBox'>
+														<h3 class="catName">National News</h3>
+																																																										<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/506375632.html">
+																																				<img class="img-responsive" src="https://s3.amazonaws.com/cnn-newsource-image-renditions-prod/TECH_YOUTUBE_KIDS_SUICIDE_VIDEOS/S105916344_preview.JPG" alt="Image for A mom found videos on YouTube Kids that gave children instructions for suicide">
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/506375632.html">A mom found videos on YouTube Kids that gave children instructions for suicide</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/506375942.html">
+																																				<img class="img-responsive" src="https://s3.amazonaws.com/cnn-newsource-image-renditions-prod/TRAVEL_AIRBUS_NEW_ECONOMY_SEAT_P/S105945830_preview.JPG" alt="Image for Are these airplane seats the future of economy?">
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/506375942.html">Are these airplane seats the future of economy?</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/506375432.html">
+																																				<img class="img-responsive" src="https://s3.amazonaws.com/cnn-newsource-image-renditions-prod/US_GIRL_SCOUT_COOKIES_SC_MAN_COL/S105949585_preview.JPG" alt="Image for A man bought $540 in cookies so these Girl Scouts could escape the cold">
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/506375432.html">A man bought $540 in cookies so these Girl Scouts could escape the cold</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/506338072.html">
+																																				<img class="img-responsive" src="https://cdn.cnn.com/cnnnext/dam/assets/190225103325-niagara-river-ice-winds-live-video.jpg" alt="Image for Walls of ice bulldoze ashore from Lake Erie">
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/506338072.html">Walls of ice bulldoze ashore from Lake Erie</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/506317562.html">
+																																				<img class="img-responsive" src="https://s3.amazonaws.com/cnn-newsource-image-renditions-prod/91_OSCAR_RED_CARPET_2019/S105840118_preview.JPG" alt="Image for Oscars winners 2019: See the full list of winners">
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/506317562.html">Oscars winners 2019: See the full list of winners</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/506225922.html">
+																																				<img class="img-responsive" src="https://s3.amazonaws.com/cnn-newsource-image-renditions-prod/ENT_R_KELLY_INDICTMENT/S105722076_preview.JPG" alt="Image for R. Kelly indicted on 10 counts of aggravated criminal sexual abuse">
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/506225922.html">R. Kelly indicted on 10 counts of aggravated criminal sexual abuse</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																												<div class="entry mb-1">
+																<div class="entry-thumb">
+																	<a href="https://www.wtva.com/content/news/506150902.html">
+																																				<img class="img-responsive" src="https://cdn.cnn.com/cnnnext/dam/assets/190220224024-0220-jussie-smollett-001-live-video.jpg" alt="Image for Jussie Smollett arrested and faces a felony charge for allegedly filing false police report">
+																																			</a>
+																</div>
+																<div class="entry-content">
+																		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/506150902.html">Jussie Smollett arrested and faces a felony charge for allegedly filing false police report</a></h4><span class="entry-meta"></span>
+																</div>
+															</div>
+																																									</div>
+													<a href="https://www.wtva.com/news/national/" class="btn btn-secondary btn-block mb-3">National News</a>
+												</div>
+																														</div>
+								</div>
+
+								<div class="dfpWrapper pb-4">
+									<div id='div-gpt-ad-left3' style="text-align:center">
+									<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-left3'); });</script>
+									</div>
+								</div>	
+
+							</div>
+						</div>
+						<div class="col-xl-3 col-lg-4 col-md-5 sticky">
+							<div class="theiaStickySidebar">
+								<!-- Right Column = /home -->
+
+
+
+
+
+
+
+
+
+																	<div class="text-center" style="margin-bottom:30px">
+						<div class="dfpWrapper">
+							<div id='div-gpt-ad-right0' style="text-align:center">
+								<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-right0'); });</script>
+							</div>
+						</div>
+					</div>
+																										<div class="tr-section">
+																																					<style>
+</style>
+
+
+
+	<div class="cycle-slideshow" data-cycle-fx="fade" data-cycle-loader="wait" data-cycle-timeout="4000" data-cycle-slides="> .wxRotate">
+					<div class="wxRotate"><div class='city'><b>Tupelo</b></div><div class='row'><div class='col-6'><div class='sky'>Overcast</div><div class='temperature'>63&deg; <img alt='wxIcon' class='wxicon' src='https://media.heartlandtv.com/designimages/wx_67.png' /></div></div><div class='col-6 text-left'><div class='hilo'>Hi: 64&deg; Lo: 44&deg;</div><div class='Wind'>Feels Like: 63&deg;</div><div><a class='wxlink' href='/weather'>More Weather</a></div></div></div></div>
+					<div class="wxRotate"><div class='city'><b>Columbus</b></div><div class='row'><div class='col-6'><div class='sky'>Overcast</div><div class='temperature'>62&deg; <img alt='wxIcon' class='wxicon' src='https://media.heartlandtv.com/designimages/wx_67.png' /></div></div><div class='col-6 text-left'><div class='hilo'>Hi: 63&deg; Lo: 48&deg;</div><div class='Wind'>Feels Like: 62&deg;</div><div><a class='wxlink' href='/weather'>More Weather</a></div></div></div></div>
+					<div class="wxRotate"><div class='city'><b>Oxford</b></div><div class='row'><div class='col-6'><div class='sky'>Broken Clouds</div><div class='temperature'>63&deg; <img alt='wxIcon' class='wxicon' src='https://media.heartlandtv.com/designimages/wx_66.png' /></div></div><div class='col-6 text-left'><div class='hilo'>Hi: 64&deg; Lo: 43&deg;</div><div class='Wind'>Feels Like: 63&deg;</div><div><a class='wxlink' href='/weather'>More Weather</a></div></div></div></div>
+					<div class="wxRotate"><div class='city'><b>Starkville</b></div><div class='row'><div class='col-6'><div class='sky'>Scattered Clouds</div><div class='temperature'>63&deg; <img alt='wxIcon' class='wxicon' src='https://media.heartlandtv.com/designimages/wx_66.png' /></div></div><div class='col-6 text-left'><div class='hilo'>Hi: 63&deg; Lo: 47&deg;</div><div class='Wind'>Feels Like: 63&deg;</div><div><a class='wxlink' href='/weather'>More Weather</a></div></div></div></div>
+			</div>
+
+
+	
+		
+	
+	<div style="font-size:1em; padding:15px 5px; clear:both">
+		
+	</div>
+
+	<div class="dfpWrapper pt-1 pb-1" style="width:100%">
+		<div id='div-gpt-ad-weatherbox' style="text-align:center">
+			<script>googletag.cmd.push(function() {googletag.display('div-gpt-ad-weatherbox');});</script>
+		</div>
+	</div>		
+	
+	<div id="accordion">
+		<div class="card">
+		<div class="card-header" id="1">
+			<h5 class="mb-0">
+				<button class="btn btn-link btn-block" data-toggle="collapse" data-target="#Radar" aria-expanded="true" aria-controls="collapseOne">
+				  Radar <i class="fa fa-angle-down" aria-hidden="true"></i>
+				</button>
+			</h5>
+		</div>
+
+		<div id="Radar" class="collapse  show " aria-label="Radar" data-parent="#accordion">
+			<div class="card-body">
+								<a href="/weather"><img src="https://ftp2.wtva.com/Radar_ADI.jpg" class="img img-fluid" alt="WTVA Radar" /></a>
+							</div>
+		</div>
+	</div>
+		<div class="card">
+		<div class="card-header" id="2">
+			<h5 class="mb-0">
+				<button class="btn btn-link btn-block" data-toggle="collapse" data-target="#Temperatures" aria-expanded="true" aria-controls="collapseOne">
+				  Temperatures <i class="fa fa-angle-down" aria-hidden="true"></i>
+				</button>
+			</h5>
+		</div>
+
+		<div id="Temperatures" class="collapse " aria-label="Temperatures" data-parent="#accordion">
+			<div class="card-body">
+								<a href="/weather"><img src="https://ftp2.wtva.com/temperatures.jpg" class="img img-fluid" alt="WTVA Temperatures" /></a>
+							</div>
+		</div>
+	</div>
+		<div class="card">
+		<div class="card-header" id="3">
+			<h5 class="mb-0">
+				<button class="btn btn-link btn-block" data-toggle="collapse" data-target="#Severe_Weather" aria-expanded="true" aria-controls="collapseOne">
+				  Severe Weather <i class="fa fa-angle-down" aria-hidden="true"></i>
+				</button>
+			</h5>
+		</div>
+
+		<div id="Severe_Weather" class="collapse " aria-label="Severe Weather" data-parent="#accordion">
+			<div class="card-body">
+								<a href="/weather"><img src="https://ftp2.wtva.com/1dayrisk.jpg" class="img img-fluid" alt="WTVA Severe Weather" /></a>
+							</div>
+		</div>
+	</div>
+		</div>
+		
+
+											</div>
+																										<div class="tr-section">
+													<div class="section-title title-before">
+								<h1>Most Popular Stories</h1>
+							</div>
+																																					
+<style>
+
+.entry {margin:8px 0px}
+
+.entry-thumb {
+    width: 100px;
+    padding-right: 12px;
+}
+
+.entry-thumb>a {
+    display: block;
+    overflow: hidden;
+}
+
+.entry-thumb>a>img {
+    width: 100%;
+}
+
+.entry-thumb, .entry-content {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h4.entry-title {font-size:14px}
+
+</style>
+
+
+
+
+<div class="tr-section" id="mostPopular">
+		
+			<div class="entry">
+		<div class="entry-thumb">
+			<a href="https://www.wtva.com/content/news/Three-buses-involved-in-wreck-in-Guntown-506342501.html">
+									<img src="https://media.heartlandtv.com/images/100*56/Saltillo+Bus+Wreck.JPG"  class="img-responsive" alt="${article.thumbnail.title}" />
+							</a>
+		</div>
+		<div class="entry-content">
+     	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Three-buses-involved-in-wreck-in-Guntown-506342501.html">Three buses involved in wreck in Guntown</a></h4><span class="entry-meta"></span>
+  		</div>
+  	</div>
+		
+					<div class="entry">
+		<div class="entry-thumb">
+			<a href="https://www.wtva.com/content/news/UPDATE-Latest-on-day-following-devastating-tornadoes-506292911.html">
+									<img src="https://media.heartlandtv.com/images/100*57/columbus+damage.jpg"  class="img-responsive" alt="${article.thumbnail.title}" />
+							</a>
+		</div>
+		<div class="entry-content">
+     	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/UPDATE-Latest-on-day-following-devastating-tornadoes-506292911.html">Latest on day following devastating tornadoes</a></h4><span class="entry-meta"></span>
+  		</div>
+  	</div>
+		
+			<div class="entry">
+		<div class="entry-thumb">
+			<a href="https://www.wtva.com/content/news/Tupelo-police-look-for-man-wanted-in-home-burglary-506333161.html">
+									<img src="https://media.heartlandtv.com/images/100*56/mug3.jpg"  class="img-responsive" alt="${article.thumbnail.title}" />
+							</a>
+		</div>
+		<div class="entry-content">
+     	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Tupelo-police-look-for-man-wanted-in-home-burglary-506333161.html">Tupelo police look for man wanted in home burglary</a></h4><span class="entry-meta"></span>
+  		</div>
+  	</div>
+		
+			<div class="entry">
+		<div class="entry-thumb">
+			<a href="https://www.wtva.com/content/news/Man-arrested-for-pitbull-found-in-back-of-trunk--506308571.html">
+									<img src="https://media.heartlandtv.com/images/100*82/fh.PNG"  class="img-responsive" alt="${article.thumbnail.title}" />
+							</a>
+		</div>
+		<div class="entry-content">
+     	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Man-arrested-for-pitbull-found-in-back-of-trunk--506308571.html">Man arrested for having a pit bull in trunk of car</a></h4><span class="entry-meta"></span>
+  		</div>
+  	</div>
+		
+			<div class="entry">
+		<div class="entry-thumb">
+			<a href="https://www.wtva.com/content/news/Booneville-police-investigate-crash-into-drug-store-506360161.html">
+									<img src="https://media.heartlandtv.com/images/100*56/Booneville+Crash_.png"  class="img-responsive" alt="${article.thumbnail.title}" />
+							</a>
+		</div>
+		<div class="entry-content">
+     	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Booneville-police-investigate-crash-into-drug-store-506360161.html">Booneville police investigate drug store crash</a></h4><span class="entry-meta"></span>
+  		</div>
+  	</div>
+		
+				<div class="entry">
+		<div class="entry-thumb">
+			<a href="https://www.wtva.com/content/news/Tornadoes-touch-down-in-Columbus-Burnsville-506278961.html">
+									<img src="https://media.heartlandtv.com/images/100*56/columbus+tornado+3.jpg"  class="img-responsive" alt="${article.thumbnail.title}" />
+							</a>
+		</div>
+		<div class="entry-content">
+     	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Tornadoes-touch-down-in-Columbus-Burnsville-506278961.html">One dead following tornadoes in Columbus, Burnsville</a></h4><span class="entry-meta"></span>
+  		</div>
+  	</div>
+		
+			<div class="entry">
+		<div class="entry-thumb">
+			<a href="https://www.wtva.com/content/news/Wife-of-former-MSU-head-football-coach--506311161.html">
+									<img src="https://media.heartlandtv.com/images/100*75/susfelkerfix.jpg"  class="img-responsive" alt="${article.thumbnail.title}" />
+							</a>
+		</div>
+		<div class="entry-content">
+     	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Wife-of-former-MSU-head-football-coach--506311161.html">Wife of former MSU head football coach Rockey Felker dies</a></h4><span class="entry-meta"></span>
+  		</div>
+  	</div>
+		
+			<div class="entry">
+		<div class="entry-thumb">
+			<a href="https://www.wtva.com/content/news/NEW-State-releases-damage-assessments-from-flooding-tornadoes-506294551.html">
+									<img src="https://media.heartlandtv.com/images/100*56/flooding15.jpg"  class="img-responsive" alt="${article.thumbnail.title}" />
+							</a>
+		</div>
+		<div class="entry-content">
+     	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/NEW-State-releases-damage-assessments-from-flooding-tornadoes-506294551.html">NEW: State releases damage assessments from flooding, tornadoes</a></h4><span class="entry-meta"></span>
+  		</div>
+  	</div>
+		
+			<div class="entry">
+		<div class="entry-thumb">
+			<a href="https://www.wtva.com/content/news/Arrest-made-in-Houston-drive-by-shooting--506307911.html">
+									<img src="https://media.heartlandtv.com/images/100*56/Handcuffs9.JPG"  class="img-responsive" alt="${article.thumbnail.title}" />
+							</a>
+		</div>
+		<div class="entry-content">
+     	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Arrest-made-in-Houston-drive-by-shooting--506307911.html">Arrest made for Houston drive-by shooting </a></h4><span class="entry-meta"></span>
+  		</div>
+  	</div>
+		
+			<div class="entry">
+		<div class="entry-thumb">
+			<a href="https://www.wtva.com/content/news/Arrest-made-in-Houston-drive-by-shooting--506307911.html">
+									<img src="https://media.heartlandtv.com/images/100*56/Handcuffs9.JPG"  class="img-responsive" alt="${article.thumbnail.title}" />
+							</a>
+		</div>
+		<div class="entry-content">
+     	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/news/Arrest-made-in-Houston-drive-by-shooting--506307911.html">Arrest made for Houston drive-by shooting </a></h4><span class="entry-meta"></span>
+  		</div>
+  	</div>
+	</div>
+						
+									
+				
+			
+
+
+											</div>
+																										<div class="text-center" style="margin-bottom:30px">
+						<div class="dfpWrapper">
+							<div id='div-gpt-ad-right1' style="text-align:center">
+								<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-right1'); });</script>
+							</div>
+						</div>
+					</div>
+																										<div class="tr-section">
+													<div class="section-title title-before">
+								<h1>Latest Video</h1>
+							</div>
+																																					
+
+<style>
+
+.entry {margin:8px 0px}
+
+.entry-thumb {
+    width: 100px;
+    padding-right: 12px;
+}
+
+.entry-thumb>a {
+    display: block;
+    overflow: hidden;
+}
+
+.entry-thumb>a>img {
+    width: 100%;
+}
+
+.entry-thumb, .entry-content {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h4.entry-title {font-size:14px}
+
+</style>
+
+
+							<div class="entry">
+			<div class="entry-thumb">
+				<a href="https://www.wtva.com/content/video/506372962.html">
+											<img src="https://video-static-01.clipsyndicate.com/8827/2019/02/26/12/49/b2e7060a2d40447a96f3dbf9945d3512.jpg?co_id=1433" alt="Image">
+									</a>
+			</div>
+       			<div class="entry-content">
+             	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/video/506372962.html">Joel's Tuesday Morning Forecast: Clouds increase into Tuesday afternoon</a></h4><span class="entry-meta"></span>
+      	  		</div>
+      	  	</div>
+        						<div class="entry">
+			<div class="entry-thumb">
+				<a href="https://www.wtva.com/content/video/506364682.html">
+											<img src="https://video-static-01.clipsyndicate.com/ebd3/2019/02/26/05/55/cff806cd049a4e378fb4703ce328f9c3.jpg?co_id=1433" alt="Image">
+									</a>
+			</div>
+       			<div class="entry-content">
+             	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/video/506364682.html">Area Scores (February 25, 2019)</a></h4><span class="entry-meta"></span>
+      	  		</div>
+      	  	</div>
+        						<div class="entry">
+			<div class="entry-thumb">
+				<a href="https://www.wtva.com/content/video/506364552.html">
+											<img src="https://video-static-01.clipsyndicate.com/e98c/2019/02/26/05/51/5c95f143df744eb0a7aed508939dd6fd.jpg?co_id=1433" alt="Image">
+									</a>
+			</div>
+       			<div class="entry-content">
+             	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/video/506364552.html">Bjork "more than proud" of Ole Miss men's basketball players</a></h4><span class="entry-meta"></span>
+      	  		</div>
+      	  	</div>
+        						<div class="entry">
+			<div class="entry-thumb">
+				<a href="https://www.wtva.com/content/video/506362682.html">
+											<img src="https://video-static-01.clipsyndicate.com/45b6/2019/02/26/04/54/0baf4e46b3bd4094a4063582b484b698.jpg?co_id=1433" alt="Image">
+									</a>
+			</div>
+       			<div class="entry-content">
+             	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/video/506362682.html">Chickasaw County deputies search for a burglary suspect</a></h4><span class="entry-meta"></span>
+      	  		</div>
+      	  	</div>
+        						<div class="entry">
+			<div class="entry-thumb">
+				<a href="https://www.wtva.com/content/video/506361132.html">
+											<img src="https://video-static-01.clipsyndicate.com/323a/2019/02/26/04/34/01541a5156494b78b1857f11b694515e.jpg?co_id=1433" alt="Image">
+									</a>
+			</div>
+       			<div class="entry-content">
+             	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/video/506361132.html">Matt - Cooler temperatures down the line</a></h4><span class="entry-meta"></span>
+      	  		</div>
+      	  	</div>
+        						<div class="entry">
+			<div class="entry-thumb">
+				<a href="https://www.wtva.com/content/video/506360632.html">
+											<img src="https://video-static-01.clipsyndicate.com/8ccb/2019/02/26/04/27/bb8fc7b208e44114802e1d591c78c406.jpg?co_id=1433" alt="Image">
+									</a>
+			</div>
+       			<div class="entry-content">
+             	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/video/506360632.html">High speed chase ends in Lowndes County, driver in custody</a></h4><span class="entry-meta"></span>
+      	  		</div>
+      	  	</div>
+        						<div class="entry">
+			<div class="entry-thumb">
+				<a href="https://www.wtva.com/content/video/506358352.html">
+											<img src="https://video-static-01.clipsyndicate.com/2223/2019/02/26/02/42/b2b8a669e6dd4c048d17596f6acda21f.jpg?co_id=1433" alt="Image">
+									</a>
+			</div>
+       			<div class="entry-content">
+             	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/video/506358352.html">Tornadoes - 022319 - 3:15pm-4:00pm</a></h4><span class="entry-meta"></span>
+      	  		</div>
+      	  	</div>
+        						<div class="entry">
+			<div class="entry-thumb">
+				<a href="https://www.wtva.com/content/video/506358312.html">
+											<img src="https://video-static-01.clipsyndicate.com/50cd/2019/02/26/02/43/81405a4de06a4eb6b310ec7bc7606aac.jpg?co_id=1433" alt="Image">
+									</a>
+			</div>
+       			<div class="entry-content">
+             	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/video/506358312.html">Tornadoes - 022319 - 4:00pm-5:00pm</a></h4><span class="entry-meta"></span>
+      	  		</div>
+      	  	</div>
+        						<div class="entry">
+			<div class="entry-thumb">
+				<a href="https://www.wtva.com/content/video/506355282.html">
+											<img src="https://video-static-01.clipsyndicate.com/6987/2019/02/26/02/03/80636509a0dc4afc90a23aa72a6a8956.jpg?co_id=1433" alt="Image">
+									</a>
+			</div>
+       			<div class="entry-content">
+             	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/video/506355282.html">Columbus church begins recovery after tornado</a></h4><span class="entry-meta"></span>
+      	  		</div>
+      	  	</div>
+        						<div class="entry">
+			<div class="entry-thumb">
+				<a href="https://www.wtva.com/content/video/506353442.html">
+											<img src="https://video-static-01.clipsyndicate.com/448c/2019/02/26/01/19/e3ee84f35e194b85b3ce4ebf0afb97ea.jpg?co_id=1433" alt="Image">
+									</a>
+			</div>
+       			<div class="entry-content">
+             	  		<h4 class="entry-title"><a href="https://www.wtva.com/content/video/506353442.html">John - Variable cloudiness will be the rule over the next few days</a></h4><span class="entry-meta"></span>
+      	  		</div>
+      	  	</div>
+        
+
+
+
+        
+						
+			
+
+											</div>
+																										<div class="text-center" style="margin-bottom:30px">
+						<div class="dfpWrapper">
+							<div id='div-gpt-ad-right2' style="text-align:center">
+								<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-right2'); });</script>
+							</div>
+						</div>
+					</div>
+																										<div class="tr-section">
+																			<p><script src="https://widget.eviesays.com/wtva/default" async></script>
+</p>
+																													</div>
+																										<div class="tr-section">
+																			<p><script src="https://embed.secondstreetapp.com/Scripts/dist/optin.js" data-ss-embed="optin" data-design-id="262443" ></script></p>
+																													</div>
+																										<div class="text-center" style="margin-bottom:30px">
+						<div class="dfpWrapper">
+							<div id='div-gpt-ad-right3' style="text-align:center">
+								<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-right3'); });</script>
+							</div>
+						</div>
+					</div>
+											
+
+							</div>
+						</div>			
+					</div>
+				</div>
+			</div>
+<!-- Site Footer-->
+						<footer class="site-footer">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-3 col-md-6">
+							<!-- Contact Info-->
+							<section class="widget widget-light-skin">
+								<h3 class="widget-title">Get In Touch With Us</h3>
+								<p class="text-white">1359 Beech Springs Rd.<br />Saltillo, MS 38866<br />(662) 842-7620 </p>
+								<div class="addthis_inline_follow_toolbox"></div>
+							</section>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<section class="widget widget-light-skin">
+								<h3 class="widget-title">Our Mobile App</h3>
+								<a target="_blank" class="market-button apple-button mb-light-skin" href="https://itunes.apple.com/us/app/wtva-wlov-breaking-news-in-northeast-mississippi/id1188060806?mt=8"><span class="mb-subtitle">Download on the</span><span class="mb-title">App Store</span></a>
+								<a target="_blank" class="market-button google-button mb-light-skin" href="https://play.google.com/store/apps/details?id=com.heartland.wtva&hl=en"><span class="mb-subtitle">Download on the</span><span class="mb-title">Google Play</span></a>
+							</section>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<section class="widget widget-links widget-light-skin">
+								<h3 class="widget-title">About Us</h3>
+								<ul>
+																			<li><a href="https://www.wtva.com/about">About Us</a></li>
+																			<li><a href="https://www.wtva.com/about/advertise-with-us">Advertise With Us</a></li>
+																			<li><a href="https://www.wtva.com/about/contact">Contact Us</a></li>
+																			<li><a href="https://www.wtva.com/about/history">History</a></li>
+																			<li><a href="https://www.wtva.com/about/meet-the-team">Meet The Team</a></li>
+																			<li><a href="https://www.wtva.com/about/work-for-us">Work For Us</a></li>
+																			<li><a href="http://media.heartlandtv.com/documents/WTVA+Annual+EEO+Public+File+Report+2.1.18+to+1.31.19.pdf">2018 WTVA EEO Report</a></li>
+																			<li><a href="https://media.heartlandtv.com/documents/Annual+EEO+Report+WLOV+2017.pdf">2017 WLOV EEO Report</a></li>
+																			<li><a href="https://publicfiles.fcc.gov/tv-profile/wlov-tv">WLOV Public Inspection File</a></li>
+																	</ul>
+							</section>
+						</div>
+						<div class="col-lg-3 col-md-6">
+							<section class="widget widget-links widget-light-skin">
+								<h3 class="widget-title">Usage and Legal</h3>
+								<ul>
+									<li><a target="_blank" href="https://publicfiles.fcc.gov/tv-profile/wtva">FCC Public Inspection File</a></li>
+									<li><a target="_blank" href="http://media.heartlandtv.com/documents/WTVA+Annual+EEO+Public+File+Report+2.1.18+to+1.31.19.pdf">EEO Report</a></li>
+									<li><a target="_blank" href="https://publicfiles.fcc.gov/tv-profile/wtva/programs-list/">Child Programming</a></li>
+									<li><a target="_blank" href="https://www.wtva.com/content/news/This-Web-Sites-Privacy-Policy-450662773.html">Privacy Policy</a></li>
+									<li><a target="_blank" href="https://www.wtva.com/content/news/This-Sites-Terms-of-Service-450662523.html">Terms of Service</a></li>
+									<li><a target="_blank" href="http://optout.aboutads.info/#!/">Ad Choices</a></li>
+
+								</ul>
+							</section>
+						</div>
+					</div>
+					<hr class="hr-light mt-2 margin-bottom-1x">
+					<p class="footer-copyright">
+						All content © copyright WTVA. Copyright © 2019 Heartland Media, LLC. All Rights Reserved. Generated: 2019-02-26 12:25:01pm 
+																			</p>
+				</div>
+			</footer>
+								</div>
+
+		<!-- Back To Top Button--><a class="scroll-to-top-btn" href="#top" title="Link to Top" aria-label="Link to Top"><i class="icon-arrow-up"></i></a>
+		<!-- Backdrop-->
+		<div class="site-backdrop"></div>
+
+		<!-- JavaScript (jQuery) libraries, plugins and custom scripts-->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.5.0/velocity.js"></script>
+		<script src="https://www.wtva.com/includes/scripts.min.js" type="text/javascript"></script>
+		<script src="https://www.wtva.com/includes/theia-sticky-sidebar.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				jQuery('.sticky, .sidebar').theiaStickySidebar({
+				// Settings
+				additionalMarginTop: 100
+				});
+			 });
+		</script>
+		<script src="https://www.wtva.com/includes/jquery.cycle2.js" type="text/javascript"></script>
+		<script src="https://www.wtva.com/includes/jquery.cycle2.center.min.js" type="text/javascript"></script>
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59dfb0b02a9cd31c"></script> 
+											<script type="text/javascript"> (function(t) {var e = document.createElement("script");e.setAttribute("id", "tqflexsdksel"), e.setAttribute("fusionId", t), e.type = "text/javascript", e.src = "//api.traq.li/public/sdk/v03/sdk.js", e.async = !0, document.getElementsByTagName("head")[0].appendChild(e)}) (254); </script>
+						</body>
+</html>
+

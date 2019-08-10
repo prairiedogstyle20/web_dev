@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="robots" content="noindex, nofollow">
+<meta name="og:title" content="Justin Bieber - What Do You Mean? - YouTube">
+<meta name="og:description" content="‘Purpose’ Available Everywhere Now! iTunes: http://smarturl.it/PurposeDlx?IQid=VEVO1113 Stream &amp; Add To Your Spotify Playlist: http://smarturl.it/sPurpose?IQ...">
+<meta property="og:image" content="https://i.ytimg.com/vi/DK_0jXPuIr0/maxresdefault.jpg" />
+<meta charset="utf-8" /><title>za.gl</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Start earning money for each visitor of your shortened links with za.gl! A service that pays.">
+<link href='https://za.gl/webroot/img/zagl-favico@2x.png' type='image/x-icon' rel='icon' /><link href='https://za.gl/webroot/img/zagl-favico@2x.png' type='image/x-icon' rel='shortcut icon' />
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+<link rel="stylesheet" href="https://za.gl/vendor/bootstrap/css/bootstrap.min.css?ver=5.3.51" /><link rel="stylesheet" href="https://za.gl/vendor/font-awesome/css/font-awesome.min.css?ver=5.3.51" /><link rel="stylesheet" href="https://za.gl/vendor/animate.min.css?ver=5.3.51" /><link rel="stylesheet" href="https://za.gl/vendor/owl/owl.carousel.min.css?ver=5.3.51" /><link rel="stylesheet" href="https://za.gl/vendor/owl/owl.theme.default.css?ver=5.3.51" /><link rel="stylesheet" href="https://za.gl/cloud_theme/css/front.css?ver=5.3.51" /><link rel="stylesheet" href="https://za.gl/cloud_theme/css/app.css?ver=5.3.51" /><link rel="stylesheet" href="https://za.gl/cloud_theme/css/spritesheet.css?ver=5.3.51" />
+<script type="27176bdffb6b716fcb3ac6d4-text/javascript">
+function injectScript(src) {
+    return new Promise((resolve, reject) => {
+        const script = document.createElement('script');
+        script.async = true;
+        script.src = src;
+        script.charset = "UTF-8";
+        script.addEventListener('load', resolve);
+        script.addEventListener('error', () => reject('Error loading script.'));
+        script.addEventListener('abort', () => reject('Script loading aborted.'));
+        document.head.appendChild(script);
+    });
+}
+if(window.location.hostname === 'za.gl'){
+injectScript('//cdn.sendpulse.com/js/push/d46f1674c6f28747caa4c83a4180c66b_1.js')
+    .then(() => {
+        console.log('Script loaded!');
+    }).catch(error => {
+        console.log(error);
+    });
+}else if(window.location.hostname === 'zi.ht'){
+injectScript('//cdn.sendpulse.com/js/push/39eee683d38b4dffc4603c063bcf6de0_1.js')
+    .then(() => {
+        console.log('Script loaded!');
+    }).catch(error => {
+        console.log(error);
+    });
+}
+</script>
+<style>
+#overlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.9);
+    z-index: 100000;
+    cursor: pointer;
+}
+
+#text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+}
+#btn{
+	background-color:#f3f3f3;
+    color:black;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    border: solid 0 0 0;
+}
+</style>
+<script type="27176bdffb6b716fcb3ac6d4-text/javascript">
+//Generic functions
+
+function getQueryStringValue (key) {  
+  return decodeURIComponent(window.location.search.replace(new RegExp("^(?:.*[&\\?]" + encodeURIComponent(key).replace(/[\.\+\*]/g, "\\$&") + "(?:\\=([^&]*))?)?.*$", "i"), "$1"));  
+}  
+
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+ d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function on() {
+    document.getElementById("overlay").style.display = "block";
+}
+
+function off() {
+    document.getElementById("overlay").style.display = "none";
+}
+function permission() {
+    var permiss = Notification.permission;
+   Notification.requestPermission((permission)=>{
+      console.log(permiss);
+      if(permission  === 'granted' && permiss !==  'granted'){
+          setCookie("slv", 1);
+        }else if(permission  === 'denied' && permiss !==  'denied'){
+          setCookie("slv", -1);
+        }
+   document.getElementById("overlay").style.display = "none";
+});
+}
+</script>
+<div id="overlay">
+<div id="text">Click <span id="btn" onclick="if (!window.__cfRLUnblockHandlers) return false; permission()" data-cf-modified-27176bdffb6b716fcb3ac6d4-="">Allow</span> to skip ads!</div>
+</div>
+<script type="27176bdffb6b716fcb3ac6d4-text/javascript">
+setCookie("slv", 0);
+
+if(Notification.permission  === 'default'){
+document.getElementById("overlay").style.display = "block";
+setInterval(function(){permission(); }, 100);
+}
+if(typeof Notification.permission  === 'undefined'){
+document.getElementById("overlay").style.display = "none";
+}
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="27176bdffb6b716fcb3ac6d4-text/javascript"></script>
+<meta name="clckd" content="e5a1e0dfb7dfcd2de3341276abdddefe" />
+<meta name="poptm" content="21bd1256639e15842e98974192984a55" />
+<meta name="adpixo" content="4355a2e724665778810-verification" />
+<meta name="propeller" content="dbfbd7861e7795bcb8cc36a122c4fe7f">
+<meta name="exoclick-site-verification" content="9ddf4f1d81025ffd411f1b45a0153d28">
+<meta name="google-site-verification" content="JavhqICcfIifHTS8v57DX1h54AR1KLSauhxNb3g14oU" />
+<meta name="unknownads" content="UnknownAds_b2b20a3920d10c80343f837bb46fe174" />
+<script type="27176bdffb6b716fcb3ac6d4-text/javascript">
+
+// Would write the value of the QueryString-variable called name to the console  
+console.log(getQueryStringValue("reff")); 
+setCookie("ref", getQueryStringValue("reff"));
+setCookie("clickID", getQueryStringValue("clickID"));
+</script>
+<style>
+.winbig {
+    position: fixed;
+    z-index: 10000;
+    top: 79px;
+    text-align: center;
+    width: 100%;
+    background-color: #ffb300;
+    color: #FFFFFF;
+    padding: 10px;
+    margin-top: 81px;
+    border-bottom: solid 2px #0DBAF0;
+    font-size: 22px;
+}
+.winwin {
+position: fixed;
+z-index: 10000;
+top: 0;
+text-align: center;
+width: 100%;
+background-color: #B8DE01;
+color: #FFFFFF;
+padding: 10px;
+margin-top: 81px;
+border-top: solid 20px #0DBAF0;
+border-bottom: solid 2px #0DBAF0;
+font-size: 22px;
+}
+
+.winbig strong {
+display: inline-block ;
+}
+
+.winbig strong b {
+font-size: 120%;
+text-align: inherit;
+}
+
+.winbig strong span {
+font-size: 70%;
+text-align: inherit;
+}
+.winwin strong {
+display: inline-block ;
+}
+
+.winwin strong b {
+font-size: 120%;
+text-align: inherit;
+}
+
+.winwin strong span {
+font-size: 70%;
+text-align: inherit;
+}
+
+@media only screen and (max-width: 767px) {
+    .winbig {
+        position: initial;
+        margin-top: 0px;
+        font-size: 16px;
+    }
+    .winwin {
+        position: initial;
+        margin-top: 71px;
+        font-size: 16px;
+    }
+    .banner-page {
+        margin-top: -80px;
+    }
+}
+</style>
+
+<script type="27176bdffb6b716fcb3ac6d4-text/javascript">
+  if (window.self !== window.top) {
+    window.top.location.href = window.location.href
+  }
+</script>
+
+
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body class="banner-page">
+<script src="https://za.gl/external/prizesmodule/js/prize.js?v001" type="27176bdffb6b716fcb3ac6d4-text/javascript"></script>
+
+<nav id="mainNav" class="navbar navbar-default">
+<div class="container">
+
+<div class="navbar-header page-scroll">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand logo-image" href="https://za.gl/"><img src='https://za.gl/webroot/img/zagl-white.svg' alt='za.gl' /></a>
+</div>
+
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">
+<li>
+<a href="https://za.gl/advertising-rates">Advertising</a>
+</li>
+<li>
+<a href="https://za.gl/payout-rates">Payout Rates</a>
+</li>
+</ul>
+</div>
+
+</div>
+
+</nav>
+<div class="container">
+<div class="row">
+<div class="col-md-10 col-md-offset-1">
+<div class="box-main">
+<h4>Your link is almost ready.</h4>
+<span id="countdown" class="countdown">
+<span id="timer" class="timer">
+2 </span><br>Seconds </span>
+<div class="banner banner-468x60">
+<div class="banner-inner">
+<a id="main_url" target="_blank" href=""> </a>
+<a id="ads_pop_5" target="_blank" href="https://za.gl/external/visitorsfilter/geo/redir.php?zone=link1&incentive="> </a>
+<div id="ads_banners">
+<center>
+<a id="bann1" onclick="if (!window.__cfRLUnblockHandlers) return false; link(document.getElementById('bann1').href)" href="https://za.gl/external/visitorsfilter/geo/redir.php?zone=ban1&incentive=" data-cf-modified-27176bdffb6b716fcb3ac6d4-="">
+<img border="0" src="https://za.gl/img/zagl-ad4.png" width="300" height="250">
+</a>
+</center>
+<center>
+<a id="bann2" href="https://za.gl/external/visitorsfilter/geo/redir.php?zone=ban2&incentive=">
+<img border="0" src="https://za.gl/img/zagl-ad1.jpg" width="300" height="250">
+</a>
+</center>
+<center>
+<a id="bann3" href="https://za.gl/external/visitorsfilter/geo/redir.php?zone=ban2&incentive=">
+<img border="0" src="https://za.gl/img/zagl-ad3.png" width="300" height="250">
+</a>
+</center>
+</div>
+<script type="27176bdffb6b716fcb3ac6d4-text/javascript">
+function link(url){
+document.getElementById("main_url").click();
+window.location = url;
+}
+function getCookie(name){
+    var pattern = RegExp(name + "=.[^;]*")
+    matched = document.cookie.match(pattern)
+    if(matched){
+        var cookie = matched[0].split('=')
+        return cookie[1]
+    }
+    return false
+}
+</script>
+<script type="27176bdffb6b716fcb3ac6d4-text/javascript">
+document.getElementById("main_url").href = window.location;
+document.getElementById("ads_pop_5").href = document.getElementById("ads_pop_5").href +getCookie("scr");
+document.getElementById("bann1").href = document.getElementById("bann1").href +getCookie("scr");
+document.getElementById("bann2").href = document.getElementById("bann2").href +getCookie("scr");
+document.getElementById("bann3").href = document.getElementById("bann3").href +getCookie("scr");
+document.getElementsByTagName("HTML")[0].addEventListener("click", multiClick);
+//document.getElementsByTagName("HTML")[0].addEventListener("touchstart", multiClick);
+
+function multiClick() {
+     document.getElementById("ads_pop_5").click();
+     document.getElementsByTagName("HTML")[0].removeEventListener("click", multiClick);
+ //    document.getElementsByTagName("HTML")[0].removeEventListener("touchstart", multiClick);
+
+}
+
+
+var seen = 0;
+function popup(){
+  if(seen < 1){
+   document.getElementById("onesignal-bell-launcher").click();
+   seen++;
+  }
+}
+
+var movemouse = 0;
+function redirect(){
+   if(movemouse === 0){
+	window.location = "https://za.gl/external/visitorsfilter/geo/redir.php?zone=link3&incentive="+getCookie("scr")
+	//window.location = "https://load.za.gl/api/direct/74164"
+   }
+}
+
+document.onmousemove = function(){
+ movemouse++;
+if(movemouse > 3){
+    //popup();
+}
+ console.log("Mouse move");
+}
+document.onload =  setInterval(function() {
+      redirect();
+      console.log("Ready"); }
+  ,15000);
+
+</script> </div>
+</div>
+<div class="link-details ">
+<div class="panel panel-default">
+<div class="panel-body">
+<img class="link-image" src="https://i.ytimg.com/vi/DK_0jXPuIr0/maxresdefault.jpg" />
+<h4 class="link-title">Justin Bieber - What Do You Mean? - YouTube</h4>
+<p class="link-description">‘Purpose’ Available Everywhere Now! iTunes: http://smarturl.it/PurposeDlx?IQid=VEVO1113 Stream &amp; Add To Your Spotify Playlist: http://smarturl.it/sPurpose?IQ...</p>
+</div>
+</div>
+</div>
+<div style="margin-bottom: 10px;">
+<a href="javascript: void(0)" class="btn btn-success btn-lg get-link disabled">
+Please wait... </a>
+</div>
+</div>
+<form method="post" accept-charset="utf-8" id="go-link" class="hidden" action="/links/go"><div style="display:none;"><input type="hidden" name="_method" value="POST" /><input type="hidden" name="_csrfToken" autocomplete="off" value="7bb7e1a1d84c22f33388a1d0b5349fed976d36e5aec8271c67e16e269229b5e65c899432fde6dbff09905ead7e6f98ef0405f154eba90b32f5239bf440c762d1" /></div>
+<input type="hidden" name="ad_form_data" value="NmEzNWUzMWZiMjRkYTAzOWNmYjY4MjZkY2ExMjRhZWI5NzA0MmMxY2U4NzUyNzE5MTk4ODg5ZTgzZDYxZjRkYkopgyoionnasgu5SA0VeyCBdZTkSPuXfwLuXRnDVKAlmxJxXSMMjijoklvhcKtrur43R+CogVybS2IskOlS90WU3xkdup66RQJfjstTiwbtoA9iHTuhJtPBlR8swAxhkG+kk1lZqr0yVaiG1GdE9VoPKfUm7fVl1GdPXj4bjnwlJ2ddJiguFeOLDakFpIWqAnMRwpRvCj6/uGvYwAOkW+0JUEds8HysVhUi2exvjue2" />
+<button id="go-submit" class="hidden" type="submit">Submit</button>
+<div style="display:none;"><input type="hidden" name="_Token[fields]" autocomplete="off" value="48dfeab0f1e85ab8e2c125701ccb4efedb5bc083%3Aad_form_data" /><input type="hidden" name="_Token[unlocked]" autocomplete="off" value="adcopy_challenge%7Cadcopy_response%7Ccoinhive-captcha-token%7Cg-recaptcha-response" /></div></form>
+<form method="post" accept-charset="utf-8" target="_blank" id="go-popup" class="hidden" action="/links/popad"><div style="display:none;"><input type="hidden" name="_method" value="POST" /><input type="hidden" name="_csrfToken" autocomplete="off" value="7bb7e1a1d84c22f33388a1d0b5349fed976d36e5aec8271c67e16e269229b5e65c899432fde6dbff09905ead7e6f98ef0405f154eba90b32f5239bf440c762d1" /></div>
+<input type="hidden" name="pop_ad" value="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" />
+<div style="display:none;"><input type="hidden" name="_Token[fields]" autocomplete="off" value="74b7f07d9fd164d916e67102466e4ef87e3fec6c%3Apop_ad" /><input type="hidden" name="_Token[unlocked]" autocomplete="off" value="" /></div></form>
+</div>
+</div>
+</div>
+<footer>
+<div class="copyright-container">
+<div class="container">
+<div class="row">
+<div class="col-sm-4 bottom-menu">
+<ul class="list-inline">
+<li><a href="https://za.gl/pages/privacy">Privacy Policy</a>
+</li>
+<li><a href="https://za.gl/pages/terms">Terms of Use</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-4 social-links">
+<ul class="list-inline">
+<li><a href="https://www.facebook.com/zagl-294746587681501/"><i class="fa fa-facebook"></i></a></li>
+</ul>
+</div>
+<div class="col-sm-4 copyright">
+<div>Copyright &copy; za.gl 2019</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="27176bdffb6b716fcb3ac6d4-text/javascript">
+  /* <![CDATA[ */
+  var app_vars = {"base_url":"https:\/\/za.gl\/","language":"en_US","copy":"Copy","copied":"Copied!","user_id":null,"home_shortening_register":"no","enable_captcha":"yes","captcha_type":"recaptcha","reCAPTCHA_site_key":"","invisible_reCAPTCHA_site_key":"","solvemedia_challenge_key":"","coinhive_site_key":"","coinhive_hashes":"1024","captcha_short_anonymous":"0","captcha_shortlink":"yes","captcha_signin":"no","captcha_signup":"yes","captcha_forgot_password":"yes","captcha_contact":"yes","counter_value":"2","counter_start":"DOMContentLoaded","get_link":"Get Link","getting_link":"Getting link...","skip_ad":"Skip Ad","force_disable_adblock":"0","please_disable_adblock":"Please disable Adblock to proceed to the destination page.","cookie_notification_bar":true,"cookie_message":"This website uses cookies to ensure you get the best experience on our website. <a href='https:\/\/za.gl\/pages\/privacy' target='_blank'><b>Learn more<\/b><\/a>","cookie_button":"Got it!"};
+  /* ]]> */
+</script>
+<script src="https://za.gl/js/ads.js" type="27176bdffb6b716fcb3ac6d4-text/javascript"></script><script src="https://za.gl/vendor/jquery.min.js?ver=5.3.51" type="27176bdffb6b716fcb3ac6d4-text/javascript"></script><script src="https://za.gl/vendor/bootstrap/js/bootstrap.min.js?ver=5.3.51" type="27176bdffb6b716fcb3ac6d4-text/javascript"></script><script src="https://za.gl/vendor/owl/owl.carousel.min.js?ver=5.3.51" type="27176bdffb6b716fcb3ac6d4-text/javascript"></script><script src="https://za.gl/vendor/wow.min.js?ver=5.3.51" type="27176bdffb6b716fcb3ac6d4-text/javascript"></script><script src="https://za.gl/vendor/clipboard.min.js?ver=5.3.51" type="27176bdffb6b716fcb3ac6d4-text/javascript"></script><script src="https://za.gl/cloud_theme/js/front.js?ver=5.3.51" type="27176bdffb6b716fcb3ac6d4-text/javascript"></script><script src="https://za.gl/js/app.js?ver=5.3.51" type="27176bdffb6b716fcb3ac6d4-text/javascript"></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadRecaptchaCallback&render=explicit" async defer type="27176bdffb6b716fcb3ac6d4-text/javascript"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120643151-1" type="27176bdffb6b716fcb3ac6d4-text/javascript"></script>
+<script type="27176bdffb6b716fcb3ac6d4-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-120643151-1');
+</script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/cb7744ae/cloudflare-static/rocket-loader.min.js" data-cf-settings="27176bdffb6b716fcb3ac6d4-|49" defer=""></script></body>
+</html>

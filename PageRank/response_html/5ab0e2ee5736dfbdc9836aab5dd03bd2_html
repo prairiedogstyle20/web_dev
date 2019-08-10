@@ -1,0 +1,1244 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" type="image/png" href="/resources/images/favicon.png">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/resources/plugins/uikit/css/uikit.min.css">
+    <link rel="stylesheet" type="text/css" href="/resources/plugins/uikit/css/components/slider.min.css">
+    <link rel="stylesheet" type="text/css" href="/resources/plugins/uikit/css/components/slideshow.min.css">
+    <link rel="stylesheet" type="text/css" href="/resources/css/trunks.min.css">
+    <link rel="stylesheet" type="text/css" href="/resources/css/style.min.css">
+    <link rel="stylesheet" type="text/css" href="/resources/css/tv.min.css ">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,700i|Rubik:300,400,500,700">
+    <link href="https://cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+    <style type="text/css">#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }</style>
+    <link href="/resources/css/mailChimp.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/resources/videoplayer/vast/css/video-player.css">
+    <link rel="stylesheet" type="text/css" href="/resources/plugins/videojs-ima/player-ex.css">
+    <link rel="stylesheet" type="text/css" href="/resources/plugins/videojs-contrib-ads/videojs.ads.css">
+    <link rel="stylesheet" type="text/css" href="/resources/plugins/videojs-ima/videojs.ima.css">
+    <!-- MailChimp-->
+    <script type="text/javascript" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+    <script type="text/javascript">
+      (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
+      
+    </script>
+    <link rel="stylesheet" type="text/css" href="/resources/css/taboola.css ">
+    <link rel="amphtml" href="https://amp.elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria">
+    <script>window.dataLayer = [{"cdFechaPub":"13022019-14:25","cdFechaAct":"13022019-14:25"},{"cdTotalAutor":1,"cdTipoAutor":"Reportero","cdEstatusAutor":"Activo","cdIdAutor":173,"cdAutores":"AP  "},{"cmTotalB1":271,"cmTotalB2":337,"cmTotalB3":219,"cmTotalB4":275,"cmTotalB5":291,"cmTotalB6":90,"cmTotalB7":209,"cmTotalB8":187,"cmTotalB9":253,"cmTotalB10":185,"cmTotalB11":226,"cmTotalB12":153,"cmTotalB13":149,"cmTotalB14":156,"cmTotalB15":205,"cmTotalB16":201,"cdTotalCaracteres":3407},{"cdTotalElemento":16,"cdTipoElemento":"Texto - Texto - Texto - Texto - Texto - Texto - Texto - Texto - Texto - Texto - Texto - Texto - Texto - Texto - Texto - Texto"},{"cgSeccion":"Mundo","cgSubSeccion":"Contenido"},{"cgElement":"image","cgSubElement":"8-columns"}]</script>
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)
+      })(window,document,'script','dataLayer','GTM-PQSN8R3')
+      
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="/resources/plugins/videojs-ima/video.min.js"></script>
+    <script src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+    <script src="https://googleads.github.io/videojs-ima/node_modules/videojs-contrib-ads/dist/videojs.ads.min.js"></script>
+    <script src="https://googleads.github.io/videojs-ima/dist/videojs.ima.js"></script>
+    <script>
+      function udm_(e) {
+        var autor = self.dataLayer[1].cdAutores;
+        var t = "comScore=",
+          n = document,
+          r = n.cookie,
+          i = "",
+          s = "indexOf",
+          o = "substring",
+          u = "length",
+          a = 2048,
+          f, l = "&ns_",
+          c = "&",
+          h, p, d, v, m = window,
+          g = m.encodeURIComponent || escape;
+        if (r[s](t) + 1)
+          for (d = 0, p = r.split(";"), v = p[u]; d < v; d++) h = p[d][s](t), h + 1 && (i = c + unescape(p[d][o](h + t[u])));
+        e += l + "_t=" + +(new Date) + l + "c=" + (n.characterSet || n.defaultCharset || "") + "&c8=" + g(n.title) + i + "&c7=" + g(n.URL) + "&autor=" + autor + "&c9=" + g(n.referrer), e[u] > a && e[s](c) > 0 && (f = e[o](0, a - 8).lastIndexOf(c), e = (e[o](0, f) + l + "cut=" + g(e[o](f + 1)))[o](0, a)), n.images ? (h = new Image, m.ns_p || (ns_p = h), h.src = e) : n.write("<", "p", "><", 'img src="', e, '" height="1" width="1" alt="*"', "><", "/p", ">")
+      };
+        udm_('https://sb.scorecardresearch.com/b?c1=2&c2=10181342&ns_site=elfinanciero&name=mundo.trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria&scroll=0');
+      
+    </script>
+    <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "10181342" });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+      
+    </script>
+    <noscript><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=10181342&amp;cv=2.0&amp;cj=1"></noscript>
+    <script src="/resources/js/EF.js"></script>
+    <!--Vast-->
+    <script src="/resources/js/vast.js"></script>
+    <link rel="manifest" href="/manifest.json">
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+      var OneSignal = window.OneSignal || [];
+      OneSignal.push(function() {
+      OneSignal.init({
+      appId: "43ac3dc6-8a02-44da-81a1-b30deedf655e",
+      });
+      });
+      
+    </script>
+    <script>
+      var page_counter = 1;
+      
+    </script>
+    <!--script.-->
+    <!--  (function(i) {-->
+    <!--    var ts = document.createElement('script');-->
+    <!--    ts.type = 'text/javascript';-->
+    <!--    ts.async = true;-->
+    <!--    ts.src = ('https:' == document.location.protocol ? 'https://' :-->
+    <!--    'http://') + 'tags.t.tailtarget.com/t3m.js?i=' + i;-->
+    <!--    var s = document.getElementsByTagName('script')[0];-->
+    <!--    s.parentNode.insertBefore(ts, s);-->
+    <!--  })('TT-11608-4/CT-621/CA10187/CA10297/CA10453/CA13115/CA13831/CA13904/CA13905/CA15129/CA15152/CA15202/CA15666/CA15667/CA15669/CA15671/CA15672/CA15673/CA16763/CA16767/CA16768/CA16769/CA16844/CA17382/CA17573/CA17574/CA17663/CA17664/CA17665/CA17666/CA17667/CA17668/CA17669/CA17670/CA17671/CA17672/CA17673/CA17674/CA17675/CA17676/CA17677/CA17678/CA17679/CA17680/CA17681/CA17682/CA17683/CA17684/CA17685/CA17686/CA17687/CA17688/CA17689/CA17690/CA17691/CA17692/CA17693/CA17694/CA17695/CA17696/CA17697/CA17698/CA17699/CA17700/CA17701/CA17702/CA17703/CA17704/CA17705/CA17706/CA17707/CA17708/CA17709/CA17710/CA17711/CA17722/CA17724/CA17726/CA17729/CA17730/CA17731/CA17732/CA17733/CA17734/CA17735/CA17736/CA17737/CA17738/CA17739/CA17740/CA17741/CA17742/CA17743/CA17744/CA17745/CA18022/CA18023/CA18024/CA18025/CA18026/CA18028/CA18029/CA18245/CA18246/CA18247/CA18248/CA18251/CA6604/CA6605/CA6659/CA6661/CA6662/CA6689/CA6690/CA6825/CA6826/CA7234/CA7235/CA7236/CA7237/CA9609/CA9615/CA9621');-->
+    <!--script.-->
+    <!--  EF.client.loadScript(-->
+    <!--    '//tags.t.tailtarget.com/t3m.js?i=TT-11608-4/CT-621/CA10187/CA10297/CA10453/CA13115/CA13831/CA13904/CA13905/CA15129/CA15152/CA15202/CA15666/CA15667/CA15669/CA15671/CA15672/CA15673/CA16763/CA16767/CA16768/CA16769/CA16844/CA17382/CA17573/CA17574/CA17663/CA17664/CA17665/CA17666/CA17667/CA17668/CA17669/CA17670/CA17671/CA17672/CA17673/CA17674/CA17675/CA17676/CA17677/CA17678/CA17679/CA17680/CA17681/CA17682/CA17683/CA17684/CA17685/CA17686/CA17687/CA17688/CA17689/CA17690/CA17691/CA17692/CA17693/CA17694/CA17695/CA17696/CA17697/CA17698/CA17699/CA17700/CA17701/CA17702/CA17703/CA17704/CA17705/CA17706/CA17707/CA17708/CA17709/CA17710/CA17711/CA17722/CA17724/CA17726/CA17729/CA17730/CA17731/CA17732/CA17733/CA17734/CA17735/CA17736/CA17737/CA17738/CA17739/CA17740/CA17741/CA17742/CA17743/CA17744/CA17745/CA18022/CA18023/CA18024/CA18025/CA18026/CA18028/CA18029/CA18245/CA18246/CA18247/CA18248/CA18251/CA6604/CA6605/CA6659/CA6661/CA6662/CA6689/CA6690/CA6825/CA6826/CA7234/CA7235/CA7236/CA7237/CA9609/CA9615/CA9621',-->
+    <!--    { async: true },-->
+    <!--    function () {-->
+    <!--      var getTailTargetParam = function(a) {-->
+    <!--        var ttCookieName = "_ttdmp";-->
+    <!--        if (!window._ttprofilescache) {-->
+    <!--          window._ttprofilescache = {};-->
+    <!--          try {-->
+    <!--            var c = document.cookie.match('(^|;)\\s*' + ttCookieName + '\\s*=\\s*([^;]+)');-->
+    <!--            var d = c ? c.pop().split('|') : [];-->
+    <!--            for (var i = 0; i < d.length; i++) {-->
+    <!--              var kv = d[i].split(":");-->
+    <!--              if (kv[1] && kv[1].indexOf(",") > 0) {-->
+    <!--                window._ttprofilescache[kv[0]] = kv[1].split(",");-->
+    <!--              } else {-->
+    <!--                window._ttprofilescache[kv[0]] = kv[1];-->
+    <!--              }-->
+    <!--            }-->
+    <!--          } catch (e) {-->
+    <!--          }-->
+    <!--        }-->
+    <!--        return window._ttprofilescache[a] ? window._ttprofilescache[a] : 'na';-->
+    <!--      };-->
+    <!--      window.EF.ads.kv = {-->
+    <!--        "ttLS": getTailTargetParam('LS'),-->
+    <!--        "ttS": getTailTargetParam('S'),-->
+    <!--        "ttT": getTailTargetParam('T'),-->
+    <!--        "ttC": getTailTargetParam('C'),-->
+    <!--        "ttU": getTailTargetParam('U'),-->
+    <!--        "ttCA": getTailTargetParam('CA'),-->
+    <!--        "ttE": getTailTargetParam('E'),-->
+    <!--        "ttA": getTailTargetParam('A'),-->
+    <!--        "ttG": getTailTargetParam('G')-->
+    <!--      }-->
+    <!--  })-->
+    <title>Trump califica de 'terrible error' rechazo de Maduro a  ayuda humanitaria</title>
+    <link href="https://www.elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria" rel="canonical">
+    <script data-schema="WebPage" type="application/ld+json">  {"@type":"WebPage","@context":"https://schema.org","@id":"https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria"}</script>
+    <script data-schema="Organization" type="application/ld+json">  {"@type":"Organization","@context":"https://schema.org","name":"El Financiero","url":"https://elfinanciero.com.mx","logo":{"@type":"ImageObject","url":"https://elfinanciero.com.mx/images/logo24.png","width":600,"height":60},"sameAS":["https://www.facebook.com/ElFinancieroMx","https://twitter.com/ElFinanciero_Mx","https://plus.google.com/+elfinanciero","https://www.youtube.com/user/FinancieroMexico"]}</script>
+    <script data-schema="NewsArticle" type="application/ld+json">  {"@type":"NewsArticle","@id":"https://elfinanciero.com.mx/mundo","mainEntityOfPage":"https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria","@context":"https://schema.org","headline":"Trump califica de 'terrible error' rechazo de Maduro a  ayuda humanitaria","description":"En el marco de la visita oficial de Iván Duque, presidente de Colombia, a la Casa Blanca, el mandatario de EU aseguró que su administración tiene varios planes de contingencia para Venezuela.","datePublished":"2019-02-13 14:25:12","dateModified":"2019-02-13 14:25:12","articleBody":"El presidente de Estados Unidos, Donald Trump, afirmó este miércoles que la negativa del mandatario venezolano Nicolás Maduro de aceptar la ayuda humanitaria enviado al país es un \"error terrible\" que demuestra lo que sucede cuando el gobierno equivocado tiene el poder.\r\"Creo que está cometiendo un error terrible al no permitir la ayuda humanitaria. Esto demuestra lo mal que están las cosas y, realmente, estamos tratando de llevarle comida a gente que se está muriendo de hambre. Hay gente muriéndose de hambre en Venezuela y eso demuestra lo que pasa cuando el gobierno equivocado tiene el poder\", dijo.\rTrump hizo los comentarios durante una reunión en la Casa Blanca con el presidente colombiano, Iván Duque, quien también fustigó a Maduro. Duque acusó al mandatario venezolano de cometer un crimen contra la humanidad.\r\rEl mandatario de EU pareció insinuar nuevas medidas internacionales contra Maduro, quien ha bloqueado envíos de ayuda para el país devastado por la crisis, alegando que esa asistencia forma parte de un intento de golpe de Estado dirigido por Estados Unidos para derrocarlo.\r\rLa Unión Americana y otros países quieren que Maduro renuncie y han reconocido al líder de la oposición, Juan Guaidó, presidente de la Asamblea Nacional, como el mandatario legítimo de Venezuela, debido a que consideran fraudulentas las elecciones de 2018 en que Maduro se declaró ganador. Los venezolanos han realizado grandes protestas para presionar a Maduro a dejar el cargo.\r\rGuaidó dijo esta semana que intentará dirigir las caravanas con los muy necesitados alimentos y medicamentos a Venezuela, pero que el traslado no comenzará hasta dentro de casi dos semanas, el 23 de febrero. \rLa turbulencia política y económica en Venezuela ha causado escasez de productos básicos y ha obligado a millones de venezolanos a huir de su país, muchos de ellos a la vecina Colombia.\r\rCuando se le preguntó a si Estados Unidos tiene algún plan en reserva para el caso de que Maduro se aferre al poder, Trump respondió: \"Yo siempre tengo un Plan B y C y D y E y F... Hay muchas cosas que están pasando en Venezuela que la gente no sabe\".\r\rEn una comparecencia en la Oficina Oval de la Casa Blanca con Duque, Trump declaró que muchos países quieren ayudar a Venezuela: \"Vamos a ver mucha actividad en las próximas semanas\".\r\rTrump insistió en que Maduro se equivoca al negarle asistencia humanitaria a su propio pueblo. Aseveró que Maduro ha logrado obstruir solo un puente que podría ser usado para transportar los materiales, pero no otros cruces.\rPor otra parte, \rDuque se comprometió públicamente para hacer que la ayuda, que está en almacenes en la zona fronteriza con Colombia, entre a Venezuela.\r\rEn otro tema importante para Estados Unidos y Colombia, Trump se quejó ante Duque por la cantidad de drogas que entran a territorio estadounidense. Colombia es el principal exportador de cocaína del mundo y el crecimiento de sus cosechas de coca en año recientes ha causado tensiones con Estados Unidos.\r\r\"Estamos trabajando juntos para que Colombia erradique algo de lo que está cultivando\", señaló Trump. \"Yo no diría que están adelantados en sus labores, pero esperamos que lo estén en el futuro cercano\".\r\rDuque defendió su administración, afirmando que se han erradicado más cosechas de coca en los primeros cuatro meses de su período que en los ocho meses previos a su ascenso al poder en agosto de 2018.","publisher":{"@type":"Organization","@context":"https://schema.org","name":"El Financiero","url":"https://elfinanciero.com.mx","logo":{"@type":"ImageObject","url":"https://elfinanciero.com.mx/images/logo24.png","width":600,"height":60},"sameAS":["https://www.facebook.com/ElFinancieroMx","https://twitter.com/ElFinanciero_Mx","https://plus.google.com/+elfinanciero","https://www.youtube.com/user/FinancieroMexico"]},"author":{"@type":"Organization","name":"El Financiero"},"image":{"@type":"ImageObject","@id":"??","representativeOfPage":"https://schema.org/True","url":"https://elfinanciero.com.mx/uploads/2019/02/13/3b24156ad51550089336_standard_desktop_fullhd.jpeg","contentUrl":"https://elfinanciero.com.mx/uploads/2019/02/13/3b24156ad51550089336_standard_desktop_fullhd.jpeg","description":"Iván Duque y Donald Trump, presidentes de Colombia y EU","width":null,"height":null},"dateCreated":"2019-02-13 14:20:51","articleSection":"Mundo","creator":["AP "],"keywords":["Venezuela","Nicolás Maduro","Ayuda humanitaria","Donald Trump","Iván Duque"]}</script>
+    <!-- Facebook OpenGraph-->
+    <meta property="og:site_name" content="El Financiero">
+    <meta property="og:url" content="https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Trump califica de 'terrible error' rechazo de Maduro a  ayuda humanitaria">
+    <meta property="og:description" content="En el marco de la visita oficial de Iván Duque, presidente de Colombia, a la Casa Blanca, el mandatario de EU aseguró que su administración tiene varios planes de contingencia para Venezuela.">
+    <meta property="og:image" content="https://elfinanciero.com.mx/uploads/2019/02/13/3b24156ad51550089336_standard_desktop_fullhd.jpeg">
+    <meta property="og:image:width">
+    <meta property="og:image:height">
+    <meta property="og:image:url" content="https://elfinanciero.com.mx/uploads/2019/02/13/3b24156ad51550089336_standard_desktop_fullhd.jpeg">
+    <meta property="fb:app_id" content="1063568587023463">
+    <meta property="fb:pages" content="16250043914">
+    <!-- Twitter card-->
+    <meta property="twitter:creator" content="@ElFinanciero_Mx">
+    <meta property="twitter:url" content="https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:site" content="@ElFinanciero_Mx">
+    <meta property="twitter:title" content="Trump califica de 'terrible error' rechazo de Maduro a  ayuda humanitaria">
+    <meta property="twitter:description" content="En el marco de la visita oficial de Iván Duque, presidente de Colombia, a la Casa Blanca, el mandatario de EU aseguró que su administración tiene varios planes de contingencia para Venezuela.">
+    <meta property="twitter:image:src" content="https://elfinanciero.com.mx/uploads/2019/02/13/3b24156ad51550089336_standard_desktop_fullhd.jpeg">
+    <meta property="twitter:image:width">
+    <meta property="twitter:image:height">
+    <!-- SEO-->
+    <meta name="description" content="En el marco de la visita oficial de Iván Duque, presidente de Colombia, a la Casa Blanca, el mandatario de EU aseguró que su administración tiene varios planes de contingencia para Venezuela.">
+    <meta name="thumbnail" content="https://elfinanciero.com.mx/uploads/2019/02/13/3b24156ad51550089336_standard_desktop_fullhd.jpeg">
+    <meta name="section" content="mundo">
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript)-->
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQSN8R3" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript)-->
+    <script>
+      // <![CDATA[
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      //- udm_('http'+(document.location.href.charAt(4)=='s'?'s://sb':'://b')+'.scorecardresearch.com/b?c1=2&c2=10181342&ns_site=su-sitio&name=directory.page');
+      // ]]>
+      
+    </script>
+        <div class="ad-slot" id="nota_oop" data-adtype="nota.oop"></div>
+    <div class="top-ad-space">
+      <div class="container">
+        <div class="ad-holder">
+          <div class="is-super-banner">
+                <div class="ad-slot top-banner is-hidden-touch" id="home_top" data-adtype="home.top"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="top-header-wrapper">
+      <div class="top-header" id="top-header">
+        <div class="top-search">
+          <div class="container">
+            <div class="columns is-multiline">
+              <div class="column is-12 has-text-right"><a class="close-search"><i class="fas fa-times"></i></a></div>
+              <div class="column is-12">
+                <input class="search-field" type="text" placeholder="Buscar">
+              </div>
+              <div class="column is-12 is-hidden-touch help">ESCRIBE LA BÚSQUEDA Y PRESIONA ENTER</div>
+            </div>
+          </div>
+        </div>
+        <div class="date is-hidden-touch">
+          <script>
+            var meses = new Array("Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre");
+            var f = new Date();
+            var mes = meses[f.getMonth()];
+            var dd = f.getDate();
+            if (dd < 10) {
+              dd = '0' + dd
+            }
+            document.write(dd + " / " + mes.toUpperCase() + " / " + f.getFullYear());
+          </script>
+        </div>
+        <div class="social is-hidden-touch"><a href="javascript: void(0)" onclick="PopupCenter(&quot;https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/ElFinancieroMx&quot;, &quot;El Financiero | Bloomberg&quot;,548, 325)"><i class="fab fa-facebook-square"></i></a><a href="javascript: void(0)" onclick="PopupCenter(&quot;https://twitter.com/intent/tweet?text=El Financiero Vía @ElFinanciero_Mx&amp;amp;url=https://twitter.com/ElFinanciero_Mx&quot;,&quot;El Financiero | Bloomberg&quot;, 548, 325)"><i class="fab fa-twitter"></i></a><a href="javascript: void(0)" onclick="PopupCenter(&quot;https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.linkedin.com/company/90169/&quot;,&quot;El Financiero | Bloomberg&quot;, 548, 325)"><i class="fab fa-linkedin-in"></i></a><a href="javascript: void(0)" onclick="PopupCenter(&quot;https://plus.google.com/+elfinanciero&quot;, &quot;El Financiero | Bloomberg&quot;,450,525)"><i class="fab fa-google-plus-g"></i></a></div>
+        <div class="search-button"><a><i class="fas fa-search"></i></a></div>
+        <div class="touch-menu-trigger is-hidden-desktop"><a id="touch-menu-trigger"><img src="/resources/images/touch-menu-trigger.svg"></a></div>
+        <div class="logo"><a href="/">
+            <picture>
+              <source srcset="/resources/images/img_menu/svg/logo_mobile.svg" media="(max-width: 767px)">
+              <source srcset="/resources/images/img_menu/svg/logo.svg" media="(min-width: 768px)"><img src="/resources/images/img_menu/png/logo.png">
+            </picture></a>
+          <div class="main-menu is-hidden-touch">
+            <ul>
+              <li class="is-hidden-desktop-medium"><a href="/economia">ECONOMÍA</a></li>
+              <li><a href="/mercados">MERCADOS</a></li>
+              <li><a href="/opinion">OPINIÓN</a></li>
+              <li><a href="/nacional">NACIONAL</a></li>
+              <li><a href="/tv">TV</a></li>
+              <li id="full-menu-trigger"><a>· · ·</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="full-menu" id="full-menu">
+          <div class="back"></div>
+          <div class="container">
+            <div class="columns is-multiline is-menu-row">
+              <div class="column is-3-desktop is-6-tablet is-12-mobile">
+                <ul class="primary is-hidden-tablet">
+                  <!--li-->
+                  <!--  a(href='/transicion') Transición-->
+                  <li><a href="/economia">Economía</a></li>
+                  <li><a href="/empresas">Empresas</a></li>
+                  <li><a href="/mercados">Mercados</a></li>
+                  <li><a href="/nacional">Nacional</a></li>
+                  <li><a href="/opinion">Opinión</a></li>
+                  <li><a href="/tv">Televisión</a></li>
+                  <li><a href="/bloomberg-businessweek">Bloomberg Businessweek</a></li>
+                  <li><a href="/tech">Tech</a></li>
+                  <li><a href="/peninsula">Península</a></li>
+                  <li><a href="https://www.nacion321.com">Nacion 321</a></li>
+                </ul>
+                <ul class="primary is-hidden-mobile">
+                  <li><a href="/mercados">Mercados</a></li>
+                  <li><a href="/economia">Economía</a></li>
+                  <li><a href="/empresas">Empresas</a></li>
+                  <li><a href="/bloomberg-businessweek">Bloomberg Businessweek</a></li>
+                  <li><a href="/bloomberg">Bloomberg</a></li>
+                  <li><a href="/mis-finanzas">Mis Finanzas</a></li>
+                  <li><a href="/tlcan">TLCAN</a></li>
+                </ul>
+                <ul class="secondary is-hidden-mobile">
+                  <li><a href="/financial-times">Financial Times</a></li>
+                  <li><a href="/franquicias">Franquicias</a></li>
+                  <li><a href="/pyme">PyME</a></li>
+                </ul>
+              </div>
+              <div class="column is-3-desktop is-6-tablet is-hidden-mobile">
+                <ul class="secondary">
+                  <!--li-->
+                  <!--  a(href='/transicion') Transición-->
+                  <li><a href="/nacional">Nacional</a></li>
+                  <li><a href="/mundo">Mundo</a></li>
+                  <li><a href="/bajio">Bajío</a></li>
+                  <li><a href="/monterrey">Monterrey</a></li>
+                  <li><a href="/encuestas">Encuestas</a></li>
+                  <li><a href="/peninsula">Península </a></li>
+                  <li class="is-nacion"><a href="https://www.nacion321.com/" target="_blank"><img src="/resources/images/nacion321.svg"></a></li>
+                </ul>
+              </div>
+              <div class="column is-3-desktop is-6-tablet is-hidden-mobile is-opinion">
+                <ul class="secondary">
+                  <li><a href="/opinion">Opinión</a></li>
+                  <li><a href="/opinion/enrique-quintana">Enrique Quintana</a></li>
+                  <li><a href="/opinion/raymundo-riva-palacio">Raymundo Riva Palacio</a></li>
+                  <li><a href="/opinion/pablo-hiriart">Pablo Hiriart</a></li>
+                  <li><a href="/opinion/jonathan-ruiz">Jonathan Ruiz</a></li>
+                  <li><a href="/opinion/salvador-camarena">Salvador Camarena</a></li>
+                  <li><a href="/opinion/macario-schettino">Macario Schettino</a></li>
+                  <li><a href="/opinion/javier-risco">Javier Risco</a></li>
+                  <li><a href="/opinion/victor-piz">Víctor Piz</a></li>
+                  <li><a href="/blogs">Blogs</a></li>
+                </ul>
+              </div>
+              <div class="column is-3-desktop is-6-tablet is-hidden-mobile is-efbtv">
+                <ul class="secondary">
+                  <li><a href="/tv"><img src="/resources/images/logo-elfinanciero-bloombergtv-morado.svg"></a></li>
+                  <li><a href="/tv/al-cierre">Al Cierre</a></li>
+                  <li><a href="/tv/la-nota-dura">La Nota Dura</a></li>
+                  <li><a href="/tv/la-silla-roja">La Silla Roja</a></li>
+                  <li><a href="/tv/en-ef-y-por-adela">En EF y por Adela</a></li>
+                  <li><a href="/tv/bitacora-politica">Bitácora política</a></li>
+                  <li><a href="/tv/mesa-central">Mesa Central</a></li>
+                  <li><a href="/tv/ganadores-y-perdedores">Ganadores y perdedores</a></li>
+                  <li><a href="/tv/al-sonar-la-campana">Al sonar la campana</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="columns is-multiline is-menu-row is-hidden-touch">
+              <div class="column is-3">
+                <ul class="secondary">
+                  <li><a href="/buena-vida">Buena Vida</a></li>
+                  <li><a href="/culturas">Culturas</a></li>
+                  <li><a href="/deportes">Deportes</a></li>
+                  <li><a href="/reflector">Reflector</a></li>
+                  <li><a href="/viajes">Viajes</a></li>
+                </ul>
+              </div>
+              <div class="column is-3">
+                <ul class="secondary">
+                  <li><a href="/tech">Tech</a></li>
+                  <li><a href="/management">Management</a></li>
+                  <li><a href="/emprendedores">Emprendedores</a></li>
+                  <li><a href="/millonarios">Millonarios</a></li>
+                  <li><a href="/rankings">Rankings</a></li>
+                </ul>
+              </div>
+              <div class="column is-3">
+                <ul class="secondary">
+                  <li><a href="/relojes">Relojes</a></li>
+                  <li><a href="/ciencia">Ciencia</a></li>
+                  <li><a href="/autos">Autos</a></li>
+                  <li><a href="/sibarita">Sibarita</a></li>
+                  <li><a href="/interactivos">Interactivos</a></li>
+                </ul>
+              </div>
+              <div class="column is-3">
+                <ul class="secondary">
+                  <li><a href="/mundo-empresa">Mundo Empresa</a></li>
+                  <li><a href="/sponsor">Sponsor</a></li>
+                  <li><a href="/suplementos">Suplementos</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="columns is-multiline">
+              <div class="column is-hidden-mobile is-12-tablet is-6-desktop is-suscribe blue-row">
+                <ul>
+                  <li><a>SUSCRÍBETE A</a></li>
+                  <li><a href="https://suscripciones.elfinanciero.com.mx/elite/">EL FINANCIERO</a></li>
+                  <li><a href="https://www.elfinanciero.com.mx/paper">E-PAPER</a></li>
+                  <li><a href="https://elfinanciero.us3.list-manage.com/subscribe/post?u=2a454344b7602a35ca7370f67&amp;id=e6327f446b">NEWSLETTER</a></li>
+                  <li><a href="https://suscripciones.elfinanciero.com.mx/elite/">BUSINESSWEEK</a></li>
+                </ul>
+              </div>
+              <div class="column is-12-mobile is-6-tablet is-3-desktop is-app white-row">
+                <ul>
+                  <li><a>DESCARGAR APP</a></li>
+                  <li><a href="https://itunes.apple.com/mx/app/el-financiero/id668730716?mt=8"><i class="fab fa-apple on-left"></i>iOS</a></li>
+                  <li><a href="https://play.google.com/store/apps/details?id=com.mx.grupolauman.elfinanciero"><i class="fab fa-android on-left"></i>Android</a></li>
+                </ul>
+              </div>
+              <div class="column is-12-mobile is-6-tablet is-3-desktop is-networks white-row">
+                <ul>
+                  <li><a>REDES</a></li>
+                  <li><a href="javascript: void(0)" onclick="PopupCenter(&quot;https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/ElFinancieroMx&quot;, &quot;El Financiero | Bloomberg&quot;,548, 325)"><i class="fab fa-facebook-square"></i></a></li>
+                  <li><a href="javascript: void(0)" onclick="PopupCenter(&quot;https://twitter.com/intent/tweet?text=El Financiero Vía @ElFinanciero_Mx&amp;amp;url=https://twitter.com/ElFinanciero_Mx&quot;,&quot;El Financiero | Bloomberg&quot;, 548, 325)"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="javascript: void(0)" onclick="PopupCenter(&quot;https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.linkedin.com/company/90169/&quot;,&quot;El Financiero | Bloomberg&quot;, 548, 325)"><i class="fab fa-linkedin-in"></i></a></li>
+                  <li><a href="javascript: void(0)" onclick="PopupCenter(&quot;https://plus.google.com/+elfinanciero&quot;, &quot;El Financiero | Bloomberg&quot;,450,525)"><i class="fab fa-google-plus-g"></i></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <script>
+            function PopupCenter(url, title, w, h) {
+              // Fixes dual-screen position                         Most browsers      Firefox
+              var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : window.screenX;
+              var dualScreenTop = window.screenTop != undefined ? window.screenTop : window.screenY;
+            
+              var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+              var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+            
+              var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+              var top = ((height / 2) - (h / 2)) + dualScreenTop;
+              var newWindow = window.open(url, title, 'scrollbars=yes, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+            
+              // Puts focus on the newWindow
+              if (window.focus) {
+                  newWindow.focus();
+              }
+            }
+          </script>
+        </div>
+      </div>
+    </div>
+    <script>
+      function PopupCenter(url, title, w, h) {
+        // Fixes dual-screen position                         Most browsers      Firefox
+        var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : window.screenX;
+        var dualScreenTop = window.screenTop != undefined ? window.screenTop : window.screenY;
+      
+        var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+        var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+      
+        var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+        var top = ((height / 2) - (h / 2)) + dualScreenTop;
+        var newWindow = window.open(url, title, 'scrollbars=yes, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+      
+        // Puts focus on the newWindow
+        if (window.focus) {
+            newWindow.focus();
+        }
+      }
+      var env = "https://api.elfinanciero.com.mx/public"
+        $.ajax({
+          url: env+'/notas/breaking-news',
+          method: 'GET',
+          dataType: 'JSON',
+        }).done(function(response){
+          var data = response.data[0]
+          var slug = '/'+data.slug;
+          var facebookSlug = 'https://www.facebook.com/sharer/sharer.php?u=https://elfinanciero.com.mx' + slug;
+          var twitterSlug = 'https://twitter.com/intent/tweet?url=https://elfinanciero.com.mx' + slug + '&text=' + encodeURIComponent(data.title) + '&via=ElFinanciero_Mx';
+          var whatsSlug = 'whatsapp://send?text=https://elfinanciero.com.mx' + slug;
+          $(".header-breaking-news").addClass("there-is-breaking");
+          $(".header-breaking-news .column.is-11 .slug").html(data.title);
+          $("a[href='breaking']").attr('href', slug);
+          $("a[href='twitter']").attr('href', twitterSlug);
+          $("a[href='facebook']").attr('href', facebookSlug);
+          $("a[href='whatsapp']").attr('href', whatsSlug);
+        }).fail(function(response){
+          console.log();
+        });
+      
+    </script>
+    <div class="header-breaking-news">
+      <div class="container">
+        <div class="columns is-multiline is-mobile">
+          <div class="column is-11"><a class="slug" href="breaking">Breaking News</a><a class="break-twitter social" href="twitter" target="_blank"><i class="fab fa-twitter"></i></a><a class="break-facebook social" href="facebook" target="_blank"><i class="fab fa-facebook-square"></i></a><a class="break-whatsapp social is-hidden-tablet" href="whatsapp" target="_blank"><i class="fab fa-whatsapp-square"></i></a></div>
+          <div class="column is-1 has-text-right"><a class="close-bn"><i class="fas fa-times"></i></a>
+            <script>
+              $(".close-bn").click(function() {
+              $(".header-breaking-news").slideUp(200);
+              });
+              
+              
+              
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      $("#full-menu-trigger").ready(function() {
+        var timer;
+        var mTrigger = [$("#full-menu-trigger"), $("#full-menu")];
+        $.each(mTrigger, function() {
+          $(this).mouseleave(function() {
+            timer = setTimeout(function() {
+              $("#full-menu").slideUp(200);
+            }, 200);
+          });
+          $(this).mouseenter(function() {
+            clearInterval(timer);
+            $("#full-menu").slideDown(200);
+          });
+        });
+      });
+      
+      $("#touch-menu-trigger").click(function() {
+        $("#full-menu").slideToggle(200, function() {
+          if($(".top-search").css("display") == "block") {
+            $(".top-search").slideUp(200);
+          }
+        });
+      });
+      
+      $(".search-button").click(function() {
+        $(".top-search").slideToggle(200, function() {
+          if($(".top-search").css("display") == "block") {
+            $("#full-menu").slideUp(200);
+            $(".top-search").find("input").focus();
+          }
+        });
+      });
+      
+      $(".top-search").find(".close-search").click(function() {
+        $(".top-search").slideUp(200);
+      });
+      
+      
+      var hasStickyTopHeader = true;
+    </script>
+    <style>.figure__block:before {
+  content: '';
+  height: 5px;
+  width: 33%;
+  display: block;
+  background-color: #000000;
+  margin-bottom: 1.75rem;
+}
+.figure__block {
+  font-size: 3.75rem;
+  line-height: 3.625rem;
+  font-family: 'Geomanist';
+  font-weight: bold;
+  color: #111111;
+  margin-bottom: 15px;
+}
+.figure__block .figure__context {
+  font-weight: normal;
+  font-size: 1.5625rem;
+  line-height: 2.125rem;
+}
+.quote__block {
+  font-family: 'Geomanist';
+  font-weight: bold;
+  color: #000000;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  margin-bottom: 1rem;
+}
+.quote__block .quote__open {
+  color: #e6e6e6;
+  font-size: 10.625rem;
+  font-family: 'Geomanist';
+  font-weight: bold;
+  line-height: 10.625rem;
+  margin-bottom: -9rem;
+}
+.quote__block .quote__credit {
+  color: #666666;
+  font-weight: 400;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+}
+.quote__credit .name {
+  color: #444444;
+}
+.quote__credit .context {
+  display: block;
+}
+.-side {
+  float: left;
+  width: calc(60% + 1rem);
+  margin-right: 0.75rem;
+  margin-bottom: 0.75rem;
+  margin-left: calc(-20% - 1rem);
+  padding: 0 0.75rem;
+}
+.rich__block,
+.image__block {
+  margin-bottom: 0.75rem;
+  line-height: 1em;
+}
+.image__block figure {
+  margin-bottom: 0.3125rem;
+}
+@media screen and (min-width: 1441px) {
+  .-side {
+    width: calc(66.6666% + 1rem);
+    margin-left: calc(-33.3333% - 1.25rem);
+  }
+}
+@media screen and (min-width: 1008px) and (max-width: 1440px) {
+  .-side {
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1007px) {
+  .-side {
+  }
+}
+@media screen and (max-width: 767px) {
+  .-side {
+    float: none;
+    width: calc(100% + 1.5rem);
+    margin-left: -0.75rem !important;
+    margin-right: 0;
+  }
+}
+.element__footer {
+  font-family: 'Geomanist', sans-serif;
+  font-weight: normal;
+  color: #444;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  margin-top: 0.4375rem;
+  margin-right: 0.3rem;
+}
+.element__credit {
+  font-family: 'Geomanist', sans-serif;
+  font-weight: normal;
+  color: #666;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+}
+
+/** Mobile **/
+@media screen and (max-width: 767px) {
+  .image__block figure {
+    margin-bottom: 0.4285rem;
+  } /** Add Class **/
+  .element__footer {
+    font-size: 0.9285rem;
+    line-height: 1.2142rem;
+  } /** Add Class **/
+}
+
+.teads-resize {
+  float: left;
+}
+
+    </style>
+    <div class="article-top-header" data-uk-sticky="{top:-100, animation: 'uk-animation-slide-top'}">
+      <div class="article-top-search">
+        <div class="container">
+          <div class="columns is-multiline">
+            <div class="column is-12 has-text-right"><a class="close-search"><i class="fas fa-times"></i></a></div>
+            <div class="column is-12">
+              <input class="search-field" type="text" placeholder="Buscar">
+            </div>
+            <div class="column is-12 is-hidden-touch help">ESCRIBE LA BÚSQUEDA Y PRESIONA ENTER</div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="ef-logo"><a href="/">
+            <picture>
+              <source srcset="/resources/images/img_menu/ef.svg"><img srcset="/resources/images/img_menu/ef.png">
+            </picture></a></div>
+        <p class="is-hidden-touch article-head" id="article-head">Trump califica de 'terrible error' rechazo de Maduro a  ayuda humanitaria</p>
+      </div>
+      <div class="social">
+        <p class="is-hidden-touch">COMPARTIR</p><a class="noteShareFacebook" href="javascript: void(0)" onclick="window.open(&quot;https://www.facebook.com/sharer/sharer.php?u=https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria&quot;,&quot;sharer&quot;,&quot;toolbar=0,status=0,width=548,height=325&quot;)"><i class="fab fa-facebook-square"></i></a><a class="noteShareTwitter" target="_blank" href="https://twitter.com/intent/tweet?url=https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria&amp;text=Trump%20califica%20de%20'terrible%20error'%20rechazo%20de%20Maduro%20a%20%20ayuda%20humanitaria"><i class="fab fa-twitter"></i></a><a class="noteShareLinkedin" href="javascript: void(0)" onclick="window.open(&quot;https://www.linkedin.com/shareArticle?mini=true&amp;url=https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria&quot;,&quot;sharer&quot;,&quot;toolbar=0,status=0,width=548,height=325&quot;)"><i class="fab fa-linkedin-in"></i></a><a class="noteShareGooglePlus" href="javascript: void(0)" onclick="window.open(&quot;https://plus.google.com/share?url=https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria&quot;,&quot;sharer&quot;,&quot;toolbar=0,status=0,width=420,height=525&quot;)"><i class="fab fa-google-plus-g"></i></a><a class="noteShareWhatsapp is-hidden-tablet" href="whatsapp://send?text=https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria"><i class="fab fa-whatsapp-square"></i></a>
+      </div>
+      <div class="main-menu-trigger is-hidden-touch" id="article-full-menu-trigger"><a class="is-article-full-menu">···</a></div>
+      <div class="search-trigger is-hidden-mobile"><a class="article-search-button"><i class="fas fa-search"></i></a></div>
+      <div class="touch-menu-trigger is-hidden-desktop" id="article-touch-menu-trigger"><a><img src="/resources/images/touch-menu-trigger.svg"></a></div>
+      <div class="full-menu" id="full-menu">
+        <div class="back"></div>
+        <div class="container">
+          <div class="columns is-multiline is-menu-row">
+            <div class="column is-3-desktop is-6-tablet is-12-mobile">
+              <ul class="primary is-hidden-tablet">
+                <!--li-->
+                <!--  a(href='/transicion') Transición-->
+                <li><a href="/economia">Economía</a></li>
+                <li><a href="/empresas">Empresas</a></li>
+                <li><a href="/mercados">Mercados</a></li>
+                <li><a href="/nacional">Nacional</a></li>
+                <li><a href="/opinion">Opinión</a></li>
+                <li><a href="/tv">Televisión</a></li>
+                <li><a href="/bloomberg-businessweek">Bloomberg Businessweek</a></li>
+                <li><a href="/tech">Tech</a></li>
+                <li><a href="/peninsula">Península</a></li>
+                <li><a href="https://www.nacion321.com">Nacion 321</a></li>
+              </ul>
+              <ul class="primary is-hidden-mobile">
+                <li><a href="/mercados">Mercados</a></li>
+                <li><a href="/economia">Economía</a></li>
+                <li><a href="/empresas">Empresas</a></li>
+                <li><a href="/bloomberg-businessweek">Bloomberg Businessweek</a></li>
+                <li><a href="/bloomberg">Bloomberg</a></li>
+                <li><a href="/mis-finanzas">Mis Finanzas</a></li>
+                <li><a href="/tlcan">TLCAN</a></li>
+              </ul>
+              <ul class="secondary is-hidden-mobile">
+                <li><a href="/financial-times">Financial Times</a></li>
+                <li><a href="/franquicias">Franquicias</a></li>
+                <li><a href="/pyme">PyME</a></li>
+              </ul>
+            </div>
+            <div class="column is-3-desktop is-6-tablet is-hidden-mobile">
+              <ul class="secondary">
+                <!--li-->
+                <!--  a(href='/transicion') Transición-->
+                <li><a href="/nacional">Nacional</a></li>
+                <li><a href="/mundo">Mundo</a></li>
+                <li><a href="/bajio">Bajío</a></li>
+                <li><a href="/monterrey">Monterrey</a></li>
+                <li><a href="/encuestas">Encuestas</a></li>
+                <li><a href="/peninsula">Península </a></li>
+                <li class="is-nacion"><a href="https://www.nacion321.com/" target="_blank"><img src="/resources/images/nacion321.svg"></a></li>
+              </ul>
+            </div>
+            <div class="column is-3-desktop is-6-tablet is-hidden-mobile is-opinion">
+              <ul class="secondary">
+                <li><a href="/opinion">Opinión</a></li>
+                <li><a href="/opinion/enrique-quintana">Enrique Quintana</a></li>
+                <li><a href="/opinion/raymundo-riva-palacio">Raymundo Riva Palacio</a></li>
+                <li><a href="/opinion/pablo-hiriart">Pablo Hiriart</a></li>
+                <li><a href="/opinion/jonathan-ruiz">Jonathan Ruiz</a></li>
+                <li><a href="/opinion/salvador-camarena">Salvador Camarena</a></li>
+                <li><a href="/opinion/macario-schettino">Macario Schettino</a></li>
+                <li><a href="/opinion/javier-risco">Javier Risco</a></li>
+                <li><a href="/opinion/victor-piz">Víctor Piz</a></li>
+                <li><a href="/blogs">Blogs</a></li>
+              </ul>
+            </div>
+            <div class="column is-3-desktop is-6-tablet is-hidden-mobile is-efbtv">
+              <ul class="secondary">
+                <li><a href="/tv"><img src="/resources/images/logo-elfinanciero-bloombergtv-morado.svg"></a></li>
+                <li><a href="/tv/al-cierre">Al Cierre</a></li>
+                <li><a href="/tv/la-nota-dura">La Nota Dura</a></li>
+                <li><a href="/tv/la-silla-roja">La Silla Roja</a></li>
+                <li><a href="/tv/en-ef-y-por-adela">En EF y por Adela</a></li>
+                <li><a href="/tv/bitacora-politica">Bitácora política</a></li>
+                <li><a href="/tv/mesa-central">Mesa Central</a></li>
+                <li><a href="/tv/ganadores-y-perdedores">Ganadores y perdedores</a></li>
+                <li><a href="/tv/al-sonar-la-campana">Al sonar la campana</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="columns is-multiline is-menu-row is-hidden-touch">
+            <div class="column is-3">
+              <ul class="secondary">
+                <li><a href="/buena-vida">Buena Vida</a></li>
+                <li><a href="/culturas">Culturas</a></li>
+                <li><a href="/deportes">Deportes</a></li>
+                <li><a href="/reflector">Reflector</a></li>
+                <li><a href="/viajes">Viajes</a></li>
+              </ul>
+            </div>
+            <div class="column is-3">
+              <ul class="secondary">
+                <li><a href="/tech">Tech</a></li>
+                <li><a href="/management">Management</a></li>
+                <li><a href="/emprendedores">Emprendedores</a></li>
+                <li><a href="/millonarios">Millonarios</a></li>
+                <li><a href="/rankings">Rankings</a></li>
+              </ul>
+            </div>
+            <div class="column is-3">
+              <ul class="secondary">
+                <li><a href="/relojes">Relojes</a></li>
+                <li><a href="/ciencia">Ciencia</a></li>
+                <li><a href="/autos">Autos</a></li>
+                <li><a href="/sibarita">Sibarita</a></li>
+                <li><a href="/interactivos">Interactivos</a></li>
+              </ul>
+            </div>
+            <div class="column is-3">
+              <ul class="secondary">
+                <li><a href="/mundo-empresa">Mundo Empresa</a></li>
+                <li><a href="/sponsor">Sponsor</a></li>
+                <li><a href="/suplementos">Suplementos</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="columns is-multiline">
+            <div class="column is-hidden-mobile is-12-tablet is-6-desktop is-suscribe blue-row">
+              <ul>
+                <li><a>SUSCRÍBETE A</a></li>
+                <li><a href="https://suscripciones.elfinanciero.com.mx/elite/">EL FINANCIERO</a></li>
+                <li><a href="https://www.elfinanciero.com.mx/paper">E-PAPER</a></li>
+                <li><a href="https://elfinanciero.us3.list-manage.com/subscribe/post?u=2a454344b7602a35ca7370f67&amp;id=e6327f446b">NEWSLETTER</a></li>
+                <li><a href="https://suscripciones.elfinanciero.com.mx/elite/">BUSINESSWEEK</a></li>
+              </ul>
+            </div>
+            <div class="column is-12-mobile is-6-tablet is-3-desktop is-app white-row">
+              <ul>
+                <li><a>DESCARGAR APP</a></li>
+                <li><a href="https://itunes.apple.com/mx/app/el-financiero/id668730716?mt=8"><i class="fab fa-apple on-left"></i>iOS</a></li>
+                <li><a href="https://play.google.com/store/apps/details?id=com.mx.grupolauman.elfinanciero"><i class="fab fa-android on-left"></i>Android</a></li>
+              </ul>
+            </div>
+            <div class="column is-12-mobile is-6-tablet is-3-desktop is-networks white-row">
+              <ul>
+                <li><a>REDES</a></li>
+                <li><a href="javascript: void(0)" onclick="PopupCenter(&quot;https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/ElFinancieroMx&quot;, &quot;El Financiero | Bloomberg&quot;,548, 325)"><i class="fab fa-facebook-square"></i></a></li>
+                <li><a href="javascript: void(0)" onclick="PopupCenter(&quot;https://twitter.com/intent/tweet?text=El Financiero Vía @ElFinanciero_Mx&amp;amp;url=https://twitter.com/ElFinanciero_Mx&quot;,&quot;El Financiero | Bloomberg&quot;, 548, 325)"><i class="fab fa-twitter"></i></a></li>
+                <li><a href="javascript: void(0)" onclick="PopupCenter(&quot;https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.linkedin.com/company/90169/&quot;,&quot;El Financiero | Bloomberg&quot;, 548, 325)"><i class="fab fa-linkedin-in"></i></a></li>
+                <li><a href="javascript: void(0)" onclick="PopupCenter(&quot;https://plus.google.com/+elfinanciero&quot;, &quot;El Financiero | Bloomberg&quot;,450,525)"><i class="fab fa-google-plus-g"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <script>
+          function PopupCenter(url, title, w, h) {
+            // Fixes dual-screen position                         Most browsers      Firefox
+            var dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : window.screenX;
+            var dualScreenTop = window.screenTop != undefined ? window.screenTop : window.screenY;
+          
+            var width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+            var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+          
+            var left = ((width / 2) - (w / 2)) + dualScreenLeft;
+            var top = ((height / 2) - (h / 2)) + dualScreenTop;
+            var newWindow = window.open(url, title, 'scrollbars=yes, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+          
+            // Puts focus on the newWindow
+            if (window.focus) {
+                newWindow.focus();
+            }
+          }
+        </script>
+      </div>
+    </div>
+    <div class="section is-article" id="617996" data-slug="mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria" data-dl='{"scrollSeccion":"Mundo - AP  ","cdTemas":["Venezuela","Nicolás Maduro","Ayuda humanitaria","Donald Trump","Iván Duque"],"cdTipoNota":"article","cdUserId":173}'>
+      <div class="container">
+        <div class="columns margin-b-0">
+          <div class="column"><a href="/mundo">
+              <div class="section-line">Mundo</div></a></div>
+        </div>
+        <div class="columns margin-b-0">
+          <div class="column is-12-touch is-11-desktop">
+            <h1>Trump califica de 'terrible error' rechazo de Maduro a  ayuda humanitaria</h1>
+          </div>
+        </div>
+        <div class="columns margin-b-0">
+          <div class="column is-12-touch is-8-desktop">
+                <h2><img src="/resources/images/bullet.svg">En el marco de la visita oficial de Iván Duque, presidente de Colombia, a la Casa Blanca, el mandatario de EU aseguró que su administración tiene varios planes de contingencia para Venezuela.</h2>
+          </div>
+        </div>
+        <div class="columns">
+          <div class="column is-12" style="margin-bottom:1rem;">
+                <div class="note-author"><span class="name">AP  </span><a class="twitter" href="https://twitter.com/ElFinanciero_Mx" target="_blank">@ElFinanciero_Mx</a>
+                </div>
+                <div class="note-date"><span class="publish">13/02/2019</span></div>
+                <div class="note-date">
+                </div>
+            <div class="note-social"><a class="facebook" href="javascript: void(0)" onclick="window.open(&quot;https://www.facebook.com/sharer/sharer.php?u=https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria&quot;,&quot;sharer&quot;,&quot;toolbar=0,status=0,width=548,height=325&quot;)"><i class="fab fa-facebook-square"></i></a><a class="twitter" target="_blank" href="https://twitter.com/intent/tweet?url=https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria&amp;text=Trump%20califica%20de%20'terrible%20error'%20rechazo%20de%20Maduro%20a%20%20ayuda%20humanitaria"><i class="fab fa-twitter"></i></a><a class="linkedin" href="javascript: void(0)" onclick="window.open(&quot;https://www.linkedin.com/shareArticle?mini=true&amp;url=https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria&quot;,&quot;sharer&quot;,&quot;toolbar=0,status=0,width=548,height=325&quot;)"><i class="fab fa-linkedin-in"></i></a><a class="google-plus" href="javascript: void(0)" onclick="window.open(&quot;https://plus.google.com/share?url=https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria&quot;,&quot;sharer&quot;,&quot;toolbar=0,status=0,width=420,height=525&quot;)"><i class="fab fa-google-plus-g"></i></a><a class="whatsapp is-hidden-tablet" href="whatsapp://send?text=https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria"><i class="fab fa-whatsapp-square"></i></a></div>
+          </div>
+        </div>
+      </div>
+          <div>
+            <div class="page__main-element container">
+              <div class="columns">
+                <div class="column is-8">
+                      <div class="image__block">
+                        <figure><img alt="Iván Duque y Donald Trump, presidentes de Colombia y EU" title="Iván Duque y Donald Trump, presidentes de Colombia y EU" src="/uploads/2019/02/13/3b24156ad51550089336_standard_desktop_medium_retina.jpeg" style="height: auto; width: 100%"></figure>
+                        <div class="element__footer">Iván Duque y Donald Trump, presidentes de Colombia y EU<span class="credit">Fuente: Reuters </span></div>
+                      </div>
+                </div>
+              </div>
+            </div>
+          </div>
+      <div class="container main-article-text">
+        <div class="columns">
+              <div class="column">
+                <div class="columns is-multiline">
+                  <div class="column is-10 is-offset-2 is-9-fullhd is-offset-3-fullhd content">
+                    <div>
+                          <div id="mc_embed_signup">
+                            <form class="validate" id="mc-embedded-subscribe-form" action="https://elfinanciero.us3.list-manage.com/subscribe/post?u=2a454344b7602a35ca7370f67&amp;id=e6327f446b" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate="">
+                              <div id="mc_embed_signup_scroll">
+                                <label for="mce-EMAIL">Suscríbete GRATIS a nuestro servicio de newsletter</label>
+                                <div id="ContainerInput">
+                                  <input class="email" id="mce-EMAIL" type="email" value="" name="EMAIL" placeholder="mi@correo.com" required="">
+                                  <input class="button" id="mc-embedded-subscribe" type="submit" value="Subscribe" name="subscribe">
+                                </div>
+                                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                  <input type="text" name="b_2a454344b7602a35ca7370f67_e6327f446b" tabindex="-1" value="">
+                                </div>
+                                <div class="Disclaimer">Al registrarte estás aceptando el <a href="https://elfinanciero.com.mx/aviso-de-privacidad" target="_blank">aviso de privacidad</a> y protección de datos. Puedes desuscribirte en cualquier momento.</div>
+                                <div class="clear"></div>
+                              </div>
+                            </form>
+                          </div>
+                          <!--script(type='text/javascript' src='/resources/js/mailchimp.js')-->
+                    </div>
+                    <div><p class="paragraph" data-count="271" data-wrap="42">El presidente de Estados Unidos, <strong>Donald Trump</strong>, afirmó este miércoles que la negativa del mandatario venezolano <strong>Nicolás Maduro </strong>de aceptar la ayuda humanitaria enviado al país es un &quot;error terrible&quot; que demuestra lo que sucede cuando el gobierno equivocado tiene el poder.</p><p class="paragraph" data-count="337" data-wrap="57">&quot;Creo que está cometiendo un error terrible al no permitir la ayuda humanitaria. Esto demuestra lo mal que están las cosas y, realmente, estamos tratando de llevarle comida a gente que se está muriendo de hambre. Hay gente muriéndose de hambre en Venezuela y eso demuestra lo que pasa cuando el gobierno equivocado tiene el poder&quot;, dijo.</p><p class="paragraph" data-count="219" data-wrap="34">Trump hizo los comentarios durante una reunión en la Casa Blanca con el presidente colombiano, <strong>Iván Duque</strong>, quien también fustigó a Maduro. Duque acusó al mandatario venezolano de cometer un crimen contra la humanidad.</p><p class="paragraph" data-count="275" data-wrap="43">El mandatario de EU pareció insinuar nuevas medidas internacionales contra Maduro, quien ha bloqueado envíos de ayuda para el país devastado por la crisis, alegando que esa asistencia forma parte de <strong>un intento de golpe de Estado dirigido por Estados Unidos para derrocarlo</strong>.</p><p class="paragraph" data-count="291" data-wrap="47">La Unión Americana y otros países quieren que Maduro renuncie y han reconocido al líder de la oposición,<strong> Juan Guaidó</strong>, presidente de la Asamblea Nacional, como el mandatario legítimo de Venezuela, debido a que consideran fraudulentas las elecciones de 2018 en que Maduro se declaró ganador. </p><p class="paragraph" data-count="90" data-wrap="14">Los venezolanos han realizado grandes protestas para presionar a Maduro a dejar el cargo.</p><p class="paragraph" data-count="209" data-wrap="35">Guaidó dijo esta semana que intentará dirigir las caravanas con los muy necesitados alimentos y medicamentos a Venezuela, pero que el traslado no comenzará hasta dentro de casi dos semanas, el 23 de febrero. </p><p class="paragraph" data-count="187" data-wrap="32">La turbulencia política y económica en Venezuela ha causado escasez de productos básicos y ha obligado a millones de venezolanos a huir de su país, muchos de ellos a la vecina Colombia.</p><p class="paragraph" data-count="253" data-wrap="52">Cuando se le preguntó a si Estados Unidos tiene algún plan en reserva para el caso de que Maduro se aferre al poder, Trump respondió: &quot;Yo siempre tengo un Plan B y C y D y E y F... Hay muchas cosas que están pasando en Venezuela que la gente no sabe&quot;.</p><p class="paragraph" data-count="185" data-wrap="31">En una comparecencia en la Oficina Oval de la Casa Blanca con Duque, Trump declaró que muchos países quieren ayudar a Venezuela: &quot;Vamos a ver mucha actividad en las próximas semanas&quot;.</p><p class="paragraph" data-count="226" data-wrap="36">Trump insistió en que Maduro se equivoca al negarle asistencia humanitaria a su propio pueblo. Aseveró que Maduro ha logrado obstruir solo un puente que podría ser usado para transportar los materiales, <strong>pero no otros cruces</strong>.</p><p class="paragraph" data-count="153" data-wrap="25">Por otra parte, Duque se comprometió públicamente para hacer que la ayuda, que está en almacenes en la zona fronteriza con Colombia, entre a Venezuela.</p><p class="paragraph" data-count="149" data-wrap="25">En otro tema importante para Estados Unidos y Colombia, Trump se quejó ante Duque por la cantidad de drogas que entran a territorio estadounidense. </p><p class="paragraph" data-count="156" data-wrap="26">Colombia es el principal exportador de cocaína del mundo y el crecimiento de sus cosechas de coca en año recientes <strong>ha causado tensiones con Estados Unidos</strong>.</p><p class="paragraph" data-count="205" data-wrap="33">&quot;Estamos trabajando juntos para que Colombia erradique algo de lo que está cultivando&quot;, señaló Trump. &quot;Yo no diría que están adelantados en sus labores, pero esperamos que lo estén en el futuro cercano&quot;.</p><p class="paragraph" data-count="201" data-wrap="36">Duque defendió su administración, afirmando que se han erradicado más cosechas de coca en <strong>los primeros cuatro meses de su período que en los ocho meses previos </strong>a su ascenso al poder en agosto de 2018.</p></div>
+                  </div>
+                  <div class="column is-10 is-offset-2 is-9-fullhd is-offset-3-fullhd comments">
+                    <div class="fb-comments" data-href="https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria" data-numposts="1" data-width="100%"></div>
+                  </div>
+                </div>
+              </div>
+              <script>console.log({"isMobile":null,"isPhone":null,"isOs":null,"isTablet":null})</script>
+              <div class="column is-4 sidebar is-hidden-touch">
+                <div class="sidebar__inner" data-uk-sticky="{top:64, boundary:true}">
+                  <div class="ad-holder" data-uk-slideshow="{duration:400}">
+                    <ul class="uk-slideshow is-box-banner">
+                      <li class="is-box-banner">
+                            <div class="ad-slot" id="nota_sidebar#1" data-adtype="nota.sidebar"></div>
+                      </li>
+                      <li class="is-box-banner">
+                            <div class="ad-slot" id="nota_sidebar#2" data-adtype="nota.sidebar"></div>
+                      </li>
+                    </ul>
+                    <button data-uk-slideshow-item="0">0</button>
+                    <button data-uk-slideshow-item="1">1</button>
+                  </div>
+                </div>
+              </div>
+        </div>
+      </div>
+    </div>
+    <div class="container article-break">
+          <div class="ad-slot" id="nota_internote#1" data-adtype="nota.internote"></div>
+    </div>
+    <script>var pageId = 617996;
+      var cat = "Mundo";
+      
+      $(function () {
+        var _vastDFP = function(URL_VAST){
+          var url = URL_VAST;
+          $.each($('.section.is-article' + '#' + pageId).find('video'), function(index, value){
+            var thisID = $(this).attr('id');
+            var player1 = new VAST.player(thisID, url);
+            player1.init();
+          });
+        }
+      
+        var vastPl = VAST.initTAG( cat );
+        _vastDFP( vastPl );
+      
+        $('.vjs-progress-control.vjs-control').removeClass('vjs-progress-control vjs-control');
+        var EF = window.EF;
+        hasStickyTopHeader = false;
+      
+        // -----------------------------------------------
+        // Begin full menu and search
+        // -----------------------------------------------
+      
+        var articleFullMenu = $(".article-top-header").find(".full-menu");
+        $("#article-full-menu-trigger").ready(function() {
+          var timer;
+          var mTrigger = [$("#article-full-menu-trigger"), articleFullMenu];
+          $.each(mTrigger, function() {
+            $(this).mouseleave(function() {
+              timer = setTimeout(function() {
+                articleFullMenu.slideUp(200);
+              }, 200);
+            });
+            $(this).mouseenter(function() {
+              clearInterval(timer);
+              articleFullMenu.slideDown(200);
+            });
+          });
+        });
+      
+        $("#article-touch-menu-trigger").click(function() {
+          articleFullMenu.slideToggle(200, function() {
+            if($(".article-top-search").css("display") == "block") {
+              $(".article-top-search").slideUp(200);
+            }
+          });
+        });
+      
+        $(".article-search-button").click(function() {
+          $(".article-top-search").slideToggle(200, function() {
+            if($(".article-top-search").css("display") == "block") {
+              articleFullMenu.slideUp(200);
+              $(".article-top-search").find("input").focus();
+            }
+          });
+        });
+        $(".article-top-search").find(".close-search").click(function() {
+          $(".article-top-search").slideUp(200);
+        });
+        // --------------------------------------------------
+        // ^^^^^^^ End full menu and search ^^^^^
+        // --------------------------------------------------
+      
+        var sectionSlug = "mundo";
+        var lastNote = "mercados/el-dolar-avanza-frente-al-peso-tras-testimonio-de-powell-en-el-senado-de-eu";
+        var categorySection = "Mundo".toUpperCase();
+        var noteIndex = 0;
+        var isLoading = false
+        var isMobile = EF.client.isMobile
+      
+        //Get array with notes for scrolling
+        var scrollInfiniteNotes = ["mundo/imagenes-de-venezolanos-comiendo-basura-molestaron-a-maduro-jorge-ramos","mundo/univison-acusa-retencion-de-periodistas-que-entrevistaban-a-maduro-en-venezuela","mundo/espana-es-el-pais-mas-sano-del-mundo-y-mexico","economia/asi-es-como-pemex-se-convirtio-en-la-petrolera-mas-endeudada-del-mundo","economia/aumento-en-gasto-publico-e-impulso-a-pemex-ponen-en-riesgo-calificacion-crediticia-de-mexico-moodys","mundo/venezuela-deporta-a-periodistas-de-univision-encabezados-por-jorge-ramos","mundo/con-barricadas-y-enmascarados-simpatizantes-de-maduro-agreden-a-civiles-en-frontera-con-colombia","nacional/comision-de-puntos-constitucionales-aprueba-dictamen-sobre-la-guardia-nacional","mercados/el-dolar-avanza-frente-al-peso-tras-testimonio-de-powell-en-el-senado-de-eu"]
+        var totalNotes = scrollInfiniteNotes.length
+        var $placeholder
+        var site = "https://elfinanciero.com.mx/";
+      
+        //Full Width FB Comments
+        $(function(){
+          $.each( $('.fb-comments'), function(){
+            $(this).find('iframe').css('width','100%');
+          })
+        });
+      
+        var showLoading = function() {
+          $('.article-break').last().after('<div class="load-placeholder has-text-centered" style="background: white;">')
+          $placeholder = $('.load-placeholder')
+          $placeholder.html('<img src="/resources/images/loading.svg">');
+        }
+      
+        EF.loadedNotes = 0
+        EF.totalNotes = totalNotes
+        var showNote = function (note) {
+          EF.loadedNotes++
+          $placeholder.replaceWith(note)
+          isLoading = false
+          window.ads && window.ads.ready()
+          EF.ads.loadInread(sectionSlug)
+          return note
+        }
+      
+        var comscoreTrack = function (note) {
+          var name = $(note)
+            .data('slug')
+            .replace(/\//gi, '.')
+             autor = $(note)
+            .data('autor')
+          self.COMSCORE && COMSCORE.beacon({
+            'c1': '2',
+            'c2': '10181342',
+            'ns_site': 'elfinanciero',
+            'autor': autor,
+            'name': name,
+            'scroll': noteIndex
+          });
+          var rand = Math.floor(Math.random() * 10000)
+          $.get('/comscore_view.txt?' + rand)
+        }
+      
+        var getNoteFromScroll = function() {
+          if (noteIndex < totalNotes && sectionSlug !== "sponsor") {
+            showLoading()
+            var query = [
+              '/'+scrollInfiniteNotes[(noteIndex++)]+'?_format=compact',
+              'lastNote='+lastNote,
+              'sectionZero='+sectionSlug,
+              'pos='+(noteIndex+1)
+            ]
+            $.get(query.join('&'))
+              .then(showNote)
+              .then(comscoreTrack)
+              .fail(function (error){
+                console.error('Error al cargar nota', error);
+              });
+          } else {
+            console.log('Ultima nota');
+          }
+        }
+      
+        var $header = $('#article-head')
+        var $articleHeader = $('.article-top-header')
+        $(window).on('scroll resize', function () {
+      
+          // infinite scroll
+          if ((window.innerHeight + window.scrollY ) >= (document.body.offsetHeight - 500) && !isLoading){
+            isLoading = true
+            getNoteFromScroll()
+          }
+      
+          var $headerOffset = $header.offset()
+          $('.section').each(function () {
+            var $this = $(this)
+      
+            // Changeable box banner in sidebar
+            if (!isMobile) {
+              var railCol = $this.find(".sidebar");
+              var trainCol = railCol.find(".sidebar__inner");
+              var railHeight = railCol.height();
+              var trainColDist = trainCol.offset().top - railCol.offset().top;
+      
+              // Test ad position
+              if (trainColDist < railHeight / 2) {
+                trainCol.find("button[data-uk-slideshow-item='0']").click();
+              } else {
+                trainCol.find("button[data-uk-slideshow-item='1']").click();
+              }
+            }
+      
+            // Test section change
+            var $thisOffset = $this.offset()
+            if ($headerOffset.top >= $thisOffset.top && $headerOffset.top <= $this.next().offset().top) {
+              var newDescr = $this.find('h1').text();
+              var newUrl = $this.data('slug');
+              var oldDescr = $header.text();
+      
+              if (newDescr !== oldDescr) {
+      
+                window.history.replaceState(null, null, '/' + newUrl);
+      
+                $articleHeader
+                  .find('.noteShareFacebook').attr({'href':'javascript:void(0);','onclick':'window.open("https://www.facebook.com/sharer/sharer.php?u='+site+newUrl+'","sharer","toolbar=0,status=0,width=548,height=325")'}).end()
+                  .find('.noteShareTwitter').attr({"target":"_blank", "href":"https://twitter.com/intent/tweet?url="+site+newUrl+"&text="+encodeURIComponent(newDescr)}).end()
+                  .find('.noteShareLinkedin').attr({'href':'javascript:void(0);','onclick':'window.open("https://www.linkedin.com/shareArticle?mini=true&url='+site+newUrl+'","sharer","toolbar=0,status=0,width=548,height=325")'}).end()
+                  .find('.noteShareGooglePlus').attr({'href':'javascript:void(0);','onclick':'window.open("https://plus.google.com/share?url='+site+newUrl+'","sharer","toolbar=0,status=0,width=450,height=525")'}).end()
+                  .find('.noteShareWhatsapp').attr('href', "whatsapp://send?text=https://elfinanciero.com.mx/" + newUrl)
+      
+      
+                if (!isMobile) {
+                  $header
+                    .html(newDescr)
+                    .css('opacity', 0.4)
+                    .animate({ 'opacity': '1' }, 200);
+                }
+      
+                document.title = newDescr;
+                return;
+              }
+            }
+          });
+        });
+      
+        // load inreads
+        EF.ads.loadInread(sectionSlug)
+      });
+    </script>
+        <script type="text/javascript" language="JavaScript1.3" src="https://sb.scorecardresearch.com/c2/10181342/ct.js"></script>
+    <div id="footer">
+      <div class="container">
+        <div class="columns is-multiline is-mobile">
+          <div class="column is-hidden-touch is-2-desktop logo"><a href="https://www.elfinanciero.com.mx">
+              <picture>
+                <source srcset="/resources/images/img_menu/svg/logo_mobile.svg"><img src="/resources/images/img_menu/logo_mobile.png">
+              </picture></a></div>
+          <div class="column is-12-touch is-10-desktop menu">
+            <ul>
+              <li><a href="/quienes-somos">¿Quiénes somos?</a></li>
+              <li><a href="/directorio">Directorio</a></li>
+              <li><a href="https://suscripciones.elfinanciero.com.mx/">Suscripciones</a></li>
+              <li><a href="/aviso-de-privacidad">Aviso de Privacidad</a></li>
+              <li><a href="mailto:inteligenciacomercial@elfinanciero.com.mx">Anúnciate con Nosotros</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="columns is-multiline is-mobile">
+          <div class="column is-12-touch is-6-desktop copy">
+            <p>2018 © Copyright, Grupo Multimedia Lauman, SAPI de CV</p>
+          </div>
+          <div class="column is-12-touch is-6-desktop thrd-logos"><img class="comscore" src="/resources/images/logos-com.svg"><a href="https://www.elfinanciero.com.mx/rss/" target="_blank"><img class="rss" src="/resources/images/logos-rss.svg"></a></div>
+        </div>
+      </div>
+    </div>
+    <div id="fb-root"></div>
+    <!-- jQuery-->
+    <script src="/resources/js/iframeResizer.min.js"></script>
+    <script src="/resources/plugins/dropcap/dropcap.min.js"></script>
+    <!-- UIKit-->
+    <script src="/resources/plugins/uikit/js/uikit.min.js"></script>
+    <script src="/resources/plugins/uikit/js/components/sticky.js"></script>
+    <script src="/resources/plugins/uikit/js/components/slider.js"></script>
+    <script src="/resources/plugins/uikit/js/components/slideshow.js"></script>
+    <script src="/resources/plugins/uikit/js/components/parallax.min.js"></script>
+    <script src="/resources/share/twitter/js/html2canvas.js"></script>
+    <script src="/resources/share/twitter/js/jquery.plugin.html2canvas.js"></script>
+    <script>
+      $(document).ready(function() {
+        // Check for true or false hasStickyTopHeader; in Note scroll it's false
+        if(hasStickyTopHeader) {
+          var headTime = 1000;
+          setTimeout(function() {
+            var stickyHeader = UIkit.sticky("#top-header");
+          }, headTime);
+        };
+        $(".adaptive-iframe").on('load', function () {
+          $(this).iFrameResize({
+            checkOrigin:false,
+            heightCalculationMethod: 'taggedElement'
+          });
+        });
+      
+        // Drop Caps
+        var dropcap = $(".drop-cap");
+        $.each(dropcap, function(c) {
+          window.Dropcap.layout(this, 3);
+          this.style.fontFamily = "Geomanist";
+          this.style.fontWeight = "300";
+          this.style.paddingRight = "0.75rem";
+          this.style.letterSpacing = "-0.25rem";
+          dropcap.textContent = c;
+        });
+      
+        $(document).find(".section.is-article").each(function() {
+          // Video main element to sidebar
+          if($(this).find(".page__main-element").find(".video-holder").length > 0) {
+            $(this).find(".sidebar__inner").prepend("<div class='side-video-holder is-16-9'></div>");
+            var videoHolder = $(this).find(".video-holder").first();
+            var sideVideoHolder = $(this).find(".side-video-holder");
+            var videoPlayer = videoHolder.find(".video-player").first();
+            var video = videoPlayer.find("video").first();
+            var isFS;
+            var state;
+            var whereAmI = "b";
+            var viewportWidth;
+            $(window).bind("scroll", function() {
+              viewportWidth = $(window).width();
+              if(viewportWidth >= 1008) {
+                if($(this).scrollTop() >= videoHolder.offset().top + (videoHolder.outerHeight() / 2) && document.webkitCurrentFullScreenElement == null) {
+                  if(whereAmI != "s") {
+                    sideVideoHolder.slideToggle();
+                    state = video[0].paused;
+                    videoPlayer.animate({
+                      top: -videoHolder.outerHeight() / 2,
+                      opacity: 0
+                    }, function() {
+                      videoPlayer.prependTo(sideVideoHolder).animate({
+                      top: 0,
+                      opacity: 1
+                      }, 200, function() {
+                        if(!state) {
+                          video[0].play();
+                        }
+                      });
+                    });
+                    whereAmI = "s";
+                  }
+                } else if($(this).scrollTop() < videoHolder.offset().top + (videoHolder.outerHeight() / 2) && document.webkitCurrentFullScreenElement == null){
+                  if(whereAmI != "b") {
+                    state = video[0].paused;
+                    videoPlayer.animate({
+                      top: -sideVideoHolder.outerHeight() / 2,
+                      opacity: 0
+                    }, function() {
+                      videoPlayer.prependTo(videoHolder).animate({
+                      top: 0,
+                      opacity: 1
+                      }, 200, function() {
+                        if(!state) {
+                          video[0].play();
+                        }
+                      });
+                    });
+                    sideVideoHolder.slideToggle();
+                    whereAmI = "b";
+                  }
+                }
+              }
+            });
+          }
+        });
+      });
+    </script>
+    <script>
+      $('.search-field').on('keypress', function (e) {
+        var self=$(this);
+        if (e.which === 13) {
+          var value = self.val();
+          window.location = '/search/'+value;
+        }
+      });
+    </script>
+    <!-- Twitter-->
+    <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script async src="/resources/js/dfp.js"></script>
+        <script async defer src="/resources/js/note/datalayer.js"></script>
+  </body>
+</html>

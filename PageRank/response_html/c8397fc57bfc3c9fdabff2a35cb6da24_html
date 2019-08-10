@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<!--- cache-control added from directives page -->
+
+<script>console.log( 'SCRIPT_URI  -/sports/high-school-sports/2019/02/bristol-grinds-out-win-over-garfield/' );</script><script>console.log( 'CacheDirectiveFound: /sports/  -600 seconds applied...' );</script>	
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="http://www.tribtoday.com/wp-content/themes/coreV2/favicon.ico" />
+	<link rel="stylesheet" href="http://www.tribtoday.com/wp-content/themes/coreV2/css/print.css" media="print" type="text/css" />
+		
+	<title>  Bristol grinds out win over Garfield | News, Sports, Jobs - Tribune Chronicle</title>
+
+	
+	<!-- <meta name="viewport" content="width=device-width"> -->
+	<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' />
+	<link rel="pingback" href="http://www.tribtoday.com/xmlrpc.php">
+	<link rel="stylesheet" href="http://www.tribtoday.com/wp-content/themes/coreV2/css/layout.css?v=3.5" media="all" type="text/css" />
+	<link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif] -->
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<!--<script>
+		function fbShare(url, title, descr, image, winWidth, winHeight) {
+			var winTop = (screen.height / 2) - (winHeight / 2);
+			var winLeft = (screen.width / 2) - (winWidth / 2);
+			window.open('http://www.facebook.com/sharer.php?s=100&p[title]=' + title + '&p[summary]=' + descr + '&p[url]=' + url + '&p[images][0]=' + image, 'sharer', 'top=' + winTop + ',left=' + winLeft + ',toolbar=0,status=0,width=' + winWidth + ',height=' + winHeight);
+		}
+	</script> -->
+	<script language="javascript">
+		/* keep all URLs at HTTP */
+		if (location.protocol == 'https:') {
+			/* allow the STORE and RSS FEEDS to be HTTPS */
+			if ( window.location.href.indexOf("/feed/") == -1 && window.location.href.indexOf("/feeds/") == -1 && window.location.href.indexOf("/store/") == -1 ) {
+				redir = location.href.replace("https://", "http://");
+				location.href = redir;
+			}
+		}	
+	</script>
+	<script>
+		$(function(){	$('.popup').click(function(event) {	var width  = 575,	height = 400,	left   = ($(window).width()  - width)  / 2,	top    = ($(window).height() - height) / 2,	url    = $(this).attr('href'),	opts   = 'status=1' +	',width='  + width  +	',height=' + height +	',top='    + top    +	',left='   + left;	window.open(url, 'twitter', opts);	 	return false;	 });	});
+	</script>
+	
+	<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+
+	<script type='text/javascript'>
+		googletag.cmd.push(function() {
+			googletag.pubads().setTargeting('SiteID','TCWO'); 		/* Define in Functions */
+			googletag.pubads().setTargeting('MSection','Sports'); 	/* top lvl parent */
+			googletag.pubads().setTargeting('SubSection','High_School_Sports'); 	/* current lvl parent */
+					});
+	</script>
+
+	<script type='text/javascript'>
+		googletag.cmd.push(function() {
+
+			var Leaderboard = googletag.sizeMapping().
+			addSize([1130, 200], [728, 90]).
+			addSize([0, 0], [320, 100]).
+			build();
+
+
+			var BottomLeaderboard = googletag.sizeMapping().
+			addSize([740, 200], [728, 90]).
+			addSize([0, 0], [320, 100]).
+			build();
+
+			var SkyScraper = googletag.sizeMapping().
+			addSize([1406, 200], [160, 600]).
+			addSize([1335, 200], [120, 600]).
+			addSize([0, 0], []).
+			build();
+
+			var HalfPage = googletag.sizeMapping().
+			addSize([740, 200], [300, 600]).
+			addSize([0, 0], [300, 250]).
+			build();
+			
+			var Pencil = googletag.sizeMapping().
+			addSize([960, 200], [960, 250]).
+			addSize([0, 0], []).
+			build();
+			
+			/* for pencil ad */
+						var targetSlot = '/1032081/CMSv2_Top2_960x250';
+			googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+				/*console.log(event.slot.getAdUnitPath() + ' - ' + event.isEmpty);*/
+				if (event.slot.getAdUnitPath() === targetSlot) {
+					if (event.isEmpty) {
+						hidePencilIframe('google_ads_iframe_/1032081/CMSv2_Top2_960x250_0');
+					}
+				}
+			});
+			/* for pencil ad */
+
+			googletag.defineSlot('/1032081/CMSv2_Top_728x90', [728, 90], 'CMSv2_Top_728x90').
+			defineSizeMapping(Leaderboard).
+			addService(googletag.pubads());
+
+			googletag.defineSlot('/1032081/CMSv2_Middle_728x90', [728, 90], 'CMSv2_Middle_728x90').
+			defineSizeMapping(Leaderboard).
+			addService(googletag.pubads());
+
+			googletag.defineSlot('/1032081/CMSv2_Left_160x600', [160, 600], 'CMSv2_Left_160x600').
+			defineSizeMapping(SkyScraper).
+			addService(googletag.pubads());
+
+			googletag.defineSlot('/1032081/CMSv2_Right_300x600', [300, 600], 'CMSv2_Right_300x600').
+			defineSizeMapping(HalfPage).
+			addService(googletag.pubads());
+			
+			googletag.defineSlot('/1032081/CMSv2_Bottom_728x90', [728, 90], 'CMSv2_Bottom_728x90').addService(googletag.pubads()).
+			defineSizeMapping(BottomLeaderboard).
+			addService(googletag.pubads());
+
+			googletag.defineSlot('/1032081/CMSv2_Middle_300x250', [300, 250], 'CMSv2_Middle_300x250').addService(googletag.pubads());
+						googletag.defineSlot('/1032081/CMSv2_Video_300x250', [300, 250], 'CMSv2_Video_300x250').addService(googletag.pubads());
+            googletag.defineSlot('/1032081/CMSv2_Article_300x250', [300, 250], 'CMSv2_Article_300x250').addService(googletag.pubads());
+			/* funeral home */
+						googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+
+		
+			/* CODE FOR PENCIL AD */
+
+		function hidePencilIframe(dfpIframeID) {
+			document.getElementById(dfpIframeID).style.display = 'none';
+		}
+		function pencilExpandBanner(creativeWidth, bigCreativeHeight, dfpIframeID) {
+			document.getElementById(dfpIframeID).width = creativeWidth;
+			document.getElementById(dfpIframeID).height = bigCreativeHeight;
+		}
+		function pencilCloseBanner(creativeWidth, smallCreativeHeight, dfpIframeID) {
+			document.getElementById(dfpIframeID).width = creativeWidth;
+			document.getElementById(dfpIframeID).height = smallCreativeHeight;
+		}
+		function pencilStartTimerFromIframe(creativeWidth, smallCreativeHeight, bigCreativeHeight, positionName) {
+			var dfpIframeID = "google_ads_iframe_/1032081/" + positionName + "_0";
+			pencilExpandBanner(creativeWidth, bigCreativeHeight, dfpIframeID);
+		}
+		function pencilStopTimerFromIframe(creativeWidth, smallCreativeHeight, bigCreativeHeight, positionName) {
+			var dfpIframeID = "google_ads_iframe_/1032081/" + positionName + "_0";
+			pencilCloseBanner(creativeWidth, smallCreativeHeight, dfpIframeID);
+		}
+	
+		/* END CODE FOR PENCIL */		
+	</script>
+<!--	<script>
+		  var _now = Date.now || function() { return new Date().getTime(); };
+		  var _debounce = function(func, wait, immediate) {
+			  var timeout;
+			  return function() {
+					var context = this, args = arguments;
+					var later = function() {
+						timeout = null;
+						if (!immediate) func.apply(context, args);
+					};
+					var callNow = immediate && !timeout;
+					clearTimeout(timeout);
+					timeout = setTimeout(later, wait);
+					if (callNow) func.apply(context, args);
+			  };
+		  };
+
+		  window.addEventListener("resize", _debounce(function() {
+				console.log ("Doing refresh");
+				googletag.pubads().refresh([window.slot1,window.slot2,window.slot3,window.slot4,window.slot5]);
+			}, 200)
+		  ); 
+	</script> -->
+	<link rel='dns-prefetch' href='//www.tribtoday.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//fonts.gstatic.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//apis.google.com' />
+<link rel='dns-prefetch' href='//google-analytics.com' />
+<link rel='dns-prefetch' href='//www.google-analytics.com' />
+<link rel='dns-prefetch' href='//ssl.google-analytics.com' />
+<link rel='dns-prefetch' href='//youtube.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<meta name="description" content="BRISTOLVILLE — Bristol added another big win to its resume, defeating Garfield, 66-60, Tuesday night in what Panthers coach Craig Giesy described as a “grin" />
+<meta name="keywords" content="High School Sports,Bristol grinds out win over Garfield" />
+<link rel='stylesheet' id='posts-front-css-css'  href='http://www.tribtoday.com/wp-content/plugins/facebook-comment-by-vivacity/css/fb-comments-hidewpcomments-posts.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='pages-front-css-css'  href='http://www.tribtoday.com/wp-content/plugins/facebook-comment-by-vivacity/css/fb-comments-hidewpcomments-pages.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-font-icons-css'  href='http://www.tribtoday.com/wp-content/plugins/modern-events-calendar-lite/assets/css/iconfonts.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-frontend-style-css'  href='http://www.tribtoday.com/wp-content/plugins/modern-events-calendar-lite/assets/css/frontend.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-google-fonts-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C700%7CRoboto%3A100%2C300%2C400%2C700&#038;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='mec-lity-style-css'  href='http://www.tribtoday.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpba_front_end_styles-css'  href='http://www.tribtoday.com/wp-content/plugins/wp-better-attachments/assets/css/wpba-frontend.css?ver=1.3.11' type='text/css' media='all' />
+<link rel='stylesheet' id='wprmenu.css-css'  href='http://www.tribtoday.com/wp-content/plugins/wp-responsive-menu/css/wprmenu.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wprmenu-font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C600&#038;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-css'  href='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/css/colorbox.css?ver=3.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.tribtoday.com/wp-includes/css/dashicons.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/css/jquery-ui.min.css?ver=3.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='mp-select2-css'  href='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/select2/select2.css?ver=3.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='mp-base-css'  href='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/css/marketpress.css?ver=3.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='mp-theme-css'  href='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/themes/default.css?ver=3.2.9' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.tribtoday.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mecdata = {"day":"day","days":"days","hour":"hour","hours":"hours","minute":"minute","minutes":"minutes","second":"second","seconds":"seconds"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/modern-events-calendar-lite/assets/js/frontend.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/modern-events-calendar-lite/assets/js/events.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/colorbrightness/colorbrightness.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/modern-events-calendar-lite/assets/packages/owl-carousel/owl.carousel.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/wp-responsive-menu/js/jquery.transit.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/wp-responsive-menu/js/jquery.sidr.js?ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wprmenu = {"zooming":"yes","from_width":"2400","swipe":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/wp-responsive-menu/js/wprmenu.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/js/ajaxq.min.js?ver=3.2.9'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/js/jquery.colorbox-min.js?ver=3.2.9'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/js/jquery.validate.min.js?ver=3.2.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mp_cart_i18n = {"ajaxurl":"http:\/\/www.tribtoday.com\/wp-admin\/admin-ajax.php","ajax_loader":"<span class=\"mp_ajax_loader\"><img src=\"http:\/\/www.tribtoday.com\/wp-content\/plugins\/marketpress\/ui\/images\/ajax-loader.gif\" alt=\"\"> Adding...<\/span>","cart_updated_error_limit":"Cart update notice: this item has a limit per order or you have reached the stock limit.","is_cart_page":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/js/mp-cart.js?ver=3.2.9'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/js/hoverintent.min.js?ver=3.2.9'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/select2/select2.min.js?ver=3.2.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mp_i18n = {"ajaxurl":"http:\/\/www.tribtoday.com\/wp-admin\/admin-ajax.php","loadingImage":"http:\/\/www.tribtoday.com\/wp-content\/plugins\/marketpress\/ui\/images\/loading.gif","productsURL":"http:\/\/www.tribtoday.com\/store\/products\/","productCats":{"5422":"http:\/\/www.tribtoday.com\/store\/products\/category\/7-days\/","5423":"http:\/\/www.tribtoday.com\/store\/products\/category\/saturday-sunday\/","5424":"http:\/\/www.tribtoday.com\/store\/products\/category\/sunday-only\/","5421":"http:\/\/www.tribtoday.com\/store\/products\/category\/tribune-chronicle-subscriptions\/"},"validation":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","creditcard":"Please enter a valid credit card number.","equalTo":"Please enter the same value again.","accept":"Please enter a value with a valid extension.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}."}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/js/frontend.js?ver=3.2.9'></script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-content/plugins/marketpress/ui/js/mp-equal-height.js?ver=3.2.9'></script>
+<link rel='https://api.w.org/' href='http://www.tribtoday.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.tribtoday.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.tribtoday.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Changing perceptions' href='http://www.tribtoday.com/sports/high-school-sports/2019/02/changing-perceptions/' />
+<link rel='next' title='Lakeview, McDonald, Jackson-Milton triumph' href='http://www.tribtoday.com/sports/high-school-sports/2019/02/lakeview-mcdonald-jackson-milton-triumph/' />
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel="canonical" href="http://www.tribtoday.com/sports/high-school-sports/2019/02/bristol-grinds-out-win-over-garfield/" />
+<link rel='shortlink' href='http://www.tribtoday.com/?p=792929' />
+<link rel="alternate" type="application/json+oembed" href="http://www.tribtoday.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.tribtoday.com%2Fsports%2Fhigh-school-sports%2F2019%2F02%2Fbristol-grinds-out-win-over-garfield%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.tribtoday.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.tribtoday.com%2Fsports%2Fhigh-school-sports%2F2019%2F02%2Fbristol-grinds-out-win-over-garfield%2F&#038;format=xml" />
+<meta property="fb:app_id" content="60098977617"/>
+<meta property="fb:admins" content=""/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:locale:alternate" content="en_US" />
+		<style id="wprmenu_css" type="text/css" >
+			/* apply appearance settings */
+			#wprmenu_bar {
+				background: #0D0D0D;
+			}
+			#wprmenu_bar .menu_title, #wprmenu_bar .wprmenu_icon_menu {
+				color: #636363;
+			}
+			#wprmenu_menu {
+				background: #ffffff!important;
+			}
+			#wprmenu_menu.wprmenu_levels ul li {
+				border-bottom:1px solid #d3d3d3;
+				border-top:1px solid #efefef;
+			}
+			#wprmenu_menu ul li a {
+				color: #2a2a2a;
+			}
+			#wprmenu_menu ul li a:hover {
+				color: #1e1e1e;
+			}
+			#wprmenu_menu.wprmenu_levels a.wprmenu_parent_item {
+				border-left:1px solid #efefef;
+			}
+			#wprmenu_menu .wprmenu_icon_par {
+				color: #2a2a2a;
+			}
+			#wprmenu_menu .wprmenu_icon_par:hover {
+				color: #1e1e1e;
+			}
+			#wprmenu_menu.wprmenu_levels ul li ul {
+				border-top:1px solid #d3d3d3;
+			}
+			#wprmenu_bar .wprmenu_icon span {
+				background: #a6a6a6;
+			}
+			
+			#wprmenu_menu.left {
+				width:65%;
+				left: -65%;
+			    right: auto;
+			}
+			#wprmenu_menu.right {
+				width:65%;
+			    right: -65%;
+			    left: auto;
+			}
+
+
+			
+						/* show the bar and hide othere navigation elements */
+			@media only screen and (max-width: 2400px) {
+				html { padding-top: 42px!important; }
+				#wprmenu_bar { display: block!important; }
+				div#wpadminbar { position: fixed; }
+							}
+		</style>
+		
+
+<!-- Facebook Like Thumbnail (v0.4) -->
+<meta property="og:image" content="http://s3.amazonaws.com/ogden_images/www.tribtoday.com/images/2019/02/13012413/bristol-1.jpg" />
+<!-- using featured thumbnail -->
+<!-- Facebook Like Thumbnail (By Ashfame - https://github.com/ashfame/facebook-like-thumbnail) -->
+
+
+<!-- BEGIN ExactMetrics v5.3.7 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-4965188-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+</head>
+<style>@media only screen and (max-width:2400px) {html {padding-top:0px !important;}</style>
+<body>
+<a href="/newslink/" style="display: none" aria-hidden="true">newslink</a>
+<header id="top_header">
+	<div id="mobile_website_logo">
+		<a href="http://www.tribtoday.com/" rel="home"><img src="http://www.tribtoday.com/wp-content/themes/coreV2/images/website_logo.png" border="0" alt="homepage logo" /></a>
+	</div>
+	<nav id="top_nav">
+		<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-684412" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684412"><a href="http://www.tribtoday.com/news/">News</a></li>
+<li id="menu-item-684415" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-684415"><a href="http://www.tribtoday.com/sports/">Sports</a></li>
+<li id="menu-item-684414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684414"><a href="http://www.tribtoday.com/opinion/">Opinion</a></li>
+<li id="menu-item-684411" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684411"><a href="http://www.tribtoday.com/life/">Life</a></li>
+<li id="menu-item-684413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684413"><a href="http://www.tribtoday.com/obituaries/">Obituaries</a></li>
+<li id="menu-item-684306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-684306"><a href="http://www.hot-ads.com/browse/index.cfm?SID=OH&#038;RGID=00100000000&#038;CID=20">Classifieds</a></li>
+<li id="menu-item-684410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-684410"><a href="http://jobs.tribtoday.com">Jobs</a></li>
+<li id="menu-item-684465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684465"><a href="http://www.tribtoday.com/garage-sales/">Garage Sales</a></li>
+</ul></div>	</nav>
+	<aside id="social_search">
+		<ul>
+			<a href="http://twitter.com/TribToday/" target="_blank"><li><img src="http://www.tribtoday.com/wp-content/themes/coreV2/images/twitter_header_black.png" border="0" alt="Twitter Icon"/></li></a>
+			<a href="http://www.facebook.com/TribuneChronicle" target="_blank"><li><img src="http://www.tribtoday.com/wp-content/themes/coreV2/images/facebook_header_black.png" border="0"  alt="Facebook Icon"/></li></a>
+			<li><a href="#" id="searchtoggl"><img class="top_search" src="http://www.tribtoday.com/wp-content/themes/coreV2/images/search_icon_black.png" border="0"  /></a></li>
+		</ul>
+	</aside>
+	<div style="clear:both"></div>
+</header>
+
+<div id="searchbar" class="clearfix">
+	<form id="searchform" method="get" action="/search/">
+		<input type="text" name="s" id="s" placeholder="Search Keywords here..." autocomplete="off">
+	</form>
+</div>
+<div id="website_logo">
+	<a href="http://www.tribtoday.com/" rel="home"><img src="http://www.tribtoday.com/wp-content/themes/coreV2/images/website_logo.png" border="0" alt="homepage logo" /></a>
+</div>
+<aside id="todays_date">
+			<ul>
+                                <li>
+                                        February 26, 2019                                </li>
+				<li>|</li>
+				<li><a href="https://www.mynewsonthego.com/tribunechronicle/" target="_blank">Today's Paper</a></li>
+<li>|</li>
+				<li><a href="/submit-news/">Submit News</a></li>
+				<li>|</li>
+				<li><a href="/store/">Subscribe Today</a></li>
+			</ul>
+</aside>
+
+
+<!--Pay Wall pt 1--->
+<script language="javascript">
+
+	function oniArticleAdDisplayNoSurvey() {
+		document.write("<div id='CMSv2_Article_300x250' style='text-align:center; margin-bottom:15px;'>");
+		document.write('<scr' + 'ipt type="text/javascript">');
+		document.write("googletag.cmd.push(function() { googletag.display('CMSv2_Article_300x250'); });");
+		document.write('</scr' + 'ipt>');
+		document.write('</div>');
+	}
+
+
+</script>
+<div id="mobile_breaking"></div>
+<div id="content_wrap">
+	<main id="content" class="article">
+		<section id="left_column_inside">
+			<div id="inside_left_column">
+				<div id="desktop_breaking"></div><div style="clear:both"></div>
+								 <!-- THIS COUNTS POST VIEWS FOR POPULAR POSTS LIST -->
+								<article id="single">
+					<h1>Bristol grinds out win over Garfield</h1>
+					<h2></h2>
+					<aside id="article_details">
+						<nav>
+							<a href="http://www.tribtoday.com/sports/high-school-sports/" title="View all posts in High School Sports" >High School Sports</a> 						</nav>
+												<time><p>Feb 13, 2019</p></time>
+						<div class="half_article_details">
+														<h4>Brian Yauger</h4>
+							<h5>Sports reporter</h5>
+							<h6>byauger@tribtoday.com</h6>
+							<div class="clear"></div>
+						</div>
+						<div class="half_article_details article_details_icons">
+							<section>
+								<a href="http://www.facebook.com/sharer.php?u=http://www.tribtoday.com/sports/high-school-sports/2019/02/bristol-grinds-out-win-over-garfield/" class="popup"><img src="http://www.tribtoday.com/wp-content/themes/coreV2/images/facebook_article_icon.png"></a>
+								<a href="http://twitter.com/share?text=Bristol grinds out win over Garfield" class="twitter popup"><img src="http://www.tribtoday.com/wp-content/themes/coreV2/images/twitter_article_icon.png" border="0" /></a>
+								<div style="clear:both"></div>
+							</section>
+							<ul>
+								<li><a href="mailto:?subject=Bristol grinds out win over Garfield&amp;body=http://www.tribtoday.com/sports/high-school-sports/2019/02/bristol-grinds-out-win-over-garfield/" ><img src="http://www.tribtoday.com/wp-content/themes/coreV2/images/email_icon.png" border="0" /></a></li>
+								<li><a href="javascript:window.print()"><img src="http://www.tribtoday.com/wp-content/themes/coreV2/images/print_icon.png" border="0" /></a></li>
+							</ul>
+							<div class="clear"></div>
+													</div>
+						<div style="clear:both"></div>
+						<div id='CMSv2_Left_160x600' style='text-align:center;'>
+    <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('CMSv2_Left_160x600'); });
+    </script>
+</div>					</aside>
+					<section id="article_content">
+						
+	<!-- <input type=radio id="show" name="group"><label for="show">SHOW ARTICLE</label>
+	<div class="hide_article"> -->
+
+<div id="single_article_image_blur"></div><div id="single_article_image"><img width="1065" height="840" src="http://s3.amazonaws.com/ogden_images/www.tribtoday.com/images/2019/02/13012413/bristol-1-1065x840.jpg" class="attachment-large size-large" alt="" /></div><p id="caption">Tribune Chronicle / Brian Yauger
+Bristol’s Mike Wiebe, left, drives past Jared Simon, center, and Anthony Demma, right, in Bristol’s 66-60 victory over Garfield on Tuesday.</p><p>
+		<style type='text/css'>
+			#gallery-4 {
+				margin: auto;
+			}
+			#gallery-4 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-4 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-4 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-4' class='gallery galleryid-792929 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://www.tribtoday.com/sports/high-school-sports/2019/02/bristol-grinds-out-win-over-garfield/attachment/bristol-1-4/'></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-4-792930'>
+				Tribune Chronicle / Brian Yauger
+Bristol’s Mike Wiebe, left, drives past Jared Simon, center, and Anthony Demma, right, in Bristol’s 66-60 victory over Garfield on Tuesday.
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://www.tribtoday.com/sports/high-school-sports/2019/02/bristol-grinds-out-win-over-garfield/attachment/bristol-2-4/'></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-4-792931'>
+				Tribune Chronicle / Brian Yauger
+Damion Durst of Bristol drives down the court before going for a layup in the fourth quarter of Tuesday’s game.
+				</dd></dl>
+			<br style='clear: both' />
+		</div>
+BRISTOLVILLE &#8212; Bristol added another big win to its resume, defeating Garfield, 66-60, Tuesday night in what Panthers coach Craig Giesy described as a <span class="quotations">&#8220;grind it out&#8221;</span> game. </p>
+<p><span class="quotations">&#8220;Tonight was a grind it out type of game,&#8221;</span> Giesy said. &#8220;Close the whole time, just trying to find a way to make plays. One of those nights where it&#8217;s kind of ugly both ways. Over a 22-game season you&#8217;re definitely going to have them.</p>
+<p><span class="quotations">&#8220;Down the stretch, obviously we have to play better. We were making bad decisions down the stretch. Overall, I&#8217;m happy. We&#8217;re approaching the end of the year, we&#8217;re trying to grind it out, trying to get healthy and this is a step in the right direction heading into tournament time.&#8221;</span></p>
+<p>Bristol came out slow in the first quarter, but it pulled within three to end the quarter. The Panthers then went on a tear, outscoring the G-Men, 22-15, in the second quarter to take the lead at halftime. Giesy&#8217;s message to his team was simple: Communication.</p>
+<p><span class="quotations">&#8220;We had a couple guys not doing their jobs early and when you have two or three kids not doing your job that&#8217;s the result you&#8217;re going to get,&#8221;</span> Giesy said. <span class="quotations">&#8220;I thought when we settled down in the second and third, guys knew their roles and played their roles very well. I thought things got better.&#8221;</span></p>
+<div id="single_article_image_blur"></div><div id="single_article_image"><img width="603" height="840" src="http://s3.amazonaws.com/ogden_images/www.tribtoday.com/images/2019/02/13012435/bristol-2-603x840.jpg" class="attachment-large size-large" alt="" /></div><p id="caption">Tribune Chronicle / Brian Yauger
+Damion Durst of Bristol drives down the court before going for a layup in the fourth quarter of Tuesday’s game.</p><p>Matt Stephens led the Panthers, scoring 20 points, 17 of those in the first half. Stephens was one of four from Bristol who scored in double figures. Mike Wiebe and Matt Church both scored 14 points and Gage Elza scored 10.</p>
+<p><span class="quotations">&#8220;Matt Stephens played a great game,&#8221;</span> Giesy said. <span class="quotations">&#8220;He played great Friday night, played another great game tonight. He&#8217;s really coming into his own at the end of the year.&#8221;</span></p>
+<p>Leading Garfield were Trystan Gedeon and Jared Simon who scored 18 points. Austin Peterson added 10 points. The G-Men scored 19 points in the first quarter, but couldn&#8217;t keep up the scoring, scoring 15 in the second, 14 in the third and 12 in the fourth.</p>
+<p><span class="quotations">&#8220;Bristol is obviously a quality team, they&#8217;re state-ranked for a reason,&#8221;</span> Garfield coach Andrew Olesky said. &#8220;They&#8217;ve just got shooters all over the place, they&#8217;re so fundamentally sound, they play so well together. Obviously they pose a challenge for any team that they play. </p>
+<p><span class="quotations">&#8220;I thought our guys came today and battled. I thought we handled the pressure well in the first half. I thought we had some good looks offensively, but I think we surrendered too many second-chance points throughout the duration of the game and enough turnovers and it finally caught up to us.&#8221;</span></p>
+<p>The G-Men (7-14) close their season on the road against Portage Trail Conference foe Mogadore. Up next for Bristol is a showdown against Western Reserve Academy. In the tournament, the second-seeded Panthers will face the winner of JFK and Maplewood.</p>
+<p><span class="quotations">&#8220;The kids are ready to go,&#8221;</span> Giesy said. <span class="quotations">&#8220;We&#8217;re going to give them a day or so off to try and regroup and get ready for this push.&#8221;</span></p>
+
+														
+                            								<section id="comments">
+									<h1>COMMENTS</h1>
+									<div class="fb-comments" data-href="http://www.tribtoday.com/sports/high-school-sports/2019/02/bristol-grinds-out-win-over-garfield/" data-num-posts="6" data-width="100%" data-colorscheme="light"></div>								</section>
+														
+					</section>
+					<div style="clear:both"></div>
+					<section id="related">
+	<a href="http://www.tribtoday.com/sports/high-school-sports/"><h1 id="related_six_title">High School Sports</h1></a>
+		<section id="related_six">
+				
+						<article>
+							
+								<a style="color:#2a2a2a;" href="http://www.tribtoday.com/sports/high-school-sports/2019/02/niles-fitch-at-district-bowling/"><h1>Niles, Fitch at district bowling</h1></a>
+								<p>CLEVELAND — Niles McKinley’s Nathan Zook took 78th at Sunday’s Division I district bowling tournament at ...</p>
+													</article>
+					
+						<article>
+															<div class="related_image_blur"></div>
+								<div class="related_image"><a href="http://www.tribtoday.com/sports/high-school-sports/2019/02/stow-holds-fitch-hunter-in-check/"><img width="436" height="500" src="http://s3.amazonaws.com/ogden_images/www.tribtoday.com/images/2019/02/26003721/Fitch-out-436x500.jpg" class="attachment-medium size-medium wp-post-image" alt="" /></a></div>
+								<a style="color:#2a2a2a;" href="http://www.tribtoday.com/sports/high-school-sports/2019/02/stow-holds-fitch-hunter-in-check/"><h1 class="smaller">Stow holds Fitch, Hunter in check</h1></a>
+
+													</article>
+					
+						<article>
+															<div class="related_image_blur"></div>
+								<div class="related_image"><a href="http://www.tribtoday.com/sports/high-school-sports/2019/02/ursuline-handles-rival-mooney/"><img width="750" height="500" src="http://s3.amazonaws.com/ogden_images/www.tribtoday.com/images/2019/02/26003729/Harris-750x500.jpg" class="attachment-medium size-medium wp-post-image" alt="" /></a></div>
+								<a style="color:#2a2a2a;" href="http://www.tribtoday.com/sports/high-school-sports/2019/02/ursuline-handles-rival-mooney/"><h1 class="smaller">Ursuline handles rival Mooney</h1></a>
+
+													</article>
+					
+						<article>
+							
+								<a style="color:#2a2a2a;" href="http://www.tribtoday.com/sports/high-school-sports/2019/02/high-school-basketball-records-4/"><h1>High school basketball records</h1></a>
+								<p>Boys basketball
+
+Note: Records are unofficial and based on reported games. League records are from league scources ...</p>
+													</article>
+					
+						<article>
+							
+								<a style="color:#2a2a2a;" href="http://www.tribtoday.com/sports/high-school-sports/2019/02/bombers-edged-by-mogadore/"><h1>Bombers edged by Mogadore</h1></a>
+								<p>MOGADORE 57, WINDHAM 53: CLEVELAND — The Bombers fell to Mogadore in their boys basketball regular-season finale ...</p>
+													</article>
+					
+						<article>
+							
+								<a style="color:#2a2a2a;" href="http://www.tribtoday.com/sports/high-school-sports/2019/02/basista-paces-boardman-in-canton/"><h1>Basista paces Boardman in Canton</h1></a>
+								<p>CANTON — Boardman junior Noah Basista placed eighth in the boys 100-yard breaststroke in a time of 56.48 seconds ...</p>
+													</article>
+					
+				<div style="clear:both"></div>
+		</section>
+		<!-- Taboola PRE
+	<script type="text/javascript">
+		window._taboola = window._taboola || [];
+		_taboola.push({article:'auto'});
+		!function (e, f, u, i) {
+			if (!document.getElementById(i)){
+				e.async = 1;
+				e.src = u;
+				e.id = i;
+				f.parentNode.insertBefore(e, f);
+			}
+		}(document.createElement('script'),
+			document.getElementsByTagName('script')[0],
+			'//cdn.taboola.com/libtrc/ogdennewspapers-network/loader.js',
+			'tb_loader_script');
+	</script>
+	<!-- Taboola DISPLAY
+	<div id="taboola-below-article-thumbnails" style="margin-top:20px;"></div>
+	<script type="text/javascript">
+		window._taboola = window._taboola || [];
+		_taboola.push({
+			mode: 'thumbnails-a',
+			container: 'taboola-below-article-thumbnails',
+			placement: 'Below Article Thumbnails',
+			target_type: 'mix'
+		});
+	</script>
+	<!-- Tabool POST
+	<script type="text/javascript">
+		window._taboola = window._taboola || [];
+		_taboola.push({flush: true});
+	</script>-->
+</section>
+				</article>
+			</div>
+		</section>
+		<aside id="right_column_inside">
+			<div id='CMSv2_Right_300x600' style='text-align:center'>
+    <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('CMSv2_Right_300x600'); });
+    </script>
+</div>			<section id="the_latest">
+
+	<script type="text/javascript">
+			$(document).ready(function() {
+			$(".tab_content").hide();
+			$(".tab_content:first").show(); 
+			$("ul.tabs li").click(function() {
+			$("ul.tabs li").removeClass("active");
+			$(this).addClass("active");
+			$(".tab_content").hide();
+			var activeTab = $(this).attr("rel"); 
+			$("#"+activeTab).fadeIn(); 
+			});
+		});
+	</script>
+
+	<ul class="tabs"> 
+		<li class="active" rel="tab1" id="tab_top1">MOST READ</li>
+		<!-- <li rel="tab2" id="tab_top2">THE LATEST</li> -->
+    </ul>
+    <div class="tab_container"> 
+		<div id="tab1" class="tab_content">
+			    		<article>
+    			<a href="http://www.tribtoday.com/life/lifecovers/2019/02/clock-is-ticking-and-scales-are-moving/"><h1>Clock is ticking and scales are moving</h1></a>
+    		</article>
+			    		<article>
+    			<a href="http://www.tribtoday.com/news/latest-news/2019/02/tue-1244-a-m-uaw-sues-gm-over-lordstown-other-unallocations/"><h1>Tue. 12:44 a.m.: UAW sues GM over Lordstown</h1></a>
+    		</article>
+			    		<article>
+    			<a href="http://www.tribtoday.com/obituaries/2019/02/louise-airhart-1929-2019/"><h1>Louise Airhart 1929-2019</h1></a>
+    		</article>
+			    		<article>
+    			<a href="http://www.tribtoday.com/obituaries/2019/02/dwight-j-norris-1953-2019/"><h1>Dwight J. Norris 1953-2019</h1></a>
+    		</article>
+			    		<article>
+    			<a href="http://www.tribtoday.com/obituaries/2019/02/lloyd-c-gintert-1927-2019/"><h1>Lloyd C. Gintert 1927-2019</h1></a>
+    		</article>
+			    		<article>
+    			<a href="http://www.tribtoday.com/news/local-news/2019/02/newton-falls-recall-will-continue/"><h1>Newton Falls recall will continue</h1></a>
+    		</article>
+					</div>
+		<!--- <div id="tab2" class="tab_content">
+							<article>
+					<a href="" title=""><h1></h1></a>
+					<time></time>
+				</article>
+					</div> -->
+	</div>
+	<div style="clear:both"></div>
+</section>
+
+
+
+
+
+			<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#mc_embed_signup
+{clear:left; font:14px; }
+/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<section id="newsletter">
+	<h1>Newsletter</h1>
+    <p>Today's breaking news and more in your inbox</p>
+	<div id="mc_embed_signup">
+		<form action="//tribtoday.us3.list-manage.com/subscribe/post?u=ea7af0e7e72015b2fa67bc2a7&amp;id=69ca0fa6d7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			<div id="mc_embed_signup_scroll">
+
+				<div class="mc-field-group">
+					<input type="email" value="" name="EMAIL" class="required email" placeholder="Email address" id="mce-EMAIL">
+				</div>
+
+				<div class="mc-field-group input-group">
+					<strong>I'm interested in (please check all that apply) </strong>
+					<ul>
+						<li><input type="checkbox" value="1" name="group[11177][1]" id="mce-group[11177]-11177-0"><label for="mce-group[11177]-11177-0">Daily Newsletter</label></li>
+						<li><input type="checkbox" value="2" name="group[11177][2]" id="mce-group[11177]-11177-1"><label for="mce-group[11177]-11177-1">Breaking News</label></li>
+						<div style="clear:both"></div>
+					</ul>
+				</div>
+
+				<div id="mce-responses" class="clear">
+					<div class="response" id="mce-error-response" style="display:none"></div>
+					<div class="response" id="mce-success-response" style="display:none"></div>
+				</div> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+
+				  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ea7af0e7e72015b2fa67bc2a7_69ca0fa6d7" tabindex="-1" value=""></div>
+				    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+			</div>
+		</form>
+	</div>
+</section>
+
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($)
+{window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}
+(jQuery));var $mcj = jQuery.noConflict(true);</script>
+			<div id='CMSv2_Middle_300x250' style='text-align:center'>
+    <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('CMSv2_Middle_300x250'); });
+    </script>
+</div>		</aside>
+		<div style="clear:both"></div>
+	</main>
+</div>
+<div id='CMSv2_Bottom_728x90' style='text-align:center'>
+    <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('CMSv2_Bottom_728x90'); });
+    </script>
+</div>
+<!-- include script to activate BREAKING NEWS -->
+<script language="javascript">
+
+	$.getScript('/_breakingNews/inc_breakingNews.js');
+	
+</script>
+
+<footer>
+	<section id="top_footer">
+		<aside>
+			<div id="footer_logo">
+        		<a href="http://www.tribtoday.com/" rel="home"><img src="http://www.tribtoday.com/wp-content/themes/coreV2/images/website_logo.png" border="0" alt="homepage logo" /></a>
+    		</div>
+    		<a href="http://twitter.com/TribToday/" target="_blank"><img class="footer_soc_icon" src="http://www.tribtoday.com/wp-content/themes/coreV2/images/twitter_footer.png" border="0" alt="twitter icon" /></a>
+    		<a href="http://www.facebook.com/TribuneChronicle" target="_blank"><img class="footer_soc_icon" src="http://www.tribtoday.com/wp-content/themes/coreV2/images/facebook_footer.png" border="0" alt="facebook icon" /></a>
+    		<style="clear_both"></style>
+		</aside>
+		<div id="footer_links">
+			<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-684428" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-684428"><a href="http://www.tribtoday.com/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-684431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684431"><a href="http://www.tribtoday.com/news/local-news/">Local News</a></li>
+	<li id="menu-item-684430" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684430"><a href="http://www.tribtoday.com/news/community-news/">Community News</a></li>
+	<li id="menu-item-684432" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684432"><a href="http://www.tribtoday.com/obituaries/">Obituaries</a></li>
+	<li id="menu-item-684429" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684429"><a href="http://www.tribtoday.com/news/business/">Business</a></li>
+</ul>
+</li>
+<li id="menu-item-684438" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-684438"><a href="http://www.tribtoday.com/sports/">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-684440" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684440"><a href="http://www.tribtoday.com/sports/local-sports/">Local Sports</a></li>
+	<li id="menu-item-684442" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684442"><a href="http://www.tribtoday.com/sports/sport-columns/">Sport columns</a></li>
+	<li id="menu-item-684439" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-684439"><a href="http://www.tribtoday.com/sports/high-school-sports/">High School Sports</a></li>
+	<li id="menu-item-684441" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684441"><a href="http://www.tribtoday.com/sports/ohio-sports-apwire/">Ohio Sports</a></li>
+</ul>
+</li>
+<li id="menu-item-684433" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-684433"><a href="http://www.tribtoday.com/opinion/">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-684435" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684435"><a href="http://www.tribtoday.com/opinion/editorials/">Editorials</a></li>
+	<li id="menu-item-684434" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684434"><a href="http://www.tribtoday.com/opinion/community-columnists/">Community Columnists</a></li>
+	<li id="menu-item-684437" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-684437"><a href="http://www.tribtoday.com/opinion/letters-to-the-editor/">Letters to the Editor</a></li>
+</ul>
+</li>
+<li id="menu-item-684423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-684423"><a href="http://www.tribtoday.com/life/">Life</a>
+<ul class="sub-menu">
+	<li id="menu-item-697633" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-697633"><a href="http://www.tribtoday.com/life/lifecovers/">Lifestyles</a></li>
+	<li id="menu-item-697634" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-697634"><a href="http://www.tribtoday.com/life/society/">Society</a></li>
+	<li id="menu-item-697635" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-697635"><a href="http://www.tribtoday.com/life/ticket/">Ticket</a></li>
+</ul>
+</li>
+<li id="menu-item-684422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-684422"><a href="http://www.tribtoday.com/contact-us/">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-684419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684419"><a href="http://www.tribtoday.com/submit-news/">Submit News</a></li>
+	<li id="menu-item-684418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684418"><a href="http://www.tribtoday.com/store/">Subscribe</a></li>
+	<li id="menu-item-684421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684421"><a href="http://www.tribtoday.com/advertise/">Advertise</a></li>
+	<li id="menu-item-684420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684420"><a href="http://www.tribtoday.com/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+</ul></div>			<style="clear_both"></style>
+		</div>
+		<style="clear_both"></style>
+	</section>
+	<section id="bottom_footer">
+		<p>Copyright © Tribune Chronicle | http://www.tribtoday.com | 240 Franklin Street SE, Warren, OH 44483 | 330-841-1600 | <a style="font-family:'Roboto Slab'; color:#999" href="http://www.ogdennews.com" target="_blank">Ogden Newspapers</a> | <a style="font-family:'Roboto Slab'; color:#999" href="http://www.nuttingcompany.com" target="_blank">The Nutting Company</a></p>
+	</section>
+</footer>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=60098977617&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://www.tribtoday.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+		<div id="wprmenu_bar" class="wprmenu_bar">
+			<div class="wprmenu_icon">
+				<span class="wprmenu_ic_1"></span>
+				<span class="wprmenu_ic_2"></span>
+				<span class="wprmenu_ic_3"></span>
+			</div>
+			<div class="menu_title">
+											</div>
+		</div>
+
+		<div id="wprmenu_menu" class="wprmenu_levels left wprmenu_custom_icons">
+						<ul id="wprmenu_menu_ul">
+				<li id="menu-item-608240" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-608240"><a href="http://www.tribtoday.com/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-608246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608246"><a href="http://www.tribtoday.com/news/local-news/">Local News</a></li>
+	<li id="menu-item-608245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608245"><a href="http://www.tribtoday.com/news/latest-news/">Latest News</a></li>
+	<li id="menu-item-608250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608250"><a href="http://www.tribtoday.com/obituaries/">Obituaries</a></li>
+	<li id="menu-item-608241" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608241"><a href="http://www.tribtoday.com/news/business/">Business</a></li>
+	<li id="menu-item-608243" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608243"><a href="http://www.tribtoday.com/news/community-news/">Community News</a></li>
+	<li id="menu-item-608249" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608249"><a href="http://www.tribtoday.com/news/police-blotters/">Police Blotters</a></li>
+	<li id="menu-item-608248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608248"><a href="http://www.tribtoday.com/news/ohio-news-apwire/">Ohio News</a></li>
+	<li id="menu-item-608247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608247"><a href="http://www.tribtoday.com/news/national-news-apwire/">National News</a></li>
+	<li id="menu-item-608244" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608244"><a href="http://www.tribtoday.com/news/international-news-apwire/">International News</a></li>
+</ul>
+</li>
+<li id="menu-item-608256" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-608256"><a href="http://www.tribtoday.com/sports/">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-608260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608260"><a href="http://www.tribtoday.com/sports/local-sports/">Local Sports</a></li>
+	<li id="menu-item-608264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608264"><a href="http://www.tribtoday.com/sports/sport-columns/">Sport columns</a></li>
+	<li id="menu-item-608259" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-608259"><a href="http://www.tribtoday.com/sports/high-school-sports/">High School Sports</a></li>
+	<li id="menu-item-608265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608265"><a href="http://www.tribtoday.com/sports/ysu-sports/">YSU Sports</a></li>
+	<li id="menu-item-608263" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608263"><a href="http://www.tribtoday.com/sports/ohio-sports-apwire/">Ohio Sports</a></li>
+	<li id="menu-item-608262" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608262"><a href="http://www.tribtoday.com/sports/national-sports-apwire/">National Sports</a></li>
+</ul>
+</li>
+<li id="menu-item-608251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-608251"><a href="http://www.tribtoday.com/opinion/">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-608252" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608252"><a href="http://www.tribtoday.com/opinion/community-columnists/">Community Columnists</a></li>
+	<li id="menu-item-608253" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608253"><a href="http://www.tribtoday.com/opinion/editorials/">Editorials</a></li>
+	<li id="menu-item-608255" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608255"><a href="http://www.tribtoday.com/opinion/letters-to-the-editor/">Letters to the Editor</a></li>
+</ul>
+</li>
+<li id="menu-item-608235" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-608235"><a href="http://www.tribtoday.com/life/">Life</a>
+<ul class="sub-menu">
+	<li id="menu-item-697629" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-697629"><a href="http://www.tribtoday.com/life/lifecovers/">Lifestyles</a></li>
+	<li id="menu-item-697632" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-697632"><a href="http://www.tribtoday.com/life/ticket/">Ticket</a></li>
+	<li id="menu-item-697631" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-697631"><a href="http://www.tribtoday.com/life/society/">Society</a></li>
+	<li id="menu-item-697630" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-697630"><a href="http://www.tribtoday.com/life/kimerer/">Patty Kimerer column</a></li>
+	<li id="menu-item-697628" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-697628"><a href="http://www.tribtoday.com/life/burtseyeview/">Burton Cole column</a></li>
+	<li id="menu-item-697627" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-697627"><a href="http://www.tribtoday.com/news/christmas/">Annual Christmas story</a></li>
+</ul>
+</li>
+<li id="menu-item-608234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-608234"><a href="http://www.tribtoday.com/deals-on-wheels-articles/">Deals on Wheels</a></li>
+<li id="menu-item-684464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684464"><a href="http://www.tribtoday.com/garage-sales/">Garage Sales</a></li>
+<li id="menu-item-596766" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-596766"><a href="http://www.hot-ads.com/browse/index.cfm?SID=OH&#038;RGID=00100000000&#038;CID=20">Classifieds</a></li>
+<li id="menu-item-594373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-594373"><a href="http://jobs.tribtoday.com">Jobs</a></li>
+<li id="menu-item-599632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-599632"><a href="http://www.tribtoday.com/contact-us/">Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-599629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-599629"><a href="http://www.tribtoday.com/store/">Subscribe</a></li>
+	<li id="menu-item-599633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-599633"><a href="http://www.tribtoday.com/advertise/">Advertise</a></li>
+	<li id="menu-item-694701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694701"><a href="http://www.tribtoday.com/contact-us/open-carrier-routes/">Open carrier routes</a></li>
+	<li id="menu-item-599630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-599630"><a href="http://www.tribtoday.com/terms-of-service/">Terms of Service</a></li>
+</ul>
+</li>
+<li id="menu-item-599631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-599631"><a href="http://www.tribtoday.com/submit-news/">Submit News</a></li>
+			</ul>
+					</div>
+		
+<script type="text/javascript">
+$(function(){
+  var $searchlink = $('#searchtoggl i');
+  var $searchbar  = $('#searchbar');
+  
+  $('#social_search ul li a').on('click', function(e){
+    e.preventDefault();
+    
+    if($(this).attr('id') == 'searchtoggl') {
+      if(!$searchbar.is(":visible")) { 
+        // if invisible we switch the icon to appear collapsable
+        $searchlink.removeClass('top_search').addClass('top_search-minus');
+      } else {
+        // if visible we switch the icon to appear as a toggle
+        $searchlink.removeClass('top_search-minus').addClass('top_search');
+      }
+      
+      $searchbar.slideToggle(300, function(){
+        // callback after search bar animation
+      });
+    }
+  });
+  
+  /* $('#searchform').submit(function(e){
+    e.preventDefault(); // stop form submission
+  }); */
+});
+</script>
+
+
+<style>#fb-root {display:none !important;}</style>
+</body>
+</html>
+<!-- *´¨)
+     ¸.•´¸.•*´¨) ¸.•*¨)
+     (¸.•´ (¸.•` ¤ Comet Cache is Fully Functional ¤ ´¨) -->
+
+<!-- Cache File Version Salt:       n/a -->
+
+<!-- Cache File URL:                http://content.tribtoday.com/sports/high-school-sports/2019/02/bristol-grinds-out-win-over-garfield/ -->
+<!-- Cache File Path:               /cache/comet-cache/cache/http/content-tribtoday-com/sports/high-school-sports/2019/02/bristol-grinds-out-win-over-garfield.html -->
+
+<!-- Cache File Generated Via:      HTTP request -->
+<!-- Cache File Generated On:       Feb 26th, 2019 @ 5:51 pm UTC -->
+<!-- Cache File Generated In:       0.69455 seconds -->
+
+<!-- Cache File Expires On:         Feb 27th, 2019 @ 5:51 pm UTC -->
+<!-- Cache File Auto-Rebuild On:    Feb 27th, 2019 @ 5:51 pm UTC -->

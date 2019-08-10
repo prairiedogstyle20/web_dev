@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description"
+          content="Stream SiriusXM on the go and at home. Listen to music, live sports radio, the best talk and entertainment radio. Sign up for your 30-day free trial and login to start listening today!">
+    <meta name="apple-itunes-app" content="app-id=317951436">
+    <title>SiriusXM Streaming: Music, Sports, News, &amp; Talk Radio</title>
+    <base href="/">
+  </head>
+<body>
+<app-sxm-landing-client></app-sxm-landing-client>
+<script type="application/javascript" src="polyfills.deepLink.bundle.ed0d26c.js"></script><script type="application/javascript" src="styles.deepLink.bundle.ed0d26c.js"></script><script type="application/javascript" src="vendor.deepLink.bundle.ed0d26c.js"></script><script type="application/javascript" src="deepLink.bundle.ed0d26c.js"></script></body>
+</html>

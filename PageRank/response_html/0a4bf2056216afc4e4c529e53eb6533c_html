@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/materialize.min.css">
+	<link rel="icon" type="image/png" href="img/capFavicon.ico"/>
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+
+	<title>Aiding and Abetting: What the Trump Campaign Knew About Russian Hacking - The Moscow Project</title>
+	<meta name="description" content="Believing that the Trump campaign didnât collude with Russia requires an innocent explanation for more than 100 contacts and 28 meetings between the two. It requires believing that when then-candidate Donald Trump cited WikiLeaks 164 times in the 2016 electionâs final month, he didnât know the stolen emails were part of Russiaâs influence campaign."/>
+	<link rel="canonical" href="https://themoscowproject.org/explainers/aiding-and-abetting/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Aiding and Abetting: What the Trump Campaign Knew About Russian Hacking - The Moscow Project" />
+	<meta property="og:description" content="Believing that the Trump campaign didnât collude with Russia requires an innocent explanation for more than 100 contacts and 28 meetings between the two. It requires believing that when then-candidate Donald Trump cited WikiLeaks 164 times in the 2016 electionâs final month, he didnât know the stolen emails were part of Russiaâs influence campaign." />
+	<meta property="og:url" content="https://themoscowproject.org/explainers/aiding-and-abetting/" />
+	<meta property="og:site_name" content="The Moscow Project" />
+	<meta property="article:section" content="Explainer" />
+	<meta property="article:published_time" content="2019-01-22T16:48:23+00:00" />
+	<meta property="article:modified_time" content="2019-01-22T20:02:30+00:00" />
+	<meta property="og:updated_time" content="2019-01-22T20:02:30+00:00" />
+	<meta property="og:image" content="http://cdn.themoscowproject.org/content/uploads/2017/11/share-imageA.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:description" content="Believing that the Trump campaign didnât collude with Russia requires an innocent explanation for more than 100 contacts and 28 meetings between the two. It requires believing that when then-candidate Donald Trump cited WikiLeaks 164 times in the 2016 electionâs final month, he didnât know the stolen emails were part of Russiaâs influence campaign." />
+	<meta name="twitter:title" content="Aiding and Abetting: What the Trump Campaign Knew About Russian Hacking - The Moscow Project" />
+	<meta name="twitter:site" content="@moscow_project" />
+	<meta name="twitter:image" content="http://cdn.themoscowproject.org/content/uploads/2017/11/share-imageA.jpg" />
+	<meta name="twitter:creator" content="@moscow_project" />
+	<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"https://themoscowproject.org/","sameAs":["https://twitter.com/moscow_project"],"@id":"https://themoscowproject.org/#organization","name":"The Moscow Project","logo":"http://cdn.themoscowproject.org/content/uploads/2017/11/share-imageA.jpg"}</script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-98806268-2', 'auto');
+		ga('send', 'pageview');
+	</script>
+</head>
+
+<body>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://use.typekit.net/wbs0nqn.css">
+	<script>try{Typekit.load({ async: true });}catch(e){}</script>
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:500,700" rel="stylesheet">
+	<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+
+	<div class="menuOverlay">
+			<button id="btn-menu-close" class="btn--menu-close color" aria-label="Close menu">
+				<svg id="svgX" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+					<g><path class="color" d="M585.8,500l385.9-385.9c24.5-24.5,24.5-61.3,0-85.8c-24.5-24.5-61.3-24.5-85.8,0L500,414.3L114.1,28.4c-24.5-24.5-61.2-24.5-85.8,0c-24.5,24.5-24.5,61.3,0,85.8L411.2,500L28.4,885.9c-24.5,24.5-24.5,61.3,0,85.8c9.2,12.3,27.6,18.4,42.9,18.4c15.3,0,30.6-6.1,42.9-18.4L500,585.8l385.9,385.9c12.3,12.3,27.6,18.4,42.9,18.4s30.6-6.1,42.9-18.4c24.5-24.5,24.5-61.3,0-85.8L585.8,500z"/></g>
+				</svg>
+			</button>
+
+			<div class="align-middle">
+				<div class="menu-mobile-navigation-container">
+
+					<ul id="menu-mobile-navigation" class="menu">
+						<li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-231"><a href="https://themoscowproject.org/">Home</a></li>
+						<li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-135 current_page_item current_page_parent menu-item-230"><a href="https://themoscowproject.org/briefings/">Briefings</a></li>
+						<li id="menu-item-1260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1260"><a href="https://themoscowproject.org/details/">The Details</a></li>
+						<li id="menu-item-2213" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2213"><a href="https://themoscowproject.org/chapters">The Full Story</a></li>
+						<li id="menu-item-2214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2214"><a href="https://themoscowproject.org/collusion-timeline">Timeline</a></li>
+						<li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="https://themoscowproject.org/about/">About</a></li>
+						<li id="menu-item-228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="https://themoscowproject.org/contact/">Contact</a></li>
+
+					</ul></div>
+<!--
+			<nav class="secondary">
+					<ul id="secondary-navigation" class="menu"><li id="menu-item-1085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1085"><a href="https://themoscowproject.org/about/">About</a></li>
+						<li id="menu-item-1086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1086"><a href="https://themoscowproject.org/contact/">Contact</a></li>
+						<li id="menu-item-35" class="donate menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a target="_blank" href="https://ssl1.americanprogress.org/o/507/p/salsa/donation/common/public/?donate_page_KEY=7450">Donate</a></li>
+					</ul>
+			</nav>
+-->
+					<div class="social-mobile">
+						<div class="social links">
+							<ul>
+								<li class="twitter"><a href="https://twitter.com/moscow_project" target="_blank"><i class="fa fa-twitter" ></i></a></li>
+							</ul>
+						</div>
+					</div>
+			</div>
+	</div>
+
+	<div id="nav-header">
+
+		<div id="header-container">
+			<button class="hamburger hamburger--squeeze class="alert"" type="button" id="btn-menu">
+						<span class="hamburger-box">
+							<span id="ham-top" class="hamburger-inner"></span>
+							<span id="ham-mid" class="hamburger-inner"></span>
+							<span id="ham-btm" class="hamburger-inner"></span>
+						</span>
+			</button>
+			<div id="nav-logo"><a href="https://themoscowproject.org/">
+						<svg id="site_logo" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 645.3 280.5"><defs></defs><rect class="cls-1" width="48.7" height="280"/><path class="cls-2" d="M151,84.6H132.2v-49H118.8V20.1h45.5V35.6H151Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M249.7,84.6H229.9v-25h-15V84.7H195V20.1h19.8V43.9h15V20.1h19.8V84.6Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M334.6,84.6H286.1V20.1h48.5V35h-29v9.4h23.5V58.7H305.6V69.3h29Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M194.6,191.9H176.2V145.7l-12,46.2H151.6l-12.4-46.2v46.2H124.4V127.3h25.9l9.4,34.3,8.9-34.3h26v64.6Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M280.8,135c6,6.2,8.7,13.9,8.7,24.5,0,19.8-12.5,33.4-30.6,33.4-18.4,0-30.8-13.4-30.8-33.2,0-20,12.3-33.3,30.9-33.3C268.1,126.4,275.1,129.1,280.8,135Zm-31.4,25.3c0,12.1,3.1,18,9.4,18,4.9,0,7.6-3,8.6-9.6a68.66,68.66,0,0,0,.8-10.7c0-11.4-2.9-16.9-9.1-16.9S249.4,147.7,249.4,160.3Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M335.5,170c2,5.6,5.2,7.7,12,7.7,4.7,0,7.4-1.5,7.4-4.1s-2-4.1-7.8-5.1c-7.8-1.5-13.4-3.3-17.6-5.5-5.7-2.9-9-8.6-9-15.4,0-12.8,10.5-21.2,26.5-21.2,13.3,0,22.2,5.3,26.3,15.9l-16.5,4.9c-1.8-4.6-4.9-6.5-10.4-6.5-4,0-6.4,1.5-6.4,4.1,0,2.4,1.6,3.5,7.2,4.6,12,2.5,14.5,3.3,18.7,5.5A18.16,18.16,0,0,1,375,171c0,13.2-11.5,21.9-28.9,21.9-9.4,0-16.8-2.6-22.4-7.8-3.3-3.2-4.9-6.1-6.6-11.8Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M461.3,168.4c-1.1,8-2.9,12.2-7.3,16.7-4.9,5.1-11.7,7.7-19.8,7.7-17.9,0-29.3-12.7-29.3-32.7,0-10.6,3.2-19.9,9-26,4.9-5.1,11.9-7.7,20.5-7.7,10.7,0,18.6,4.3,23.1,12.5,2.2,4,3.2,7.3,3.8,13.4l-18.4,1.1c-.1-3.7-.4-5.3-1.4-7.5a7.82,7.82,0,0,0-7.1-4.8c-3.3,0-6.2,2.3-7.6,6-1.3,3.3-1.7,7.2-1.7,13.3,0,12.5,2.8,17.7,9.3,17.7,5.2,0,8.1-3.5,8.7-10.7Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M543.7,135c6,6.2,8.7,13.9,8.7,24.5,0,19.8-12.5,33.4-30.6,33.4-18.4,0-30.8-13.4-30.8-33.2,0-20,12.3-33.3,30.9-33.3C531.1,126.4,538,129.1,543.7,135Zm-31.3,25.3c0,12.1,3.1,18,9.4,18,4.9,0,7.6-3,8.6-9.6a68.66,68.66,0,0,0,.8-10.7c0-11.4-2.9-16.9-9.1-16.9S512.4,147.7,512.4,160.3Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M648.1,191.9H631.5l-9.1-35.6-8.5,35.6H596.6l-17.1-64.6H598l9.1,37.3,8.8-37.3h15.6l9.5,37.3,9.1-37.3h15.1Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M144.5,299.3h-20V234.7H152c10,0,15.5,1.5,20.2,5.1a19.77,19.77,0,0,1,7.2,15.5c0,12.3-9.4,20.5-23.6,20.5H144.6v23.5Zm6.4-37.3c6,0,8.7-2,8.7-6.4,0-4.1-2.7-6.1-8.1-6.1h-7.2V262Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M246.5,299.3,237,274.7h-6.2v24.6H211V234.7h33.8c14.6,0,23.4,7.4,23.4,19.7,0,8.1-3.1,12.7-11.4,16.8l11.6,28.1Zm-7.2-38.5c5.3,0,8.3-2.3,8.3-6.2s-2.8-6.2-7.6-6.2h-9.1v12.4Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M352,242.3c6,6.2,8.7,13.9,8.7,24.5,0,19.8-12.5,33.4-30.6,33.4-18.4,0-30.8-13.4-30.8-33.2,0-20,12.3-33.3,30.9-33.3C339.3,233.7,346.2,236.4,352,242.3Zm-31.4,25.3c0,12.1,3.1,18,9.4,18,4.9,0,7.6-3,8.6-9.6a68.66,68.66,0,0,0,.8-10.7c0-11.4-2.9-16.9-9.1-16.9S320.6,255,320.6,267.6Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M423.3,275.3c0,10.4-1,14.8-4.2,18.7-3.8,4.4-8.9,6.2-17.4,6.2a49.29,49.29,0,0,1-13.1-1.5V283.3a28,28,0,0,0,7.8,1.2,8.54,8.54,0,0,0,6.2-2.3c1.3-1.4,1.5-2.8,1.5-6.8V234.7h19.1v40.6Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M507.5,299.3H459V234.7h48.5v14.9h-29V259H502v14.3H478.5v10.6h29Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M594.4,275.7c-1.1,8-2.9,12.2-7.3,16.7-4.9,5.1-11.7,7.7-19.8,7.7-17.9,0-29.3-12.7-29.3-32.7,0-10.7,3.2-19.9,9-26,4.9-5.1,11.9-7.7,20.5-7.7,10.7,0,18.6,4.3,23.1,12.5,2.2,4,3.2,7.3,3.8,13.4L576,260.7c-.1-3.7-.4-5.3-1.4-7.5a7.82,7.82,0,0,0-7.1-4.8c-3.3,0-6.2,2.3-7.6,6-1.3,3.3-1.7,7.2-1.7,13.3,0,12.5,2.8,17.7,9.3,17.7,5.2,0,8.1-3.5,8.7-10.7Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M654.3,299.3H635.5V250.2H622.1V234.7h45.5v15.5H654.2v49.1Z" transform="translate(-22.3 -19.7)"/></svg>					</a></div>
+
+
+			<nav class="primary">
+				<div class="nav-option" id="timeline-link"><a href="https://themoscowproject.org/collusion-timeline">TIMELINE</a></div>
+
+				<div id="thefullstory" class="nav-option"><a id="thefullstory-link" href="https://themoscowproject.org/chapters/">THE FULL STORY</a>
+					<ul id="story-sub" class="sub-menu">
+						<li class="sub-menu-item"><a href="https://themoscowproject.org/collusion-chapter/chapter-1/">Bailed Out By Russia</a></li>
+						<li class="sub-menu-item"><a href="https://themoscowproject.org/collusion-chapter/chapter-2/">Hybrid Warfare</a></li>
+						<li class="sub-menu-item"><a href="https://themoscowproject.org/collusion-chapter/chapter-3/">Cultivating an Asset</a></li>
+						<li class="sub-menu-item"><a href="https://themoscowproject.org/collusion-chapter/chapter-4/">The Election</a></li>
+						<li class="sub-menu-item"><a href="https://themoscowproject.org/collusion-chapter/chapter-5/">Putin's Payoff</a></li>
+						<li class="sub-menu-item"><a href="https://themoscowproject.org/collusion-chapter/chapter-6/">The Investigation</a></li>
+					</ul>
+				</div>
+
+				<div id="details" class="nav-option" ><a id="details-link" href=" https://themoscowproject.org/details/">THE DETAILS</a>
+					<ul id="details-sub" class="sub-menu">
+						<li class="sub-menu-item"><a href="https://themoscowproject.org/players/">Players</a></li>
+						<li class="sub-menu-item"><a href="https://themoscowproject.org/dossier/">Dossier</a></li>
+						<li class="sub-menu-item"><a href="https://themoscowproject.org/resources/">Resources</a></li>
+					</ul>
+				</div>
+
+				<div id="briefings" class="nav-option"><a id="briefings-link" href=" https://themoscowproject.org/briefings/">BRIEFINGS</a>
+					<ul id="briefings-sub" class="sub-menu">
+						<li class="sub-menu-item"><a href="https://themoscowproject.org/category/dispatch/">Dispatch</a></li>
+						<li class="sub-menu-item"><a href="https://themoscowproject.org/category/explainers/">Explainers</a></li>
+						<li class="sub-menu-item"><a href="https://themoscowproject.org/category/reports/">Reports</a></li>
+					</ul>
+				</div>
+			</nav>
+
+		</div>
+	</div>
+
+	<div id="timeline-full-container">
+
+		<div id="timeline-header">
+			<div id="timeline-date"></div>
+			<div id="timeline-hed"></div>
+			<div id="timeline-text"></div>
+			<div id="underline"></div>
+		</div>
+
+		<div id="timeline-container" class="timeline-container">
+		<div id="timeline" class="timeline row col">
+
+
+		</div>
+		</div>
+
+	</div>
+
+</body>
+</html>

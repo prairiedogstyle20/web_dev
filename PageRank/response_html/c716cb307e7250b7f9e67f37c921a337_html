@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="google-site-verification" content="OyOdT7NBMGOSOGrUlX4wtHXXk1kq0lBW8oOke9BW93s" />
+
+<script src="https://cookie.consent.is/cc/74d2740b.js"></script>
+<script type="text/javascript">
+window.addEventListener("load", function() {
+window.cookieconsent.initialise({
+	onInitialise: function(status) {
+		if (this.hasConsented('required')) {
+		}
+		if (this.hasConsented('analytics')) {
+		}
+		if (this.hasConsented('marketing')) {
+		}
+	},
+	onAllow: function(category) {
+		if (category == 'required') {
+		}
+		if (category == 'analytics') {
+		}
+		if (category == 'marketing') {
+		}
+	},
+	onRevoke: function(category) {
+		if (category == 'required') {
+		}
+		if (category == 'analytics') {
+		}
+		if (category == 'marketing') {
+		}
+	}
+})
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>wompaa.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="generator" content="WeBid">
+
+<link rel="stylesheet" type="text/css" href="https://www.wompaa.com/themes/modern/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="https://www.wompaa.com/themes/modern/css/style.css">
+<link rel="stylesheet" type="text/css" href="https://www.wompaa.com/themes/modern/css/jquery.lightbox.css" media="screen">
+<link rel="stylesheet" type="text/css" href="https://www.wompaa.com/includes/calendar.css">
+
+<link rel="alternate" type="application/rss+xml" title="Just Listed" href="https://www.wompaa.com/rss.php?feed=1">
+<link rel="alternate" type="application/rss+xml" title="Closing Soon" href="https://www.wompaa.com/rss.php?feed=2">
+<link rel="alternate" type="application/rss+xml" title="Big Ticket" href="https://www.wompaa.com/rss.php?feed=3">
+<link rel="alternate" type="application/rss+xml" title="Very Expensive" href="https://www.wompaa.com/rss.php?feed=4">
+<link rel="alternate" type="application/rss+xml" title="Cheap Items" href="https://www.wompaa.com/rss.php?feed=5">
+<link rel="alternate" type="application/rss+xml" title="Popular Items" href="https://www.wompaa.com/rss.php?feed=6">
+<link rel="alternate" type="application/rss+xml" title="Hot Items" href="https://www.wompaa.com/rss.php?feed=7">
+<link rel="alternate" type="application/rss+xml" title="Buy Now" href="https://www.wompaa.com/rss.php?feed=8">
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://www.wompaa.com/themes/modern/js/bootstrap.min.js"></script>
+<script>var A_TCALDEF = {
+	'months'   : ["January","February","March","April","May","June","July","August","September","October","November","December"],
+	'weekdays' : ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa'],
+	'yearscroll': true, // show year scroller
+	'weekstart': 1, // first day of week: 0-Su or 1-Mo
+	'centyear'  : 70, // 2 digit years less than 'centyear' are in 20xx, othewise in 19xx.
+	'imgpath' : 'https://www.wompaa.com/includes/img/',
+	'invaliddate': function (s_date) { return 'Invalid date: "' + s_date[0] + '".\nAccepted format is dd-mm-yyyy.' },
+	'generdate': function (d_date) { return (d_date.getDate() < 10 ? '0' : '') + d_date.getDate() + "-"
+		+ (d_date.getMonth() < 9 ? '0' : '') + (d_date.getMonth() + 1) + "-"
+		+ d_date.getFullYear() },
+	'dateparts' : {"month":"$2","day":"$1","year":"$3"}
+};</script>
+<script src="https://www.wompaa.com/js/calendar.js"></script>
+
+</head>
+<body>
+
+<link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
+
+
+<div style=" 
+    border-bottom-right-radius: 10px;  border-right-width:2px;   top:0px;padding-bottom: -3px;padding-right:14px;position:fixed;background-color:white;width:auto;height:89px;z-index:999;">
+
+<a title="Home page" href="https://wompaa.com/"><font style="bottom:7px;font-size:44px;position:relative;left:7px;font-family: 'Gloria Hallelujah', cursive;color:pink;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">Wompaa</font></a><br><font style="position:relative;bottom:21px;left:12px; font-size:12px;" class="w3-animate-bottom" color="grey">Buy | Sell | Bid</font><br>
+
+
+<a class="w3-animate-right" title="Wompaa home page" href="https://wompaa.com"><font style="position:relative;bottom:26px;left:7px;font-size:12px;" color="pink">Your simple ebay alternative</font></a><br>
+<font style="color:grey;font-size:10px;position:relative;bottom:34px;left:8px;">wompaa is</font> 
+<font style="color:#4285F4;font-size:10px;position:relative;bottom:34px;left:8px;">G</font><font style="color:#EA4335;font-size:10px;position:relative;bottom:34px;left:8px;">o</font><font style="color:#FBBD07;font-size:10px;position:relative;bottom:34px;left:8px;">o</font><font style="color:#4285F4;font-size:10px;position:relative;bottom:34px;left:8px;">g</font><font style="color:#34A853;font-size:10px;position:relative;bottom:34px;left:8px;">l</font><font style="color:#EA4335;font-size:10px;position:relative;bottom:34px;left:8px;">e</font> <font style="color:grey;font-size:10px;position:relative;bottom:34px;left:8px;">verified</font>
+</div>
+<div class="w3-hide-large w3-hide-medium"><br><br><br></div>
+ 
+
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+
+
+
+
+
+
+<div class="container">
+	<div class="row header">
+		<div class="col-md-6"><img src="https://www.wompaa.com/uploaded/logo/p9KXfFH.png" border="0" alt="wompaa.com"></div>
+		<div class="col-md-6 hidden-xs text-right">
+				<a href="https://www.wompaa.com/clickthrough.php?banner=6" target="_blank"> <img border=0 alt="jewelry and gold " src="https://www.wompaa.com/uploaded/banners/1/pi74ioy.png" /></a><br><a href="https://www.wompaa.com/clickthrough.php?banner=6" target="_blank">GoldSmiths - friends of wompaa.com</a></div>
+	</div>
+	<div class="row">
+		<div class="col-md-6 text-muted"><small></small></div>
+		<div class="col-md-6 text-right text-muted"><small><b>1</b> AUCTIONS | <b>5</b> USERS ONLINE | Feb 26, 2019 <span id="servertime">18:27:04</span></small></div>
+	</div>
+	<nav class="navbar navbar-default">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav">
+				<li><a href="https://www.wompaa.com/">Home</a></li>
+				<li><a href="https://www.wompaa.com/select_category.php">Sell an item</a></li>
+				<li><a href="https://www.wompaa.com/register.php">Register now</a></li>
+				<li><a href="https://www.wompaa.com/user_login.php">Login</a></li>
+				<li><a href="https://www.wompaa.com/help.php" alt="faqs" class="new-window">Help</a></li>
+				<li><a href="https://www.wompaa.com/adsearch.php">Advanced Search</a></li>
+			</ul>
+			<form class="navbar-form navbar-right" role="search" action="https://www.wompaa.com/search.php" method="get">
+				<div class="form-group">
+					<select class="form-control" name="id">
+							<option value="0">All categories</option>
+	<option value="0">----------------------</option>
+	<option value="2">Art &amp; Antiques</option>
+	<option value="29">Books</option>
+	<option value="68">Clothing &amp; Accessories</option>
+	<option value="72">Coins &amp; Stamps</option>
+	<option value="75">Collectibles</option>
+	<option value="113">Comics, Cards &amp; Science Fiction</option>
+	<option value="122">Computers &amp; Software</option>
+	<option value="127">Electronics &amp; Photography</option>
+	<option value="133">Home &amp; Garden</option>
+	<option value="143">Movies &amp; Video</option>
+	<option value="150">Music</option>
+	<option value="157">Office &amp; Business</option>
+	<option value="162">Other Goods &amp; Services</option>
+	<option value="170">Sports &amp; Recreation</option>
+	<option value="174">Toys &amp; Games</option>
+					</select>
+				</div>
+				<div class="form-group">
+					<div class="input-group">
+						<input type="text" class="form-control" name="q" value="" placeholder="Search auctions">
+						<span  class="input-group-btn">
+							<button style="background-color:#fab4ef;border-color:
+#a7a7a7;" type="submit" class="btn btn-primary" name="sub" value="Search for it!">Search for it!</button>
+						</span>
+
+					</div>
+				</div>
+				
+				
+			</form>
+<div style="width:100%;" class="w3-hide-large w3-hide-medium">
+				<a href="https://www.wompaa.com/clickthrough.php?banner=6" target="_blank"> <img border=0 alt="jewelry and gold " src="https://www.wompaa.com/uploaded/banners/1/pi74ioy.png" /></a><br><a href="https://www.wompaa.com/clickthrough.php?banner=6" target="_blank">GoldSmiths - friends of wompaa.com</a></div>
+		</div><!-- /.navbar-collapse -->
+	</nav><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+   
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col-md-9 col-md-push-3">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="section-header"><h2>Featured Items</h2></div>
+			</div>
+				<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="featured-item">
+					<div class="item-ads-grid">
+						<div class="img-grid">
+							<div class="item-meta">
+								<a href="https://www.wompaa.com/item.php?id=6"><img class="img-center" src="getthumb.php?w=600&amp;fromfile=uploaded/6/o_1d1lo1q041vlu1va10dqrj84kda.jpg"></a>
+								<div class="feat-title"><h4><a href="https://www.wompaa.com/item.php?id=6">Welcome to wompaa </a></h4></div>
+								<div class="grid-margin-btm-lg">
+									<small><span class="text-muted"><span class="glyphicon glyphicon-time" aria-hidden="true"></span>2668d 19h 20m </span></small>
+								</div>
+							</div>
+							<div class="bid-price">
+								<span class="pull-left"><h4><b>0,99</b> GBP</h4></span>
+								<span class="pull-right"><a  style="background-color:#fab4ef;border-color:
+#a7a7a7;" class="btn btn-primary btn-sm" href="https://www.wompaa.com/item.php?id=6"><span    class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a></span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="section-header"><h2>Hot Items</h2></div>
+			</div>
+				<div class="col-md-4 col-sm-4 col-xs-12">
+				<div class="featured-item">
+					<div class="item-ads-grid">
+						<div class="img-grid">
+							<div class="item-meta">
+								<a href="https://www.wompaa.com/item.php?id=6"><img class="img-center" src="getthumb.php?w=600&amp;fromfile=uploaded/6/o_1d1lo1q041vlu1va10dqrj84kda.jpg"></a>
+								<div class="feat-title"><h4><a href="https://www.wompaa.com/item.php?id=6">Welcome to wompaa </a></h4></div>
+								<div class="grid-margin-btm-lg">
+									<small><span class="text-muted"><span class="glyphicon glyphicon-time" aria-hidden="true"></span>  2668d 19h 20m </span></small>
+								</div>
+							</div>
+							<div class="bid-price">
+								<span class="pull-left"><h4><b>0,99</b> GBP</h4></span>
+								<span class="pull-right"><a style="background-color:#fab4ef;border-color:
+#a7a7a7;"    class="btn btn-primary btn-sm" href="https://www.wompaa.com/item.php?id=6"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a></span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		<div class="row">
+			<div class="col-md-6">
+				<div class="section-header"><h2>Latest Auctions</h2></div>
+				<table class="table table-condensed">
+						<tr class="well">
+						<td>
+							<p style="display:block;">
+								<a href="https://www.wompaa.com/item.php?id=6">Welcome to wompaa </a>
+								<br><span class="text-muted"><small>20 Jan, 2019 - 13:51</small></span>
+							</p>
+						</td>
+					</tr>
+					</table>
+			</div>
+			<div class="col-md-6">
+				<div class="section-header"><h2>Next Ending!</h2></div>
+				<table class="table table-condensed">
+						<tr class="well">
+						<td>
+							<p style="display:block;">
+								<a href="https://www.wompaa.com/item.php?id=6">Welcome to wompaa </a>
+								<br><span class="text-muted"><small>2668d 19h 20m </small></span>
+							</p>
+						</td>
+					</tr>
+					</table>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3 col-md-pull-9">
+		<div class="visible-xs visible-sm">
+			<div class="dropdown">
+				<button class="btn btn-default btn-block dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+					<span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true" style="padding-right: 10px;"></span>Categories					<span class="caret"></span>
+				</button>
+				<ul class="dropdown-menu drop-width" role="menu" aria-labelledby="dropdownMenu1">
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=2">Art &amp; Antiques<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=29">Books<span> (1)</span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=68">Clothing &amp; Accessories<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=72">Coins &amp; Stamps<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=75">Collectibles<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=113">Comics, Cards &amp; Science Fiction<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=122">Computers &amp; Software<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=127">Electronics &amp; Photography<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=133">Home &amp; Garden<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=143">Movies &amp; Video<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=150">Music<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=157">Office &amp; Business<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=162">Other Goods &amp; Services<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=170">Sports &amp; Recreation<span></span></a></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="browse.php?id=174">Toys &amp; Games<span></span></a></li>
+					<li role="presentation" class="divider"></li>
+					<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.wompaa.com/browse.php?id=0"><span class="glyphicon glyphicon-search" aria-hidden="true"></span>  All categories</a></li>
+				</ul>
+			</div>
+			<br>
+		</div>
+		<div class="panel panel-default hidden-xs hidden-sm">
+			<!-- Default panel contents -->
+			<div class="panel-heading"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true" style="padding-right: 10px;"></span>Categories</div>
+			<div class="list-group">
+				<a class="list-group-item" href="browse.php?id=2">Art &amp; Antiques<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=29">Books<span class="pull-right">
+				 (1)</span></a>
+				<a class="list-group-item" href="browse.php?id=68">Clothing &amp; Accessories<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=72">Coins &amp; Stamps<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=75">Collectibles<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=113">Comics, Cards &amp; Science Fiction<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=122">Computers &amp; Software<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=127">Electronics &amp; Photography<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=133">Home &amp; Garden<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=143">Movies &amp; Video<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=150">Music<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=157">Office &amp; Business<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=162">Other Goods &amp; Services<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=170">Sports &amp; Recreation<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="browse.php?id=174">Toys &amp; Games<span class="pull-right">
+				</span></a>
+				<a class="list-group-item" href="https://www.wompaa.com/browse.php?id=0"><span class="glyphicon glyphicon-search" aria-hidden="true"></span>  All categories</a>
+			</div>
+		</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				User login			</div>
+			<div class="panel-body">
+				<form name="login" action="https://www.wompaa.com/user_login.php" method="post">
+					<input type="hidden" name="csrftoken" value="">
+					<div class="input-group">
+						<span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></span>
+						<input type="text" name="username" id="username" class="form-control" placeholder="Username">
+					</div>
+					<br>
+					<div class="input-group">
+						<span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span></span>
+						<input type="password" name="password" id="password" class="form-control" placeholder="Password">
+					</div>
+					<div class="form-group">
+						<div class="checkbox">
+							<label for="rememberme"><input type="checkbox" name="rememberme" id="rememberme" value="1">&nbsp;Remember me</label>
+						</div>
+					</div>
+					<div class="text-center">
+						<button type="submit" name="action" class="btn btn-primary btn-block" value="Go">Login</button>
+					</div>
+					<div class="text-center">
+						<small><a href="https://www.wompaa.com/forgotpasswd.php">Forgot your password?</a></small>
+					</div>
+				</form>
+			</div>
+		</div>
+			<div class="panel panel-default">
+			<div class="panel-heading">Help Column</div>
+			<div class="list-group">
+					<a href="https://www.wompaa.com/viewhelp.php?cat=3" alt="faqs" class="list-group-item new-window">Buying</a>
+					<a href="https://www.wompaa.com/viewhelp.php?cat=1" alt="faqs" class="list-group-item new-window">General</a>
+					<a href="https://www.wompaa.com/viewhelp.php?cat=2" alt="faqs" class="list-group-item new-window">Selling</a>
+				</div>
+		</div>
+	</div>
+</div><br>
+	<div class="footer well" style="text-align: center;">
+		<small>
+			<a href="https://www.wompaa.com/index.php?">Home</a>
+			| <a href="https://www.wompaa.com/select_category.php?">Sell an item</a>
+			| <a href="https://www.wompaa.com/register.php?">Register now</a>
+			| <a href="https://www.wompaa.com/user_login.php?">Login</a>
+			| <a href="https://www.wompaa.com/help.php" alt="faqs" class="new-window">Help</a>
+			| <a href="https://www.wompaa.com/fees.php">Fees</a>
+			| <a href="https://www.wompaa.com/contents.php?show=priv">Privacy Policy</a>
+		</small>
+		<br>
+	</div>
+	<div class="copyright">
+		<p>All transactions are buyers and sellers responsibility although wompaa.com will help out in fixing disputes -- don't forget paypal help as well and hold onto money until sell/buyer is happy</p>		<!--
+			We request you retain the full copyright notice below including the link to www.webidsupport.com.
+			This not only gives respect to the large amount of time given freely by the developers
+			but also helps build interest, traffic and use of WeBid. If you (honestly) cannot retain
+			the full copyright we ask you at least leave in place the "Powered by WeBid" line, with
+			"WeBid" linked to www.webidsupport.com. If you must remove thte copyright message pelase make
+			a donation at http://www.webidsupport.com/donate.php to help pay for future developments
+		-->
+		Powered by <a href="http://www.webidsupport.com/">WeBid</a> &copy; 2008 - 2019 <a href="http://www.webidsupport.com/">WeBid</a>
+	</div>
+</div>
+<script src="https://www.wompaa.com/js/jquery.lightbox.js"></script>
+<script src="https://www.wompaa.com/js/webid.js"></script>
+ 
+<center>
+<br><br>
+
+<div style="width=100%;" class="w3-hide-large w3-hide-medium">
+				<a href="https://www.wompaa.com/clickthrough.php?banner=6" target="_blank"> <img border=0 alt="jewelry and gold " src="https://www.wompaa.com/uploaded/banners/1/pi74ioy.png" /></a><br><a href="https://www.wompaa.com/clickthrough.php?banner=6" target="_blank">GoldSmiths - friends of wompaa.com</a></div>
+				
+<div class="w3-hide-small">
+				<a href="https://www.wompaa.com/clickthrough.php?banner=6" target="_blank"> <img border=0 alt="jewelry and gold " src="https://www.wompaa.com/uploaded/banners/1/pi74ioy.png" /></a><br><a href="https://www.wompaa.com/clickthrough.php?banner=6" target="_blank">GoldSmiths - friends of wompaa.com</a></div>
+<br>
+________________________
+<br>
+
+</center>
+
+<center><font style="color:red;font-size:16px;">All posts are moderated therefore will not show for at least 24hrs</font></center>
+
+
+<br>
+
+
+
+
+
+
+</body>
+</html>

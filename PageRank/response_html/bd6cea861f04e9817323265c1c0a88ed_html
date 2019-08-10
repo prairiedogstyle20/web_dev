@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+<script src="https://intermarkets-net.videoplayerhub.com/videoloader.js"></script>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://www.newsbusters.org/sites/all/themes/nb7_bs3/img/nbfavicon.png" type="image/png" />
+<meta name="description" content="CW’s sci-fi alien drama Roswell, New Mexico continues to push its narrative that illegal immigrants are marginalized victims while legal immigration is pushed by bigots. In the meantime, however, the show also manages to throw digs at Trump and apparent “fake news.” Let the record show that these jabs make even less sense and are even more annoying." />
+<meta name="robots" content="index" />
+<meta name="news_keywords" content=",Fake News, Video,,Entertainment Media, Broadcast Television,Immigration" />
+<link rel="image_src" href="https://cdn.newsbusters.org/images/cw_roswellnewmexico.png" />
+<link rel="canonical" href="https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news" />
+<meta property="og:site_name" content="NewsBusters" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="&#039;Roswell, New Mexico&#039;s Otherworldly Obsession with Trump and Fake News" />
+<meta property="og:url" content="https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news" />
+<meta property="og:description" content="CW’s sci-fi alien drama Roswell, New Mexico continues to push its narrative that illegal immigrants are marginalized victims while legal immigration is pushed by bigots. In the meantime, however, the show also manages to throw digs at Trump and apparent “fake news.” Let the record show that these jabs make even less sense and are even more annoying." />
+<meta property="og:image" content="https://cdn.newsbusters.org/images/cw_roswellnewmexico.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@newsbusters" />
+<meta name="twitter:creator" content="@" />
+<meta name="twitter:title" content="Roswell&#039;s Otherworldly Obsession with Trump and Fake News" />
+<meta name="twitter:url" content="https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news" />
+<meta name="twitter:description" content="CW’s sci-fi alien drama Roswell, New Mexico continues to push its narrative that illegal immigrants are marginalized victims while legal immigration is pushed by bigots. In the meantime, however, the" />
+<meta name="twitter:image" content="https://cdn.newsbusters.org/images/cw_roswellnewmexico.png" />
+<meta name="theme-color" content="#ee7624" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="apple-mobile-web-app-title" content="NewsBusters" />
+  <title>'Roswell, New Mexico's Otherworldly Obsession with Trump and Fake News</title>
+  <link type="text/css" rel="stylesheet" href="https://www.newsbusters.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.newsbusters.org/sites/default/files/css/css_PD7wMLRFmk6bdIWVQoukS0TvOms6gN_9maHJ0nVkMgM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.newsbusters.org/sites/default/files/css/css_8mmt3kmRB_I55-uUBbkHfG54y7vmFHfwgLX7aZ2fumk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,400italic,100,100italic,300,300italic,500,500italic,700,700italic,900,900italic" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.newsbusters.org/sites/default/files/css/css_3C1WOLfpB6V6Zum0uEqaN05rgbLVfJoGVksRHuFgejY.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.newsbusters.org/sites/default/files/js/js_vSmhpx_T-AShyt_WMW5_TcwwxJP1imoVOa8jvwL_mxE.js"></script>
+<script src="https://www.newsbusters.org/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script src="https://www.newsbusters.org/sites/default/files/js/js_DeyI2x64xgTUOWHGL8cskTw1Njiir09ZzUEHPI_OM2E.js"></script>
+<script src="https://www.newsbusters.org/sites/default/files/js/js_xJhDTSnICt5bnqa6YnA2BxNMSUKIkCby54SBqv4JBG4.js"></script>
+<script>window._taboola = window._taboola || [];
+            _taboola.push({article:'auto'});
+            !function (e, f, u) {
+              e.async = 1;
+              e.src = u;
+              f.parentNode.insertBefore(e, f);
+            }(document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            'https://cdn.taboola.com/libtrc/mrctv-newsbustersorg/loader.js')</script>
+<script src="https://www.newsbusters.org/sites/default/files/js/js__c90obBCuWpMQ8ipFvHweQ1ezGJttxNZbGkZZZ0XW_o.js"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://www.newsbusters.org/sites/default/files/js/js_0qVq0Z4COokvnn8EuZWOi_2lascWSAmD-0HsnpJlaqA.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nb7_bs3","theme_token":"hGLcOVPsK3IVytv_6EgW90DStw2z2e-nQnaoO_AbOT0","js":{"0":1,"\/\/s7.addthis.com\/js\/300\/addthis_widget.js#pubid=ra-5310064579a0620a":1,"https:\/\/cdn.newsbusters.org\/ads.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/custom\/nb_translate\/nbtranslateStyle.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/contrib\/disqus\/js\/disqus.js":1,"2":1,"sites\/all\/modules\/contrib\/pullquote\/pullquote.js":1,"sites\/all\/modules\/contrib\/disqus\/disqus.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.min.js":1,"sites\/all\/themes\/nb7_bs3\/js\/nb7bs3.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/nb_translate\/nbtranslateStyle.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/pullquote\/css\/pullquote_style_1.css":1,"\/\/fonts.googleapis.com\/css?family=Roboto:400,400italic,100,100italic,300,300italic,500,500italic,700,700italic,900,900italic":1,"\/\/fonts.googleapis.com\/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700":1,"\/\/cdn.jsdelivr.net\/fontawesome\/4.7.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/nb7_bs3\/css\/nb7bs3.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"field_group":{"html5":"full"},"disqusComments":"newsbustersorg","disqus":{"domain":"newsbustersorg","url":"https:\/\/www.newsbusters.org\/blogs\/culture\/lindsay-kornick\/2019\/02\/13\/roswells-otherworldly-obsession-trump-and-fake-news","title":"\u0026#039;Roswell, New Mexico\u0026#039;s Otherworldly Obsession with Trump and Fake News","identifier":"node\/238364"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-238364 node-type-blog">
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N9BP8C"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-N9BP8C');</script>
+  <!-- End Google Tag Manager -->
+    
+<header id="navbar" role="banner" class="navbar navbar-default">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="navbar-header">
+                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                                        <div class="navbar-left">
+                        <div class="navbar-brand logo">
+                            <a class="navbar-btn" href="/"
+                               title="Home">
+                                <img src="//cdn.newsbusters.org/images/header/nb-header-bs3.png" alt="Home" />
+                            </a>
+                        </div>
+
+                    </div>
+                    <div class="clearfix visible-xs-block"></div>
+                    <div class="navbar-right">
+                        <div class="navbar-collapse collapse">
+                            <nav role="navigation">
+                                                                      <div class="region region-navigation">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu nav navbar-nav"><li class="first leaf menu-mlid-3471"><a href="/blogs" title="">Blog</a></li>
+<li class="leaf menu-mlid-3481"><a href="/" title="">Home</a></li>
+<li class="leaf menu-mlid-3486"><a href="https://www.mrc.org/newsletter/preferences?utm_source=newsbusters&amp;utm_medium=menu&amp;utm_content=subscribe&amp;utm_campaign=nb" title="">Subscribe</a></li>
+<li class="last leaf menu-mlid-3491"><a href="/contact-us" title="">Contact</a></li>
+</ul></div>
+  </div>
+                                                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix hidden-xs"></div>
+            <div class="col-xs-12">
+                <div class="nb-navbar wrapper-100">
+                    <div class="navbar-collapse collapse">
+                        <nav role="navigation">
+                                                        <div class="navbar-left">
+                                  <div class="region region-secondary-navigation">
+    <div class="menu-block-wrapper menu-block-2 menu-name-secondary-menu parent-mlid-0 menu-level-1">
+  <ul class="menu nav navbar-nav secondary"><li class="first leaf menu-mlid-3496"><a href="/business" title="">MRC Business</a></li>
+<li class="leaf menu-mlid-3501"><a href="/culture" title="">MRC Culture</a></li>
+<li class="leaf menu-mlid-3506"><a href="/latino" title="">MRC Latino</a></li>
+<li class="leaf menu-mlid-7708"><a href="https://www.newsbusters.org/techwatch" title="">MRC TechWatch</a></li>
+<li class="last leaf menu-mlid-3511"><a href="https://www.newsbusters.org/donate?utm_source=nb&amp;utm_medium=menu_top&amp;utm_campaign=donate)" title="">Donate</a></li>
+</ul></div>
+  </div>
+                            </div>
+                                                        <div class="clearfix visible-xs"></div>
+                                                        <div class="navbar-right">
+                                  <div class="region region-social-navigation">
+    
+        <ul class="menu nav navbar-nav social">
+            <li><a href="https://www.facebook.com/newsbusters" target="_blank">
+                <i class="fa fa-facebook"></i>
+                </a></li>
+            <li><a href="https://www.twitter.com/newsbusters" target="_blank">
+                <i class="fa fa-twitter"></i>
+                </a></li>
+            <li><a href="https://www.youtube.com/user/MRCTVdotOrg" target="_blank">
+                <i class="fa fa-youtube"></i>
+                </a></li>
+            <li><a href="https://www.newsbusters.org/blog/feed" target="_blank">
+                <i class="fa fa-rss"></i>
+                </a></li>
+            <li><a href="/search" target="_blank">
+                <i class="fa fa-search"></i>
+                </a></li>
+        </ul>  </div>
+                            </div>
+                                                    </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="main-container container">
+
+    <header role="banner" id="page-header">
+        
+          <div class="region region-header">
+    <div id="block-views-hot-topics-block" class="block block-views clearfix">
+        <div class="view view-hot-topics view-id-hot_topics view-display-id-block nb-hot-topics view-dom-id-9ec8ad01d4ae780570598cdd5efc9081">
+                        <a href="#" class="btn btn-default btn-sm disabled"><i class="fa fa-fire"></i></a>    
+    
+                            
+          <a href="https://www.newsbusters.org/people-organizations/oscars" class="btn btn-primary btn-sm">The Oscars</a>            
+          <a href="https://www.newsbusters.org/non-journalists/jussie-smollett" class="btn btn-primary btn-sm">Jussie Smollett Hoax</a>            
+          <a href="https://www.newsbusters.org/administrative/media-reality-check" class="btn btn-primary btn-sm">Trump Coverage Studies</a>            
+          <a href="https://www.newsbusters.org/issues-events-groups/covington-kids" class="btn btn-primary btn-sm">Covington Kids</a>                
+    
+                    
+</div></div>
+<div id="block-block-12" class="block block-block clearfix">
+        <!--JavaScript Tag  // Placement: Newsbusters_ROS_Top_728xFlex (1131674) -->
+<div id="ad_top" class="row" data-spy="affix" data-offset-top="130" style="z-index: 1000; margin-bottom: 10px;">
+ <div class="wrapper-100 center-block text-center" style="margin-bottom: 10px;">
+<div id="imk728xFlexTop" style="height: 105px;"><span class='bt-uid-tg' data-uid='5b562603b5-172' style='display: none !important'></span>
+
+</div>
+ </div>
+</div>
+ <!-- End of JavaScript Tag 
+<div id="wb_mkto_banner"></div>
+--> 
+</div>
+  </div>
+    </header> <!-- /#page-header -->
+
+    <div class="row">
+
+        <section class="col-xs-12 col-tn-6 col-sm-6 col-md-7 col-lg-8">
+                                    <a id="main-content"></a>
+                                        <h1 class="page-header">&#039;Roswell, New Mexico&#039;s Otherworldly Obsession with Trump and Fake News</h1>
+                                                                                                                <article id="node-238364" class="node node-blog clearfix" about="/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news" typeof="sioc:Item foaf:Document">
+    <header>
+            <span property="dc:title" content="&#039;Roswell, New Mexico&#039;s Otherworldly Obsession with Trump and Fake News" class="rdf-meta element-hidden"></span>            <div class="nb-social">
+      <a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news&pubid=ra-5310064579a0620a"
+       target="_blank" class="btn btn-facebook"><i class="fa fa-facebook"></i></a>
+       <a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news&title=%23RoswellNM%27s%20Otherworldly%20Obsession%20with%20Trump%20and%20Fake%20News%20via%20%40lmkornick&pubid=ra-5310064579a0620a&shortener=bitly"
+         target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i>&nbsp;Tweet</a>
+                   <a href="https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news#disqus_thread" class="btn btn-primary" title="Comments"><i
+            class="fa fa-comment"></i> <span class="disqus-comment-count" data-disqus-identifier="node/238364" />
+</a>
+                                <a href="https://www.newsbusters.org/print/238364" class="btn btn-info hidden-xs" title="Print" target="_blank"><i
+              class="fa fa-print"></i>&nbsp;Print</a>
+                        
+            <div id="more-share" class="collapse">
+              <a href="https://api.addthis.com/oexchange/0.8/forward/reddit/offer?url=https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news&pubid=ra-5310064579a0620a"
+               target="_blank" class="btn btn-reddit"><i class="fa fa-reddit"></i> Reddit</a>
+               <a href="https://api.addthis.com/oexchange/0.8/forward/linkedin/offer?url=https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news&pubid=ra-5310064579a0620a"
+                 target="_blank" class="btn btn-linkedin"><i class="fa fa-linkedin"></i></a>
+                 <a href="https://api.addthis.com/oexchange/0.8/forward/googleplus/offer?url=https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news&pubid=ra-5310064579a0620a"
+                   target="_blank" class="btn btn-google-plus"><i class="fa fa-google-plus"></i></a>
+                   <a href="https://api.addthis.com/oexchange/0.8/forward/email/offer?url=https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news&pubid=ra-5310064579a0620a"
+                     target="_blank" class="btn btn-primary"><i class="fa fa-envelope-open"></i></a>
+                     <a href="#more-share" class="btn btn-info btn-more-share" data-toggle="collapse"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
+                   </div>
+
+                 </div>
+                                              <div class="submitted">
+                  <span property="dc:date dc:created" content="2019-02-13T02:06:11-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">By <span class="source"><a href="/author/lindsay-kornick" title="View user profile." class="username" xml:lang="" about="/author/lindsay-kornick" typeof="sioc:UserAccount" property="foaf:name" datatype="">Lindsay Kornick</a></span> | February 13, 2019 2:06 AM EST</span>                </div>
+                                        </header>
+                    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+        <div class="field-items">
+          <div class="field-item" property="content:encoded"><p><img alt="" class="image-blog_body-50" src="https://www.newsbusters.org/s3/files/styles/blog_body-50/s3/images/cw_roswellnewmexico.png?itok=YzvibDzB" style="float:right; height:231px; margin:5px; width:410px" />CW&rsquo;s sci-fi alien drama <em>Roswell, New Mexico </em>continues to push its narrative that illegal immigrants are <a href="https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/01/15/cws-roswell-reboot-politicizes-space-aliens-and-illegal-aliens">marginalized victims</a> while legal immigration is pushed by <a href="https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/01/30/roswell-new-mexico-states-supporting-legal-immigration">bigots</a>. In the meantime, however, the show also manages to throw digs at Trump and apparent &ldquo;fake news.&rdquo; Let the record show that these jabs make even less sense and are even more annoying.</p>
+
+<p>The February 12 episode &ldquo;Don&rsquo;t Speak&rdquo; continues Liz&rsquo;s (Jeanine Mason) investigation into her sister&rsquo;s car crash death ten years ago. Drama ensues when she suspects her love interest Max (Nathan Dean Parsons) of being behind what she believes to be a murder. In researching her sister&rsquo;s death, Liz comes across recordings of police calls made on the same night which include a man claiming to have seen three bodies floating in mid-air.</p>
+
+<p>Liz recognizes the man&rsquo;s voice as Grant Green (Peter Diseth), a local podcaster who promotes alien conspiracy theories. He&rsquo;s also the one from the <a href="https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/01/15/cws-roswell-reboot-politicizes-space-aliens-and-illegal-aliens">pilot</a> who remarked in a not-so-subtle rant that that aliens will &ldquo;rape and murder and steal our jobs.&rdquo; Since the series has been front-and-center about comparing extraterrestrial aliens to illegal immigrants, Grant plays the role as the obnoxious Alex Jones-stand-in.</p>
+
+<p>Liz tracks Grant to his studio where he suddenly holds her at gunpoint. She says that she believes his theories on aliens to learn about what he saw. He admits that he has footage of the floating bodies from that night but that he&rsquo;s been paid to keep them hidden and obscure the news with his false alien ramblings. This leads to a very pointed and predictable dialogue on &ldquo;fake news&rdquo; by Liz before both of them are shot by an unseen assailant.</p>
+
+<p>&nbsp;</p>
+
+<p><div class="video-filter embed-responsive embed-responsive-16by9"><iframe src="https://www.mrctv.org/embed/537070" width="720" height="405" class="video-filter video-mrctv video-center vf-537070 embed-responsive-item" frameborder="0" allowfullscreen="true"></iframe></div></p>
+
+<p>&nbsp;</p>
+
+<blockquote>
+	<p>Grant: I always knew we weren&#39;t alone. Now, as I got older, I tried to fight it. You know, deny what I knew in my core was true. They exist.</p>
+
+	<p>Liz: Rosa... Y-y-you had this the whole time? Why didn&#39;t you tell anyone about it?</p>
+
+	<p>Grant: Because I&#39;m not stupid. I took the money, rather than a slow death.</p>
+
+	<p>Liz: What money?</p>
+
+	<p>Grant: What-- no, I&#39;ve said too much. People who talk end up dead.</p>
+
+	<p>Liz: You literally talk more than anybody has ever talked ever, in history.</p>
+
+	<p>Grant: Well, not about anything real.</p>
+
+	<p>Liz: I get it. <strong>So someone pays you to flood the airwaves with bogus conspiracy theories and extremist propaganda, and anything real seems small in comparison. Alien fake news.</strong></p>
+
+	<p>Grant: You should hear my 9/11 theories.</p>
+
+	<p>Liz: Who paid you to stay quiet?</p>
+
+	<p>Man: All you had to do was not talk.</p>
+</blockquote>
+
+<p><div id="imkIncontent1" style="align:center;"></div></p>
+
+<p>The shooter behind the voice is revealed to be Wyatt Long (Dylan McTee), a local described by Liz as &ldquo;a racist with a chip on his shoulder.&rdquo; Originally, he was introduced as the brother of a girl killed in Rosa&rsquo;s &ldquo;accident,&rdquo; but now it seems like he has a deeper role in this story than we thought. For now, it&rsquo;s showing that racists, fake news, and criticizing &ldquo;aliens&rdquo; go hand-in-hand. &nbsp;&nbsp;</p>
+
+<p><em>Roswell, New Mexico </em>is <a href="https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/01/01/right-wing-pundit-labels-mutants-murderers-and-rapists-x">not the first place</a> to suggest that &ldquo;aliens&rdquo; coming to &ldquo;rape and murder and steal our jobs&rdquo; is fake news (even if it might have some <a href="https://www.dailywire.com/news/10155/9-things-you-need-know-about-illegal-immigration-aaron-bandler">truth</a>), but it does have the strangest counter-argument. Not only does Grant, the anti-alien podcaster, not believe what he&rsquo;s saying, he&rsquo;s being paid off and threatened by local racists to say it. Sounds to me like the writers are bigger conspiracy theorists than he purports to be.</p>
+
+<p>In keeping up with the &ldquo;fake news&rdquo; theme, last week&rsquo;s episode shared some false stories of its own. Max bemoans being unable to help a hospital with no power saying, &ldquo;People here are suffering, and what do we do? We brought a few water bottles. Why don&#39;t we throw some paper towels at &#39;em while we&#39;re at it?&rdquo; This, of course, refers to the <a href="https://www.newsbusters.org/blogs/latino/joel-enrique-salgado/2017/10/21/trumps-towel-throwing-case-study-liberal-media">media&rsquo;s deliberate manipulation</a> of Trump&rsquo;s visit to Puerto Rice following Hurricane Maria.</p>
+
+<p>Of course, this blatant attack on &ldquo;fake news&rdquo; isn&rsquo;t the only issue. Over these past few weeks,<em> Roswell, New Mexico </em>keeps throwing in other random, nonsensical &ldquo;Easter egg&rdquo; hits at Trump and other conservatives. A few weeks ago, Liz mocked Kyle&rsquo;s (Michael Travino) suggestion to alert the government about Max, saying, &ldquo;Right, so the president can sic the <a href="https://www.mrctv.org/videos/oh-my-goodness-msnbc-finds-plenty-mock-about-space-force">Space Force</a> on our local bookworm?&rdquo; Last week, there was a reference to Maria&rsquo;s (Heather Hemmens) bloody interpretative dance protesting &ldquo;Sarah Palin&#39;s <a href="https://www.newsbusters.org/blogs/nb/mark-finkelstein/2008/12/06/collins-palin-moose-murderer">moose slaughter</a>.&rdquo;</p>
+
+<p>The people of <em>Roswell, New Mexico </em>may hate fake news, but they hate Trump and conservatives more. And the series is all the more unbearable because of it.</p>
+
+<p><div id="imkIncontent2" style="align:center;"></div></p>
+</div>
+      </div>
+    </div>
+<div class="view view-nb-node view-id-nb_node view-display-id-entity_view_donate_block_mrc_c view-dom-id-f0555f4b32e6759eadadb571c369abc7">
+      
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">      
+  <div class="views-field views-field-nothing">        <span class="field-content"><br /><div class="donateblock"><p class="text-center"><strong><em>Please support MRC Culture today! [a 501(c)(3) non-profit production of the Media Research Center]</em></strong></p>
+<a href="https://www.newsbusters.org/donate/mrc-culture?utm_source=mrc_c_inline&amp;utm_medium=blog&amp;utm_campaign=/author/lindsay-kornick&amp;utm_content=/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news" class="btn btn-lg btn-primary btn-block">DONATE</a>
+<br /><p class="text-center"><em>Or, book travel through MRC’s Travel Discounts Program! 
+MRC receives a rebate for each booking when you use our special codes. </em></p>
+<a href="http://www.alumnibenefits.org/mrc?utm_source=mrc_c_inline&amp;utm_medium=blog&amp;utm_campaign=/author/lindsay-kornick&amp;utm_content=/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news" class="btn btn-lg btn-info btn-block">BOOK NOW</a></div><hr /></span>  </div>  </div>    </div>
+  
+  
+  
+  
+  
+  
+</div> <section id="tags">    <a href="/administrative/mrc-culture-tv-blogs" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="btn btn-default">MRC Culture on TV Blogs</a>
+    <a href="/issues-events-groups/immigration" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="btn btn-default">Immigration</a>
+    <a href="/media-places/entertainment-media" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="btn btn-default">Entertainment Media</a>
+    <a href="/media-places/broadcast-television" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="btn btn-default">Broadcast Television</a>
+    <a href="/other-topics/fake-news" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="btn btn-default">Fake News</a>
+    <a href="/other-topics/video" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="btn btn-default">Video</a>
+    <a href="/non-journalists/donald-trump" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="" class="btn btn-default">Donald Trump</a>
+</section><div class="field field-name-field-show-study-icon field-type-list-boolean field-label-hidden">
+        <div class="field-items">
+          <div class="field-item"></div>
+      </div>
+    </div>
+                      <footer>
+                                          <div class="row">
+                                  <div class="col-xs-12">
+                      <div class="block-align-left user-picture">
+    <a href="/author/lindsay-kornick" title="View user profile."><img typeof="foaf:Image" class="img-responsive" src="https://cdn.newsbusters.org/styles/author/s3/pictures/picture-1966-1511660696.jpg?itok=kpVizHGL" width="100" height="100" alt="Lindsay Kornick&#039;s picture" title="Lindsay Kornick&#039;s picture" /></a>  </div>
+                                        <div class="nb-social">
+                                                                     <a href="https://www.newsbusters.org/feed/lindsay-kornick"
+                         target="_blank" class="btn btn-primary"><i class="fa fa-rss"></i></a>
+                                            </div>
+                                                          <div class="source">
+                      <a href="/author/lindsay-kornick" title="View user profile." class="username" xml:lang="" about="/author/lindsay-kornick" typeof="sioc:UserAccount" property="foaf:name" datatype="">Lindsay Kornick</a>                    </div>
+                                                        <h4 class="small">
+                      <div class="field field-name-field-byline field-type-text field-label-hidden">
+        <div class="field-items">
+          <div class="field-item">Lindsay Kornick is a Contributing Writer for MRC Culture.</div>
+      </div>
+    </div>
+                    </h4>
+                                    <div class="clearfix"></div>
+                  <hr />
+                </div>
+                          </div>
+          </footer>
+                      </article>
+<div id="block-block-63" class="block block-block clearfix">
+        <div id="taboola-below-article-thumbnails">&nbsp;</div></div>
+<div id="block-disqus-disqus-comments" class="block block-disqus clearfix">
+        <div id="disqus_thread"><noscript><p><a href="http://newsbustersorg.disqus.com/?url=https%3A%2F%2Fwww.newsbusters.org%2Fblogs%2Fculture%2Flindsay-kornick%2F2019%2F02%2F13%2Froswells-otherworldly-obsession-trump-and-fake-news">View the discussion thread.</a></p></noscript></div></div>
+        </section>
+
+                    <aside class="col-xs-12 col-tn-6 col-sm-6 col-md-5 col-lg-4" role="complementary">
+                  <div class="region region-sidebar-first">
+    <div id="block-block-13" class="block block-block clearfix">
+        <!--JavaScript Tag  // Placement: Newsbusters_ROS_Top_Right_300xFlex (1131656) -->
+ <div class="wrapper-100 nb-not-content center-block text-center">
+ <div id="imk300xFlexTop" style="height: 265px;"><span class='bt-uid-tg' data-uid='5b560412c3-172' style='display: none !important'></span>
+
+</div>
+ </div>
+ <!-- End of JavaScript Tag --></div>
+<div id="block-block-2" class="block block-block clearfix">
+        <!-- BEGIN TAG - BODY --><div id="mkto_top_ad"></div><!-- END TAG - BODY --></div>
+<div id="block-views-must-read-block" class="block block-views clearfix">
+        <div class="view view-must-read view-id-must_read view-display-id-block view-dom-id-68b706be9b7904c61c160889f053755b panel panel-default">
+    <div class="panel-heading">        <h4 class="panel-title text-uppercase">Must Read</h4>
+        </div>    
+    
+        <div class="panel-body panel-body-wrapper">              <div class="views-row views-row-1 views-row-odd views-row-first">      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/blogs/nb/nb-staff/2019/02/21/conservative-leaders-call-investigation-social-media-censorship"><img typeof="foaf:Image" class="img-responsive" src="https://cdn.newsbusters.org/styles/sidebar_image/s3/images/twitteryoutubefacebook.png?itok=YMuW__Yc" width="400" height="200" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <h4 class="field-content"><a href="/blogs/nb/nb-staff/2019/02/21/conservative-leaders-call-investigation-social-media-censorship">Conservative Leaders Call for Investigation Into Social Media Censorship </a></h4>  </div>  </div>  <div class="views-row views-row-2 views-row-even views-row-last">      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/blogs/nb/christian-toto/2019/02/23/seven-ugly-lessons-jussie-smollett-debacle"><img typeof="foaf:Image" class="img-responsive" src="https://cdn.newsbusters.org/styles/sidebar_image/s3/images/smollett_0.jpg?itok=j5N6Qu_A" width="400" height="200" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <h4 class="field-content"><a href="/blogs/nb/christian-toto/2019/02/23/seven-ugly-lessons-jussie-smollett-debacle">Seven Ugly Lessons About the Media From Jussie Smollett&#039;s Debacle </a></h4>  </div>  </div>        </div>    
+    
+                    
+</div></div>
+<div id="block-block-22" class="block block-block clearfix">
+        <div id="mkto_mid_ad"></div></div>
+<div id="block-views-blogs-block-1" class="block block-views clearfix">
+        <div class="view view-blogs view-id-blogs view-display-id-block_1 featured-blog-post view-dom-id-8495e9f8b0fd77e386b7e3109c175199">
+                
+    
+                          <div class="row">
+    <div class="col-xs-12">
+        <a href="https://www.newsbusters.org/blogs/nb/rich-noyes/2019/02/25/would-cbs-actually-dump-least-anti-trump-anchor-broadcast-tv"><img typeof="foaf:Image" class="img-responsive" src="https://cdn.newsbusters.org/styles/sidebar/s3/images/face_the_nation_-_11_25_58_am.jpg?itok=WEx8aUNk" width="400" height="200" alt="" /></a>        <h4 class="headline"><a href="https://www.newsbusters.org/blogs/nb/rich-noyes/2019/02/25/would-cbs-actually-dump-least-anti-trump-anchor-broadcast-tv">Will CBS Dump Broadcast TV&#039;s Least Anti-Trump Anchor?</a></h4>
+    </div>
+</div>        <div class="row">
+    <div class="col-xs-12">
+        <a href="https://www.newsbusters.org/blogs/nb/nicholas-fondacaro/2019/02/25/abc-gives-dictator-maduro-megaphone-spread-lies-bash-america"><img typeof="foaf:Image" class="img-responsive" src="https://cdn.newsbusters.org/styles/sidebar/s3/images/2019-02-25-abc-wnt-gave-maduro-megaphone-to-spread-lies-bash-america-1.png?itok=t_J1eSU3" width="400" height="200" alt="" /></a>        <h4 class="headline"><a href="https://www.newsbusters.org/blogs/nb/nicholas-fondacaro/2019/02/25/abc-gives-dictator-maduro-megaphone-spread-lies-bash-america">ABC Gives Dictator Maduro Megaphone to Lie, Bash America [UPDATED]</a></h4>
+    </div>
+</div>        <div class="row">
+    <div class="col-xs-12">
+        <a href="https://www.newsbusters.org/blogs/nb/tim-graham/2019/02/21/bozell-graham-column-andrew-mccabe-justice-departments-jussie"><img typeof="foaf:Image" class="img-responsive" src="https://cdn.newsbusters.org/styles/sidebar/s3/images/mccabecolbert2.jpg?itok=8OYPhqQi" width="400" height="200" alt="" /></a>        <h4 class="headline"><a href="https://www.newsbusters.org/blogs/nb/tim-graham/2019/02/21/bozell-graham-column-andrew-mccabe-justice-departments-jussie">Bozell &amp; Graham: McCabe, the Justice Department&#039;s Jussie Smollett</a></h4>
+    </div>
+</div>              
+    
+                    
+</div></div>
+<div id="block-block-14" class="block block-block clearfix">
+        <!--JavaScript Tag  // Placement: Newsbusters_ROS_Middle_Right_300x250 (3351331) -->
+ <div class="wrapper-100 nb-not-content center-block text-center">
+ <div id="imk300xFlexBot" style="height: 265px;"><span class='bt-uid-tg' data-uid='5b5619af0d-172' style='display: none !important'></span>
+
+</div>
+ </div>
+ <!-- End of JavaScript Tag --></div>
+<div id="block-block-3" class="block block-block clearfix">
+        <!-- BEGIN TAG - BODY --> <div class="internal-ad" id="mkto_bottom_ad"></div> <!-- END TAG - BODY -->
+</div>
+<div id="block-block-16" class="block block-block clearfix">
+        <!--JavaScript Tag  // Placement: Newsbusters_ROS_Middle_Right_160x600 (1131672) -->
+ <div class="wrapper-100 nb-not-content center-block text-center">
+ <div id="imk300xFlexMid"  style="height: 615px;"><span class='bt-uid-tg' data-uid='5b8418c5a1-172' style='display: none !important'></span></div>
+ </div>
+ <!-- End of JavaScript Tag --></div>
+  </div>
+            </aside>  <!-- /#sidebar-first -->
+        
+    </div>
+</div>
+
+    <div class="nb-bg wrapper-100">
+        <footer class="footer container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
+                    <div id="block-menu-menu-footer-secondary-menu" class="block block-menu clearfix">
+        <ul class="menu nav"><li class="first leaf"><a href="/about" title="">About NewsBusters</a></li>
+<li class="leaf"><a href="/send-tip" title="">Send a Tip</a></li>
+<li class="leaf"><a href="http://www.cnsnews.com" title="">CNSNews.com</a></li>
+<li class="leaf"><a href="http://www.mrctv.org" title="">MRCTV</a></li>
+<li class="leaf"><a href="http://mrc.org/action" title="">MRC Action</a></li>
+<li class="leaf"><a href="http://www.mrc.org/careers" title="">Careers</a></li>
+<li class="last leaf"><a href="http://www.intermarkets.net/advertiser-solutions/portfolio/newsbusters" title="">Advertise</a></li>
+</ul></div>
+<div id="block-menu-menu-donation-menu" class="block block-menu clearfix">
+        <ul class="menu nav"><li class="first leaf"><a href="https://www.newsbusters.org/donate?utm_source=nb&amp;utm_medium=menu_sptnb&amp;utm_campaign=donate" title="">Support NewsBusters</a></li>
+<li class="leaf"><a href="https://www.newsbusters.org/donate/mrc-business?utm_source=nb&amp;utm_medium=menu_sptnb&amp;utm_campaign=donate" title="">Support MRC Business</a></li>
+<li class="leaf"><a href="https://www.newsbusters.org/donate/mrc-culture?utm_source=nb&amp;utm_medium=menu_sptnb&amp;utm_campaign=donate" title="">Support MRC Culture</a></li>
+<li class="last leaf"><a href="https://www.newsbusters.org/donate/mrc-latino?utm_source=nb&amp;utm_medium=menu_sptnb&amp;utm_campaign=donate" title="">Support MRC Latino</a></li>
+</ul></div>
+<div id="block-block-21" class="block block-block clearfix">
+        <div>
+	<div>
+		<div><a href="http://www.mrc.org"><img class="center-block img-responsive" src="//cdn.mrc.org/images/mrc_blocklogo.png" style="max-height:60px" /></a></div>
+	</div>
+
+	<div>
+		<p style="text-align:center">The mission of the <a href="http://www.mrc.org" target="_blank">Media Research Center</a> is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under <a href="http://www.mrc.org/static/about-us" target="_blank">Section 501(c)(3)</a> of the Internal Revenue Code, and <a href="https://www.mrc.org/action/join-the-movement" target="_blank">contributions</a> to the MRC are tax-deductible.</p>
+	</div>
+</div>
+
+<div>
+	<div style="text-align:center">&nbsp;</div>
+</div>
+
+<div>
+	<div>
+		<div>
+			<p style="text-align:center"><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a> | <a href="/terms-use-agreement" title="Terms of Use Agreement">Terms of Use</a></p>
+
+			<p style="text-align:center">&copy; 2005-2019, Media Research Center. All Rights Reserved.</p>
+		</div>
+	</div>
+</div>
+</div>
+                </div>
+            </div>
+        </footer>
+    </div>
+  <script>window._taboola = window._taboola || [];
+            _taboola.push({flush: true});</script>
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5310064579a0620a"></script>
+<script src="https://cdn.newsbusters.org/ads.js"></script>
+<script src="https://www.newsbusters.org/sites/default/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"cd4c31791b","applicationID":"103615076","transactionName":"M1NaZENXChFVWhFbCgoZeVNFXwsMG1cKVgA7RllXVGkSC1FO","queueTime":0,"applicationTime":480,"atts":"HxRZEgtNGR8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <style id="antiClickjack">body{display:none !important;}</style>
+    <script type="text/javascript">
+      if (self === top) {
+        var antiClickjack = document.getElementById("antiClickjack");
+        antiClickjack.parentNode.removeChild(antiClickjack);
+      } else {
+        top.location = self.location;
+      }
+    </script>
+	<!--
+
+
+
+
+$$$$$$$$\ $$\                                                      
+\__$$  __|$$ |                                                     
+   $$ |   $$$$$$$\   $$$$$$\                                       
+   $$ |   $$  __$$\ $$  __$$\                                      
+   $$ |   $$ |  $$ |$$$$$$$$ |                                     
+   $$ |   $$ |  $$ |$$   ____|                                     
+   $$ |   $$ |  $$ |\$$$$$$$\                                      
+   \__|   \__|  \__| \_______|                                     
+                                                                   
+                                                                   
+                                                                   
+$$\      $$\                                                       
+$$$\    $$$ |                                                      
+$$$$\  $$$$ | $$$$$$\   $$$$$$$\  $$$$$$$\  $$$$$$\  $$\  $$\  $$\ 
+$$\$$\$$ $$ |$$  __$$\ $$  _____|$$  _____|$$  __$$\ $$ | $$ | $$ |
+$$ \$$$  $$ |$$ /  $$ |\$$$$$$\  $$ /      $$ /  $$ |$$ | $$ | $$ |
+$$ |\$  /$$ |$$ |  $$ | \____$$\ $$ |      $$ |  $$ |$$ | $$ | $$ |
+$$ | \_/ $$ |\$$$$$$  |$$$$$$$  |\$$$$$$$\ \$$$$$$  |\$$$$$\$$$$  |
+\__|     \__| \______/ \_______/  \_______| \______/  \_____\____/ 
+                                                                   
+                                                                   
+                                                                   
+$$$$$$$\                                                $$\        
+$$  __$$\                                               $$ |       
+$$ |  $$ | $$$$$$\   $$$$$$\  $$\  $$$$$$\   $$$$$$$\ $$$$$$\      
+$$$$$$$  |$$  __$$\ $$  __$$\ \__|$$  __$$\ $$  _____|\_$$  _|     
+$$  ____/ $$ |  \__|$$ /  $$ |$$\ $$$$$$$$ |$$ /        $$ |       
+$$ |      $$ |      $$ |  $$ |$$ |$$   ____|$$ |        $$ |$$\    
+$$ |      $$ |      \$$$$$$  |$$ |\$$$$$$$\ \$$$$$$$\   \$$$$  |   
+\__|      \__|       \______/ $$ | \_______| \_______|   \____/    
+                        $$\   $$ |                                 
+                        \$$$$$$  |                                 
+                         \______/                                                   
+
+
+	    Site by Wide Eye Creative, 2019
+
+
+	    
+	-->
+
+
+
+    
+<!-- This site is optimized with the Yoast SEO plugin v9.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Burr’s Blind Eye To Collusion - The Moscow Project</title>
+<meta name="description" content="Senator Richard Burr needs to re-examine what he thinks is acceptable campaign contact with hostile foreign powers. The very same day that The Washington Post extensively detailed a secret meeting between Trump campaign chairman Paul Manafort and a suspected Russian intelligence operative, Konstantin Kilimnik, Burr claimed the Senate Intelligence Committee has found “no direct evidence of a conspiracy between the Trump campaign and Russia.”"/>
+<link rel="canonical" href="https://themoscowproject.org/dispatch/burrs-blind-eye-to-collusion/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Burr’s Blind Eye To Collusion - The Moscow Project" />
+<meta property="og:description" content="Senator Richard Burr needs to re-examine what he thinks is acceptable campaign contact with hostile foreign powers. The very same day that The Washington Post extensively detailed a secret meeting between Trump campaign chairman Paul Manafort and a suspected Russian intelligence operative, Konstantin Kilimnik, Burr claimed the Senate Intelligence Committee has found “no direct evidence of a conspiracy between the Trump campaign and Russia.”" />
+<meta property="og:url" content="https://themoscowproject.org/dispatch/burrs-blind-eye-to-collusion/" />
+<meta property="og:site_name" content="The Moscow Project" />
+<meta property="article:section" content="Dispatch" />
+<meta property="article:published_time" content="2019-02-13T18:10:21+00:00" />
+<meta property="article:modified_time" content="2019-02-13T18:52:25+00:00" />
+<meta property="og:updated_time" content="2019-02-13T18:52:25+00:00" />
+<meta property="og:image" content="http://cdn.themoscowproject.org/content/uploads/2017/11/share-imageA.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Senator Richard Burr needs to re-examine what he thinks is acceptable campaign contact with hostile foreign powers. The very same day that The Washington Post extensively detailed a secret meeting between Trump campaign chairman Paul Manafort and a suspected Russian intelligence operative, Konstantin Kilimnik, Burr claimed the Senate Intelligence Committee has found “no direct evidence of a conspiracy between the Trump campaign and Russia.”" />
+<meta name="twitter:title" content="Burr’s Blind Eye To Collusion - The Moscow Project" />
+<meta name="twitter:site" content="@moscow_project" />
+<meta name="twitter:image" content="http://cdn.themoscowproject.org/content/uploads/2017/11/share-imageA.jpg" />
+<meta name="twitter:creator" content="@moscow_project" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"https://themoscowproject.org/","sameAs":["https://twitter.com/moscow_project"],"@id":"https://themoscowproject.org/#organization","name":"The Moscow Project","logo":"http://cdn.themoscowproject.org/content/uploads/2017/11/share-imageA.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/themoscowproject.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="search-filter-plugin-styles-css"  href="https://themoscowproject.org/content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.3.4"  media="all">
+<link rel="stylesheet" id="sccss_style-css"  href="https://themoscowproject.org/?sccss=1&#038;ver=4.9.9"  media="all">
+<link rel="stylesheet" id="theme_css-css"  href="https://themoscowproject.org/content/themes/Theme-MoscowProject/assets/build/style.min.css"  media="all">
+<script type='text/javascript' src='https://themoscowproject.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://themoscowproject.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SF_LDATA = {"ajax_url":"https:\/\/themoscowproject.org\/wp-admin\/admin-ajax.php","home_url":"https:\/\/themoscowproject.org\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://themoscowproject.org/content/plugins/search-filter-pro/public/assets/js/search-filter-build.min.js?ver=2.3.4'></script>
+<script type='text/javascript' src='https://themoscowproject.org/content/plugins/search-filter-pro/public/assets/js/chosen.jquery.min.js?ver=2.3.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var aamLocal = {"nonce":"0ec870b0bb","ajaxurl":"https:\/\/themoscowproject.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//themoscowproject.org/content/plugins/advanced-access-manager/media/js/aam-login.js?ver=4.9.9'></script>
+<link rel='https://api.w.org/' href='https://themoscowproject.org/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://themoscowproject.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthemoscowproject.org%2Fdispatch%2Fburrs-blind-eye-to-collusion%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://themoscowproject.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthemoscowproject.org%2Fdispatch%2Fburrs-blind-eye-to-collusion%2F&#038;format=xml" />
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.9';
+</script>
+<!-- Stream WordPress user activity plugin v3.2.3 -->
+<link rel="icon" href="https://themoscowproject.org/content/uploads/2017/11/cropped-favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://themoscowproject.org/content/uploads/2017/11/cropped-favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://themoscowproject.org/content/uploads/2017/11/cropped-favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://themoscowproject.org/content/uploads/2017/11/cropped-favicon-1-270x270.png" />
+    <script src="https://use.typekit.net/rlt6glv.js"></script>
+	<script>try{Typekit.load();}catch(e){}</script>
+
+	<script>document.documentElement.className = 'js';</script>
+    <link rel="icon" type="image/png" href="https://themoscowproject.org/content/themes/Theme-MoscowProject/assets/build/img/favicon.png"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+	<body class="post-template-default single single-post postid-4047 single-format-standard  page-no-topper" data-collusionjson="https://cdn.themoscowproject.org/content/uploads/themoscowproject.org/collusion-posts.json" data-uploaddir="https://themoscowproject.org/content/uploads">
+
+	
+			<div class="pusher"></div>
+			<!-- <div class="goToTop">
+				<div class="wrap">
+					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 28.3 30.8" style="enable-background:new 0 0 28.3 30.8;" xml:space="preserve"><path class="st0" d="M0,14.2L14.1,0l14.1,14.2l-3.5,3.5l-8.1-8.2v21.3h-5V9.5l-8.2,8.2L0,14.2z"/></svg>
+					<span>Top</span>
+				</div>
+			</div> -->
+			<div class="searchOverlay">
+				<button id="btn-search-close" class="btn--search-close" aria-label="Close search form">
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+						<g><path class="color" d="M585.8,500l385.9-385.9c24.5-24.5,24.5-61.3,0-85.8c-24.5-24.5-61.3-24.5-85.8,0L500,414.3L114.1,28.4c-24.5-24.5-61.2-24.5-85.8,0c-24.5,24.5-24.5,61.3,0,85.8L411.2,500L28.4,885.9c-24.5,24.5-24.5,61.3,0,85.8c9.2,12.3,27.6,18.4,42.9,18.4c15.3,0,30.6-6.1,42.9-18.4L500,585.8l385.9,385.9c12.3,12.3,27.6,18.4,42.9,18.4s30.6-6.1,42.9-18.4c24.5-24.5,24.5-61.3,0-85.8L585.8,500z"/></g>
+					</svg>
+				</button>
+				<form method="get" class="search__form" action="https://themoscowproject.org/">
+					<input class="search__input" name="s" type="search" placeholder="search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
+					<span class="search__info">Press enter to search</span>
+				</form>
+			</div><!-- /search -->
+
+			<div class="top-search">
+				<div class="container">
+					<form role="search" method="get" id="searchform" action="https://themoscowproject.org/">
+						<input type="text" name="s" class="focus-input" required placeholder="Search..." />
+						<input type="submit" class="submit-search" />
+					</form>
+				</div>
+			</div><!-- /pull-down search -->
+
+			<div class="menuOverlay">
+				<button id="btn-menu-close" class="btn--menu-close" aria-label="Close menu">
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+						<g><path class="color" d="M585.8,500l385.9-385.9c24.5-24.5,24.5-61.3,0-85.8c-24.5-24.5-61.3-24.5-85.8,0L500,414.3L114.1,28.4c-24.5-24.5-61.2-24.5-85.8,0c-24.5,24.5-24.5,61.3,0,85.8L411.2,500L28.4,885.9c-24.5,24.5-24.5,61.3,0,85.8c9.2,12.3,27.6,18.4,42.9,18.4c15.3,0,30.6-6.1,42.9-18.4L500,585.8l385.9,385.9c12.3,12.3,27.6,18.4,42.9,18.4s30.6-6.1,42.9-18.4c24.5-24.5,24.5-61.3,0-85.8L585.8,500z"/></g>
+					</svg>
+				</button>
+				
+				<div class="align-middle">
+					<div class="menu-mobile-navigation-container"><ul id="menu-mobile-navigation" class="menu"><li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-231"><a href="https://themoscowproject.org/">Home</a></li>
+<li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-230"><a href="https://themoscowproject.org/briefings/">Briefings</a></li>
+<li id="menu-item-1260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1260"><a href="https://themoscowproject.org/details/">The Details</a></li>
+<li id="menu-item-2213" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2213"><a href="/chapters">The Full Story</a></li>
+<li id="menu-item-2214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2214"><a href="/collusion-timeline">Timeline</a></li>
+<li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="https://themoscowproject.org/about/">About</a></li>
+<li id="menu-item-228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-228"><a href="https://themoscowproject.org/contact/">Contact</a></li>
+</ul></div>					<nav class="secondary">
+						<ul id="secondary-navigation" class="menu"><li id="menu-item-1085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1085"><a href="https://themoscowproject.org/about/">About</a></li>
+<li id="menu-item-1086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1086"><a href="https://themoscowproject.org/contact/">Contact</a></li>
+<li id="menu-item-35" class="donate menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a target="_blank" href="https://ssl1.americanprogress.org/o/507/p/salsa/donation/common/public/?donate_page_KEY=7450">Donate</a></li>
+</ul>					</nav>
+					<div class="social-mobile">
+						<div class="social links">
+	<ul>
+		   						<li class="twitter"><a href="https://twitter.com/moscow_project" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+			</ul>
+</div>					</div> 
+				</div>
+			</div><!-- /mobile -->
+
+			
+
+
+		<div class="top">
+			
+			<header class="alert">
+				<div class="col-xs-6 col-sm-2 logo">
+					<a href="https://themoscowproject.org/">
+						<svg id="site_logo" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 645.3 280.5"><defs></defs><rect class="cls-1" width="48.7" height="280"/><path class="cls-2" d="M151,84.6H132.2v-49H118.8V20.1h45.5V35.6H151Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M249.7,84.6H229.9v-25h-15V84.7H195V20.1h19.8V43.9h15V20.1h19.8V84.6Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M334.6,84.6H286.1V20.1h48.5V35h-29v9.4h23.5V58.7H305.6V69.3h29Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M194.6,191.9H176.2V145.7l-12,46.2H151.6l-12.4-46.2v46.2H124.4V127.3h25.9l9.4,34.3,8.9-34.3h26v64.6Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M280.8,135c6,6.2,8.7,13.9,8.7,24.5,0,19.8-12.5,33.4-30.6,33.4-18.4,0-30.8-13.4-30.8-33.2,0-20,12.3-33.3,30.9-33.3C268.1,126.4,275.1,129.1,280.8,135Zm-31.4,25.3c0,12.1,3.1,18,9.4,18,4.9,0,7.6-3,8.6-9.6a68.66,68.66,0,0,0,.8-10.7c0-11.4-2.9-16.9-9.1-16.9S249.4,147.7,249.4,160.3Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M335.5,170c2,5.6,5.2,7.7,12,7.7,4.7,0,7.4-1.5,7.4-4.1s-2-4.1-7.8-5.1c-7.8-1.5-13.4-3.3-17.6-5.5-5.7-2.9-9-8.6-9-15.4,0-12.8,10.5-21.2,26.5-21.2,13.3,0,22.2,5.3,26.3,15.9l-16.5,4.9c-1.8-4.6-4.9-6.5-10.4-6.5-4,0-6.4,1.5-6.4,4.1,0,2.4,1.6,3.5,7.2,4.6,12,2.5,14.5,3.3,18.7,5.5A18.16,18.16,0,0,1,375,171c0,13.2-11.5,21.9-28.9,21.9-9.4,0-16.8-2.6-22.4-7.8-3.3-3.2-4.9-6.1-6.6-11.8Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M461.3,168.4c-1.1,8-2.9,12.2-7.3,16.7-4.9,5.1-11.7,7.7-19.8,7.7-17.9,0-29.3-12.7-29.3-32.7,0-10.6,3.2-19.9,9-26,4.9-5.1,11.9-7.7,20.5-7.7,10.7,0,18.6,4.3,23.1,12.5,2.2,4,3.2,7.3,3.8,13.4l-18.4,1.1c-.1-3.7-.4-5.3-1.4-7.5a7.82,7.82,0,0,0-7.1-4.8c-3.3,0-6.2,2.3-7.6,6-1.3,3.3-1.7,7.2-1.7,13.3,0,12.5,2.8,17.7,9.3,17.7,5.2,0,8.1-3.5,8.7-10.7Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M543.7,135c6,6.2,8.7,13.9,8.7,24.5,0,19.8-12.5,33.4-30.6,33.4-18.4,0-30.8-13.4-30.8-33.2,0-20,12.3-33.3,30.9-33.3C531.1,126.4,538,129.1,543.7,135Zm-31.3,25.3c0,12.1,3.1,18,9.4,18,4.9,0,7.6-3,8.6-9.6a68.66,68.66,0,0,0,.8-10.7c0-11.4-2.9-16.9-9.1-16.9S512.4,147.7,512.4,160.3Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M648.1,191.9H631.5l-9.1-35.6-8.5,35.6H596.6l-17.1-64.6H598l9.1,37.3,8.8-37.3h15.6l9.5,37.3,9.1-37.3h15.1Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M144.5,299.3h-20V234.7H152c10,0,15.5,1.5,20.2,5.1a19.77,19.77,0,0,1,7.2,15.5c0,12.3-9.4,20.5-23.6,20.5H144.6v23.5Zm6.4-37.3c6,0,8.7-2,8.7-6.4,0-4.1-2.7-6.1-8.1-6.1h-7.2V262Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M246.5,299.3,237,274.7h-6.2v24.6H211V234.7h33.8c14.6,0,23.4,7.4,23.4,19.7,0,8.1-3.1,12.7-11.4,16.8l11.6,28.1Zm-7.2-38.5c5.3,0,8.3-2.3,8.3-6.2s-2.8-6.2-7.6-6.2h-9.1v12.4Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M352,242.3c6,6.2,8.7,13.9,8.7,24.5,0,19.8-12.5,33.4-30.6,33.4-18.4,0-30.8-13.4-30.8-33.2,0-20,12.3-33.3,30.9-33.3C339.3,233.7,346.2,236.4,352,242.3Zm-31.4,25.3c0,12.1,3.1,18,9.4,18,4.9,0,7.6-3,8.6-9.6a68.66,68.66,0,0,0,.8-10.7c0-11.4-2.9-16.9-9.1-16.9S320.6,255,320.6,267.6Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M423.3,275.3c0,10.4-1,14.8-4.2,18.7-3.8,4.4-8.9,6.2-17.4,6.2a49.29,49.29,0,0,1-13.1-1.5V283.3a28,28,0,0,0,7.8,1.2,8.54,8.54,0,0,0,6.2-2.3c1.3-1.4,1.5-2.8,1.5-6.8V234.7h19.1v40.6Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M507.5,299.3H459V234.7h48.5v14.9h-29V259H502v14.3H478.5v10.6h29Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M594.4,275.7c-1.1,8-2.9,12.2-7.3,16.7-4.9,5.1-11.7,7.7-19.8,7.7-17.9,0-29.3-12.7-29.3-32.7,0-10.7,3.2-19.9,9-26,4.9-5.1,11.9-7.7,20.5-7.7,10.7,0,18.6,4.3,23.1,12.5,2.2,4,3.2,7.3,3.8,13.4L576,260.7c-.1-3.7-.4-5.3-1.4-7.5a7.82,7.82,0,0,0-7.1-4.8c-3.3,0-6.2,2.3-7.6,6-1.3,3.3-1.7,7.2-1.7,13.3,0,12.5,2.8,17.7,9.3,17.7,5.2,0,8.1-3.5,8.7-10.7Z" transform="translate(-22.3 -19.7)"/><path class="cls-2" d="M654.3,299.3H635.5V250.2H622.1V234.7h45.5v15.5H654.2v49.1Z" transform="translate(-22.3 -19.7)"/></svg>					</a>
+				</div>
+				<div class="col-xs-6 col-sm-10 control">
+																		<div id="btn-search" class="search-icon">
+								<i class="fa fa-search" aria-hidden="true"></i>
+							</div>
+											
+											<nav class="primary">
+							<ul id="primary-navigation" class="menu"><li id="menu-item-356" class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-356"><a href="https://themoscowproject.org/">Home</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-149"><a href="https://themoscowproject.org/briefings/">Briefings</a>
+<ul class="sub-menu">
+	<li id="menu-item-1226" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1226"><a href="https://themoscowproject.org/category/dispatch/">Dispatch</a></li>
+	<li id="menu-item-1228" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1228"><a href="https://themoscowproject.org/category/explainers/">Explainers</a></li>
+	<li id="menu-item-1227" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1227"><a href="https://themoscowproject.org/category/reports/">Reports</a></li>
+</ul>
+</li>
+<li id="menu-item-1259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1259"><a href="https://themoscowproject.org/details/">The Details</a>
+<ul class="sub-menu">
+	<li id="menu-item-1265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1265"><a href="https://themoscowproject.org/players/">Players</a></li>
+	<li id="menu-item-1229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="https://themoscowproject.org/dossier/">Dossier</a></li>
+	<li id="menu-item-2589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2589"><a href="https://themoscowproject.org/resources/">Resources</a></li>
+</ul>
+</li>
+<li id="menu-item-1660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1660"><a href="/chapters">The Full Story</a>
+<ul class="sub-menu">
+	<li id="menu-item-2801" class="menu-item menu-item-type-post_type menu-item-object-collusion-chapter menu-item-2801"><a href="https://themoscowproject.org/collusion-chapter/chapter-1/">Bailed Out by Russia</a></li>
+	<li id="menu-item-2798" class="menu-item menu-item-type-post_type menu-item-object-collusion-chapter menu-item-2798"><a href="https://themoscowproject.org/collusion-chapter/chapter-2/">Hybrid Warfare</a></li>
+	<li id="menu-item-2799" class="menu-item menu-item-type-post_type menu-item-object-collusion-chapter menu-item-2799"><a href="https://themoscowproject.org/collusion-chapter/chapter-3/">Cultivating an Asset</a></li>
+	<li id="menu-item-2800" class="menu-item menu-item-type-post_type menu-item-object-collusion-chapter menu-item-2800"><a href="https://themoscowproject.org/collusion-chapter/chapter-4/">The Election</a></li>
+	<li id="menu-item-2974" class="menu-item menu-item-type-post_type menu-item-object-collusion-chapter menu-item-2974"><a href="https://themoscowproject.org/collusion-chapter/chapter-5/">Putin&#8217;s Payoff</a></li>
+	<li id="menu-item-3865" class="menu-item menu-item-type-post_type menu-item-object-collusion-chapter menu-item-3865"><a href="https://themoscowproject.org/collusion-chapter/chapter-6/">The Investigation</a></li>
+</ul>
+</li>
+<li id="menu-item-1661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1661"><a href="/collusion-timeline">Timeline</a></li>
+</ul>						</nav>
+									</div>
+				<button class="hamburger hamburger--squeeze class="alert"" type="button" id="btn-menu">
+					<span class="hamburger-box">
+					<span class="hamburger-inner"></span>
+					</span>
+				</button>
+			</header>
+			
+		</div>
+
+
+		
+		
+		        <div class="social-nav behind">
+            <div class="social-side">
+                
+                <div class="box"><i class="fa fa-share-alt" aria-hidden="true"></i></div>
+                <div class="share-slide">
+                       <div class="social links">
+		<ul>
+		<li class="facebook"><a href="http://www.facebook.com/sharer.php?u=https://themoscowproject.org/dispatch/burrs-blind-eye-to-collusion/&t=Burr’s Blind Eye To Collusion" class="social-pop"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+
+					<li class="twitter"><a href="http://twitter.com/intent/tweet?text=Burr%E2%80%99s+Blind+Eye+To+Collusion+-+https%3A%2F%2Fthemoscowproject.org%2F%3Fp%3D4047+via+%40moscow_project" class="social-pop"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+	    
+		<li class="email"><a href="#" class="addthis_button_email" addthis:title="Burr’s Blind Eye To Collusion - The Moscow Project" addthis:url="https://themoscowproject.org/dispatch/burrs-blind-eye-to-collusion/"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+   </ul>
+</div>                </div>
+                <p>Share</p>
+            </div>
+        </div>
+    	
+			<div class="alert-container">
+						</div>
+			
+		<div id="container-wrap">
+			<div class="secondaryNav ">
+									<nav class="secondary">
+						<ul id="secondary-navigation" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1085"><a href="https://themoscowproject.org/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1086"><a href="https://themoscowproject.org/contact/">Contact</a></li>
+<li class="donate menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a target="_blank" href="https://ssl1.americanprogress.org/o/507/p/salsa/donation/common/public/?donate_page_KEY=7450">Donate</a></li>
+</ul>					</nav>
+				
+									<div class="social links">
+	<ul>
+		   						<li class="twitter"><a href="https://twitter.com/moscow_project" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+			</ul>
+</div>							</div>
+	
+		<main class="single-post">
+		
+
+	<div class="topper-posts">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-md-10">
+					<div class="page-meta"><span class="category"><a href="https://themoscowproject.org/category/dispatch/" rel="category tag">Dispatch</a></span> <span>February 13, 2019</span> </div>
+					<h1 class="page-title">Burr’s Blind Eye To Collusion</h1>
+										<hr class="left">
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+		
+		<div class="content">
+				        	<div class="module full-content"  >
+	        		<div class="container">
+	        			<div class="row">
+	        				<div class="col-xs-12 col-md-8">
+	        					<p>Senator Richard Burr needs to re-examine what he thinks is acceptable campaign contact with hostile foreign powers. The very same day that <em>The Washington Post</em> <a href="https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html?utm_term=.b6f7789474a9">extensively detailed</a> a secret meeting between Trump campaign chairman Paul Manafort and a suspected Russian intelligence operative, Konstantin Kilimnik, Burr <a href="https://t.co/C2FPnst29H">claimed</a> the Senate Intelligence Committee has found “no direct evidence of a conspiracy between the Trump campaign and Russia.”</p>
+<p>How can Burr claim there’s nothing wrong with the head of a presidential campaign meeting secretly with a suspected Russia intelligence operative – in the middle of an election the Kremlin was trying to influence?</p>
+<p><strong>Burr is clearly picking up where Devin Nunes left off as President Donald Trump’s accomplice in Congress.</strong></p>
+<ul>
+<li>He has <a href="https://abcnews.go.com/Politics/white-house-communicated-members-congress-rebutting-russia-stories/story?id=45738051">again</a> and <a href="https://thehill.com/policy/national-security/385253-schiff-gop-refused-to-subpoena-for-who-called-trump-jr-before">again</a> been enlisted by the White House to defend Trump over the Russia investigation.</li>
+<li>Committee staffers and Senator Mark Warner, the ranking member on the committee, have already <a href="https://www.cnn.com/2019/02/12/politics/warner-burr-senate-russia-collusion-question/index.html">pushed back</a> on Burr’s statement.</li>
+</ul>
+<p><strong>Clear evidence already exists of the Trump campaign conspiring with Russia.</strong></p>
+<ul>
+<li><strong>The June 9 meeting: </strong>Donald Trump Jr. <a href="https://themoscowproject.org/explainers/collusion-at-trump-tower-in-their-own-words/">received an email</a> from a Kremlin-linked middleman explicitly offering dirt on Hillary Clinton “as part of Russia and its government’s support for Mr. Trump.”
+<ul>
+<li>Trump Jr. not only eagerly took the meeting but brought in the campaign’s chairman and Jared Kushner, and even offered initial guidance for when to release the “dirt.”</li>
+</ul>
+</li>
+<li><strong>Coordination between Roger Stone and WikiLeaks:</strong> Roger Stone allegedly <a href="https://themoscowproject.org/dispatch/the-stone-indictment-shows-the-trump-campaign-directed-collusion/">developed a secret backchannel</a> to WikiLeaks at the explicit direction of top Trump campaign officials.
+<ul>
+<li>He appears to have used it to <a href="https://themoscowproject.org/dispatch/roger-stones-successful-wikileaks-backchannel/">learn advance information</a> about what emails would be released, and when, which the Trump campaign could then use to <a href="https://themoscowproject.org/explainers/a-case-study-in-collusion/">fine-tune its campaign’s battle plan</a>.</li>
+</ul>
+</li>
+<li><strong>George Papadopoulos and the hacked emails: </strong>George Papadopoulos lied about meetings with a suspected Russian intelligence agent who <a href="https://themoscowproject.org/dispatch/schiff-memo-actually-tells-us-trump-campaign-knew-russian-plans-along/">told him in advance</a> that Russia had stolen and planned to publish the Clinton campaign’s emails.</li>
+<li><strong>A suspected Russian agent was on the Trump campaign:</strong> Carter Page, another campaign foreign policy adviser whom U.S. intelligence <a href="https://themoscowproject.org/dispatch/nunes-memo-reveal-actual-russian-agent-trump-campaign/">repeatedly concluded</a> may be a Russian agent, traveled to Moscow during the campaign—with <a href="https://www.nbcnews.com/news/us-news/carter-page-coordinated-russia-trip-top-trump-campaign-officials-n818206">explicit permission</a> from campaign leadership—to meet with high-ranking members of the Russian government.</li>
+<li><strong>Paul Manafort passed polling data to a Russian agent:</strong> Manafort and his deputy Rick Gates <a href="https://www.nytimes.com/2019/01/08/us/politics/manafort-trump-campaign-data-kilimnik.html">passed internal polling data</a> to Konstantin Kilimnik, a man they knew had ongoing ties to Russian intelligence, with specific orders to <a href="https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html">forward the information</a> to oligarchs with a history of doing the Kremlin’s bidding.
+<ul>
+<li>According to <a href="https://www.documentcloud.org/documents/5731934-USA-v-Manafort-2-4-19-Hearing-Redacted-Transcript.html">court filings</a>, the exchange “goes very much to the heart of what the Special Counsel’s Office is investigating”—especially given that there seems to have been a proposed quid pro quo regarding Russia’s invasion of Ukraine.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Coordination with Russia was widespread and clear.</strong></p>
+<ul>
+<li>There were <a href="https://themoscowproject.org/explainers/trumps-russia-cover-up-by-the-numbers-70-contacts-with-russia-linked-operatives/?fbclid=IwAR0QTO-KEVrAbjw_ulk04M1m9It8Jnu6n8WTwK2inxz6RqYNwuBMuq7mKLQ">more than 100 contacts</a> with representatives of a hostile foreign power seeking to change the course of an American election during the campaign and transition.</li>
+<li><a href="https://themoscowproject.org/explainers/trumps-russia-cover-up-by-the-numbers-70-contacts-with-russia-linked-operatives/?fbclid=IwAR0QTO-KEVrAbjw_ulk04M1m9It8Jnu6n8WTwK2inxz6RqYNwuBMuq7mKLQ">At least 28 Trump associates</a> participated in or knew about at least one of those contacts.</li>
+<li>In those contacts, they shared <a href="https://www.washingtonpost.com/local/legal-issues/paul-manafort-shared-2016-polling-data-with-russian-employee-according-to-court-filing/2019/01/08/3f562ad8-12b0-11e9-803c-4ef28312c8b9_story.html?utm_term=.6d62f2f8c4dd">polling data</a>, <a href="https://themoscowproject.org/explainers/collusion-at-trump-tower-in-their-own-words/">opposition research</a>, <a href="https://www.washingtonpost.com/world/national-security/sessions-discussed-trump-campaign-related-matters-with-russian-ambassador-us-intelligence-intercepts-show/2017/07/21/3e704692-6e44-11e7-9c15-177740635e83_story.html">policy issues</a>, and <a href="https://themoscowproject.org/dispatch/its-official-mueller-has-identified-collusion/">campaign strategy</a>.</li>
+<li>Lastly, the Mueller investigation, which is narrowly focused on uncovering coordination between the Trump campaign and the Russian government, has already resulted in indictments and guilty pleas from <a href="https://themoscowproject.org/dispatch/interactive-trumps-collusion-middle-men-are-being-convicted/">Trump’s campaign chairman, deputy campaign chairman, national security adviser, and personal attorney</a>.</li>
+</ul>
+	        				</div>
+	        			</div>
+	        		</div>
+	        	</div>
+	        			<div class="bottom-share">
+				<div class="social links">
+		<ul>
+		<li class="facebook"><a href="http://www.facebook.com/sharer.php?u=https://themoscowproject.org/dispatch/burrs-blind-eye-to-collusion/&t=Burr’s Blind Eye To Collusion" class="social-pop"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+
+					<li class="twitter"><a href="http://twitter.com/intent/tweet?text=Burr%E2%80%99s+Blind+Eye+To+Collusion+-+https%3A%2F%2Fthemoscowproject.org%2F%3Fp%3D4047+via+%40moscow_project" class="social-pop"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+	    
+		<li class="email"><a href="#" class="addthis_button_email" addthis:title="Burr’s Blind Eye To Collusion - The Moscow Project" addthis:url="https://themoscowproject.org/dispatch/burrs-blind-eye-to-collusion/"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
+   </ul>
+</div>			</div>
+		</div>
+
+		<div class="content learn-more">
+			<div class="go-back">
+				<a href="https://themoscowproject.org/briefings/"><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54.06 44"><defs></defs><path class="cls-1" d="M54.06,22l-1.81-2-18-20L29.78,4l13.5,15H0v6H43.28L29.78,40l4.47,4,18-20Z"/></svg> Back to Briefings</a>
+			</div>
+
+			<div class="inner-nav">
+				<div class="next-post float-left">
+					<!-- Prev Page -->
+												<a href="https://themoscowproject.org/dispatch/unanswered-questions-for-mueller-and-congress/" class="full-link"></a>
+						<div class="wrapper">
+						    <p class="tiny"><span>Previous Post</span></p>
+							<h4>Unanswered Questions for Mueller and Congress</h4>
+							<p class="date">February 22, 2019</p>
+						</div>
+						</a>
+					<!-- End Prev Page -->
+				</div>
+
+				<div class="next-post float-right">
+					<!-- Next Page -->
+												<a href="https://themoscowproject.org/explainers/aiding-and-abetting/" class="full-link"></a>
+						 <div class="wrapper">
+						 	<p class="tiny"><span>Next Post</span></p>
+						 	<h4>INTERACTIVE: Aiding and Abetting: What the Trump Campaign Knew About Russia's Attack</h4>
+						 	<p class="date">February 12, 2019</p>
+						 </div>
+					<!-- End Next Page -->
+				</div>
+			</div>
+		</div>
+	</main>
+											<div class="bottom-cta social-hide" style="background: url(https://cdn.themoscowproject.org/content/uploads/2017/11/11175636/bottom-cta-1.jpg) no-repeat center center;">
+									<div class="overlay"></div>
+								<div class="container">
+					<div class="row">
+						<div class="vertical-centered">
+							<div class="col-md-6">
+								<div class="vertical-centered">
+									<h1>Support the Moscow Project</h1>
+																			<div class="deck">
+											<p>The Moscow Project is an initiative of the Center for American Progress that is dedicated to uncovering the truth about Trump’s involvement in Russian attacks on our democracy.</p>
+										</div>
+																	</div>
+							</div>
+							<div class="col-md-6">
+								<a href="https://ssl1.americanprogress.org/o/507/p/salsa/donation/common/public/?donate_page_KEY=7450" class="btn alt" >Donate Now</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+						<footer >
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<nav class="primary">
+							<ul id="primary-navigation" class="menu"><li class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-356"><a href="https://themoscowproject.org/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-149"><a href="https://themoscowproject.org/briefings/">Briefings</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1259"><a href="https://themoscowproject.org/details/">The Details</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1660"><a href="/chapters">The Full Story</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1661"><a href="/collusion-timeline">Timeline</a></li>
+</ul>						</nav>
+						<nav class="secondary">
+							<ul id="secondary-navigation" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1085"><a href="https://themoscowproject.org/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1086"><a href="https://themoscowproject.org/contact/">Contact</a></li>
+<li class="donate menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a target="_blank" href="https://ssl1.americanprogress.org/o/507/p/salsa/donation/common/public/?donate_page_KEY=7450">Donate</a></li>
+</ul>						</nav>
+						<div class="social links">
+	<ul>
+		   						<li class="twitter"><a href="https://twitter.com/moscow_project" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+			</ul>
+</div>						<nav class="footer-secondary">
+							<ul id="footer-secondary" class="menu"><li id="menu-item-1239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1239"><a target="_blank" href="https://www.americanprogressaction.org/about/contact-us/">Contact Us</a></li>
+<li id="menu-item-1236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1236"><a target="_blank" href="https://www.americanprogressaction.org/about/c4-terms/">Terms of Use</a></li>
+<li id="menu-item-1237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1237"><a target="_blank" href="https://www.americanprogressaction.org/about/c4-privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-1238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1238"><a target="_blank" href="https://www.americanprogressaction.org/about/c4-reuse-policy/">Reuse Policy</a></li>
+</ul>						</nav>
+						<div class="footer-meta">
+
+							<span class="copyrights">&copy;2019 Center for American Progress Action Fund</span>
+
+							<!--  -->
+
+							<span class="site-by">Site by <a href="http://www.wideeyecreative.com" target="_blank">Wide Eye Creative</a></span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+	</div> <!-- #container-wrap -->
+
+		
+		<script type='text/javascript' src='https://themoscowproject.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://themoscowproject.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://themoscowproject.org/content/themes/Theme-MoscowProject/assets/build/js/TweenMax.min.js'></script>
+<script type='text/javascript' src='https://themoscowproject.org/content/themes/Theme-MoscowProject/assets/build/js/ScrollMagic.min.js'></script>
+<script type='text/javascript' src='https://themoscowproject.org/content/themes/Theme-MoscowProject/assets/build/js/animation.gsap.min.js'></script>
+<script type='text/javascript' src='https://themoscowproject.org/content/themes/Theme-MoscowProject/assets/build/js/debug.addIndicators.min.js'></script>
+<script type='text/javascript' src='https://themoscowproject.org/content/themes/Theme-MoscowProject/assets/build/scripts.min.js'></script>
+<script type='text/javascript' src='https://themoscowproject.org/wp-includes/js/wp-embed.min.js?ver=4.9.9'></script>
+		<script>
+			function getURLParameter(name) {
+			    return decodeURI(
+			        (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1]
+			    );
+			}
+
+			function createCookie(name,value,days) {
+			    if (days) {
+			        var date = new Date();
+			        date.setTime(date.getTime()+(days*24*60*60*1000));
+			        var expires = "; expires="+date.toGMTString();
+			    }
+			    else var expires = "";
+			    document.cookie = name+"="+value+expires+"; path=/";
+			}
+
+			function readCookie(name) {
+			    var nameEQ = name + "=";
+			    var ca = document.cookie.split(';');
+			    for(var i=0;i < ca.length;i++) {
+			        var c = ca[i];
+			        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+			    }
+			    return null;
+			}
+
+			function eraseCookie(name) {
+			    createCookie(name,"",-1);
+			}
+			jQuery(function ($) {
+				$('header .contribute-link a').each(function(i,val){
+					var url = $(this).attr('href');
+					var source = getURLParameter('source');
+					if(source=='null'){
+						source = 'website';
+					}
+					if (readCookie('source') !== null){
+						source = readCookie('source');
+					}
+					url = url.replace('website',source);
+					url = url.replace('=homepage','='+source);
+					console.log(source);
+					$(this).attr('href',url);
+					if(source!='website'){
+						history.replaceState(null, null, "?source="+source);
+					}
+				});
+
+				/*Search */
+				
+					$("#btn-search, #search-trigger").on("click", function(e) {
+				        e.preventDefault();
+				        e.stopPropagation();
+
+				        $("i", this).toggleClass("fa fa-search fa fa-close");
+				        $('.top-search .focus-input').focus();
+				        $('body').toggleClass('search-open');
+				      });
+
+				      $('.top-search .focus-input').keyup(function() {
+				          $('.top-search input[type="submit"]').css('opacity', '1');
+				    });
+
+				    $(document).click(function(e) {
+				        var searchWrap = $(".top-search");
+				        if(!searchWrap.is(e.target) && searchWrap.has(e.target).length === 0) {
+				          $('body').removeClass('search-open');
+				        }
+				    });
+
+							});
+		</script>
+		<!-- AddThis Button -->
+		<script>var addthis_config = {"data_track_addressbar":false};</script>
+		<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51c770552f90ce31"></script>
+					<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-98806268-2', 'auto');
+ga('send', 'pageview');
+</script>			</body>
+</html>

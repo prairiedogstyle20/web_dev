@@ -1,0 +1,1180 @@
+<!DOCTYPE html>
+<!--[if IE 7]> <html class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="lt-ie9"> <![endif]-->
+<!--[if IE 9 ]> <html class="ie9" lang="en-US"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>How Team Trump keeps changing its story in the Russia investigation</title>
+<link href="http://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/" rel="canonical">
+
+<meta charset="utf-8">
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="noarchive">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="title" content="How Team Trump keeps changing its story in the Russia investigation">
+<meta name="description" content="Public contradictions, walkbacks and flip-flops have become a hallmark of how Trump and his team responded to the Russia investigation. This interactive project highlights the top 15 examples of these flip-flops and contradictions, and is accompanied by nine new original videos.">
+<meta name="keywords" content="Trump team changing stories, Trump before and after, Russian collusion, Comey fired, Comey firing, Mueller, Robert Mueller, Obstruction, Mueller legal process, Russian business ties, Trump associates, Michael Cohen, Roger Stone, Jeff Sessions, Rudy Giuliani, Jay Sekulow">
+<meta name="news_keywords" content="Trump team changing stories, Trump before and after, Russian collusion, Comey fired, Comey firing, Mueller, Robert Mueller, Obstruction, Mueller legal process, Russian business ties, Trump associates, Michael Cohen, Roger Stone, Jeff Sessions, Rudy Giuliani, Jay Sekulow">
+<meta name="section" content="politics">
+<meta name="source" content="CNN">
+<meta name="subsection" content="">
+<meta name="application-name" content="CNN">
+
+<!-- Facebook settings -->
+<meta property="og:description" content="Public contradictions, walkbacks and flip-flops have become a hallmark of how Trump and his team responded to the Russia investigation. This interactive project highlights the top 15 examples of these flip-flops and contradictions, and is accompanied by nine new original videos.">
+<meta property="og:image" content="http://i2.cdn.turner.com/cnnnext/dam/assets/190212175043-20190206-trump-team-then-now-changing-stories-interactive-only-full-169.jpg">
+<meta property="og:type" content="Article">
+<meta property="og:title" content="How Team Trump keeps changing its story in the Russia investigation">
+<meta property="og:url" content="http://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/">
+<meta property="fb:admins" content="690014395">
+<meta property="fb:app_id" content="80401312489">
+
+<!-- Twitter card settings -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@cnn">
+<meta name="twitter:site:id" content="759251">
+<meta name="twitter:creator" content="@cnn">
+
+<link href="//cdn.cnn.com/cnn/.e/img/3.0/global/misc/apple-touch-icon.png" rel="apple-touch-icon">
+<link href="//rss.cnn.com/rss/cnn_topstories.rss" rel="alternate" title="CNN - Top Stories [RSS]">
+<link href="//rss.cnn.com/rss/cnn_latest.rss" rel="alternate" title="CNN - Recent Stories [RSS]">
+
+<script src="//cdn.cnn.com/cnn/.e/js/libs/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+	var $j = jQuery.noConflict();
+</script>
+
+<link rel="stylesheet" href="https://ix.cnn.io/static/fonts/fonts.css">
+<link rel="stylesheet" href="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/css/cnnix-trump-team-russia-then-now.min.css"/>
+
+<script type="text/javascript" src="//cdn.cnn.com/analytics/cnn/ais.js"></script>
+<script type="text/javascript" src="//cdn.cnn.com/ads/cnn/adfuel.js"></script>
+<script>
+    var registry = document.createElement('script');
+    registry.type = 'text/javascript';
+    registry.src = (window.location.href.indexOf("edition")) ?
+        "https://cdn.cnn.com/ads/cnni/cnni_interactive_main.js" : "https://cdn.cnn.com/ads/cnn/cnn_interactive_main.js";
+    document.getElementsByTagName('head')[0].appendChild(registry);
+</script>
+<script>
+
+var CNN = CNN || {};
+	CNN.staticResponsive = true;
+	window.CNNSTATICSECTION = 'politics';
+
+	CNN.omniture = {
+        "branding_ad_page":           "",
+        "branding_ad_zone":           ["", "", ""],
+        "branding_ad_container":      ["", "", ""],
+        "branding_ad_card":           ["", "", ""],
+        "branding_content_page":      "",
+        "branding_content_zone":      ["", "", ""],
+        "branding_content_container": ["", "", ""],
+        "branding_content_card":      ["", "", ""],
+        "cap_author":                 "",
+        "cap_content_type":           "article",
+        "cap_genre":                  "",
+        "cap_franchise":              "",
+        "cap_media_type":             "",
+        "cap_show_name":              "",
+        "cap_topic":                  "",
+        "friendly_name":              "How Team Trump keeps changing its story in the Russia investigation",
+        "full_gallery":               "",
+        "gallery_name":               "",
+        "gallery_slide":              "",
+        "grid_size":                  "",
+        "headline":                   "How Team Trump keeps changing its story in the Russia investigation",
+        "ireport_assignment":         "",
+        "publish_date":               "2019/02/13",
+        "rs_flag":                    "",
+        "search_results_count":       "",
+        "search_results_page":        "",
+        "search_term":                "",
+        "section":                    ["politics", "", "interactives", "", ""],
+        "template_type":              "interactive",
+        "video_collection":           "",
+        "video_hpt":                  "",
+        "video_opportunity":          "",
+        "video_player_type":          ""
+    }
+
+    var cnn_shareconfig = [];
+</script>
+
+
+</head>
+<body>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- HEADER -->
+
+<div class="cnn-js-chrome-wrapper">
+    <div class="cnn-js-navigation" data-type="nav"></div>
+</div>
+<script>var CNNENV = "//www.cnn.com";</script>
+<script src="//z.cdn.turner.com/cnn/.element/ssi/www/misc/4.0/static/js/static-chrome-companion.min.js?v23"></script>
+
+
+<div id="ad-container" align="center" style="padding: 0; margin: 10px 0 0 0; border: 0;">
+    <div id="ad_bnr_atf_01"></div>
+</div>
+
+<div class="interactive-container">
+
+<script>
+/* push in config for this share instance */
+cnn_shareconfig.push({
+    "id" : "cnn_sharebar1",
+    "url" : "http://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/",
+    "title" : "How Team Trump keeps changing its story in the Russia investigation"
+});
+</script>
+
+<h1>How Team Trump keeps changing its story in the Russia investigation</h1>
+
+<!-- METADATA -->
+<div class="metadata">
+
+<p class="metadata__byline">By <a href="https://www.cnn.com/profiles/marshall-cohen" target="_blank">Marshall Cohen</a>, Sam Fossum, Em Steck, <a href="https://www.cnn.com/profiles/tal-yellin-profile" target="_blank">Tal Yellin</a><br/>Videos produced by <a href="https://www.cnn.com/profiles/mckenna-ewen" target="_blank">McKenna Ewen</a></p>
+<p class="metadata__timestamp">Published February 13, 2019</p>
+<!-- social sharing -->
+<div class="share-container block chrome">
+    <ul class="share-bar" data-headline="How Team Trump keeps changing its story in the Russia investigation" data-description="Public contradictions, walkbacks and flip-flops have become a hallmark of how Trump and his team responded to the Russia investigation. This interactive project highlights the top 15 examples of these flip-flops and contradictions, and is accompanied by nine new original videos." data-url="http://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/" data-image="" >
+        <li class="share-button twitter" data-service="twitter"></li>
+        <li class="share-button facebook" data-service="facebook"></li>
+        <li class="share-button email" data-service="email"></li>
+    </ul>
+    <div class="cnn_clear"></div>
+</div>
+
+</div> <!--/metadata -->
+
+<div class="cnnix-intro">
+<p class="cnnix-intro--text">Over the past two years, President Donald Trump and his team have offered changing accounts regarding key matters in the Russia investigation. Their denials have been debunked, Trump has contradicted his senior aides and sometimes his team has completely flipped its position.</p>
+<p class="cnnix-intro--text">Special counsel Robert Mueller is investigating Russian interference in the 2016 election along with potential collusion between Trumpâs campaign and the Russian government. So far, six Trump associates have been charged, but nobody has been implicated in collusion. Trump adamantly denies collusion.</p>
+<p class="cnnix-intro--text">Public contradictions, walkbacks and flip-flops have become a hallmark of how Trumpâs team has responded to the Russia probe, which was launched in 2016 and is now in its third year.</p>
+<p class="cnnix-intro--text">Here are the most consequential examples of Team Trump changing its story.</p>
+</div>
+
+<!-- CONTENT GOES HERE -->
+
+<div id="cnnix-app">
+    <div id="cnnix-main">
+
+        <ul class="cnnix-nav-cards" id="cnnix-RUco">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="RUco">Russian collusion</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>Did any Trump campaign aides have contacts with Russia?</h3>
+    </div>
+         <div class="cnnix-video">
+         	<div class="cnnix-video__player">
+        		<video class="lazy" controls playsinline controlsList="nodownload"
+        		data-src="media/video/01_Did_any_Trump_campaign_aides_have_contacts_with_Russia.mp4"
+        		poster="media/posters/01_trump-associates-with-russian-contacts.jpg">
+        		    <source type="video/mp4" data-src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/video/01_Did_any_Trump_campaign_aides_have_contacts_with_Russia.mp4">
+        		</video>
+             </div>
+         </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide1a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then RUco">
+        		Then</span> No. There werenât any.
+        	</h4>
+        	<p class="cnnix-entry--item__text">In July 2016, while he was chairman of the Trump campaign, Paul Manafort <a href="https://abcnews.go.com/ThisWeek/week-transcript-live-philadelphia-democratic-national-convention/story?id=40825144" target="_blank">flatly denied any ties existed</a> between the campaign and Russia, calling the idea âabsurdâ in an ABC News interview. Two days after Trumpâs victory, Trump spokeswoman Hope Hicks said, â<a href="https://www.apnews.com/323f28f7f5e242498f43e4a7188336bc" target="_blank">There was no communication</a> between the campaign and any foreign entity during the campaign.â</p>
+        	<p class="cnnix-entry--item__text">Asked in January 2017 if there had been contacts with Russians, Trump replied, â<a href="https://twitter.com/GMA/status/831838012040372225" target="_blank">No, not at all.</a>âÂ These blanket denials were later repeated by Vice President Mike Pence, White House counselor Kellyanne Conway and White House press secretary Sarah Sanders.</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide1b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now RUco">
+        		Now</span> Yes, there were many.
+        	</h4>
+        	<p class="cnnix-entry--item__text">These adamant denials have been eviscerated in the two-plus years since the election. At least <a href="https://www.cnn.com/2018/12/10/politics/donald-trump-associates-russians-campaign-transition/index.html" target="_blank">16 Trump associates had contacts with Russians</a> during the campaign or before the inauguration, according to public statements, court filings, and news reports.</p>
+        	<p class="cnnix-entry--item__text">Senior campaign aides and members of Trumpâs family were in contact with Russians through <a href="https://www.cnn.com/2018/07/31/politics/trump-tower-meeting-timeline/index.html" target="_blank">in-person meetings</a>, <a href="https://www.cnn.com/2017/12/01/politics/flynn-russia-calls-breakdown/index.html" target="_blank">phone calls</a>, <a href="https://www.cnn.com/2017/11/01/politics/papadopoulos-timeline-events-russia-professor/index.html" target="_blank">emails</a>, <a href="https://www.cnn.com/2017/03/12/politics/stone-guccifer-2-0-messages/index.html" target="_blank">Twitter messages</a> and more. Trump now acknowledges that there were contacts but says there was no collusion.</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-RUco">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="RUco">Russian collusion</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>Did anyone on the Trump campaign collude with Russia?</h3>
+    </div>
+         <div class="cnnix-video">
+         	<div class="cnnix-video__player">
+        		<video class="lazy" controls playsinline controlsList="nodownload"
+        		data-src="media/video/02_Did_anyone_on_the_Trump_campaign_collude_with_Russia.mp4"
+        		poster="media/posters/02.jpg">
+        		    <source type="video/mp4" data-src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/video/02_Did_anyone_on_the_Trump_campaign_collude_with_Russia.mp4">
+        		</video>
+             </div>
+         </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide2a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then RUco">
+        		Then</span> There was no collusion whatsoever.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Trump has said on several occasions that there was â<a href="https://www.cnn.com/2018/01/24/politics/robert-mueller-donald-trump/index.html" target="_blank">no collusion whatsoever</a>âÂ between his campaign and the Russians, a <a href="https://www.youtube.com/watch?time_continue=1&v=Lc67kfEPcDc" target="_blank">blanket denial</a> that seems to cover his entire campaign. (He has also said dozens of times that there was simply âno collusion.â) In an interview with Fox News, Trumpâs lawyer Rudy Giuliani said that there was no collusion between the â<a href="https://video.foxnews.com/v/5815735864001/#sp=show-clips" target="_blank">upper levels of the Trump campaign</a>âÂ and the Russians.</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide2b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now RUco">
+        		Now</span> Trump himself didnât collude.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Giuliani moved the goalposts in January 2019 in an interview with CNN. He said: â<a href="https://www.cnn.com/2019/01/16/politics/rudy-giuliani-cnntv/index.html" target="_blank">I never said there was no collusion</a> between the campaign, or people in the campaign â¦ I have not. I said the President of the United States.â These comments came shortly after unredacted court filings revealed that while Manafort led Trumpâs campaign, he <a href="https://www.cnn.com/2019/01/09/politics/manafort-ukrainian-oligarchs/index.html" target="_blank">gave internal polling data to a Russian</a> with intelligence ties.</p>
+        	<p class="cnnix-entry--item__text">Sanders said something similar in January after Trump ally Roger Stone was charged with lying about his ties to WikiLeaks, saying, âThere was no collusion. There was <a href="https://www.cnn.com/videos/politics/2019/01/25/sarah-sanders-roger-stone-arrest-trump-sot-vpx-newday.cnn" target="_blank">no wrongdoing by the President</a>.â</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-RUco">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="RUco">Russian collusion</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>What was the purpose of the Trump Tower meeting?</h3>
+    </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide3a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then RUco">
+        		Then</span> To discuss Russian adoptions.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Donald Trump Jr. secretly met a group of Russians at Trump Tower in June 2016, along with his brother-in-law Jared Kushner and Manafort. The meeting wasnât revealed until a series of articles a year later. When the news broke, Trump Jr. put out a statement, claiming, â<a href="https://www.cnn.com/2017/08/01/politics/timeline-donald-trump-jr-/index.html" target="_blank">We primarily discussed a program about the adoption of Russian children</a> that was active and popular with American families years ago.â</p>
+        	<p class="cnnix-entry--item__text">The adoption issue is closely tied to economic sanctions imposed by the US against Russia after the 2014 Ukraine crisis, and lifting those sanctions is a top priority for Russian President Vladimir Putin. Trump Jr.âs statement about the meeting, which the President had a hand in crafting, gave the false impression that the meeting had nothing to do with the 2016 election.</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide3b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now RUco">
+        		Now</span> To get dirt on Hillary Clinton.
+        	</h4>
+        	<p class="cnnix-entry--item__text">The New York Times later revealed that the true nature of the meeting was for the Trump campaign to <a href="https://www.nytimes.com/2017/07/09/us/politics/trump-russia-kushner-manafort.html" target="_blank">get damaging information about Clinton</a>, the Democratic nominee. Trump Jr. later acknowledged this and released an email chain showing that he <a href="http://www.cnn.com/interactive/2017/07/politics/donald-trump-jr-full-emails/" target="_blank">was told that the Russian government wanted to help Trump win</a> and that a Russian lawyer could provide him with dirt on Clinton.</p>
+        	<p class="cnnix-entry--item__text">The President eventually admitted, â<a href="https://twitter.com/realDonaldTrump/status/1026084333315153924" target="_blank">This was a meeting to get information on an opponent</a>,â but said it was âtotally legal.â Trump Jr. testified on Capitol Hill that the Russians didnât actually bring any dirt and <a href="https://www.cnn.com/2018/05/16/politics/senate-judiciary-committee-trump-tower-transcripts/index.html" target="_blank">the meeting was a bust</a>.</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-RUco">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="RUco">Russian collusion</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>Did Trump draft the misleading Trump Tower meeting statement?</h3>
+    </div>
+         <div class="cnnix-video">
+         	<div class="cnnix-video__player">
+        		<video class="lazy" controls playsinline controlsList="nodownload"
+        		data-src="media/video/04_Did_Trump_draft_misleading_Trump_Tower_meeting_statement.mp4"
+        		poster="media/posters/04.jpg">
+        		    <source type="video/mp4" data-src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/video/04_Did_Trump_draft_misleading_Trump_Tower_meeting_statement.mp4">
+        		</video>
+             </div>
+         </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide4a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then RUco">
+        		Then</span> Nope. He wasnât even involved.
+        	</h4>
+        	<p class="cnnix-entry--item__text">As news was breaking about the Trump Tower meeting, Trump and his lawyers insisted he wasnât involved in writing the misleading statement issued under his sonâs name. Trump lawyer Jay Sekulow told CNN: â<a href="https://www.cnn.com/2017/07/12/politics/jay-sekulow-trump-lawyer-trump-jr-emails-russia-new-day-cnntv/index.html" target="_blank">That was written by Donald Trump Jr.</a> and Iâm sure with consultation with his lawyer. That wasnât written by the President.â (He repeated this false denial in <a href="https://abcnews.go.com/Politics/trump-dictated-sons-misleading-statement-meeting-russian-lawyer/story?id=48958619" target="_blank">several</a> <a href="https://www.nbcnews.com/feature/meet-the-press-24-7/meet-press-july-16-2017-n783491" target="_blank">interviews</a> that week.)</p>
+        	<p class="cnnix-entry--item__text">Sanders later said Trump â<a href="https://www.cnn.com/2017/08/01/politics/trump-russia-meeting-statement/index.html" target="_blank">certainly didnât dictate</a>âÂ the statement, but âweighed in as any father would.â</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide4b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now RUco">
+        		Now</span> Yes.Â He dictated the statement.
+        	</h4>
+        	<p class="cnnix-entry--item__text">In a confidential letter sent to Mueller in January 2018, the Presidentâs lawyers admitted that <a href="https://www.cnn.com/2018/06/02/politics/trump-lawyers-statement-trump-tower-russians/index.html" target="_blank">Trump dictated the controversial statement</a> but they maintained that it was accurate. According to The New York Times, they wrote: âYou have received all of the notes, communications and testimony indicating that the President dictated a short but accurate response to the New York Times article on behalf of his son, Donald Trump, Jr.â</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-Comey">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="Comey">Comey firing</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>Why did Trump fire Comey?</h3>
+    </div>
+         <div class="cnnix-video">
+         	<div class="cnnix-video__player">
+        		<video class="lazy" controls playsinline controlsList="nodownload"
+        		data-src="media/video/05_Why_fire_Comey.mp4"
+        		poster="media/posters/05.jpg">
+        		    <source type="video/mp4" data-src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/video/05_Why_fire_Comey.mp4">
+        		</video>
+             </div>
+         </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide5a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then Comey">
+        		Then</span> Because of the Clinton email investigation.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Trumpâs official explanation for firing FBI Director James Comey in May 2017 was that <a href="https://www.cnn.com/2017/05/09/politics/james-comey-fbi-trump-white-out/" target="_blank">Comey mismanaged the Clinton email investigation</a> and lost the confidence of rank-and-file FBI agents. The White House said this rationale was <a href="https://www.cnn.com/2017/05/09/politics/fbi-james-comey-fired-letter/index.html" target="_blank">backed up by letters of recommendation</a> from Deputy Attorney General Rod Rosenstein and then-Attorney General Jeff Sessions</p>
+        	<p class="cnnix-entry--item__text">Pence and Conway also <a href="https://www.cnn.com/2017/05/09/politics/kellyanne-conway-anderson-cooper-comey-firing-cnntv/index.html" target="_blank">echoed these talking points</a> in the days after Comeyâs ouster.</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide5b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now Comey">
+        		Now</span> Because of the Russia investigation.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Days later, Trump contradicted the official story. In a now-infamous interview, he told NBC News: âRegardless of recommendation, I was going to fire Comey knowing there was no good time to do it. And in fact, when I decided to just do it, I said to myself, I said, you know, <a href="http://www.cnn.com/2017/05/11/politics/transcript-donald-trump-nbc-news/" target="_blank">this Russia thing</a> with Trump and Russia is a made-up story. It's an excuse by the Democrats for having lost an election that they should've won.â</p>
+        	<p class="cnnix-entry--item__text">About a year later, Giuliani similarly <a href="https://www.cnn.com/videos/politics/2018/05/03/rudy-giuliani-comey-hannity-intv-sot-ctn.cnn" target="_blank">linked Comeyâs firing to Russia</a>. He said Comey was dismissed after refusing to assure Trump that he wasnât a target of the Russia investigation.</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-Comey">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="Comey">Comey firing</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>Did Trump tell Comey to go easy on Flynn?</h3>
+    </div>
+         <div class="cnnix-video">
+         	<div class="cnnix-video__player">
+        		<video class="lazy" controls playsinline controlsList="nodownload"
+        		data-src="media/video/06_Trump_Comey_Flynn.mp4"
+        		poster="media/posters/06.jpg">
+        		    <source type="video/mp4" data-src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/video/06_Trump_Comey_Flynn.mp4">
+        		</video>
+             </div>
+         </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide6a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then Comey">
+        		Then</span> Absolutely not.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Comey claimed that during a private meeting at the White House in February 2017, Trump asked him to drop the FBIâs investigation into Michael Flynn, his former national security adviser. Comey detailed these claims in contemporaneous memos and <a href="https://www.cnn.com/2017/06/07/politics/james-comey-memos-testimony/index.html" target="_blank">testified to Congress</a> that Trump said, âI hope you can see your way clear to letting this go, to letting Flynn go. He is a good guy. I hope you can let this go.â</p>
+        	<p class="cnnix-entry--item__text">Trump has <a href="https://www.cnn.com/2017/05/18/politics/trump-special-counsel/index.html" target="_blank">categorically denied</a> Comeyâs claims. The President also tweeted a denial in December 2017, saying: â<a href="https://twitter.com/realDonaldTrump/status/937279001684598784" target="_blank">I never asked Comey to stop investigating Flynn</a>. Just more Fake News covering another Comey lie!â</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide6b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now Comey">
+        		Now</span> Itâs possible.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Shortly after joining Trumpâs legal team, Giuliani contradicted the Presidentâs consistent denials about Comey and Flynn. Giuliani told ABC News that <a href="https://www.cnn.com/2018/07/08/politics/giuliani-comey-flynn/index.html" target="_blank">Trump asked Comey to give Flynn âa break,â</a> and emphasized that Trumpâs comments were a friendly request and not an order from the President.</p>
+        	<p class="cnnix-entry--item__text">Giuliani later <a href="https://www.cnn.com/2018/08/12/politics/rudy-giuliani-michael-flynn-question-cnntv/index.html" target="_blank">backpedaled from his comments</a> and denied that any conversation about Flynn ever took place between Trump and Comey. âThere was no conversation about Michael Flynn," Giuliani told CNN.</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-Legal">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="Legal">Legal process</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>Will Trump agree to an interview with Mueller?</h3>
+    </div>
+         <div class="cnnix-video">
+         	<div class="cnnix-video__player">
+        		<video class="lazy" controls playsinline controlsList="nodownload"
+        		data-src="media/video/07_Will_Trump_agree_interview_Mueller.mp4"
+        		poster="media/posters/07.jpg">
+        		    <source type="video/mp4" data-src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/video/07_Will_Trump_agree_interview_Mueller.mp4">
+        		</video>
+             </div>
+         </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide7a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then Legal">
+        		Then</span> He wants to do it.
+        	</h4>
+        	<p class="cnnix-entry--item__text">The special counselâs office has long sought a one-on-one interview with Trump for its investigation. Trump has publicly expressed interest in doing it. Trump told reporters he was <a href="https://www.cnn.com/2017/06/09/politics/trump-news-conference/index.html" target="_blank">â100 percentâ</a> willing to testify under oath about his interactions with Comey. In January 2018, Trump said he was <a href="https://www.cnn.com/2018/01/24/politics/robert-mueller-donald-trump/index.html" target="_blank">âlooking forward to it,â</a> when asked about an interview with Muellerâs team.</p>
+        	<p class="cnnix-entry--item__text"><a href="https://www.cnn.com/2018/05/24/politics/trump-legal-team-january-2018-interview-robert-mueller/index.html" target="_blank">A date was set for an interview</a> at the presidential retreat at Camp David, but Trumpâs legal team rejected the plan and the interview fell through at the last moment. Even after that, Trump said, <a href="https://www.cnn.com/2018/03/22/politics/donald-trump-robert-mueller-testimony/index.html" target="_blank">âYes, I would like toâ</a> testify.</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide7b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now Legal">
+        		Now</span> Zero chance.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Trump and Muellerâs lawyers battled throughout 2018 over the contours of the Presidentâs testimony. Trump lawyers fought with their client as well, trying to tamp down his desire to testify. <a href="https://www.cnn.com/2018/11/20/politics/trump-mueller-questions-done/index.html" target="_blank">They eventually submitted written answers</a> to Muellerâs questions around Thanksgiving 2018.</p>
+        	<p class="cnnix-entry--item__text">CNN later reported that <a href="https://www.cnn.com/2019/01/14/politics/trump-interview-mueller-request/index.html" target="_blank">Trumpâs team rebuffed yet another request</a> for an interview with the special counselâs office. Giuliani said a presidential interview would happen "over my dead body." Giuliani had warned that he opposes an interview because he believes Muellerâs prosecutors will try to lure Trump into a perjury trap.</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-Legal">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="Legal">Legal process</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>Can a sitting US president obstruct justice?</h3>
+    </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide8a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then Legal">
+        		Then</span> No.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Mueller continues to investigate the question of whether any of Trumpâs actions or statements amounted to obstruction of justice. In December 2017, Trump attorney John Dowd told Axios that <a href="https://www.axios.com/exclusive-trump-lawyer-claims-the-president-cannot-obstruct-justice-1513388369-032ba40d-55c3-42d6-bdf9-d6399ed7a2ce.html" target="_blank">a sitting president âcannot obstruct justice</a> because he is the chief law enforcement officer.â</p>
+        	<p class="cnnix-entry--item__text">One month later, Dowd and Sekulow laid out this legal theory in a confidential letter to Muellerâs team, arguing that <a href="https://www.nytimes.com/2018/06/02/us/politics/trump-lawyers-memo-mueller-subpoena.html" target="_blank">actions authorized by the Constitution cannot be obstruction</a>, including the official action of firing an FBI director.</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide8b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now Legal">
+        		Now</span> Possibly.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Months later, Giuliani expressed the opposite view. CNNâs Chris Cuomo asked, âYou don't think a president can obstruct justice?â Giulianiâs answer was, <a href="https://www.youtube.com/watch?v=7xOJ48JdNK8" target="_blank">âHe can,â</a> breaking with the theory that a president canât obstruct justice because he essentially leads the Justice Department.</p>
+        	<p class="cnnix-entry--item__text">Still, Giuliani added that he believes firing an FBI director is a constitutionally protected move that canât be obstruction.</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-Legal">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="Legal">Legal process</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>How do Trumpâs lawyers view Mueller?</h3>
+    </div>
+         <div class="cnnix-video">
+         	<div class="cnnix-video__player">
+        		<video class="lazy" controls playsinline controlsList="nodownload"
+        		data-src="media/video/09_How_do_Trumps_lawyers_view_Mueller.mp4"
+        		poster="media/posters/09.jpg">
+        		    <source type="video/mp4" data-src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/video/09_How_do_Trumps_lawyers_view_Mueller.mp4">
+        		</video>
+             </div>
+         </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide9a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then Legal">
+        		Then</span> Heâs a respected and focused investigator.
+        	</h4>
+        	<p class="cnnix-entry--item__text">At the outset, Trumpâs legal team struck a respectful tone when talking about Mueller. White House special counsel Ty Cobb told Reuters that <a href="https://www.reuters.com/article/us-usa-trump-russia-lawyer/white-house-lawyer-cobb-predicts-quick-end-to-mueller-probe-idUSKCN1AY26N" target="_blank">Muellerâs investigators were âappropriately focused.â</a> In early 2018, <a href="https://www.thedailybeast.com/trump-lawyer-presidents-happy-mueller-indicted-13-russian-meddlers" target="_blank">Dowd praised Muellerâs indictment</a> of 13 Russian trolls who interfered in the US election. After leaving the legal team, Dowd said, â<a href="https://www.law.com/nationallawjournal/2018/03/28/john-dowd-calls-mueller-terrific-after-passing-trump-baton/?cmp=share_twitter" target="_blank">We had a terrific relationship with Mueller</a>â¦ completely open, people trusted each other and we had no misunderstandings."</p>
+        	<p class="cnnix-entry--item__text">These lawyers oversaw a period of <a href="https://www.cnn.com/2018/01/25/politics/trump-special-counsel-lawyers/index.html" target="_blank">extensive cooperation</a> with Mueller, providing thousands of documents and making White House aides available for interviews.</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide9b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now Legal">
+        		Now</span> Heâs a corrupt partisan on a witch hunt.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Trump shuffled around his legal team in spring 2018 and hired Giuliani to mount an <a href="https://www.cnn.com/2018/04/19/politics/giuliani-trump-legal-team/index.html" target="_blank">aggressive campaign against Mueller</a> in the press. Giuliani has said Mueller is running the <a href="https://abcnews.go.com/beta-story-container/Politics/week-transcript-18-trump-adviser-judicial-nominations-leonard/story?id=56430826" target="_blank">âmost corrupt investigation I have ever seen.â</a> He also called for an investigation into Muellerâs conduct and accused him of hiding anti-Trump bias on his team.</p>
+        	<p class="cnnix-entry--item__text">Trump branded the investigation a âwitch huntâ and a <a href="https://twitter.com/realDonaldTrump/status/1063042585802039296" target="_blank">âdisgrace to our nation.â</a> He has repeatedly referred to Muellerâs team as a group of <a href="https://twitter.com/realDonaldTrump/status/1031503298967363586" target="_blank">âangry Democrat thugs.â</a> (Mueller is a lifelong Republican and was appointed by Rosenstein, Trumpâs handpicked No. 2 at the Justice Department. Some members of Muellerâs team previously donated to Democrats, which is permitted under department rules.)</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-Legal">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="Legal">Legal process</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>Is Trump going to pardon Manafort?</h3>
+    </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide10a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then Legal">
+        		Then</span> Itâs not being considered.
+        	</h4>
+        	<p class="cnnix-entry--item__text">The New York Times <a href="https://www.nytimes.com/2018/03/28/us/politics/trump-pardon-michael-flynn-paul-manafort-john-dowd.html?smid=pl-share" target="_blank">reported</a> in March 2018 that Dowd had previously floated the possibility of pardons with lawyers representing Manafort and Flynn. Cobb swiftly denied the story and said, â<a href="https://www.cnn.com/2018/03/28/politics/dowd-flynn-manafort-pardons/index.html" target="_blank">No pardons are under discussion</a> or under consideration at the White House.â</p>
+        	<p class="cnnix-entry--item__text">Months later, the topic of pardons came up again when Manafort was convicted on eight counts of financial fraud in August 2018. Sanders said from the White House podium, âOnce again, <a href="https://www.whitehouse.gov/briefings-statements/press-briefing-press-secretary-sarah-sanders-082218/" target="_blank">thatâs not something that has been up for discussion</a>.â</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide10b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now Legal">
+        		Now</span> Itâs still on the table.
+        	</h4>
+        	<p class="cnnix-entry--item__text">One day after Sandersâ denial, Giuliani acknowledged that he recently discussed pardons with Trump. Giuliani told the Huffington Post that they had â<a href="https://www.huffingtonpost.com/entry/manafort-pardon-trump-rudy_us_5b7f1b27e4b0729515114a04" target="_blank">a quick meetingâ about pardons</a>, and that they agreed ânot to pardon anybody during the pendency of the investigation.â</p>
+        	<p class="cnnix-entry--item__text">Trump later contradicted Giuliani and claimed that pardons werenât ever discussed, but also refused to rule one out for Manafort. "It was never discussed, but <a href="https://nypost.com/2018/11/28/trump-says-pardon-for-paul-manafort-still-a-possibility/" target="_blank">I wouldn't take it off the table</a>. Why would I take it off the table?" he said in an interview with the New York Post.</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-RUbiz">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="RUbiz">Russian business ties</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>Does Trump have any business ties to Russia?</h3>
+    </div>
+         <div class="cnnix-video">
+         	<div class="cnnix-video__player">
+        		<video class="lazy" controls playsinline controlsList="nodownload"
+        		data-src="media/video/11_Does_Trump_have_any_business_ties_to_Russia.mp4"
+        		poster="media/posters/11.jpg">
+        		    <source type="video/mp4" data-src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/video/11_Does_Trump_have_any_business_ties_to_Russia.mp4">
+        		</video>
+             </div>
+         </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide11a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then RUbiz">
+        		Then</span> Trump has nothing to do with Russia.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Throughout the 2016 campaign and well into the first two years of his presidency, Trump denied having any business dealings in Russia. He <a href="https://www.washingtonpost.com/news/the-fix/wp/2016/07/27/donald-trumps-falsehood-laden-press-conference-annotated/?utm_term=.009f3ef397d9" target="_blank">issued blanket denials</a> on the campaign trail, and<a href="https://www.wsj.com/articles/transcript-of-donald-trump-interview-with-the-wall-street-journal-1515715481" target="_blank">Â </a><a href="https://www.wsj.com/articles/transcript-of-donald-trump-interview-with-the-wall-street-journal-1515715481" target="_blank">repeatedly</a> claimed that he had <a href="https://twitter.com/realDonaldTrump/status/819159806489591809?ref_src=twsrc%5Etfw" target="_blank">ânothing to do with Russia.â</a> Shortly before taking office in January 2017, Trump said: âI have no dealings with Russia. <a href="https://www.washingtonpost.com/news/the-fix/wp/2017/01/11/trump-press-conference-annotating-what-the-president-elect-said-on-russia-the-economy-and-more/?utm_term=.95ec3a2f4dd2" target="_blank">I have no deals that could happen in Russia</a>, because we've stayed away.â</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide11b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now RUbiz">
+        		Now</span> Trump pursued Russia deals through 2016.
+        	</h4>
+        	<p class="cnnix-entry--item__text"><a href="https://www.cnn.com/2017/09/08/politics/document-trump-tower-moscow/index.html" target="_blank">Trumpâs company explored a lucrative real estate deal</a> in Russia deep into the 2016 campaign. Trump shifted his story after his former attorney pleaded guilty in December 2018 to lying to Congress about the Moscow project. Trump said, âThis deal was a very public deal. <a href="https://www.whitehouse.gov/briefings-statements/remarks-president-trump-marine-one-departure-27/" target="_blank">Everybody knows about this deal</a>. I wasnât trying to hide anything,â despite the fact that the deal was never disclosed before he took office.</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-RUbiz">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="RUbiz">Russian business ties</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>When did discussions end for Trump Tower Moscow?</h3>
+    </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide12a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then RUbiz">
+        		Then</span> January 2016 before the primaries.
+        	</h4>
+        	<p class="cnnix-entry--item__text">In September 2015, a few months after Trump launched his presidential campaign, the Trump Organization began discussions for a Trump Tower in Moscow. Michael Cohen, a personal attorney to Trump and a senior executive at the Trump Organization, led the negotiations with a Russian company.</p>
+        	<p class="cnnix-entry--item__text">In his September 2017 closed-door testimony to lawmakers, Cohen described it as a ârejected proposal to build a Trump property in Moscow that was <a href="https://www.cnn.com/2017/09/19/politics/read-michael-cohen-statement/index.html" target="_blank">terminated in January of 2016</a>; which occurred before the Iowa caucus and months before the very first primary.â</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide12b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now RUbiz">
+        		Now</span> Possibly as late as November 2016.
+        	</h4>
+        	<p class="cnnix-entry--item__text">In November 2018, Cohen admitted that he lied to Congress about Trump Tower Moscow and pleaded guilty to perjury. Negotiations continued âas late as approximately June 2016,â according to court filings. Muellerâs team asked Trump written questions about when the proposal fell through, and Giuliani said their answer âcovered <a href="https://www.cnn.com/2018/12/16/politics/rudy-giuliani-trump-tower/index.html" target="_blank">all the way up to November 2016</a>.â</p>
+        	<p class="cnnix-entry--item__text">In subsequent TV interviews, Giuliani repeated that conversations could have continued â<a href="https://www.cnn.com/2018/12/16/politics/rudy-giuliani-trump-tower/index.html" target="_blank">up until November 2016</a>.â Giuliani later <a href="https://www.cnn.com/2019/01/21/politics/rudy-giuliani-trump-tower/index.html" target="_blank">backtracked</a> and said his comments were âhypothetical and not based on conversations I had with the President.â</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-RUbiz">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="RUbiz">Russian business ties</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>Did Trump sign a letter of intent for Trump Tower Moscow?</h3>
+    </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide13a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then RUbiz">
+        		Then</span> No, he didnât.
+        	</h4>
+        	<p class="cnnix-entry--item__text">In December 2018, Giuliani told CNN that <a href="https://www.cnn.com/2018/12/16/politics/rudy-giuliani-trump-tower/index.html" target="_blank">Trump never signed a letter of intent</a> for the Trump Tower Moscow project, which was pursued by his company during the 2016 presidential campaign. Giuliani said: âIt was a real estate project. There was a letter of intent to go forward, but no one signed it.â</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide13b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now RUbiz">
+        		Now</span> Yes, he did.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Shortly after Giulianiâs comments, CNN published copies of the document bearing Trumpâs signature, confirming that <a href="https://www.cnn.com/2018/12/18/politics/trump-signed-letter-of-intent-rudy-giuliani-moscow/index.html" target="_blank">Trump did sign the non-binding agreement</a> for a real estate deal in the heart of Moscow. Giuliani backtracked from his original statement. âI was wrong if I said it," he told CNN. "I haven't seen the quote, but I probably meant to say there was never a deal, much less a signed one."</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-Associates">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="Associates">Trump on his associates</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>How does Trump view campaign aides under Russia scrutiny?</h3>
+    </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide14a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then Associates">
+        		Then</span> Theyâre the best of the best.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Before any of Trumpâs campaign aides got in trouble, he painted them as the best and brightest people who could be involved on a presidential team. Trump said foreign policy adviser George Papadopoulos was <a href="https://www.washingtonpost.com/blogs/post-partisan/wp/2016/03/21/a-transcript-of-donald-trumps-meeting-with-the-washington-post-editorial-board/?utm_term=.7c93a4b22e61" target="_blank">âan excellent guyâ</a> when he named Papadopoulos as an adviser in March 2016.</p>
+        	<p class="cnnix-entry--item__text">When Manafort resigned from the campaign in August 2016, Trump said he was â<a href="https://www.cnn.com/2016/08/19/politics/donald-trump-campaign-chairman-paul-manafort-resigns/index.html" target="_blank">very appreciative for his great work</a> in helping to get us where we are today,â and commended Manafort as a âtrue professional.â</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide14b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now Associates">
+        		Now</span> Theyâre irrelevant nobodies.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Papadopoulos pleaded guilty in 2017 to lying to the FBI about his contacts with Russians during the campaign. Trump downplayed Papadopoulosâ role, saying: âFew people knew the <a href="https://twitter.com/realDonaldTrump/status/925335577217683456?" target="_blank">young, low level volunteer</a> named George, who has already proven to be a liar.â Others in the Trump orbit said Papadopoulos was a <a href="https://www.cnn.com/2017/10/31/politics/caputo-papadopoulos-coffee-boy-cnntv/index.html" target="_blank">âcoffee boyâ</a> on the campaign who had no influence.</p>
+        	<p class="cnnix-entry--item__text">During Manafort financial fraud trial in summer 2018, Trump distanced himself from his onetime campaign chairman. Trump said, âManafort has <a href="https://twitter.com/atrupar/status/1007613685316096000" target="_blank">nothing to do with our campaign</a> â¦ Paul Manafort worked for me for a very short period of time.â</p>
+        </div>
+</div>
+<ul class="cnnix-nav-cards" id="cnnix-Associates">
+  <li class="cnnix-nav-cards--item" id="cnnix-RUco">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/russians.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian collusion</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Comey">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/jcomey.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Comey firing</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Legal">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/rmueller.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Legal process</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-RUbiz">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/RUbiz.gif" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Russian business ties</p>
+  </li>
+  <li class="cnnix-nav-cards--item" id="cnnix-Associates">
+    <p class="cnnix-nav-cards--item__image">
+        <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/mcohen.jpg" draggable="false">
+    </p>
+    <p class="cnnix-nav-cards--item__title">Trump on his associates</p>
+  </li>
+</ul><div class="cnnix-entry">
+    <h4 class="cnnix-entry--category"><span class="Associates">Trump on his associates</span></h4>
+    <div class="cnnix-entry--title">
+        <h3>What does Trump think of Cohen?</h3>
+    </div>
+         <div class="cnnix-video">
+         	<div class="cnnix-video__player">
+        		<video class="lazy" controls playsinline controlsList="nodownload"
+        		data-src="media/video/15_What_does_Trump_think_of_Cohen.mp4"
+        		poster="media/posters/15.jpg">
+        		    <source type="video/mp4" data-src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/video/15_What_does_Trump_think_of_Cohen.mp4">
+        		</video>
+             </div>
+         </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide15a">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Then Associates">
+        		Then</span> Heâs a trusted attorney.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Trump and his team praised Cohen countless times, before he flipped. At a closed-door fundraiser in 2017, Trump said, <a href="https://theintercept.com/2017/06/30/heres-the-audio-of-donald-trumps-private-rnc-fundraiser-at-his-own-hotel/" target="_blank">"Michael is a great lawyer ... a loyal, wonderful person,â</a> according to audio leaked by The Intercept. Trump criticized the FBI raids in April 2018 against Cohen and said they were a disgraceful move against <a href="https://www.nytimes.com/2018/04/09/us/politics/trump-cohen-mueller-full-transcript.html" target="_blank">âa good man.â</a></p>
+        	<p class="cnnix-entry--item__text">Shortly after that, Trump wrote in a tweet that he <a href="https://www.cnn.com/2018/07/28/politics/rudy-giuliani-michael-cohen-trump-honesty/index.html" target="_blank">âalways liked and respectedâ Cohen,</a> whom he described as a âfine personâ who was unlikely to assist investigators. It wasnât just Trump, either -- Giuliani said Cohen was "an honest, honorable lawyerâ after the FBI raids.</p>
+        </div>
+            <div class="cnnix-entry--connection">
+                <div class="cnnix-entry--connection__item-rule">
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/right-arrow.png" class="cnnix-desktop"/>
+                    <img src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/media/down-arrow.png" class="cnnix-mobile"/>
+                </div>
+            </div>
+    	<div class="cnnix-entry--item" id="cnnix-slide15b">
+        	<h4 class="cnnix-entry--item__subhed">
+        		<span class="cnnix-entry--item__Now Associates">
+        		Now</span> He is a desperate liar.
+        	</h4>
+        	<p class="cnnix-entry--item__text">Trumpâs relationship with Cohen deteriorated as it became clear that his ex-lawyer was open to helping federal investigations into Trumpâs company and campaign. Trump and his lawyers said <a href="https://www.cnn.com/2018/07/28/politics/rudy-giuliani-michael-cohen-trump-honesty/index.html" target="_blank">Cohen should not be trusted</a>, despite Cohenâs decade-long role at the Trump Organization. Giuliani said Cohen was a âpathological liarâ and said that <a href="https://twitter.com/CuomoPrimeTime/status/1022659582215286794?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1022659582215286794&ref_url=https%3A%2F%2Fwww.cnn.com%2F2018%2F07%2F28%2Fpolitics%2Frudy-giuliani-michael-cohen-trump-honesty%2Findex.html" target="_blank">Cohen âlied all his life.â</a></p>
+        	<p class="cnnix-entry--item__text"><a href="https://www.cnn.com/2018/07/24/politics/michael-cohen-donald-trump-tape/index.html" target="_blank">Trump sharply criticized Cohen</a> for secretly taping him. He even <a href="https://twitter.com/realdonaldtrump/status/1074313153679450113" target="_blank">called Cohen a âratâ</a> for cooperating with Mueller. Trump also downplayed Cohenâs onetime role as his attorney, saying Cohen âwas a PR person who did small legal work.â</p>
+        </div>
+</div>
+
+    </div>
+</div>
+<p></p>
+<p style="margin-bottom:100px;margin-left:10px;">Tara Subramaniam contributed to this report.<br/>Additional work by Curtis Brown.</p>
+
+</div> <!-- END .interactive-container -->
+
+<div class="cnn_clear"></div>
+
+<!-- OUTBRAIN -->
+<div class="cnn-outbrain">
+    <div class="OUTBRAIN" data-src="http://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/" data-widget-id="AR_9" data-ob-template="cnn" ></div>
+    <script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+</div>
+
+<!-- FOOTER -->
+
+<div class="cnn-js-chrome-wrapper">
+    <div class="cnn-js-navigation" data-type="footer"></div>
+</div>
+<script src="//z.cdn.turner.com/analytics/cnnexpan/jsmd.min.js" charset="utf-8"></script>
+
+<script>
+var cnn_metadata = cnn_metadata || {};
+cnn_metadata.template_type_content = cnn_metadata.template_type_content || '';
+CNN.omniture = CNN.omniture || {};
+CNN.omniture.template_type = CNN.omniture.template_type || '';
+var jsmd = _jsmd.init(),
+    pageURL = location.href.toLowerCase();
+if (pageURL.indexOf("/.element/ssi/ads.iframes/") === -1 && pageURL.indexOf("/doubleclick/dartiframe.html") === -1) {
+    if (pageURL.indexOf("cnn.com/search") === -1 || pageURL.indexOf("/search/") === -1) {
+        if (_jsmd.plugin.gQuery("refresh")) {
+            jsmd.trackMetrics("dynamic-autoRefresh", "autorefresh", "cnn-autorefresh");
+        } else if (_jsmd.plugin.gQuery("is_LR")) {
+            //do nothing
+        } else if (CNN.omniture.template_type !== "gallery" || cnn_metadata.template_type_content != "gallery") {
+            jsmd.send();
+        }
+    }
+}
+</script>
+
+
+<!-- PAGE JAVASCRIPT -->
+<script src="//cdn.cnn.com/cnn/interactive/2019/politics/trump-team-russia-then-now/js/cnnix-trump-team-russia-then-now-min.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,1098 @@
+
+<!DOCTYPE html>
+<html class="root root_js_disabled">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=1170" />
+        <meta name="site" content="wbir.com" />
+        <script>
+            document.documentElement.classList.remove('root_js_disabled');
+        </script>
+        <noscript>
+            <style>
+                * {
+                    transition: none !important;
+                    animation: none !important;
+                }
+                .page__desktop-header {
+                    position: static;
+                    top: auto;
+                    left: auto;
+                    right: auto;
+                    bottom: auto;
+                }
+                .desktop-header__nav-wrapper {
+                    z-index: 3;
+                    opacity: 0;
+                    width: 70px !important;
+                    height: 50px !important;
+                    transform: translateX(-655px) translateY(23px);
+                    transition: none;
+                }
+                .desktop-header__navigation_visible_false {
+                    transition: none !important;
+                    overflow: visible !important;
+                }
+                .desktop-header__nav-wrapper:hover {
+                    height: auto !important;
+                    transform: none;
+                    opacity: 1;
+                    transition: none;
+                }
+                .desktop-header__nav-wrapper:hover .desktop-header__navigation_visible_false {
+                    opacity: 1;
+                    transform: translateX(-670px) translateY(-98px) !important;
+                    padding-top: 100px;
+                }
+                .grid__cell[data-columns="12"] .ad,
+                .page__footer .ad__nojs-placeholder {
+                    display: none !important;
+                }
+                .grid__cell[data-columns="12"] [data-module="ad"] {
+                    display: none !important;
+                }
+                .grid__module[data-module="headline-list-with-abstract"] .ad__nojs-placeholder {
+                    display: none !important;
+                }
+            </style>
+        </noscript>
+        <script>
+            function appendStyle(url) {
+                var sheet = document.createElement("link");
+                sheet.setAttribute("href", url);
+                sheet.setAttribute("rel", "stylesheet");
+                sheet.setAttribute("type", "text/css");
+                document.head.appendChild(sheet);
+            }
+        </script>
+        <link rel="stylesheet" href="/Views/dist/styles/modules.min.css?version=3.3.7" />
+        <script>
+            appendStyle('/Views/lib/jquery-ui/jquery-ui.min.css');
+            appendStyle('/Views/lib/jquery-ui/jquery-ui.structure.min.css');
+            appendStyle('/Views/lib/jquery-ui/jquery-ui.theme.min.css');
+        </script>
+        <!--[if IE]><link rel="shortcut icon" href="/content/favicon/WBIR.png?version=3.3.7"><![endif]-->
+        <link rel="icon" href="/content/favicon/WBIR.png?version=3.3.7">
+        <meta property="fb:app_id" content="144183609518838" />
+        <meta property="og:site_name" content="wbir.com" />
+        <meta property="og:locale" content="en_US" />
+        <meta itemprop="pageType" content="article" />
+        <meta name="description" content="According to the Sports Business Daily, Pilot Flying J has ended its advertising and sponsorship with ESPN over an article detailing Jimmy Haslam&#39;s tenure as the Cleveland Browns&#39; owner." />
+                    <script>
+                var tealiumUrl = 'https://tags.tiqcdn.com/utag/tegna/wbir-redesign-desktop/prod/utag.js';
+                var utag_data = {
+                    //Original Set
+                    template_type: "", // ux name for page layout
+                    page_type: "article",
+                    division: "Broadcast",
+                    site_type: "desktop",
+                    page_url: window.location.href,
+                    simplerreach_tags: "",
+                    pathname: "https://www.wbir.com/article/sports/nfl/browns/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-0c02648e-2475-4079-9b13-c3c792281ad0",
+                    ad_slots: [],
+                    gpt_network_code: "32805352/tn-knoxville-WBIR-B3328_DesktopTablet",
+                    //Occurring in Both Sets
+                    section: "sports",
+                    subsection: "",
+                    topic: "",
+                    subtopic: "",
+                    content_type: "article",
+                    category: "sports",
+                    market: "Knoxville" + ", " + "TN",
+                    //New Set
+                    subcategory: "",
+                    keywords: "WBIR",
+                    document_title: "WBIR.com",
+                    canonical_url: "https://www.wkyc.com/article/sports/nfl/browns/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-0c02648e-2475-4079-9b13-c3c792281ad0"
+                };
+            </script>
+        <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "url": "https://www.wbir.com",
+            "logo": "https://www.wbir.com/content/logos/mobile/wbir.png",
+            "sameAs": [
+            "https://www.facebook.com/WBIRChannel10/",
+            "https://twitter.com/@WBIR"
+            ]
+            }
+        </script>
+        <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "url": "https://www.wbir.com",
+            "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.wbir.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+            }
+            }
+        </script>
+            <meta itemprop="datePublished" content="2/13/2019 6:17:24 PM" />
+            <meta itemprop="dateModified" content="2/13/2019 9:42:58 PM" />
+            <meta itemprop="url" content="https://www.wbir.com/article/sports/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-0c02648e-2475-4079-9b13-c3c792281ad0" />
+            <meta itemprop="magnet:custom" name="category" content="sports" />
+            <meta property="og:url" content="https://www.wbir.com/article/sports/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-0c02648e-2475-4079-9b13-c3c792281ad0">
+            <meta property="og:title" content="Report: Pilot Flying J pulls ESPN advertising after article critical of Jimmy Haslam">
+            <meta property="og:description" content="According to the Sports Business Daily, Pilot Flying J has ended its advertising and sponsorship with ESPN.">
+            <meta property="og:type" content="article" />
+            <meta property="og:image" content="https://media.wbir.com/assets/WKYC/images/629fd06b-8ca8-4087-aa0d-5941c1e373f1/629fd06b-8ca8-4087-aa0d-5941c1e373f1_1140x641.jpg">
+            <meta property="og:image:width" content="1140" />
+            <meta property="og:image:height" content="641" />
+            <meta property="og:article:published_time" content="2/13/2019 6:17:24 PM" />
+            <meta name="twitter:title" content="Report: Pilot Flying J pulls ESPN advertising after article critical of Jimmy Haslam">
+            <meta name="twitter:image:src" content="https://media.wbir.com/assets/WKYC/images/629fd06b-8ca8-4087-aa0d-5941c1e373f1/629fd06b-8ca8-4087-aa0d-5941c1e373f1_360x203.jpg">
+            <meta name="twitter:card" content="summary">
+            <meta name="twitter:site" content="@WBIR">
+            <meta name="twitter:description" content="According to the Sports Business Daily, Pilot Flying J has ended its advertising and sponsorship with ESPN.">
+            <meta name="twitter:domain" content="www.wbir.com">
+            <link rel="canonical" href="https://www.wkyc.com/article/sports/nfl/browns/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-0c02648e-2475-4079-9b13-c3c792281ad0" />
+            <link rel="alternate" href="https://www.wbir.com/mobile/article/sports/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-0c02648e-2475-4079-9b13-c3c792281ad0" />
+                <link rel="amphtml" href="https://www.wbir.com/amp/article?section=sports&amp;subsection=nfl&amp;topic=browns&amp;headline=report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam&amp;contentId=95-0c02648e-2475-4079-9b13-c3c792281ad0" />
+            <script>
+                if (window.utag_data) {
+                    //Original Set
+                    utag_data.video_included = "true";
+                    utag_data.article_date = "2/13/2019 6:17:24 PM";
+                    
+                    utag_data.msj_tag = "";
+                    if ("text" === "text")
+                    {
+                        utag_data.item_number = 1;
+                    }
+                    //Occurring in Both Sets
+                    utag_data.asset_id = "0c02648e-2475-4079-9b13-c3c792281ad0";
+                    utag_data.article_keywords = "WBIR";
+                    utag_data.content_title = "Pilot Flying J pulls ESPN advertising after article critical of Jimmy Haslam";
+                    utag_data.content_categories = "";
+                    //New Set
+                    utag_data.article_byline = "Ben Axelrod";
+                    utag_data.topics_included = "false"; //whether related topics are present, may be able to remove since not using Klangoo
+
+                    if ("" === "video")
+                    {
+                        utag_data.video_included = "true";  //if lead asset is video
+                        utag_data.video_autoplay = "true";  //if lead asset is autoplay
+                    }
+                }
+            </script>
+            <title>Pilot Flying J pulls ESPN advertising after article critical of Jimmy Haslam | wbir.com</title>
+        <script src="https://contributor.google.com/scripts/6615f72e12818ef/loader.js"></script><script>(function(){var c=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var d=Object.prototype.toString.call(a);if("[object Window]"==d)return"object";if("[object Array]"==d||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==d||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null"; else if("function"==b&&"undefined"==typeof a.call)return"object";return b};var h;a:{var k=this.navigator;if(k){var l=k.userAgent;if(l){h=l;break a}}h=""}var m=function(a){return-1!=h.indexOf(a)};var n=m("Opera"),p=-1!=h.toLowerCase().indexOf("webkit")&&!m("Edge");var q=m("Safari")&&!((m("Chrome")||m("CriOS"))&&!m("Edge")||m("Coast")||m("Opera")||m("Edge")||m("Silk")||m("Android"))&&!(m("iPhone")&&!m("iPod")&&!m("iPad")||m("iPad")||m("iPod"));var r=null,aa=m("Gecko")&&!(-1!=h.toLowerCase().indexOf("webkit")&&!m("Edge"))&&!(m("Trident")||m("MSIE"))&&!m("Edge")||p&&!q||n||"function"==typeof this.btoa;var t=function(a){"function"==c(a)&&a()},u=function(a,b,d){a.addEventListener?a.addEventListener(b,d):a.attachEvent&&a.attachEvent("on"+b,d)},v=function(a,b){var d=a.indexOf(b);return 0<=d?parseInt(a.substring(d+b.length,a.indexOf(".",d)),10):-1},w=-2;var ba=function(a,b,d,g){var e=new Date;u(b,"load",function(){if(-2===w){var f=window.navigator.userAgent;var I=v(f,"MSIE ");w=0<=I?I:0<=f.indexOf("Trident/")?11:v(f,"Edge/")}f=w;-1!==f&&11>=f&&a.a[b.src]>=e?t(g):t(d)});u(b,"error",function(){t(g)})},x=function(a,b,d,g){var e=document.createElement("script");ba(a,e,function(){t(d);e&&e.parentNode&&e.parentNode.removeChild(e)},function(){t(g);e&&e.parentNode&&e.parentNode.removeChild(e)});e.async=!0;e.src=b;document.getElementsByTagName("head")[0].appendChild(e)}, y=function(a,b,d,g,e,f){0>=e?t(g):x(a,b,d,function(){f?window.setTimeout(function(){y(a,b,d,g,e-1,f)},f):y(a,b,d,g,e-1)})};var z=new function(){this.a={}},B=function(){if(!/Mobi/i.test(navigator.userAgent)&&!window["turnoff6615f72e12818ef"]){t(window.stop);document.body&&document.body.parentNode.removeChild(document.body);document.getElementsByTagName("HTML")[0].appendChild(document.createElement("BODY"));var a=document.createElement("IFRAME");a.src="https:\/\/p.w.m80fg.com\/s\/err?w\x3d6615f72e12818ef";a.style.width="100%";a.style.height="100%";a.style.background="white";a.style.border="none";a.style.zIndex=2147483647;document.body.appendChild(a); a=document.createElement("STYLE");a.innerText="body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }";document.head.appendChild(a);a="https:\/\/p.d.2enm.com\/v4\/AAAACgAA0wDiyHkzqEZXnxpBUbdnEQAA_p3eDWg0043LTKe7r3mXE8HI7g22rJKYYI8p59NkIn294XpqWLNBLE?ls="+encodeURIComponent(JSON.stringify(A));x(z,a,null,null)}},A=[0,0],C=function(a,b){A[a]=b;3!==A[1]&&(2!==A[0]||2!==A[1])||/Mobi/i.test(navigator.userAgent)||(window["turnoff6615f72e12818ef"]=!1,x(z,"https:\/\/www.gstatic.com\/0emm\/status\/b\/6615f72e12818ef.js",B,B))};window["njfkmz"]=B; y(z,"https:\/\/p.d.2enm.com\/v4\/AAAACgAA0wDiyHkzqEZXnxpBUbdnEQAA_NQAn1Q0086TuTo1Yy-t-X5NxQ0nXt_zxeyj7HYa6Dahgn5PSzVGkIlq7DpzytUTuRb7vpyslvXTmIv5j5pRYT5J5XF2SmWsgV58aQVG3ZxF46Gne_vN8u",function(){window["wDiyHkzqEY"]||C(1,3)},function(){C(1,2)},3,450);var ca=y,D,E=("&"+window.location.search.substring(1)).split("&gmefkevpis=");D=1<E.length?"?gmefkevpis="+E[1].split("&")[0]:"";var F=Date.now().toString(),G; if(aa)G=this.btoa(F);else{for(var H=[],J=0,K=0;K<F.length;K++){var L=F.charCodeAt(K);255<L&&(H[J++]=L&255,L>>=8);H[J++]=L}if(!r){r={};for(var M=0;65>M;M++)r[M]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(M)}for(var N=r,O=[],P=0;P<H.length;P+=3){var Q=H[P],R=P+1<H.length,S=R?H[P+1]:0,T=P+2<H.length,U=T?H[P+2]:0,da=Q>>2,ea=(Q&3)<<4|S>>4,V=(S&15)<<2|U>>6,W=U&63;T||(W=64,R||(V=64));O.push(N[da],N[ea],N[V],N[W])}G=O.join("")}for(var fa="https:\/\/p.d.2enm.com\/v4\/AAAACgAA0wDiyHkzqEZXnxpBUbdnEQAA_viIipQ0107NfBOhcsRhTfFujhPm2slrP25qX9OMGcXb6xfluyOhfp7gVLdXexo6TbVbD5R1dtxVvx0n0QQGxw06OxivUrxphk54G7_YzYQiqujUCvhNqo"+(G+"|"),X=("; "+document.cookie).split("; mtvjmg="),Y=[],Z=1;Z<X.length;Z++)Y.push(X[Z].split(";")[0]);ca(z,fa+Y.join(",")+D,null,function(){C(0,2)},3,550);}).call(this);</script>        <style>
+        .fc-pinned-header:after {
+            background: #000000 url('/content/logos/dark/WBIR.png') calc(100% - 45px) 10px no-repeat;
+            background-size: auto 25px;
+            content: 'Ad blocker detected';
+        }
+        .fc-dialog-header:after {
+            background: #000000 url('/content/logos/dark/WBIR.png') calc(100% - 20px) 10px no-repeat;
+            background-size: auto 25px;
+            content: 'Ad blocker detected';
+        }
+        </style>
+            </head>
+    <body id="page"
+          class="page"
+          data-model-siteid="51"
+          data-model-gptid="tn-knoxville-WBIR-B3328_DesktopTablet"
+          data-model-callletters="WBIR"
+          data-model-primarydomain="wbir.com"
+          data-model-imageresizeurl="https://www.wbir.com/img/resize/"
+          data-model-imageresizeurl-wx="https://www.wbir.com/img/wx/resize/"
+          data-model-city="Knoxville"
+          data-model-state="TN"
+          data-model-fban="144183609518838"
+          data-model-refresh="420"
+          data-model-metadata="{
+  &quot;title&quot;: &quot;WBIR.com&quot;,
+  &quot;keywords&quot;: &quot;WBIR&quot;,
+  &quot;contentType&quot;: &quot;article&quot;,
+  &quot;pageType&quot;: &quot;article&quot;,
+  &quot;continiousScrollSettings&quot;: {
+    &quot;providers&quot;: [
+      &quot;database&quot;,
+      &quot;database&quot;,
+      &quot;database&quot;,
+      &quot;database&quot;,
+      &quot;database&quot;
+    ],
+    &quot;default&quot;: &quot;database&quot;
+  },
+  &quot;platform&quot;: &quot;desktop&quot;
+}"
+          data-model-timezone="Eastern"
+          data-model-twitterid="@WBIR"
+          data-model-omnitureid="0"
+          data-model-googleanalytics="450"
+          data-model-tealiumgpt="538"
+          data-model-version="3.3.7"
+          data-model-closings="true"
+          data-model-gptnetworkcode="32805352"
+          data-model-comscoreid="19962895"
+          data-model-recaptchasitekey="6LdhZY8UAAAAANQxx8Y6_JJZSJtONlMiM_yiKTah"
+            data-model-cscrollsectionpriority="false"             data-model-ispreview="false">
+        <div id="fb-root"></div>
+            <div class="page__desktop-header">
+<div class="desktop-header desktop-header_collapsed_false">
+    <div class="desktop-header__wrap">
+        <div class="desktop-header__inner">
+            <div class="desktop-header__toolbar">
+<div class="toolbar">
+    <div class="toolbar__live-indicator">
+<div class="live-indicator live-indicator_collapsed_false">
+            <a class="live-indicator__link" data-tracking="live-indicator/buttonClicked" href="/live-video">
+                <div class="live-indicator__button live-indicator__button_live">
+                    LIVE
+                </div>
+            </a>
+
+</div>
+    </div>
+    <div class="toolbar__weather-summary">
+<div class="weather-summary">
+    <a class="weather-summary__link" data-tracking="weather-summary/weatherClicked" href="/weather">
+        <div class="weather-summary__icon weather-icons weather-icons_icon_66"></div>
+        <span class="weather-summary__current-temperature">52</span>
+        <div class="weather-summary__location">Knoxville, TN</div>
+        <div class="weather-summary__weather-conditions-container">
+            <p class="weather-summary__weather-conditions">Knoxville Weather Summary: 52 degrees</p>
+        </div>
+        <!-- span class="weather-summary__details">
+        <span class="weather-summary__high-low weather-summary__high-low_visible_true">
+            <span class="weather-summary__high-low-icon"></span>
+            <span class="weather-summary__high-low-label" title="high">H</span>
+            <span class="weather-summary__high-low-temperature weather-summary__high">62</span>
+            <span class="weather-summary__high-low-separator">/</span>
+            <span class="weather-summary__high-low-label" title="low">L</span>
+            <span class="weather-summary__high-low-temperature weather-summary__low">30</span>
+        </span>
+    </span -->
+    </a>
+</div>
+
+    </div>
+</div>
+            </div>
+            <div class="desktop-header__nav-button"><div class="desktop-header__nav-label">Menu</div></div>
+            <div class="desktop-header__badges"></div>
+            <a class="desktop-header__home-link desktop-header__home-link_visible_true" href="/" data-tracking="desktop-header/homeLinkClicked">
+                <img class="desktop-header__logo" src="/content/logos/mobile/wbir.png" />
+            </a>
+            <div class="desktop-header__article-title"></div>
+        </div>
+        <div class="desktop-header__progress desktop-header__progress_visible_false">
+<progress class="progress" value="0"></progress>
+        </div>
+    </div>
+    <div class="desktop-header__nav-wrapper">
+        <div class="desktop-header__navigation desktop-header__navigation_visible_false desktop-header__navigation_collapsed_false">
+
+<div class="navigation navigation_visible_false">
+    <div class="navigation__main">
+    <div class="navigation__main-inner">
+        <div class="navigation__searchbox">
+<div class="searchbox">
+    <form class="searchbox__form" action="/search">
+        <div class="searchbox__main">
+            <input class="searchbox__textbox searchbox__textbox_name_q" name="q" placeholder="Search"/>
+            <button class="searchbox__submit" type="submit"></button>
+        </div>
+        <label class="searchbox__labeled-field">
+            <input class="searchbox__checkbox searchbox__checkbox_name_phrase" type="checkbox" name="phrase" />
+            <span class="searchbox__label">Exact phrase</span>
+        </label>
+    </form>
+</div>
+        </div>
+        <div class="navigation__notification-container">
+            <div class="navigation__notification">
+                <div class="navigation__notification-title">WBIR Alert Center</div>
+                <div class="navigation__notification-list">
+                        <a class="navigation__notification-label navigation__notification-label_name_live-videos navigation__notification-label_active_true" data-tracking="navigation/alertCenterClicked" href="/live-video">Live Video</a>
+                                            <a class="navigation__notification-label navigation__notification-label_name_breaking-news navigation__notification-label_active_false" data-tracking="navigation/alertCenterClicked" href="/breaking-news">Breaking<br />News</a>
+                                            <a class="navigation__notification-label navigation__notification-label_name_weather navigation__notification-label_active_true" data-tracking="navigation/alertCenterClicked" href="/severe-weather">Weather</a>
+                                                <a class="navigation__notification-label navigation__notification-label_name_closings navigation__notification-label_active_false" data-tracking="navigation/alertCenterClicked" href="/closings">Delays/<br />Closings</a>
+                </div>
+            </div>
+        </div>
+        <ul class="navigation__sponsored-list">
+            <li class="navigation__sponsored-by">Sponsored by</li>
+            <li class="navigation__sponsored-item">
+                <a class="navigation__sponsored-link" data-tracking="navigation/sponsoredLinkClicked" href="/attheborder">
+                    <img class="navigation__sponsored-image" src="https://cdn.tegna-media.com/wbir/assets/attheborder-352x52.png" alt="At the Border" />
+                    <div class="navigation__sponsored-go-indicator"></div>
+                </a>
+            </li>
+        </ul>
+        <noscript>
+            <div class="navigation__item navigation__item_children_false" style="border-top:1px solid #e6e6e6">
+                <a class="navigation__sublist-activator" href="/">
+                    <span class="navigation__label">Home</span>
+                </a>
+            </div>
+        </noscript>
+        <ul class="navigation__list">
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_news" href="/news" >News</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                            <ul class="navigation__sublist navigation__sublist_special_true navigation__sublist_visible_false">
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_local navigation__sublink_special_true" href="/local" >Local</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_money navigation__sublink_special_true" href="/money" >Money</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_entertainment-news navigation__sublink_special_true" href="/entertainment" >Entertainment</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~nation-world navigation__sublink_special_true" href="/nation-now" >Nation World</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-health navigation__sublink_special_true" href="/health" >Health</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-politics navigation__sublink_special_true" href="/politics" >Politics</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life navigation__sublink_special_true" href="/life" >Life</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-investigations navigation__sublink_special_true" href="/investigative" >Investigative</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_community navigation__sublink_special_true" href="/community" >Community</a></li>
+                            </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_weathertraffic" href="/weather/" >Weather &amp; Traffic</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/weather" >Current Weather</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/radar" >Radar</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/10-day" >Hourly &amp; 10-Day</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather~closings" href="/closings" >Closings &amp; Delays</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather-closings" href="/textalerts" >School Closings Text Alerts</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_traffic" href="/traffic" >Traffic</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_traffic~gas-prices" href="/gasprices" >Gas Prices</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_sports" href="/sports" >Sports</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/sports" >Latest Sports</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/big-orange-locker" >Big Orange Locker</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~ncaa~98vols" href="/cladinbigorange" >Clad in Big Orange</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/hss" >High School Sports</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/signing-day" >HSS Signing Day</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~local~knoxville-marathon" href="/knoxvillemarathon" >Knoxville Marathon</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/nascar" >NASCAR</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~nfl~superbowl" href="/superbowl" >Super Bowl</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/titans" >Titans</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/ut-vols-lady-vols" >UT Vols/Lady Vols</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_shows" href="/evening" >Shows</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life-television-fox43" href="/fox43" >Fox 43</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life-television-heartland" href="/heartland" >Heartland</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-politics-inside-tennessee" href="/inside-tennessee" >Inside Tennessee</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/live-at-five-at-four" >Live at Five at Four</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_features" href="/features" >Features</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/10about-town" >10About Town</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life~food~10Brews" href="/10Brews" >10Brews</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~10listens" href="/10listens" >10Listens</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/10-rising-hearts" >10 Rising Hearts</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~investigations~appalachian-unsolved" href="/appalachian-unsolved" >Appalachian Unsolved</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~special-reports~at-the-border" href="/attheborder" >At the Border</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~health~buddy-check-10" href="/buddy-check" >Buddy Check 10</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/connectinghearts" >Connecting Hearts</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/contests" >Contests</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_money~consumer~dealboss" href="/dealboss" >DEALBOSS</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/diy" >DIY</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/educator-of-the-week" >Educator of the Week</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/food" >Food</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_features" href="/gorillacam" >Gorillacam</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-local-hometown-spotlight" href="/hometown-spotlight" >Hometown Spotlight</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~instagram" href="/instagram" >Instagram</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~junior-anchor" href="/junior-anchor" >Junior Anchor</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/magnify-money" >Magnify Money</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-local-od-epidemic" href="/od-epidemic" >OD Epidemic</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life-family-parenting-101" href="/parenting101" >Parenting 101</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/pay-it-forward" >Pay It Forward</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/recipes" >Recipes</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~education~scholar" href="/scholar-of-the-week" >Scholar of the Week</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/service-and-sacrifice" >Service and Sacrifice</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="https://www.shopdealboss.com/"  target=&quot;_blank&quot;>Shop</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_Sports~Nfl~Superbowl~Super-Stories" href="/superstories" >Super Stories</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~verify" href="/verify" >Verify</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/vote" >Vote</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/wildfire" >Wildfires</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="/watercooler" >Worth Sharing</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~year-in-review" href="/yearinreview" >Year in Review</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_media" href="/video" >Media</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news" href="/video" >Video</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news" href="/gallery" >Photos</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_connect" href="/contact-us" >Connect</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/about" >About Us</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/advertise" >Advertise With Us</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/contact-us" >Contact Us</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us~team-bios" href="/meet-the-team" >Meet the Team</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news" href="/email" >Newsletter</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="https://www.jobs.net/jobs/tegna/en-us/all-jobs/?companyf=WBIR"  target=&quot;_blank&quot;>Jobs</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/programming-guide" >Programming Guide</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/rss" >RSS Feeds</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/closed-captioning" >Closed Captioning</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/internships" >Internships</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="https://wbir.shgstores.com/"  target=&quot;_blank&quot;>Store</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="http://yourtake.wbir.com/upload" >Your Take</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+        </ul>
+    </div>
+    </div>
+    <div class="navigation__footer">
+        <div class="navigation__live-indicator">
+        </div>
+        <div class="navigation__social">
+                <a href="https://www.facebook.com/WBIRChannel10/" target="_blank"><div class="navigation__icon navigation__icon_facebook"></div></a>
+
+                <a href="https://twitter.com/intent/user?screen_name=@WBIR" target="_blank"><div class="navigation__icon navigation__icon_twitter"></div></a>
+
+        </div>
+        <div class="navigation__copyright">&copy; 2019 WBIR-TV. All Rights Reserved.</div>
+    </div>
+
+</div>
+        </div>
+    </div>
+</div>
+            </div>
+        
+
+        <div class="page__main page__main_stand-alone_false">
+            <div class="page__modal-overlay"></div>
+            <div class="page__grid">
+                
+<div class="grid">
+            <div class="grid__section-group grid__section-group_theme_default">
+                    <div class="grid__section grid__section_top_true grid__section_sticky_none grid__section_theme_default grid__section_theme-changed_false" data-theme="default">
+                        <div class="grid__gutter">
+                        </div>
+                        <div class="grid__content grid__content_top_true grid__content_theme_default grid__content_theme-changed_false">
+                            <div class="grid__main grid__main_sticky_none">
+                                <div class="grid__cell grid__cell_columns_3" data-columns="12">
+                                    <div class="grid__module grid__module_top_true grid__module_ready_true" data-count="0" data-module="notification" data-module-id="">
+                                        
+                                        <div class="grid__module-inner grid__module-inner_ready_true">
+<div class="alert-bar alert-bar_visible_false">
+    <div class="alert-bar__list">
+    <a class="alert-bar__item alert-bar__item_slides-to-show_3 alert-bar__item_type_weather-alert" href="//www.wbir.com/severe-weather" data-tracking="alert-bar/linkClicked" data-id="wx-9">
+        <h2 class="alert-bar__title">Weather Alert</h2>
+        <p class="alert-bar__description">9 Weather Alerts</p>
+    </a>
+    </div>
+    <div class="alert-bar__controls">
+        <div class="alert-bar__close-button"></div>
+        <div class="alert-bar__arrows alert-bar__arrows_visible_false">
+            <div class="alert-bar__arrow alert-bar__arrow_side_left"></div>
+            <div class="alert-bar__arrow alert-bar__arrow_side_right"></div>
+        </div>
+    </div>
+</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="grid__gutter">
+                        </div>
+                    </div>
+
+
+
+                <div class="grid__section grid__section_sticky_left grid__section_theme_default grid__section_theme-changed_false grid__section_previous-theme_default grid__section_next-theme_default" data-theme="default" data-next-theme="default" data-previous-theme="default">
+                    <div class="grid__gutter">
+                        <div class="grid__gutter-content">
+                        </div>
+                    </div>
+                    <div class="grid__content grid__content_theme_default grid__content_theme-changed_false">
+                                <div class="grid__sticky-column grid__sticky-column_side_left">
+                                    <div class="grid__sticky-content" data-columns="4">
+                                            <div class="grid__module grid__module_fast_false" data-track-movement="false" data-module="ad" data-module-id="2d60ed3a-b39c-4bca-9d4c-a1dbd607e57f">
+      <div class="ad ad_border_true ad_position_article_atf" id="article_atf" data-model-refresh="none" data-model-refresh-limit="3" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;article_atf&quot;,&quot;div&quot;:&quot;article_atf&quot;,&quot;sizes&quot;:[300,250]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;0c02648e-2475-4079-9b13-c3c792281ad0&quot;],&quot;main_front&quot;:[&quot;false&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;video_included&quot;:[&quot;true&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+
+                                            </div>
+                                            <div class="grid__module grid__module_fast_false" data-track-movement="false" data-module="docked-video-slot" data-module-id="d7dfc4a5-4f84-4c70-afda-726d3fc4168f">
+<div class="docked-video-slot">
+    <div class="docked-video-slot__inner"></div>
+</div>
+                                            </div>
+                                    </div>
+                                </div>
+                        <div class="grid__main grid__main_sticky_left">
+                                        <div class="grid__cell grid__cell_columns_2" data-starting-column="5" data-columns="8">
+
+                                            <div class="grid__module grid__module_ready_true" data-track-movement="true" data-count="0" data-module="articles" data-module-id="f3f37245-83dd-402c-b229-87b7f61c4033">
+                                                
+                                                <div class="grid__module-inner grid__module-inner_ready_true">
+<div class="article"
+        data-dock-context-for="sharing title"
+        data-model-title="Report: Pilot Flying J pulls ESPN advertising after article critical of Jimmy Haslam"
+        data-model-article="0c02648e-2475-4079-9b13-c3c792281ad0"
+        data-model-section="sports"
+        data-model-subsection="nfl"
+        data-model-topic="browns"
+        data-model-subtopic=""
+        data-model-gptId="538" 
+        data-model-omnitureId="0" 
+        data-model-comscoreId="1" 
+        data-model-url="www.wbir.com/article/sports/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-0c02648e-2475-4079-9b13-c3c792281ad0" data-model-id="0c02648e-2475-4079-9b13-c3c792281ad0" 
+        data-model-gpt="32805352/tn-knoxville-WBIR-B3328_DesktopTablet"
+        data-model-hasvideo="true"
+        data-model-iscontinuousscroll="false"
+        data-model-categories="sports, nfl, news, home"
+        data-sharing-target="true"
+        data-sharing-title="Report: Pilot Flying J pulls ESPN advertising after article critical of Jimmy Haslam"
+        data-sharing-url="www.wbir.com/article/sports/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-0c02648e-2475-4079-9b13-c3c792281ad0"
+        
+        data-model-author=""
+        data-model-keywords="[]"
+>
+    <div class="article__article-story">
+    <div class="article-story">
+        <div class="article-story__lead-asset">
+                            <div data-module="video" data-track-off-screen="true" data-track-movement="true">
+        <div class="video"
+             data-standalone="false"
+             data-model-origin="upload"
+             data-video-url="https://www.wbir.com/video/sports/nfl/browns/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-4bf333a7-ede4-4b61-8a02-4cf7c3c5b309"
+             data-grid-track="video"
+             data-model-captions="https://wkyc-download.akamaized.net/video/4bf333a7-ede4-4b61-8a02-4cf7c3c5b309/4bf333a7-ede4-4b61-8a02-4cf7c3c5b309_vtt.vtt"
+             data-model-apiresponse="{&quot;Id&quot;:&quot;4bf333a7-ede4-4b61-8a02-4cf7c3c5b309&quot;,&quot;Sources&quot;:[{&quot;Format&quot;:&quot;HLS&quot;,&quot;Path&quot;:&quot;https://wkyc-vh.akamaihd.net/i/video/4bf333a7-ede4-4b61-8a02-4cf7c3c5b309/4bf333a7-ede4-4b61-8a02-4cf7c3c5b309_,350,640,1000,2000,.mp4.csmil/master.m3u8&quot;,&quot;EncodingRate&quot;:1}],&quot;DateCreated&quot;:&quot;2019-02-13T21:39:40Z&quot;,&quot;SiteUrl&quot;:null,&quot;Image&quot;:&quot;https://media.wbir.com/assets/WKYC/images/8071d0bd-6b22-43dc-93fc-37e0558c947a/8071d0bd-6b22-43dc-93fc-37e0558c947a.jpg&quot;,&quot;Title&quot;:&quot;Report: Pilot Flying J pulls ESPN advertising after article critical of Jimmy Haslam&quot;,&quot;Description&quot;:null,&quot;Origin&quot;:null,&quot;Advertising&quot;:{&quot;BrightcoveId&quot;:null,&quot;Section&quot;:&quot;sports&quot;,&quot;Subsection&quot;:&quot;nfl&quot;,&quot;Topic&quot;:&quot;browns&quot;,&quot;Subtopic&quot;:&quot;&quot;,&quot;Enabled&quot;:true},&quot;VideoLength&quot;:&quot;60&quot;,&quot;Captions&quot;:&quot;https://wkyc-download.akamaized.net/video/4bf333a7-ede4-4b61-8a02-4cf7c3c5b309/4bf333a7-ede4-4b61-8a02-4cf7c3c5b309_vtt.vtt&quot;}"
+             data-autoplay="true"
+             data-model-dfpid="32805352"
+             data-model-adsize="920x508"
+             data-model-gptid="tn-knoxville-WBIR-B3328_DesktopTablet"
+             data-model-omnituretag="0"
+             data-model-videosplayedcount="1"
+             data-model-endslate="jwplayer-related-plugin"
+             data-model-embedsbaseurl="https://media.wbir.com/"
+             data-model-related-playlist-id="8xa5K04M"
+             data-model-related-media-id="KOMyVvlO">
+                        <div class="video__ratio-enforcer">
+                <div class="video__ratio-enforced">
+                    <div class="video__inner">
+                        <div class="video__ratio-enforcer">
+                            <div class="video__ratio-enforced" data-aspect-ratio>
+                                <div class="video__teaser">
+                                    <img class="video__thumbnail" data-asset-fallback="default" data-lazy-loader="https://media.wbir.com/assets/WKYC/images/8071d0bd-6b22-43dc-93fc-37e0558c947a/8071d0bd-6b22-43dc-93fc-37e0558c947a_750x422.jpg" />
+                                    <div class="video__button video__button_play"></div>
+                                </div>
+                                <div class="video__player-container">
+                                    <div class="video__player"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <script type="application/ld+json">
+                {
+                "@context": "http://schema.org",
+                "@type": "VideoObject",
+                "name": "Report: Pilot Flying J pulls ESPN advertising after article critical of Jimmy Haslam",
+                "description": "According to the Sports Business Daily, Pilot Flying J has ended its advertising and sponsorship with ESPN.",
+                "thumbnailUrl": "http://wkyc-download.edgesuite.net/video/4bf333a7-ede4-4b61-8a02-4cf7c3c5b309/4bf333a7-ede4-4b61-8a02-4cf7c3c5b309_Thumb.jpg",
+                "uploadDate": "2/13/2019 9:39:40 PM",
+                "duration": "60",
+                "contentUrl": "https://www.wbir.com/video/sports/nfl/browns/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-4bf333a7-ede4-4b61-8a02-4cf7c3c5b309",
+                "embedUrl": "https://media.wbir.com/embeds/video/4bf333a7-ede4-4b61-8a02-4cf7c3c5b309/iframe"
+                }
+            </script>
+        </div>
+
+
+                            </div>
+        </div>
+
+
+
+
+        <h2 class="article-story__category article-story__category_section_sports"><a data-tracking="article-story/categoryLinkClicked/sports" class="article-story__category-link" href="/section/sports">SPORTS</a></h2>
+
+
+            <div class="article-story__lead-asset-caption">
+            </div>
+
+        <h1 class="article-story__headline grid__scroll-hook" data-scroll-hook-name="article-story__headline">Report: Pilot Flying J pulls ESPN advertising after article critical of Jimmy Haslam</h1>
+        <div class="article-story__abstract">
+            According to the Sports Business Daily, Pilot Flying J has ended its advertising and sponsorship with ESPN.
+        </div>
+        
+    </div>
+    <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.wbir.com/article/sports/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-0c02648e-2475-4079-9b13-c3c792281ad0"
+        },
+        "headline": "Report: Pilot Flying J pulls ESPN advertising after article critical of Jimmy Haslam",
+
+            
+                "image" : [],
+            
+
+        "datePublished": "2/13/2019 6:17:24 PM",
+        "dateModified": "2/13/2019 9:42:58 PM",
+        "author": {
+        "@type": "Person",
+        "name": ""
+        },
+        "publisher": {
+        "@type": "Organization",
+        "name": "WBIR",
+        "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.wbir.com/content/logos/amp/wbir.png",
+        "width": 340,
+        "height": 60
+        }
+        },
+        "description": "According to the Sports Business Daily, Pilot Flying J has ended its advertising and sponsorship with ESPN."
+        }
+    </script>
+
+    </div>
+    <div class="article__story-highlights">
+
+<div class="story-highlights">
+</div>
+    </div>
+    <div class="article__author" data-grid-gutter-top="right">
+    <div class="author">
+        <div class="author__container">
+            <div class="author__data">
+                <div class="author__item">
+                    <span class="author__tag">Author: </span>
+                    <span class="author__name">
+Ben Axelrod
+                    </span>
+                </div>
+                <div class="author__item">
+                    <span class="author__tag">Published: </span>
+                            <span class="author__date">
+                                1:17 PM EST February 13, 2019
+                            </span>
+                </div>
+                <div class="author__item">
+                    <span class="author__tag">Updated: </span>
+                        <span class="author__date">
+                            4:42 PM EST February 13, 2019
+                        </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    <div class="article__article-body">
+
+    <div class="article-body">
+        <div class="text">
+
+                        <p>Last month, <a href="https://www.wkyc.com/article/news/new-report-details-cleveland-browns-dysfunction-under-jimmy-haslam/95-51f0c1c3-0281-4f15-b188-d55501da6e6e" rel="noopener noreferrer" target="_blank">ESPN published a detailed report critical of Jimmy Haslam's tenure</a> as the Cleveland Browns' owner.</p><p>It appears the article didn't go unnoticed.</p><p>According to <em>Sports Business Daily</em>, <a href="https://www.sportsbusinessdaily.com/Daily/Issues/2019/02/13/Marketing-and-Sponsorship/Pilot-Flying-J.aspx" rel="noopener noreferrer" target="_blank">Pilot Flying J has ended its extensive advertising and sponsorship agreement with ESPN</a> just two years into what was a four-year deal. Haslam, whose father founded Pilot Flying J, still serves as the truck stop chain's chairman/CEO.</p>      <div class="ad ad_border_true ad_position_article_mid1" id="article_mid1_0" data-model-refresh="none" data-model-refresh-limit="none" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;article_mid1&quot;,&quot;div&quot;:&quot;article_mid1_0&quot;,&quot;sizes&quot;:[[300,250],[1,1],[750,570]]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;0c02648e-2475-4079-9b13-c3c792281ad0&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;strnativekey&quot;:[&quot;tpyTd5NziQJRV8wPqqZHfK8h&quot;],&quot;video_included&quot;:[&quot;true&quot;],&quot;ttid&quot;:[&quot;4bf333a7-ede4-4b61-8a02-4cf7c3c5b309&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+<div class="article-recirculation" data-loaded="false">
+            <div class="article-recirculation__wrapper">
+                <div class="article-recirculation__header">
+                    <div class="article-recirculation__header_side-bar"></div>
+                    <h1 class="article-recirculation__header_name">More News</h1>
+                    <div class="article-recirculation__header_side-bar"></div>
+                </div>
+
+                <div class="article-recirculation__items">
+
+                    <div class="article-recirculation__item">
+                        <div class="article-recirculation__container" data-pod="next-story" data-available="false">
+                            <div class="article-recirculation__info">
+                                <section class="article-recirculation__title-wrap">
+                                    <div class="article-recirculation__icon"><img src="/Views/dist/images/article-recirculation/icon-next-story.png" /></div>
+                                    <a class="article-recirculation__link" href="#" data-pod="next-story" data-tracking="article-recirculation/databaseArticleClick"><h3 class="article-recirculation__title" data-pod="next-story">Next Story</h3></a>
+                                </section>
+                                <div class="article-recirculation__info-container">
+                                    <div class="article-recirculation__category">
+                                        <div class="article-recirculation__asset">
+                                            <a class="article-recirculation__link" href="#" data-pod="next-story" data-tracking="article-recirculation/databaseArticleClick">
+                                                <div class="article-recirculation__aspect-ratio-enforcer">
+                                                    <div class="article-recirculation__aspect-ratio-enforced">
+                                                        <img class="article-recirculation__image" data-pod="next-story" data-lazy-loader-ajax />
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <a class="article-recirculation__link" href="#" data-pod="next-story" data-tracking="article-recirculation/databaseArticleClick">
+                                            <span class="article-recirculation__headline" data-pod="next-story">
+                                                <span class="article-recirculation__not-available">Not Available</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="article-recirculation__item">
+                        <div class="article-recirculation__container" data-pod="just-for-you" data-available="false">
+                            <div class="article-recirculation__info">
+                                <section class="article-recirculation__title-wrap">
+                                    <div class="article-recirculation__icon"><img src="/Views/dist/images/article-recirculation/icon-just-for-you.png" /></div>
+                                    <a class="article-recirculation__link" href="#" data-pod="just-for-you" data-tracking="article-recirculation/liftigniterArticleClick"><h3 class="article-recirculation__title" data-pod="just-for-you">Just For You</h3></a>
+                                </section>
+                                <div class="article-recirculation__info-container">
+                                    <div class="article-recirculation__category">
+                                        <div class="article-recirculation__asset">
+                                            <a class="article-recirculation__link" href="#" data-pod="just-for-you" data-tracking="article-recirculation/liftigniterArticleClick">
+                                                <div class="article-recirculation__aspect-ratio-enforcer">
+                                                    <div class="article-recirculation__aspect-ratio-enforced">
+                                                        <img class="article-recirculation__image" data-pod="just-for-you" data-lazy-loader-ajax />
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <a class="article-recirculation__link" href="#" data-pod="just-for-you" data-tracking="article-recirculation/liftigniterArticleClick">
+                                            <span class="article-recirculation__headline" data-pod="just-for-you">
+                                                <span class="article-recirculation__not-available">Not Available</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="article-recirculation__item">
+                        <div class="article-recirculation__container" data-pod="trending" data-available="false">
+                            <div class="article-recirculation__info">
+                                <section class="article-recirculation__title-wrap">
+                                    <div class="article-recirculation__icon"><img src="/Views/dist/images/article-recirculation/icon-trending.png" /></div>
+                                    <a class="article-recirculation__link" href="#" data-pod="trending" data-tracking="article-recirculation/chartbeatArticleClick"><h3 class="article-recirculation__title" data-pod="trending">Trending</h3></a>
+                                </section>
+                                <div class="article-recirculation__info-container">
+                                    <div class="article-recirculation__category">
+                                        <div class="article-recirculation__asset">
+                                            <a class="article-recirculation__link" href="#" data-pod="trending" data-tracking="article-recirculation/chartbeatArticleClick">
+                                                <div class="article-recirculation__aspect-ratio-enforcer">
+                                                    <div class="article-recirculation__aspect-ratio-enforced">
+                                                        <img class="article-recirculation__image" data-pod="trending" data-lazy-loader-ajax />
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <a class="article-recirculation__link" href="#" data-pod="trending" data-tracking="article-recirculation/chartbeatArticleClick">
+                                            <span class="article-recirculation__headline" data-pod="trending">
+                                                <span class="article-recirculation__not-available">Not Available</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="article-recirculation__footer"></div>
+            </div>
+
+</div><p>The multiplatform deal included significant advertising involving ESPN's college football coverage, with Pilot Flying J becoming the "official travel center of the Southeastern Conference. On-air talent including Paul Finebaum and Laura Rutledge also endorsed the truck stop chain, which <a href="https://www.wkyc.com/article/news/nation-now/warren-buffett-acquiring-pilot-flying-j-truck-stops-from-haslam-family/480447842" rel="noopener noreferrer" target="_blank">the Haslam family sold its majority share of</a> in 2017.</p><p>Haslam is scheduled to remain the company's chairman/CEO through 2023.</p><p>Although ESPN owns all of the SEC’s marketing and media rights, its relationship with Pilot Flying J was "irretrievably damaged" by <a href="http://www.espn.com/nfl/story/_/id/25797430/inside-cleveland-browns-front-office-where-hope-history-collide" rel="noopener noreferrer" target="_blank">Seth Wickersham's Jan. 24 piece</a> detailing the inner-workings of the Browns under Haslam, who purchased the franchise in 2012. In his story, Wickersham provided a behind-the-scenes look at the dysfunction Cleveland has endured on-and-off-the-field with Haslam, which has included short-lived tenures for head coaches and general managers alike, as well as multiple public embarrassments from players and team employees.</p><p>In what was its first sports marketing play, Pilot Flying J served as the title sponsor of the 2016 Battle at Bristol football game between Tennessee and Virginia Tech, which aired on ABC, which like ESPN, is owned by Disney. Two years and one controversial article later, however, it appears the company's next sports sponsorship deal will be taking place elsewhere.</p>            
+        </div>
+    </div>
+        <div id="taboola-below-article-thumbnails-2nd-0" data-model-page-type="article" data-model-ad="below_taboola" data-model-mode="thumbnails-h2" data-model-targetType="mix" data-model-placement="Below Article Thumbnails 2nd" data-model-url="http://www.wbir.com/article/sports/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-0c02648e-2475-4079-9b13-c3c792281ad0" class="taboola"></div>
+
+    </div>
+</div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                        </div>
+                    </div>
+                    <div class="grid__gutter">
+                        <div class="grid__gutter-content">
+                                        <div class="grid__gutter-module" data-module="sticky-sharing">
+<div class="sticky-sharing">
+    <a data-tracking="sharing/twitterLink" class="sticky-sharing__icon sticky-sharing__icon_type-twitter" href="https://twitter.com/intent/tweet?text=[TITLE]&url=[URL]&via=[USERNAME]" target="_blank">
+    </a>
+    <div class="sticky-sharing__icon sticky-sharing__icon_type-facebook"></div>
+
+</div>                                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid__section-group grid__section-group_theme_default">
+
+
+
+                <div class="grid__section grid__section_sticky_none grid__section_theme_default grid__section_theme-changed_false grid__section_previous-theme_default grid__section_next-theme_default" data-theme="default" data-next-theme="default" data-previous-theme="default">
+                    <div class="grid__gutter">
+                        <div class="grid__gutter-content">
+                        </div>
+                    </div>
+                    <div class="grid__content grid__content_theme_default grid__content_theme-changed_false">
+                        <div class="grid__main grid__main_sticky_none">
+                                        <div class="grid__cell grid__cell_columns_3" data-starting-column="1" data-columns="12">
+
+                                            <div class="grid__module grid__module_ready_true" data-track-movement="false" data-count="0" data-module="ad" data-module-id="2d60ed3a-b39c-4bca-9d4c-a1dbd607e57f">
+                                                
+                                                <div class="grid__module-inner grid__module-inner_ready_true">
+      <div class="ad ad_border_true ad_position_article_flex_btf" id="article_flex_btf" data-model-refresh="none" data-model-refresh-limit="none" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;article_flex_btf&quot;,&quot;div&quot;:&quot;article_flex_btf&quot;,&quot;sizes&quot;:[[970,250],[728,90],[1140,286],[1,1]]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;0c02648e-2475-4079-9b13-c3c792281ad0&quot;],&quot;main_front&quot;:[&quot;false&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;video_included&quot;:[&quot;true&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+                        </div>
+                    </div>
+                    <div class="grid__gutter">
+                        <div class="grid__gutter-content">
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div>
+
+            </div>
+        </div>
+            <div class="page__footer">
+<div class="footer">
+    <div class="footer__inner">
+        <div class="footer__social">
+
+<div class="social">
+    <ul class="social__list social__list_align_center">
+        <li class="social__item">
+            <a class="social__link" target="_blank" href="https://www.facebook.com/WBIRChannel10/">
+                <span class="social__icon social__icon_type_facebook"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="16" viewBox="0 0 17 16">
+    <image id="Vector_Smart_Object" data-name="Vector Smart Object" width="17" height="16" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAQAAABaOFzUAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfhAhENOQMc/E5OAAAAlklEQVQoz73PMQtBARTF8d+ToiyGV4oSWQ0+gEL5GL6Ewax8G5OdwWozyOYVC4MimwmTAe+xOdu9/e895wSzjZpvioLZ3Q+lY7cHY3s5PbV4ZKnjAhpJyNBFoKuknGS0Rsv0OaZikBvySXHPRjhhpY+BIq+ldyovJ0fh+5esNhauQnUZ4adRwRxVW02Tb3Hf9Eck+kFED4KVHWZAZTHbAAAAAElFTkSuQmCC" />
+</svg></span>
+            </a>
+        </li>
+
+        <li class="social__item">
+            <a class="social__link" target="_blank" href="https://twitter.com/intent/user?screen_name=@WBIR">
+                <span class="social__icon social__icon_type_twitter"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="16" viewBox="0 0 19 16">
+    <image id="Vector_Smart_Object" data-name="Vector Smart Object" width="19" height="16" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAQCAQAAABezYzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfhAhENNjO9vWItAAABFUlEQVQoz33QPUhbARAA4O89k4qDXRrMIrgFwSkuLlJSea3oVoRu4i4IHerk5Jyhi44uDg4KHS3tg9JBLLQFaSQVERGh0EBpJHFQNJYOJs0PTW66n2+4uyDmkd/aIy1vTr/Pln2Scx3Egw49ddKCHvoiU89vlVVNhDJG7JtsYYv/EElpJa9CVaR89FqqPsp1rHBuNYg5MgquvLGrYN3jNjYU/QritCkbBnSPZFRLGLLlrgcqRTVCRd/19WB7EPpjQaUHe3vP+GrJjy6oYqfByBruwvLRZZOtePdf9E3+PgnrH5sxq9iBfnruppU9EHlprA2deuKsUYReOHDhvWct5M6arONmI2HbB/OmjUsJlBXENjsv/wvGUENgDcdadwAAAABJRU5ErkJggg==" />
+</svg></span>
+            </a>
+        </li>
+
+
+    </ul>
+</div>
+        </div>
+        <div class="footer__menu">
+            <ul class="footer__list">
+                <li class="footer__item"><a class="footer__link" href="/terms">Terms of Service</a></li>
+                <li class="footer__item"><a class="footer__link" href="/privacy">Privacy Notice</a></li>
+                <li class="footer__item"><a class="footer__link" href="/privacy">Your California Privacy Notice</a></li>
+                <li class="footer__item"><a class="footer__link" href="/adchoices">Ad Choices</a></li>
+                        <li class="footer__item"><a class="footer__link" href="https://content.wbir.com/document_dev/2018/03/21/KnoxvilleTN_EEO_Public_File_2017_2018_13670569_ver1.0.pdf">EEO Public File Report</a></li>
+                        <li class="footer__item"><a class="footer__link" href="/fcc-public-inspection-file">FCC Online Public Inspection File </a></li>
+                        <li class="footer__item"><a class="footer__link" href="/closed-captioning">Closed Captioning Procedures</a></li>
+            </ul>
+        </div>
+        <div class="footer__copyright">
+            &copy; 2019 WBIR-TV. All Rights Reserved.
+        </div>
+    </div>
+</div>
+      <div class="ad ad_border_true ad_position_exit_interstitial" id="exit_interstitial" data-model-refresh="none" data-model-refresh-limit="none" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;exit_interstitial&quot;,&quot;div&quot;:&quot;exit_interstitial&quot;,&quot;sizes&quot;:[[1,1]]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;0c02648e-2475-4079-9b13-c3c792281ad0&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;strnativekey&quot;:[&quot;W8AYfVarViFuTNSD7bPc6RUU&quot;],&quot;video_included&quot;:[&quot;true&quot;],&quot;ttid&quot;:[&quot;4bf333a7-ede4-4b61-8a02-4cf7c3c5b309&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+            </div>
+        <script src="/scripts/require-2.3.3.min.js"></script>
+        <script>
+
+        (function() {
+            var modules = [
+                'error',
+                'page',
+                'grid',
+                'desktop-header',
+                'toolbar',
+                'weather-summary',
+                'navigation',
+                'video',
+                'throbber',
+                'utils',
+                'fitted-headline',
+                'forecast',
+                'article',
+                'continuous-scroll',
+                'sharing',
+                'gallery',
+                'radar-gallery',
+                'forecast',
+                'article-crosspromo',
+                'featured-videos',
+                'chapter-slider',
+                'pollen',
+                'olympics-live-stream',
+                'three-day-outlook',
+                'current-weather',
+                'search-results',
+                'tracking',
+                'chapter-progress',
+                'progress',
+                'countdown-clock',
+                'longform-explore',
+                'media-gallery',
+                'social-sharing',
+                'weather-alerts',
+                'weather-interactive-radar',
+                'closings',
+                'tealium',
+                'alert-bar',
+                'cookie',
+                'sticky-sharing',
+                'live-indicator',
+                'sharethrough',
+                'taboola',
+                'elections',
+                'just-for-you',
+                'just-for-you-li',
+                'olympics-tv-listings',
+                'headline-list-with-abstract',
+                'text-only-headline-list',
+                'story-snapshot-with-abstract',
+                'snapshot',
+                'story-snapshot',
+                'special-content-headline-list',
+                'notfound',
+                'linked-image',
+                'article-recirculation',
+                'linked-image-with-title',
+                'newsletter-signup',
+                'linked-image-with-title',
+                'newsletter-signup-multiple',
+                'live-videos',
+                'breaking-news',
+                'weather-alerts',
+                'closings',
+                'media-gallery-alt',
+                'alert-center-menu',
+                'trending-list',
+                'toc',
+                'featured-radars',
+                'searchbox',
+                'hot-races',
+                'recirculation',
+                'photo',
+                'video-youtube'
+            ];
+            require.config({
+                'baseUrl': '/',
+                'deps': modules,
+                'waitSeconds': 30,
+                'bundles': {
+                    'modules': modules
+                },
+                'paths': {
+                    'jquery': 'scripts/jquery-3.1.1.min',
+                    'jwplayer': 'content/player/jwplayer.js?version=3.3.7',
+                    'modules': 'Views/dist/scripts/modules.min.js?version=3.3.7',
+                    'facebook': 'https://connect.facebook.net/en_US/all',
+                    'twitter': 'https://platform.twitter.com/widgets',
+                    'slick': 'content/libs/slick/slick.min',
+                    'dotdotdot': 'content/libs/dotdotdot/jquery.dotdotdot.min',
+                    'jqueryui': 'Views/lib/jquery-ui/jquery-ui.min',
+                    'comscore': 'content/libs/comscore/comscore.min',
+                    'stickyfill': 'content/libs/stickyfill/stickyfill.min',
+                    'youtube': 'https://www.youtube.com/iframe_api?noext'
+                },
+                'shim': {
+                    'facebook': {
+                        'exports': 'FB'
+                    },
+                    'twitter': {
+                        'exports': 'twttr'
+                    },
+                    'youtube': {
+                        'exports': 'YT'
+                    },
+                    'jwplayer': ['jquery'],
+                    'jqueryui': {
+                        'deps': ['jquery']
+                    },
+                    'slick': ['jquery'],
+                    'dotdotdot': ['jquery']
+                }
+            });
+        })();
+        </script>
+
+        <script src="https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&render=explicit" async defer></script>
+        <script type="text/javascript">
+            var recaptchaCallback = function () {
+                window.grecaptcha = grecaptcha;
+                console.log('recaptcha is ready');
+            }
+        </script>
+        <script type="text/javascript" src="//cloudfront.loggly.com/js/loggly.tracker-latest.min.js" async></script>
+        <noscript>
+            <style>
+                .grid__module {
+                    height: auto;
+                    opacity: 1;
+                }
+            </style>
+        </noscript>
+    </body>
+</html>

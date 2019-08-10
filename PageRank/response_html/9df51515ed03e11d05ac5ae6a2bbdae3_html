@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://junkscience.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://junkscience.com/wp-content/themes/twentyfifteen/js/html5.js"></script>
+	<![endif]-->
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>JunkScience.com &#8211; All the junk that’s fit to debunk.</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="JunkScience.com &raquo; Feed" href="https://junkscience.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="JunkScience.com &raquo; Comments Feed" href="https://junkscience.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/junkscience.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentyfifteen-jetpack-css'  href='http://junkscience.com/wp-content/plugins/jetpack/modules/theme-tools/compat/twentyfifteen.css?ver=7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://junkscience.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://junkscience.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://junkscience.com/wp-content/themes/twentyfifteen/style.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='http://junkscience.com/wp-content/themes/twentyfifteen-child/style.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://junkscience.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='http://junkscience.com/wp-content/themes/twentyfifteen-child/style.css?ver=5.0.3' type='text/css' media='all' />
+<style id='twentyfifteen-style-inline-css' type='text/css'>
+
+		/* Custom Sidebar Text Color */
+		.site-title a,
+		.site-description,
+		.secondary-toggle:before {
+			color: #2b78bf;
+		}
+
+		.site-title a:hover,
+		.site-title a:focus {
+			color: #2b78bf; /* Fallback for IE7 and IE8 */
+			color: rgba( 43, 120, 191, 0.7);
+		}
+
+		.secondary-toggle {
+			border-color: #2b78bf; /* Fallback for IE7 and IE8 */
+			border-color: rgba( 43, 120, 191, 0.1);
+		}
+
+		.secondary-toggle:hover,
+		.secondary-toggle:focus {
+			border-color: #2b78bf; /* Fallback for IE7 and IE8 */
+			border-color: rgba( 43, 120, 191, 0.3);
+		}
+
+		.site-title a {
+			outline-color: #2b78bf; /* Fallback for IE7 and IE8 */
+			outline-color: rgba( 43, 120, 191, 0.3);
+		}
+
+		@media screen and (min-width: 59.6875em) {
+			.secondary a,
+			.dropdown-toggle:after,
+			.widget-title,
+			.widget blockquote cite,
+			.widget blockquote small {
+				color: #2b78bf;
+			}
+
+			.widget button,
+			.widget input[type="button"],
+			.widget input[type="reset"],
+			.widget input[type="submit"],
+			.widget_calendar tbody a {
+				background-color: #2b78bf;
+			}
+
+			.textwidget a {
+				border-color: #2b78bf;
+			}
+
+			.secondary a:hover,
+			.secondary a:focus,
+			.main-navigation .menu-item-description,
+			.widget,
+			.widget blockquote,
+			.widget .wp-caption-text,
+			.widget .gallery-caption {
+				color: rgba( 43, 120, 191, 0.7);
+			}
+
+			.widget button:hover,
+			.widget button:focus,
+			.widget input[type="button"]:hover,
+			.widget input[type="button"]:focus,
+			.widget input[type="reset"]:hover,
+			.widget input[type="reset"]:focus,
+			.widget input[type="submit"]:hover,
+			.widget input[type="submit"]:focus,
+			.widget_calendar tbody a:hover,
+			.widget_calendar tbody a:focus {
+				background-color: rgba( 43, 120, 191, 0.7);
+			}
+
+			.widget blockquote {
+				border-color: rgba( 43, 120, 191, 0.7);
+			}
+
+			.main-navigation ul,
+			.main-navigation li,
+			.secondary-toggle,
+			.widget input,
+			.widget textarea,
+			.widget table,
+			.widget th,
+			.widget td,
+			.widget pre,
+			.widget li,
+			.widget_categories .children,
+			.widget_nav_menu .sub-menu,
+			.widget_pages .children,
+			.widget abbr[title] {
+				border-color: rgba( 43, 120, 191, 0.1);
+			}
+
+			.dropdown-toggle:hover,
+			.dropdown-toggle:focus,
+			.widget hr {
+				background-color: rgba( 43, 120, 191, 0.1);
+			}
+
+			.widget input:focus,
+			.widget textarea:focus {
+				border-color: rgba( 43, 120, 191, 0.3);
+			}
+
+			.sidebar a:focus,
+			.dropdown-toggle:focus {
+				outline-color: rgba( 43, 120, 191, 0.3);
+			}
+		}
+	
+</style>
+<link rel='stylesheet' id='twentyfifteen-block-style-css'  href='http://junkscience.com/wp-content/themes/twentyfifteen/css/blocks.css?ver=20181230' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='http://junkscience.com/wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='http://junkscience.com/wp-content/themes/twentyfifteen/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='social-logos-css'  href='http://junkscience.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://junkscience.com/wp-content/plugins/jetpack/css/jetpack.css?ver=7.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://junkscience.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://junkscience.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://junkscience.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://junkscience.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://junkscience.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.3" />
+<link rel='shortlink' href='https://wp.me/6SqJi' />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #85a2bf; }
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="JunkScience.com" />
+<meta property="og:description" content="All the junk that’s fit to debunk." />
+<meta property="og:url" content="https://junkscience.com/" />
+<meta property="og:site_name" content="JunkScience.com" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:creator" content="@JunkScience" />
+<meta name="twitter:site" content="@JunkScience" />
+
+<!-- End Jetpack Open Graph Tags -->
+</head>
+
+<body class="home blog custom-background wp-embed-responsive">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<div id="sidebar" class="sidebar">
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-branding">
+										<h1 class="site-title"><a href="https://junkscience.com/" rel="home">JunkScience.com</a></h1>
+											<p class="site-description">All the junk that’s fit to debunk.</p>
+									<button class="secondary-toggle">Menu and widgets</button>
+			</div><!-- .site-branding -->
+		</header><!-- .site-header -->
+
+			<div id="secondary" class="secondary">
+
+					<nav id="site-navigation" class="main-navigation" role="navigation">
+				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav-menu"><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://junkscience.com/about/">Junk Science?</a></li>
+<li id="menu-item-93704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93704"><a href="https://junkscience.com/who-is-steve-milloy/">Steve Milloy</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="https://junkscience.com/contact/">Contact</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://junkscience.com/support/">Donate</a></li>
+<li id="menu-item-75610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75610"><a href="https://junkscience.com/features/">Features</a></li>
+</ul></div>			</nav><!-- .main-navigation -->
+		
+		
+					<div id="widget-area" class="widget-area" role="complementary">
+				<aside id="text-4" class="widget widget_text">			<div class="textwidget"><a href="https://www.amazon.com/dp/B01NALP1HX/ref=sr_1_1?ie=UTF8&qid=1482383503&sr=8-1&keywords=scare+pollution"><img src="https://junkscience.com/wp-content/uploads/2016/12/Scare-Pollution-Cover-Final-122116-300x433.jpg" alt="" width="300" height="433" class="aligncenter size-medium wp-image-90909" /></a></div>
+		</aside><aside id="text-3" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- JS Responsive Sidebar -->
+<ins class="adsbygoogle"
+    style="margin-bottom:18px;display:block;min-width:160px;max-width:336px;width:100%;height:280px"
+     data-ad-client="ca-pub-3841204415070352"
+     data-ad-slot="6941670319"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({}); </script></div>
+		</aside><aside id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h2 class="widget-title">Subscribe to Blog via Email</h2>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				                    <div id="subscribe-text"><p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+</div><p>Join 23,868 other subscribers</p>
+                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-3">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required" class="required"
+                               value=""
+                               id="subscribe-field-blog_subscription-3"
+                               placeholder="Email Address"/>
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="http://junkscience.com/"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+						                        <input type="submit" value="Subscribe"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    />
+                    </p>
+				            </form>
+		
+</aside><aside id="search-4" class="widget widget_search"><h2 class="widget-title">Search</h2><form role="search" method="get" class="search-form" action="https://junkscience.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit screen-reader-text" value="Search" />
+			</form></aside><aside id="twitter_timeline-3" class="widget widget_twitter_timeline"><a class="twitter-timeline" data-width="340" data-theme="light" data-link-color="#ff0000" data-border-color="#666666" data-tweet-limit="6" data-lang="EN" data-partner="jetpack" href="https://twitter.com/junkscience" href="https://twitter.com/junkscience">My Tweets</a></aside>		<aside id="recent-posts-3" class="widget widget_recent_entries">		<h2 class="widget-title">Recent Posts</h2>		<ul>
+											<li>
+					<a href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/">Bad Science May Banish Paper Receipts</a>
+									</li>
+											<li>
+					<a href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-part-4-features-steve-milloy/">FOX News report on Green New Deal (Part 4) features Steve Milloy</a>
+									</li>
+											<li>
+					<a href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-features-steve-milloy/">FOX News report on Green New Deal (Part 1) features Steve Milloy</a>
+									</li>
+											<li>
+					<a href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/">Curry Report: Sea-level rise within natural variation of past several thousand years</a>
+									</li>
+											<li>
+					<a href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/">Dr. Dunn comments on the NYTimes claim that London air quality killed a child</a>
+									</li>
+					</ul>
+		</aside><aside id="recent-comments-3" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">John Minich</span> on <a href="https://junkscience.com/2017/04/federal-toxic-chief-defends-epa-by-trying-to-shoot-the-messenger/#comment-8317976315264131351">Federal toxic chief defends EPA by trying to shoot the messenger</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://darkangelpolitics.com' rel='external nofollow' class='url'>Angel Artiste</a></span> on <a href="https://junkscience.com/2017/10/epa-funded-harvard-researcher-nrdc-admit-obama-epa-broke-law-with-human-experiments/#comment-8317976315264122850">EPA-funded Harvard researcher, NRDC admit Obama EPA broke law with human experiments</a></li><li class="recentcomments"><span class="comment-author-link">Gofigure</span> on <a href="https://junkscience.com/2017/10/steve-milloy-statement-on-repeal-of-clean-power-plan/#comment-8317976315264122846">Steve Milloy Statement on Repeal of Clean Power Plan</a></li><li class="recentcomments"><span class="comment-author-link">Ofigure</span> on <a href="https://junkscience.com/2017/10/steve-milloy-statement-on-repeal-of-clean-power-plan/#comment-8317976315264122845">Steve Milloy Statement on Repeal of Clean Power Plan</a></li><li class="recentcomments"><span class="comment-author-link">claudia roulier</span> on <a href="https://junkscience.com/2017/10/epa-funded-harvard-researcher-nrdc-admit-obama-epa-broke-law-with-human-experiments/#comment-8317976315264122844">EPA-funded Harvard researcher, NRDC admit Obama EPA broke law with human experiments</a></li></ul></aside><aside id="meta-3" class="widget widget_meta"><h2 class="widget-title">Meta</h2>			<ul>
+						<li><a href="https://junkscience.com/wp-login.php">Log in</a></li>
+			<li><a href="https://junkscience.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://junkscience.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside><aside id="calendar-6" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>February 2019</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Sunday">S</th>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="https://junkscience.com/2019/01/">&laquo; Jan</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="5" class="pad">&nbsp;</td><td>1</td><td>2</td>
+	</tr>
+	<tr>
+		<td>3</td><td>4</td><td><a href="https://junkscience.com/2019/02/05/" aria-label="Posts published on February 5, 2019">5</a></td><td>6</td><td>7</td><td>8</td><td>9</td>
+	</tr>
+	<tr>
+		<td>10</td><td>11</td><td><a href="https://junkscience.com/2019/02/12/" aria-label="Posts published on February 12, 2019">12</a></td><td>13</td><td><a href="https://junkscience.com/2019/02/14/" aria-label="Posts published on February 14, 2019">14</a></td><td><a href="https://junkscience.com/2019/02/15/" aria-label="Posts published on February 15, 2019">15</a></td><td>16</td>
+	</tr>
+	<tr>
+		<td>17</td><td>18</td><td><a href="https://junkscience.com/2019/02/19/" aria-label="Posts published on February 19, 2019">19</a></td><td>20</td><td><a href="https://junkscience.com/2019/02/21/" aria-label="Posts published on February 21, 2019">21</a></td><td>22</td><td>23</td>
+	</tr>
+	<tr>
+		<td>24</td><td>25</td><td id="today"><a href="https://junkscience.com/2019/02/26/" aria-label="Posts published on February 26, 2019">26</a></td><td>27</td><td>28</td>
+		<td class="pad" colspan="2">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside>			</div><!-- .widget-area -->
+		
+	</div><!-- .secondary -->
+
+	</div><!-- .sidebar -->
+
+	<div id="content" class="site-content">
+
+
+
+<div id="goo-banner">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- JS Responsive Header -->
+<ins class="adsbygoogle"
+	style="display:block;min-width:300px;max-width:728px;width:100%;height:90px"
+	data-ad-client="ca-pub-3841204415070352"
+	data-ad-slot="5464937113"
+	data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({}); </script>
+
+</div><!-- #goo-banner -->
+
+
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+			
+
+<article id="post-97202" class="post-97202 post type-post status-publish format-standard hentry category-chemicals">
+	
+
+
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/" rel="bookmark">Bad Science May Banish Paper Receipts</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>My <a href="https://www.wsj.com/articles/bad-science-may-banish-paper-receipts-11551137837">op-ed</a> in today&#8217;s <em>Wall Street Journal</em> about the debunking of the BPA scare.</p>
+<p><img src="https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-26-at-8.14.29-AM-728x678.png" alt="" width="660" height="615" class="aligncenter size-large wp-image-97203" srcset="https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-26-at-8.14.29-AM-728x678.png 728w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-26-at-8.14.29-AM-300x279.png 300w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-26-at-8.14.29-AM-768x715.png 768w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p> <a href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/#more-97202" class="more-link">Continue reading <span class="screen-reader-text">Bad Science May Banish Paper Receipts</span></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-97202" class="share-twitter sd-button share-icon" href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-97202" class="share-facebook sd-button share-icon" href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-97202" class="share-linkedin sd-button share-icon" href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-97202" class="share-pinterest sd-button share-icon" href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-26T08:24:43+00:00">February 26, 2019</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="https://junkscience.com/author/junkman90321/">Steve Milloy</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://junkscience.com/category/chemicals/" rel="category tag">Chemicals</a></span><span class="comments-link"><a href="https://junkscience.com/2019/02/bad-science-may-banish-paper-receipts/#respond">Leave a comment<span class="screen-reader-text"> on Bad Science May Banish Paper Receipts</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+
+
+
+
+
+			
+			
+
+<article id="post-97175" class="post-97175 post type-post status-publish format-standard hentry category-climate-energy">
+	
+
+
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-part-4-features-steve-milloy/" rel="bookmark">FOX News report on Green New Deal (Part 4) features Steve Milloy</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>In Part 4 of the Fox News series on the Green New Deal, I reveal what we&#8217;ve always known about the global warming scam.</p>
+<p><a href="https://video.foxnews.com/v/6005462389001/#sp=show-clips"><img src="https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-21-at-7.50.14-PM-728x396.png" alt="" width="660" height="359" class="aligncenter size-large wp-image-97176" srcset="https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-21-at-7.50.14-PM-728x396.png 728w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-21-at-7.50.14-PM-300x163.png 300w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-21-at-7.50.14-PM-768x418.png 768w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-21-at-7.50.14-PM.png 1063w" sizes="(max-width: 660px) 100vw, 660px" /></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-part-4-features-steve-milloy/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-part-4-features-steve-milloy/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-97175" class="share-twitter sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-part-4-features-steve-milloy/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-97175" class="share-facebook sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-part-4-features-steve-milloy/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-97175" class="share-linkedin sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-part-4-features-steve-milloy/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-97175" class="share-pinterest sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-part-4-features-steve-milloy/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-part-4-features-steve-milloy/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-part-4-features-steve-milloy/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-part-4-features-steve-milloy/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-21T19:55:48+00:00">February 21, 2019</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="https://junkscience.com/author/junkman90321/">Steve Milloy</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://junkscience.com/category/climate-energy/" rel="category tag">Climate &amp; Energy</a></span><span class="comments-link"><a href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-part-4-features-steve-milloy/#respond">Leave a comment<span class="screen-reader-text"> on FOX News report on Green New Deal (Part 4) features Steve Milloy</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+
+
+
+<div id="goads-loop">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- JS Responsive Loop -->
+<ins class="adsbygoogle"
+	style="display:block;min-width:300px;max-width:728px;width:100%;height:90px"
+	data-ad-client="ca-pub-3841204415070352"
+	data-ad-slot="9895136714"
+	data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({}); </script>
+
+</div><!-- #goads-loop -->
+
+
+
+
+
+			
+			
+
+<article id="post-97131" class="post-97131 post type-post status-publish format-standard hentry category-climate-energy">
+	
+
+
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-features-steve-milloy/" rel="bookmark">FOX News report on Green New Deal (Part 1) features Steve Milloy</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>From <a href="https://video.foxnews.com/v/6003605625001">Fox News&#8217; Special Report</a> last night, laugh along with Steve Milloy at the Green New Deal.</p>
+<p><a href="https://video.foxnews.com/v/6003605625001"><img src="https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-19-at-8.44.09-AM-728x661.png" alt="" width="660" height="599" class="aligncenter size-large wp-image-97133" srcset="https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-19-at-8.44.09-AM-728x661.png 728w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-19-at-8.44.09-AM-300x272.png 300w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-19-at-8.44.09-AM-768x697.png 768w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-19-at-8.44.09-AM.png 1219w" sizes="(max-width: 660px) 100vw, 660px" /></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-features-steve-milloy/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-features-steve-milloy/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-97131" class="share-twitter sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-features-steve-milloy/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-97131" class="share-facebook sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-features-steve-milloy/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-97131" class="share-linkedin sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-features-steve-milloy/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-97131" class="share-pinterest sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-features-steve-milloy/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-features-steve-milloy/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-features-steve-milloy/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-features-steve-milloy/" rel="bookmark"><time class="entry-date published" datetime="2019-02-19T08:50:56+00:00">February 19, 2019</time><time class="updated" datetime="2019-02-21T19:53:30+00:00">February 21, 2019</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="https://junkscience.com/author/junkman90321/">Steve Milloy</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://junkscience.com/category/climate-energy/" rel="category tag">Climate &amp; Energy</a></span><span class="comments-link"><a href="https://junkscience.com/2019/02/fox-news-report-on-green-new-deal-features-steve-milloy/#respond">Leave a comment<span class="screen-reader-text"> on FOX News report on Green New Deal (Part 1) features Steve Milloy</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+
+
+
+
+
+			
+			
+
+<article id="post-97015" class="post-97015 post type-post status-publish format-standard hentry category-climate-energy">
+	
+
+
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/" rel="bookmark">Curry Report: Sea-level rise within natural variation of past several thousand years</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>&#8220;There is not yet convincing evidence of a fingerprint on sea level rise associated with human-caused global warming.&#8221;</p>
+<p><img src="https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-15-at-10.55.20-AM-728x445.png" alt="" width="660" height="403" class="aligncenter size-large wp-image-97016" srcset="https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-15-at-10.55.20-AM-728x445.png 728w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-15-at-10.55.20-AM-300x183.png 300w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-15-at-10.55.20-AM-768x469.png 768w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-15-at-10.55.20-AM.png 1596w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p> <a href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/#more-97015" class="more-link">Continue reading <span class="screen-reader-text">Curry Report: Sea-level rise within natural variation of past several thousand years</span></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-97015" class="share-twitter sd-button share-icon" href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-97015" class="share-facebook sd-button share-icon" href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-97015" class="share-linkedin sd-button share-icon" href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-97015" class="share-pinterest sd-button share-icon" href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-15T11:02:00+00:00">February 15, 2019</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="https://junkscience.com/author/junkman90321/">Steve Milloy</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://junkscience.com/category/climate-energy/" rel="category tag">Climate &amp; Energy</a></span><span class="comments-link"><a href="https://junkscience.com/2019/02/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years/#respond">Leave a comment<span class="screen-reader-text"> on Curry Report: Sea-level rise within natural variation of past several thousand years</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+
+
+
+
+
+			
+			
+
+<article id="post-96968" class="post-96968 post type-post status-publish format-standard hentry category-air-quality">
+	
+
+
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/" rel="bookmark">Dr. Dunn comments on the NYTimes claim that London air quality killed a child</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Dr. John Dunn comments on the claim that poor air quality in London caused the tragic death of this child.</p>
+<p><img src="https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-14-at-2.10.59-PM-728x1287.png" alt="" width="660" height="1167" class="aligncenter size-large wp-image-96969" srcset="https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-14-at-2.10.59-PM-728x1287.png 728w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-14-at-2.10.59-PM-300x530.png 300w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-14-at-2.10.59-PM-768x1358.png 768w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-14-at-2.10.59-PM.png 1161w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p> <a href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/#more-96968" class="more-link">Continue reading <span class="screen-reader-text">Dr. Dunn comments on the NYTimes claim that London air quality killed a child</span></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-96968" class="share-twitter sd-button share-icon" href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-96968" class="share-facebook sd-button share-icon" href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-96968" class="share-linkedin sd-button share-icon" href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-96968" class="share-pinterest sd-button share-icon" href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/" rel="bookmark"><time class="entry-date published" datetime="2019-02-14T14:23:02+00:00">February 14, 2019</time><time class="updated" datetime="2019-02-14T14:24:48+00:00">February 14, 2019</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="https://junkscience.com/author/junkman90321/">Steve Milloy</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://junkscience.com/category/air-quality/" rel="category tag">Air Quality</a></span><span class="comments-link"><a href="https://junkscience.com/2019/02/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child/#respond">Leave a comment<span class="screen-reader-text"> on Dr. Dunn comments on the NYTimes claim that London air quality killed a child</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+
+
+
+
+
+			
+			
+
+<article id="post-96935" class="post-96935 post type-post status-publish format-standard hentry category-epa">
+	
+
+
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://junkscience.com/2019/02/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors/" rel="bookmark">WINNING!!! Federal court upholds JunkScience.com-pushed Trump EPA ban of conflicted science advisors</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>A huge win for all of us&#8230; thanks to eight years of advocacy by JunkScience.com. </p>
+<p><img src="https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-12-at-4.51.14-PM-1-728x418.png" alt="" width="660" height="379" class="aligncenter size-large wp-image-96940" srcset="https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-12-at-4.51.14-PM-1-728x418.png 728w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-12-at-4.51.14-PM-1-300x172.png 300w, https://junkscience.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-12-at-4.51.14-PM-1-768x441.png 768w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p> <a href="https://junkscience.com/2019/02/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors/#more-96935" class="more-link">Continue reading <span class="screen-reader-text">WINNING!!! Federal court upholds JunkScience.com-pushed Trump EPA ban of conflicted science advisors</span></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://junkscience.com/2019/02/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://junkscience.com/2019/02/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-96935" class="share-twitter sd-button share-icon" href="https://junkscience.com/2019/02/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-96935" class="share-facebook sd-button share-icon" href="https://junkscience.com/2019/02/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-96935" class="share-linkedin sd-button share-icon" href="https://junkscience.com/2019/02/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-96935" class="share-pinterest sd-button share-icon" href="https://junkscience.com/2019/02/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://junkscience.com/2019/02/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://junkscience.com/2019/02/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://junkscience.com/2019/02/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors/" rel="bookmark"><time class="entry-date published" datetime="2019-02-12T17:01:40+00:00">February 12, 2019</time><time class="updated" datetime="2019-02-13T12:26:13+00:00">February 13, 2019</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="https://junkscience.com/author/junkman90321/">Steve Milloy</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://junkscience.com/category/epa/" rel="category tag">EPA</a></span><span class="comments-link"><a href="https://junkscience.com/2019/02/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors/#respond">Leave a comment<span class="screen-reader-text"> on WINNING!!! Federal court upholds JunkScience.com-pushed Trump EPA ban of conflicted science advisors</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+
+
+
+
+
+			
+			
+
+<article id="post-96884" class="post-96884 post type-post status-publish format-standard hentry category-epa">
+	
+
+
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://junkscience.com/2019/02/epa-smacks-politico-for-fake-news/" rel="bookmark">EPA smacks POLITICO for fake news</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><img src="https://junkscience.com/wp-content/uploads/2019/02/0-728x669.png" alt="" width="660" height="607" class="aligncenter size-large wp-image-96885" srcset="https://junkscience.com/wp-content/uploads/2019/02/0-728x669.png 728w, https://junkscience.com/wp-content/uploads/2019/02/0-300x276.png 300w, https://junkscience.com/wp-content/uploads/2019/02/0-768x705.png 768w, https://junkscience.com/wp-content/uploads/2019/02/0.png 1228w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p> <a href="https://junkscience.com/2019/02/epa-smacks-politico-for-fake-news/#more-96884" class="more-link">Continue reading <span class="screen-reader-text">EPA smacks POLITICO for fake news</span></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://junkscience.com/2019/02/epa-smacks-politico-for-fake-news/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://junkscience.com/2019/02/epa-smacks-politico-for-fake-news/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-96884" class="share-twitter sd-button share-icon" href="https://junkscience.com/2019/02/epa-smacks-politico-for-fake-news/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-96884" class="share-facebook sd-button share-icon" href="https://junkscience.com/2019/02/epa-smacks-politico-for-fake-news/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-96884" class="share-linkedin sd-button share-icon" href="https://junkscience.com/2019/02/epa-smacks-politico-for-fake-news/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-96884" class="share-pinterest sd-button share-icon" href="https://junkscience.com/2019/02/epa-smacks-politico-for-fake-news/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://junkscience.com/2019/02/epa-smacks-politico-for-fake-news/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://junkscience.com/2019/02/epa-smacks-politico-for-fake-news/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://junkscience.com/2019/02/epa-smacks-politico-for-fake-news/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-05T13:00:40+00:00">February 5, 2019</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="https://junkscience.com/author/junkman90321/">Steve Milloy</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://junkscience.com/category/epa/" rel="category tag">EPA</a></span><span class="comments-link"><a href="https://junkscience.com/2019/02/epa-smacks-politico-for-fake-news/#respond">Leave a comment<span class="screen-reader-text"> on EPA smacks POLITICO for fake news</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+
+
+
+
+
+			
+			
+
+<article id="post-96813" class="post-96813 post type-post status-publish format-standard hentry category-climate-energy">
+	
+
+
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://junkscience.com/2019/01/claim-global-warming-to-cause-congenital-heart-defects/" rel="bookmark">Claim: Global warming to cause congenital heart defects</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>It will be the extreme heat&#8230; or so they claim. But&#8230;</p>
+<p><img src="https://junkscience.com/wp-content/uploads/2019/01/JunkScience-0304-728x649.jpg" alt="" width="660" height="588" class="aligncenter size-large wp-image-96815" srcset="https://junkscience.com/wp-content/uploads/2019/01/JunkScience-0304-728x649.jpg 728w, https://junkscience.com/wp-content/uploads/2019/01/JunkScience-0304-300x268.jpg 300w, https://junkscience.com/wp-content/uploads/2019/01/JunkScience-0304-768x685.jpg 768w, https://junkscience.com/wp-content/uploads/2019/01/JunkScience-0304.jpg 1600w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p> <a href="https://junkscience.com/2019/01/claim-global-warming-to-cause-congenital-heart-defects/#more-96813" class="more-link">Continue reading <span class="screen-reader-text">Claim: Global warming to cause congenital heart defects</span></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://junkscience.com/2019/01/claim-global-warming-to-cause-congenital-heart-defects/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://junkscience.com/2019/01/claim-global-warming-to-cause-congenital-heart-defects/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-96813" class="share-twitter sd-button share-icon" href="https://junkscience.com/2019/01/claim-global-warming-to-cause-congenital-heart-defects/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-96813" class="share-facebook sd-button share-icon" href="https://junkscience.com/2019/01/claim-global-warming-to-cause-congenital-heart-defects/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-96813" class="share-linkedin sd-button share-icon" href="https://junkscience.com/2019/01/claim-global-warming-to-cause-congenital-heart-defects/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-96813" class="share-pinterest sd-button share-icon" href="https://junkscience.com/2019/01/claim-global-warming-to-cause-congenital-heart-defects/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://junkscience.com/2019/01/claim-global-warming-to-cause-congenital-heart-defects/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://junkscience.com/2019/01/claim-global-warming-to-cause-congenital-heart-defects/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://junkscience.com/2019/01/claim-global-warming-to-cause-congenital-heart-defects/" rel="bookmark"><time class="entry-date published" datetime="2019-01-30T05:00:59+00:00">January 30, 2019</time><time class="updated" datetime="2019-01-28T12:45:41+00:00">January 28, 2019</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="https://junkscience.com/author/junkman90321/">Steve Milloy</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://junkscience.com/category/climate-energy/" rel="category tag">Climate &amp; Energy</a></span><span class="comments-link"><a href="https://junkscience.com/2019/01/claim-global-warming-to-cause-congenital-heart-defects/#respond">Leave a comment<span class="screen-reader-text"> on Claim: Global warming to cause congenital heart defects</span></a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+
+
+
+
+
+			
+			
+
+<article id="post-96765" class="post-96765 post type-post status-publish format-standard hentry category-climate-energy">
+	
+
+
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://junkscience.com/2019/01/where-particle-physics-intersects-with-climate-science/" rel="bookmark">Where particle physics intersects with &#8216;climate science&#8217;</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>While particle physicists aren&#8217;t trying to destroy our standard of living (as are &#8220;climate scientists&#8221;), this <em>New York Times</em> op-ed inadvertently points out the commonality between particle physics and &#8220;climate science&#8221;.   </p>
+<p> <img src="https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-24-at-9.09.21-AM-728x473.png" alt="" width="660" height="429" class="aligncenter size-large wp-image-96767" srcset="https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-24-at-9.09.21-AM-728x473.png 728w, https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-24-at-9.09.21-AM-300x195.png 300w, https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-24-at-9.09.21-AM-768x499.png 768w, https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-24-at-9.09.21-AM.png 1371w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p> <a href="https://junkscience.com/2019/01/where-particle-physics-intersects-with-climate-science/#more-96765" class="more-link">Continue reading <span class="screen-reader-text">Where particle physics intersects with &#8216;climate science&#8217;</span></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://junkscience.com/2019/01/where-particle-physics-intersects-with-climate-science/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://junkscience.com/2019/01/where-particle-physics-intersects-with-climate-science/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-96765" class="share-twitter sd-button share-icon" href="https://junkscience.com/2019/01/where-particle-physics-intersects-with-climate-science/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-96765" class="share-facebook sd-button share-icon" href="https://junkscience.com/2019/01/where-particle-physics-intersects-with-climate-science/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-96765" class="share-linkedin sd-button share-icon" href="https://junkscience.com/2019/01/where-particle-physics-intersects-with-climate-science/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-96765" class="share-pinterest sd-button share-icon" href="https://junkscience.com/2019/01/where-particle-physics-intersects-with-climate-science/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://junkscience.com/2019/01/where-particle-physics-intersects-with-climate-science/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://junkscience.com/2019/01/where-particle-physics-intersects-with-climate-science/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://junkscience.com/2019/01/where-particle-physics-intersects-with-climate-science/" rel="bookmark"><time class="entry-date published updated" datetime="2019-01-24T09:21:08+00:00">January 24, 2019</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="https://junkscience.com/author/junkman90321/">Steve Milloy</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://junkscience.com/category/climate-energy/" rel="category tag">Climate &amp; Energy</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+
+
+
+
+
+			
+			
+
+<article id="post-96730" class="post-96730 post type-post status-publish format-standard hentry category-miscellaneous">
+	
+
+
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://junkscience.com/2019/01/aaas-chief-admits-scientists-have-destroyed-the-credibility-of-science/" rel="bookmark">AAAS chief admits scientists have destroyed the credibility of science</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Below is a fundraising email just received from Rush Holt, president of the Americans Association for the Advancement of Science (AAAS). As Holt notes (see highlighted section), scientists are so untrustworthy that, well, no one trusts them. JunkScience.com has been pointing out this untrustworthiness for 23 years. Unfortunately, Holt believes the way to repair the reputation of science is to enrich the AAAS so it can lobby Congress for more money for its members. Organized science has become little more than organized crime, where the science mafia steals from taxpayers to fulfill a variety of anti-science, anti-American and immoral agendas. Eisenhower warned of this problem in 1961. The only way to fix it is to get government out of science.  </p>
+<p><img src="https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-22-at-10.28.19-AM-728x1576.png" alt="" width="660" height="1429" class="aligncenter size-large wp-image-96731" srcset="https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-22-at-10.28.19-AM-728x1576.png 728w, https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-22-at-10.28.19-AM-300x649.png 300w, https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-22-at-10.28.19-AM-768x1663.png 768w, https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-22-at-10.28.19-AM.png 873w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://junkscience.com/2019/01/aaas-chief-admits-scientists-have-destroyed-the-credibility-of-science/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://junkscience.com/2019/01/aaas-chief-admits-scientists-have-destroyed-the-credibility-of-science/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-96730" class="share-twitter sd-button share-icon" href="https://junkscience.com/2019/01/aaas-chief-admits-scientists-have-destroyed-the-credibility-of-science/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-96730" class="share-facebook sd-button share-icon" href="https://junkscience.com/2019/01/aaas-chief-admits-scientists-have-destroyed-the-credibility-of-science/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-96730" class="share-linkedin sd-button share-icon" href="https://junkscience.com/2019/01/aaas-chief-admits-scientists-have-destroyed-the-credibility-of-science/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-96730" class="share-pinterest sd-button share-icon" href="https://junkscience.com/2019/01/aaas-chief-admits-scientists-have-destroyed-the-credibility-of-science/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://junkscience.com/2019/01/aaas-chief-admits-scientists-have-destroyed-the-credibility-of-science/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://junkscience.com/2019/01/aaas-chief-admits-scientists-have-destroyed-the-credibility-of-science/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://junkscience.com/2019/01/aaas-chief-admits-scientists-have-destroyed-the-credibility-of-science/" rel="bookmark"><time class="entry-date published updated" datetime="2019-01-22T10:46:52+00:00">January 22, 2019</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="https://junkscience.com/author/junkman90321/">Steve Milloy</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://junkscience.com/category/miscellaneous/" rel="category tag">Miscellaneous</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+
+
+
+
+
+			
+			
+
+<article id="post-96686" class="post-96686 post type-post status-publish format-standard hentry category-radiation">
+	
+
+
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://junkscience.com/2019/01/japanese-atomic-bomb-survivors-live-longer-have-less-cancer/" rel="bookmark">Japanese atomic bomb survivors live longer, have less cancer</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>LNT debunked (again) in this new, landmark paper.</p>
+<p><img src="https://junkscience.com/wp-content/uploads/2019/01/600px-Atomic_bombing_of_Japan.jpg" alt="" width="600" height="356" class="aligncenter size-full wp-image-96690" srcset="https://junkscience.com/wp-content/uploads/2019/01/600px-Atomic_bombing_of_Japan.jpg 600w, https://junkscience.com/wp-content/uploads/2019/01/600px-Atomic_bombing_of_Japan-300x178.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p> <a href="https://junkscience.com/2019/01/japanese-atomic-bomb-survivors-live-longer-have-less-cancer/#more-96686" class="more-link">Continue reading <span class="screen-reader-text">Japanese atomic bomb survivors live longer, have less cancer</span></a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://junkscience.com/2019/01/japanese-atomic-bomb-survivors-live-longer-have-less-cancer/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://junkscience.com/2019/01/japanese-atomic-bomb-survivors-live-longer-have-less-cancer/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-96686" class="share-twitter sd-button share-icon" href="https://junkscience.com/2019/01/japanese-atomic-bomb-survivors-live-longer-have-less-cancer/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-96686" class="share-facebook sd-button share-icon" href="https://junkscience.com/2019/01/japanese-atomic-bomb-survivors-live-longer-have-less-cancer/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-96686" class="share-linkedin sd-button share-icon" href="https://junkscience.com/2019/01/japanese-atomic-bomb-survivors-live-longer-have-less-cancer/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-96686" class="share-pinterest sd-button share-icon" href="https://junkscience.com/2019/01/japanese-atomic-bomb-survivors-live-longer-have-less-cancer/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://junkscience.com/2019/01/japanese-atomic-bomb-survivors-live-longer-have-less-cancer/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://junkscience.com/2019/01/japanese-atomic-bomb-survivors-live-longer-have-less-cancer/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://junkscience.com/2019/01/japanese-atomic-bomb-survivors-live-longer-have-less-cancer/" rel="bookmark"><time class="entry-date published updated" datetime="2019-01-17T14:10:51+00:00">January 17, 2019</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="https://junkscience.com/author/junkman90321/">Steve Milloy</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://junkscience.com/category/radiation/" rel="category tag">Radiation</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+
+
+
+
+
+			
+			
+
+<article id="post-96669" class="post-96669 post type-post status-publish format-standard hentry category-miscellaneous">
+	
+
+
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://junkscience.com/2019/01/nature-milloy-perhaps-the-nations-most-influential-climate-science-contrarian/" rel="bookmark">Nature: Milloy &#8216;perhaps the nation&#8217;s most influential climate science contrarian&#8217;</a></h2>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Boom. The rest of the <em>Nature Climate Change</em> commentary is largely nonsense.</p>
+<p><img src="https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-16-at-11.19.48-AM-728x690.png" alt="" width="660" height="626" class="aligncenter size-large wp-image-96671" srcset="https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-16-at-11.19.48-AM-728x690.png 728w, https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-16-at-11.19.48-AM-300x284.png 300w, https://junkscience.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-16-at-11.19.48-AM-768x728.png 768w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+<p>Source: Nature Climate Change: <a href="https://www.nature.com/articles/s41558-018-0368-6">Web</a> | <a href="https://junkscience.com/wp-content/uploads/2019/01/41558_2018_368_OnlinePDF.pdf">PDF</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li><a href="#" class="sharing-anchor sd-button share-more"><span>Share</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="https://junkscience.com/2019/01/nature-milloy-perhaps-the-nations-most-influential-climate-science-contrarian/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://junkscience.com/2019/01/nature-milloy-perhaps-the-nations-most-influential-climate-science-contrarian/" target="_blank" title="Click to print"><span>Print</span></a></li><li class="share-end"></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-96669" class="share-twitter sd-button share-icon" href="https://junkscience.com/2019/01/nature-milloy-perhaps-the-nations-most-influential-climate-science-contrarian/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-96669" class="share-facebook sd-button share-icon" href="https://junkscience.com/2019/01/nature-milloy-perhaps-the-nations-most-influential-climate-science-contrarian/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-96669" class="share-linkedin sd-button share-icon" href="https://junkscience.com/2019/01/nature-milloy-perhaps-the-nations-most-influential-climate-science-contrarian/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-96669" class="share-pinterest sd-button share-icon" href="https://junkscience.com/2019/01/nature-milloy-perhaps-the-nations-most-influential-climate-science-contrarian/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon" href="https://junkscience.com/2019/01/nature-milloy-perhaps-the-nations-most-influential-climate-science-contrarian/?share=tumblr" target="_blank" title="Click to share on Tumblr"><span>Tumblr</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://junkscience.com/2019/01/nature-milloy-perhaps-the-nations-most-influential-climate-science-contrarian/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://junkscience.com/2019/01/nature-milloy-perhaps-the-nations-most-influential-climate-science-contrarian/" rel="bookmark"><time class="entry-date published" datetime="2019-01-16T11:29:45+00:00">January 16, 2019</time><time class="updated" datetime="2019-01-16T11:47:04+00:00">January 16, 2019</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author </span><a class="url fn n" href="https://junkscience.com/author/junkman90321/">Steve Milloy</a></span></span><span class="cat-links"><span class="screen-reader-text">Categories </span><a href="https://junkscience.com/category/miscellaneous/" rel="category tag">Miscellaneous</a></span>			</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+
+
+
+
+
+
+			
+			
+			
+		
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span aria-current='page' class='page-numbers current'><span class="meta-nav screen-reader-text">Page </span>1</span>
+<a class='page-numbers' href='https://junkscience.com/page/2/'><span class="meta-nav screen-reader-text">Page </span>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://junkscience.com/page/1204/'><span class="meta-nav screen-reader-text">Page </span>1,204</a>
+<a class="next page-numbers" href="https://junkscience.com/page/2/">Next page</a></div>
+	</nav>
+		
+		
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	</div><!-- .site-content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+						<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- .site-footer -->
+
+</div><!-- .site -->
+
+	<div style="display:none">
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/junkscience.com\/2019\/02\/bad-science-may-banish-paper-receipts\/":97202,"https:\/\/junkscience.com\/2019\/02\/fox-news-report-on-green-new-deal-part-4-features-steve-milloy\/":97175,"https:\/\/junkscience.com\/2019\/02\/fox-news-report-on-green-new-deal-features-steve-milloy\/":97131,"https:\/\/junkscience.com\/2019\/02\/curry-report-sea-level-rise-within-natural-variation-of-past-several-thousand-years\/":97015,"https:\/\/junkscience.com\/2019\/02\/dr-dunn-comments-on-the-nytimes-claim-that-london-air-quality-killed-a-child\/":96968,"https:\/\/junkscience.com\/2019\/02\/winning-dc-circuit-upholds-trump-epa-ban-of-conflicted-science-advisors\/":96935,"https:\/\/junkscience.com\/2019\/02\/epa-smacks-politico-for-fake-news\/":96884,"https:\/\/junkscience.com\/2019\/01\/claim-global-warming-to-cause-congenital-heart-defects\/":96813,"https:\/\/junkscience.com\/2019\/01\/where-particle-physics-intersects-with-climate-science\/":96765,"https:\/\/junkscience.com\/2019\/01\/aaas-chief-admits-scientists-have-destroyed-the-credibility-of-science\/":96730,"https:\/\/junkscience.com\/2019\/01\/japanese-atomic-bomb-survivors-live-longer-have-less-cancer\/":96686,"https:\/\/junkscience.com\/2019\/01\/nature-milloy-perhaps-the-nations-most-influential-climate-science-contrarian\/":96669};
+	</script>
+					<div id="sharing_email" style="display: none;">
+		<form action="/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="This field is for validation and should not be changed" />
+			
+			<img style="float: right; display: none" class="loading" src="http://junkscience.com/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201909'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2019Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://junkscience.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.0.3'></script>
+<script type='text/javascript' src='http://junkscience.com/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://junkscience.com/wp-content/themes/twentyfifteen/js/functions.js?ver=20150330'></script>
+<script type='text/javascript' src='http://junkscience.com/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://junkscience.com/wp-includes/js/wp-embed.min.js?ver=5.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://junkscience.com/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=7.0'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-linkedin', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-tumblr', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+				return false;
+			});
+</script>
+<script type='text/javascript' src='https://stats.wp.com/e-201909.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.0',blog:'101630480',post:'0',tz:'-5',srv:'junkscience.com'} ]);
+	_stq.push([ 'clickTrackerInit', '101630480', '0' ]);
+</script>
+
+</body>
+</html>
+
+<!--Generated by Endurance Page Cache-->

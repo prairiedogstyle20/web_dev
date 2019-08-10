@@ -1,0 +1,58 @@
+<html>
+<head>
+  <title>JioXpressNews</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script type="text/javascript">
+    //console.time('deeplink');
+    var timeout;
+    var os = window.navigator.platform;
+    var isChrome = window.navigator.userAgent.indexOf("Chrome") != -1;
+
+    function handleRedirect(openApp, os) {
+      if(openApp){
+	var redirectUrl = "jioxpressnews://xpressnewsapi.media.jio.com/apis?";
+        try {
+	  var urlString = window.location.href;
+          var url = new URL(urlString);
+          redirectUrl = url.searchParams.get("shortUrl");
+	  console.log(redirectUrl)
+	  window.location = redirectUrl;
+	  timeout = setTimeout(function() {
+        	handleRedirect(false, os);
+	  }, 2000);
+        } catch(e) {
+	 // console.log(redirectUrl, '++++++++++++++');
+          window.location.href = redirectUrl;
+        } 
+      } else {
+        if(os=="ios"){
+	  console.log('ios');
+          window.location.href = "itms-apps://itunes.apple.com/in/app/jioxpressnews/id1067320076?mt=8";
+        } else {
+	console.log('android');
+          document.location.href = window.location.href = "market://details?id=com.jio.media.jioxpressnews";
+        }
+      }
+    }
+
+    window.onload = function(){
+      handleRequest();
+    }
+    document.addEventListener("visibilitychange",function(){
+      // alert(document.visibilityState);
+      clearTimeout(timeout);
+      timeout = null;
+    });
+    function handleRequest(){
+      os = (os.indexOf("iP")!=-1)?"ios":"android";
+      handleRedirect(true, os);
+     /* timeout = setTimeout(function() {
+        handleRedirect(false, os);
+      }, 250);*/
+    }
+
+  </script>
+</head>
+<body onclick="handleRequest();" id="body">
+</body>
+</html>

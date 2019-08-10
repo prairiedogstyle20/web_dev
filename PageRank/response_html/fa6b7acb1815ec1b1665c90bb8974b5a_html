@@ -1,0 +1,3632 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- App meta -->
+	<meta name="application-name" content="Exophase" />
+	<link rel="apple-touch-icon" sizes="57x57" href="https://www.exophase.com/assets/zeal/_icons/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="https://www.exophase.com/assets/zeal/_icons/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://www.exophase.com/assets/zeal/_icons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://www.exophase.com/assets/zeal/_icons/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://www.exophase.com/assets/zeal/_icons/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://www.exophase.com/assets/zeal/_icons/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://www.exophase.com/assets/zeal/_icons/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://www.exophase.com/assets/zeal/_icons/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.exophase.com/assets/zeal/_icons/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="https://www.exophase.com/assets/zeal/_icons/android-chrome-192x192.png" sizes="192x192">
+	<link rel="manifest" href="https://www.exophase.com/assets/zeal/_icons/manifest.json">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="msapplication-TileImage" content="https://www.exophase.com/assets/zeal/_icons/mstile-144x144.png">
+	<meta name="theme-color" content="#2884af">
+
+	<link rel="canonical" href="https://www.exophase.com/user/tocacap/" />
+	<title>tocacap&#039;s profile - Exophase.com</title>
+
+	<!-- environment: prod -->
+
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700|Source+Sans+Pro:600,400|Roboto:400,500' rel='stylesheet' type='text/css'>
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="https://www.exophase.com/assets/dist/app.2933ed27.css" />
+
+			<!-- Social -->
+		<meta property="fb:app_id" content="138535879491562" />
+		<meta property="og:site_name" content="Exophase" />
+		<meta property="og:title" content="An overview of tocacap&#039;s gaming activity." />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="https://www.exophase.com/user/tocacap/" />
+		<meta property="og:image" content="https://www.exophase.com/forums/data/avatars/l/57/57181.jpg?1450998664" />
+		<meta property="og:image:alt" content="An overview of tocacap&#039;s gaming activity." />
+		<meta property="og:description" content="An overview of tocacap&#039;s gaming activity. Earned a total of 1,973 trophies/achievements. Last played game was EA SPORTS FIFA 18 on Xbox Live." />
+									<meta name="twitter:card" content="summary" />
+				<meta name="twitter:site" content="@exophase" />
+		<meta name="twitter:title" content="An overview of tocacap&#039;s gaming activity." />
+		<meta name="twitter:description" content="An overview of tocacap&#039;s gaming activity. Earned a total of 1,973 trophies/achievements. Last played game was EA SPORTS FIFA 18 on Xbox Live." />
+		<meta name="twitter:image" content="https://www.exophase.com/forums/data/avatars/l/57/57181.jpg?1450998664" />
+		<meta name="twitter:url" content="https://www.exophase.com/user/tocacap/" />
+	
+
+	<!-- Captcha -->
+
+	
+	<link rel="shortcut icon" href="https://www.exophase.com/assets/zeal/images/favicon.ico" />
+
+	<script>
+
+		var protocol = '',
+		base_url = 'https://www.exophase.com',
+		base_gamercards_url = 'https://gamercards.exophase.com',
+		base_api_url = 'https://api.exophase.com';
+
+		var params = {
+			baseUrl: 'https://www.exophase.com',
+			baseCardUrl: 'https://card.exophase.com',
+			baseApiUrl: 'https://api.exophase.com',
+			baseForumsUrl: 'https://forums.exophase.com',
+			baseForumsApi: 'https://forums.exophase.com/api',
+			baseForumsAccountApi: 'https://forums.exophase.com/api/account'
+		};
+
+		//var baseForumsApi = 'https://forums.exophase.com/api';
+		//var baseForumsAccountApi = 'https://forums.exophase.com/api/account';
+
+					var uid = false;
+			var me = false;
+		
+					var chart = {
+			  categories: ["Xbox","Steam","Non-Tracked"],
+			  data: [{"name":"Xbox","color":"#23844c","y":175},{"name":"Steam","color":"#333333","y":973},{"name":"Non-Tracked","color":"#23844c","y":0}]
+			};
+		
+		var listOrderOverride = 0;
+
+		var priceData = false,
+		preferences = false,
+		services = false,
+		leaderboard_filters = false;
+
+	</script>
+
+						<script type="text/javascript" src="https://n-cdn.areyouahuman.com/play/a3c2693aa8a5bb495f9782afbc476134243f2ab2?AYAH_F1=[oarex_exophase]" defer></script>
+
+			<script type='text/javascript'>
+			  var googletag = googletag || {};
+			  googletag.cmd = googletag.cmd || [];
+			  (function() {
+			    var gads = document.createElement('script');
+			    gads.async = true;
+			    gads.type = 'text/javascript';
+			    var useSSL = 'https:' == document.location.protocol;
+			    gads.src = (useSSL ? 'https:' : 'http:') +
+			      '//www.googletagservices.com/tag/js/gpt.js';
+			    var node = document.getElementsByTagName('script')[0];
+			    node.parentNode.insertBefore(gads, node);
+			  })();
+			</script>
+
+			<script type='text/javascript'>
+			  googletag.cmd.push(function() {
+			    googletag.defineSlot('/13326244/EXO_160x600_D', [160, 600], 'div-gpt-ad-1466196207108-0').addService(googletag.pubads());
+			    googletag.defineSlot('/13326244/EXO_300x250', [300, 250], 'div-gpt-ad-1466196207108-1').addService(googletag.pubads());
+			    googletag.defineSlot('/13326244/EXO_300x250_1_M', [300, 250], 'div-gpt-ad-1466196207108-2').addService(googletag.pubads());
+			    googletag.defineSlot('/13326244/EXO_300x250_2_D', [300, 250], 'div-gpt-ad-1466196207108-3').addService(googletag.pubads());
+			    googletag.defineSlot('/13326244/EXO_300x250_2_M', [300, 250], 'div-gpt-ad-1466196207108-4').addService(googletag.pubads());
+			    googletag.defineSlot('/13326244/EXO_325x50_1_M', [320, 50], 'div-gpt-ad-1466196207108-5').addService(googletag.pubads());
+			    googletag.defineSlot('/13326244/EXO_325x50_2_M', [320, 50], 'div-gpt-ad-1466196207108-6').addService(googletag.pubads());
+			    googletag.defineSlot('/13326244/EXO_728x90', [728, 90], 'div-gpt-ad-1466196207108-7').addService(googletag.pubads());
+			    googletag.defineSlot('/13326244/EXO_1x1', [1, 1], 'div-gpt-ad-1466196207108-8').addService(googletag.pubads());
+			    googletag.enableServices();
+			  });
+			</script>
+			
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-1478270-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+			<script src="https://www.exophase.com/assets/dist/runtime.705273c5.js" defer></script>
+			<script src="https://www.exophase.com/assets/dist/2.d750e41d.js" defer></script>
+			<script src="https://www.exophase.com/assets/dist/fontawesome.45fd24ec.js" defer></script>
+	
+			<script src="https://www.exophase.com/assets/dist/0.fa14b079.js" defer></script>
+			<script src="https://www.exophase.com/assets/dist/1.3fd12438.js" defer></script>
+			<script src="https://www.exophase.com/assets/dist/app.3f76a77e.js" defer></script>
+	
+	<!-- Deferred JS -->
+	
+			<script src="https://www.exophase.com/assets/dist/helpers.9cc7cb5d.js" defer></script>
+	
+	
+</head>
+
+<body class="page page-profile profile-global">
+
+
+<script>
+			var headerImages = '["https:\/\/i.exophase.com\/xbox\/featured\/l\/e61eb.jpg","https:\/\/i.exophase.com\/xbox\/featured\/l\/dgjdd.jpg","https:\/\/i.exophase.com\/xbox\/featured\/l\/11g0e.jpg","https:\/\/i.exophase.com\/xbox\/featured\/l\/e88g4.jpg","https:\/\/i.exophase.com\/xbox\/featured\/l\/41j5b.jpg"]';
+	</script>
+
+<header class="header-wrapper animated">
+
+	<div id="header-elements">
+		<a class="logo" href="https://www.exophase.com/" title="Exophase.com">
+			<span></span>
+		</a>
+
+		<div class="links">
+
+				<ul class="static-menu">
+					<li class="menu link active">
+						<button class="menu-toggle hamburger hamburger--3dx" type="button">
+						  <span class="hamburger-box">
+						    <span class="hamburger-inner"></span>
+						  </span>
+						</button>
+					</li>
+				</ul>
+
+				<ul class="main-navigation">
+					<li><a href="https://www.exophase.com/games/">Games</a></li>
+					<li><a href="https://forums.exophase.com/">Forums</a></li>
+					<li><a href="https://gamercards.exophase.com/">Gamercards</a></li>
+					<li class="drop">
+						<a href="#">Leaderboard</a>
+						<ul>
+							<li><a href="https://www.exophase.com/psn/leaderboard/">PSN</a></li>
+							<li><a href="https://www.exophase.com/xbox/leaderboard/">Xbox Live</a></li>
+							<li><a href="https://www.exophase.com/steam/leaderboard/">Steam</a></li>
+							<li><a href="https://www.exophase.com/gog/leaderboard/">GOG</a></li>
+							<li><a href="https://www.exophase.com/origin/leaderboard/">Origin</a></li>
+							<li><a href="https://www.exophase.com/uplay/leaderboard/">Uplay</a></li>
+							<li><a href="https://www.exophase.com/android/leaderboard/">Google Play</a></li>
+							<li><a href="https://www.exophase.com/retro/leaderboard/">Retro Achievements</a></li>
+						</ul>
+    				</li>
+					<li><a href="https://www.exophase.com/tag/review/">Reviews</a></li>
+				</ul>
+
+				<div class="search">
+
+					<form method="get" id="search_form" action="https://www.exophase.com/search">
+
+						<div class="input-overlay">
+							<input type="text" name="s" id="s" class="swap_value" value="" placeholder="Start typing to search games and articles..." />
+
+							<i class="fa fa-times" aria-hidden="true"></i>
+						</div>
+
+			            <button type="submit" class="search-icon">
+			                <i class="fa fa-rotate-90 fa-search fa-lg"></i>
+			            </button>
+					</form>
+				</div>
+		</div>
+
+		<div class="flex-spacer"></div>
+
+					<div class="top-panel guest">
+				<a href="https://www.exophase.com/login/">Sign Up / Log In</a>
+			</div>
+			</div>
+
+</header>
+
+
+<div id="overlay-wrapper">
+
+	
+			
+			
+	<div class="header-images">
+														<div class="image slide-item" style="background-image: url(https://i.exophase.com/xbox/featured/l/e61eb.jpg);"></div>
+									<div class="image slide-item" style="background-image: url(https://i.exophase.com/xbox/featured/l/dgjdd.jpg);"></div>
+									<div class="image slide-item" style="background-image: url(https://i.exophase.com/xbox/featured/l/11g0e.jpg);"></div>
+									<div class="image slide-item" style="background-image: url(https://i.exophase.com/xbox/featured/l/e88g4.jpg);"></div>
+									<div class="image slide-item" style="background-image: url(https://i.exophase.com/xbox/featured/l/41j5b.jpg);"></div>
+										</div>
+
+</div>
+
+			<div class="ad-skin">
+			<!-- /13326244/EXO_1x1 -->
+			<div id='div-gpt-ad-1466196207108-8' style='height:1px; width:1px;'>
+				<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466196207108-8'); });
+				</script>
+			</div>
+		</div>
+	
+<div id="app" class="container">
+		<div data-editable="0" data-userid="57181" data-playerid="1010919" data-username="tocacap" data-environment="global" id="user-info-header" class="user-header global">
+	<div class="profile-overflow-top">
+		<div class="avatar">
+			<img data-exophase="https://www.exophase.com/forums/data/avatars/l/57/57181.jpg?1450998664" data-steam="" data-xbox="" data-psn="" src="https://www.exophase.com/forums/data/avatars/l/57/57181.jpg?1450998664" />
+		</div>
+
+		<div class="user-details">
+			<h2>tocacap</h2>
+			<span class="status">
+				
+			</span>
+			<span data-psn="" data-xbox="" data-steam="" class="tagline"></span>
+		</div>
+
+
+	</div>
+
+	<div id="sub-user-info">
+
+					<section class="global">
+
+								<div id="progress">
+					<span class="level">32%</span>
+					<span class="progress-bar-outer">
+						<span class="progress-bar-inner" style="width: 32%;"></span>
+					</span>
+				</div>
+				
+									<div id="playtime" style="padding-top: 19px;">
+						<span data-toggle="tooltip" data-placement="top" data-original-title="Cumulative gameplay hours: 1,761" class="tooltip-act playtime"><img src="https://www.exophase.com/assets/zeal/images/time_icon.png" />1,761 hours</span>
+					</div>
+				
+				<div id="award-values" style="padding-left: 10px;">
+					<span class="total-value tooltip-act" data-toggle="tooltip" data-placement="top" data-original-title="Total Trophies and Achievements Earned"><img src="https://www.exophase.com/assets/zeal/images/trophy_general_white.png" />1973</span>
+				</div>
+			</section>
+
+			
+								    <section class="xbox">
+			<div id="progress">
+			<span class="level">33%</span>
+			<span class="progress-bar-outer">
+				<span class="progress-bar-inner" style="width: 33%;"></span>
+			</span>
+		</div>
+	
+			<div id="ranking" class="tooltip-act" data-toggle="tooltip" data-placement="top" title="This user is not ranked due to achievements that may have been earned through game hacking or other illegitimate means" style="padding-top: 19px;">
+			<span class="global-ranking"><img src="https://www.exophase.com/assets/zeal/images/world.png" />Not Ranked</span>
+		</div>
+	
+			<div id="playtime" style="padding-left: 20px; padding-top: 19px;">
+			<span data-toggle="tooltip" data-placement="top" data-original-title="Xbox One gameplay hours: 1,732" class="tooltip-act playtime"><img src="https://www.exophase.com/assets/zeal/images/time_icon.png" />1,732 hours</span>
+		</div>
+	
+	<div id="award-values">
+
+		<span data-toggle="tooltip" data-placement="top" data-original-title="Gamerscore Earned: 12,256" class="tooltip-act gamerscore-value xbox-points">12,256</span>
+
+		<span data-toggle="tooltip" data-placement="top" data-original-title="Achievements Earned: 1,927" class="tooltip-act awards-value"><img src="https://www.exophase.com/assets/zeal/images/trophy_general_white.png" />1,927</span>
+
+					<span data-toggle="tooltip" data-placement="top" data-original-title="Challenges Earned: 155" class="tooltip-act challenges-value"><img src="https://www.exophase.com/assets/zeal/images/xbox_challenge_icon.png" />155</span>
+			</div>
+</section>
+			    
+		    
+								    <section class="steam">
+		<div id="progress">
+		<span class="level">12%</span>
+		<span class="progress-bar-outer">
+			<span class="progress-bar-inner" style="width: 12%;"></span>
+		</span>
+	</div>
+	
+		<div id="ranking" style="padding-top: 19px">
+		<span class="global-ranking"><img src="https://www.exophase.com/assets/zeal/images/world.png" />52,138</span>
+	</div>
+	
+			<div id="playtime" style="padding-left: 20px; padding-top: 19px;">
+			<span data-toggle="tooltip" data-placement="top" data-original-title="Steam Gameplay Hours: 29" class="tooltip-act playtime"><img src="https://www.exophase.com/assets/zeal/images/time_icon.png" />29 hours</span>
+		</div>
+	
+	
+	<div id="award-values">
+		<span class="awards-value"><img src="https://www.exophase.com/assets/zeal/images/trophy_general_white.png" />46</span>
+	</div>
+</section>
+			    
+		    
+				
+		    		
+	</div>
+
+	
+</div>
+
+	<ul id="award-overview" class="row">
+									<li data-endpoint="https://www.exophase.com/xbox/user/WWE%20Leyend/" data-environment="xbox" class="col xbox service-widget">
+					<div class="info">
+						<span class="big">1,927</span>
+						<span class="sub">Xbox</span>
+					</div>
+				</li>
+
+																<li data-endpoint="https://www.exophase.com/steam/user/joaquinwee/" data-environment="steam" class="col steam service-widget">
+					<div class="info">
+						<span class="big">46</span>
+						<span class="sub">Steam</span>
+					</div>
+				</li>
+
+															</ul>
+
+<div class="ad-general ad-leaderboard">
+			<!-- /13326244/EXO_728x90 -->
+		<div id='div-gpt-ad-1466196207108-7' style='height:90px; width:728px;'>
+		<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466196207108-7'); });
+		</script>
+		</div>
+	</div>
+
+	<div class="row user-container">
+
+				<div class="col-sm-12 col-md-7 col-lg-8">
+
+			<div class="default_order sort form-row align-items-center overview-options">
+
+				<div class="search-games">
+					<form>
+						<input type="text" id="search-games" name="query" value="" placeholder="Search game list...">
+						<div class="icon">
+							<i class="fas fa-times" aria-hidden="true"></i>
+						</div>
+					</form>
+				</div>
+
+				<div class="col-xs-12 col-sm-4 col-lg-3 mb-4 mb-sm-auto">
+					<div class="menu-fold menu-order">
+						<div class="icon">
+							<i class="fas fa-random"></i>
+						</div>
+						<ul>
+							<li><span>Sort</span>
+							<ul data-selected="1" class="sub-items" data-key="sort">
+								<li data-value="1">Last Played</li>
+								<li data-value="2">Earned Awards</li>
+								<li data-value="3">Completion Date</li>
+								<li data-value="7">Average Progress</li>
+								<li data-value="4">Hours Played</li>
+								<li data-value="5">Alphabetical (A-Z)</li>
+								<li data-value="6">Alphabetical (Z-A)</li>
+							</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+								<div class="col-xs-12 col-sm-4 col-lg-3 mb-4 mb-sm-auto">
+					<div class="menu-fold menu-platforms">
+						<div class="icon">
+							<i class="fas fa-gamepad"></i>
+						</div>
+						<ul>
+							<li>
+							<span>Platform</span>
+								<ul data-selected="global" class="sub-items" data-key="env">
+									<li data-playerid="1010919" data-value="global">All</li>
+																			<li data-playerid="645720" data-value="xbox">Xbox</li>
+																			<li data-playerid="889818" data-value="steam">Steam</li>
+																			<li data-playerid="1010919" data-value="legacy">Non-Tracked</li>
+																	</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+				
+				
+				<div class="additional-controls col-xs-12 col-sm-12 col-lg-3 ml-auto">
+					<button type="button" class="btn btn-base-transparent btn-search"><i class="fa fa-search" aria-hidden="true"></i></button>
+
+									</div>
+			</div>
+
+			<div class="collapse" id="additionalControls">
+				<div class="jumbotron">
+
+					<div class="form-check form-check-inline">
+						<label class="form-check-label">
+							<input type="checkbox" class="show-hidden form-check-input" name="privacy_level" value="1"> Show hidden games
+						</label>
+					</div>
+
+					<span class="help-block">
+						<p>Show games you have previously hidden from your profile page. They will appear at the top of your list, in case you wish to edit them.</p>
+
+						<p>Note that this cannot show games you have hidden on the services themselves.</p>
+					</span>
+				</div>
+			</div>
+
+			<ul class="list-unordered-base overview">
+				<div id="preloader_wrapper">
+					<div id="preloader_main"><span>Loading</span><img src="//www.exophase.com/assets/wyndia/images/ajax-loader.gif" /></div>
+					<div id="preloader_base"></div>
+				</div>
+									<li data-completion="0" data-lastplayed="1551194041" data-playtime="1234.9" data-env="xbox" data-gameid="19326" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/e61eb.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/ea-sports-fifa-18-xbox/achievements/#645720">EA SPORTS FIFA 18</a>
+															</h3>
+
+							
+						        						          <span data-playtime="1234.9" style="display: block;"><span class="count">34</span> out of <span class="count">44</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 1234.9 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">34</span>
+									
+																			<span class="points-value">650</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="77" aria-valuemin="0" aria-valuemax="100" style="width: 77%;">
+									<span>77%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">February 26, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1551105639" data-playtime="0" data-env="xbox" data-gameid="2937" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/dgjdd.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/minecraft-xbox-360/achievements/#645720">Minecraft</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">0</span> out of <span class="count">93</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">February 25, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1550703647" data-playtime="0.77" data-env="xbox" data-gameid="14531" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/11g0e.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/wrc-6-fia-world-rally-championship-xbox-one/achievements/#645720">WRC 6 FIA World Rally Championship</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0.77" style="display: block;"><span class="count">2</span> out of <span class="count">41</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 0.77 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">2</span>
+									
+																			<span class="points-value">10</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 5%;">
+									<span>5%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">February 20, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1550368190" data-playtime="184.9" data-env="xbox" data-gameid="14312" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/e88g4.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/forza-horizon-3-windows/achievements/#645720">Forza Horizon 3</a>
+															</h3>
+
+							
+						        						          <span data-playtime="184.9" style="display: block;"><span class="count">53</span> out of <span class="count">135</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 184.9 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Windows 10</div>
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">53</span>
+									
+																			<span class="points-value">1050</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="39" aria-valuemin="0" aria-valuemax="100" style="width: 39%;">
+									<span>39%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">February 17, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1550368182" data-playtime="2.8" data-env="xbox" data-gameid="7314" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/41j5b.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/forza-horizon-2-xbox-one/achievements/#645720">Forza Horizon 2</a>
+															</h3>
+
+							
+						        						          <span data-playtime="2.8" style="display: block;"><span class="count">11</span> out of <span class="count">88</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 2.8 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">11</span>
+									
+																			<span class="points-value">155</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="13" aria-valuemin="0" aria-valuemax="100" style="width: 13%;">
+									<span>13%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">February 17, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1550367916" data-playtime="0" data-env="xbox" data-gameid="18204" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/e61gb.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/fortnite-xbox/achievements/#645720">Fortnite</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">0</span> out of <span class="count">45</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">February 17, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1549907736" data-playtime="16.25" data-env="xbox" data-gameid="10588" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/654g6.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/wwe-2k16-xbox-one/achievements/#645720">WWE 2K16</a>
+															</h3>
+
+							
+						        						          <span data-playtime="16.25" style="display: block;"><span class="count">10</span> out of <span class="count">55</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 16.25 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">10</span>
+									
+																			<span class="points-value">170</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="18" aria-valuemin="0" aria-valuemax="100" style="width: 18%;">
+									<span>18%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">February 11, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1549864907" data-playtime="0.32" data-env="xbox" data-gameid="176537" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/e788j.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/apex-legends-xbox/achievements/#645720">Apex Legends</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0.32" style="display: block;"><span class="count">0</span> out of <span class="count">12</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 0.32 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">February 11, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1548945904" data-playtime="0" data-env="xbox" data-gameid="1785" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/95gb1.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/plants-vs-zombies-xbox-360/achievements/#645720">Plants vs. Zombies</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">2</span> out of <span class="count">12</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">2</span>
+									
+																			<span class="points-value">30</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="17" aria-valuemin="0" aria-valuemax="100" style="width: 17%;">
+									<span>17%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">January 31, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1548944149" data-playtime="34.2" data-env="xbox" data-gameid="11501" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/63060.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/roblox-xbox-one/achievements/#645720">ROBLOX</a>
+															</h3>
+
+							
+						        						          <span data-playtime="34.2" style="display: block;"><span class="count">7</span> out of <span class="count">11</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 34.2 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">7</span>
+									
+																			<span class="points-value">505</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="64" aria-valuemin="0" aria-valuemax="100" style="width: 64%;">
+									<span>64%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">January 31, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1548692171" data-playtime="2.67" data-env="xbox" data-gameid="13633" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/4b64e.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/overcooked-xbox-one/achievements/#645720">Overcooked</a>
+															</h3>
+
+							
+						        						          <span data-playtime="2.67" style="display: block;"><span class="count">5</span> out of <span class="count">11</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 2.67 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">5</span>
+									
+																			<span class="points-value">231</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%;">
+									<span>45%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">January 28, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1548432189" data-playtime="5.17" data-env="xbox" data-gameid="163713" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/bbdg0.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	FIFA 19 Demo
+															</h3>
+
+							
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 5.17 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox Live</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+							
+														<div class="lastplayed">January 25, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1547754514" data-playtime="0" data-env="xbox" data-gameid="2114" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/96bg0.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/modern-warfare-3-xbox-360/achievements/#645720">Modern Warfare 3</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">17</span> out of <span class="count">76</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">17</span>
+									
+																			<span class="points-value">200</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="22" aria-valuemin="0" aria-valuemax="100" style="width: 22%;">
+									<span>22%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">January 17, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1547679503" data-playtime="0" data-env="xbox" data-gameid="5370" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/65304.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/wwe-2k14-xbox/achievements/#645720">WWE 2K14</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">24</span> out of <span class="count">41</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">24</span>
+									
+																			<span class="points-value">20</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="59" aria-valuemin="0" aria-valuemax="100" style="width: 59%;">
+									<span>59%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">January 16, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1547677636" data-playtime="0" data-env="xbox" data-gameid="1195" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/2g4b9.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/borderlands-xbox-360/achievements/#645720">Borderlands</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">41</span> out of <span class="count">80</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">41</span>
+									
+																			<span class="points-value">780</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="51" aria-valuemin="0" aria-valuemax="100" style="width: 51%;">
+									<span>51%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">January 16, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1547677239" data-playtime="5.42" data-env="xbox" data-gameid="11850" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/36537.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/trackmania-turbo-xbox-one/achievements/#645720">Trackmania Turbo</a>
+															</h3>
+
+							
+						        						          <span data-playtime="5.42" style="display: block;"><span class="count">12</span> out of <span class="count">48</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 5.42 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">12</span>
+									
+																			<span class="points-value">180</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" style="width: 25%;">
+									<span>25%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">January 16, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1547672971" data-playtime="0" data-env="xbox" data-gameid="167896" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/1d5dj.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/brawlhalla-xbox/achievements/#645720">Brawlhalla</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">0</span> out of <span class="count">39</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">January 16, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1547672935" data-playtime="0.4" data-env="xbox" data-gameid="11562" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/363dj.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/cobalt-xbox-one/achievements/#645720">Cobalt</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0.4" style="display: block;"><span class="count">9</span> out of <span class="count">50</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 0.4 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">9</span>
+									
+																			<span class="points-value">110</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="18" aria-valuemin="0" aria-valuemax="100" style="width: 18%;">
+									<span>18%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">January 16, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1547510362" data-playtime="13" data-env="xbox" data-gameid="5723" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/j5e47.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/forza-motorsport-5-xbox/achievements/#645720">Forza Motorsport 5</a>
+															</h3>
+
+							
+						        						          <span data-playtime="13" style="display: block;"><span class="count">14</span> out of <span class="count">98</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 13 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">14</span>
+									
+																			<span class="points-value">271</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="14" aria-valuemin="0" aria-valuemax="100" style="width: 14%;">
+									<span>14%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">January 14, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1546371290" data-playtime="0.53" data-env="steam" data-gameid="4020" class="row no-gutters p-3 align-items-center t1 partial game-visible steam">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/steam/games/m/9d1b2.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/counter-strike-global-offensive-steam/achievements/#889818">Counter-Strike: Global Offensive</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0.53" style="display: block;"><span class="count">0</span> out of <span class="count">167</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 0.53 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="steam-profile-pf inline-pf">Steam</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">January 1, 2019</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1545442343" data-playtime="0" data-env="xbox" data-gameid="1228" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/9eee4.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/saints-row-2-xbox-360/achievements/#645720">Saints Row 2</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">0</span> out of <span class="count">60</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">December 22, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1545064887" data-playtime="0" data-env="xbox" data-gameid="4840" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/j5568.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/far-cry-3-blood-dragon-xbox/achievements/#645720">Far Cry 3: Blood Dragon</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">4</span> out of <span class="count">19</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">4</span>
+									
+																			<span class="points-value">80</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="21" aria-valuemin="0" aria-valuemax="100" style="width: 21%;">
+									<span>21%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">December 17, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1545002845" data-playtime="0" data-env="xbox" data-gameid="3405" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/13383.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/borderlands-2-xbox-360/achievements/#645720">Borderlands 2</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">67</span> out of <span class="count">69</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">67</span>
+									
+																			<span class="points-value">1565</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="0" aria-valuemax="100" style="width: 97%;">
+									<span>97%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">December 16, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1544921608" data-playtime="2.5" data-env="xbox" data-gameid="8803" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/b6jjd.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/project-cars-xbox-one/achievements/#645720">Project CARS</a>
+															</h3>
+
+							
+						        						          <span data-playtime="2.5" style="display: block;"><span class="count">2</span> out of <span class="count">45</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 2.5 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">2</span>
+									
+																			<span class="points-value">25</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="4" aria-valuemin="0" aria-valuemax="100" style="width: 4%;">
+									<span>4%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">December 16, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1544753684" data-playtime="0" data-env="xbox" data-gameid="2929" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/gj0jg.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/sniper-elite-v2-xbox-360/achievements/#645720">Sniper Elite V2</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">0</span> out of <span class="count">41</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">December 14, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1544539993" data-playtime="4.23" data-env="xbox" data-gameid="6465" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/j518e.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/watch_dogs-xbox/achievements/#645720">WATCH_DOGS</a>
+															</h3>
+
+							
+						        						          <span data-playtime="4.23" style="display: block;"><span class="count">1</span> out of <span class="count">48</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 4.23 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">1</span>
+									
+																			<span class="points-value">15</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100" style="width: 2%;">
+									<span>2%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">December 11, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1544539957" data-playtime="3.28" data-env="xbox" data-gameid="8138" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/b6j36.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/saints-row-iv-re-elected-xbox-one/achievements/#645720">Saints Row IV: Re-Elected</a>
+															</h3>
+
+							
+						        						          <span data-playtime="3.28" style="display: block;"><span class="count">8</span> out of <span class="count">70</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 3.28 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">8</span>
+									
+																			<span class="points-value">110</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="11" aria-valuemin="0" aria-valuemax="100" style="width: 11%;">
+									<span>11%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">December 11, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1544539861" data-playtime="33.45" data-env="xbox" data-gameid="8901" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/g3d16.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/call-of-duty-black-ops-iii-xbox-one/achievements/#645720">Call of Duty: Black Ops III</a>
+															</h3>
+
+							
+						        						          <span data-playtime="33.45" style="display: block;"><span class="count">4</span> out of <span class="count">98</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 33.45 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">4</span>
+									
+																			<span class="points-value">60</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="4" aria-valuemin="0" aria-valuemax="100" style="width: 4%;">
+									<span>4%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">December 11, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1544539814" data-playtime="3.38" data-env="xbox" data-gameid="14615" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/4b1d0.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/battlefield-1-xbox-one/achievements/#645720">Battlefield 1</a>
+															</h3>
+
+							
+						        						          <span data-playtime="3.38" style="display: block;"><span class="count">2</span> out of <span class="count">50</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 3.38 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">2</span>
+									
+																			<span class="points-value">20</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="4" aria-valuemin="0" aria-valuemax="100" style="width: 4%;">
+									<span>4%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">December 11, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1544539783" data-playtime="4.2" data-env="xbox" data-gameid="5735" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/53g43.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/battlefield-4-xbox-2/achievements/#645720">Battlefield 4</a>
+															</h3>
+
+							
+						        						          <span data-playtime="4.2" style="display: block;"><span class="count">4</span> out of <span class="count">67</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 4.2 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">4</span>
+									
+																			<span class="points-value">90</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="6" aria-valuemin="0" aria-valuemax="100" style="width: 6%;">
+									<span>6%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">December 11, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1544539621" data-playtime="27.18" data-env="xbox" data-gameid="7756" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/10edg.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/grand-theft-auto-v-xbox-one/achievements/#645720">Grand Theft Auto V</a>
+															</h3>
+
+							
+						        						          <span data-playtime="27.18" style="display: block;"><span class="count">32</span> out of <span class="count">77</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 27.18 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">32</span>
+									
+																			<span class="points-value">535</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="42" aria-valuemin="0" aria-valuemax="100" style="width: 42%;">
+									<span>42%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">December 11, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1542825339" data-playtime="0" data-env="xbox" data-gameid="7252" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/65beg.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/fifa-15-xbox-360/achievements/#645720">FIFA 15</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">0</span> out of <span class="count">38</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">November 21, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1542507671" data-playtime="0" data-env="xbox" data-gameid="13984" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/b4380.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/livelock-xbox-one/achievements/#645720">Livelock</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">0</span> out of <span class="count">50</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">November 18, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1542335642" data-playtime="0.45" data-env="xbox" data-gameid="31625" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/56070.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/playerunknowns-battlegrounds-xbox/achievements/#645720">PLAYERUNKNOWN&#039;S BATTLEGROUNDS</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0.45" style="display: block;"><span class="count">0</span> out of <span class="count">37</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 0.45 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">November 16, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1542331007" data-playtime="0" data-env="xbox" data-gameid="139093" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/j8d01.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/war-thunder-xbox/achievements/#645720">War Thunder</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">0</span> out of <span class="count">13</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">November 16, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1542326979" data-playtime="0" data-env="xbox" data-gameid="1782" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/21j1j.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/mafia-ii-xbox-360/achievements/#645720">Mafia II</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">7</span> out of <span class="count">67</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">7</span>
+									
+																			<span class="points-value">90</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+									<span>10%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">November 16, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1541210056" data-playtime="7.93" data-env="xbox" data-gameid="17688" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/0b364.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/crossout-xbox/achievements/#645720">Crossout</a>
+															</h3>
+
+							
+						        						          <span data-playtime="7.93" style="display: block;"><span class="count">1</span> out of <span class="count">13</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 7.93 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">1</span>
+									
+																			<span class="points-value">50</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="8" aria-valuemin="0" aria-valuemax="100" style="width: 8%;">
+									<span>8%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">November 3, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="1503617371" data-lastplayed="1540508492" data-playtime="0" data-env="xbox" data-gameid="1920" class="row no-gutters p-3 align-items-center t1 complete game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/91105.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/dirt-3-xbox-360/achievements/#645720">DiRT 3</a>
+															</h3>
+
+							
+						        						          <span class="greentxt2" style="display:block">Completed  on August 24, 2017</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">60</span>
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;">
+									<span>100%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">October 25, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1540392234" data-playtime="0" data-env="xbox" data-gameid="3880" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/8j547.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/crysis-3-xbox/achievements/#645720">Crysis 3</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">1</span> out of <span class="count">60</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">1</span>
+									
+																			<span class="points-value">20</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100" style="width: 2%;">
+									<span>2%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">October 24, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1540390466" data-playtime="0" data-env="xbox" data-gameid="164073" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/1eb0b.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/warface-xbox/achievements/#645720">Warface</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">1</span> out of <span class="count">37</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">1</span>
+									
+																			<span class="points-value">15</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="3" aria-valuemin="0" aria-valuemax="100" style="width: 3%;">
+									<span>3%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">October 24, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1539267274" data-playtime="5.8" data-env="xbox" data-gameid="10068" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/1046d.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/ea-sports-fifa-16-xbox-one/achievements/#645720">EA SPORTS FIFA 16</a>
+															</h3>
+
+							
+						        						          <span data-playtime="5.8" style="display: block;"><span class="count">9</span> out of <span class="count">48</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 5.8 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">9</span>
+									
+																			<span class="points-value">145</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="19" aria-valuemin="0" aria-valuemax="100" style="width: 19%;">
+									<span>19%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">October 11, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1537757972" data-playtime="0.4" data-env="xbox" data-gameid="12844" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/4bbe0.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/apb-reloaded-xbox-one/achievements/#645720">APB Reloaded</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0.4" style="display: block;"><span class="count">0</span> out of <span class="count">13</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 0.4 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">September 24, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1537318280" data-playtime="11.67" data-env="xbox" data-gameid="6331" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/41667.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/trials-fusion-xbox/achievements/#645720">Trials Fusion</a>
+															</h3>
+
+							
+						        						          <span data-playtime="11.67" style="display: block;"><span class="count">4</span> out of <span class="count">51</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 11.67 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">4</span>
+									
+																			<span class="points-value">140</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="8" aria-valuemin="0" aria-valuemax="100" style="width: 8%;">
+									<span>8%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">September 19, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1537317183" data-playtime="0" data-env="xbox" data-gameid="3666" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/b865b.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/sonic-all-stars-racing-transformed-xbox/achievements/#645720">Sonic &amp; All-Stars Racing Transformed</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">10</span> out of <span class="count">50</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">10</span>
+									
+																			<span class="points-value">135</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%;">
+									<span>20%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">September 19, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1536876892" data-playtime="0.1" data-env="xbox" data-gameid="15566" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/63gde.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/trove-xbox-one/achievements/#645720">Trove</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0.1" style="display: block;"><span class="count">0</span> out of <span class="count">40</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 0.1 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">September 13, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1535511358" data-playtime="0.38" data-env="xbox" data-gameid="9828" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/d1e30.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/zombi-xbox-one/achievements/#645720">ZOMBI</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0.38" style="display: block;"><span class="count">2</span> out of <span class="count">20</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 0.38 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">2</span>
+									
+																			<span class="points-value">20</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;">
+									<span>10%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">August 29, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1535505438" data-playtime="40.75" data-env="xbox" data-gameid="7816" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/65e8j.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/the-crew-xbox-one/achievements/#645720">The Crew</a>
+															</h3>
+
+							
+						        						          <span data-playtime="40.75" style="display: block;"><span class="count">24</span> out of <span class="count">50</span> achievements</span>
+						        
+						    
+															<span class="hours" style="display: block;"><i class="far fa-clock"></i> 40.75 hours played</span>
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox One</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">24</span>
+									
+																			<span class="points-value">345</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="48" aria-valuemin="0" aria-valuemax="100" style="width: 48%;">
+									<span>48%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">August 29, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1535257287" data-playtime="0" data-env="xbox" data-gameid="6529" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/65g53.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/sacred-3-xbox/achievements/#645720">Sacred 3</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">4</span> out of <span class="count">45</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">4</span>
+									
+																			<span class="points-value">55</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="9" aria-valuemin="0" aria-valuemax="100" style="width: 9%;">
+									<span>9%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">August 26, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1535247103" data-playtime="0" data-env="xbox" data-gameid="1101" class="row no-gutters p-3 align-items-center t0 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/25g82.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/aegis-wing-xbox-360/achievements/#645720">Aegis Wing</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">0</span> out of <span class="count">12</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+									
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+									<span>0%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">August 26, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+									<li data-completion="0" data-lastplayed="1535242557" data-playtime="0" data-env="xbox" data-gameid="1701" class="row no-gutters p-3 align-items-center t1 partial game-visible xbox">
+
+						<div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+							<img src="https://i.exophase.com/xbox/games/m/9e10e.png" />
+						</div>
+
+						<div class="col game-info">
+							<h3 class="game-db-title">
+																	<a href="https://www.exophase.com/game/lego-indiana-jones-2-xbox-360/achievements/#645720">LEGO Indiana Jones 2</a>
+															</h3>
+
+							
+						        						          <span data-playtime="0" style="display: block;"><span class="count">1</span> out of <span class="count">38</span> achievements</span>
+						        
+						    
+							
+															<div style="display: inline-block; line-height: 1.3 !important;" class="xbox-profile-pf inline-pf">Xbox 360</div>
+													</div>
+
+						<div class="w-100 d-md-none"></div>
+
+						<div class="col ml-auto pr-0 game-progress">
+														<div class="holders">
+								<div class="holder-wrapper">
+									
+									
+									
+									
+																			<span class="total" alt="Achievement Count">1</span>
+									
+																			<span class="points-value">15</span>
+																	</div>
+							</div>
+							<div class="progress">
+								<div class="progress-bar" role="progressbar" aria-valuenow="3" aria-valuemin="0" aria-valuemax="100" style="width: 3%;">
+									<span>3%</span>
+								</div>
+							</div>
+							
+														<div class="lastplayed">August 26, 2018</div>
+							
+						</div>
+
+
+						<div style="clear:both"></div>
+					</li>
+							</ul>
+		</div>
+
+		<div class="sidebar-primary col-sm-12 col-md-5 col-lg-4">
+
+			
+				<h2 class="section-heading">Platform Distribution</h2>
+	<div class="chart-platform-totals" id="platform-distribution"></div>
+
+<div class="ad-general">
+	<a target="_blank" href="https://survey.zohopublic.com/zs/oiBUVB">
+		<img src="https://www.exophase.com/i/2017/09/EG-Readership-Survey-Image.jpg" />
+	</a>
+</div>
+
+<div>
+	<div class="ad-general">
+					<!-- /13326244/EXO_300x250 -->
+			<div id='div-gpt-ad-1466196207108-1' style='height:250px; width:300px;'>
+			<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466196207108-1'); });
+			</script>
+			</div>
+			</div>
+</div>
+
+	<div>
+		<h2 class="section-heading">Recent Achievements</h2>
+
+		<ul class="bits awards">
+						<li class="game-side-item">
+
+					<a class="tooltip-act" data-html="true" data-toggle="tooltip" data-placement="left" title="<p><strong>Forza Horizon 3</strong></p><p>Complete a Championship to win the Porsche 918 Spyder</p><p><strong>0.91%</strong> of players on the site have earned</p>" href="https://www.exophase.com/achievement/forza-horizon-3-windows/171711-forzathon-electric-performance/#645720" style="text-decoration: none">
+						<img class="sidebar-award" src="https://i.exophase.com/xbox/awards/s/8e151b.png" />
+						<span class="trophy-side-title bronzetxt">#Forzathon Electric Performance
+						</span>
+
+						<div class="bottom-bar">
+							<span class="sidebar-timestamp">February 8, 2019, 4:07 am</span>
+						</div>
+					</a>
+				</li>
+						<li class="game-side-item">
+
+					<a class="tooltip-act" data-html="true" data-toggle="tooltip" data-placement="left" title="<p><strong>Forza Horizon 3</strong></p><p>Complete 2500 Races or Ultimate Skills</p><p><strong>5.18%</strong> of players on the site have earned</p>" href="https://www.exophase.com/achievement/forza-horizon-3-windows/171717-forzathon-and-thanks-for-all-the-drifts/#645720" style="text-decoration: none">
+						<img class="sidebar-award" src="https://i.exophase.com/xbox/awards/s/d4j0gj.png" />
+						<span class="trophy-side-title bronzetxt">#Forzathon And Thanks For All The Drifts
+						</span>
+
+						<div class="bottom-bar">
+							<span class="sidebar-timestamp">February 2, 2019, 11:10 pm</span>
+						</div>
+					</a>
+				</li>
+						<li class="game-side-item">
+
+					<a class="tooltip-act" data-html="true" data-toggle="tooltip" data-placement="left" title="<p><strong>Forza Horizon 3</strong></p><p>Complete 1500 Races or Kangaroo Skills</p><p><strong>2.85%</strong> of players on the site have earned</p>" href="https://www.exophase.com/achievement/forza-horizon-3-windows/171715-forzathon-see-you-horizon-boss/#645720" style="text-decoration: none">
+						<img class="sidebar-award" src="https://i.exophase.com/xbox/awards/s/be7g71.png" />
+						<span class="trophy-side-title bronzetxt">#Forzathon See You Horizon Boss
+						</span>
+
+						<div class="bottom-bar">
+							<span class="sidebar-timestamp">February 2, 2019, 11:10 pm</span>
+						</div>
+					</a>
+				</li>
+						<li class="game-side-item">
+
+					<a class="tooltip-act" data-html="true" data-toggle="tooltip" data-placement="left" title="<p><strong>Forza Horizon 3</strong></p><p>Earn 3 Stars on a Speed Trap to receive 35,000 XP</p><p><strong>0.74%</strong> of players on the site have earned</p>" href="https://www.exophase.com/achievement/forza-horizon-3-windows/167012-forzathon-bye-bye/#645720" style="text-decoration: none">
+						<img class="sidebar-award" src="https://i.exophase.com/xbox/awards/s/e85d1e.png" />
+						<span class="trophy-side-title bronzetxt">#Forzathon Bye-Bye
+						</span>
+
+						<div class="bottom-bar">
+							<span class="sidebar-timestamp">January 28, 2019, 5:48 pm</span>
+						</div>
+					</a>
+				</li>
+						<li class="game-side-item">
+
+					<a class="tooltip-act" data-html="true" data-toggle="tooltip" data-placement="left" title="<p><strong>WRC 6 FIA World Rally Championship</strong></p><p>Completed your first Stage in solo mode</p><p><strong>93.97%</strong> of players on the site have earned</p>" href="https://www.exophase.com/achievement/wrc-6-fia-world-rally-championship-xbox-one/128275-newcomer/#645720" style="text-decoration: none">
+						<img class="sidebar-award" src="https://i.exophase.com/xbox/awards/s/0jb17j.png" />
+						<span class="trophy-side-title bronzetxt">Newcomer
+						</span>
+
+						<div class="bottom-bar">
+							<span class="sidebar-timestamp">January 20, 2019, 10:11 pm</span>
+						</div>
+					</a>
+				</li>
+				</ul>
+	</div>
+
+	<div>
+		<h2 class="section-heading">Rarest Achievements Earned</h2>
+
+		<ul class="bits awards">
+						<li class="game-side-item">
+
+					<a class="tooltip-act" data-html="true" data-toggle="tooltip" data-placement="left" title="<p><strong>Worms Ultimate Mayhem</strong></p><p>Beaten all the challenge times</p><p><strong>0.21%</strong> of players on the site have earned</p>" href="https://www.exophase.com/achievement/worms-ultimate-mayhem-xbox-360/55251-clock-watching/#645720" style="text-decoration: none">
+						<img class="sidebar-award" src="https://i.exophase.com/xbox/awards/s/ee0e0e.png" />
+						<span class="trophy-side-title bronzetxt">Clock Watching  
+						</span>
+
+						<div class="bottom-bar">
+							<span class="sidebar-timestamp">December 13, 1901, 8:45 pm</span>
+						</div>
+					</a>
+				</li>
+						<li class="game-side-item">
+
+					<a class="tooltip-act" data-html="true" data-toggle="tooltip" data-placement="left" title="<p><strong>Fire Pro Wrestling</strong></p><p>You have played all of the Bonus Stages.</p><p><strong>0.22%</strong> of players on the site have earned</p>" href="https://www.exophase.com/achievement/fire-pro-wrestling-xbox-360/65741-side-business/#645720" style="text-decoration: none">
+						<img class="sidebar-award" src="https://i.exophase.com/xbox/awards/s/bg6d77.png" />
+						<span class="trophy-side-title bronzetxt">Side Business
+						</span>
+
+						<div class="bottom-bar">
+							<span class="sidebar-timestamp">December 13, 1901, 8:45 pm</span>
+						</div>
+					</a>
+				</li>
+						<li class="game-side-item">
+
+					<a class="tooltip-act" data-html="true" data-toggle="tooltip" data-placement="left" title="<p><strong>Forza Horizon 3</strong></p><p>Perform 10 Ebisu Skills in a Holden to earn 55,000 XP</p><p><strong>0.42%</strong> of players on the site have earned</p>" href="https://www.exophase.com/achievement/forza-horizon-3-windows/155834-forzathon-become-pegasus/#645720" style="text-decoration: none">
+						<img class="sidebar-award" src="https://i.exophase.com/xbox/awards/s/7ddb74.png" />
+						<span class="trophy-side-title bronzetxt">#Forzathon Become Pegasus
+						</span>
+
+						<div class="bottom-bar">
+							<span class="sidebar-timestamp">May 11, 2018, 1:37 am</span>
+						</div>
+					</a>
+				</li>
+						<li class="game-side-item">
+
+					<a class="tooltip-act" data-html="true" data-toggle="tooltip" data-placement="left" title="<p><strong>Trials Evolution</strong></p><p>Zero fault the Hard as Nails tournament using the Banshee.</p><p><strong>0.46%</strong> of players on the site have earned</p>" href="https://www.exophase.com/achievement/trials-evolution-xbox-360/69993-wail-of-the-banshee/#645720" style="text-decoration: none">
+						<img class="sidebar-award" src="https://i.exophase.com/xbox/awards/s/bg31g8.png" />
+						<span class="trophy-side-title bronzetxt">Wail of the Banshee
+						</span>
+
+						<div class="bottom-bar">
+							<span class="sidebar-timestamp">December 13, 1901, 8:45 pm</span>
+						</div>
+					</a>
+				</li>
+						<li class="game-side-item">
+
+					<a class="tooltip-act" data-html="true" data-toggle="tooltip" data-placement="left" title="<p><strong>Forza Horizon 3</strong></p><p>Finish in the top 3 of a Playground Game in a Ferrari to win the Ferrari 599xx</p><p><strong>0.58%</strong> of players on the site have earned</p>" href="https://www.exophase.com/achievement/forza-horizon-3-windows/155829-forzathon-jack-of-the-pack/#645720" style="text-decoration: none">
+						<img class="sidebar-award" src="https://i.exophase.com/xbox/awards/s/g77b04.png" />
+						<span class="trophy-side-title bronzetxt">#Forzathon Jack of the Pack
+						</span>
+
+						<div class="bottom-bar">
+							<span class="sidebar-timestamp">May 10, 2018, 9:28 pm</span>
+						</div>
+					</a>
+				</li>
+				</ul>
+	</div>
+
+	<div id="recent_platinum" class="latest">
+		<h2 class="section-heading">Xbox Screenshots</h2>
+
+		<ul id="game_listing" class="bits clips">
+						<li class="game-side-item">
+					<a class="game-image-side" href="https://www.exophase.com/xbox/user/WWE Leyend/screenshots/" style="text-decoration: none">
+
+						<div class="image">
+							<img class="sidebar-award sidebar-clip" src="https://screenshotscontent-d2002.xboxlive.com/xuid-2535450510628586-private/55c8d0e4-6fdc-43f1-acc3-8921eeddece3.PNG?sv=2015-12-11&amp;sr=b&amp;si=DefaultAccess&amp;sig=y8bLKkxhJOJRzNsaMDsaTZREQngl%2Fu%2FTQTgA9nLh8WM%3D" />
+
+								<div class="info">
+									<span>Grand Theft Auto V - 3 months ago</span>
+								</div>
+						</div>
+					</a>
+				</li>
+						<li class="game-side-item">
+					<a class="game-image-side" href="https://www.exophase.com/xbox/user/WWE Leyend/screenshots/" style="text-decoration: none">
+
+						<div class="image">
+							<img class="sidebar-award sidebar-clip" src="https://screenshotscontent-d2002.xboxlive.com/xuid-2535450510628586-private/77f625cb-5fc2-48ad-bc5b-1397393f9a9b.PNG?sv=2015-12-11&amp;sr=b&amp;si=DefaultAccess&amp;sig=rQhUNjTdmUG3T8TOEpVt7nTOBK86kOC4VLItKoiiVqA%3D" />
+
+								<div class="info">
+									<span>Grand Theft Auto V - 3 months ago</span>
+								</div>
+						</div>
+					</a>
+				</li>
+						<li class="game-side-item">
+					<a class="game-image-side" href="https://www.exophase.com/xbox/user/WWE Leyend/screenshots/" style="text-decoration: none">
+
+						<div class="image">
+							<img class="sidebar-award sidebar-clip" src="https://screenshotscontent-d2001.xboxlive.com/xuid-2535450510628586-private/c34da9f1-f967-417d-ad93-3efd1f9f5132.PNG?sv=2015-12-11&amp;sr=b&amp;si=DefaultAccess&amp;sig=9nhvUASt%2BMHThTUkOZWQMvaRBo2GoaPGbUAdUiUqThU%3D" />
+
+								<div class="info">
+									<span>EA SPORTS FIFA 18 - 5 months ago</span>
+								</div>
+						</div>
+					</a>
+				</li>
+						<li class="game-side-item">
+					<a class="game-image-side" href="https://www.exophase.com/xbox/user/WWE Leyend/screenshots/" style="text-decoration: none">
+
+						<div class="image">
+							<img class="sidebar-award sidebar-clip" src="https://screenshotscontent-d3001.xboxlive.com/xuid-2535450510628586-private/bed4af0a-cdd6-4433-86ab-058ab0f1d2fc.PNG?sv=2015-12-11&amp;sr=b&amp;si=DefaultAccess&amp;sig=2c76Aufg4XUCK5e1L4oDyECGOCncBRR%2Fcw3jMF8V%2BNo%3D" />
+
+								<div class="info">
+									<span>The Crew - 6 months ago</span>
+								</div>
+						</div>
+					</a>
+				</li>
+						<li class="game-side-item">
+					<a class="game-image-side" href="https://www.exophase.com/xbox/user/WWE Leyend/screenshots/" style="text-decoration: none">
+
+						<div class="image">
+							<img class="sidebar-award sidebar-clip" src="https://screenshotscontent-d4002.xboxlive.com/xuid-2535450510628586-private/c6d8da34-a226-49ce-8cd9-b05b58cc8613.PNG?sv=2015-12-11&amp;sr=b&amp;si=DefaultAccess&amp;sig=HuekT7uJF7Tqb5Uso3Oa863GDbnQZMGj1TeCQWoTc8Y%3D" />
+
+								<div class="info">
+									<span>Grand Theft Auto V - 7 months ago</span>
+								</div>
+						</div>
+					</a>
+				</li>
+				</ul>
+	</div>
+
+	<div id="recent_platinum" class="latest">
+		<h2 class="section-heading">Xbox Gameplay Clips</h2>
+
+		<ul id="game_listing" class="bits clips">
+					<li class="game-side-item">
+
+				<a class="game-image-side" href="https://www.exophase.com/xbox/user/WWE Leyend/clips/" style="text-decoration: none">
+					<div class="image">
+						<img class="sidebar-award sidebar-clip" src="https://gameclipscontent-t3008.xboxlive.com/xuid-2535450510628586-public/8079b0bb-d9cb-4a9b-a5ff-c105d8de04c0_Thumbnail.PNG" />
+
+							<div class="info">
+								<span>EA SPORTS FIFA 18 - 6 months ago</span>
+							</div>
+					</div>
+				</a>
+
+			</li>
+					<li class="game-side-item">
+
+				<a class="game-image-side" href="https://www.exophase.com/xbox/user/WWE Leyend/clips/" style="text-decoration: none">
+					<div class="image">
+						<img class="sidebar-award sidebar-clip" src="https://gameclipscontent-t3017.xboxlive.com/xuid-2535450510628586-public/cd54d169-d301-496f-bd81-b23a40b416b5_Thumbnail.PNG" />
+
+							<div class="info">
+								<span>Grand Theft Auto V - 6 months ago</span>
+							</div>
+					</div>
+				</a>
+
+			</li>
+					<li class="game-side-item">
+
+				<a class="game-image-side" href="https://www.exophase.com/xbox/user/WWE Leyend/clips/" style="text-decoration: none">
+					<div class="image">
+						<img class="sidebar-award sidebar-clip" src="https://gameclipscontent-t3015.xboxlive.com/xuid-2535450510628586-public/055a4e7f-e6f5-41f5-8f07-d935fc8f618f_Thumbnail.PNG" />
+
+							<div class="info">
+								<span>Grand Theft Auto V - 6 months ago</span>
+							</div>
+					</div>
+				</a>
+
+			</li>
+					<li class="game-side-item">
+
+				<a class="game-image-side" href="https://www.exophase.com/xbox/user/WWE Leyend/clips/" style="text-decoration: none">
+					<div class="image">
+						<img class="sidebar-award sidebar-clip" src="https://gameclipscontent-t3018.xboxlive.com/xuid-2535450510628586-public/4d35b6fb-85ea-43be-b63c-f93ff122c947_Thumbnail.PNG" />
+
+							<div class="info">
+								<span>Grand Theft Auto V - 7 months ago</span>
+							</div>
+					</div>
+				</a>
+
+			</li>
+					<li class="game-side-item">
+
+				<a class="game-image-side" href="https://www.exophase.com/xbox/user/WWE Leyend/clips/" style="text-decoration: none">
+					<div class="image">
+						<img class="sidebar-award sidebar-clip" src="https://gameclipscontent-t3004.xboxlive.com/xuid-2535450510628586-public/f8803f7f-aabe-4834-9eda-db7fd5eb7d9c_Thumbnail.PNG" />
+
+							<div class="info">
+								<span>Grand Theft Auto V - 7 months ago</span>
+							</div>
+					</div>
+				</a>
+
+			</li>
+				</ul>
+	</div>
+
+
+<div>
+	<div class="ad-general">
+					<!-- /13326244/EXO_300x250_2_D -->
+			<div id='div-gpt-ad-1466196207108-3' style='height:250px; width:300px;'>
+			<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466196207108-3'); });
+			</script>
+			</div>
+			</div>
+</div>
+<div class="ad-general">
+			<!-- /13326244/EXO_160x600_D -->
+		<div id='div-gpt-ad-1466196207108-0' style='height:600px; width:160px;'>
+		<script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466196207108-0'); });
+		</script>
+		</div>
+	</div>
+		</div>
+		
+	</div> <!-- end container -->
+
+	<div class="ui-clone">
+		<div class="hide game-controls">
+			<div class="edit-game tooltip-act icon" data-toggle="tooltip" data-placement="bottom" title="Edit Game" data-options="edit-options">
+				<i class="fas fa-pen-square"></i>
+			</div>
+			<div class="share-game tooltip-act icon" data-toggle="tooltip" data-placement="bottom" title="Share Game Activity" data-options="social-options">
+				<i class="fas fa-share-alt"></i>
+			</div>
+		</div>
+	</div>
+
+	<script>
+		var preferences = '{"default_filter":[],"default_order":""}';
+
+
+					var services = '[{"username":"WWE Leyend","lastsync":"February 26, 2019, 3:58 am","privacy_level":"0","service":"xbox"},{"username":"joaquinwee","lastsync":"February 26, 2019, 2:14 am","privacy_level":"0","service":"steam"},{"username":"tocacap","lastsync":0,"privacy_level":0,"service":"legacy"}]';
+		
+		var fetch = true;
+	</script>
+</div>
+
+<footer>
+  <div class="row wrap">
+
+    <div class="col-xs-12 col-sm-4 col-md-4 f-left">
+      <img src="https://www.exophase.com/assets/zeal/logos/exologo_bw.png" />
+    <span class="tagline">
+      &copy;2006-2019 Exophase.com. Steam data provided by <a rel="nofollow" href="http://steampowered.com/">Valve</a>
+    </span>
+
+    <span>Created by <a href="http://twitter.com/x3sphere">Mike Bendel</a>.</span>
+
+        </div>
+
+    <div class="col-xs-12 col-sm-2 col-md-2 links-list">
+      <span>Quick Links</span>
+      <a href="https://www.exophase.com/about/">About</a>
+      <a href="https://www.exophase.com/contact/">Contact</a>
+      <a href="https://www.exophase.com/legal/">Legal</a>
+      <a rel="nofollow" href="https://www.exophase.com/private-policy/">Private Policy</a>
+      <a rel="nofollow" href="https://www.exophase.com/terms/">Terms</a>
+    </div>
+
+    <div class="col-xs-12 col-sm-2 col-md-2 links-list">
+      <span>Social</span>
+      <a target="_blank" href="https://twitter.com/exophase">Twitter</a>
+      <a target="_blank" href="https://www.facebook.com/exophase.fb">Facebook</a>
+    </div>
+
+    <div class="col-xs-12 col-sm-4 col-md-4">
+      <span>Database Stats</span>
+
+      <span>
+        <mark>2,704,515</mark>
+        achievements tracked
+      </span>
+
+      <span>
+        <mark>42,348</mark> Games
+      </span>
+    </div>
+  </div></footer>
+
+
+
+<script id="modalTpl" type="text/template">
+    <div class="modal fade {{modalElement}} {{additionalClass}}" id="{{modalElement}}" role="dialog" aria-labelledby="genericModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="md-flex modal-header">
+            <h4 class="modal-title" id="{{modalElement}}Label">{{title}}</h4>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div style="text-align: left" class="modal-extra p-3">
+            <span class="help-block">{{extra}}</span>
+          </div>
+          <div class="modal-body">
+          </div>
+          <div class="modal-footer">
+            <div class="w-100 action-delete-game">
+                <button type="button" class="d-flex flex-grow-1 btn btn-primary btn-danger">Delete This Game</button>
+            </div>
+            <button type="button" class="btn btn-primary save">{{actionPhrase}}</button>
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">{{dismissPhrase}}</button>
+          </div>
+        </div>
+      </div>
+    </div>
+</script>
+
+<script id="cardColorPickerTpl" type="text/template">
+    <div id="gamercard-edit">
+    </div>
+
+    <div id="colors">
+
+      <div id="color-picker" class="cp cp-small"></div>
+
+      <ul id="color_switches">
+        <li><button type="button" data-ref-part="1" class="btn btn-blue selected">Edit Color #1</button></li>
+        <li><button type="button" data-ref-part="2" class="btn">Edit Color #2</button></li>
+      </ul>
+
+    </div>
+
+    <div style="clear:both"></div>
+</script>
+
+<script id="cardTpl" type="text/template">
+  <img class="gamercard" src="{{card_url}}" />
+
+  <form class="gamercard" role="form">
+
+    <div class="p-4 additional-options gamedata-selection">
+
+        <button class="btn btn-primary mb-3 w-100" type="button" data-toggle="collapse" data-target="#collapsePlatforms" aria-expanded="false" aria-controls="collapseExample">
+            Show / Hide Platforms
+        </button>
+
+        <div class="collapse" id="collapsePlatforms">
+            <div class="card card-body pb-3 mb-3">
+              <div class="row btn-group-toggle platform-filter" data-toggle="buttons">
+                  <label class="col btn btn-secondary active">
+                      <input type="checkbox" name="filter[psn]" autocomplete="off" checked="checked"> PSN
+                  </label>
+                  <label class="col btn btn-secondary active">
+                      <input type="checkbox" name="filter[xbox]" autocomplete="off" checked="checked"> Xbox
+                  </label>
+                  <label class="col btn btn-secondary active">
+                      <input type="checkbox" name="filter[steam]" autocomplete="off" checked="checked"> Steam
+                  </label>
+                  <label class="col btn btn-secondary active">
+                      <input type="checkbox" name="filter[blizzard]" autocomplete="off" checked="checked"> Blizzard
+                  </label>
+                  <label class="col btn btn-secondary active">
+                      <input type="checkbox" name="filter[origin]" autocomplete="off" checked="checked"> Origin
+                  </label>
+                  <label class="col btn btn-secondary active">
+                      <input type="checkbox" name="filter[retro]" autocomplete="off" checked="checked"> Retro
+                  </label>
+                  <div class="w-100"></div>
+                  <label class="col btn btn-secondary active">
+                      <input type="checkbox" name="filter[android]" autocomplete="off" checked="checked"> Android
+                  </label>
+                  <label class="col btn btn-secondary active">
+                      <input type="checkbox" name="filter[gog]" autocomplete="off" checked="checked"> GOG
+                  </label>
+                  <label class="col btn btn-secondary active">
+                      <input type="checkbox" name="filter[uplay]" autocomplete="off" checked="checked"> Uplay
+                  </label>
+              </div>
+              <p class="form-text text-muted">
+                <strong>All highlighted platforms (in blue) will appear on the gamercards.</strong> If you wish to hide a platform, deselect it from the above list.
+              </p>
+            </div>
+        </div>
+
+        <div class="pb-3 form-row">
+            <div class="col">
+                <select id="userGamercardSkinSelection" class="skin form-control">
+                  <option data-skin-id="11" data-animated="0" value="Full">Full Skin</option>
+                  <option data-skin-id="11" data-animated="1" value="Full">Animated (Requires at least two services linked)</option>
+                  <option data-skin-id="12" data-animated="0" value="Compact">Compact Skin</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="form-check form-check-inline">
+            <input type="radio" class="form-check-input" name="top_gamedata" id="userGamercardShowGames" value="games">
+            <label class="form-check-label" for="userGamercardShowGames">Show Games</label>
+        </div>
+
+        <div class="form-check form-check-inline">
+            <input type="radio" class="form-check-input" name="top_gamedata" id="userGamercardShowAwards" value="awards">
+            <label class="form-check-label" for="userGamercardShowAwards">Show Achievements</label>
+        </div>
+
+        <div class="form-check form-check-inline">
+            <input type="radio" class="form-check-input" name="top_gamedata" id="userGamercardShowBoth" value="both">
+            <label class="form-check-label" for="userGamercardShowBoth">Show Both</label>
+        </div>
+
+        <div class="form-check">
+          <input type="checkbox" name="include_manual" class="form-check-input" id="includeManual">
+          <label class="form-check-label" for="includeManual">Include manually added games on gamercard</label>
+        </div>
+    </div>
+
+    <div class="input-group">
+        <div class="input-group-prepend">
+            <div class="input-group-text">BB Code</div>
+        </div>
+        <input type="text" class="form-control" id="card_bb" value="[URL={{profile_url}}][IMG]{{card_url}}[/IMG][/URL]">
+    </div>
+
+    <div class="input-group">
+        <div class="input-group-prepend">
+            <div class="input-group-text">HTML Tag</div>
+        </div>
+        <input type="text" class="form-control" id="card_bb" value='<a href="{{profile_url}}"><img src="{{card_url}}"></a>'>
+    </div>
+
+    <div class="input-group">
+        <div class="input-group-prepend">
+            <div class="input-group-text">Direct</div>
+        </div>
+        <input type="text" class="form-control" id="card_bb" value='{{card_url}}'>
+    </div>
+
+    <input type="hidden" name="card_id" value="{{card_id}}">
+
+  </form>
+</script>
+
+<script id="shareTpl" type="text/template">
+
+  <form data-name="{{name}}" data-id="{{id}}" data-endpoint="{{endpoint}}" data-caption="{{name}} {{type}} in {{title}}" data-message="{{player}} earned '{{name}}' {{type}} in {{title}}" class="share-form" role="form">
+
+    <div class="message-container form-group">
+        <div class="message"><h3 class="listing"><span>Message (Required)</span></h3></div>
+        <textarea id="message" name="message" class="form-control" rows="3"></textarea>
+    </div>
+
+    <div class="selected">
+
+        <div class="caption">
+            <h3 class="listing"><span>Selected</span></h3>
+            <img src="{{icon}}" />
+            <p></p>
+        </div>
+
+    </div>
+
+    <div class="previous">
+        <h3 class="listing"><span>History</span></h3>
+
+        <div class="row">
+        </div>
+    </div>
+
+  </form>
+</script>
+
+<script id="editGameTpl" type="text/template">
+
+    <h3>{{title}}</h3>
+
+    <form class="edit-game" role="form">
+
+      <div class="form-group row form-lastplayed">
+
+          <label class="col-sm-3 col-form-label" for="lastplayed">Last Played</label>
+
+          <div class="col-sm-9">
+             <input name="lastplayed" type="text" class="datepicker form-control" disabled>
+
+            <p style="display: none" class="form-text text-muted">Enter a custom last played time. Only values greater than the tracked time will apply.</p>
+          </div>
+
+      </div>
+
+      <div class="form-group row form-playtime">
+
+          <label class="col-sm-3 col-form-label" for="playtime">Hours Played</label>
+          <div class="col-sm-9">
+            <input name="playtime" type="text" class="form-control">
+
+            <p class="form-text text-muted">For Xbox One and Steam, note that any values entered here will override the automatically tracked time.</p>
+          </div>
+
+      </div>
+
+      <div class="form-group row form-completion">
+
+          <label class="col-sm-3 col-form-label" for="completion">Completion Date</label>
+
+          <div class="col-sm-9">
+            <input name="completion" type="text" class="datepicker form-control" disabled>
+
+            <p style="display: none" class="form-text text-muted">If you've completed this game, enter a time here.</p>
+          </div>
+
+      </div>
+
+
+      <div class="p-4 col-sm-12">
+        <strong class="p-2">Additional Options</strong>
+
+        <label class="checkbox-inline">
+          <input type="checkbox" name="privacy_level" id="inlineCheckbox1"> Hide game on profile page
+        </label>
+      </div>
+
+      <input type="hidden" name="environment" value="{{env}}">
+      <input type="hidden" name="gameid" value="{{gameid}}">
+
+      <div style="clear: both"></div>
+
+    </form>
+</script>
+
+<script id="twoFactorTpl" type="text/template">
+
+    <form class="two-factor" role="form">
+
+      <div class="form-group">
+        <p>Due to security settings on this account, additional authentication is required.</p>
+        <p>A verification code has been dispatched to the device of your choosing, either by email or via an authentication app, depending on the settings chosen.</p>
+        <p>Enter it below and hit submit.</p>
+        <input class="form-control mt-4" name="code" type="text" placeholder="Verification code">
+      </div>
+
+      <input type="hidden" name="provider" value="{{provider}}">
+      <input type="hidden" name="remember" value="">
+
+      <div style="display: none" class="response pop-alert alert"></div>
+
+    </form>
+</script>
+
+<script id="reportTpl" type="text/template">
+    <p>
+        <strong>This form should be used only for reporting achievement cheaters</strong>. Otherwise, any user reports should be directed to site
+        staff either through our contact page or on the forums.</p> <p>To assist our enforcer team, please be specific as to which games(s) this user has
+        cheated on.
+    </p>
+
+    <textarea id="report_textarea" class="form-control" rows="3"></textarea>
+
+    <div style="display: none" class="response pop-alert alert"></div>
+</script>
+
+<script id="banTpl" type="text/template">
+
+    {{#if banned_by}}
+        <div class="ban-block yes">User is already banned</div>
+
+        <p><strong>Ban notes:</strong></p>
+
+        <p>Original report thread: <a href="{{reference}}">{{reference}}</a></p>
+    {{else}}
+        <div class="ban-block no">User is currently not banned</div>
+    {{/if}}
+
+    <div style="display: none" class="response pop-alert alert"></div>
+</script>
+
+<script id="addGameTpl" type="text/template">
+
+    <form class="add-game" role="form">
+
+        <div class="form-group row">
+          <label class="col-sm-3 col-form-label" for="platform">Platform</label>
+          <div class="col-sm-9">
+            <select class="form-control" name="platform">
+              <option value="default">Select a platform</option>
+
+              {{#each platforms}}
+                <option value="{{id}}">{{name}}</option>
+              {{/each}}
+            </select>
+          </div>
+        </div>
+
+        <div class="form-group row">
+            <label class="col-sm-3 col-form-label" for="game-title">Game Title</label>
+            <div class="col-sm-9">
+              <input class="autocomplete-game form-control" id="name" name="name" class="form-control" type="text" placeholder="Start typing a game title...">
+            </div>
+            <input type="hidden" name="game" value="0">
+        </div>
+
+      <div class="form-group row">
+
+          <label class="col-sm-3 col-form-label" for="lastplayed">Last Played Date</label>
+
+          <div class="col-sm-9">
+              <input name="lastplayed" type="text" class="datepicker form-control">
+          </div>
+
+      </div>
+
+      <div class="form-group row">
+
+          <label class="col-sm-3 col-form-label" for="playtime">Hours Played</label>
+          <div class="col-sm-9">
+              <input name="playtime" type="text" class="form-control">
+          </div>
+
+      </div>
+
+      <div class="game">
+      </div>
+
+    </form>
+</script>
+
+<script id="legacyGameTpl" type="text/template">
+
+  <img src="{{icon}}" />
+
+  <span>{{name}}</span>
+
+</script>
+
+<script id="minimalListTpl" type="text/template">
+
+    <div data-name="{{name}}" data-id="{{id}}" data-icon="{{icon}}" data-endpoint="{{endpoint}}" data-caption="{{name}} {{type}} in {{title}}" data-message="{{player}} earned '{{name}}' {{type}} in {{title}}" class="award col-auto">
+        <img src="{{icon}}" />
+    </div>
+
+</script>
+
+<script id="changeDisplayNameTpl" type="text/template">
+  <form class="change-displayname" role="form">
+    <span class="help-block">
+        <p>Set a display name to be used across the site.</p>
+        
+        <p><strong>Note:</strong> You'll still use your current username to login, but 
+        users will see this name instead when viewing your profile or gamercard.</p>
+    </span>
+    <div class="form-group">
+      <input id="displayname" class="form-control" name="displayname" type="text" placeholder="Enter display name">
+    </div>
+
+    <div style="display: none" class="response pop-alert alert"></div>
+  </form>
+</script>
+
+<script id="forgotTpl" type="text/template">
+  <form class="forgot-password" role="form">
+    <span class="help-block">
+        <p>To initiate a password reset, enter the email address corresponding to your Exophase account.</p>
+    </span>
+    <div class="form-group">
+      <input class="form-control" name="email" type="text" placeholder="Email address">
+    </div>
+
+    <div id="captcha" class="g-recaptcha"></div>
+
+    <div style="display: none" class="response pop-alert alert fade"></div>
+  </form>
+</script>
+
+<script id="editPanelTpl" type="text/template">
+  <div class="edit-panel" style="display: none">
+
+    <div style="display:none" class="edit-options">
+      <button style="display:none" type="button" class="datepicker btn-blue blue-hover btn btn-primary"><i class="fa fa-calendar"></i> Edit Date</button>
+      <button type="button" class="hours btn-blue blue-hover btn btn-primary"><i class="fa fa-clock-o"></i> Edit Playtime Hours</button>
+    </div>
+
+    <div style="display:none;" class="social-options">
+      <a style="background-color: #55acee; font-weight: 700;" data-service="twitter" class="btn btn-social btn-twitter">
+        Share on Twitter
+      </a>
+
+      <a style="font-weight: 700;" data-service="facebook" class="btn btn-social btn-facebook">
+        Share on Facebook
+      </a>
+    </div>
+
+    <div style="display: none" class="edit-generic-overlay hours-overlay">
+      <form>
+        <div class="form-group">
+          <input type="text" class="form-control" id="InputHours" placeholder="Hours played">
+          <p class="help-block">Manually update hours played for this game. Please input a number or decimal only.</p>
+        </div>
+        <button type="submit" class="submit btn-blue blue-hover btn btn-default">Update</button>
+        <button type="submit" onclick="closeModalCustom(this); return false;" class=" btn btn-danger">Close</button>
+      </form>
+    </div>
+  </div>
+</script>
+
+<script id="gamelistTpl" type="text/template">
+  <li data-completion="{{completion_date}}" data-lastplayed="{{lastplayed}}" data-playtime="{{playtime}}" data-env="{{meta.environment_slug}}" data-gameid="{{master_id}}" class="row no-gutters p-3 align-items-center {{stripe}} {{meta.environment_slug}} {{status}} {{privacy}}">
+
+    <div class="col-sm-4 col-md-3 pl-0 pr-2 small-game-image">
+      <img src="{{resource_standard}}" />
+    </div>
+
+    <div class="col game-info">
+      <h3 style="padding-bottom: 0px;" class="game-db-title">
+        {{#if meta.endpoint_awards}}
+          <a href="{{meta.endpoint_awards}}">{{meta.title}}</a>
+        {{else}}
+          {{meta.title}}
+        {{/if}}
+      </h3>
+
+      {{#if completion_date}}
+
+        {{#if completion_information}}
+          <span class="greentxt2" style="display:block">Completed {{completion_information}}</span>
+        {{else}}
+            {{#if meta.endpoint_awards}}
+                <span data-playtime="{{playtime}}" style="display: block;"><span class="count">{{earned_awards}}</span> out of <span class="count">{{meta.total_awards}}</span> {{meta.award_type}}</span>
+            {{/if}}
+        {{/if}}
+
+        {{#if playtime}}
+          <span class="hours" style="display:block"><i class="far fa-clock""></i> {{playtime}} hours played</span>
+        {{/if}}
+      {{else}}
+        <span class="hours" style="display: block; padding-bottom: 3px;"><i class="fa fa-clock-o"></i> {{playtime}} hours played</span>
+      {{/if}}
+
+      {{#each meta.platforms}}
+        <div style="display: inline-block; line-height: 1.3 !important;" class="{{@root.meta.environment_slug}}-profile-pf inline-pf">{{alternate_name}}</div>
+      {{/each}}
+    </div>
+
+    <div class="w-100 d-md-none"></div>
+
+    <div class="col ml-auto pr-0 game-progress">
+      {{#if meta.endpoint_awards}}
+      <div class="holders">
+        <div class="holder-wrapper">
+            {{#if earned_bronze}}<span class="bronze" alt="Bronze Trophy Count">{{earned_bronze}}</span>{{/if}}
+            {{#if earned_silver}}<span class="silver" alt="Silver Trophy Count">{{earned_silver}}</span>{{/if}}
+            {{#if earned_gold}}<span class="gold" alt="Gold Trophy Count">{{earned_gold}}</span>{{/if}}
+            {{#if earned_platinum}}<span class="platinum" alt="Platinum Trophy Count">{{earned_platinum}}</span>{{/if}}
+            {{#if earned_awards}}<span class="total" alt="Achievement Count">{{earned_awards}}</span>{{/if}}
+            {{#if earned_points}}
+                <span class="points-value">{{earned_points}}</span>
+            {{/if}}
+        </div>
+      </div>
+      <div class="progress">
+          <div class="progress-bar" role="progressbar" aria-valuenow="{{percent}}" aria-valuemin="0" aria-valuemax="100" style="width: {{percent}}%;">
+              <span>{{percent}}%</span>
+          </div>
+      </div>
+      {{else}}
+      <div style="padding-top: 18px"></div>
+      {{/if}}
+
+      {{#if lastplayed}}
+        <div class="lastplayed">{{formatDate lastplayed "short"}}</div>
+      {{/if}}
+
+    </div>
+
+  <div style="clear:both"></div>
+  </li>
+</script>
+
+
+
+
+<div class="modal-container"></div>
+<div class="dim"></div>
+
+
+    <noscript>
+    <img src="https://n-cdn.areyouahuman.com/noscript/a3c2693aa8a5bb495f9782afbc476134243f2ab2?AYAH_F1=[oarex_exophase]" />
+  </noscript>
+  
+  <!-- Begin comScore Tag -->
+  <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "24936062" });
+    (function() {
+      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      el.parentNode.insertBefore(s, el);
+    })();
+  </script>
+  <noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=24936062&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+</body>
+</html>

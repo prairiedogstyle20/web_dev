@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" xmlns:og="http://ogp.me/ns#">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="Content-style-type" content="text/css" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <!--OGP-->
+  <meta name="twitter:card" content="summary" />
+  <meta property="og:title" content="ã¸ã£ã³ã¯SPORTS - ãã¸ãã¬ã" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://www.fujitv.co.jp/junksports/index.html" />
+  <meta property="og:image" content="https://www.fujitv.co.jp/junksports/photo/fblogo.jpg" />
+  <meta property="og:site_name" content="ãã¸ãã¬ã" />
+  <meta property="og:description" content="ã¸ã£ã³ã¯SPORTS - ãªãã£ã·ã£ã«ãµã¤ããMCã®æµç°éåã¨ãåçã§æ´»èºããä¸æµã®ã¢ã¹ãªã¼ããã¡ã¨ã®ã¯ã­ã¹ãã¼ã¯ã¯ãã¡ããããã¾ãã¾ãªæ°ä¼ç»ã«ãæ³¨ç®ãéã¾ããã¹ãã¼ããã©ã¨ãã£ã¼ï¼" />
+  <!--/OGP-->
+  <meta name="description" content="ã¸ã£ã³ã¯SPORTS - ãªãã£ã·ã£ã«ãµã¤ããMCã®æµç°éåã¨ãåçã§æ´»èºããä¸æµã®ã¢ã¹ãªã¼ããã¡ã¨ã®ã¯ã­ã¹ãã¼ã¯ã¯ãã¡ããããã¾ãã¾ãªæ°ä¼ç»ã«ãæ³¨ç®ãéã¾ããã¹ãã¼ããã©ã¨ãã£ã¼ï¼" />
+  <meta name="Keywords" content="ã¸ã£ã³ã¯SPORTS,ãã©ã¨ãã£ã»é³æ¥½,ãã¸ãã¬ã" />
+  <title>ã¸ã£ã³ã¯SPORTS - ãã¸ãã¬ã</title>
+  <link href="/fp/css/fp.css" rel="stylesheet" type="text/css" />
+  <link href="/style/default.css" rel="stylesheet" type="text/css" />
+  <link href="/common/style/cx_ohp_base_v3.css" rel="stylesheet" type="text/css" />
+  <!-- çªçµç¨CSS -->
+  <link href="style/junksports.css" rel="stylesheet" type="text/css" />
+  <!-- /çªçµç¨CSS -->
+  <script type="text/javascript" src="/common/fujimenu.js"></script>
+</head>
+<body>
+<div id="cx_spContentsWrap">
+  <div id="cx_spContentsMain">
+    <script type="text/javascript">writeFujimenu();</script>
+    <!-- theme -->
+    <div id="theme">
+      <!-- fp-contents -->
+      <div id="fp-contents">
+
+        <!-- fp-l -->
+        <div id="fp-l">
+
+          <!-- header -->
+          <div id="fp-hdr">
+            <div id="fp-hdr-img"><img src="photo/main.jpg" alt="ã¸ã£ã³ã¯SPORTS" width="600" height="338" /></div>
+            <h1>ã¸ã£ã³ã¯SPORTS</h1>
+            <div id="fp-airdate"></div><!-- åºæ¬æ¾éæ¥ææå ± -->
+          </div>
+          <!-- /header -->
+
+          <!-- fp-cnt (main contents) -->
+          <div id="fp-cnt">
+
+            <!-- æ¾éåå®¹-->
+            <h2>æ¾éåå®¹</h2>
+            <div id="fp-tmppage-simple-oainfo"></div><!-- æ¾éåå®¹ -->
+            <div id="fp-tmppage-simple-story"></div><!-- æ¾éåå®¹è©³ç´° -->
+            <div id="fp-tmppage-simple-caststaff"></div><!-- ã­ã£ã¹ãã¹ã¿ãã -->
+		    <div style="text-align:center;"><a class="square_btn" href="https://www.fnn.jp/programs/junksports" target="_blank">ããã¾ã§ã®æ¾éã¯ã³ãã©</a></div>
+            <div id="fp-tmppage-simple-schedule"></div><!-- ä»å¾ã®æ¾éäºå® -->
+            <div id="fp-tmppage-simple-story-bknum"></div><!-- ããã¯ãã³ãã¼ -->
+            <!-- /æ¾éåå®¹ -->
+
+            <!-- ãã¬ã¼ã³ãã»åé -->
+            <h2>ãã¬ã¼ã³ãã»åé</h2>
+            <div id="fp-tmppage-simple-present">
+              <p>ç¾å¨å¬éããã¦ãããã¬ã¼ã³ãã»åéæå ±ã¯ããã¾ããã</p>
+            </div>
+            <!-- /ãã¬ã¼ã³ãã»åé -->
+
+            <!-- ã¡ãã»ã¼ã¸ -->
+            <h2>çªçµã¸ã®ã¡ãã»ã¼ã¸</h2>
+            <div id="message">
+              <div id="fp-tmppage-simple-messageOne"></div>
+              <ul class="btn-grp box378">
+                <li class="btn"><a href="javascript:void(0);" id="fp-tmppage-simple-readbtn"><span>ã¡ãã»ã¼ã¸ãèª­ã</span></a></li>
+                <li class="btn"><a href="javascript:void(0);" id="fp-tmppage-simple-msgbtn"><span>ã¡ãã»ã¼ã¸ãéã</span></a></li>
+              </ul>
+            </div>
+            <!-- /ã¡ãã»ã¼ã¸ -->
+
+            <!-- çªçµé¢é£ãã¥ã¼ã¹ -->
+            <div id="fp-tmppage-simple-faq"></div>
+            <!-- /çªçµé¢é£ãã¥ã¼ã¹ -->
+
+            <!-- Youtube -->
+            <!--
+            <h2>Youtubeåç»</h2>
+            <div id="fp-tmppage-simple-youtube" data-listid="ãªã¹ãID"></div>
+            -->
+            <!-- /Youtube -->
+
+          </div>
+          <!-- /fp-cnt -->
+
+        </div>
+        <!-- /fp-l -->
+
+        <!-- fp-r -->
+        <div id="fp-r">
+          <script type="text/javascript">fujitv.loadOhpRight({tmpPage:"simple_v3"});</script>
+        </div>
+        <!-- /fp-r -->
+
+      </div>
+      <!-- /fp-contents -->
+    </div>
+    <!-- /theme -->
+    <script type="text/javascript">fujimenu.writeGbfooter();</script>
+  </div>
+</div>
+<script type="text/javascript">fujitv.addPagetopBtn();</script>
+</body>
+</html>

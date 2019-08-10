@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<script type="text/javascript">
+		function unescapeHtml(escaped_str) {
+		    var div = document.createElement('div');
+		    div.innerHTML = escaped_str;
+		    var child = div.childNodes[0];
+		    return child ? child.nodeValue : null;
+		}
+		
+		function validateProtocol(url) {
+			var parser = document.createElement('a');
+		    parser.href = url;
+		    var protocol = parser.protocol.toLowerCase();
+			if ([ 'javascript:', 'vbscript:', 'data:' ].indexOf(protocol) < 0) {
+				return url;
+			}
+			return null;
+		}
+		
+		function validate(url) {
+			var unescaped_value = unescapeHtml(url);
+			if (unescaped_value && validateProtocol(unescaped_value)) {
+				return unescaped_value;
+			}
+			return '/';
+		}			var hasURI = false;
+			var intervalExecuted = false;
+			window.onload = function() {
+				document.getElementById("l").src = validate("nullmedium.com/p/trumps-alleged-crimes-are-just-the-tip-of-his-legacy-e52f8c6220f5?link_click_id=629009025374601734");
+				window.setTimeout(function() {
+					if (!hasURI) {
+						window.top.location = validate("https://medium.com/p/trumps-alleged-crimes-are-just-the-tip-of-his-legacy-e52f8c6220f5?_branch_match_id=629009025374601734");
+					}
+					intervalExecuted = true;
+				}, 300);
+			};
+
+			window.onblur = function() {
+				hasURI = true;
+			};
+
+			window.onfocus = function() {
+				if (hasURI) {
+					window.top.location = validate("https://medium.com/p/trumps-alleged-crimes-are-just-the-tip-of-his-legacy-e52f8c6220f5?_branch_match_id=629009025374601734");
+				} else if(intervalExecuted) {
+					window.top.location = validate("https://medium.com/p/trumps-alleged-crimes-are-just-the-tip-of-his-legacy-e52f8c6220f5?_branch_match_id=629009025374601734");
+				}
+			}
+		</script>
+		<iframe id="l" width="1" height="1" style="visibility:hidden"></iframe>
+	</body>
+</html>

@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="KTSYJ4o2UdeJQXsefXUWJTk6oTanDlQrZ4qubP8t48I" />
+<meta name="google-site-verification" content="ZMVKiSeiq61ML1dEAsSRWweAlw2F2cRS3yaCZG1gwBg" />
+<title>Barstool Sports</title>
+<link rel="icon" type="image/x-icon" href="/favicon.png">
+<link rel='stylesheet' href='https://d33wubrfki0l68.cloudfront.net/css/3d71032fd672864302264f52bf6204ae3aa0c7a6/styles.css' />
+
+<script>
+      window.prerenderReady = false;
+      window.freestarReady = false;
+      var unruly = window.unruly || {};
+      unruly.native = unruly.native || {};
+      unruly.native.siteId = 1088537;
+    </script>
+
+<script src="https://dnderkfeab66.cloudfront.net/script.js"></script>
+
+<script async src='https://d33wubrfki0l68.cloudfront.net/js/ab731015d91ae690c1e88a7764e2f55fd9663872/launchpad-mobx.js'></script>
+
+<script src="https://cdn.iframe.ly/embed.js?iframe=true&omit_script=true" async></script>
+
+<script src="https://video.unrulymedia.com/native/native-loader.js" async></script>
+
+
+
+<script data-cfasync="false" type="text/javascript">
+      var freestar = freestar || {}
+      freestar.hitTime = Date.now()
+      freestar.queue = freestar.queue || []
+      freestar.config = freestar.config || {}
+      freestar.debug = window.location.search.indexOf('fsdebug') === -1 ? false : true;
+      freestar.config.enabled_slots = []
+
+      function callAds (init) {
+        if (!window.freestarReady) return
+        init = init || false
+        console.log('[Freestar] init: ', init, window.freestarReady)
+        var BS_AD_SLOTS = [
+          {
+            placementName: 'Homepage_Leaderboard',
+            slotId: 'Homepage_Leaderboard'
+          },
+          {
+            placementName: 'Mobile_Article',
+            slotId: 'Mobile_Article'
+          },
+          {
+            placementName: 'Homepage_300x250',
+            slotId: 'Homepage_300x250'
+          },
+          {
+            placementName: 'Homepage_300x250_Scroll',
+            slotId: 'Homepage_300x250_Scroll'
+          },
+          {
+            placementName: 'Desktop_300x250_BTF_2019',
+            slotId: 'Desktop_300x250_BTF_2019'
+          },
+          {
+            placementName: 'in-feed_utility_unit_2019',
+            slotId: 'in-feed_utility_unit_2019'
+          },
+          {
+            placementName: '320x50_mWeb_sticky_bottom_2018',
+            slotId: '320x50_mWeb_sticky_bottom_2018'
+          }
+        ]
+        if (!init) {
+          console.log('[Freestar]: deleting ad slots')
+          freestar.deleteAdSlots()
+        }
+        var _ads = []
+        for (var i = 0; i < BS_AD_SLOTS.length; i++) {
+          console.log('[Freestar] ID: ', document.getElementById(BS_AD_SLOTS[i].slotId))
+          if (document.getElementById(BS_AD_SLOTS[i].slotId)) {
+            _ads.push(BS_AD_SLOTS[i])
+          }
+        }
+        try {
+          console.log('[Freestar]: new ad slots ', _ads)
+          freestar.newAdSlots(_ads)
+        } catch (err) {
+          console.error('[Freestar] error: ', err)
+        }
+      }
+
+      freestar.initCallback = function () {
+        window.freestarReady = true
+        callAds(true)
+      }
+
+      !function(a,b){var c=b.getElementsByTagName("script")[0],d=b.createElement("script"),e="https://a.pub.network/barstoolsports-com";e+=freestar.debug?"/qa/pubfig.min.js":"/pubfig.min.js",d.async=!0,d.src=e,c.parentNode.insertBefore(d,c)}(window,document)
+    </script>
+
+<script id="stripe-js" src="https://js.stripe.com/v3/" async></script>
+
+<script id="outbrain-js" src="https://widgets.outbrain.com/outbrain.js" async></script>
+
+<script src="https://load.sumo.com/" data-sumo-site-id="1cce722cc49301c66cfa7f77db0940a9062e6b325a42239e01b4ab30c85fa7a6" async></script>
+
+<script>
+      (function(){function t(){for(var a=[8],e=1;2>=e;e++)a.push(8+e),a.push(8-e);a=a[Math.floor(Math.random()*a.length)];return{b:a,a:0==Math.floor(Math.random()*a)}}function g(a){var e=a=a.replace(":","");try{for(var b=0;100>b&&(a=decodeURIComponent(a),e!=a)&&!a.match(/^http(s)?\:/);b++)e=a}catch(c){}return a.replace(/(^\s+|\s+$)/g,"")}try{if(!location||!location.hostname||!location.pathname)return!1;var c=document.location.hostname.replace(/^www\./,""),u=function(){for(var a,b=document.getElementsByTagName("meta"),
+      c,d=0,f=b.length;d<f;d++)if(c=b[d],"og:title"===c.getAttribute("property")){a=c.getAttribute("content");break}a||(a=document.title||"Untitled");return a}(),b={},b=function(a,b,c){a.l1=b;a.l2=c;a.l3="__page__";a.l4="-";return a}(b,c,u),h=(new Date).getTime(),k=Math.floor(Math.random()*Math.pow(10,12)),l,d;d=t();l=d.a?d.b:0;b.zmoatab_cm=l;b.t=h;b.de=k;b.zMoatAB_SNPT=!0;var m;m=l?l:1;var n;n=d?d.a?!0:!1:!0;var c=[],p=[g(b.l1),g(b.l2),g(b.l3),g(b.l4)].join(":"),v="https://74kf38hb92xj-a.akamaihd.net/z.gif?e=17&d="+
+      encodeURIComponent(p)+"&de="+k+"&t="+h+"&i=BARSTOOLCONTENT1&cm="+m+"&mp=1&ac=1&pl=1&bq=10&vc=2&cs=0",w="https://px.moatads.com/pixel.gif?e=17&d="+encodeURIComponent(p)+"&de="+k+"&t="+h+"&i=BARSTOOLCONTENT1&cm="+m+"&mp=0&ac=1&pl=1&bq=10&ad_type=img&vc=2&cs=0",x="https://px.moatads.com/pixel.gif?e=17&d="+encodeURIComponent(p)+"&de="+k+"&t="+h+"&i=BARSTOOLCONTENT1&cm="+m+"&ku=1&ac=1&pl=1&bq=10&ad_type=img&vc=2&cs=0";n&&((new Image).src=v,(new Image).src=w);for(var q in b)c.push(q+"="+encodeURIComponent(b[q]));
+      var c=c.join("&"),c=c+"&vc=2",f=document.createElement("script");f.type="text/javascript";f.async=!0;n&&(f.onerror=function(){(new Image).src=x});var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(f,r);f.src="https://z.moatads.com/barstoolcontent1586963455/moatcontent.js#"+c}catch(a){try{var y="//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&vc=2&ac=1&k="+encodeURIComponent(a)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();
+      (new Image).src=y}catch(e){}}})();
+    </script>
+
+<script>
+      var _sf_startpt = Date.now();
+      var _sf_async_config = _sf_async_config || {};
+      var cb_url = window.location.pathname;
+      if (cb_url.substr((cb_url.length - 1), cb_url.length) !== '/') {
+        cb_url = cb_url + '/'
+      }
+      _sf_async_config.uid = 63395;
+      _sf_async_config.domain = 'www.barstoolsports.com';
+      _sf_async_config.useCanonical = false;
+      _sf_async_config.path = cb_url;
+      function loadChartbeatScript() {
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('id', 'chartbeat_script');
+        e.setAttribute('async', true);
+        e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      function loadChartbeat() {
+        if (cb_url === '/') {
+          _sf_async_config.title = 'Home - Barstool Sports';
+          loadChartbeatScript()
+        }
+      }
+      (function() {
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() {
+            oldonload();
+            loadChartbeat();
+          };
+      })();
+    </script>
+
+<script src="https://d1z2jf7jlzjs58.cloudfront.net/p.js" async></script>
+<script>
+      var parsely_loaded = false;
+      PARSELY = {
+        autotrack: false,
+        onload: function() {
+          console.log("[Parse.ly] Code has loaded");
+          parsely_loaded = true;
+        }
+      };
+    </script>
+
+<script src="https://www.googletagmanager.com/gtag/js?id=AW-973879621" async></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-973879621');
+    </script>
+
+<script>
+      window.pupPunk = {
+        liveStoryId: 1033579,
+        vodStoryId: 1033584
+      }
+    </script>
+
+<script src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=hvtJAm" async></script>
+
+<script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '1619539764955780'); // bs
+      fbq('init', '158345311780168'); // gold
+      fbq('init', '128242077872939'); // rnr
+      fbq('track', 'PageView');
+    </script>
+
+<script>
+      !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+      },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+      a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+      twq('init','o0dpm');
+      twq('track','PageView');
+    </script>
+
+<script src="https://cdn-gl.imrworldwide.com/novms/js/2/nlsDcrLite510.min.js#nol_sfcode=dcr&nol_ci=us-709123&nol_apid=P86D32EDE-7007-4CDD-834B-1660BCE8F82E&nol_assetname=BarstoolSports&nol_apn=BarstoolSports&nol_ad=0&nol_vc=c02" async></script>
+
+<script src="https://static.criteo.net/js/ld/ld.js" async></script>
+<script>
+      window.criteo_q = window.criteo_q || [];
+      var deviceType = /iPad/.test(navigator.userAgent) ? "t" : /Mobile|iP(hone|od)|Android|BlackBerry|IEMobile|Silk/.test(navigator.userAgent) ? "m" : "d";
+      window.criteo_q.push(
+      { event: "setAccount", account: 16200}, // You should never update this line
+      { event: "setEmail", email: "##Email Address of user##" }, // Can be an empty string
+      { event: "setSiteType", type: deviceType},
+      { event: "viewHome"});
+    </script>
+
+<script>
+      var __cmp = (function () {
+        return typeof (__cmp) == "function" ? __cmp : function (c) {
+          var b = arguments;
+          if (!b.length) {
+            return __cmp.a;
+          }
+          else if (c == '__cmp')
+            return false;
+          else {
+            if (typeof __cmp.a === 'undefined') {
+              __cmp.a = [];
+            }
+            __cmp.a.push([].slice.apply(b));
+          }
+        }
+      })();
+      var elem = document.createElement('script');
+      elem.src = "https://quantcast.mgr.consensu.org/cmp.js";
+      elem.async = true;
+      elem.type = "text/javascript";
+      var scpt = document.getElementsByTagName('script')[0];
+      scpt.parentNode.insertBefore(elem, scpt);
+      window.__cmp('init', {
+            'Language': 'en',
+          'Initial Screen Reject Button Text': 'I do not accept',
+          'Initial Screen Accept Button Text': 'I accept',
+          'Purpose Screen Header Title Text': 'Privacy settings',
+          'Purpose Screen Body Text': 'You can set your consent preferences and determine how you want your data to be used based on the purposes below. You may set your preferences for us independently from those of third-party partners. Each purpose has a description so that you know how we and partners use your data.',
+          'Vendor Screen Body Text': 'You can set consent preferences for each individual third-party company below. Expand each company list item to see what purposes they use data for to help make your choices. In some cases, companies may disclose that they use your data without asking for your consent, based on their legitimate interests. You can click on their privacy policies for more information and to opt out.',
+          'Vendor Screen Accept All Button Text': 'Accept all',
+          'Vendor Screen Reject All Button Text': 'Reject all',
+          'Initial Screen Body Text': 'We and our partners use technology such as cookies on our site to personalise content and ads, provide social media features, and analyse our traffic. Click below to consent to the use of this technology across the web. You can change your mind and change your consent choices at anytime by returning to this site.',
+          'Initial Screen Body Text Option': 1,
+          'Publisher Name': 'Barstool Sports Inc.',
+          'Publisher Logo': 'https://deadrabbit.barstoolsports.net/wp-content/uploads/2018/05/22/BS-Logo-Light.png',
+          'Min Days Between UI Displays': 90,
+          'Publisher Purpose IDs': [3],
+          'Post Consent Page': 'https://www.barstoolsports.com/',
+          'No Option': false,
+          'UI Layout': 'popup',
+      });
+    </script>
+<style>
+        .qc-cmp-button,
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            background-color: #C62232 !important;
+            border-color: #C62232 !important;
+        }
+        .qc-cmp-button:hover,
+        .qc-cmp-button.qc-cmp-secondary-button {
+            background-color: transparent !important;
+            border-color: #C62232 !important;
+        }
+        .qc-cmp-alt-action,
+        .qc-cmp-link {
+            color: #C62232 !important;
+        }
+        .qc-cmp-button,
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            color: #FFFFFF !important;
+        }
+        .qc-cmp-button:hover,
+        .qc-cmp-button.qc-cmp-secondary-button {
+            color: #000000 !important;
+        }
+        .qc-cmp-small-toggle.qc-cmp-toggle-on,
+        .qc-cmp-toggle.qc-cmp-toggle-on {
+            background-color: #141E30 !important;
+            border-color: #141E30 !important;
+        }
+        .qc-cmp-small-toggle,
+        .qc-cmp-toggle {
+            background-color: #C62232 !important;
+            border-color: #C62232 !important;
+        }
+        a.qc-cmp-persistent-link {
+          display: none !important;
+          bottom: 60px !important;
+        }
+    </style>
+</head>
+<body>
+<form name='submissions' encType='multipart/form-data' data-netlify-recaptcha hidden method='post' enctype='multipart/form-data'><input type='hidden' name='form-name' value='submissions' />
+<input type="text" name="bot-field" />
+<input type="text" name="name" required />
+<input type="email" name="email" required />
+<input type="file" name="file" required />
+</form>
+<section id="root"></section>
+<div id="parsely-root" style="display: none">
+<span id="parsely-cfg" data-parsely-site="barstoolsports.com"></span>
+</div>
+<noscript>
+      <div class="no-js">
+        <img src="https://d33wubrfki0l68.cloudfront.net/ea15ea259fefac7d53855288cc56d57d854f945f/c7ebc/images/logo-stacked.png" alt="Barstool Sports">
+        <p>Please enable Javascript to view this site.</p>
+      </div>
+    </noscript>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Access forbidden!</title>
+<link rev="made" href="mailto:sysadmins@streamuk.com" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Access forbidden!</h1>
+<p>
+
+
+  
+
+    You don't have permission to access the requested directory.
+    There is either no index document or the directory is read-protected.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:sysadmins@streamuk.com">webmaster</a>.
+
+</p>
+
+<h2>Error 403</h2>
+<address>
+  <a href="/">ws.bbc34.cs.streamuk.com</a><br />
+  
+  <span>Tue Feb 26 18:27:53 2019<br />
+  Apache</span>
+<h3>FE = 4</h3>
+</address>
+</body>
+</html>
+

@@ -1,0 +1,895 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<meta id="viewport" name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta http-equiv="cache-control" content="public" />
+<title> News Nation - Breaking News, Top Headlines, Latest News from India, World, Cricket, Sports, Bollywood and more - www.newsnation.in</title>
+<meta name="description" content="News Nation covers all breaking news, live updates on trending topics, top news from India and latest stories on business, sports, world, entertainment and lifestyle etc." />
+<meta name="keywords" content="Latest News, Indian Breaking, National, Sports,World News, Online Indian News, Breaking News Today, Lifestyle News, Cities, News."/>
+<meta name="msvalidate.01" content="B09312B6D44646D11701E0C652415185" />
+<link rel="publisher" href="https://plus.google.com/106285995264756645929"/>
+<meta name="alexaVerifyID" content="Y9NLls3M57rufottuwFq3ZUGtBI"/>
+<meta name="google-site-verification" content="-ja6MiTA4VdAhwUrAYQvA-BDoW99mzCFpDmmxqZ0Zpg" />
+<meta name="robots" content="NOODP" />
+
+<link rel="canonical" href="https://www.newsnation.in"/>
+<script type="application/ld+json">
+{ "@context" : "http://schema.org","@type" : "Organization","name" : "NewsNation","url" : "https://www.newsnation.in","sameAs" : [ "https://www.facebook.com/NewsNationChannel/","https://twitter.com/NewsNationTV",
+"https://plus.google.com/+NewsNationTV/"]}
+</script>
+<script type="application/ld+json">
+{ "@context" : "http://schema.org","@type" : "Organization","url" : "https://www.newsnation.in/","contactPoint" : [ { "@type" : "ContactPoint",
+"telephone" : "+91-0120-7138600","contactType" : "customer service"
+} ] }
+</script> 
+<script type="application/ld+json"> 
+{ "@context": "http://schema.org","@type": "WebSite", 
+"url": "https://www.newsnation.in/", "potentialAction": { 
+"@type": "SearchAction", "target": "https://www.newsnation.in/search/={search_term}", "query-input": "required name=search_term" 
+} } 
+</script> 
+<meta property="fb:pages" content="382164235214617" />
+<meta property="fb:app_id" content="110820829093720"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content="https://www.newsnation.in"/>
+<meta property="og:site_name" content="https://www.newsnation.in" />
+<meta property="og:title" content=" News Nation - Breaking News, Top Headlines, Latest News from India, World, Cricket, Sports, Bollywood and more- News Nation"/>
+<meta property="og:description" content="News Nation covers all breaking news, live updates on trending topics, top news from India and latest stories on business, sports, world, entertainment and lifestyle etc." />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta id="viewport" name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link href="https://fonts.googleapis.com/css?family=Faustina" rel="stylesheet">
+<link rel="stylesheet" href="https://static.newsnation.in/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://static.newsnation.in/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.newsnation.in/css/nn-style.css?v=13">
+<link rel="stylesheet" href="https://www.newsnation.in/css/responsive.css?v=13">
+<link rel="icon" href="https://static.newsnation.in/images/favicon.ico" type="image/x-icon">
+<script src="https://static.newsnation.in/js/jquery-2.0.3.min.js" type="text/javascript"></script> 
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js' type="text/javascript"></script>
+<!-- Google GA -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37576981-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Begin comScore Tag -->
+<script>
+var _comscore;  
+function hitComscore(){ 
+ 	  _comscore = _comscore || [];	  _comscore.push({ c1: "2", c2: "22071971" });	  (function() {		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);  })();}
+	hitComscore();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=22071971&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/133005217/NN_DFP_300x100', [300, 100], 'div-gpt-ad-1511856491848-0').addService(googletag.pubads());
+    googletag.defineSlot('/133005217/NN_DFP_300x250', [300, 250], 'div-gpt-ad-1544684158800-0').addService(googletag.pubads());
+    googletag.defineSlot('/133005217/NN_DFP_300x250_1', [300, 250], 'div-gpt-ad-1509357363462-2').addService(googletag.pubads());
+    googletag.defineSlot('/133005217/NN_DFP_300x250_2', [300, 250], 'div-gpt-ad-1509357363462-3').addService(googletag.pubads());
+    googletag.defineSlot('/133005217/NN_DFP_300x50', [300, 50], 'div-gpt-ad-1509357363462-4').addService(googletag.pubads());
+    googletag.defineSlot('/133005217/NN_DFP_300x600', [300, 600], 'div-gpt-ad-1509357363462-5').addService(googletag.pubads());
+    googletag.defineSlot('/133005217/NN_DFP_728x90', [728, 90], 'div-gpt-ad-1509357363462-6').addService(googletag.pubads());
+    googletag.defineSlot('/133005217/NN_DFP_728x90_1', [728, 90], 'div-gpt-ad-1509357363462-7').addService(googletag.pubads());
+    googletag.defineSlot('/133005217/NN_DFP_970x90', [970, 90], 'div-gpt-ad-1509357363462-8').addService(googletag.pubads());
+    googletag.defineSlot('/133005217/NN_DFP_970x90_1', [970, 90], 'div-gpt-ad-1509357363462-9').addService(googletag.pubads());
+	googletag.defineSlot('/133005217/NN_DFP_970x90_2', [970, 90], 'div-gpt-ad-1509431340337-0').addService(googletag.pubads());
+	 googletag.defineSlot('/133005217/NN_Desktop_ATF', [970, 90], 'div-gpt-ad-1544683886980-0').addService(googletag.pubads());
+    googletag.defineSlot('/133005217/NN_Mobile_ATF', [320, 100], 'div-gpt-ad-1537854863268-0').addService(googletag.pubads());
+	googletag.defineSlot('/133005217/Ad-640x30', [640, 360], 'div-gpt-ad-1521095935980-0').addService(googletag.pubads());
+	googletag.defineSlot('/133005217/NN_Desktop_ATF', [970, 90], 'div-gpt-ad-1542284833284-0').addService(googletag.pubads());
+	googletag.defineSlot('/133005217/Leaderboard-Bottom-728x90', [728, 90], 'div-gpt-ad-1542285019826-0').addService(googletag.pubads());
+	googletag.defineSlot('/133005217/News_Nation_Article_300x250_1', [300, 250], 'div-gpt-ad-1542284565734-0').addService(googletag.pubads());
+	googletag.defineSlot('/133005217/Footer_728x90', [728, 90], 'div-gpt-ad-1542284386379-0').addService(googletag.pubads());
+	 googletag.defineSlot('/133005217/NN_Mobile_BTF', [320, 100], 'div-gpt-ad-1542285574835-0').addService(googletag.pubads());
+	 googletag.defineSlot('/133005217/News_Nation_Mobile_300x250_2', [300, 250], 'div-gpt-ad-1542285334282-0').addService(googletag.pubads());
+	 googletag.defineSlot('/133005217/News_Nation_Mobile_300x250_1', [300, 250], 'div-gpt-ad-1542285207494-0').addService(googletag.pubads());
+	 googletag.defineSlot('/133005217/NN_VDO_AI_1x1', [1, 1], 'div-gpt-ad-1542976456816-0').addService(googletag.pubads());   
+	 googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- afp header code starts here -->
+<script type="text/javascript">	var adgh_p1="314";var adgh_p2="";var adgh_p3="2";var adgHdSc=document.createElement("script");		document.head.appendChild(adgHdSc);	adgHdSc.async=true;	var adgHscParam="p1="+adgh_p1+"&p2="+adgh_p2+"&p3="+adgh_p3;adgHdSc.id="adg_pixel_header_script";		adgHdSc.src="https://adgebra.co.in/afph/afph.js?"+adgHscParam;</script>
+<!-- afp header code ends here -->
+<!--script src="https://rtbcdn.andbeyond.media/prod-global-331655.js" async></script>  
+<script src="https://rtbcdn.andbeyond.media/prodprebidheader-331810.js" async></script--> 
+<style>
+.relstr table{ border:1px solid #CCC; border-collapse:collapse; width:100%;}
+.relstr table td{border:1px solid #CCC; font-size:18px; padding:5px;}
+.relstr table tr:first-child{ background:#CCC;}
+</style>
+
+</head>
+<body>
+<!-- /133005217/NN_VDO_AI_1x1 -->
+<div id='div-gpt-ad-1542976456816-0' style='height:1px; width:1px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1542976456816-0'); });
+</script>
+</div>
+
+<!--desktop header start, this visible in desktop only-->
+<div class="nation-desktop-header hidden-xs navbar-static">
+  <div class="container">
+    <div class="clearfix logo-and-ads">
+      <div class="col-sm-3 pl0 mt14"> <a href="https://www.newsnation.in" title="Logo"><img src="https://www.newsnation.in/images/newsnation-logo.png" width="120" height="71" alt="Newsnation Logo" title=""></a> </div>
+      <div class="col-sm-9 nation-right-banner pr0">  <!-- /133005217/NN_Desktop_ATF -->
+<div id='div-gpt-ad-1544683886980-0' style='height:90px; width:970px; margin:0px auto;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1544683886980-0'); });
+</script>
+</div>
+ </div>
+    </div>
+  </div>
+</div>
+<!--desktop header ends--> 
+<body class="">
+<div class="nation-navigation">
+  <nav class="navbar navbar-inverse"> 
+    <!---mobile header start-->
+    <div class="navbar-header visible-xs">
+      <div class="col-xs-2 fr">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nationNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-close">x</span></button>
+      </div>
+      <div class="col-xs-3 mobile-logo"> <a href="https://www.newsnation.in" title="Logo"><img src="https://www.newsnation.in/images/newsnation-logo.png"  alt="News Nation Logo" title="News Nation Logo"></a></div>
+            <div class="col-xs-3 livetv-logo"> <a href="https://www.newsnation.in/live-tv" title="Live Streming">
+        <div class="live-tv"></div>
+        </a> </div>
+    </div>
+    <div class="clearfix " ></div>
+    
+    <!-- extra Mobile Menu -->
+    <div class="mobile-menu hidden-lg hidden-md">
+      <div class="container pl0">
+        <ul>
+          <li><a href="https://www.newsnation.in" class="fs21 pr10 home-icon" title="Newsnation"><i class="fa fa-home"></i></a></li>
+          <li class="active"><a href="https://www.newsnation.in/india-news" title="India News">India</a></li>
+		 <li><a href="https://www.newsnation.in/election/lok-sabha-election-2019" title="Elections 2019">Elections 2019</a></li>
+          <li><a href="https://www.newsnation.in/photos" title="Photos">Photos</a></li>
+          <li><a href="https://www.newsnation.in/videos" title="Videos">Videos</a></li>
+          <li><a href="https://www.newsnation.in/world-news" title="World News">World</a></li>
+          <li><a href="https://www.newsnation.in/sports-news" title="Sports News">Sports</a></li>
+          <li><a href="https://www.newsnation.in/entertainment" title="Entertainment">Entertainment</a></li>
+          <li><a href="https://www.newsnation.in/business-news" title="Business News">Business</a></li>
+          <li><a href="https://www.newsnation.in/technology" title="Technology">Technology</a></li>
+          <li><a href="https://www.newsnation.in/cities" title="Cities">Cities</a></li>
+          <li><a href="https://www.newsnation.in/lifestyle" title="Lifestyle">Lifestyle</a></li>
+          <li><a href="https://www.newsnation.in/sports-news/cricket-news" title="Cricket News">Cricket</a></li>
+          <li><a href="https://www.newsnation.in/auto-news" title="Auto News">Auto</a></li>
+       
+        </ul>
+      </div>
+    </div>
+    <!-- extra Mobile Menu --> 
+    
+    <!---mobile header ends-->
+    <div class="container">
+      <div id="nationNavbar" class="collapse navbar-collapse nation-desktop-menu pad0">
+        <ul class="nav navbar-nav">
+          <li class="hidden-xs"><a href="https://www.newsnation.in" title="Home">
+            <div id="home"></div>
+            <i class="glyphicon glyphicon-home fs25"></i></a></li>
+          <li class="active"><a href="https://www.newsnation.in/live-tv" title="Live Tv">
+            <div id="live"></div>
+            <div class="live-ico">LIVE TV</div>
+            </a></li>
+			
+          <li class="dropdown"><a  href="https://www.newsnation.in/latest-news-today" title="Latest News" class="dropdown-toggle ">
+            <div id="editor"></div>
+            Latest</a> </li>
+            <li class="dropdown"><a href="https://www.newsnation.in/election/lok-sabha-election-2019" title="Lok Sabha Election 2019" class="dropdown-toggle ">
+            <div id="india"></div>
+            <div class="live-ico">Elections 2019</div>
+            </a></li>
+          <li class="dropdown"><a  href="https://www.newsnation.in/india-news" title="India News" class="dropdown-toggle ">
+            <div id="india"></div>
+            India</a> </li>
+          <li class="dropdown"><a  href="https://www.newsnation.in/world-news" title="World News" class="dropdown-toggle ">
+            <div id="world"></div>
+            World </a> </li>
+          <li class="dropdown"> <a href="https://www.newsnation.in/sports-news" title="Sports News" class="dropdown-toggle ">
+            <div id="sports"></div>
+            Sports </a> <span class="sports-news"></span>
+            <ul class="dropdown-menu">
+              <li class="hidden-xs">
+                <div class="clearfix nation-top-menu-links">
+                  <ul class="clearfix">
+                    <li><a href="https://www.newsnation.in/sports-news/cricket-news" title="Cricket News">Cricket</a></li>
+                    <li><a href="https://www.newsnation.in/sports-news/tennis-news" title="Tennis News">Tennis</a></li>
+                    <li><a href="https://www.newsnation.in/sports-news/motorsports-news" title="Mtorsports News">Motorsports</a></li>
+                    <li><a href="https://www.newsnation.in/sports-news/football-news" title="Football News">Football</a></li>
+                    <li><a href="https://www.newsnation.in/sports-news/golf-news" title="Golf News">Golf</a></li>
+                    <li><a href="https://www.newsnation.in/sports-news/shooting-news" title="Shooting News">Shooting</a></li>
+                    <li><a href="https://www.newsnation.in/sports-news/wwe-wrestling" title="Shooting News">WWE</a></li>
+                    <li><a href="https://www.newsnation.in/sports-news/other-sports" title="Other Sports">Other</a></li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"> <a href="https://www.newsnation.in/entertainment" title="Entertainment"  class="dropdown-toggle ">
+            <div id="ent"></div>
+            Entertainment </a> <span class="entertainment-news"></span>
+            <ul class="dropdown-menu">
+              <li class="hidden-xs">
+                <div class="clearfix nation-top-menu-links">
+                  <ul class="clearfix">
+                    <li><a href="https://www.newsnation.in/entertainment/bollywood-news" title="Bollywood News">Bollywood News</a></li>
+                    <li><a href="https://www.newsnation.in/entertainment/hollywood-news" title="Hollywood News">Hollywood News</a></li>
+                    <li><a href="https://www.newsnation.in/entertainment/movie-reviews" title="Movie Reviews">Movie Reviews</a></li>
+                    <li><a href="https://www.newsnation.in/entertainment/exclusive-interview" title="Exclusive Interview">Exclusive Interview</a></li>
+                    <li><a href="https://www.newsnation.in/entertainment/upcoming-movies" title="Upcoming Movies">Upcoming Movies</a></li>
+                    <li><a href="https://www.newsnation.in/entertainment/television-news" title="Television News">Television News</a></li>
+                    <li><a href="https://www.newsnation.in/entertainment/bigg-boss" title="Bigg Boss">Bigg Boss</a></li>
+                    <li><a href="https://www.newsnation.in/entertainment/regional-cinema" title="Regional Cinema">Regional Cinema</a></li>
+                    <li><a href="https://www.newsnation.in/entertainment/music" title="Music">Music</a></li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </li>
+          
+          <li class="dropdown"><a  href="https://www.newsnation.in/crime-news" title="Crime News" class="dropdown-toggle ">
+            <div id="crime-news"></div>
+            Crime</a> </li> 
+          
+		   <li class="dropdown"><a  href="https://www.newsnation.in/offbeat" title="Offbeat News" class="dropdown-toggle ">
+            <div id="editor"></div>
+            Offbeat</a> </li> 
+          <li class="dropdown"><a  href="https://www.newsnation.in/education" title="Education" class="dropdown-toggle ">
+            <div id="Education"></div>
+            Education </a>
+            <ul class="dropdown-menu">
+              <li class="hidden-xs">
+                <div class="clearfix nation-top-menu-links">
+                  <ul class="clearfix">
+                    <li><a href="https://www.newsnation.in/education/books" title="Books">Books</a></li>
+                    <li><a href="https://www.newsnation.in/education/higher-studies" title="Higher Studies">Higher Studies</a></li>
+                    <li><a href="https://www.newsnation.in/education/high-school" title="High School">High School</a></li>
+                    <li><a href="https://www.newsnation.in/education/exam-results" title="Exam Results">Exam Results</a></li>
+                    <li><a href="https://www.newsnation.in/education/jobs" title="Jobs">Jobs</a></li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown"><a  href="https://www.newsnation.in/videos" title="Videos" class="dropdown-toggle ">
+            <div id="videos"></div>
+            Videos</a></li>
+          <li class="dropdown"><a  href="https://www.newsnation.in/photos" title="Photos" class="dropdown-toggle ">
+            <div id="photos"></div>
+            Photos</a></li>
+        
+          <li class="hd_bg m510 hidden-xs"><a href="http://www.newsstate.com" target="_blank" rel="nofollow"><i class="blink"></i> हिंदी</a></li>
+          <li class="faceb1 hidden-xs"><a target="_blank" href="https://www.facebook.com/NewsNationChannel" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+          <li class="twitt1 hidden-xs"><a target="_blank" href="https://twitter.com/NewsNationTV" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+          <li class="gplus1 hidden-xs"><a target="_blank" href="https://plus.google.com/+NewsNationTV" title="Google Plus"><i class="fa fa-google-plus"></i></a></li>
+          <li class="youtube1 hidden-xs"><a target="_blank" href="https://www.youtube.com/channel/UCsNdeLwEZf86swPD3qJJ7Dw" title="youtube"><i class="fa fa-youtube"></i></a></li>
+          <li class="search1 hidden-xs">
+            <button id="myBtn1" class="nation-search bdr0"><i class="fa fa-search" title="Search"></i></button>
+          </li>
+          <li class="dropdown pull-right hidden-xs">
+            <p> <a href="javascript:void(0)" class="btn btn-custom btn-md mt7"> MENU <span class="glyphicon glyphicon-menu-hamburger dropdown-toggle"></span> </a></p>
+            <ul class="dropdown-menu drop-navi">
+              <li class="hidden-xs">
+                <div class="clearfix mores">
+                  <ul class="clearfix">
+                    <li><a href="https://www.newsnation.in/business-news" title="Business">Business</a></li>
+                    <li><a href="https://www.newsnation.in/cities" title="Cities">Cities</a></li>
+                    <li><a href="https://www.newsnation.in/lifestyle" title="Lifestyle">Lifestyle</a></li>
+                    <li><a href="https://www.newsnation.in/science-news" title="Science">Science</a></li>
+                    <li><a href="https://www.newsnation.in/auto-news" title="Auto News">Auto</a></li>
+                    <li><a href="https://www.newsnation.in/technology" title="Technology">Technology</a></li>
+                    <li><a href="https://www.newsnation.in/sports-news/cricket-news" title="Cricket">Cricket</a></li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <!--/.nav-collapse --> 
+    </div>
+  </nav>
+</div>
+<div id="myModal" class="modal"> 
+  <!-- Modal content -->
+  <div class="modal-content"> <span class="close">&times;</span>
+    <div class="search-form">
+      <form>
+        <input name="search" id="search" class="search-input" value="" placeholder="Search..." type="text" onkeyup="dataSearch(event,'search');">
+        <input name="Search" type="button" class="search-button" value="Search" id="search_submit" onclick="return validSearch('search');">
+      </form>
+    </div>
+  </div>
+</div>
+<div class="clearfix mobile25" ></div>
+<div class="clearfix"></div>
+<section>
+  <div class="container">
+    <div class="row">
+	    <div class="col-sm-9 col-xs-12"> 
+		
+		 <div class="txc"><img src="https://www.newsnation.in/images/not-found.jpg"></div>
+		 <div class="clearfix"></div>
+        
+        <!-- category heading start -->
+        <section>
+          <div class="clearfix ctbr">
+			<h1 class="pad fs20 mb20 brd1 hidden-xs mt10 fw">More from News Nation</h1>
+          </div>
+        </section>
+        <!-- category heading end -->
+        <div class="clearfix"></div>
+        <div class="tab-pane active clearfix">
+        <div class="sr-height">
+        			<div class="col-sm-4 col-xs-12 mb30">
+			<a href="https://www.newsnation.in/india-news/suicide-mission-iaf-pilots-jaish-e-mohammed-terrorists-fidayeen-mirage-2000-fighter-jets-pulwama-terror-attack-article-215303.html" title="Surgical Strike 2.0 | If captured, it will be 'suicide mission': IAF pilots instructed, say sources  "><img src="https://cdn7.newsnation.in/images/2019/02/26/surgicalstrike2-547797910_5.jpg" alt="Surgical Strike 2.0 | If captured, it will be 'suicide mission': IAF pilots instructed, say sources  " title="Surgical Strike 2.0 | If captured, it will be 'suicide mission': IAF pilots instructed, say sources  " class="full-img lazy">
+			<div class="search" >
+			<h2 class="pad fs14 lh23 ffs">Surgical Strike 2.0 | If captured, it will be 'suicide mission': IAF pilots instructed, say sources  </h2>
+			<div class="pl10 pr10 fs12 pb5 hidden-xs">26 Feb, 2019  11:14 PM</div>
+			</div>
+			</a> 
+			</div>
+       			<div class="col-sm-4 col-xs-12 mb30">
+			<a href="https://www.newsnation.in/india-news/surgical-strike-balakot-timeline-iaf-pakistan-operation-air-strike-pulwama-jaish-masood-azhar--article-215287.html" title="Surgical Strike in Balakot Timeline: How IAF carried out operation in 12 days    "><img src="https://cdn7.newsnation.in/images/2019/02/26/IAFBalakot-792939716_5.png" alt="Surgical Strike in Balakot Timeline: How IAF carried out operation in 12 days    " title="Surgical Strike in Balakot Timeline: How IAF carried out operation in 12 days    " class="full-img lazy">
+			<div class="search" >
+			<h2 class="pad fs14 lh23 ffs">Surgical Strike in Balakot Timeline: How IAF carried out operation in 12 days    </h2>
+			<div class="pl10 pr10 fs12 pb5 hidden-xs">26 Feb, 2019  11:19 PM</div>
+			</div>
+			</a> 
+			</div>
+       			<div class="col-sm-4 col-xs-12 mb30">
+			<a href="https://www.newsnation.in/india-news/breaking-jaish-chief-masood-azhar-lashkar-leader-hafiz-saeed-iaf-surgical-strike-balakot-pakistan-loc--article-215266.html" title="Jaish chief Masood Azhar meets Lashkar leader Hafiz Saeed after IAF’s surgical strike: Sources"><img src="https://cdn6.newsnation.in/images/2019/02/26/HafizMasoor-5746203_5.jpg" alt="Jaish chief Masood Azhar meets Lashkar leader Hafiz Saeed after IAF’s surgical strike: Sources" title="Jaish chief Masood Azhar meets Lashkar leader Hafiz Saeed after IAF’s surgical strike: Sources" class="full-img lazy">
+			<div class="search" >
+			<h2 class="pad fs14 lh23 ffs">Jaish chief Masood Azhar meets Lashkar leader Hafiz Saeed after IAF’s surgical strike: Sources</h2>
+			<div class="pl10 pr10 fs12 pb5 hidden-xs">26 Feb, 2019  11:19 PM</div>
+			</div>
+			</a> 
+			</div>
+       			<div class="col-sm-4 col-xs-12 mb30">
+			<a href="https://www.newsnation.in/india-news/breaking-indian-air-force-wing-commander-arvind-sinha-commits-suicide-in-prayagraj-allahabad-article-215299.html" title="Indian Air Force’s Wing Commander Arvind Sinha commits suicide in Prayagraj "><img src="https://cdn6.newsnation.in/images/2019/02/26/ArvindSinhaAirForce-895523447_5.png" alt="Indian Air Force’s Wing Commander Arvind Sinha commits suicide in Prayagraj " title="Indian Air Force’s Wing Commander Arvind Sinha commits suicide in Prayagraj " class="full-img lazy">
+			<div class="search" >
+			<h2 class="pad fs14 lh23 ffs">Indian Air Force’s Wing Commander Arvind Sinha commits suicide in Prayagraj </h2>
+			<div class="pl10 pr10 fs12 pb5 hidden-xs">26 Feb, 2019  11:41 PM</div>
+			</div>
+			</a> 
+			</div>
+       			<div class="col-sm-4 col-xs-12 mb30">
+			<a href="https://www.newsnation.in/india-news/breaking-iaf-hits-5-star-jaish-camp-pakistan-kills-350-terrorists-pulwama-balakot-india-modi-12-mirage-2000-jets--article-215260.html" title="Over 350 terrorists killed as IAF uses 12 Mirage 2000 jets to target Jaish camps across LoC"><img src="https://cdn5.newsnation.in/images/2019/02/26/IAFsurgicalstrike-492523936_5.jpg" alt="Over 350 terrorists killed as IAF uses 12 Mirage 2000 jets to target Jaish camps across LoC" title="Over 350 terrorists killed as IAF uses 12 Mirage 2000 jets to target Jaish camps across LoC" class="full-img lazy">
+			<div class="search" >
+			<h2 class="pad fs14 lh23 ffs">Over 350 terrorists killed as IAF uses 12 Mirage 2000 jets to target Jaish camps across LoC</h2>
+			<div class="pl10 pr10 fs12 pb5 hidden-xs">26 Feb, 2019  04:48 PM</div>
+			</div>
+			</a> 
+			</div>
+       			<div class="col-sm-4 col-xs-12 mb30">
+			<a href="https://www.newsnation.in/india-news/breaking-pm-narendra-modi-chiefs-armed-forces-air-strike-balakot-iaf-pulwama-terror-strike-pakistan-article-215291.html" title="PM Modi meets three chiefs of armed forces, congratulates them for air strike "><img src="https://cdn5.newsnation.in/images/2019/02/26/Modiarmychief-584997843_5.jpg" alt="PM Modi meets three chiefs of armed forces, congratulates them for air strike " title="PM Modi meets three chiefs of armed forces, congratulates them for air strike " class="full-img lazy">
+			<div class="search" >
+			<h2 class="pad fs14 lh23 ffs">PM Modi meets three chiefs of armed forces, congratulates them for air strike </h2>
+			<div class="pl10 pr10 fs12 pb5 hidden-xs">26 Feb, 2019  08:59 PM</div>
+			</div>
+			</a> 
+			</div>
+       			<div class="col-sm-4 col-xs-12 mb30">
+			<a href="https://www.newsnation.in/world-news/wait-for-our-response-says-pakistan-army-after-indias-balakot-air-strike--article-215278.html" title="‘Wait for our response,’ says Pakistan Army after India’s Balakot air strike "><img src="https://cdn7.newsnation.in/images/2019/02/26/AsifGhafoor-657393313_5.jpg" alt="‘Wait for our response,’ says Pakistan Army after India’s Balakot air strike " title="‘Wait for our response,’ says Pakistan Army after India’s Balakot air strike " class="full-img lazy">
+			<div class="search" >
+			<h2 class="pad fs14 lh23 ffs">‘Wait for our response,’ says Pakistan Army after India’s Balakot air strike </h2>
+			<div class="pl10 pr10 fs12 pb5 hidden-xs">26 Feb, 2019  06:50 PM</div>
+			</div>
+			</a> 
+			</div>
+       			<div class="col-sm-4 col-xs-12 mb30">
+			<a href="https://www.newsnation.in/india-news/five-soldiers-injured-as-pakistan-resorts-to-heavy-shelling-along-loc-in-jammu-and-kashmir-article-215306.html" title="Five soldiers injured as Pakistan resorts to heavy shelling along LoC in Jammu and Kashmir"><img src="https://cdn7.newsnation.in/images/2019/02/26/CeasefireViolation-222009976_5.jpg" alt="Five soldiers injured as Pakistan resorts to heavy shelling along LoC in Jammu and Kashmir" title="Five soldiers injured as Pakistan resorts to heavy shelling along LoC in Jammu and Kashmir" class="full-img lazy">
+			<div class="search" >
+			<h2 class="pad fs14 lh23 ffs">Five soldiers injured as Pakistan resorts to heavy shelling along LoC in Jammu and Kashmir</h2>
+			<div class="pl10 pr10 fs12 pb5 hidden-xs">26 Feb, 2019  11:32 PM</div>
+			</div>
+			</a> 
+			</div>
+       			<div class="col-sm-4 col-xs-12 mb30">
+			<a href="https://www.newsnation.in/world-news/australia-tells-pakistan-to-take-meaningful-action-against-terrorist-groups-after-balakot-air-strike-article-215280.html" title="Australia tells Pakistan to take meaningful action against terror groups after Balakot air strike"><img src="https://cdn6.newsnation.in/images/2019/02/26/Mirage2-622326350_5.jpg" alt="Australia tells Pakistan to take meaningful action against terror groups after Balakot air strike" title="Australia tells Pakistan to take meaningful action against terror groups after Balakot air strike" class="full-img lazy">
+			<div class="search" >
+			<h2 class="pad fs14 lh23 ffs">Australia tells Pakistan to take meaningful action against terror groups after Balakot air strike</h2>
+			<div class="pl10 pr10 fs12 pb5 hidden-xs">26 Feb, 2019  06:46 PM</div>
+			</div>
+			</a> 
+			</div>
+       			<div class="col-sm-4 col-xs-12 mb30">
+			<a href="https://www.newsnation.in/india-news/happy-that-all-parties-in-one-voice-praised-the-security-forces-says-sushma-swaraj-after-all-party-meet-article-215286.html" title="Happy that all parties in one voice praised the security forces, says Sushma Swaraj after all-party meet"><img src="https://cdn5.newsnation.in/images/2019/02/26/sushma-845934672_5.jpg" alt="Happy that all parties in one voice praised the security forces, says Sushma Swaraj after all-party meet" title="Happy that all parties in one voice praised the security forces, says Sushma Swaraj after all-party meet" class="full-img lazy">
+			<div class="search" >
+			<h2 class="pad fs14 lh23 ffs">Happy that all parties in one voice praised the security forces, says Sushma Swaraj after all-party meet</h2>
+			<div class="pl10 pr10 fs12 pb5 hidden-xs">26 Feb, 2019  07:47 PM</div>
+			</div>
+			</a> 
+			</div>
+       			<div class="col-sm-4 col-xs-12 mb30">
+			<a href="https://www.newsnation.in/india-news/after-air-strikes-france-recognises-indias-legitimacy-to-ensure-its-security-against-cross-border-terrorism--article-215295.html" title="France 'recognises India's legitimacy to ensure its security against cross-border terrorism'"><img src="https://cdn7.newsnation.in/images/2019/02/26/Airforce-272984959_5.jpg" alt="France 'recognises India's legitimacy to ensure its security against cross-border terrorism'" title="France 'recognises India's legitimacy to ensure its security against cross-border terrorism'" class="full-img lazy">
+			<div class="search" >
+			<h2 class="pad fs14 lh23 ffs">France 'recognises India's legitimacy to ensure its security against cross-border terrorism'</h2>
+			<div class="pl10 pr10 fs12 pb5 hidden-xs">26 Feb, 2019  11:55 PM</div>
+			</div>
+			</a> 
+			</div>
+       			<div class="col-sm-4 col-xs-12 mb30">
+			<a href="https://www.newsnation.in/india-news/i-salute-indian-air-force-says-manohar-parrikar-after-balakot-strike-article-215292.html" title="“I salute Indian Air Force”, says Manohar Parrikar after Balakot strike"><img src="https://cdn7.newsnation.in/images/2019/02/26/Manohhar-329990194_5.jpg" alt="“I salute Indian Air Force”, says Manohar Parrikar after Balakot strike" title="“I salute Indian Air Force”, says Manohar Parrikar after Balakot strike" class="full-img lazy">
+			<div class="search" >
+			<h2 class="pad fs14 lh23 ffs">“I salute Indian Air Force”, says Manohar Parrikar after Balakot strike</h2>
+			<div class="pl10 pr10 fs12 pb5 hidden-xs">26 Feb, 2019  08:34 PM</div>
+			</div>
+			</a> 
+			</div>
+              </div>
+       </div>
+      </div>
+    
+      
+      <!--Right side Construction start -->
+      <div class="col-sm-3 col-xs-12 hidden-xs">
+
+
+        <div class="score">
+		<iframe src="https://cricket.newsnation.in/cricket/widgets/!/mo/www.newsnation.in/1/1/All/All/All/1/n?dtab=&amp;hrInt12=" width="300px" height="69px" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+        </div>
+		
+		<div class="clearfix mb10"></div>
+
+	
+	    		
+		<!--<div class="score">   <div class="crick"><script>  app='cric.newsnation.in'; mo="n_1"; nt="1";   wi ="n";  co ="7"; ad="1";  Width='350px'; Height="25px";  </script><script type="text/javascript" src="http://cric.newsnation.in/cricket/widgets/script/scoreWidgets.js?cver=3-0-1-8.380739914257031194"></script></div>
+		</div>-->
+		
+	
+		
+		<!-- Start Add -->
+		<div class="mb20"><!-- /133005217/NN_DFP_300x250 -->
+<div id='div-gpt-ad-1544684158800-0' style='height:250px; width:300px; margin:0px auto;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1544684158800-0'); });
+</script>
+</div>
+
+
+
+
+</div>
+		<!-- End Add --> 
+	
+	    	 
+      
+                
+                
+         		<div class="mt30">
+		<h3 class="cat-heading fw brown"><a href="https://www.newsnation.in/videos" title="Videos">Top Videos</a></h3>
+		<div class="shd mt10">
+		  <ul class="tp-vdo pad5">
+						<li class="mt20">
+			  <div class="pull-left pl10 pt5 rel w30p">
+			  <a href="https://www.newsnation.in/videos/india/which-weapons-aircrafts-used-in-iaf-air-strikes-and-why-8/45461" title="Which weapons, aircrafts used in IAF air strikes and why?">
+			  <i class="glyphicon glyphicon-play-circle vdicon abs"></i>
+			  <img src="https://cdn7.newsnation.in/images/photos/small/air_2731754551.jpg" alt="Which weapons, aircrafts used in IAF air strikes and why?" title="Which weapons, aircrafts used in IAF air strikes and why?" class="full-img img-rounded">
+			  </a>
+			  </div>
+			  <div class="pull-right w64p">
+				<h2 class="fs16 lh21">
+				<a href="https://www.newsnation.in/videos/india/which-weapons-aircrafts-used-in-iaf-air-strikes-and-why-8/45461" title="Which weapons, aircrafts used in IAF air strikes and why?">Which weapons, aircrafts used in IAF air strikes and why?</a></h2>
+			  </div>
+			  <div class="clearfix"></div>
+			  <div class="stline1"></div>
+			</li>
+						<li class="mt20">
+			  <div class="pull-left pl10 pt5 rel w30p">
+			  <a href="https://www.newsnation.in/videos/india/lakh-take-ki-baat-people-across-india-celebrate-after-iaf-air-strikes-8/45464" title="Lakh Take Ki Baat: People across India celebrate after IAF air strikes">
+			  <i class="glyphicon glyphicon-play-circle vdicon abs"></i>
+			  <img src="https://cdn5.newsnation.in/images/photos/small/air_1508357850.jpg" alt="Lakh Take Ki Baat: People across India celebrate after IAF air strikes" title="Lakh Take Ki Baat: People across India celebrate after IAF air strikes" class="full-img img-rounded">
+			  </a>
+			  </div>
+			  <div class="pull-right w64p">
+				<h2 class="fs16 lh21">
+				<a href="https://www.newsnation.in/videos/india/lakh-take-ki-baat-people-across-india-celebrate-after-iaf-air-strikes-8/45464" title="Lakh Take Ki Baat: People across India celebrate after IAF air strikes">Lakh Take Ki Baat: People across India celebrate after IAF air strikes</a></h2>
+			  </div>
+			  <div class="clearfix"></div>
+			  <div class="stline1"></div>
+			</li>
+						<li class="mt20">
+			  <div class="pull-left pl10 pt5 rel w30p">
+			  <a href="https://www.newsnation.in/videos/india/cut-to-cut-how-iaf-jets-blew-up-jems-biggest-terror-camp-in-pakistan-8/45463" title="Cut to Cut: How IAF jets blew up JeM's biggest terror camp in Pakistan">
+			  <i class="glyphicon glyphicon-play-circle vdicon abs"></i>
+			  <img src="https://cdn6.newsnation.in/images/photos/small/nn video dimensions_2638783743.jpg" alt="Cut to Cut: How IAF jets blew up JeM's biggest terror camp in Pakistan" title="Cut to Cut: How IAF jets blew up JeM's biggest terror camp in Pakistan" class="full-img img-rounded">
+			  </a>
+			  </div>
+			  <div class="pull-right w64p">
+				<h2 class="fs16 lh21">
+				<a href="https://www.newsnation.in/videos/india/cut-to-cut-how-iaf-jets-blew-up-jems-biggest-terror-camp-in-pakistan-8/45463" title="Cut to Cut: How IAF jets blew up JeM's biggest terror camp in Pakistan">Cut to Cut: How IAF jets blew up JeM's biggest terror camp in Pakistan</a></h2>
+			  </div>
+			  <div class="clearfix"></div>
+			  <div class="stline1"></div>
+			</li>
+						<li class="mt20">
+			  <div class="pull-left pl10 pt5 rel w30p">
+			  <a href="https://www.newsnation.in/videos/india/reactions-across-india-after-iafs-air-strike-on-three-terror-camps-8/45459" title="Reactions across India after IAF's air strike on three terror camps">
+			  <i class="glyphicon glyphicon-play-circle vdicon abs"></i>
+			  <img src="https://cdn7.newsnation.in/images/photos/small/mirage 555_4967239019.jpg" alt="Reactions across India after IAF's air strike on three terror camps" title="Reactions across India after IAF's air strike on three terror camps" class="full-img img-rounded">
+			  </a>
+			  </div>
+			  <div class="pull-right w64p">
+				<h2 class="fs16 lh21">
+				<a href="https://www.newsnation.in/videos/india/reactions-across-india-after-iafs-air-strike-on-three-terror-camps-8/45459" title="Reactions across India after IAF's air strike on three terror camps">Reactions across India after IAF's air strike on three terror camps</a></h2>
+			  </div>
+			  <div class="clearfix"></div>
+			  <div class="stline1"></div>
+			</li>
+						<li class="mt20">
+			  <div class="pull-left pl10 pt5 rel w30p">
+			  <a href="https://www.newsnation.in/videos/india/pakistan-releases-first-visuals-of-iaf-mirage-2000-bombing-across-loc-8/45432" title="Pakistan releases first visuals of IAF Mirage 2000 bombing across LoC">
+			  <i class="glyphicon glyphicon-play-circle vdicon abs"></i>
+			  <img src="https://cdn6.newsnation.in/images/photos/small/miragggg_4286084296.jpg" alt="Pakistan releases first visuals of IAF Mirage 2000 bombing across LoC" title="Pakistan releases first visuals of IAF Mirage 2000 bombing across LoC" class="full-img img-rounded">
+			  </a>
+			  </div>
+			  <div class="pull-right w64p">
+				<h2 class="fs16 lh21">
+				<a href="https://www.newsnation.in/videos/india/pakistan-releases-first-visuals-of-iaf-mirage-2000-bombing-across-loc-8/45432" title="Pakistan releases first visuals of IAF Mirage 2000 bombing across LoC">Pakistan releases first visuals of IAF Mirage 2000 bombing across LoC</a></h2>
+			  </div>
+			  <div class="clearfix"></div>
+			  <div class="stline1"></div>
+			</li>
+					  </ul>
+		</div>
+		</div>
+		
+		
+		<!-- Start Add -->
+		<div class="mt20"> <!-- /133005217/News_Nation_Article_300x250_1 -->
+<div id='div-gpt-ad-1542284565734-0' style='height:250px; width:300px;' class='h250'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1542284565734-0'); });
+</script>
+</div>
+</div>
+		<!-- End Add --> 
+		
+		<!-- End Right Videso -->
+		
+				<!-- Start Right Photos -->
+		<div class="mt30">
+		<h3 class="cat-heading fw brown"><a href="https://www.newsnation.in/photos" title="Photo Gallery">Photo Gallery</a></h3>
+		<div class="shd mt10">
+            <ul class="tp-vdo pad5">
+		  			<li class="mt20">
+			  <div class="pull-left pl10 pt5 rel w30p">
+			  <a href="https://www.newsnation.in/photos/news/in-pics-from-mig-29-to-sukhoi-these-supersonic-indian-fighter-jets-can-destroy-any-target-3171/slide1" title="In Pics: From Mig-29 to Sukhoi, these supersonic Indian fighter jets can destroy any target">
+			  <img src="https://cdn7.newsnation.in/images/photos/thumb/3171_Main jet_2061.jpg" alt="In Pics: From Mig-29 to Sukhoi, these supersonic Indian fighter jets can destroy any target" title="In Pics: From Mig-29 to Sukhoi, these supersonic Indian fighter jets can destroy any target" class="full-img img-rounded"/>
+			  <i class="glyphicon glyphicon-camera vdicon abs"></i>
+			  </a>
+			  </div>
+			  <div class="pull-right w64p"><h2 class="fs16 lh21">
+			  <a href="https://www.newsnation.in/photos/news/in-pics-from-mig-29-to-sukhoi-these-supersonic-indian-fighter-jets-can-destroy-any-target-3171/slide1" title="In Pics: From Mig-29 to Sukhoi, these supersonic Indian fighter jets can destroy any target">In Pics: From Mig-29 to Sukhoi, these supersonic Indian fighter jets can destroy any target</a>
+			  </h2></div>
+			  <div class="clearfix"></div>
+                <div class="stline1"></div>
+			</li>
+						<li class="mt20">
+			  <div class="pull-left pl10 pt5 rel w30p">
+			  <a href="https://www.newsnation.in/photos/entertainment/surgical-strike-20-on-pakistan-samantha-akkineni-kamal-haasan-and-other-south-celebs-praise-indian-air-force-3170/slide1" title="Surgical strike 2.0 on Pakistan: Samantha Akkineni, Kamal Haasan and other South celebs praise Indian Air Force ">
+			  <img src="https://cdn6.newsnation.in/images/photos/thumb/3170-samantha-kamal-6374.jpg" alt="Surgical strike 2.0 on Pakistan: Samantha Akkineni, Kamal Haasan and other South celebs praise Indian Air Force " title="Surgical strike 2.0 on Pakistan: Samantha Akkineni, Kamal Haasan and other South celebs praise Indian Air Force " class="full-img img-rounded"/>
+			  <i class="glyphicon glyphicon-camera vdicon abs"></i>
+			  </a>
+			  </div>
+			  <div class="pull-right w64p"><h2 class="fs16 lh21">
+			  <a href="https://www.newsnation.in/photos/entertainment/surgical-strike-20-on-pakistan-samantha-akkineni-kamal-haasan-and-other-south-celebs-praise-indian-air-force-3170/slide1" title="Surgical strike 2.0 on Pakistan: Samantha Akkineni, Kamal Haasan and other South celebs praise Indian Air Force ">Surgical strike 2.0 on Pakistan: Samantha Akkineni, Kamal Haasan and other South celebs praise Indian Air Force </a>
+			  </h2></div>
+			  <div class="clearfix"></div>
+                <div class="stline1"></div>
+			</li>
+						<li class="mt20">
+			  <div class="pull-left pl10 pt5 rel w30p">
+			  <a href="https://www.newsnation.in/photos/entertainment/akash-ambanis-pre-wedding-bash-starts-with-winter-wonderland-themed-carnival-3169/slide1" title="Akash Ambani’s pre-wedding bash starts with Winter Wonderland themed carnival">
+			  <img src="https://cdn6.newsnation.in/images/photos/thumb/3169_1sakashola_8732.jpg" alt="Akash Ambani’s pre-wedding bash starts with Winter Wonderland themed carnival" title="Akash Ambani’s pre-wedding bash starts with Winter Wonderland themed carnival" class="full-img img-rounded"/>
+			  <i class="glyphicon glyphicon-camera vdicon abs"></i>
+			  </a>
+			  </div>
+			  <div class="pull-right w64p"><h2 class="fs16 lh21">
+			  <a href="https://www.newsnation.in/photos/entertainment/akash-ambanis-pre-wedding-bash-starts-with-winter-wonderland-themed-carnival-3169/slide1" title="Akash Ambani’s pre-wedding bash starts with Winter Wonderland themed carnival">Akash Ambani’s pre-wedding bash starts with Winter Wonderland themed carnival</a>
+			  </h2></div>
+			  <div class="clearfix"></div>
+                <div class="stline1"></div>
+			</li>
+						<li class="mt20">
+			  <div class="pull-left pl10 pt5 rel w30p">
+			  <a href="https://www.newsnation.in/photos/news/in-pics-interesting-facts-about-national-war-memorial-3168/slide1" title="In Pics: Interesting facts about National War Memorial ">
+			  <img src="https://cdn7.newsnation.in/images/photos/thumb/3168_WarMemorialmain_7721.jpg" alt="In Pics: Interesting facts about National War Memorial " title="In Pics: Interesting facts about National War Memorial " class="full-img img-rounded"/>
+			  <i class="glyphicon glyphicon-camera vdicon abs"></i>
+			  </a>
+			  </div>
+			  <div class="pull-right w64p"><h2 class="fs16 lh21">
+			  <a href="https://www.newsnation.in/photos/news/in-pics-interesting-facts-about-national-war-memorial-3168/slide1" title="In Pics: Interesting facts about National War Memorial ">In Pics: Interesting facts about National War Memorial </a>
+			  </h2></div>
+			  <div class="clearfix"></div>
+                <div class="stline1"></div>
+			</li>
+					  </ul>
+		</div>
+		</div>
+				<!-- End Right Photos -->
+</div>		      <!--Right side Construction End --> 
+      
+    </div>
+  </div>
+</section>
+<!-- footer section start -->
+<footer>
+<div class="clearfix"></div>
+  <div class="menu hidden-xs">
+    <div class="container">
+      <ul>
+        <li><a href="https://www.newsnation.in/terms-of-use" title="Terms of Use">Terms of Use</a></li>
+        <li><a href="https://www.newsnation.in/job-with-us" title="Career">Career</a></li>
+        <li><a href="https://www.newsnation.in/complaint-redressal" title="Complaint Redressal">Complaint Redressal</a></li>
+        <li><a href="https://www.newsnation.in/contactus" title="Contact Us">Contact Us</a></li>
+        <li><a href="https://www.newsnation.in/feedback" title="Feedback">Feedback</a></li>
+        <li><a href="https://www.newsnation.in/sitemap" title="Sitemap">Sitemap</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="clearfix"></div>
+  <div class="copyright">
+    <div class="container">
+      <div class="col-sm-12 fs12 mt10 mb10 text-center copy">&copy; 2018 News Nation. All rights reserved.</div>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+  <div class="container rel"><a class="scrollToTop" style="bottom:66px;" href="javascript:void(0);"><i class="glyphicon glyphicon-chevron-up"></i></a></div>
+</footer>
+
+<div class="hidden-lg" style="background:#efefef;border:2px solid #CCC;padding:10px 0;width:100%;font-size:16px;color:#06F;position:fixed;bottom:0px;left:0px; float:left;">
+ 
+<div class="pull-left" style="padding-left:5px;"><a href="https://play.google.com/store/apps/details?id=com.newsnationonline&referrer=utm_source%3DNN_WEB_Mobile%26utm_medium%3DNN_WEB_Mobile_Site%26utm_term%3DNN_WEB%26utm_campaign%3DNN_WEB_Mobile_APP_Download%26anid%3Dadmob"><img src="https://www.newsnation.in/images/newsnation-logo.png" width="70" />&nbsp;&nbsp;&nbsp;&nbsp;<strong> DOWNLOAD APP</strong></a></div>
+
+
+<div class="pull-right pr10" >
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="https://www.facebook.com/NewsNationChannel/" data-layout="box_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+</div>
+</div>
+
+<style>
+ .ns-boxes{background:#f2f2f2; border:1px solid #e6e5e5; padding:10px;}
+ .polls h2{ font-size:21px; margin-bottom:10px;}
+ .ml8{ margin-left:10px;} #btnSubmit{ font-size:20px;}
+ @media screen and (max-width:640px){.poll-h{ height:330px; overflow-y:scroll; padding:0px 15px;}.question{ font-size:20px; line-height:26px;}.poll-h .col-sm-4{ padding-left:0px; padding-right:0px;}}
+
+ </style>
+<!-- End Footer --> 
+<script src="https://static.newsnation.in/js/bootstrap.min.js" type="text/javascript"></script> 
+<script src="https://static.newsnation.in/js/jquery.bxslider.js" type="text/javascript"></script> 
+<script src="https://www.newsnation.in/js/poll-widget.js?v2"></script>
+<script>
+$(document).ready(function() {
+  // Get an array of all element heights
+  var elementHeights = $('.home-sec .pup').map(function() {
+    return $(this).height();
+  }).get();
+
+  // Math.max takes a variable number of arguments
+  // `apply` is equivalent to passing each height as an argument
+  var maxHeight = Math.max.apply(null, elementHeights);
+
+  // Set each height to the max height
+  $('.home-sec .pup').height(maxHeight);
+});
+
+$(".navbar-toggle").click(function(){
+	if($("body").hasClass('overlay')){
+	$("body").removeClass('overlay');
+	}else{
+			$("body").addClass('overlay');
+			}
+	});
+</script> 
+ 
+<script type="text/javascript">
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn1");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on the button, open the modal
+btn.onclick = function() {
+    modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+} 
+</script> 
+
+<!--header javascript--> 
+<script type="text/javascript">
+   $(document).ready(function() {
+        if ($(window).width() > 768) {
+            $('.nation-navigation ul.nav li.dropdown').hover(function() {
+                $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
+                $(this).addClass('open');
+            }, function() {
+                $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
+                $(this).removeClass('open');
+            });
+        }else{
+        	$('.nation-navigation ul.nav li.dropdown .mobile-dropdown-toggle').click(function(event) {
+        		event.stopPropagation();
+				if ($(this).hasClass("open")) {
+                	$(this).removeClass('open');
+                	$(this).parent().parent().removeClass('open');
+                	$(this).parent().parent().find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
+		       } else {
+		           $('.nation-navigation .dropdown').removeClass('open');
+                    $('.nation-navigation .mobile-dropdown-toggle').removeClass('open');
+
+                    $(this).addClass('open');
+                	$(this).parent().parent().addClass('open');
+		           $(this).parent().parent().find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
+		       }
+            	return false;
+            });
+			
+        }
+//Sticky Header		
+$(window).scroll(function() {
+if($(window).width() > 767){
+
+if ($(this).scrollTop() > 115){
+    $('.nation-navigation').addClass("navbar-fixed-top");
+	$('.nation-home').hide();
+	$('.sticky-logo').show();
+  }
+  else{
+	$('.nation-navigation').removeClass("navbar-fixed-top");
+	
+   $('.nation-home').show();
+	$('.sticky-logo').hide();
+  }
+  }
+});
+
+if ($(window).width() < 768){
+	$('body').css('padding-top', '75px');
+	$('.nation-navigation').addClass("navbar-fixed-top");
+}
+
+ })
+ 
+$('.slider_opinion').bxSlider({slideWidth:335,minSlides:1,moveSlides: 1,nextText: '<i class="glyphicon glyphicon-chevron-right fs20 ero2"></i>',prevText: '<i class="glyphicon glyphicon-chevron-left fs20 ero3"></i>',pager: false,maxSlides:5, });
+ $('.sldvdo').bxSlider({slideWidth:330,minSlides:1,moveSlides: 1,nextText: '<i class="glyphicon glyphicon-chevron-right fs30" ></i>',prevText: '<i class="glyphicon glyphicon-chevron-left fs30 "></i>',pager: false,maxSlides:5,});
+  $('.slvdxs').bxSlider({slideWidth:230,minSlides:1,moveSlides: 1,nextText: '<i class="glyphicon glyphicon-chevron-right fs24" ></i>',prevText: '<i class="glyphicon glyphicon-chevron-left fs24 "></i>',pager: false,maxSlides:5,});	
+  $('.ele_sld').bxSlider({slideWidth:332,minSlides:1,moveSlides: 1,nextText: '<i class="glyphicon glyphicon-chevron-right efs20"></i>',prevText: '<i class="glyphicon glyphicon-chevron-left efs20 "></i>',pager: false,maxSlides:20, }); 
+
+ 
+ 
+function get_mega_menu(catId,title,clss,type)
+{
+	
+	$.ajax({
+		    method: "GET", 
+			url: "https://www.newsnation.in/web2-header-menu-json-new.php?catId="+catId+"&type="+type+"&title="+title,
+			
+    })
+	.done(function(data) 
+	{	
+		var obj = jQuery.parseJSON(data);
+		
+		$(obj.content).insertAfter("."+clss+":last");
+	});
+	
+}
+function dataSearch(e,str)
+ {
+	var code=e.keyCode? e.keyCode : e.charCode
+	
+	if(code==13)
+	{
+		validSearch(str);
+
+	}
+ }
+ 
+function validSearch(str)
+{
+	var str	=	$('#'+str).val();
+	if(str=="" || str=="Search..." )
+	{
+	alert("please enter search text");
+	return false;
+	}else{
+
+		var res = str.replace(':','');
+		res = res.replace('!','');
+		res = res.replace('?','');
+		res = res.replace("'",'');
+		res = res.replace('"','');
+		res = res.replace(',','');
+		res = res.replace(/ /gi,'-');
+		window.location="https://www.newsnation.in/search/"+res;
+	}
+}
+</script> 
+<!--JS ONSCROLL START--->
+<script>
+	$(window).scroll(function(){
+		if ($(this).scrollTop() > 100) {
+			$('.scrollToTop, .add-scroll').fadeIn();
+		} else {
+			$('.scrollToTop, .add-scroll').fadeOut();
+		}
+	});
+	
+	//Click event to scroll to top
+	$('.scrollToTop, .add-scroll').click(function(){
+		$('html, body').animate({scrollTop : 0},800);
+		return false;
+	});
+	
+/*($(document).ready(function() {
+$('.ticker').ticker();
+});*/
+	
+</script>
+<script> window._izq = window._izq || []; window._izq.push(["init"]); </script>
+<script src="https://cdn.izooto.com/scripts/72301058a0fd8ddaaafc703a98503bac0ed3baf6.js"></script>
+<!--<script type="application/javascript" src="//ced.sascdn.com/tag/2933/smart.js" async></script>
+<div id="sas_60933"></div>
+<script type="application/javascript">
+    var sas = sas || {};
+    sas.cmd = sas.cmd || [];
+    sas.cmd.push(
+        function () {
+            sas.call(
+                { siteId: 240314, pageId: 944349, formatId: 60933, tagId: "sas_60933" },
+                { networkId: 2933, domain: "//www15.smartadserver.com" /*, onNoad: function() {} */ }
+            );
+        }
+    );</script>-->
+<!--JS ONSCROLL END--->
+<!-- /133005217/NN_VDO_AI_1x1 -->
+<div id='div-gpt-ad-1542976456816-0' style='height:1px; width:1px; margin:0 auto;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1542976456816-0'); });
+</script>
+</div>

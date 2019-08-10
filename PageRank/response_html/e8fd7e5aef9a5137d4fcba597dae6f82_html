@@ -1,0 +1,1767 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:doi="http://dx.doi.org/"
+      lang="en" xml:lang="en"
+      itemscope itemtype="http://schema.org/Article"
+      class="no-js">
+
+
+
+<head prefix="og: http://ogp.me/ns#">
+  <title>Reliable novelty: New should not trump true</title>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/plosbiology/resource/compiled/asset_QA4NEBUHOFMI3EEVJK35PLQFU7Q6GQQR.css" />
+
+  <!-- allows for  extra head tags -->
+
+
+<!-- hello -->
+<link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600">
+
+<link media="print" rel="stylesheet" type="text/css"  href="/plosbiology/resource/css/print.css"/>
+    <script type="text/javascript">
+        var siteUrlPrefix = "/plosbiology/";
+    </script>
+<script src="/plosbiology/resource/compiled/asset_SC5JIUGEUPR4P4P6VBUINUVOVUSU3NRY.js"></script>
+
+  <link rel="shortcut icon" href="/plosbiology/resource/img/favicon.ico" type="image/x-icon"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+
+
+
+
+
+  <link rel="canonical" href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000117" />
+  <meta name="description" content="This Perspective article asserts that the most prestigious journals publish the least reliable science, and asks how long we can afford to reward scientists for publishing there." />
+
+  <meta name="citation_abstract" content="Although a case can be made for rewarding scientists for risky, novel science rather than for incremental, reliable science, novelty without reliability ceases to be science. The currently available evidence suggests that the most prestigious journals are no better at detecting unreliable science than other journals. In fact, some of the most convincing studies show a negative correlation, with the most prestigious journals publishing the least reliable science. With the credibility of science increasingly under siege, how much longer can we afford to reward novelty at the expense of reliability? Here, I argue for replacing the legacy journals with a modern information infrastructure that is governed by scholars. This infrastructure would allow renewed focus on scientific reliability, with improved sort, filter, and discovery functionalities, at massive cost savings. If these savings were invested in additional infrastructure for research data and scientific code and/or software, scientific reliability would receive additional support, and funding woes&mdash;for, e.g., biological databases&mdash;would be a concern of the past.">
+
+
+  <meta name="keywords" content="Scientific publishing,Research validity,Peer review,Scientists,Citation analysis,Behavior,Computer modeling,Reproducibility" />
+
+
+<meta name="citation_doi" content="10.1371/journal.pbio.3000117"/>
+<meta name="citation_author" content="Björn Brembs"/>
+  <meta name="citation_author_institution" content="Universität Regensburg, Institut für Zoologie, Neurogenetik, Regensburg, Germany"/>
+
+<meta name="citation_title" content="Reliable novelty: New should not trump true"/>
+<meta itemprop="name" content="Reliable novelty: New should not trump true"/>
+<meta name="citation_journal_title" content="PLOS Biology"/>
+<meta name="citation_journal_abbrev" content="PLOS Biology"/>
+<meta name="citation_date" content="Feb 12, 2019"/>
+<meta name="citation_firstpage" content="e3000117"/>
+<meta name="citation_issue" content="2"/>
+<meta name="citation_volume" content="17"/>
+<meta name="citation_issn" content="1545-7885"/>
+<meta name="citation_publisher" content="Public Library of Science"/>
+
+  <meta name="citation_pdf_url" content="https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000117&type=printable">
+
+  <meta name="citation_article_type" content="Perspective">
+
+<meta name="dc.identifier" content="10.1371/journal.pbio.3000117" />
+
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@plosbiology"/>
+    <meta name="twitter:title" content="Reliable novelty: New should not trump true" />
+    <meta property="twitter:description" content="This Perspective article asserts that the most prestigious journals publish the least reliable science, and asks how long we can afford to reward scientists for publishing there." />
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000117"/>
+<meta property="og:title" content="Reliable novelty: New should not trump true"/>
+<meta property="og:description" content="This Perspective article asserts that the most prestigious journals publish the least reliable science, and asks how long we can afford to reward scientists for publishing there."/>
+
+<meta name="citation_reference" content="citation_title=LXXIX. The scattering of α and β particles by matter and the structure of the atom;citation_author=E Rutherford;citation_journal_title=The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science;citation_volume=21;citation_number=21;citation_first_page=669;citation_last_page=688;citation_publication_date=1911;"/>    
+<meta name="citation_reference" content="citation_title=Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?;citation_author=A Einstein;citation_journal_title=Ann Phys;citation_volume=323;citation_number=323;citation_first_page=639;citation_last_page=641;citation_publication_date=1905;"/>    
+<meta name="citation_reference" content="citation_title=Experimental Test of Local Hidden-Variable Theories;citation_author=SJ Freedman;citation_author=JF Clauser;citation_journal_title=Phys Rev Lett;citation_volume=28;citation_number=28;citation_first_page=938;citation_last_page=941;citation_publication_date=1972;"/>    
+<meta name="citation_reference" content="citation_title=The power of stereotyping and confirmation bias to overwhelm accurate assessment: the case of economics, gender, and risk aversion;citation_author=JA Nelson;citation_journal_title=Journal of Economic Methodology;citation_volume=21;citation_number=21;citation_first_page=211;citation_last_page=231;citation_publication_date=2014;"/>    
+<meta name="citation_reference" content="citation_title=Profiles in patient safety: confirmation bias in emergency medicine;citation_author=JM Pines;citation_journal_title=Acad Emerg Med;citation_volume=13;citation_number=13;citation_first_page=90;citation_last_page=94;citation_publication_date=2006;"/>    
+<meta name="citation_reference" content="citation_title=Under what conditions does confirmation seeking obstruct scientific progress?;citation_author=K Moser;citation_author=V Gadenne;citation_author=J Schröder;citation_journal_title=Psychol Rev;citation_volume=95;citation_number=95;citation_first_page=572;citation_last_page=574;citation_publication_date=1988;"/>    
+<meta name="citation_reference" content="citation_title=Confirmation Bias in a Simulated Research Environment: An Experimental Study of Scientific Inference;citation_author=CR Mynatt;citation_author=ME Doherty;citation_author=RD Tweney;citation_journal_title=Q J Exp Psychol;citation_volume=29;citation_number=29;citation_first_page=85;citation_last_page=95;citation_publication_date=1977;"/>    
+<meta name="citation_reference" content="citation_title=Deep impact: unintended consequences of journal rank;citation_author=B Brembs;citation_author=K Button;citation_author=M Munafò;citation_journal_title=Front Hum Neurosci;citation_volume=7;citation_number=7;citation_first_page=291;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=The impact factor game. It is time to find a better way to assess the scientific literature;citation_journal_title=PLoS Med;citation_volume=3;citation_number=3;citation_issue=6;citation_first_page=e291;citation_publication_date=2006;"/>    
+<meta name="citation_reference" content="citation_title=Not-so-deep impact;citation_journal_title=Nature;citation_volume=435;citation_number=435;citation_first_page=1003;citation_last_page=1004;citation_publication_date=2005;"/>    
+<meta name="citation_reference" content="citation_title=Improving the accuracy of institute for scientific information’s journal impact factors;citation_author=HF Moed;citation_author=TN Van Leeuwen;citation_journal_title=Journal of the American Society for Information Science;citation_volume=46;citation_number=46;citation_first_page=461;citation_last_page=467;citation_publication_date=1995;"/>    
+<meta name="citation_reference" content="citation_title=Impact factors can mislead;citation_author=HF Moed;citation_author=TN van Leeuwen;citation_journal_title=Nature;citation_volume=381;citation_number=381;citation_first_page=186;citation_publication_date=1996;"/>    
+<meta name="citation_reference" content="citation_title=Sprucing up one’s impact factor;citation_author=M Baylis;citation_author=M Gravenor;citation_author=R Kao;citation_journal_title=Nature;citation_volume=401;citation_number=401;citation_first_page=322;citation_last_page=322;citation_publication_date=1999;"/>    
+<meta name="citation_reference" content="citation_title=Sprucing up one’s impact factor;citation_author=J Gowrishankar;citation_author=P Divakar;citation_journal_title=Nature;citation_volume=401;citation_number=401;citation_first_page=321;citation_last_page=322;citation_publication_date=1999;"/>    
+<meta name="citation_reference" content="citation_title=Journal impact factor: a brief review;citation_author=E Garfield;citation_journal_title=CMAJ;citation_volume=161;citation_number=161;citation_first_page=979;citation_last_page=980;citation_publication_date=1999;"/>    
+<meta name="citation_reference" content="citation_title=The counting house;citation_author=D Adam;citation_journal_title=Nature;citation_volume=415;citation_number=415;citation_first_page=726;citation_last_page=729;citation_publication_date=2002;"/>    
+<meta name="citation_reference" content="citation_title=Impact factor: a call to reason;citation_author=MA Hernán;citation_journal_title=Epidemiology;citation_volume=20;citation_number=20;citation_first_page=317;citation_last_page=8;citation_publication_date=2009;"/>    
+
+<meta name="citation_reference" content="Royle S. The Great Curve II: Citation distributions and reverse engineering the JIF. In: quantixed [Internet]. quantixed; 5 Jan 2016. Available from:  https://quantixed.org/2016/01/05/the-great-curve-ii-citation-distributions-and-reverse-engineering-the-jif/ . [cited 17 Jul 2018]."/>
+<meta name="citation_reference" content="citation_title=Show me the data;citation_author=M Rossner;citation_author=H Van Epps;citation_author=E Hill;citation_journal_title=J Cell Biol;citation_volume=179;citation_number=179;citation_first_page=1091;citation_last_page=1092;citation_publication_date=2007;"/>    
+<meta name="citation_reference" content="citation_title=The skewness of science;citation_author=PO Seglen;citation_journal_title=Journal of the American Society for Information Science;citation_volume=43;citation_number=43;citation_first_page=628;citation_last_page=638;citation_publication_date=1992;"/>    
+<meta name="citation_reference" content="citation_title=Why the impact factor of journals should not be used for evaluating research;citation_author=PO Seglen;citation_journal_title=BMJ;citation_volume=314;citation_number=314;citation_first_page=497;citation_last_page=497;citation_publication_date=1997;"/>    
+<meta name="citation_reference" content="citation_title=The level of non-citation of articles within a journal as a measure of quality: a comparison to the impact factor;citation_author=AR Weale;citation_author=M Bailey;citation_author=PA Lear;citation_journal_title=BMC Med Res Methodol;citation_volume=4;citation_number=4;citation_first_page=14;citation_publication_date=2004;"/>    
+<meta name="citation_reference" content="citation_title=On Using Journal Rank to Proxy for an Article’s Contribution or Value;citation_author=CW Chow;citation_author=K Haddad;citation_author=G Singh;citation_author=A Wu;citation_journal_title=Issues in Accounting Education;citation_volume=22;citation_number=22;citation_first_page=411;citation_last_page=427;citation_publication_date=2007;"/>    
+<meta name="citation_reference" content="citation_title=The siege of science;citation_author=M Taylor;citation_author=P Perakakis;citation_author=V Trachana;citation_journal_title=ESEP;citation_volume=8;citation_number=8;citation_first_page=17;citation_last_page=40;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=Toward a new model of scientific publishing: discussion and a proposal;citation_author=DJ Kravitz;citation_author=CI Baker;citation_journal_title=Front Comput Neurosci;citation_volume=5;citation_number=5;citation_first_page=55;citation_publication_date=2011;"/>    
+
+<meta name="citation_reference" content="Curry S. Sick of Impact Factors. In: Reciprocal Space [Internet]. 2013. Available from:  http://occamstypewriter.org/scurry/2012/08/13/sick-of-impact-factors/ . [cited 17 Jul 2018]."/>
+<meta name="citation_reference" content="citation_title=Why do some retracted papers continue to be cited?;citation_author=JA Teixeira da Silva;citation_author=H Bornemann-Cimenti;citation_journal_title=Scientometrics;citation_volume=110;citation_number=110;citation_first_page=365;citation_last_page=370;citation_publication_date=2017;"/>    
+<meta name="citation_reference" content="citation_title=Post retraction citations in context: a case study;citation_author=J Bar-Ilan;citation_author=G Halevi;citation_journal_title=Scientometrics;citation_volume=113;citation_number=113;citation_first_page=547;citation_last_page=565;citation_publication_date=2017;"/>    
+<meta name="citation_reference" content="citation_title=Perpetuation of Retracted Publications Using the Example of the Scott S. Reuben Case: Incidences, Reasons and Possible Improvements;citation_author=H Bornemann-Cimenti;citation_author=IS Szilagyi;citation_author=A Sandner-Kiesling;citation_journal_title=Sci Eng Ethics;citation_volume=22;citation_number=22;citation_first_page=1063;citation_last_page=1072;citation_publication_date=2016;"/>    
+<meta name="citation_reference" content="citation_title=Field-normalized impact factors (IFs): A comparison of rescaling and fractionally counted IFs;citation_author=L Leydesdorff;citation_author=F Radicchi;citation_author=L Bornmann;citation_author=C Castellano;citation_author=W de Nooy;citation_journal_title=J Am Soc Inf Sci Technol;citation_volume=64;citation_number=64;citation_first_page=2299;citation_last_page=2309;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=Relative Citation Ratio (RCR): A New Metric That Uses Citation Rates to Measure Influence at the Article Level;citation_author=BI Hutchins;citation_author=X Yuan;citation_author=JM Anderson;citation_author=GM Santangelo;citation_journal_title=PLoS Biol;citation_volume=14;citation_number=14;citation_issue=9;citation_first_page=e1002541;citation_publication_date=2016;"/>    
+<meta name="citation_reference" content="citation_title=Citation ranking versus subjective evaluation in the determination of journal hierachies in the social sciences;citation_author=MD Gordon;citation_journal_title=Journal of the American Society for Information Science;citation_volume=33;citation_number=33;citation_first_page=55;citation_last_page=57;citation_publication_date=1982;"/>    
+<meta name="citation_reference" content="citation_title=Citation Ranking Versus Subjective Evaluation In The Determination Of Journal Hierarchies In Information Science;citation_author=EE Nkereuwem;citation_author=EJ Ottong;citation_author=BA Bassey;citation_author=JE Esin;citation_journal_title=Global Journal of Social Sciences;citation_volume=7;citation_number=7;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=Impact factor: a valid measure of journal quality?;citation_author=S Saha;citation_author=S Saint;citation_author=DA Christakis;citation_journal_title=J Med Libr Assoc;citation_volume=91;citation_number=91;citation_first_page=42;citation_last_page=46;citation_publication_date=2003;"/>    
+<meta name="citation_reference" content="citation_title=Peer assessment of journal quality in clinical neurology;citation_author=W Yue;citation_author=CS Wilson;citation_author=F Boller;citation_journal_title=J Med Libr Assoc;citation_volume=95;citation_number=95;citation_first_page=70;citation_last_page=76;citation_publication_date=2007;"/>    
+<meta name="citation_reference" content="citation_title=An investigation into diabetes researcher’s perceptions of the Journal Impact Factor—reconsidering evaluating research;citation_author=EM Sønderstrup-Andersen;citation_author=HHK Sønderstrup-Andersen;citation_journal_title=Scientometrics;citation_volume=76;citation_number=76;citation_first_page=391;citation_last_page=406;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=Use of positive and negative words in scientific PubMed abstracts between 1974 and 2014: retrospective analysis;citation_author=CH Vinkers;citation_author=JK Tijdink;citation_author=WM Otte;citation_journal_title=BMJ;citation_volume=351;citation_number=351;citation_first_page=h6467;citation_publication_date=2015;"/>    
+
+<meta name="citation_reference" content="Brembs B. Nature reviewers endorse hype. In: bjoern.brembs.blog [Internet]. 14 Apr 2015. Available from:  http://bjoern.brembs.net/2015/04/nature-reviewers-endorse-hype/ . [cited 17 Jul 2018]."/>
+<meta name="citation_reference" content="citation_title=Quality of protein crystal structures;citation_author=EN Brown;citation_author=S Ramaswamy;citation_journal_title=Acta Crystallogr D Biol Crystallogr;citation_volume=63;citation_number=63;citation_first_page=941;citation_last_page=950;citation_publication_date=2007;"/>    
+<meta name="citation_reference" content="citation_title=Bias in genetic association studies and impact factor;citation_author=MR Munafò;citation_author=G Stothart;citation_author=J Flint;citation_journal_title=Mol Psychiatry;citation_volume=14;citation_number=14;citation_first_page=119;citation_last_page=120;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Low statistical power in biomedical science: a review of three human research domains;citation_author=E Dumas-Mallet;citation_author=KS Button;citation_author=T Boraud;citation_author=F Gonon;citation_author=MR Munafò;citation_journal_title=R Soc Open Sci;citation_volume=4;citation_number=4;citation_first_page=160254;citation_publication_date=2017;"/>    
+<meta name="citation_reference" content="citation_title=Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature;citation_author=D Szucs;citation_author=JPA Ioannidis;citation_journal_title=PLoS Biol;citation_volume=15;citation_number=15;citation_issue=3;citation_first_page=e2000797;citation_publication_date=2017;"/>    
+<meta name="citation_reference" content="citation_title=Power failure: why small sample size undermines the reliability of neuroscience;citation_author=KS Button;citation_author=JPA Ioannidis;citation_author=C Mokrysz;citation_author=BA Nosek;citation_author=J Flint;citation_author=ESJ Robinson;citation_journal_title=Nat Rev Neurosci;citation_volume=14;citation_number=14;citation_first_page=365;citation_last_page=376;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=The N-pact factor: evaluating the quality of empirical journals with respect to sample size and statistical power;citation_author=RC Fraley;citation_author=S Vazire;citation_journal_title=PLoS ONE;citation_volume=9;citation_number=9;citation_issue=10;citation_first_page=e109019;citation_publication_date=2014;"/>    
+<meta name="citation_reference" content="citation_title=Risk of Bias in Reports of In Vivo Research: A Focus for Improvement;citation_author=MR Macleod;citation_author=A Lawson McLean;citation_author=A Kyriakopoulou;citation_author=S Serghiou;citation_author=A de Wilde;citation_author=N Sherratt;citation_journal_title=PLoS Biol;citation_volume=13;citation_number=13;citation_issue=10;citation_first_page=e1002273;citation_publication_date=2015;"/>    
+<meta name="citation_reference" content="citation_title=Gene name errors are widespread in the scientific literature;citation_author=M Ziemann;citation_author=Y Eren;citation_author=A El-Osta;citation_journal_title=Genome Biol;citation_volume=17;citation_number=17;citation_first_page=177;citation_publication_date=2016;"/>    
+<meta name="citation_reference" content="citation_title=The Prevalence of Inappropriate Image Duplication in Biomedical Research Publications;citation_author=EM Bik;citation_author=A Casadevall;citation_author=FC Fang;citation_journal_title=MBio;citation_volume=7;citation_number=7;citation_publication_date=2016;"/>    
+<meta name="citation_reference" content="citation_title=Prestigious Science Journals Struggle to Reach Even Average Reliability;citation_author=B Brembs;citation_journal_title=Front Hum Neurosci;citation_volume=12;citation_number=12;citation_first_page=37;citation_publication_date=2018;"/>    
+<meta name="citation_reference" content="citation_title=The natural selection of bad science;citation_author=PE Smaldino;citation_author=R McElreath;citation_journal_title=R Soc open sci;citation_volume=3;citation_number=3;citation_first_page=160384;citation_publication_date=2016;"/>    
+<meta name="citation_reference" content="citation_title=Current Incentives for Scientists Lead to Underpowered Studies with Erroneous Conclusions;citation_author=AD Higginson;citation_author=MR Munafò;citation_journal_title=PLoS Biol;citation_volume=14;citation_number=14;citation_issue=11;citation_first_page=e2000995;citation_publication_date=2016;"/>    
+<meta name="citation_reference" content="citation_title=“Excellence R Us”: university research and the fetishisation of excellence;citation_author=S Moore;citation_author=C Neylon;citation_author=M Paul Eve;citation_author=D Paul O’Donnell;citation_author=D Pattinson;citation_journal_title=Palgrave Commun;citation_volume=3;citation_number=3;citation_first_page=16105;citation_publication_date=2017;"/>    
+
+<meta name="citation_reference" content="DORA–San Francisco Declaration on Research Assessment (DORA) [Internet]. Available from:  https://sfdora.org . [cited 19 Nov 2018]."/>
+
+<meta name="citation_reference" content="UIS. Science,technology and innovation [Internet]. Available from:  http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&amp;amp;lang=en&amp;amp;popupcustomise=true# . [cited 19 Nov 2018]."/>
+
+<meta name="citation_reference" content="News B. When You Hear a Scientist Talk About “Peer Review” Reach For Your Browning. In: Breitbart [Internet]. 28 Oct 2016. Available from:  https://www.breitbart.com/london/2016/10/28/hear-scientist-talk-peer-review-reach-browning/ . [cited 17 Jul 2018]."/>
+
+<meta name="citation_reference" content="Belluz J. Trump’s budget director pick: “Do we really need government-funded research at all.” In: Vox [Internet]. Vox; 21 Dec 2016. Available from: https://www.vox.com/science-and-health/2016/12/21/14012552/trump-budget-director-research-science-mulvaney . [cited 17 Jul 2018]."/>
+
+<meta name="citation_reference" content="Bishop D. Will traditional science journals disappear? | Dorothy Bishop. In: the Guardian [Internet]. 12 May 2015. Available from:  http://www.theguardian.com/science/head-quarters/2015/may/12/will-traditional-science-journals-disappear . [cited 11 Dec 2018]."/>
+<meta name="citation_reference" content="citation_title=Revolutionise the publication process;citation_author=S Schwarzkopf;citation_journal_title=NeuroNeurotic;citation_publication_date=2015;"/>    
+<meta name="citation_reference" content="citation_title=Short post–my science fiction vision of how science could work in the future;citation_author=M Allen;citation_journal_title=Neurocoscience;"/>    
+
+<meta name="citation_reference" content="Big Deal Cancellation Tracking—SPARC. In: SPARC [Internet]. Available from:  https://sparcopen.org/our-work/big-deal-cancellation-tracking/ . [cited 11 Dec 2018]."/>
+<meta name="citation_reference" content="citation_title=Wellcome Trust launches open-access publishing venture;citation_author=D Butler;citation_journal_title=Nature;citation_publication_date=2016;"/>    
+<meta name="citation_reference" content="citation_title=Radical open-access plan could spell end to journal subscriptions;citation_author=H Else;citation_journal_title=Nature;citation_volume=561;citation_number=561;citation_first_page=17;citation_last_page=18;citation_publication_date=2018;"/>    
+<meta name="citation_reference" content="citation_title=Open access, library and publisher competition, and the evolution of general commerce;citation_author=AM Odlyzko;citation_journal_title=Eval Rev;citation_volume=39;citation_number=39;citation_first_page=130;citation_last_page=163;citation_publication_date=2015;"/>    
+<meta name="citation_reference" content="citation_title=The SciELO Open Access: A Gold Way from the South;citation_author=AL Packer;citation_journal_title=Canadian Journal of Higher Education;citation_volume=39;citation_number=39;citation_first_page=111;citation_last_page=126;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Open access: The true cost of science publishing;citation_author=R Van Noorden;citation_journal_title=Nature News;citation_volume=495;citation_number=495;citation_first_page=426;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=On the Marginal Cost of Scholarly Communication;citation_author=T Bogich;citation_author=S Ballesteros;citation_journal_title=Research;citation_publication_date=2016;"/>    
+
+<meta name="citation_reference" content="Brembs B. How much should a scholarly article cost the taxpayer? In: bjoern.brembs.blog [Internet]. 7 Jan 2016. Available from:  http://bjoern.brembs.net/2016/01/how-much-should-a-scholarly-article-cost-the-taxpayer/ . [cited 17 Jul 2018]."/>
+<meta name="citation_reference" content="citation_title=Principles for Open Scholarly Infrastructures-v1;citation_author=G Bilder;citation_author=J Lin;citation_author=C Neylon;citation_journal_title=Principles for Open Scholarly Infrastructures-v1;citation_publication_date=2015;"/>    
+<meta name="citation_reference" content="citation_title=The FAIR Guiding Principles for scientific data management and stewardship;citation_author=MD Wilkinson;citation_author=M Dumontier;citation_author=IJJ Aalbersberg;citation_author=G Appleton;citation_author=M Axton;citation_author=A Baak;citation_journal_title=Sci Data;citation_volume=3;citation_number=3;citation_first_page=160018;citation_publication_date=2016;"/>    
+<meta name="citation_reference" content="citation_title=Why (almost) Everything We Know About Citations is Wrong: Evidence from Authors;citation_author=M Teplitskiy;citation_author=E Duede;citation_author=M Menietti;citation_author=K Lakhani;citation_journal_title=STI 2018 Conference Proceedings;citation_volume=11;citation_number=11;citation_first_page=1488;citation_last_page=92;citation_publication_date=2018;"/>    
+<meta name="citation_reference" content="citation_title=A proposal for the future of scientific publishing in the life sciences;citation_author=B Stern;citation_author=E O’Shea;citation_journal_title=PLoS Biol;citation_volume=17;citation_number=17;citation_issue=2;citation_first_page=e3000116;citation_publication_date=2019;"/>    
+
+
+<!-- DoubleClick overall ad setup script -->
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<!-- DoubleClick ad slot setup script -->
+
+  <script id="doubleClickSetupScript" type='text/javascript'>
+    googletag.cmd.push(function() {
+  googletag.defineSlot('/75507958/PBIO_728x90_ATF', [728, 90], 'div-gpt-ad-1458247671871-0').addService(googletag.pubads());
+  googletag.defineSlot('/75507958/PBIO_160x600_BTF', [160, 600], 'div-gpt-ad-1458247671871-1').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+
+
+<script type="text/javascript">
+    var WombatConfig = WombatConfig || {};
+    WombatConfig.resourcePath = "/plosbiology/resource/";
+    WombatConfig.imgPath = "/plosbiology/resource/img/";
+    WombatConfig.journalKey = "PLoSBiology";
+    WombatConfig.figurePath = "/plosbiology/article/figure/image";
+    WombatConfig.figShareInstitutionString = "plos";
+    WombatConfig.doiResolverPrefix = "http://dx.plos.org/";
+</script>
+
+<script type="text/javascript">
+  var WombatConfig = WombatConfig || {};
+  WombatConfig.metrics = WombatConfig.metrics || {};
+  WombatConfig.metrics.referenceUrl      = "http://lagotto.io/plos";
+  WombatConfig.metrics.googleScholarUrl  = "https://scholar.google.com/scholar";
+  WombatConfig.metrics.googleScholarCitationUrl  = WombatConfig.metrics.googleScholarUrl + "?hl=en&lr=&q=";
+  WombatConfig.metrics.crossrefUrl  = "https://www.crossref.org";
+</script>
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" ></script>
+<script>window.jQuery || document.write('<script src="/plosbiology/resource/js/vendor/jquery-2.1.4.min.js""><\/script>')</script>
+
+          <script type="text/javascript" src="https://widgets.figshare.com/static/figshare.js"></script>
+
+
+
+
+
+
+
+
+
+
+<!--For Google Tag manager to be able to track site information  -->
+<script>
+
+  dataLayer = [{
+    'mobileSite': 'false',
+    'desktopSite': 'true'
+  }];
+
+</script>
+
+</head>
+
+
+
+<body class="article plosbiology">
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TP26BH"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TP26BH');</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQQMGF"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQQMGF');</script>
+<!-- End Google Tag Manager -->
+
+
+
+<header>
+
+  <div id="topslot" class="head-top">
+
+<div class="center">
+<div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-0' style='width:728px; height:90px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-0'); });
+    </script>
+  </div>
+</div>
+  </div>
+
+  <div id="user" class="nav">
+    <ul class="nav-user">
+
+
+
+
+      <li ><a href="https://www.plos.org">plos.org</a></li>
+
+
+        <li ><a href="https://community.plos.org/registration/new">create account</a></li>
+
+
+          <li class="highlighted"><a href="/plosbiology/user/secure/login?page=%2Fplosbiology%2Farticle%3Fid%3D10.1371%2Fjournal.pbio.3000117">sign in</a></li>
+
+    </ul>
+  </div>
+  <div id="pagehdr">
+
+    <nav class="nav-main">
+
+
+
+
+<h1 class="logo">
+  <a href="/plosbiology/.">PLOS Biology</a>
+</h1>
+
+<section class="top-bar-section"> 
+
+<ul class="nav-elements">
+
+
+
+  <li class="menu-section-header has-dropdown " id="browse">
+    <span class="menu-section-header-title">  Browse </span>
+
+    <ul class="menu-section dropdown "
+        id="browse-dropdown-list">
+      <li>
+    <a href="/plosbiology/issue" >Current Issue</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/volume" >Journal Archive</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/collections" >Collections</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/find-and-read-articles" >Find and Read Articles</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+    <li class="multi-col-parent menu-section-header has-dropdown" id="publish">
+    Publish
+      <div class="dropdown mega ">
+        <ul class="multi-col" id="publish-dropdown-list">
+
+  <li class="menu-section-header " id="submissions">
+    <span class="menu-section-header-title">  Submissions </span>
+
+    <ul class="menu-section "
+        id="submissions-dropdown-list">
+      <li>
+    <a href="/plosbiology/s/submission-guidelines" >Submission Guidelines</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/figures" >Figures</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/tables" >Tables</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/supporting-information" >Supporting Information</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/latex" >LaTeX</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/other-article-types" >Other Article Types</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/preprints" >Preprints</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/revising-your-manuscript" >Revising Your Manuscript</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/submit-now" >Submit Now</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="policies">
+    <span class="menu-section-header-title">  Policies </span>
+
+    <ul class="menu-section "
+        id="policies-dropdown-list">
+      <li>
+    <a href="/plosbiology/s/best-practices-in-research-reporting" >Best Practices in Research Reporting</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/human-subjects-research" >Human Subjects Research</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/animal-research" >Animal Research</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/competing-interests" >Competing Interests</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/disclosure-of-funding-sources" >Disclosure of Funding Sources</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/licenses-and-copyright" >Licenses and Copyright</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/data-availability" >Data Availability</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/materials-and-software-sharing" >Materials and Software Sharing</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/ethical-publishing-practice" >Ethical Publishing Practice</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/authorship" >Authorship</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/downloads-and-translations" >Downloads and Translations</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="manuscript-review-and-publication">
+    <span class="menu-section-header-title">  Manuscript Review and Publication </span>
+
+    <ul class="menu-section "
+        id="manuscript-review-and-publication-dropdown-list">
+      <li>
+    <a href="/plosbiology/s/editorial-and-peer-review-process" >Editorial and Peer Review Process</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/aperta-help" >Aperta Guides</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/reviewer-guidelines" >Guidelines for Reviewers</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/accepted-manuscripts" >Accepted Manuscripts</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/corrections-and-retractions" >Corrections and Retractions</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/comments" >Comments</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/article-level-metrics" >Article-Level Metrics</a>
+  </li>
+
+    </ul>
+
+  </li>
+        </ul>
+          <div class="calloutcontainer">
+
+
+  <h3 class="callout-headline">Submit Your Manuscript</h3>
+
+  <div class="action-contain">
+  <p class="callout-content">
+<em>PLOS Biology</em> provides an Open Access platform to showcase your best research and commentary across all areas of biological science.
+  </p>
+
+  <p class="button-contain special">
+    <a class="button button-default" href="/plosbiology/s/submit-now">
+     Submit Now
+    </a>
+  </p>
+  </div>  <!-- opens in siteMenuCalloutDescription -->
+
+          </div>
+      </div>
+    </li>
+
+
+
+  <li class="menu-section-header has-dropdown " id="about">
+    <span class="menu-section-header-title">  About </span>
+
+    <ul class="menu-section dropdown "
+        id="about-dropdown-list">
+      <li>
+    <a href="/plosbiology/s/journal-information" >Journal Information</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/staff-editors" >Staff Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/editorial-board" >Editorial Board</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/publishing-information" >Publishing Information</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/publication-fees" >Publication Fees</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/press-and-media" >Press and Media</a>
+  </li>
+
+      <li>
+    <a href="/plosbiology/s/contact" >Contact</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+      <li id="navsearch" class="head-search">
+
+
+    <form name="searchForm" action="/plosbiology/search" method="get">
+      <fieldset>
+        <legend>Search</legend>
+        <label for="search">Search</label>
+        <div class="search-contain">
+          <input id="search" type="text" name="q" placeholder="SEARCH" required/>
+          <button id="headerSearchButton" type="submit"><span class="search-icon"></span></button>
+        </div>
+      </fieldset>
+      <input type="hidden" name="filterJournals" value="PLoSBiology"/>
+    </form>
+
+    <a id="advSearch"
+       href="/plosbiology/search">
+      advanced search
+    </a>
+
+
+
+
+      </li>
+
+      </ul>     
+      </section>  
+    </nav>
+  </div>
+
+</header><main> <div class="set-grid">
+
+<header class="title-block">
+
+
+
+<script type="text/javascript">
+  var COUNTER_HOST = "https://counter.plos.org/api/v1.0/stats/totals/doi";
+</script>
+
+<script type="text/javascript">
+  var ALM_CONFIG = ALM_CONFIG || {};
+  ALM_CONFIG.hostname = "https://alm.plos.org";
+  ALM_CONFIG.apiKey = "3pezRBRXdyzYW6ztfwft";
+  ALM_CONFIG.host = "https://alm.plos.org/api/v5/articles";
+</script>
+
+<ul id="almSignposts" class="signposts">
+  <li id="loadingMetrics">
+    <p>Loading metrics</p>
+  </li>
+</ul>
+
+<script type="text/template" id="signpostsGeneralErrorTemplate">
+  <li id="metricsError">Article metrics are unavailable at this time. Please try again later.</li>
+</script>
+
+<script type="text/template" id="signpostsNewArticleErrorTemplate">
+  <li></li><li></li><li id="tooSoon">Article metrics are unavailable for recently published articles.</li>
+</script>
+
+<script type="text/template" id="signpostsTemplate">
+    <li id="almSaves">
+      <%= s.numberFormat(saveCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosbiology/article/metrics?id=10.1371/journal.pbio.3000117#savedHeader">Save</a>
+        <p class="saves-tip" data-js-tooltip-hover="target"><a href="/plosbiology/article/metrics?id=10.1371/journal.pbio.3000117#savedHeader">Total Mendeley and CiteULike bookmarks.</a></p>
+      </div>
+    </li>
+
+    <li id="almCitations">
+      <%= s.numberFormat(citationCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosbiology/article/metrics?id=10.1371/journal.pbio.3000117#citedHeader">Citation</a>
+        <p class="citations-tip" data-js-tooltip-hover="target"><a href="/plosbiology/article/metrics?id=10.1371/journal.pbio.3000117#citedHeader">Paper's citation count computed by Scopus.</a></p>
+      </div>
+    </li>
+
+    <li id="almViews">
+      <%= s.numberFormat(viewCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosbiology/article/metrics?id=10.1371/journal.pbio.3000117#viewedHeader">View</a>
+        <p class="views-tip" data-js-tooltip-hover="target"><a href="/plosbiology/article/metrics?id=10.1371/journal.pbio.3000117#viewedHeader">Sum of PLOS and PubMed Central page views and downloads.</a></p>
+      </div>
+    </li>
+
+    <li id="almShares">
+      <%= s.numberFormat(shareCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosbiology/article/metrics?id=10.1371/journal.pbio.3000117#discussedHeader">Share</a>
+        <p class="shares-tip" data-js-tooltip-hover="target"><a href="/plosbiology/article/metrics?id=10.1371/journal.pbio.3000117#discussedHeader">Sum of Facebook and Twitter activity.</a></p>
+      </div>
+    </li>
+</script>
+
+    <div class="article-meta">
+
+<div class="classifications">
+  <p class="license-short" id="licenseShort">Open Access</p>
+
+<div class="article-type" data-js-tooltip-hover="trigger">
+  <p class="article-type-tooltip" id="artType">Perspective</p>
+    <div class="type-desc" data-js-tooltip-hover="target">
+  <p>
+    <a href="/plosbiology/s/other-article-types#perspective">
+    Perspective
+    </a>
+  The Perspective section provides experts with a forum to comment on topical or controversial issues of broad interest.
+
+  </p>
+
+  <p><a href="/plosbiology/s/other-article-types" class="type-seeall">  See all article types
+&raquo;
+</a></p>
+    </div>
+</div>
+
+
+</div>
+
+
+    </div>
+    <div class="article-title-etc">
+
+
+
+<div class="title-authors">
+  <h1 id="artTitle"><?xml version="1.0" encoding="UTF-8"?>Reliable novelty: New should not trump true</h1>
+
+<ul class="author-list clearfix"  data-js-tooltip="tooltip_container" id="author-list">
+
+
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="0" class="author-name" >
+Björn Brembs <span class="email">  </span></a>    <div id="author-meta-0" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p id="authCorresponding-0"> <span class="email">* E-mail:</span> <a href="mailto:bjoern@brembs.net">bjoern@brembs.net</a></p>
+  <p id="authAffiliations-0"><span class="type">Affiliation</span>
+    Universität Regensburg, Institut für Zoologie, Neurogenetik, Regensburg, Germany
+  </p>
+  <div>
+  <p class="orcid" id="authOrcid-0">
+    <span>
+      <a id="connect-orcid-link" href="http://orcid.org/0000-0001-7824-7650" target="_blank" title="ORCID Registry">
+        <img id="orcid-id-logo" src="/plosbiology/resource/img/orcid_16x16.png" width="16" height="16" alt="ORCID logo"/>
+      </a>
+    </span>
+    <a href="http://orcid.org/0000-0001-7824-7650">http://orcid.org/0000-0001-7824-7650</a>
+  </p>
+  </div>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose0"> &#x02A2F; </a>
+    </div>
+</li>
+
+</ul>
+
+</div>
+
+
+<div id="floatTitleTop" data-js-floater="title_author" class="float-title">
+  <div class="set-grid">
+    <div class="float-title-inner">
+      <h1><?xml version="1.0" encoding="UTF-8"?>Reliable novelty: New should not trump true</h1>
+
+<ul id="floatAuthorList" data-js-floater="floated_authors">
+
+  <li data-float-index="1">Björn Brembs
+
+  </li>
+
+</ul>
+
+
+
+    </div>
+    <div class="logo-close" id="titleTopCloser">
+      <img src="/plosbiology/resource/img/logo.plos.95.png" alt="PLOS" />
+      <div class="close-floater" title="close">x</div>
+    </div>
+  </div>
+</div>
+
+      <ul class="date-doi">
+        <li id="artPubDate">Published: February 12, 2019</li>
+        <li id="artDoi">
+<a   href="https://doi.org/10.1371/journal.pbio.3000117">https://doi.org/10.1371/journal.pbio.3000117</a>
+        </li>
+      </ul>
+
+    </div>
+  <div>
+
+  </div>
+</header>
+
+  <section class="article-body">
+
+
+
+<ul class="article-tabs">
+
+          <li class="tab-title active" id="tabArticle">
+            <a href="/plosbiology/article?id=10.1371/journal.pbio.3000117" class="article-tab-1">Article</a>
+        </li>
+
+
+              <li class="tab-title " id="tabAuthors">
+            <a href="/plosbiology/article/authors?id=10.1371/journal.pbio.3000117" class="article-tab-2">Authors</a>
+        </li>
+
+
+          <li class="tab-title " id="tabMetrics">
+            <a href="/plosbiology/article/metrics?id=10.1371/journal.pbio.3000117" class="article-tab-3">Metrics</a>
+        </li>
+
+
+          <li class="tab-title " id="tabComments">
+            <a href="/plosbiology/article/comments?id=10.1371/journal.pbio.3000117" class="article-tab-4">Comments</a>
+        </li>
+
+          <li class="tab-title " id="tabRelated">
+            <a href="/plosbiology/article/related?id=10.1371/journal.pbio.3000117" class="article-tab-5">Media Coverage</a>
+        </li>
+
+</ul>
+
+    <div class="article-container">
+
+
+<div id="nav-article">
+  <ul class="nav-secondary">
+
+    <li class="nav-comments" id="nav-comments">
+      <a href="article/comments?id=10.1371/journal.pbio.3000117">Reader Comments (0)</a>
+    </li>
+
+    <li class="nav-media" id="nav-media" data-doi="10.1371/journal.pbio.3000117">
+      <a href="/plosbiology/article/related?id=10.1371/journal.pbio.3000117">
+        Media Coverage <span id="media-coverage-count"></span>
+      </a>
+    </li>
+
+  </ul>
+</div>
+
+<div id="figure-lightbox-container"></div>
+
+<script id="figure-lightbox-template" type="text/template">
+  <div id="figure-lightbox" class="reveal-modal full" data-reveal aria-hidden="true"
+       role="dialog">
+    <div class="lb-header">
+      <h1 id="lb-title"><%= articleTitle %></h1>
+
+      <div id="lb-authors">
+            <span>Björn Brembs</span>
+      </div>
+
+      <div class="lb-close" title="close">&nbsp;</div>
+    </div>
+    <div class="img-container">
+      <div class="loader"> <i class="fa-spinner"></i> </div>
+      <img class="main-lightbox-image" src=""/>
+      <aside id="figures-list">
+        <% figureList.each(function (ix, figure) { %>
+        <div class="change-img" data-doi="<%= figure.getAttribute('data-doi') %>">
+          <img class="aside-figure" src="/plosbiology/article/figure/image?size=inline&id=<%= figure.getAttribute('data-doi') %>" />
+        </div>
+        <% }) %>
+        <div class="dummy-figure">
+        </div>
+      </aside>
+    </div>
+    <div id="lightbox-footer">
+
+      <div id="btns-container" class="lightbox-row <% if(figureList.length <= 1) { print('one-figure-only') } %>">
+        <div class="fig-btns-container reset-zoom-wrapper left">
+          <span class="fig-btn reset-zoom-btn">Reset zoom</span>
+        </div>
+        <div class="zoom-slider-container">
+          <div class="range-slider-container">
+            <span id="lb-zoom-min"></span>
+            <div class="range-slider round" data-slider data-options="start: 20; end: 200; initial: 20;">
+              <span class="range-slider-handle" role="slider" tabindex="0"></span>
+              <span class="range-slider-active-segment"></span>
+              <input type="hidden">
+            </div>
+            <span id="lb-zoom-max"></span>
+          </div>
+        </div>
+        <% if(figureList.length > 1) { %>
+        <div class="fig-btns-container">
+          <span class="fig-btn all-fig-btn"><i class="icon icon-all"></i> All Figures</span>
+          <span class="fig-btn next-fig-btn"><i class="icon icon-next"></i> Next</span>
+          <span class="fig-btn prev-fig-btn"><i class="icon icon-prev"></i> Previous</span>
+        </div>
+        <% } %>
+      </div>
+      <div id="image-context">
+      </div>
+    </div>
+  </div>
+</script>
+
+<script id="image-context-template" type="text/template">
+  <div class="footer-text">
+    <div id="figure-description-wrapper">
+      <div id="view-more-wrapper" style="<% descriptionExpanded? print('display:none;') : '' %>">
+        <span id="figure-title"><%= title %></span>
+        <p id="figure-description">
+          <%= description %>&nbsp;&nbsp;
+        </p>
+        <span id="view-more">show more<i class="icon-arrow-right"></i></span>
+
+      </div>
+      <div id="view-less-wrapper" style="<% descriptionExpanded? print('display:inline-block;') : '' %>" >
+        <span id="figure-title"><%= title %></span>
+        <p id="full-figure-description">
+          <%= description %>&nbsp;&nbsp;
+          <span id="view-less">show less<i class="icon-arrow-left"></i></span>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div id="show-context-container">
+    <a class="btn show-context" href="<%= showInContext(strippedDoi) %>">Show in Context</a>
+  </div>
+  <div id="download-buttons">
+    <h3>Download:</h3>
+    <div class="item">
+      <a href="/plosbiology/article/figure/image?size=original&download=&id=<%= doi %>" title="original image">
+        <span class="download-btn">TIFF</span>
+      </a>
+      <span class="file-size"><%= fileSizes.original %></span>
+    </div>
+    <div class="item">
+      <a href="/plosbiology/article/figure/image?size=large&download=&id=<%= doi %>" title="large image">
+        <span class="download-btn">PNG</span>
+      </a>
+      <span class="file-size"><%= fileSizes.large %></span>
+    </div>
+    <div class="item">
+      <a href="/plosbiology/article/figure/powerpoint?id=<%= doi %>" title="PowerPoint slide">
+        <span class="download-btn">PPT</span>
+      </a>
+    </div>
+
+  </div>
+</script>
+      <div class="article-content">
+
+
+
+
+
+
+
+
+
+        <div class="article-text" id="artText">
+          
+
+
+
+<div class="abstract toc-section"><a id="abstract0" name="abstract0" data-toc="abstract0" class="link-target" title="Abstract"></a><h2>Abstract</h2><a id="article1.front1.article-meta1.abstract1.p1" name="article1.front1.article-meta1.abstract1.p1" class="link-target"></a><p>Although a case can be made for rewarding scientists for risky, novel science rather than for incremental, reliable science, novelty without reliability ceases to be science. The currently available evidence suggests that the most prestigious journals are no better at detecting unreliable science than other journals. In fact, some of the most convincing studies show a negative correlation, with the most prestigious journals publishing the least reliable science. With the credibility of science increasingly under siege, how much longer can we afford to reward novelty at the expense of reliability? Here, I argue for replacing the legacy journals with a modern information infrastructure that is governed by scholars. This infrastructure would allow renewed focus on scientific reliability, with improved sort, filter, and discovery functionalities, at massive cost savings. If these savings were invested in additional infrastructure for research data and scientific code and/or software, scientific reliability would receive additional support, and funding woes—for, e.g., biological databases—would be a concern of the past.</p>
+</div>
+
+
+<div class="articleinfo"><p><strong>Citation: </strong>Brembs B (2019) Reliable novelty: New should not trump true. PLoS Biol 17(2):
+           e3000117.
+        
+        https://doi.org/10.1371/journal.pbio.3000117</p><p><strong>Published: </strong> February 12, 2019</p><p><strong>Copyright: </strong> © 2019 Björn Brembs. This is an open access article distributed under the terms of the <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</a>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p><p><strong>Funding: </strong>The author received no specific funding for this work.</p><p><strong>Competing interests: </strong> The author has declared that no competing interests exist.</p><p><strong>Abbreviations:
+          </strong>CRISPR,
+            clusters of regularly interspaced short palindromic repeats; DORA,
+            Declaration of Research Assessment; FAIR,
+            Findable, accessible, interoperable and re-usable; IF,
+            impact factor; MMR,
+            mumps, measles, rubella</p><p><strong>Provenance:</strong> Commissioned; externally peer reviewed</p></div>
+
+
+
+
+
+<div id="section1" class="section toc-section"><a id="sec001" name="sec001" data-toc="sec001" class="link-target" title="Journal rank and confirmation bias"></a><h2>Journal rank and confirmation bias</h2><a id="article1.body1.sec1.p1" name="article1.body1.sec1.p1" class="link-target"></a><p>All scientists implicitly, and most explicitly, expect scientific breakthroughs to be published in the most prestigious journals. After all, do we not all send our most significant discoveries to exactly these journals? Consequently, we wonder at every instance of reading or discussing a less-than-stellar publication in a top-notch journal how it could get past the gatekeepers when they had such a wealth of outstanding research (perhaps one’s own among them) to choose from? Conversely, we shrug our shoulders when a similarly substandard article appears in a lesser journal: “Of course this rag would publish something like this.”</p>
+<a id="article1.body1.sec1.p2" name="article1.body1.sec1.p2" class="link-target"></a><p>These hypothetical but no doubt very common sentiments are a prime example of confirmation bias: we tend to question and scrutinize unexpected events more than expected ones. In this case, we expect high-ranking journals to publish work that conforms to our own subjective standards of quality, and we wonder how anybody could not share our standards and publish certain articles we consider beneath our own standards. Because we develop professionally within a hierarchical ranking of journals, our expectations for what the content at each tier ought to look like vary to such an extent that some even perform their peer-reviews differently for journals from different tiers of this hierarchy. In this way, we constantly affirm our own expectations based on the strangely circular logic that “bad” publications are rare in top journals and common in lesser journals and that this is precisely what constitutes this hierarchy.</p>
+<a id="article1.body1.sec1.p3" name="article1.body1.sec1.p3" class="link-target"></a><p>But is our subjective hierarchy accurately reflecting the content of each journal? Can we trust our own judgement about our journals? After all, many an experiment have yielded counterintuitive results [<a href="#pbio.3000117.ref001" class="ref-tip">1</a>–<a href="#pbio.3000117.ref003" class="ref-tip">3</a>], and the scientific method has shown us time and time again how misleading confirmation bias can be [<a href="#pbio.3000117.ref004" class="ref-tip">4</a>–<a href="#pbio.3000117.ref007" class="ref-tip">7</a>]. How can we test whether journal rank as we use it today is based on evidence? As in any scientific endeavor, there are several potential paths to answering this question. At least two main options readily spring to mind here: First, one can test whether the quantitative way journal rank itself is established today can be related to any notions of “quality.” The other is to simply take current journal rankings as a measure for prestige and search for measures of “quality” that correlate with the prestige.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="sec002" name="sec002" data-toc="sec002" class="link-target" title="Establishing journal rank"></a><h2>Establishing journal rank</h2><a id="article1.body1.sec2.p1" name="article1.body1.sec2.p1" class="link-target"></a><p>Although there are numerous mathematical methods with which one can rank journals, the one single metric that dominates the market is Clarivate Analytics’ impact factor (IF). Over the decades, the numerous flaws in deriving this particular rank have been extensively covered. In brief, it suffers from three main flaws, together with a myriad of lesser flaws too numerous to recount here [<a href="#pbio.3000117.ref008" class="ref-tip">8</a>]. The three main flaws are that (a) the IF, purported to be calculated is, in fact, negotiated and this process has been publicly documented for decades [<a href="#pbio.3000117.ref008" class="ref-tip">8</a>–<a href="#pbio.3000117.ref018" class="ref-tip">18</a>] and was never disputed; (b) even if the IF were calculated, the published figures are not reproducible, even with the data from the corporation [<a href="#pbio.3000117.ref019" class="ref-tip">19</a>]; and (c) even if the IF were calculated and the results reproducible, the way in which it is calculated involves computing the arithmetic mean from highly left-skewed distributions [<a href="#pbio.3000117.ref010" class="ref-tip">10</a>,<a href="#pbio.3000117.ref018" class="ref-tip">18</a>,<a href="#pbio.3000117.ref020" class="ref-tip">20</a>–<a href="#pbio.3000117.ref025" class="ref-tip">25</a>], an obvious mathematical mistake.</p>
+<a id="article1.body1.sec2.p2" name="article1.body1.sec2.p2" class="link-target"></a><p>Taken together, this body of evidence alone ought to rule out using IF for anything important. Indeed, the case has been made that scholars using it ought to be shamed for their incompetence [<a href="#pbio.3000117.ref026" class="ref-tip">26</a>]. However, one need not even look at how the IF is derived and published to come to the conclusion that there is little in the metric itself that bears any relation to any notion of whatever one may define as “quality.” Nominally, the IF is based on citations, but do citations even reflect a notion of quality? At first glance, one may be tempted to argue that only “good” work gets cited; but when even retracted, mostly fraudulent publications continue to get cited [<a href="#pbio.3000117.ref027" class="ref-tip">27</a>–<a href="#pbio.3000117.ref029" class="ref-tip">29</a>], this argument breaks down. Moreover, the number of citations is correlated with the size of the field as more authors write more papers that can cite any given paper [<a href="#pbio.3000117.ref030" class="ref-tip">30</a>,<a href="#pbio.3000117.ref031" class="ref-tip">31</a>]. Finally, citation practice is highly field specific, such that some fields have developed a practice of citing few and others of citing many previous works. Much like any other human behavior, many of the main factors influencing citation behavior are historical, psychological, and highly interconnected [<a href="#pbio.3000117.ref069" class="ref-tip">69</a>]. In other words, even if the IF were capturing citations flawlessly (which it is far from achieving), it would still not be considered a measure of quality rather than, at best, a weak, noisy signal of attention and field size.</p>
+<a id="article1.body1.sec2.p3" name="article1.body1.sec2.p3" class="link-target"></a><p>Therefore, it is fair to exclude using this process of ranking journals itself as justification to assign different tiers of “quality” to different tiers of journals.</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="sec003" name="sec003" data-toc="sec003" class="link-target" title="Testing journal rank"></a><h2>Testing journal rank</h2>
+<div id="section1" class="section toc-section"><a id="sec004" name="sec004" class="link-target" title="In search of quantifiable aspects of quality"></a>
+<h3>In search of quantifiable aspects of quality</h3>
+<a id="article1.body1.sec3.sec1.p1" name="article1.body1.sec3.sec1.p1" class="link-target"></a><p>It is a noteworthy discovery in and of itself that a number so flawed as the IF nevertheless correlates with anything, let alone exceedingly well with scholars’ subjective notion of journal prestige [<a href="#pbio.3000117.ref032" class="ref-tip">32</a>–<a href="#pbio.3000117.ref036" class="ref-tip">36</a>]. Due to this correlation between IF and subjective prestige rank, the IF lends itself as a tool to test several quantifiable aspects of quality and to see how well the hierarchy of prestige stands up against the scientific method.</p>
+<a id="article1.body1.sec3.sec1.p2" name="article1.body1.sec3.sec1.p2" class="link-target"></a><p>According to a quote attributed to Albert Einstein, “Not everything that can be counted counts and not everything that counts can be counted.” Whether a publication is considered “good” depends on a number of variables. Among the most frequently cited is novelty, i.e., that the publication in question constitutes a discovery not made before and a significant scientific advancement. However, novelty alone is a questionable aspect of quality long before one attempts to quantify it. Whether a publication is novel depends on the knowledge, and thus perspective, of the reader. Similarly, what constitutes a significant advancement is highly subjective as well. For these reasons, a focus on novelty incentivizes authors, likely against their better knowledge, to make their work appear more novel, e.g., by using the word “novel” more often [<a href="#pbio.3000117.ref037" class="ref-tip">37</a>] or by leaving out references to prior work—a common practice that some journals seem to openly endorse [<a href="#pbio.3000117.ref038" class="ref-tip">38</a>]. Finally, table-top cold fusion, arsenic in DNA, or the purported link between the MMR vaccine and autism were at least as novel as the discovery of CRISPR gene scissors, gravitational waves, or place cells, and yet most would agree that there is an important enough distinction between the former group of “discoveries” and the latter, which justifies not treating them equivalently. In other words, novelty alone is useless as a signal of quality. Of course, if a discovery is truly novel, it cannot yet have been reproduced. Therefore, any journal rank that aspires to capture quality beyond mere novelty must be able to distinguish between submitted, novel manuscripts of the former, unreliable type and the second, reliable kind before actual replications have been attempted. Is our system of ranked journals up to this task? Given that we all send our most novel work to the best journals, are these top journals indeed able to separate the novel, reliable wheat from the novel, unreliable chaff?</p>
+<a id="article1.body1.sec3.sec1.p3" name="article1.body1.sec3.sec1.p3" class="link-target"></a><p>In many fields, it will be nigh impossible to objectively and/or at least semi-automatically quantify many important aspects of the work. However, in the experimental sciences, luckily, there are aspects of reliability and accuracy that can be quantified objectively and compared across large numbers of articles and journals.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="sec005" name="sec005" class="link-target" title="The evidence against our notion of prestige"></a>
+<h3>The evidence against our notion of prestige</h3>
+<a id="article1.body1.sec3.sec2.p1" name="article1.body1.sec3.sec2.p1" class="link-target"></a><p>For instance, crystallographers quantify the quality and accuracy of computer models derived from experimental work in structural biology and chemistry by comparing the computer models to established properties of the substance’s constituencies. They use bond distances, angles, and other factors to derive a difference score that measures how far away a given model is from being perfectly accurate. Averaging thousands of such models over the journals they have been published in, prestigious journals such as <em>Cell</em>, <em>Molecular Cell</em>, <em>Nature</em>, <em>EMBO Journal</em>, and <em>Science</em> publish significantly substandard models of such structures [<a href="#pbio.3000117.ref039" class="ref-tip">39</a>].</p>
+<a id="article1.body1.sec3.sec2.p2" name="article1.body1.sec3.sec2.p2" class="link-target"></a><p>Such prestigious journals have also been found to publish exaggerated effect sizes with lower than necessary sample sizes in single gene association studies for psychiatric disorders [<a href="#pbio.3000117.ref040" class="ref-tip">40</a>]. Overall statistical power has been found to be weak across the biomedical and psychological sciences [<a href="#pbio.3000117.ref041" class="ref-tip">41</a>–<a href="#pbio.3000117.ref044" class="ref-tip">44</a>], indicating an overall low reliability for these fields. Statistical power was found to be at best uncorrelated with journal rank [<a href="#pbio.3000117.ref008" class="ref-tip">8</a>], or it correlated negatively, i.e., publications in higher-ranking journals report a lower statistical power [<a href="#pbio.3000117.ref042" class="ref-tip">42</a>,<a href="#pbio.3000117.ref044" class="ref-tip">44</a>].</p>
+<a id="article1.body1.sec3.sec2.p3" name="article1.body1.sec3.sec2.p3" class="link-target"></a><p>Animal disease models are subjected to similar procedures as clinical trials in humans to evaluate the effectiveness of the treatments. Clearly, only the highest standards of scientific rigor should apply to such experiments. Among the most basic standards are the randomized assignment of individuals to treatment and control groups and the blind assessment of the outcome. Analyzing the reporting of randomization and blinding in the methods sections, it becomes clear that not only is it rare that these basic procedures are reported, authors at high-ranking journals are worse at it than lesser journals. Therefore, at best, authors of publications in high-ranking journals are sloppier in reporting their methods than their counterparts in less prestigious journals [<a href="#pbio.3000117.ref045" class="ref-tip">45</a>]. At worst, they adhere less to basic notions of good experimental design.</p>
+<a id="article1.body1.sec3.sec2.p4" name="article1.body1.sec3.sec2.p4" class="link-target"></a><p>Sloppiness may also be attributed whenever discrepancies can be found between the actual results of a study and what is reported in the publication. For instance, gene symbols and accession numbers may inadvertently be converted into dates or floating point numbers when -omics researchers copy and paste their results into Microsoft Excel spreadsheets without tedious error correction by hand. This is a rather common error, but it is noteworthy that the incidence of such errors is higher in more prestigious journals [<a href="#pbio.3000117.ref046" class="ref-tip">46</a>]. It may also happen that the <em>p</em>-values reported in a publication deviate from the <em>p</em>-value calculated from the data. However, it is curious that the incidence of these errors increases with journal rank, and the errors universally lower the <em>p</em>-value, rather than increase it, as one would expect if these errors were due to chance alone [<a href="#pbio.3000117.ref042" class="ref-tip">42</a>]. In the arms race between authors desperate to get ahead of the competition and journals trying to detect questionable research practices, the low-hanging fruit seem to be collected by the high-ranking journals: the rate of duplicated images is lower in these journals than in other journals [<a href="#pbio.3000117.ref047" class="ref-tip">47</a>]. This constitutes the currently only, to my knowledge, example in the literature in which higher-ranking journals appear to be better at catching errors than lower-ranking journals, as the lone exception to the rest of the literature.</p>
+<a id="article1.body1.sec3.sec2.p5" name="article1.body1.sec3.sec2.p5" class="link-target"></a><p>These few examples stand in for a growing body of evidence in which high-ranking journals seem to often struggle to reach even average reliability [<a href="#pbio.3000117.ref008" class="ref-tip">8</a>,<a href="#pbio.3000117.ref048" class="ref-tip">48</a>]. In fact, some of the most convincing studies point towards an inverse relation between journal rank and reliability. A straightforward ad hoc hypothesis explaining this observation is that the emphasis of editors on novelty increases with journal rank, but editorial focus on scientific rigor and reliability does not. Given that novel and surprising results ought to be met with increased scrutiny, the data seem to suggest that this increase in editorial and statistical scrutiny does not take place. Taken together, the available evidence therefore not only invalidates the current use of IF specifically and of our subjective journal rank more generally but also demonstrates how counterproductive their deployment in evaluations proves to be by rewarding unreliable science.</p>
+<a id="article1.body1.sec3.sec2.p6" name="article1.body1.sec3.sec2.p6" class="link-target"></a><p>This body of evidence points in the same direction as complementary research showing that selecting researchers based on their productivity also leads to decreased reliability [<a href="#pbio.3000117.ref049" class="ref-tip">49</a>,<a href="#pbio.3000117.ref050" class="ref-tip">50</a>]: selecting scientists on number of publications and journal rank will, over time, tend to decrease scientific reliability. In both cases, scientists are hired and promoted who publish less reliable work than their peers and who then go on and teach their students how to become successful scientists—by publishing a lot and in prestigious journals. This research is agnostic to the intention or motives of the individuals. Training, strategies, and competence all vary among the population of early career researchers from which institutions hire faculty. Using the common selection criteria ensures a bias towards unreliability, irrespective of its ultimate underlying source or reason, and institutions employ them at their own risk. Therefore, inasmuch as the number and venue of scholarly publications are used as measures for scientific “excellence,” the currently available data support recent parallel conclusions that this “excellence” is not excellent [<a href="#pbio.3000117.ref051" class="ref-tip">51</a>]. As it stands, “used in its current unqualified form it is a pernicious and dangerous rhetoric that undermines the very foundations of good research and scholarship” [<a href="#pbio.3000117.ref051" class="ref-tip">51</a>].</p>
+</div>
+</div>
+
+<div id="section4" class="section toc-section"><a id="sec006" name="sec006" data-toc="sec006" class="link-target" title="Potential solutions"></a><h2>Potential solutions</h2><a id="article1.body1.sec4.p1" name="article1.body1.sec4.p1" class="link-target"></a><p>Although a case can be made for rewarding novel, risky discoveries over incremental, reliable advances in general, striking a balance between novelty and reliability is not trivial. Consistently rewarding novelty at the cost of reliability may prove counterproductive in the long term. Permanent positions for publicly funded researchers ought to be reserved for scientists who have earned the privilege to be entrusted with public funds by producing reliable science that is also novel. From these arguments and the available data, a number of potential evidence-based solutions can follow. Inasmuch as there is a common desire to signal novelty to a wider audience than the directly relevant scholarly peers, all these solutions would need to include a separation of such a novelty signal from a reliability signal if the overarching goal is to maintain—or even potentially increase—the reliability of science.</p>
+
+<div id="section1" class="section toc-section"><a id="sec007" name="sec007" class="link-target" title="Eliminate journal rank in evaluations"></a>
+<h3>Eliminate journal rank in evaluations</h3>
+<a id="article1.body1.sec4.sec1.p1" name="article1.body1.sec4.sec1.p1" class="link-target"></a><p>One of the standard solutions read and heard most often is to eliminate journal rank in any evaluation setting, as proposed by, e.g., signatories of the Declaration of Research Assessment (DORA) [<a href="#pbio.3000117.ref052" class="ref-tip">52</a>]. However, although activism in this direction targets the means by which unreliability is rewarded, the behavior of authors and editors underlying the reduced reliability in high-profile journals is unlikely to change until the abandonment of journal rank is near universal. This task can take decades, given that over 7 million full-time equivalent researchers would need to be convinced [<a href="#pbio.3000117.ref053" class="ref-tip">53</a>]. Moreover, with the high correlation between community assessment of journal quality and IF [<a href="#pbio.3000117.ref032" class="ref-tip">32</a>–<a href="#pbio.3000117.ref036" class="ref-tip">36</a>], it is safe to assume that scholarly communities will treat publications in certain venues differently, if only informally, even after such a universal ban on journal rank in evaluations were ever achieved. Such a solution, although likely to be effective in principle, is equally likely to take decades to achieve a noticeable effect.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="sec008" name="sec008" class="link-target" title="How much time do we have?"></a>
+<h3>How much time do we have?</h3>
+<a id="article1.body1.sec4.sec2.p1" name="article1.body1.sec4.sec2.p1" class="link-target"></a><p>In the light of a prominent political persuasion currently in government in the United States recommending “when you hear a scientist talk about ‘peer-review’, you should reach for your Browning” [<a href="#pbio.3000117.ref054" class="ref-tip">54</a>] (an adapted quote from a 1933 play in the honor of Adolf Hitler, no less) and asking “do we really need government-funded research at all?” [<a href="#pbio.3000117.ref055" class="ref-tip">55</a>], it would appear self-defeating to not address systemic factors inflating scientific unreliability as soon as possible. With parties of similar persuasion already in power in Brazil, Hungary, Poland, Argentina, Austria, and Italy—or dominating political discourse in countries such as Sweden or Germany, and ever only an election cycle away from government in many other countries—it would seem wise to not provide arguments for the destruction of publicly funded science. Although it may be impossible for scholars alone to stop an antiscience ideology, there is little reason to help and support the enemies of science along their way. One may even question what good well-intended attempts to quantify the current reliability of science (e.g., replication projects) could do, when all the available evidence points towards unreliability being favored over reliability for decades already. With the evidence revealing a downward trajectory, isn’t it our duty as citizens to try to reverse the trend no matter how bad it has already gotten, and to do so quickly, to prevent further erosion?</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="sec009" name="sec009" class="link-target" title="Eliminate journals"></a>
+<h3>Eliminate journals</h3>
+<a id="article1.body1.sec4.sec3.p1" name="article1.body1.sec4.sec3.p1" class="link-target"></a><p>A faster solution would be to eliminate the source of evaluation by journal rank—journals. The vast majority of our over 30,000 peer-reviewed journals are currently funded via subscriptions. With an average duration of a subscription contract ranging from one to three years, the defunding and, consequently, elimination of journals could start as soon as next year and may be nearing completion as soon as three years from now.</p>
+<a id="article1.body1.sec4.sec3.p2" name="article1.body1.sec4.sec3.p2" class="link-target"></a><p>There is no dearth of modern solutions that will improve quality control, curation, filtering, and discovery once scholarly publishing is aligned with a modern workflow without journals and divorced from novelty assessments. As such solutions have been proposed before and largely converge [<a href="#pbio.3000117.ref056" class="ref-tip">56</a>–<a href="#pbio.3000117.ref058" class="ref-tip">58</a>], I will not elaborate on them in detail. Recently in the companion article, Stern &amp; O’Shea [<a href="#pbio.3000117.ref070" class="ref-tip">70</a>] suggested another, very attractive solution for such an infrastructure with sparser, more effective peer-review. In brief, a combination of existing versioning and badging technologies serves to mark the state of the publication at hand, e.g., working paper, peer-reviewed, data and statistics tested, replicated, in clinical trials, etc. With a modern infrastructure that curates, archives, and makes accessible all scholarly works, not just text-based narratives, we are free to reward scholars for other contributions. This opportunity alone will reduce the pressure to outperform the competition via text-based narratives, but it will also allow us to directly reward, e.g., the teaching of reproducible science and reproducing important findings.</p>
+<a id="article1.body1.sec4.sec3.p3" name="article1.body1.sec4.sec3.p3" class="link-target"></a><p>Why would libraries start to cancel their subscriptions? For one, they are already canceling “Big Deal” subscriptions for various reasons of their own [<a href="#pbio.3000117.ref059" class="ref-tip">59</a>]. Moreover, their scholars may ask them for more modern infrastructure, because they need it for their work. However, scholars may also ask for modern infrastructures from their institutions because of prerequisites for research grants. Funding agencies may require institutions to implement available modern digital infrastructure before research grants can be awarded. Such criteria already exist in most funding agencies and would only need to be more specific and more strictly enforced, e.g., by a certification process. In addition to such basic infrastructure requirements, many funders also already support such a transition either by implementing their own publishing platforms [<a href="#pbio.3000117.ref060" class="ref-tip">60</a>] and/or by mandating author behavior, e.g., PlanS [<a href="#pbio.3000117.ref061" class="ref-tip">61</a>]. A certification to ensure institutions have implemented the infrastructure necessary for their grant recipients to be able to comply with such funder mandates thus seems like a small step from current practice. Moreover, many institutions already have implemented the first, initial components for such an infrastructure, e.g., databases and various types of “green,” subject, or institutional repositories on which they could build. Such a plan for requiring a modern infrastructure has been called “Plan I” (for infrastructure).</p>
+<a id="article1.body1.sec4.sec3.p4" name="article1.body1.sec4.sec3.p4" class="link-target"></a><p>There are three main reasons for institutions to use subscription funds to pay for the required infrastructure and its certification. First, subscriptions are, by now, all but obsolete: most institutions retain archival rights to once subscribed content via various means. In addition, more and more technologies (e.g., Unpaywall, R4R, Kopernio) provide fully legal access to nominally paywalled new articles (and for the shrinking rest during the short transition, there still is Sci-Hub). Second, the new infrastructure performs all the functions of journals, only more effectively and with better functionality. Third, because modern article publishing is at least one order of magnitude cheaper than subscription-based publishing [<a href="#pbio.3000117.ref062" class="ref-tip">62</a>–<a href="#pbio.3000117.ref066" class="ref-tip">66</a>], the institutions stand to save significant amounts of money.</p>
+<a id="article1.body1.sec4.sec3.p5" name="article1.body1.sec4.sec3.p5" class="link-target"></a><p>Therefore, subscription funds are more than sufficient to not only keep scholarly publishing going uninterrupted but also to implement the infrastructure required by funders. Ideally, the infrastructure would be decentralized, federated, and implemented under the governance of the scientific community [<a href="#pbio.3000117.ref067" class="ref-tip">67</a>]. Besides publishing our texts, such a solution would not only solve current problems establishing findable, accessible, interoperable, and reusable (FAIR) [<a href="#pbio.3000117.ref068" class="ref-tip">68</a>] infrastructures for research data as well as scientific source code and/or software and save taxpayers billions every year, it would also help separate novelty from reliability signals.</p>
+<a id="article1.body1.sec4.sec3.p6" name="article1.body1.sec4.sec3.p6" class="link-target"></a><p>Because such an infrastructure would make data and code automatically (i.e., without extra work for scholars) accessible with the article, reliability tests can be performed more easily and more quickly. With novelty assessments separated from reliability assessments, tests for reliability can be applied differentially, according to need, rather than across the board as it is deployed now. Current practice treats peer-review like an unlimited resource. Inasmuch as peer-review can be effective at all, it would be wise to rather administer it sparsely, where it is most effective and most necessary (see also Stern &amp; O’Shea [<a href="#pbio.3000117.ref070" class="ref-tip">70</a>]). There are many ways in which such sparse, selective allocation can be realized [<a href="#pbio.3000117.ref056" class="ref-tip">56</a>–<a href="#pbio.3000117.ref058" class="ref-tip">58</a>], and an infrastructure under the governance of the scholarly community would allow us to find out which is the best one of them.</p>
+</div>
+
+<div id="section4" class="section toc-section"><a id="sec010" name="sec010" class="link-target" title="Eliminate hypercompetition"></a>
+<h3>Eliminate hypercompetition</h3>
+<a id="article1.body1.sec4.sec4.p1" name="article1.body1.sec4.sec4.p1" class="link-target"></a><p>As some of the main drivers behind unreliability in science are thought to be socioeconomic, an alternative solution would be to eliminate the hypercompetition and the resulting stratified environment affecting most scholars today. However, it appears that this option both is more difficult to achieve than any of the solutions suggested above and lies partially outside the jurisdiction of scholars themselves. If it is impossible to eliminate this competition, the least we can do is strive to mitigate its negative consequences.</p>
+</div>
+</div>
+
+<div id="section5" class="section toc-section"><a id="sec011" name="sec011" data-toc="sec011" class="link-target" title="“Too long; didn’t read”"></a><h2>“Too long; didn’t read”</h2><a id="article1.body1.sec5.p1" name="article1.body1.sec5.p1" class="link-target"></a><p>There is a growing body of evidence against our subjective notion of more prestigious journals publishing “better” science. In fact, the most prestigious journals may be publishing the least reliable science. Therefore, it may not be pure coincidence that, in the fields in which the hierarchy of journals is playing an outsize role in rewarding scholars, the replication of scientific findings, or the lack thereof, is receiving more and more attention. Abandoning the expensive anachronism of journals may not only allow us to regain control over the important scholarly communications infrastructure and refocus it towards reliability, but it will also free sufficient funds to implement current technologies that will service our research data and scientific code and/or software such that, e.g., biological databases would never face money-related closures again. Funders may play an important role in the transition from the legacy to the modern system in that they could require the institutions of grant applicants to join the modern system before any applications are reviewed (i.e., a “Plan I”, for infrastructure).</p>
+</div>
+
+
+
+
+
+<div class="section toc-section"><a id="ack" name="ack" data-toc="ack" title="Acknowledgments" class="link-target"></a><h2>Acknowledgments</h2>
+<a id="article1.back1.ack1.p1" name="article1.back1.ack1.p1" class="link-target"></a><p>I thank Chris Chambers for references, and the FriendFeed/Twitterverse for all the references, ideas, and discussions over the last dozen years, as well as for the excellent suggestions for a title to this article.</p>
+</div><div class="toc-section"><a id="references" name="references" class="link-target" data-toc="references" title="References"></a><h2>References</h2><ol class="references"><li id="ref1"><span class="order">1.
+            </span><a name="pbio.3000117.ref001" id="pbio.3000117.ref001" class="link-target"></a>Rutherford E. LXXIX. The scattering of α and β particles by matter and the structure of the atom. The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science. 1911;21: 669–688. <ul class="reflinks"><li><a href="#" data-author="Rutherford" data-cit="RutherfordE.%20LXXIX.%20The%20scattering%20of%20%CE%B1%20and%20%CE%B2%20particles%20by%20matter%20and%20the%20structure%20of%20the%20atom.%20The%20London%2C%20Edinburgh%2C%20and%20Dublin%20Philosophical%20Magazine%20and%20Journal%20of%20Science.%201911%3B21%3A%20669%E2%80%93688." data-title="LXXIX.%20The%20scattering%20of%20%CE%B1%20and%20%CE%B2%20particles%20by%20matter%20and%20the%20structure%20of%20the%20atom" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=LXXIX.+The+scattering+of+%CE%B1+and+%CE%B2+particles+by+matter+and+the+structure+of+the+atom+Rutherford+1911" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref2"><span class="order">2.
+            </span><a name="pbio.3000117.ref002" id="pbio.3000117.ref002" class="link-target"></a>Einstein A. Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig? Ann Phys. 1905;323: 639–641. <ul class="reflinks"><li><a href="#" data-author="Einstein" data-cit="EinsteinA.%20Ist%20die%20Tr%C3%A4gheit%20eines%20K%C3%B6rpers%20von%20seinem%20Energieinhalt%20abh%C3%A4ngig%3F%20Ann%20Phys.%201905%3B323%3A%20639%E2%80%93641." data-title="Ist%20die%20Tr%C3%A4gheit%20eines%20K%C3%B6rpers%20von%20seinem%20Energieinhalt%20abh%C3%A4ngig%3F" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Ist+die+Tr%C3%A4gheit+eines+K%C3%B6rpers+von+seinem+Energieinhalt+abh%C3%A4ngig%3F+Einstein+1905" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref3"><span class="order">3.
+            </span><a name="pbio.3000117.ref003" id="pbio.3000117.ref003" class="link-target"></a>Freedman SJ, Clauser JF. Experimental Test of Local Hidden-Variable Theories. Phys Rev Lett. 1972;28: 938–941. <ul class="reflinks"><li><a href="#" data-author="Freedman" data-cit="FreedmanSJ%2C%20ClauserJF.%20Experimental%20Test%20of%20Local%20Hidden-Variable%20Theories.%20Phys%20Rev%20Lett.%201972%3B28%3A%20938%E2%80%93941." data-title="Experimental%20Test%20of%20Local%20Hidden-Variable%20Theories" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Experimental+Test+of+Local+Hidden-Variable+Theories+Freedman+1972" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref4"><span class="order">4.
+            </span><a name="pbio.3000117.ref004" id="pbio.3000117.ref004" class="link-target"></a>Nelson JA. The power of stereotyping and confirmation bias to overwhelm accurate assessment: the case of economics, gender, and risk aversion. Journal of Economic Methodology. 2014;21: 211–231. <ul class="reflinks"><li><a href="#" data-author="Nelson" data-cit="NelsonJA.%20The%20power%20of%20stereotyping%20and%20confirmation%20bias%20to%20overwhelm%20accurate%20assessment%3A%20the%20case%20of%20economics%2C%20gender%2C%20and%20risk%20aversion.%20Journal%20of%20Economic%20Methodology.%202014%3B21%3A%20211%E2%80%93231." data-title="The%20power%20of%20stereotyping%20and%20confirmation%20bias%20to%20overwhelm%20accurate%20assessment%3A%20the%20case%20of%20economics%2C%20gender%2C%20and%20risk%20aversion" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=The+power+of+stereotyping+and+confirmation+bias+to+overwhelm+accurate+assessment%3A+the+case+of+economics%2C+gender%2C+and+risk+aversion+Nelson+2014" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref5"><span class="order">5.
+            </span><a name="pbio.3000117.ref005" id="pbio.3000117.ref005" class="link-target"></a>Pines JM. Profiles in patient safety: confirmation bias in emergency medicine. Acad Emerg Med. 2006;13: 90–94.  pmid:16365325 <ul class="reflinks" data-doi="10.1197/j.aem.2005.07.028"><li><a href="https://doi.org/10.1197/j.aem.2005.07.028" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/16365325" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Profiles+in+patient+safety%3A+confirmation+bias+in+emergency+medicine+Pines+2006" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref6"><span class="order">6.
+            </span><a name="pbio.3000117.ref006" id="pbio.3000117.ref006" class="link-target"></a>Moser K, Gadenne V, Schröder J. Under what conditions does confirmation seeking obstruct scientific progress? Psychol Rev. 1988;95: 572–574. <ul class="reflinks"><li><a href="#" data-author="Moser" data-cit="MoserK%2C%20GadenneV%2C%20Schr%C3%B6derJ.%20Under%20what%20conditions%20does%20confirmation%20seeking%20obstruct%20scientific%20progress%3F%20Psychol%20Rev.%201988%3B95%3A%20572%E2%80%93574." data-title="Under%20what%20conditions%20does%20confirmation%20seeking%20obstruct%20scientific%20progress%3F" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Under+what+conditions+does+confirmation+seeking+obstruct+scientific+progress%3F+Moser+1988" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref7"><span class="order">7.
+            </span><a name="pbio.3000117.ref007" id="pbio.3000117.ref007" class="link-target"></a>Mynatt CR, Doherty ME, Tweney RD. Confirmation Bias in a Simulated Research Environment: An Experimental Study of Scientific Inference. Q J Exp Psychol. 1977;29: 85–95. <ul class="reflinks"><li><a href="#" data-author="Mynatt" data-cit="MynattCR%2C%20DohertyME%2C%20TweneyRD.%20Confirmation%20Bias%20in%20a%20Simulated%20Research%20Environment%3A%20An%20Experimental%20Study%20of%20Scientific%20Inference.%20Q%20J%20Exp%20Psychol.%201977%3B29%3A%2085%E2%80%9395." data-title="Confirmation%20Bias%20in%20a%20Simulated%20Research%20Environment%3A%20An%20Experimental%20Study%20of%20Scientific%20Inference" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Confirmation+Bias+in+a+Simulated+Research+Environment%3A+An+Experimental+Study+of+Scientific+Inference+Mynatt+1977" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref8"><span class="order">8.
+            </span><a name="pbio.3000117.ref008" id="pbio.3000117.ref008" class="link-target"></a>Brembs B, Button K, Munafò M. Deep impact: unintended consequences of journal rank. Front Hum Neurosci. 2013;7: 291.  pmid:23805088 <ul class="reflinks" data-doi="10.3389/fnhum.2013.00291"><li><a href="https://doi.org/10.3389/fnhum.2013.00291" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/23805088" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Deep+impact%3A+unintended+consequences+of+journal+rank+Brembs+2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref9"><span class="order">9.
+            </span><a name="pbio.3000117.ref009" id="pbio.3000117.ref009" class="link-target"></a>The impact factor game. It is time to find a better way to assess the scientific literature. PLoS Med. 2006;3(6): e291.  pmid:16749869 <ul class="reflinks" data-doi="10.1371/journal.pmed.0030291"><li><a href="https://doi.org/10.1371/journal.pmed.0030291" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/16749869" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=The+impact+factor+game.+It+is+time+to+find+a+better+way+to+assess+the+scientific+literature++2006" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref10"><span class="order">10.
+            </span><a name="pbio.3000117.ref010" id="pbio.3000117.ref010" class="link-target"></a>Not-so-deep impact. Nature. 2005;435: 1003–1004. <ul class="reflinks"><li><a href="#" data-author="" data-cit="Not-so-deep%20impact.%20Nature.%202005%3B435%3A%201003%E2%80%931004." data-title="Not-so-deep%20impact" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Not-so-deep+impact++2005" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref11"><span class="order">11.
+            </span><a name="pbio.3000117.ref011" id="pbio.3000117.ref011" class="link-target"></a>Moed HF, Van Leeuwen TN. Improving the accuracy of institute for scientific information’s journal impact factors. Journal of the American Society for Information Science. 1995;46: 461–467. <ul class="reflinks"><li><a href="#" data-author="Moed" data-cit="MoedHF%2C%20Van%20LeeuwenTN.%20Improving%20the%20accuracy%20of%20institute%20for%20scientific%20information%E2%80%99s%20journal%20impact%20factors.%20Journal%20of%20the%20American%20Society%20for%20Information%20Science.%201995%3B46%3A%20461%E2%80%93467." data-title="Improving%20the%20accuracy%20of%20institute%20for%20scientific%20information%E2%80%99s%20journal%20impact%20factors" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Improving+the+accuracy+of+institute+for+scientific+information%E2%80%99s+journal+impact+factors+Moed+1995" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref12"><span class="order">12.
+            </span><a name="pbio.3000117.ref012" id="pbio.3000117.ref012" class="link-target"></a>Moed HF, van Leeuwen TN. Impact factors can mislead. Nature. 1996;381: 186.  pmid:8622752 <ul class="reflinks" data-doi="10.1038/381186a0"><li><a href="https://doi.org/10.1038/381186a0" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/8622752" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Impact+factors+can+mislead+Moed+1996" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref13"><span class="order">13.
+            </span><a name="pbio.3000117.ref013" id="pbio.3000117.ref013" class="link-target"></a>Baylis M, Gravenor M, Kao R. Sprucing up one’s impact factor. Nature. 1999;401: 322–322. <ul class="reflinks"><li><a href="#" data-author="Baylis" data-cit="BaylisM%2C%20GravenorM%2C%20KaoR.%20Sprucing%20up%20one%E2%80%99s%20impact%20factor.%20Nature.%201999%3B401%3A%20322%E2%80%93322." data-title="Sprucing%20up%20one%E2%80%99s%20impact%20factor" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Sprucing+up+one%E2%80%99s+impact+factor+Baylis+1999" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref14"><span class="order">14.
+            </span><a name="pbio.3000117.ref014" id="pbio.3000117.ref014" class="link-target"></a>Gowrishankar J, Divakar P. Sprucing up one’s impact factor. Nature. 1999;401: 321–322. <ul class="reflinks"><li><a href="#" data-author="Gowrishankar" data-cit="GowrishankarJ%2C%20DivakarP.%20Sprucing%20up%20one%E2%80%99s%20impact%20factor.%20Nature.%201999%3B401%3A%20321%E2%80%93322." data-title="Sprucing%20up%20one%E2%80%99s%20impact%20factor" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Sprucing+up+one%E2%80%99s+impact+factor+Gowrishankar+1999" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref15"><span class="order">15.
+            </span><a name="pbio.3000117.ref015" id="pbio.3000117.ref015" class="link-target"></a>Garfield E. Journal impact factor: a brief review. CMAJ. 1999;161: 979–980. pmid:10551195 <ul class="reflinks"><li><a href="#" data-author="Garfield" data-cit="GarfieldE.%20Journal%20impact%20factor%3A%20a%20brief%20review.%20CMAJ.%201999%3B161%3A%20979%E2%80%93980.%2010551195" data-title="Journal%20impact%20factor%3A%20a%20brief%20review" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/10551195" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Journal+impact+factor%3A+a+brief+review+Garfield+1999" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref16"><span class="order">16.
+            </span><a name="pbio.3000117.ref016" id="pbio.3000117.ref016" class="link-target"></a>Adam D. The counting house. Nature. 2002;415: 726–729.  pmid:11845174 <ul class="reflinks" data-doi="10.1038/415726a"><li><a href="https://doi.org/10.1038/415726a" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/11845174" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=The+counting+house+Adam+2002" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref17"><span class="order">17.
+            </span><a name="pbio.3000117.ref017" id="pbio.3000117.ref017" class="link-target"></a>Hernán MA. Impact factor: a call to reason. Epidemiology. 2009;20: 317–8; discussion 319–20.  pmid:19363351 <ul class="reflinks" data-doi="10.1097/EDE.0b013e31819ed4a6"><li><a href="https://doi.org/10.1097/EDE.0b013e31819ed4a6" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/19363351" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Impact+factor%3A+a+call+to+reason+Hern%C3%A1n+2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref18"><span class="order">18.
+            </span><a name="pbio.3000117.ref018" id="pbio.3000117.ref018" class="link-target"></a>Royle S. The Great Curve II: Citation distributions and reverse engineering the JIF. In: quantixed [Internet]. quantixed; 5 Jan 2016. Available from: <a href="https://quantixed.org/2016/01/05/the-great-curve-ii-citation-distributions-and-reverse-engineering-the-jif/">https://quantixed.org/2016/01/05/the-great-curve-ii-citation-distributions-and-reverse-engineering-the-jif/</a>. [cited 17 Jul 2018]. <ul class="find-nolinks"></ul></li><li id="ref19"><span class="order">19.
+            </span><a name="pbio.3000117.ref019" id="pbio.3000117.ref019" class="link-target"></a>Rossner M, Van Epps H, Hill E. Show me the data. J Cell Biol. 2007;179: 1091–1092.  pmid:18086910 <ul class="reflinks" data-doi="10.1083/jcb.200711140"><li><a href="https://doi.org/10.1083/jcb.200711140" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/18086910" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Show+me+the+data+Rossner+2007" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref20"><span class="order">20.
+            </span><a name="pbio.3000117.ref020" id="pbio.3000117.ref020" class="link-target"></a>Seglen PO. The skewness of science. Journal of the American Society for Information Science. 1992;43: 628–638. <ul class="reflinks"><li><a href="#" data-author="Seglen" data-cit="SeglenPO.%20The%20skewness%20of%20science.%20Journal%20of%20the%20American%20Society%20for%20Information%20Science.%201992%3B43%3A%20628%E2%80%93638." data-title="The%20skewness%20of%20science" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=The+skewness+of+science+Seglen+1992" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref21"><span class="order">21.
+            </span><a name="pbio.3000117.ref021" id="pbio.3000117.ref021" class="link-target"></a>Seglen PO. Why the impact factor of journals should not be used for evaluating research. BMJ. 1997;314: 497–497. <ul class="reflinks"><li><a href="#" data-author="Seglen" data-cit="SeglenPO.%20Why%20the%20impact%20factor%20of%20journals%20should%20not%20be%20used%20for%20evaluating%20research.%20BMJ.%201997%3B314%3A%20497%E2%80%93497." data-title="Why%20the%20impact%20factor%20of%20journals%20should%20not%20be%20used%20for%20evaluating%20research" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Why+the+impact+factor+of+journals+should+not+be+used+for+evaluating+research+Seglen+1997" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref22"><span class="order">22.
+            </span><a name="pbio.3000117.ref022" id="pbio.3000117.ref022" class="link-target"></a>Weale AR, Bailey M, Lear PA. The level of non-citation of articles within a journal as a measure of quality: a comparison to the impact factor. BMC Med Res Methodol. 2004;4: 14.  pmid:15169549 <ul class="reflinks" data-doi="10.1186/1471-2288-4-14"><li><a href="https://doi.org/10.1186/1471-2288-4-14" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/15169549" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=The+level+of+non-citation+of+articles+within+a+journal+as+a+measure+of+quality%3A+a+comparison+to+the+impact+factor+Weale+2004" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref23"><span class="order">23.
+            </span><a name="pbio.3000117.ref023" id="pbio.3000117.ref023" class="link-target"></a>Chow CW, Haddad K, Singh G, Wu A. On Using Journal Rank to Proxy for an Article’s Contribution or Value. Issues in Accounting Education. 2007;22: 411–427. <ul class="reflinks"><li><a href="#" data-author="Chow" data-cit="ChowCW%2C%20HaddadK%2C%20SinghG%2C%20WuA.%20On%20Using%20Journal%20Rank%20to%20Proxy%20for%20an%20Article%E2%80%99s%20Contribution%20or%20Value.%20Issues%20in%20Accounting%20Education.%202007%3B22%3A%20411%E2%80%93427." data-title="On%20Using%20Journal%20Rank%20to%20Proxy%20for%20an%20Article%E2%80%99s%20Contribution%20or%20Value" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=On+Using+Journal+Rank+to+Proxy+for+an+Article%E2%80%99s+Contribution+or+Value+Chow+2007" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref24"><span class="order">24.
+            </span><a name="pbio.3000117.ref024" id="pbio.3000117.ref024" class="link-target"></a>Taylor M, Perakakis P, Trachana V. The siege of science. ESEP. 2008;8: 17–40. <ul class="reflinks"><li><a href="#" data-author="Taylor" data-cit="TaylorM%2C%20PerakakisP%2C%20TrachanaV.%20The%20siege%20of%20science.%20ESEP.%202008%3B8%3A%2017%E2%80%9340." data-title="The%20siege%20of%20science" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=The+siege+of+science+Taylor+2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref25"><span class="order">25.
+            </span><a name="pbio.3000117.ref025" id="pbio.3000117.ref025" class="link-target"></a>Kravitz DJ, Baker CI. Toward a new model of scientific publishing: discussion and a proposal. Front Comput Neurosci. 2011;5: 55.  pmid:22164143 <ul class="reflinks" data-doi="10.3389/fncom.2011.00055"><li><a href="https://doi.org/10.3389/fncom.2011.00055" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/22164143" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Toward+a+new+model+of+scientific+publishing%3A+discussion+and+a+proposal+Kravitz+2011" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref26"><span class="order">26.
+            </span><a name="pbio.3000117.ref026" id="pbio.3000117.ref026" class="link-target"></a>Curry S. Sick of Impact Factors. In: Reciprocal Space [Internet]. 2013. Available from: <a href="http://occamstypewriter.org/scurry/2012/08/13/sick-of-impact-factors/">http://occamstypewriter.org/scurry/2012/08/13/sick-of-impact-factors/</a>. [cited 17 Jul 2018]. <ul class="find-nolinks"></ul></li><li id="ref27"><span class="order">27.
+            </span><a name="pbio.3000117.ref027" id="pbio.3000117.ref027" class="link-target"></a>Teixeira da Silva JA, Bornemann-Cimenti H. Why do some retracted papers continue to be cited? Scientometrics. 2017;110: 365–370. <ul class="reflinks"><li><a href="#" data-author="Teixeira%20da%20Silva" data-cit="Teixeira%20da%20SilvaJA%2C%20Bornemann-CimentiH.%20Why%20do%20some%20retracted%20papers%20continue%20to%20be%20cited%3F%20Scientometrics.%202017%3B110%3A%20365%E2%80%93370." data-title="Why%20do%20some%20retracted%20papers%20continue%20to%20be%20cited%3F" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Why+do+some+retracted+papers+continue+to+be+cited%3F+Teixeira+da+Silva+2017" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref28"><span class="order">28.
+            </span><a name="pbio.3000117.ref028" id="pbio.3000117.ref028" class="link-target"></a>Bar-Ilan J, Halevi G. Post retraction citations in context: a case study. Scientometrics. 2017;113: 547–565.  pmid:29056790 <ul class="reflinks" data-doi="10.1007/s11192-017-2242-0"><li><a href="https://doi.org/10.1007/s11192-017-2242-0" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/29056790" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Post+retraction+citations+in+context%3A+a+case+study+Bar-Ilan+2017" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref29"><span class="order">29.
+            </span><a name="pbio.3000117.ref029" id="pbio.3000117.ref029" class="link-target"></a>Bornemann-Cimenti H, Szilagyi IS, Sandner-Kiesling A. Perpetuation of Retracted Publications Using the Example of the Scott S. Reuben Case: Incidences, Reasons and Possible Improvements. Sci Eng Ethics. 2016;22: 1063–1072.  pmid:26150092 <ul class="reflinks" data-doi="10.1007/s11948-015-9680-y"><li><a href="https://doi.org/10.1007/s11948-015-9680-y" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/26150092" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Perpetuation+of+Retracted+Publications+Using+the+Example+of+the+Scott+S.+Reuben+Case%3A+Incidences%2C+Reasons+and+Possible+Improvements+Bornemann-Cimenti+2016" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref30"><span class="order">30.
+            </span><a name="pbio.3000117.ref030" id="pbio.3000117.ref030" class="link-target"></a>Leydesdorff L, Radicchi F, Bornmann L, Castellano C, de Nooy W. Field-normalized impact factors (IFs): A comparison of rescaling and fractionally counted IFs. J Am Soc Inf Sci Technol. 2013;64: 2299–2309. <ul class="reflinks"><li><a href="#" data-author="Leydesdorff" data-cit="LeydesdorffL%2C%20RadicchiF%2C%20BornmannL%2C%20CastellanoC%2C%20de%20NooyW.%20Field-normalized%20impact%20factors%20%28IFs%29%3A%20A%20comparison%20of%20rescaling%20and%20fractionally%20counted%20IFs.%20J%20Am%20Soc%20Inf%20Sci%20Technol.%202013%3B64%3A%202299%E2%80%932309." data-title="Field-normalized%20impact%20factors%20%28IFs%29%3A%20A%20comparison%20of%20rescaling%20and%20fractionally%20counted%20IFs" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Field-normalized+impact+factors+%28IFs%29%3A+A+comparison+of+rescaling+and+fractionally+counted+IFs+Leydesdorff+2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref31"><span class="order">31.
+            </span><a name="pbio.3000117.ref031" id="pbio.3000117.ref031" class="link-target"></a>Hutchins BI, Yuan X, Anderson JM, Santangelo GM. Relative Citation Ratio (RCR): A New Metric That Uses Citation Rates to Measure Influence at the Article Level. PLoS Biol. 2016;14(9): e1002541.  pmid:27599104 <ul class="reflinks" data-doi="10.1371/journal.pbio.1002541"><li><a href="https://doi.org/10.1371/journal.pbio.1002541" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/27599104" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Relative+Citation+Ratio+%28RCR%29%3A+A+New+Metric+That+Uses+Citation+Rates+to+Measure+Influence+at+the+Article+Level+Hutchins+2016" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref32"><span class="order">32.
+            </span><a name="pbio.3000117.ref032" id="pbio.3000117.ref032" class="link-target"></a>Gordon MD. Citation ranking versus subjective evaluation in the determination of journal hierachies in the social sciences. Journal of the American Society for Information Science. 1982;33: 55–57. <ul class="reflinks"><li><a href="#" data-author="Gordon" data-cit="GordonMD.%20Citation%20ranking%20versus%20subjective%20evaluation%20in%20the%20determination%20of%20journal%20hierachies%20in%20the%20social%20sciences.%20Journal%20of%20the%20American%20Society%20for%20Information%20Science.%201982%3B33%3A%2055%E2%80%9357." data-title="Citation%20ranking%20versus%20subjective%20evaluation%20in%20the%20determination%20of%20journal%20hierachies%20in%20the%20social%20sciences" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Citation+ranking+versus+subjective+evaluation+in+the+determination+of+journal+hierachies+in+the+social+sciences+Gordon+1982" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref33"><span class="order">33.
+            </span><a name="pbio.3000117.ref033" id="pbio.3000117.ref033" class="link-target"></a>Nkereuwem EE, Ottong EJ, Bassey BA, Esin JE. Citation Ranking Versus Subjective Evaluation In The Determination Of Journal Hierarchies In Information Science. Global Journal of Social Sciences. 2008;7.  <ul class="reflinks" data-doi="10.4314/gjss.v7i1.22851"><li><a href="https://doi.org/10.4314/gjss.v7i1.22851" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Citation+Ranking+Versus+Subjective+Evaluation+In+The+Determination+Of+Journal+Hierarchies+In+Information+Science+Nkereuwem+2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref34"><span class="order">34.
+            </span><a name="pbio.3000117.ref034" id="pbio.3000117.ref034" class="link-target"></a>Saha S, Saint S, Christakis DA. Impact factor: a valid measure of journal quality? J Med Libr Assoc. 2003;91: 42–46. pmid:12572533 <ul class="reflinks"><li><a href="#" data-author="Saha" data-cit="SahaS%2C%20SaintS%2C%20ChristakisDA.%20Impact%20factor%3A%20a%20valid%20measure%20of%20journal%20quality%3F%20J%20Med%20Libr%20Assoc.%202003%3B91%3A%2042%E2%80%9346.%2012572533" data-title="Impact%20factor%3A%20a%20valid%20measure%20of%20journal%20quality%3F" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/12572533" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Impact+factor%3A+a+valid+measure+of+journal+quality%3F+Saha+2003" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref35"><span class="order">35.
+            </span><a name="pbio.3000117.ref035" id="pbio.3000117.ref035" class="link-target"></a>Yue W, Wilson CS, Boller F. Peer assessment of journal quality in clinical neurology. J Med Libr Assoc. 2007;95: 70–76. pmid:17252069 <ul class="reflinks"><li><a href="#" data-author="Yue" data-cit="YueW%2C%20WilsonCS%2C%20BollerF.%20Peer%20assessment%20of%20journal%20quality%20in%20clinical%20neurology.%20J%20Med%20Libr%20Assoc.%202007%3B95%3A%2070%E2%80%9376.%2017252069" data-title="Peer%20assessment%20of%20journal%20quality%20in%20clinical%20neurology" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/17252069" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Peer+assessment+of+journal+quality+in+clinical+neurology+Yue+2007" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref36"><span class="order">36.
+            </span><a name="pbio.3000117.ref036" id="pbio.3000117.ref036" class="link-target"></a>Sønderstrup-Andersen EM, Sønderstrup-Andersen HHK. An investigation into diabetes researcher’s perceptions of the Journal Impact Factor—reconsidering evaluating research. Scientometrics. 2008;76: 391–406. <ul class="reflinks"><li><a href="#" data-author="S%C3%B8nderstrup-Andersen" data-cit="S%C3%B8nderstrup-AndersenEM%2C%20S%C3%B8nderstrup-AndersenHHK.%20An%20investigation%20into%20diabetes%20researcher%E2%80%99s%20perceptions%20of%20the%20Journal%20Impact%20Factor%E2%80%94reconsidering%20evaluating%20research.%20Scientometrics.%202008%3B76%3A%20391%E2%80%93406." data-title="An%20investigation%20into%20diabetes%20researcher%E2%80%99s%20perceptions%20of%20the%20Journal%20Impact%20Factor%E2%80%94reconsidering%20evaluating%20research" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=An+investigation+into+diabetes+researcher%E2%80%99s+perceptions+of+the+Journal+Impact+Factor%E2%80%94reconsidering+evaluating+research+S%C3%B8nderstrup-Andersen+2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref37"><span class="order">37.
+            </span><a name="pbio.3000117.ref037" id="pbio.3000117.ref037" class="link-target"></a>Vinkers CH, Tijdink JK, Otte WM. Use of positive and negative words in scientific PubMed abstracts between 1974 and 2014: retrospective analysis. BMJ. 2015;351: h6467.  pmid:26668206 <ul class="reflinks" data-doi="10.1136/bmj.h6467"><li><a href="https://doi.org/10.1136/bmj.h6467" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/26668206" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Use+of+positive+and+negative+words+in+scientific+PubMed+abstracts+between+1974+and+2014%3A+retrospective+analysis+Vinkers+2015" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref38"><span class="order">38.
+            </span><a name="pbio.3000117.ref038" id="pbio.3000117.ref038" class="link-target"></a>Brembs B. Nature reviewers endorse hype. In: bjoern.brembs.blog [Internet]. 14 Apr 2015. Available from: <a href="http://bjoern.brembs.net/2015/04/nature-reviewers-endorse-hype/">http://bjoern.brembs.net/2015/04/nature-reviewers-endorse-hype/</a>. [cited 17 Jul 2018]. <ul class="find-nolinks"></ul></li><li id="ref39"><span class="order">39.
+            </span><a name="pbio.3000117.ref039" id="pbio.3000117.ref039" class="link-target"></a>Brown EN, Ramaswamy S. Quality of protein crystal structures. Acta Crystallogr D Biol Crystallogr. 2007;63: 941–950.  pmid:17704562 <ul class="reflinks" data-doi="10.1107/S0907444907033847"><li><a href="https://doi.org/10.1107/S0907444907033847" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/17704562" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Quality+of+protein+crystal+structures+Brown+2007" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref40"><span class="order">40.
+            </span><a name="pbio.3000117.ref040" id="pbio.3000117.ref040" class="link-target"></a>Munafò MR, Stothart G, Flint J. Bias in genetic association studies and impact factor. Mol Psychiatry. 2009;14: 119–120.  pmid:19156153 <ul class="reflinks" data-doi="10.1038/mp.2008.77"><li><a href="https://doi.org/10.1038/mp.2008.77" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/19156153" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Bias+in+genetic+association+studies+and+impact+factor+Munaf%C3%B2+2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref41"><span class="order">41.
+            </span><a name="pbio.3000117.ref041" id="pbio.3000117.ref041" class="link-target"></a>Dumas-Mallet E, Button KS, Boraud T, Gonon F, Munafò MR. Low statistical power in biomedical science: a review of three human research domains. R Soc Open Sci. 2017;4: 160254.  pmid:28386409 <ul class="reflinks" data-doi="10.1098/rsos.160254"><li><a href="https://doi.org/10.1098/rsos.160254" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/28386409" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Low+statistical+power+in+biomedical+science%3A+a+review+of+three+human+research+domains+Dumas-Mallet+2017" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref42"><span class="order">42.
+            </span><a name="pbio.3000117.ref042" id="pbio.3000117.ref042" class="link-target"></a>Szucs D, Ioannidis JPA. Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature. PLoS Biol. 2017;15(3): e2000797.  pmid:28253258 <ul class="reflinks" data-doi="10.1371/journal.pbio.2000797"><li><a href="https://doi.org/10.1371/journal.pbio.2000797" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/28253258" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Empirical+assessment+of+published+effect+sizes+and+power+in+the+recent+cognitive+neuroscience+and+psychology+literature+Szucs+2017" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref43"><span class="order">43.
+            </span><a name="pbio.3000117.ref043" id="pbio.3000117.ref043" class="link-target"></a>Button KS, Ioannidis JPA, Mokrysz C, Nosek BA, Flint J, Robinson ESJ, et al. Power failure: why small sample size undermines the reliability of neuroscience. Nat Rev Neurosci. 2013;14: 365–376.  pmid:23571845 <ul class="reflinks" data-doi="10.1038/nrn3475"><li><a href="https://doi.org/10.1038/nrn3475" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/23571845" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Power+failure%3A+why+small+sample+size+undermines+the+reliability+of+neuroscience+Button+2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref44"><span class="order">44.
+            </span><a name="pbio.3000117.ref044" id="pbio.3000117.ref044" class="link-target"></a>Fraley RC, Vazire S. The N-pact factor: evaluating the quality of empirical journals with respect to sample size and statistical power. PLoS ONE. 2014;9(10): e109019.  pmid:25296159 <ul class="reflinks" data-doi="10.1371/journal.pone.0109019"><li><a href="https://doi.org/10.1371/journal.pone.0109019" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/25296159" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=The+N-pact+factor%3A+evaluating+the+quality+of+empirical+journals+with+respect+to+sample+size+and+statistical+power+Fraley+2014" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref45"><span class="order">45.
+            </span><a name="pbio.3000117.ref045" id="pbio.3000117.ref045" class="link-target"></a>Macleod MR, Lawson McLean A, Kyriakopoulou A, Serghiou S, de Wilde A, Sherratt N, et al. Risk of Bias in Reports of In Vivo Research: A Focus for Improvement. PLoS Biol. 2015;13(10): e1002273.  pmid:26460723 <ul class="reflinks" data-doi="10.1371/journal.pbio.1002273"><li><a href="https://doi.org/10.1371/journal.pbio.1002273" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/26460723" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Risk+of+Bias+in+Reports+of+In+Vivo+Research%3A+A+Focus+for+Improvement+Macleod+2015" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref46"><span class="order">46.
+            </span><a name="pbio.3000117.ref046" id="pbio.3000117.ref046" class="link-target"></a>Ziemann M, Eren Y, El-Osta A. Gene name errors are widespread in the scientific literature. Genome Biol. 2016;17: 177.  pmid:27552985 <ul class="reflinks" data-doi="10.1186/s13059-016-1044-7"><li><a href="https://doi.org/10.1186/s13059-016-1044-7" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/27552985" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Gene+name+errors+are+widespread+in+the+scientific+literature+Ziemann+2016" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref47"><span class="order">47.
+            </span><a name="pbio.3000117.ref047" id="pbio.3000117.ref047" class="link-target"></a>Bik EM, Casadevall A, Fang FC. The Prevalence of Inappropriate Image Duplication in Biomedical Research Publications. MBio. 2016;7.  pmid:27273827 <ul class="reflinks" data-doi="10.1128/mBio.00809-16"><li><a href="https://doi.org/10.1128/mBio.00809-16" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/27273827" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=The+Prevalence+of+Inappropriate+Image+Duplication+in+Biomedical+Research+Publications+Bik+2016" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref48"><span class="order">48.
+            </span><a name="pbio.3000117.ref048" id="pbio.3000117.ref048" class="link-target"></a>Brembs B. Prestigious Science Journals Struggle to Reach Even Average Reliability. Front Hum Neurosci. 2018;12: 37.  pmid:29515380 <ul class="reflinks" data-doi="10.3389/fnhum.2018.00037"><li><a href="https://doi.org/10.3389/fnhum.2018.00037" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/29515380" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Prestigious+Science+Journals+Struggle+to+Reach+Even+Average+Reliability+Brembs+2018" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref49"><span class="order">49.
+            </span><a name="pbio.3000117.ref049" id="pbio.3000117.ref049" class="link-target"></a>Smaldino PE, McElreath R. The natural selection of bad science. R Soc open sci. 2016;3: 160384.  pmid:27703703 <ul class="reflinks" data-doi="10.1098/rsos.160384"><li><a href="https://doi.org/10.1098/rsos.160384" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/27703703" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=The+natural+selection+of+bad+science+Smaldino+2016" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref50"><span class="order">50.
+            </span><a name="pbio.3000117.ref050" id="pbio.3000117.ref050" class="link-target"></a>Higginson AD, Munafò MR. Current Incentives for Scientists Lead to Underpowered Studies with Erroneous Conclusions. PLoS Biol. 2016;14(11): e2000995.  pmid:27832072 <ul class="reflinks" data-doi="10.1371/journal.pbio.2000995"><li><a href="https://doi.org/10.1371/journal.pbio.2000995" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/27832072" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Current+Incentives+for+Scientists+Lead+to+Underpowered+Studies+with+Erroneous+Conclusions+Higginson+2016" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref51"><span class="order">51.
+            </span><a name="pbio.3000117.ref051" id="pbio.3000117.ref051" class="link-target"></a>Moore S, Neylon C, Paul Eve M, Paul O’Donnell D, Pattinson D. “Excellence R Us”: university research and the fetishisation of excellence. Palgrave Commun. 2017;3: 16105. <ul class="reflinks"><li><a href="#" data-author="Moore" data-cit="MooreS%2C%20NeylonC%2C%20Paul%20EveM%2C%20Paul%20O%E2%80%99DonnellD%2C%20PattinsonD.%20%E2%80%9CExcellence%20R%20Us%E2%80%9D%3A%20university%20research%20and%20the%20fetishisation%20of%20excellence.%20Palgrave%20Commun.%202017%3B3%3A%2016105." data-title="%E2%80%9CExcellence%20R%20Us%E2%80%9D%3A%20university%20research%20and%20the%20fetishisation%20of%20excellence" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=%E2%80%9CExcellence+R+Us%E2%80%9D%3A+university+research+and+the+fetishisation+of+excellence+Moore+2017" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref52"><span class="order">52.
+            </span><a name="pbio.3000117.ref052" id="pbio.3000117.ref052" class="link-target"></a>DORA–San Francisco Declaration on Research Assessment (DORA) [Internet]. Available from: <a href="https://sfdora.org">https://sfdora.org</a>. [cited 19 Nov 2018]. <ul class="find-nolinks"></ul></li><li id="ref53"><span class="order">53.
+            </span><a name="pbio.3000117.ref053" id="pbio.3000117.ref053" class="link-target"></a>UIS. Science,technology and innovation [Internet]. Available from: <a href="http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&amp;lang=en&amp;popupcustomise=true#">http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&amp;lang=en&amp;popupcustomise=true#</a>. [cited 19 Nov 2018]. <ul class="find-nolinks"></ul></li><li id="ref54"><span class="order">54.
+            </span><a name="pbio.3000117.ref054" id="pbio.3000117.ref054" class="link-target"></a>News B. When You Hear a Scientist Talk About “Peer Review” Reach For Your Browning. In: Breitbart [Internet]. 28 Oct 2016. Available from: <a href="https://www.breitbart.com/london/2016/10/28/hear-scientist-talk-peer-review-reach-browning/">https://www.breitbart.com/london/2016/10/28/hear-scientist-talk-peer-review-reach-browning/</a>. [cited 17 Jul 2018]. <ul class="find-nolinks"></ul></li><li id="ref55"><span class="order">55.
+            </span><a name="pbio.3000117.ref055" id="pbio.3000117.ref055" class="link-target"></a>Belluz J. Trump’s budget director pick: “Do we really need government-funded research at all.” In: Vox [Internet]. Vox; 21 Dec 2016. Available from:<a href="https://www.vox.com/science-and-health/2016/12/21/14012552/trump-budget-director-research-science-mulvaney">https://www.vox.com/science-and-health/2016/12/21/14012552/trump-budget-director-research-science-mulvaney</a>. [cited 17 Jul 2018]. <ul class="find-nolinks"></ul></li><li id="ref56"><span class="order">56.
+            </span><a name="pbio.3000117.ref056" id="pbio.3000117.ref056" class="link-target"></a>Bishop D. Will traditional science journals disappear? | Dorothy Bishop. In: the Guardian [Internet]. 12 May 2015. Available from: <a href="http://www.theguardian.com/science/head-quarters/2015/may/12/will-traditional-science-journals-disappear">http://www.theguardian.com/science/head-quarters/2015/may/12/will-traditional-science-journals-disappear</a>. [cited 11 Dec 2018]. <ul class="find-nolinks"></ul></li><li id="ref57"><span class="order">57.
+            </span><a name="pbio.3000117.ref057" id="pbio.3000117.ref057" class="link-target"></a>Schwarzkopf S. Revolutionise the publication process. In: NeuroNeurotic [Internet]. 17 Jul 2015. Available from: <a href="https://neuroneurotic.net/2015/07/17/revolutionise-the-publication-process/">https://neuroneurotic.net/2015/07/17/revolutionise-the-publication-process/</a>. [cited 11 Dec 2018]. <ul class="reflinks"><li><a href="#" data-author="Schwarzkopf" data-cit="SchwarzkopfS.%20Revolutionise%20the%20publication%20process.%20In%3A%20NeuroNeurotic%20%5BInternet%5D.%2017%20Jul%202015.%20Available%20from%3A%20https%3A%2F%2Fneuroneurotic.net%2F2015%2F07%2F17%2Frevolutionise-the-publication-process%2F.%20%5Bcited%2011%20Dec%202018%5D." data-title="Revolutionise%20the%20publication%20process" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Revolutionise+the+publication+process+Schwarzkopf+2015" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref58"><span class="order">58.
+            </span><a name="pbio.3000117.ref058" id="pbio.3000117.ref058" class="link-target"></a>Allen M. Short post–my science fiction vision of how science could work in the future. In: Neurocoscience [Internet]. 20 Mar 2015. Available from: <a href="https://micahallen.org/2015/03/20/short-post-my-science-fiction-vision-of-how-science-could-work-in-the-future/">https://micahallen.org/2015/03/20/short-post-my-science-fiction-vision-of-how-science-could-work-in-the-future/</a>. [cited 11 Dec 2018]. <ul class="reflinks"><li><a href="#" data-author="Allen" data-cit="AllenM.%20Short%20post%E2%80%93my%20science%20fiction%20vision%20of%20how%20science%20could%20work%20in%20the%20future.%20In%3A%20Neurocoscience%20%5BInternet%5D.%2020%20Mar%202015.%20Available%20from%3A%20https%3A%2F%2Fmicahallen.org%2F2015%2F03%2F20%2Fshort-post-my-science-fiction-vision-of-how-science-could-work-in-the-future%2F.%20%5Bcited%2011%20Dec%202018%5D." data-title="Short%20post%E2%80%93my%20science%20fiction%20vision%20of%20how%20science%20could%20work%20in%20the%20future" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Short+post%E2%80%93my+science+fiction+vision+of+how+science+could+work+in+the+future+Allen+" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref59"><span class="order">59.
+            </span><a name="pbio.3000117.ref059" id="pbio.3000117.ref059" class="link-target"></a>Big Deal Cancellation Tracking—SPARC. In: SPARC [Internet]. Available from: <a href="https://sparcopen.org/our-work/big-deal-cancellation-tracking/">https://sparcopen.org/our-work/big-deal-cancellation-tracking/</a>. [cited 11 Dec 2018]. <ul class="find-nolinks"></ul></li><li id="ref60"><span class="order">60.
+            </span><a name="pbio.3000117.ref060" id="pbio.3000117.ref060" class="link-target"></a>Butler D. Wellcome Trust launches open-access publishing venture. Nature. 2016;  <ul class="reflinks" data-doi="10.1038/nature.2016.20220"><li><a href="https://doi.org/10.1038/nature.2016.20220" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Wellcome+Trust+launches+open-access+publishing+venture+Butler+2016" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref61"><span class="order">61.
+            </span><a name="pbio.3000117.ref061" id="pbio.3000117.ref061" class="link-target"></a>Else H. Radical open-access plan could spell end to journal subscriptions. Nature. 2018;561: 17–18.  pmid:30181639 <ul class="reflinks" data-doi="10.1038/d41586-018-06178-7"><li><a href="https://doi.org/10.1038/d41586-018-06178-7" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/30181639" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Radical+open-access+plan+could+spell+end+to+journal+subscriptions+Else+2018" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref62"><span class="order">62.
+            </span><a name="pbio.3000117.ref062" id="pbio.3000117.ref062" class="link-target"></a>Odlyzko AM. Open access, library and publisher competition, and the evolution of general commerce. Eval Rev. 2015;39: 130–163.  pmid:24699504 <ul class="reflinks" data-doi="10.1177/0193841X13514751"><li><a href="https://doi.org/10.1177/0193841X13514751" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/24699504" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=Open+access%2C+library+and+publisher+competition%2C+and+the+evolution+of+general+commerce+Odlyzko+2015" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref63"><span class="order">63.
+            </span><a name="pbio.3000117.ref063" id="pbio.3000117.ref063" class="link-target"></a>Packer AL. The SciELO Open Access: A Gold Way from the South. Canadian Journal of Higher Education. 2010;39: 111–126. <ul class="reflinks"><li><a href="#" data-author="Packer" data-cit="PackerAL.%20The%20SciELO%20Open%20Access%3A%20A%20Gold%20Way%20from%20the%20South.%20Canadian%20Journal%20of%20Higher%20Education.%202010%3B39%3A%20111%E2%80%93126." data-title="The%20SciELO%20Open%20Access%3A%20A%20Gold%20Way%20from%20the%20South" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=The+SciELO+Open+Access%3A+A+Gold+Way+from+the+South+Packer+2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref64"><span class="order">64.
+            </span><a name="pbio.3000117.ref064" id="pbio.3000117.ref064" class="link-target"></a>Van Noorden R. Open access: The true cost of science publishing. Nature News. 2013;495: 426. <ul class="reflinks"><li><a href="#" data-author="Van%20Noorden" data-cit="Van%20NoordenR.%20Open%20access%3A%20The%20true%20cost%20of%20science%20publishing.%20Nature%20News.%202013%3B495%3A%20426." data-title="Open%20access%3A%20The%20true%20cost%20of%20science%20publishing" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Open+access%3A+The+true+cost+of+science+publishing+Van+Noorden+2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref65"><span class="order">65.
+            </span><a name="pbio.3000117.ref065" id="pbio.3000117.ref065" class="link-target"></a>Bogich T, Ballesteros S. On the Marginal Cost of Scholarly Communication. Research. 2016;  <ul class="reflinks" data-doi="10.29016/bogich2016"><li><a href="https://doi.org/10.29016/bogich2016" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=On+the+Marginal+Cost+of+Scholarly+Communication+Bogich+2016" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref66"><span class="order">66.
+            </span><a name="pbio.3000117.ref066" id="pbio.3000117.ref066" class="link-target"></a>Brembs B. How much should a scholarly article cost the taxpayer? In: bjoern.brembs.blog [Internet]. 7 Jan 2016. Available from: <a href="http://bjoern.brembs.net/2016/01/how-much-should-a-scholarly-article-cost-the-taxpayer/">http://bjoern.brembs.net/2016/01/how-much-should-a-scholarly-article-cost-the-taxpayer/</a>. [cited 17 Jul 2018]. <ul class="find-nolinks"></ul></li><li id="ref67"><span class="order">67.
+            </span><a name="pbio.3000117.ref067" id="pbio.3000117.ref067" class="link-target"></a>Bilder G, Lin J, Neylon C. Principles for Open Scholarly Infrastructures-v1. 2015;  <ul class="reflinks" data-doi="10.6084/m9.figshare.1314859.v1"><li><a href="https://doi.org/10.6084/m9.figshare.1314859.v1" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Principles+for+Open+Scholarly+Infrastructures-v1+Bilder+2015" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref68"><span class="order">68.
+            </span><a name="pbio.3000117.ref068" id="pbio.3000117.ref068" class="link-target"></a>Wilkinson MD, Dumontier M, Aalbersberg IJJ, Appleton G, Axton M, Baak A, et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data. 2016;3: 160018.  pmid:26978244 <ul class="reflinks" data-doi="10.1038/sdata.2016.18"><li><a href="https://doi.org/10.1038/sdata.2016.18" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/pubmed/26978244" target="_new" title="Go to article in PubMed">
+                        PubMed/NCBI
+                      </a></li><li><a href="http://scholar.google.com/scholar?q=The+FAIR+Guiding+Principles+for+scientific+data+management+and+stewardship+Wilkinson+2016" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref69"><span class="order">69.
+            </span><a name="pbio.3000117.ref069" id="pbio.3000117.ref069" class="link-target"></a>Teplitskiy M., Duede E., Menietti M., Lakhani K. Why (almost) Everything We Know About Citations is Wrong: Evidence from Authors. STI 2018 Conference Proceedings 2018 Sept 11:1488–92. <ul class="reflinks"><li><a href="#" data-author="Teplitskiy" data-cit="TeplitskiyM.%2C%20DuedeE.%2C%20MeniettiM.%2C%20LakhaniK.%20Why%20%28almost%29%20Everything%20We%20Know%20About%20Citations%20is%20Wrong%3A%20Evidence%20from%20Authors.%20STI%202018%20Conference%20Proceedings%202018%20Sept%2011%3A1488%E2%80%9392." data-title="Why%20%28almost%29%20Everything%20We%20Know%20About%20Citations%20is%20Wrong%3A%20Evidence%20from%20Authors" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=Why+%28almost%29+Everything+We+Know+About+Citations+is+Wrong%3A+Evidence+from+Authors+Teplitskiy+2018" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref70"><span class="order">70.
+            </span><a name="pbio.3000117.ref070" id="pbio.3000117.ref070" class="link-target"></a>Stern B, O’Shea E. A proposal for the future of scientific publishing in the life sciences. PLoS Biol. 2019;17(2): e3000116.  <ul class="reflinks" data-doi="10.1371/journal.pbio.3000116"><li><a href="https://doi.org/10.1371/journal.pbio.3000116" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://scholar.google.com/scholar?q=A+proposal+for+the+future+of+scientific+publishing+in+the+life+sciences+Stern+2019" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li></ol></div>
+
+
+
+          <div class="ref-tooltip">
+            <div class="ref_tooltip-content">
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </section>
+  <aside class="article-aside">
+
+
+<!--[if IE 9]>
+<style>
+.dload-xml {margin-top: 38px}
+</style>
+<![endif]-->
+<div class="dload-menu">
+  <div class="dload-pdf">
+    <a href="/plosbiology/article/file?id=10.1371/journal.pbio.3000117&type=printable"
+       id="downloadPdf" target="_blank">Download PDF</a>
+  </div>
+  <div data-js-tooltip-hover="trigger" class="dload-hover">&nbsp;
+    <ul class="dload-xml" data-js-tooltip-hover="target">
+      <li><a href="/plosbiology/article/citation?id=10.1371/journal.pbio.3000117"
+             id="downloadCitation">Citation</a></li>
+      <li><a href="/plosbiology/article/file?id=10.1371/journal.pbio.3000117&type=manuscript"
+             id="downloadXml">XML</a>
+      </li>
+    </ul>
+
+  </div>
+</div>
+
+<div class="aside-container">
+
+<div class="print-article" id="printArticle" data-js-tooltip-hover="trigger">
+
+  Print
+  <ul class="print-options" data-js-tooltip-hover="target">
+    <li>
+        <a href="#" onclick="window.print(); return false;" class="preventDefault" id="printBrowser" title="Print
+        Article">Print article</a>
+    </li>
+
+
+
+
+<li>
+<a title="Odyssey Press" href="https://www.odysseypress.com/onlinehost/reprint_order.php?type=A&amp;page=0&amp;journal=1&amp;doi=10.1371%2Fjournal.pbio.3000117&amp;volume=&amp;issue=&amp;title=Reliable%20novelty%3A%20New%20should%20not%20trump%20true&amp;author_name=Bj%C3%B6rn%20Brembs&amp;start_page=1&amp;end_page=10">EzReprint  </a>
+</li>
+
+  </ul>
+</div>
+<div class="share-article" id="shareArticle" data-js-tooltip-hover="trigger">
+  Share
+  <ul data-js-tooltip-hover="target" class="share-options" id="share-options">
+
+<li><a href="https://www.reddit.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pbio.3000117" id="shareReddit" target="_blank" title="Submit to Reddit"><img src="/plosbiology/resource/img/icon.reddit.16.png" width="16" height="16" alt="Reddit">Reddit</a></li>
+
+<li><a href="https://plus.google.com/share?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pbio.3000117" id="shareGoogle" target="_blank" title="Share on Google+"><img src="/plosbiology/resource/img/icon.gplus.16.png" width="16" height="16" alt="Google+">Google+</a></li>
+
+<li><a href="https://www.facebook.com/share.php?u=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pbio.3000117&t=Reliable novelty: New should not trump true" id="shareFacebook" target="_blank" title="Share on Facebook"><img src="/plosbiology/resource/img/icon.fb.16.png" width="16" height="16" alt="Facebook">Facebook</a></li>
+
+<li><a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pbio.3000117&title=Reliable novelty: New should not trump true&summary=Checkout this article I found at PLOS"  id="shareLinkedIn" target="_blank" title="Add to LinkedIn"><img src="/plosbiology/resource/img/icon.linkedin.16.png" width="16" height="16" alt="LinkedIn">LinkedIn</a></li>
+
+<li><a href="http://www.citeulike.org/posturl?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pbio.3000117&title=Reliable novelty: New should not trump true"  id="shareCiteULike" target="_blank" title="Add to CiteULike"><img src="/plosbiology/resource/img/icon.cul.16.png" width="16" height="16" alt="CiteULike">CiteULike</a></li>
+
+<li><a href="https://www.mendeley.com/import/?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pbio.3000117"  id="shareMendeley" target="_blank" title="Add to Mendeley"><img src="/plosbiology/resource/img/icon.mendeley.16.png" width="16" height="16" alt="Mendeley">Mendeley</a></li>
+
+<li><a href="https://www.pubchase.com/library?add_aid=10.1371/journal.pbio.3000117&source=plos"  id="sharePubChase" target="_blank" title="Add to PubChase"><img src="/plosbiology/resource/img/icon.pc.16.png" width="16" height="16" alt="PubChase">PubChase</a></li>
+
+  <li><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pbio.3000117&text=%23PLOSBiology%3A%20Reliable novelty: New should not trump true" target="_blank" title="share on Twitter" id="twitter-share-link"><img src="/plosbiology/resource/img/icon.twtr.16.png" width="16" height="16" alt="Twitter">Twitter</a></li>
+
+<li><a href="/plosbiology/article/email?id=10.1371/journal.pbio.3000117" id="shareEmail" title="Email this article"><img src="/plosbiology/resource/img/icon.email.16.png" width="16" height="16" alt="Email">Email</a></li>
+
+  </ul>
+</div></div>
+
+
+ <!-- Crossmark 2.0 widget -->
+<script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+<a data-target="crossmark"><img width="150" src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_BW_horizontal.svg"></a>
+<!-- End Crossmark 2.0 widget -->
+
+
+
+
+<div class="related-articles-container">
+  <h3>
+Related PLOS Articles
+</h3>
+  <ul>
+      <li>
+        <a href="/plosbiology/article?id=10.1371/journal.pbio.3000116">
+<?xml version="1.0" encoding="UTF-8"?>A proposal for the future of scientific publishing in the life sciences        </a>
+      </li>
+  </ul>
+</div>
+
+
+
+
+
+<div class="skyscraper-container">
+  <div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-1' style='width:160px; height:600px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-1'); });
+    </script>
+  </div>
+</div>
+
+
+
+
+<div class="subject-areas-container">
+  <h3>Subject Areas <div id="subjInfo">?</div>
+    <div id="subjInfoText">
+      <p>For more information about PLOS Subject Areas, click
+        <a href="https://github.com/PLOS/plos-thesaurus/blob/develop/README.md" target="_blank" title="Link opens in new window">here</a>.</p>
+      <span class="inline-intro">We want your feedback.</span> Do these Subject Areas make sense for this article? Click the target next to the incorrect Subject Area and let us know. Thanks for your help!
+
+
+    </div>
+  </h3>
+  <ul id="subjectList">
+      <li>
+              <a class="taxo-term" title="Search for articles about Scientific publishing"
+                 href="/plosbiology/search?filterSubjects=Scientific+publishing&filterJournals=PLoSBiology&q=">Scientific publishing</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Scientific publishing"><p class="taxo-explain">Is the Subject Area <strong>"Scientific publishing"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Research validity"
+                 href="/plosbiology/search?filterSubjects=Research+validity&filterJournals=PLoSBiology&q=">Research validity</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Research validity"><p class="taxo-explain">Is the Subject Area <strong>"Research validity"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Peer review"
+                 href="/plosbiology/search?filterSubjects=Peer+review&filterJournals=PLoSBiology&q=">Peer review</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Peer review"><p class="taxo-explain">Is the Subject Area <strong>"Peer review"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Scientists"
+                 href="/plosbiology/search?filterSubjects=Scientists&filterJournals=PLoSBiology&q=">Scientists</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Scientists"><p class="taxo-explain">Is the Subject Area <strong>"Scientists"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Citation analysis"
+                 href="/plosbiology/search?filterSubjects=Citation+analysis&filterJournals=PLoSBiology&q=">Citation analysis</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Citation analysis"><p class="taxo-explain">Is the Subject Area <strong>"Citation analysis"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Behavior"
+                 href="/plosbiology/search?filterSubjects=Behavior&filterJournals=PLoSBiology&q=">Behavior</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Behavior"><p class="taxo-explain">Is the Subject Area <strong>"Behavior"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Computer modeling"
+                 href="/plosbiology/search?filterSubjects=Computer+modeling&filterJournals=PLoSBiology&q=">Computer modeling</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Computer modeling"><p class="taxo-explain">Is the Subject Area <strong>"Computer modeling"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Reproducibility"
+                 href="/plosbiology/search?filterSubjects=Reproducibility&filterJournals=PLoSBiology&q=">Reproducibility</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Reproducibility"><p class="taxo-explain">Is the Subject Area <strong>"Reproducibility"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+  </ul>
+</div>
+<div id="subjectErrors"></div>
+
+
+<div class="twitter-container">
+  <h3>Archived Tweets</h3>
+  <ul id="tweetList">
+
+  </ul>
+  <div class="load-more">Load more <span></span></div>
+  <div class="view-all"><a href="https://alm.plos.org/works/doi.org/10.1371/journal.pbio.3000117?source_id=twitter">View all tweets</a>
+  </div>
+</div>
+
+<script type="text/template" id="twitterModuleItemTemplate">
+  <% _.each(items, function(item) { %>
+    <li>
+      <div class="tweet-info">
+        <a href="https://twitter.com/<%= item.user %>">
+          <span class="imgholder">
+            <img class="imgLoad" src="<%= item.user_profile_image %>">
+          </span>
+          <div class="tweetDate"><%= item.created_at %></div>
+          <div class="tweetUser">
+            <strong><%= item.user_name %></strong>
+            <span>@<%= item.user %></span>
+          </div>
+        </a>
+      </div>
+      <div class="tweetText">
+        <%= item.text %>
+      </div>
+      <div id="tweetActions">
+        <a class="tweet-reply" href="https://twitter.com/intent/tweet?in_reply_to<%= item.id %>&amp;text=@<%= item.user %>">
+          <div>&nbsp;</div> Reply
+        </a>
+        <a class="tweet-retweet" href="https://twitter.com/intent/retweet?tweet_id=<%= item.id %>">
+          <div>&nbsp;</div> Retweet
+        </a>
+        <a class="tweet-favorite" href="https://twitter.com/intent/favorite?tweet_id=<%= item.id %>">
+          <div>&nbsp;</div> Favorite
+        </a>
+      </div>
+    </li>
+  <% }); %>
+</script>
+
+
+  </aside>
+</div>
+
+
+
+
+</main>
+
+<footer id="pageftr">
+  <div class="row">
+  
+
+     <div class="block x-small">   
+      
+
+<ul class="nav nav-secondary">
+    <li class="ftr-header"><a href="https://www.plos.org/publications/journals/">Publications</a></li>
+    <li><a href="/plosbiology/" id="ftr-bio">PLOS Biology</a></li>
+    <li><a href="/plosmedicine/" id="ftr-med">PLOS Medicine</a></li>
+    <li><a href="/ploscompbiol/" id="ftr-compbio">PLOS Computational Biology</a></li>
+    <li><a href="/plosgenetics/" id="ftr-gen">PLOS Genetics</a></li>
+    <li><a href="/plospathogens/" id="ftr-path">PLOS Pathogens</a></li>
+    <li><a href="/plosone/" id="ftr-one">PLOS ONE</a></li>
+    <li><a href="/plosntds/" id="ftr-ntds">PLOS Neglected Tropical Diseases</a></li>
+  </ul>
+  </div>
+   
+    <div class="block xx-small">	
+
+
+<ul class="nav nav-tertiary">
+  <li>
+    <a href="https://www.plos.org" id="ftr-home">Home</a>
+  </li>
+  <li>
+    <a href="https://blogs.plos.org" id="ftr-blog">Blogs</a>
+  </li>
+  <li>
+    <a href="https://collections.plos.org" id="ftr-collections">Collections</a>
+  </li>
+  <li>
+    <a href="/plosbiology/feedback" id="ftr-feedback">Give feedback</a>
+  </li>
+  <li>
+    <a href="/plosbiology/lockss-manifest" id="ftr-lockss">LOCKSS</a>
+  </li>
+</ul>
+    </div>
+    <div class="block xx-small">
+
+<ul class="nav nav-primary">
+  <li><a href="https://www.plos.org/privacy-policy" id="ftr-privacy">Privacy Policy</a></li>
+  <li><a href="https://www.plos.org/terms-of-use" id="ftr-terms">Terms of Use</a></li>
+  <li><a href="https://www.plos.org/advertise/" id="ftr-advertise">Advertise</a></li>
+  <li><a href="https://www.plos.org/media-inquiries" id="ftr-media">Media Inquiries</a></li>
+  <li><a href="https://www.plos.org/contact" id="ftr-contact">Contact</a></li>
+</ul>
+     </div>
+     <div class="block x-small">
+
+
+<p class="footer-non-profit-statement">PLOS is a nonprofit 501(c)(3) corporation, #C2354500, based in San Francisco, California, US</p>	 		 <img src="/plosbiology/resource/img/logo-plos-footer.png" alt="PLOS" class="logo-footer"/>
+    </div>
+	 
+
+
+&nbsp;
+<!--
+  Webapp build:  3.7.6 at 20190129162824 by teamcity, commit: 
+  Service build: 2.4.9 at 20180905 by teamcity, commit: 
+  Enabled dev features: []
+  -->
+     
+  </div>
+ 
+
+
+</footer>
+
+
+
+
+<script type="text/javascript">
+  var ArticleData = {
+    doi: '10.1371/journal.pbio.3000117',
+    title: '<article-title xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Reliable novelty: New should not trump true<\/article-title>',
+    date: 'Feb 12, 2019'
+  };
+</script>
+
+<script type="text/javascript">
+  var ALM_CONFIG = ALM_CONFIG || {};
+  ALM_CONFIG.hostname = "https://alm.plos.org";
+  ALM_CONFIG.apiKey = "3pezRBRXdyzYW6ztfwft";
+  ALM_CONFIG.host = "https://alm.plos.org/api/v5/articles";
+</script>
+<script type="text/javascript">
+  var ALM_CONFIG = ALM_CONFIG || {};
+  ALM_CONFIG.hostname = "https://alm.plos.org";
+  ALM_CONFIG.apiKey = "3pezRBRXdyzYW6ztfwft";
+  ALM_CONFIG.host = "https://alm.plos.org/api/v5/articles";
+</script>
+
+
+
+
+
+
+<script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+
+
+
+
+
+<!-- This file should be loaded before the renderJs, to avoid conflicts with the FigShare, that implements the MathJax also. -->
+
+<!--  mathjax configuration options  -->
+<!-- more can be found at http://docs.mathjax.org/en/latest/ -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  "HTML-CSS": {
+    scale: 100,
+    availableFonts: ["STIX","TeX"],
+    preferredFont: "STIX",
+    webFont: "STIX-Web",
+    linebreaks: { automatic: false }
+  },
+  jax: ["input/MathML", "output/HTML-CSS"]
+});
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=MML_HTMLorMML"></script>
+
+<script src="/plosbiology/resource/compiled/asset_AR7HLVT2W6DVDQKJTL6QLNZB46KD5BBD.js"></script>
+<div class="reveal-modal-bg"></div>
+</body>
+</html>

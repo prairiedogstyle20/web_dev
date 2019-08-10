@@ -1,0 +1,2004 @@
+
+
+
+                    
+
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <!-- Tout le site sauf l accueil et Rmon1 -->
+    <html xmlns="https://www.w3.org/1999/xhtml" xml:lang="fr"  xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="https://www.facebook.com/2008/fbml" >
+    <!-- / Tout le site sauf l accueil et Rmon1 -->
+
+<!-- Tout le site -->
+<head>
+
+<!-- Ad manager -->
+<script>
+    
+        var rightColumn = true;
+    
+</script>
+
+<script async src="//js-sec.indexww.com/ht/p/183806-80690130798415.js"></script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="https://static.lpcdn.ca/lpweb/script/sha1encoder.js"></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+    var pathname        = window.location.pathname;
+    var hostname        = window.location.hostname;
+
+    var network         = 21686484267;
+    var topLevelAdUnit  = 'LPCA';
+    var adUnitPrefix    = 'LPCA_';
+    var adUnits         = ["", "actualites", "international", "affaires", "sports", "auto", "arts", "debats", "cinema", "techno", "sciences", "environnement", "voyage", "vivre", "maison", "vins", "xtra", "suite", "detente", "meteo", "photos", "videos", "cpspecial", "rmon1", "noel"];
+    var topLevelSection = '';
+    var isHomepage      = false;
+    var isArticle       = false;
+    var adUnit          = 'LPCA';
+    var section         = '';
+    var sha1Encoder     = new SHA1Encoder();
+    var userId          = getUserIdFromCookie();
+    var userIdHash      = sha1Encoder.encode(userId);
+
+    var articleId = extractArticleId(pathname);
+
+    if (articleId) {
+        pathname = cleanPathname(pathname);
+    }
+
+    var sectionCount = getSectionCount(pathname);
+
+    if (sectionCount > 0) {
+        if (isAdUnit(pathname.split('/')[1]) >= 0) {
+            adUnit = adUnitPrefix + pathname.split('/')[1];
+        }
+        topLevelSection = pathname.split('/')[1];
+        section = getSectionName(pathname, getSectionCount(pathname));
+
+        if (topLevelSection == 'rmon1') {
+            isHomepage = true;
+            adUnit = adUnitPrefix + 'rmon1';
+        }
+    } else {
+        if (pathname.length <= 1) {
+            isHomepage = true;
+            adUnit = adUnitPrefix + 'homepage';
+        }
+    }
+
+    if (isAuto()) {
+        adUnit = adUnitPrefix + 'auto';
+        isHomepage = false;
+    }
+
+    function getNetwork() {
+        return network;
+    }
+
+    function getTopLevelAdUnit() {
+        return topLevelAdUnit;
+    }
+
+    function getTopLevelSection() {
+        return topLevelSection;
+    }
+
+    function getAdUnit() {
+        return adUnit;
+    }
+
+    function getArticleId() {
+        return articleId;
+    }
+
+    function getSection() {
+        return section;
+    }
+
+    function isAdUnit(section) {
+        return adUnits.indexOf(section);
+    }
+
+    function getSectionCount(pathname) {
+        var sections = pathname.split('/');
+
+        return sections.length - 2;
+    }
+
+    function isAuto() {
+        var patternHostname = 'auto';
+        return hostname.match(patternHostname);
+    }
+
+    function extractArticleId(pathname) {
+        var pattern = '\/[0-9]{2}-([0-9]{7})-';
+        var matches = pathname.match(pattern);
+
+        if (matches) {
+            isArticle = true;
+            return matches[1];
+        }
+
+        return false;
+    }
+
+    function cleanPathname(pathname) {
+        var patternPathname = '(.*\/)[0-9]{6}';
+        var cleanedPathname = pathname.match(patternPathname);
+
+        if (cleanedPathname) {
+            return cleanedPathname[1];
+        }
+
+        return pathname;
+    }
+
+    function getSectionName(pathname, index) {
+        return pathname.split('/')[index];
+    }
+
+    if (isArticle) {
+        typePage = 'article';
+    } else if(!isArticle && adUnit != 'LPCA') {
+        typePage = 'sectionfront';
+    } else {
+        typePage = 'page';
+    }
+
+    googletag.cmd.push(function () {
+        googletag.pubads().setTargeting('TypePage', ['' + typePage + '']);
+        googletag.pubads().setTargeting('SectionName', [getSection()]);
+        googletag.pubads().setPublisherProvidedId(userIdHash);
+        googletag.pubads().setTargeting('userId', userIdHash);
+
+        if (isArticle) {
+            googletag.pubads().setTargeting('ArticleID', [getArticleId()])
+        }
+        googletag.pubads().setCentering(true);
+        googletag.pubads().collapseEmptyDivs();
+
+        googletag.pubads().enableLazyLoad({
+            fetchMarginPercent: 25,
+            renderMarginPercent: 25,
+            mobileScaling: 2.0
+        });
+
+        googletag.enableServices();
+    });
+
+    function getUserIdFromCookie() {
+        var cookie = decodeURIComponent(document.cookie).split('; ');
+        var cookieEntries = {};
+        cookie.forEach(function(cookieEntry) { var splitEntry = cookieEntry.split('='); cookieEntries[splitEntry[0]] = splitEntry[1];});
+
+        if (cookieEntries['LPUID']) {
+            return cookieEntries['LPUID'];
+        }
+        return "";
+    }
+
+    var hasLeaderboard  = false;
+    var hasWallpaper    = false;
+
+    googletag.cmd.push(function () {
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+            var bodyTag = isHomepage ? $('body') : $j('body');
+            if (event.slot.getSlotElementId() == 'dfp-outofpage-1' || event.slot.getSlotElementId() == 'dfp-leaderboard-1') {
+                if (event.slot.getSlotElementId() == 'dfp-outofpage-1' && !event.isEmpty) {
+                    hasWallpaper = true;
+                }
+
+                if (event.slot.getSlotElementId() == 'dfp-leaderboard-1' && !event.isEmpty) {
+                    hasLeaderboard = true;
+                }
+            }
+
+            if(!hasLeaderboard && !hasWallpaper ){bodyTag.addClass('lpNoPub')}
+            else if(hasLeaderboard && !hasWallpaper ){bodyTag.addClass('lpLeaderboard').removeClass('lpNoPub')}
+            else if(hasLeaderboard && hasWallpaper ){bodyTag.addClass('lpWallpaper').removeClass('lpNoPub').removeClass('lpLeaderboard')}
+        });
+    });
+
+</script>
+<!-- / Ad manager -->
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <title>Stade de baseball: Bronfman sollicite l'aide de Québec | VINCENT BROUSSEAU-POULIOT ET ANDRÉ DUBUC | Affaires</title>
+    <meta name="description" content="Advenant le retour des Expos, le groupe de Stephen Bronfman a choisi le terrain où il aimerait construire un stade de baseball : le terrain du bassin Peel appartenant..." />
+    <meta name="keywords" content="Finance, économie, bourse, entreprises" />
+            <meta property="og:title" content="Stade de baseball: Bronfman sollicite l'aide de Québec | VINCENT BROUSSEAU-POULIOT ET ANDRÉ DUBUC | Affaires" />
+        <meta property="og:description" content="Advenant le retour des Expos, le groupe de Stephen Bronfman a choisi le terrain où il aimerait construire un stade de baseball : le terrain du bassin Peel appartenant..." />
+    <meta name="twitter:title" content="Stade de baseball: Bronfman sollicite l'aide de Québec | VINCENT BROUSSEAU-POULIOT ET ANDRÉ DUBUC | Affaires">
+    <meta name="twitter:description" content="Advenant le retour des Expos, le groupe de Stephen Bronfman a choisi le terrain où il aimerait construire un stade de baseball : le terrain du bassin Peel appartenant...">
+	<meta property="og:url" content="https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php" />
+	<link rel="canonical" href="https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php" id="canonicalUrl" />
+<meta property="og:site_name" content="La Presse" />
+<meta property="og:locale" content="fr_CA" />
+<meta name="twitter:site" content="@LP_LaPresse">
+
+
+    	<meta property="og:type" content="article" />
+    <meta property="article:section" content="Affaires" />
+
+    	<meta property="article:published_time" content="2019-02-12 17:42EST"/>
+    <meta property="article:modified_time" content="2019-02-13 09:48EST"/>
+
+	    	    <meta name="twitter:card" content="summary_large_image">
+	    <meta name="twitter:image:src" content="https://images.lpcdn.ca/924x615/201902/12/1612821-groupe-stephen-bronfman-choisi-terrain.jpg">
+        <meta property="og:image" content="https://images.lpcdn.ca/924x615/201902/12/1612821-groupe-stephen-bronfman-choisi-terrain.jpg" />
+        <link rel="image_src" href="https://images.lpcdn.ca/924x615/201902/12/1612821-groupe-stephen-bronfman-choisi-terrain.jpg">
+		
+                        <meta name="apple-itunes-app" content="app-id=451829003, app-argument=cyberpresse://article/5214499"/>
+            
+
+<!-- / Tout le site -->
+
+
+    
+    <script type="text/javascript" src="https://static.lpcdn.ca/lpweb/script/googletagmanager.js"></script>
+
+<meta property="fb:app_id" content="166995983353903" />
+<meta property="article:publisher" content="https://www.facebook.com/LaPresseFB" />
+<meta property="fb:admins" content="100001148387127" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache" content="no store" />
+<meta name="verify-v1" content="xehmvg8QtpAZLH2hipmw6o0J7SCD+4Z+S6+jk/Y9QuE=" />
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=2"/>
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=2"/>
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=2"/>
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png"/>
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png"/>
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png"/>
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192"/>
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96"/>
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16"/>
+<link rel="manifest" href="/manifest.json"/>
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#e12929"/>
+<link rel="shortcut icon" href="/favicon.ico?v=2"/>
+<meta name="msapplication-TileColor" content="#2b5797"/>
+<meta name="msapplication-TileImage" content="/mstile-144x144.png"/>
+<meta name="theme-color" content="#ffffff"/>
+
+<link rel="stylesheet" type="text/css" href="/fonts/verlag.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/fonts/museo.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://static.lpcdn.ca/lpweb/lapresse/css/general.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://static.lpcdn.ca/lpweb/lapresse/css/slideshow.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://static.lpcdn.ca/lpweb/lib/galleria/themes/classic/galleria.classic.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://static.lpcdn.ca/lpweb/lib/jquery-ui/css/custom-theme/jquery-ui-1.8.21.custom.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://static.lpcdn.ca/lpweb/css/styles.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://static.lpcdn.ca/lpweb/css/dfp.css" media="screen" />
+
+	<link rel="stylesheet" type="text/css" href="https://static.lpcdn.ca/lpweb/css/login.css" media="screen" />
+
+<link rel="stylesheet" type="text/css" href="https://static.lpcdn.ca/lpweb/lapresse/css/print.css" media="print" />
+
+<script type="text/javascript">
+var STATIC_LPCDN_BASE_URL = 'https://static.lpcdn.ca/lpweb';
+var LP_DOMAIN = 'lapresse.ca';
+</script>
+
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/lib/json2/json2.min.js"></script><!-- Needed for IE7. -->
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/lapresse/scripts/general.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/lapresse/scripts/jquery.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/lib/jquery-ui/js/jquery-ui.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/lib/galleria/galleria-1.2.6.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/lib/jquery-raty/js/jquery.raty.lapresse.min.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/script/ratingWrapper.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/script/dataLayerEventSubscriber.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/dist/js/app.bundle.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/lapresse/scripts/jScrollPane.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/lapresse/scripts/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/lapresse/scripts/loopedslider.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/lapresse/scripts/functions.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/lapresse/scripts/general-jquery.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/lapresse/scripts/jquery.tools.min.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/script/cinema.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/script/shared-functions.js"></script>
+<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/script/DFPscenario.js"></script>
+<script type="text/javascript">
+  var dataLayerManager;
+  if (typeof nuglif !== undefined && typeof nuglif.App === 'function') {
+    var ng = new nuglif.App();
+    dataLayerManager = ng.getDataLayer();
+  }
+  window.dataLayerEventSubscriber = new DataLayerEventSubscriber(dataLayerManager);
+</script>
+
+<!-- AdGear Data Pixel -->
+<!-- Universal Segment (LaPresse) -->
+<script type="text/javascript">
+  __AGDATA = {
+  };
+</script>
+<script type="text/javascript" src="//cdn.adgrx.com/usegments/H_74AIMnpXX6awbknoO3m7g_wCv66NXi2P7cEsr-znc=/119.js" async="true"></script>
+
+<!-- script Linkpulse -->
+<script type="text/javascript" src="//p-ca.lp4.io/app/5a/5d/bd/5a5dbdd5e45a1d9e5bd4f856.js" async></script>
+
+	    	<script type="text/javascript" src="https://static.lpcdn.ca/lpweb/script/mapresse.js?v=accueil">[]</script>
+	
+	
+	
+</head>
+
+    
+<body >
+
+
+<!-- dfp-outofpage-1 -->
+<div id="dfp-outofpage-1">
+    <script>
+        googletag.cmd.push(function () {
+            var slotName = "dfp-outofpage-1";
+
+            googletag.defineOutOfPageSlot('/' + getNetwork() + '/' + getTopLevelAdUnit() + '/' + getAdUnit(), slotName)
+                .setTargeting('position', 'pos1')
+                .addService(googletag.pubads()
+                );
+
+            googletag.display(slotName);
+        });
+    </script>
+</div>
+
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLMPWW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <!-- Tout le site sauf l accueil et Rmon1 -->
+    <div id="bgOpaque"></div>
+    <!-- / Tout le site sauf l accueil et Rmon1 -->
+
+
+
+
+<!-- Tout le site -->
+
+
+
+
+<!-- Tous les sites sauf l accueil et Rmon1 -->
+<div id="header">
+    <script type="text/javascript" src="https://static.lpcdn.ca/lpweb/script/placeholder.jquery.js"></script>
+
+<div id="fb-root"></div>
+<script>
+  window.fbLoaded = false;
+  window.fbAsyncInit = function() {
+    FB.init({appId: '166995983353903', version: 'v2.8', status: true, cookie: true, xfbml: true});
+    window.fbLoaded = true;
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/fr_FR/sdk.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+<div class="visaCtn" id="">
+    <div class="visa">
+
+    
+    <script type="text/javascript"> isUserLogedIn = false; </script>
+    <div class="loggedOut" id="loginBar">
+        <noscript><span class="errMsg" style="color: red;">JavaScript doit être activé pour utiliser ce site.</span></noscript>
+        <span id="mapresseNews"><a style="" href="https://jesoutiens.lapresse.ca/" target="_blank" >Je soutiens La Presse</a></span>        <span id="mapresseLogin" onclick="toggleMenuItem('mapresseLogin','loginCtn');"><img src="https://static.lpcdn.ca/lpweb/img/visa/defaultAvatarTransparent.png" alt="Me connecter">Me connecter</span>
+    </div>
+    <div class="loginOptions" id="loginCtn">
+      <div class="loginWrap">
+        <div id="loginMsg"> Pour utiliser cette fonction, vous devez &ecirc;tre membre Ma Presse</div>
+        <h2><span>UTILISEZ</span>CONNECTEZ-VOUS</h2>
+        <!-- Login Form -->
+        <div class="mapresseFrms">
+          <img src="https://static.lpcdn.ca/lpweb/img/visa/ou.png" alt="ou" class="or" />
+          <form action="#" id="loginForm" method="post">
+            <input type="hidden" name="action" value="login" />
+            <input type="hidden" name="nextAction" id="nextAction" value="" />
+            <input type="hidden" name="id" id="id" value="" />
+            <input type="hidden" name="nextUrl" id="nextUrl" value="" />
+
+            <div id="erreur"></div>
+                            <script type="text/javascript">//<![CDATA[
+                    var cookieEnabled=(navigator.cookieEnabled)? true : false
+                    if (typeof navigator.cookieEnabled=="undefined" && !cookieEnabled){
+                        document.cookie="testcookie;"
+                        cookieEnabled=(document.cookie.indexOf("testcookie")!=-1)? true : false
+                    }
+                    if (!cookieEnabled) $j('#erreur').html('Vous devez activer la fonctionnalité de cookie sur votre navigateur.').show();
+                //]]></script>
+            
+            <fieldset class="inputCtn">
+              <label for="login">Nom d'utilisateur ou courriel</label>
+              <input type="text" id="login" class="text" name="login" value="" />
+            </fieldset>
+            <fieldset class="inputCtn">
+              <label for="password">Mot de passe</label>
+              <input type="password" id="password" class="text" name="password" value="" />
+            </fieldset>
+            <fieldset>
+              <input type="checkbox" value="on" name="autologin" class="check" id="autologin" />
+              <label for="autologin">Se souvenir de moi</label>
+            </fieldset>
+            <fieldset>
+              <button class="loginBtn" id="openSession" type="submit" value="">Me connecter</button>
+            </fieldset>
+            <ul class="liste">
+              <li><a href="https://usager.lapresse.ca/ForgotPassword">J'ai oublié mes informations</a></li>
+              <li><a href="https://www.lapresse.ca/faq.php">Aide</a></li>
+            </ul>
+          </form>
+          <p>Vous n'&ecirc;tes pas encore membre&nbsp;?</p>
+          <ul class="liste"><li><a href="https://usager.lapresse.ca/Signup?nextUrl=http%3A%2F%2Fwww.lapresse.ca%2Faffaires%2F201902%2F12%2F01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php" onclick="document.location.href='https://usager.lapresse.ca/Signup?nextUrl=' + escape(getNextURL()); return false;">M'inscrire &raquo;</a></li></ul>
+        </div>
+        <div class="reseauFrm">
+          <form action="" id="fbLoginForm" method="post">
+            <fieldset>
+              <button class="loginBtn fb-connect" id="fbButton" value="" onclick="">Facebook</button>
+            </fieldset>
+          </form>
+
+            <script type="text/javascript">//<![CDATA[
+            function getNextURL() {
+                var paramsNextURL = '';
+                if (document.getElementById("nextAction")) {
+                    var re = new RegExp(/\?/);
+                    if (document.location.href.match(re)) {
+                        var delimiter = "&";
+                    } else {
+                        var delimiter = "?"
+                    }
+
+                    var nextAction = document.getElementById("nextAction");
+                    var id = document.getElementById("id");
+                    var paramsNextURL = delimiter + 'action=' + nextAction.value + '&id=' + id.value + '&nextUrl=' + document.location.href;
+                }
+                return document.location.href + paramsNextURL;
+            }
+            jQuery(document).ready(function() {
+                jQuery('.fb-connect').click(function() {
+                        FB.login(function(response) { if (response.authResponse) {
+                            document.location.href = 'https://usager.lapresse.ca/Login/FacebookTokenAutologin?access_token=' + response.authResponse.accessToken + '&nextUrl=' + escape(getNextURL());
+                            }}, {scope:'email'});
+                        return false;
+                });
+            });
+            //]]></script>
+            <p class="info">
+            <img src="https://static.lpcdn.ca/lpweb/img/visa/fbInitiale.png" align="Logo Facebook" />
+            <span class="topArrow"></span>
+           L'utilisation de Facebook sert uniquement à simplifier votre inscription. <br /><br />
+Aucune de vos activités sur Ma Presse  ne sera partagée sur votre page Facebook sans votre consentement.
+        </p>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </div>
+</div>
+	<!-- dfp-leaderboard-1 -->
+<div id="dfp-leaderboard-1">
+    <script>
+        googletag.cmd.push(function () {
+            var slotName = "dfp-leaderboard-1";
+
+            googletag.defineSlot('/' + getNetwork() + '/' + getTopLevelAdUnit() + '/' + getAdUnit(), [[728, 90], [970, 250], [994, 250]], slotName)
+                .setTargeting('position', 'pos1')
+                .addService(googletag.pubads()
+                );
+
+            googletag.display(slotName);
+        });
+    </script>
+</div>
+    <!-- pub ad manager leaderboard 1 -->
+
+    <div id="entete">
+
+        <div class="ctnEntete">
+            <div class="boxLogo">
+                <h1>
+                	<a href="https://www.lapresse.ca/" title="Retour à l'accueil">La Presse.ca</a>
+                    <span class="accueil">
+                        <span class="fleche">&nbsp;</span><a href="https://www.lapresse.ca/" title="Retour à l'accueil">Retour à l'accueil</a>
+                    </span>
+                </h1>
+            </div>
+            <div class="boxNav">
+            	<div class="boxChannels">
+                    <div class="liensChannels">
+                                            	<ul>
+                            <li class="debats"><a href="https://www.lapresse.ca/debats/" title="Débats">Débats</a></li>
+                            <li class="videos"><a href="https://www.lapresse.ca/videos/" title="Vidéos">Vidéos</a></li>
+                        </ul>
+                    </div>
+                    <div class="boxMeteo">
+						<div class="MeteoBox300">
+                        	                        		<p class="temperature"><img alt="meteo Montréal" title="meteo Montréal" src="https://static.lpcdn.ca/lpweb/lapresse/img/meteo/icone_une/h.png"/><span>-14<strong>&deg;C</strong></span></p>
+    <p class="meteoLinks">
+       <a class="ville" title="Prévisions détaillées" href="/meteo/ville/montreal_caqc0363.php">Montréal</a><br /> 
+       <a id="switch-city-target" title="Choisir votre ville" href="javascript:popWindow('switch-city-window', 'center', 22);">Changer de ville</a>
+    </p><!--CAQC0363-->
+<div id="switch-city-window" class="popingBox">
+<script language="javascript">
+function gereSelect(idDropListe){
+	var x = document.getElementById(idDropListe).value;
+	document.getElementById("LOCATIONID").value = x;
+	//on efface tout, puis on definit la valeur de idDropListe 
+	document.getElementById("qc").value = "";
+	document.getElementById("ca").value = "";
+	document.getElementById("us").value = "";
+	document.getElementById("monde").value = "";
+	document.getElementById(idDropListe).value = x;
+	//on remet tout en blanc, puis on definit la couleur de idDropListe
+	document.getElementById("qc").style.background = "#fff";
+	document.getElementById("ca").style.background = "#fff";
+	document.getElementById("us").style.background = "#fff";
+	document.getElementById("monde").style.background = "#fff";
+	document.getElementById(idDropListe).style.background = "#ffffce";
+}
+function validerVille(){
+	var x = document.getElementById("LOCATIONID").value;
+	if (x == 0){
+		alert("S&eacute;lectionnez une ville svp");
+		return false;
+	} else {
+		return true;
+	}	
+}
+</script>
+<div class="header">
+<h5>Personnaliser votre m&eacute;t&eacute;o</h5>
+<a href="javascript:closeWindow('switch-city-window');"
+	class="popingWindow-close">Fermer</a></div>
+	<form name="form_meteo_prepare" action="" method="get" onsubmit="return validerVille();">
+	<input type="hidden" value="" name="LOCATIONID" id="LOCATIONID" />
+	<div id="qcWrap">
+	<label class="note" for="qc">Qu&eacute;bec</label>
+	<select class="full-width" id="qc" name="qc" onChange="gereSelect('qc')">
+	<option value="">Choisir votre ville</option>
+			<option value ="CAQC0022">Baie-Comeau</option>
+			<option value ="CAQC0028">Baie-Saint-Paul</option>
+			<option value ="CAQC0079">Cap-Chat</option>
+			<option value ="CAQC0106">Chibougamau</option>
+			<option value ="CAQC0107">Chicoutimi</option>
+			<option value ="CAQC0145">Drummondville</option>
+			<option value ="CAQC0168">Fort-Coulonge</option>
+			<option value ="CAQC0176">Gaspé</option>
+			<option value ="CAQC0177">Gatineau</option>
+			<option value ="CAQC0182">Granby</option>
+			<option value ="CAQC0199">Harrington Harbour</option>
+			<option value ="CAQC0221">Joliette</option>
+			<option value ="CAQC0249">La Grande-1</option>
+			<option value ="CAQC0251">La Malbaie</option>
+			<option value ="CAQC0261">La Tuque</option>
+			<option value ="CAQC0217">Les Îles-de-la-Madeleine</option>
+			<option value ="CAQC0313">Longueuil</option>
+			<option value ="CAQC0329">Maniwaki</option>
+			<option value ="CAQC0353">Mont-Joli</option>
+			<option value ="CAQC0360">Mont-Tremblant</option>
+			<option value ="CAQC0363">Montréal</option>
+			<option value ="CAQC0441">Québec</option>
+			<option value ="CAQC0450">Rimouski</option>
+			<option value ="CAQC0458">Rivière-du-Loup</option>
+			<option value ="CAQC0462">Roberval</option>
+			<option value ="CAQC0469">Rouyn-Noranda</option>
+			<option value ="CAQC0601">Saint-Hubert</option>
+			<option value ="CAQC0603">Saint-Hyacinthe</option>
+			<option value ="CAQC0610">Saint-Jean-sur-Richelieu</option>
+			<option value ="CAQC0611">Saint-Jérôme</option>
+			<option value ="CAQC0475">Salluit</option>
+			<option value ="CAQC0484">Sept-Îles</option>
+			<option value ="CAQC0486">Shawinigan</option>
+			<option value ="CAQC0489">Sherbrooke</option>
+			<option value ="CAQC0745">Sutton</option>
+			<option value ="CAQC0746">Tadoussac</option>
+			<option value ="CAQC0752">Thetford Mines</option>
+			<option value ="CAQC0759">Trois-Rivières</option>
+			<option value ="CAQC0767">Val-d'Or</option>
+			<option value ="CAQC0779">Victoriaville</option>
+		</select></div>
+
+	<label class="note" for="ca">Canada</label>
+	<select class="full-width" id="ca" name="ca" onChange="gereSelect('ca')">
+	<option value="">Choisir votre ville</option>
+			<option value ="CABC0006">Abbotsford</option>
+			<option value ="CANS0002">Amherst</option>
+			<option value ="CAON0025">Atikokan</option>
+			<option value ="CANF0005">Badger</option>
+			<option value ="CANU0003">Baker Lake</option>
+			<option value ="CAON0039">Bancroft</option>
+			<option value ="CAAB0016">Banff</option>
+			<option value ="CAON0040">Barrie</option>
+			<option value ="CANB0009">Bathurst</option>
+			<option value ="CABC0029">Bella Coola 1</option>
+			<option value ="CAON0056">Belleville</option>
+			<option value ="CABC0032">Blue River</option>
+			<option value ="CANF0023">Bonavista</option>
+			<option value ="CAMB0025">Brandon</option>
+			<option value ="CAON0081">Brantford</option>
+			<option value ="CASK0035">Broadview</option>
+			<option value ="CAON0090">Brockville</option>
+			<option value ="CAAB0043">Brooks</option>
+			<option value ="CAAB0049">Calgary</option>
+			<option value ="CANB0018">Campbellton</option>
+			<option value ="CABC0049">Castlegar</option>
+			<option value ="CANF0211">Channel-Port aux Basques</option>
+			<option value ="CAON0131">Chapleau</option>
+			<option value ="CAPE0005">Charlottetown</option>
+			<option value ="CAON0133">Chatham</option>
+			<option value ="CABC0057">Chilliwack</option>
+			<option value ="CAMB0033">Churchill</option>
+			<option value ="CAON0151">Cobourg</option>
+			<option value ="CAAB0075">Cold Lake</option>
+			<option value ="CAON0158">Collingwood</option>
+			<option value ="CAON0166">Cornwall</option>
+			<option value ="CAAB0078">Coronation</option>
+			<option value ="CABC0068">Courtenay</option>
+			<option value ="CABC0070">Cranbrook</option>
+			<option value ="CAMB0046">Dauphin</option>
+			<option value ="CAYT0005">Dawson</option>
+			<option value ="CANF0070">Deer Lake</option>
+			<option value ="CAON0193">Dryden</option>
+			<option value ="CAON0207">Earlton</option>
+			<option value ="CAPE0030">East Point</option>
+			<option value ="CAAB0103">Edmonton</option>
+			<option value ="CANB0036">Edmundston</option>
+			<option value ="CAAB0104">Edson</option>
+			<option value ="CAON0215">Elliot Lake</option>
+			<option value ="CASK0097">Estevan</option>
+			<option value ="CAON0248">Fort Frances</option>
+			<option value ="CAAB0124">Fort McMurray</option>
+			<option value ="CABC0100">Fort Nelson</option>
+			<option value ="CABC0102">Fort St. John</option>
+			<option value ="CANB0040">Fredericton</option>
+			<option value ="CANF0094">Gander</option>
+			<option value ="CAON0260">Geraldton</option>
+			<option value ="CAMB0073">Gillam</option>
+			<option value ="CAMB0074">Gimli</option>
+			<option value ="CAON0266">Goderich</option>
+			<option value ="CABC0119">Golden</option>
+			<option value ="CAON0270">Gore Bay</option>
+			<option value ="CAAB0140">Grande Prairie</option>
+			<option value ="CAON0280">Gravenhurst</option>
+			<option value ="CANS0055">Greenwood</option>
+			<option value ="CAON0282">Guelph</option>
+			<option value ="CANS0057">Halifax</option>
+			<option value ="CAON0289">Hamilton</option>
+			<option value ="CANF0113">Happy Valley-Goose Bay</option>
+			<option value ="CAAB0154">High Level</option>
+			<option value ="CABC0138">Hope</option>
+			<option value ="CANT0015">Inuvik</option>
+			<option value ="CABC0142">Invermere</option>
+			<option value ="CANU0014">Iqaluit</option>
+			<option value ="CAAB0173">Jasper</option>
+			<option value ="CABC0146">Kamloops</option>
+			<option value ="CAON0333">Kapuskasing</option>
+			<option value ="CANS0228">Kejimkujik National Historic Site</option>
+			<option value ="CABC0149">Kelowna</option>
+			<option value ="CAON0340">Kenora</option>
+			<option value ="CASK0148">Kindersley</option>
+			<option value ="CAON0349">Kingston</option>
+			<option value ="CAON0356">Kitchener</option>
+			<option value ="CASK0154">La Ronge</option>
+			<option value ="CAAB0194">Lethbridge</option>
+			<option value ="CANS0078">Liverpool</option>
+			<option value ="CAAB0196">Lloydminster</option>
+			<option value ="CAON0383">London</option>
+			<option value ="CAON0409">Markham</option>
+			<option value ="CAAB0211">Medicine Hat</option>
+			<option value ="CASK0199">Melfort</option>
+			<option value ="CANB0066">Miramichi</option>
+			<option value ="CANB0067">Moncton</option>
+			<option value ="CASK0210">Moose Jaw</option>
+			<option value ="CAON0449">Moosonee</option>
+			<option value ="CAON0454">Mount Forest</option>
+			<option value ="CABC0195">Nanaimo</option>
+			<option value ="CANS0100">New Glasgow</option>
+			<option value ="CAON0475">Niagara Falls</option>
+			<option value ="CASK0223">North Battleford</option>
+			<option value ="CAON0484">North Bay</option>
+			<option value ="CAON0505">Orangeville</option>
+			<option value ="CAON0511">Oshawa</option>
+			<option value ="CAON0512">Ottawa</option>
+			<option value ="CAON0515">Owen Sound</option>
+			<option value ="CAON0525">Parry Sound</option>
+			<option value ="CAAB0239">Peace River</option>
+			<option value ="CAON0531">Pembroke</option>
+			<option value ="CABC0218">Penticton</option>
+			<option value ="CAON0536">Peterborough</option>
+			<option value ="CABC0221">Port Alberni</option>
+			<option value ="CABC0226">Port Hardy</option>
+			<option value ="CANS0112">Port Hawkesbury</option>
+			<option value ="CAMB0167">Portage La Prairie</option>
+			<option value ="CABC0233">Powell River</option>
+			<option value ="CASK0251">Prince Albert</option>
+			<option value ="CABC0235">Prince George</option>
+			<option value ="CABC0236">Prince Rupert</option>
+			<option value ="CABC0244">Quesnel</option>
+			<option value ="CAAB0253">Red Deer</option>
+			<option value ="CASK0261">Regina</option>
+			<option value ="CABC0247">Revelstoke</option>
+			<option value ="CANB0088">Saint John</option>
+			<option value ="CABC0258">Salmon Arm</option>
+			<option value ="CABC0260">Sandspit</option>
+			<option value ="CAON0601">Sarnia</option>
+			<option value ="CASK0276">Saskatoon</option>
+			<option value ="CAON0603">Sault Ste. Marie</option>
+			<option value ="CAON0623">Simcoe</option>
+			<option value ="CAAB0278">Slave Lake</option>
+			<option value ="CABC0270">Smithers</option>
+			<option value ="CANF0247">St. Anthony</option>
+			<option value ="CAON0638">St. Catharines</option>
+			<option value ="CANF0253">St. John's</option>
+			<option value ="CANF0254">St. Lawrence</option>
+			<option value ="CANB0096">St. Stephen</option>
+			<option value ="CAON0658">Stratford</option>
+			<option value ="CAON0664">Sudbury</option>
+			<option value ="CASK0310">Swift Current</option>
+			<option value ="CANS0145">Sydney</option>
+			<option value ="CAON0678">Terrace Bay</option>
+			<option value ="CABC0292">Terrace</option>
+			<option value ="CAMB0225">The Pas</option>
+			<option value ="CAMB0227">Thompson</option>
+			<option value ="CAON0688">Thunder Bay</option>
+			<option value ="CAON0692">Timmins</option>
+			<option value ="CABC0295">Tofino</option>
+			<option value ="CAON0696">Toronto</option>
+			<option value ="CAON0698">Trenton</option>
+			<option value ="CANS0151">Truro</option>
+			<option value ="CABC0308">Vancouver</option>
+			<option value ="CABC0313">Victoria</option>
+			<option value ="CANF0275">Wabush</option>
+			<option value ="CAON0731">Wawa</option>
+			<option value ="CABC0322">Whistler</option>
+			<option value ="CABC0323">White Rock</option>
+			<option value ="CAYT0019">Whitehorse</option>
+			<option value ="CAON0754">Wiarton</option>
+			<option value ="CABC0326">Williams Lake</option>
+			<option value ="CAON0759">Windsor</option>
+			<option value ="CAMB0243">Winkler</option>
+			<option value ="CAMB0244">Winnipeg</option>
+			<option value ="CASK0352">Wynyard</option>
+			<option value ="CANS0167">Yarmouth</option>
+			<option value ="CANT0032">Yellowknife</option>
+			<option value ="CASK0355">Yorkton</option>
+		</select>
+
+	<label class="note" for="us">&Eacute;tats-Unis</label>
+	<select class="full-width" id="us" name="us" onChange="gereSelect('us')">
+	<option value="">Choisir votre ville</option>
+			<option value ="USOH0008">Akron</option>
+			<option value ="USNY0011">Albany</option>
+			<option value ="USNM0004">Albuquerque</option>
+			<option value ="USAK0012">Anchorage</option>
+			<option value ="USCO0016">Aspen</option>
+			<option value ="USGA0027">Athens</option>
+			<option value ="USGA0028">Atlanta</option>
+			<option value ="USNJ0015">Atlantic City</option>
+			<option value ="USGA0032">Augusta</option>
+			<option value ="USMD0018">Baltimore</option>
+			<option value ="USME0017">Bangor</option>
+			<option value ="USLA0033">Baton Rouge</option>
+			<option value ="USWA0028">Bellingham</option>
+			<option value ="USMT0031">Billings</option>
+			<option value ="USAL0054">Birmingham</option>
+			<option value ="USND0037">Bismarck</option>
+			<option value ="USID0025">Boise</option>
+			<option value ="USMA0046">Boston</option>
+			<option value ="USCT0019">Bridgeport</option>
+			<option value ="USTX0166">Brownsville</option>
+			<option value ="USNY0181">Buffalo</option>
+			<option value ="USVT0033">Burlington</option>
+			<option value ="USSC0051">Charleston</option>
+			<option value ="USWV0138">Charleston</option>
+			<option value ="USNC0121">Charlotte</option>
+			<option value ="USWY0032">Cheyenne</option>
+			<option value ="USIL0225">Chicago</option>
+			<option value ="USOH0188">Cincinnati</option>
+			<option value ="USOH0195">Cleveland</option>
+			<option value ="USID0279">Coeur d'Alene</option>
+			<option value ="USCO0078">Colorado Springs</option>
+			<option value ="USOH0212">Columbus</option>
+			<option value ="USNH0045">Concord</option>
+			<option value ="USTX0294">Corpus Christi</option>
+			<option value ="USTX0327">Dallas</option>
+			<option value ="USOH0245">Dayton</option>
+			<option value ="USFL0106">Daytona Beach</option>
+			<option value ="USCO0105">Denver</option>
+			<option value ="USIA0231">Des Moines</option>
+			<option value ="USMI0229">Detroit</option>
+			<option value ="USMN0208">Duluth</option>
+			<option value ="USMO0460">East Kansas City</option>
+			<option value ="USPA0509">Erie</option>
+			<option value ="USAK0083">Fairbanks</option>
+			<option value ="USND0115">Fargo</option>
+			<option value ="USAZ0068">Flagstaff</option>
+			<option value ="USMI0295">Flint</option>
+			<option value ="USFL0149">Fort Lauderdale</option>
+			<option value ="USFL0152">Fort Myers</option>
+			<option value ="USIN0211">Fort Wayne</option>
+			<option value ="USCA0406">Fresno</option>
+			<option value ="USFL0163">Gainesville</option>
+			<option value ="USND0146">Grand Forks</option>
+			<option value ="USMI0344">Grand Rapids</option>
+			<option value ="USMT0146">Great Falls</option>
+			<option value ="USWI0288">Green Bay</option>
+			<option value ="USPA0679">Harrisburg</option>
+			<option value ="USCT0094">Hartford</option>
+			<option value ="USMT0163">Helena</option>
+			<option value ="USHI0022">Hilo</option>
+			<option value ="USHI0026">Honolulu</option>
+			<option value ="USTX0617">Houston</option>
+			<option value ="USIN0305">Indianapolis</option>
+			<option value ="USMS0175">Jackson</option>
+			<option value ="USFL0228">Jacksonville</option>
+			<option value ="USAK0116">Juneau</option>
+			<option value ="USMT0188">Kalispell</option>
+			<option value ="USFL0244">Key West</option>
+			<option value ="USWY0101">Lander</option>
+			<option value ="USMI0477">Lansing</option>
+			<option value ="USNV0049">Las Vegas</option>
+			<option value ="USKY1079">Lexington</option>
+			<option value ="USAR0336">Little Rock</option>
+			<option value ="USCA0638">Los Angeles</option>
+			<option value ="USKY1096">Louisville</option>
+			<option value ="USWI0411">Madison</option>
+			<option value ="USMI0525">Marquette</option>
+			<option value ="USOR0215">Medford</option>
+			<option value ="USTN0325">Memphis</option>
+			<option value ="USFL0316">Miami</option>
+			<option value ="USWI0455">Milwaukee</option>
+			<option value ="USMN0503">Minneapolis</option>
+			<option value ="USAL0371">Mobile</option>
+			<option value ="USAL0375">Montgomery</option>
+			<option value ="USSC0239">Myrtle Beach</option>
+			<option value ="USTN0357">Nashville</option>
+			<option value ="USNY0996">New York</option>
+			<option value ="USVA0557">Norfolk</option>
+			<option value ="USLA0338">Nouvelle Orléans</option>
+			<option value ="USOK0400">Oklahoma City</option>
+			<option value ="USWA0318">Olympia</option>
+			<option value ="USNE0363">Omaha</option>
+			<option value ="USFL0372">Orlando</option>
+			<option value ="USCA0828">Palm Springs</option>
+			<option value ="USPA1276">Philadelphie</option>
+			<option value ="USAZ0166">Phoenix</option>
+			<option value ="USPA1290">Pittsburgh</option>
+			<option value ="USNY1143">Plattsburgh</option>
+			<option value ="USME0328">Portland (Maine)</option>
+			<option value ="USOR0275">Portland (Oregon)</option>
+			<option value ="USRI0050">Providence</option>
+			<option value ="USNC0558">Raleigh</option>
+			<option value ="USSD0283">Rapid City</option>
+			<option value ="USNV0076">Reno</option>
+			<option value ="USVA0652">Richmond</option>
+			<option value ="USVA0659">Roanoke</option>
+			<option value ="USNY1232">Rochester</option>
+			<option value ="USCA0967">Sacramento</option>
+			<option value ="USMO0964">Saint Louis</option>
+			<option value ="USOR0304">Salem</option>
+			<option value ="USUT0225">Salt Lake City</option>
+			<option value ="USTX1200">San Antonio</option>
+			<option value ="USCA0982">San Diego</option>
+			<option value ="USCA0987">San Francisco</option>
+			<option value ="USID0230">Sandpoint</option>
+			<option value ="USCA1017">Santa Barbara</option>
+			<option value ="USWA0395">Seattle</option>
+			<option value ="USSD0315">Sioux Falls</option>
+			<option value ="USWA0422">Spokane</option>
+			<option value ="USNY1434">Syracuse</option>
+			<option value ="USFL0479">Tallahassee</option>
+			<option value ="USFL0481">Tampa</option>
+			<option value ="USOH0953">Toledo</option>
+			<option value ="USMI0829">Traverse City</option>
+			<option value ="USAZ0247">Tucson</option>
+			<option value ="USOK0537">Tulsa</option>
+			<option value ="USWA0476">Walla Walla</option>
+			<option value ="USDC0001">Washington</option>
+			<option value ="USNY1525">Watertown</option>
+			<option value ="USFL0512">West Palm Beach</option>
+			<option value ="USKS0620">Wichita</option>
+			<option value ="USCT0275">Windsor Locks</option>
+			<option value ="USAZ0268">Winslow</option>
+			<option value ="USWA0502">Yakima</option>
+			<option value ="USOH1075">Youngstown</option>
+		</select>
+
+	<label class="note" for="monde">Monde</label>
+	<select class="full-width" id="monde" name="monde" onChange="gereSelect('monde')">
+	<option value="">Choisir votre ville</option>
+			<option value ="UKXX0001">Aberdeen, Aberdeen City</option>
+			<option value ="MXXX0001">Acapulco</option>
+			<option value ="AGXX0001">Alger</option>
+			<option value ="NLXX0002">Amsterdam</option>
+			<option value ="TUXX0002">Ankara</option>
+			<option value ="SAXX0017">Ar Riyad</option>
+			<option value ="GRXX0004">Athènes</option>
+			<option value ="NZXX0003">Auckland</option>
+			<option value ="EIXX0014">Baile Átha Cliath</option>
+			<option value ="RBXX0001">Belgrade</option>
+			<option value ="GMXX0007">Berlin</option>
+			<option value ="LEXX0003">Beyrouth</option>
+			<option value ="COXX0004">Bogotá</option>
+			<option value ="BBXX0001">Bridgetown</option>
+			<option value ="AUQL0001">Brisbane</option>
+			<option value ="BEXX0005">Bruxelles</option>
+			<option value ="ROXX0003">Bucarest</option>
+			<option value ="HUXX0002">Budapest</option>
+			<option value ="ARXX0009">Buenos Aires</option>
+			<option value ="MXXX0014">Cancún</option>
+			<option value ="SFXX0010">Cape Town</option>
+			<option value ="VEXX0008">Caracas</option>
+			<option value ="UKXX0030">Cardiff</option>
+			<option value ="COXX0009">Cartagena</option>
+			<option value ="MXXX0079">Ciudad de México</option>
+			<option value ="PMXX0004">Ciudad de Panamá</option>
+			<option value ="CEXX0001">Colombo</option>
+			<option value ="DAXX0009">Copenhague</option>
+			<option value ="BGXX0003">Dacca</option>
+			<option value ="SGXX0001">Dakar</option>
+			<option value ="MOXX0001">Dar-el-Beida</option>
+			<option value ="UKXX0052">Edinburgh, City of Edinburgh</option>
+			<option value ="SZXX0013">Genève</option>
+			<option value ="GYXX0001">Georgetown</option>
+			<option value ="UKXX0061">Glasgow, Glasgow City</option>
+			<option value ="BMXX0006">Hamilton</option>
+			<option value ="FIXX0002">Helsinki</option>
+			<option value ="HKXX0001">Hong Kong</option>
+			<option value ="TUXX0014">Istambul</option>
+			<option value ="SFXX0023">Johannesburg</option>
+			<option value ="PKXX0008">Karachi</option>
+			<option value ="UAXX0001">Kiev</option>
+			<option value ="JMXX0002">Kingston</option>
+			<option value ="THXX0002">Krung Thep</option>
+			<option value ="CUXX0003">La Habana</option>
+			<option value ="BLXX0006">La Paz</option>
+			<option value ="NGLA0001">Lagos</option>
+			<option value ="EGXX0004">Le Caire</option>
+			<option value ="POXX0016">Lisbonne</option>
+			<option value ="UKXX0085">London, Greater London</option>
+			<option value ="ESMX0001">Madrid</option>
+			<option value ="UKXX0092">Manchester</option>
+			<option value ="RPXX0017">Manila</option>
+			<option value ="AUVI0001">Melbourne</option>
+			<option value ="ITXX0042">Milan</option>
+			<option value ="JMXX0003">Montego Bay</option>
+			<option value ="RSXX0063">Moscou</option>
+			<option value ="INXX0026">Mumbai</option>
+			<option value ="GMXX0087">Munich</option>
+			<option value ="KEXX0009">Nairobi</option>
+			<option value ="ITXX0052">Naples</option>
+			<option value ="BFXX0005">Nassau</option>
+			<option value ="INXX0038">New Delhi</option>
+			<option value ="FRXX0073">Nice</option>
+			<option value ="POXX0022">Oporto</option>
+			<option value ="JAXX0071">Osaka</option>
+			<option value ="NOXX0029">Oslo</option>
+			<option value ="PFXX0001">Papeete</option>
+			<option value ="FRXX0076">Paris</option>
+			<option value ="CHXX0008">Pékin</option>
+			<option value ="AUWA0001">Perth</option>
+			<option value ="HAXX0004">Port-au-Prince</option>
+			<option value ="TTXX0001">Port-of-Spain</option>
+			<option value ="EZXX0012">Prague</option>
+			<option value ="BRXX0201">Rio de Janeiro</option>
+			<option value ="ITXX0067">Rome</option>
+			<option value ="RUXX0001">Saint Péterbourg</option>
+			<option value ="AUXX0018">Salzbourg</option>
+			<option value ="CSXX0009">San José</option>
+			<option value ="PRXX0001">San Juan</option>
+			<option value ="CIXX0020">Santiago</option>
+			<option value ="DRXX0009">Santo Domingo</option>
+			<option value ="KPXX0001">Seoul</option>
+			<option value ="SNXX0006">Singapour</option>
+			<option value ="BUXX0005">Sofiya</option>
+			<option value ="SWXX0031">Stockholm</option>
+			<option value ="AUNS0001">Sydney</option>
+			<option value ="TWXX0021">Taipei</option>
+			<option value ="HOXX0008">Tegucigalpa</option>
+			<option value ="IRXX0018">Tehran</option>
+			<option value ="ILXX0001">Tel Aviv-Yafo</option>
+			<option value ="VMXX0007">Thành Pho Ho Chí Min</option>
+			<option value ="JAXX0085">Tokyo</option>
+			<option value ="TSXX0010">Tunis</option>
+			<option value ="PLXX0028">Varsovie</option>
+			<option value ="AUXX0025">Vienne</option>
+			<option value ="NZXX0049">Wellington</option>
+			<option value ="HRXX0005">Zagreb</option>
+		</select>
+	<p class="center"><button class="input-submit" type="submit">Soumettre</button></p>
+
+</form></div>                                                    </div>
+                    </div>
+                    <div class="boxRecherche">
+									                                
+                                        
+<div class="id_obj">La liste:-1:liste; la boite:3391772:box; tpl:html.tpl:file</div>
+<!-- recherche google -->
+<script>
+  (function() {
+    var cx = '004348325735519040616:xugxk9rp5mm';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+<style type="text/css">
+<!--
+.gsc-results-wrapper-overlay{
+    width: 933px;
+    left:50%;
+    margin-left:-497px;                                     
+}
+#entete .boxChannels {
+	border-top: 1px solid #E5E5E5;
+	border-bottom: 1px solid #E5E5E5;
+	height: 57px;
+}
+#entete .boxChannels .liensChannels {
+    width: 360px;
+}
+#entete .boxRecherche {
+    float: right;
+    width: 300px;
+    margin-right: 1px;
+}
+#entete input.gsc-input {
+    font-size: 14px;
+}
+#entete input::-webkit-input-placeholder,
+#entete input::-moz-input-placeholder,
+#entete input::-ms-input-placeholder,
+#entete input::-o-input-placeholder {
+   font-size:10px;
+}
+-->
+</style>
+<!-- /recherche google -->	                                
+                    </div>
+                </div>
+                <div class="ctnNavigation">
+                    <div class="menu">
+                                                    <ul>
+                                                    <li class="actualites"><a href="https://www.lapresse.ca/actualites/" title="Actualités">Actualités</a></li>
+                            <li class="international"><a href="https://www.lapresse.ca/international/" title="International">International</a></li>
+                            <li class="affaires"><a href="https://www.lapresse.ca/affaires/" title="Affaires">Affaires</a></li>
+                            <li class="sports"><a href="https://www.lapresse.ca/sports/" title="Sports">Sports</a></li>
+                            <li class="auto"><a href="https://auto.lapresse.ca/" title="Auto">Auto</a></li>
+                            <li class="arts"><a href="https://www.lapresse.ca/arts/" title="Arts">Arts</a></li>
+                            <li class="cinema"><a href="https://www.lapresse.ca/cinema/" title="Cinéma">Cinéma</a></li>
+                            <li class="vivre"><a href="https://www.lapresse.ca/vivre/" title="Vivre">Vivre</a></li>
+                            <li class="vins"><a href="https://www.lapresse.ca/vins/" title="Vins">Vins</a></li>
+                            <li class="voyage"><a href="https://www.lapresse.ca/voyage/" title="Voyage">Voyage</a></li>
+                            <li class="maison"><a href="https://www.lapresse.ca/maison/" title="Maison">Maison</a></li>
+                            <li class="techno"><a href="https://www.lapresse.ca/techno/" title="Techno">Techno</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- / Tous les sites sauf l accueil -->
+
+
+
+<!-- Tous les sites sauf l accueil -->
+    <div id="sousNavigation">
+        <div class="ctnSousNavigation">
+            <div id="sousMenu">
+                                                                
+                        
+                            
+                                                    
+                            <ul>
+                                                                                    <li class=""><a href="/affaires/economie/" alt="&Eacute;conomie" title="&Eacute;conomie">&Eacute;conomie</a></li>
+                                                            <li class=""><a href="/affaires/marches/" alt="March&eacute;s" title="March&eacute;s">March&eacute;s</a></li>
+                                                            <li class=""><a href="/affaires/entreprises/" alt="Entreprises" title="Entreprises">Entreprises</a></li>
+                                                            <li class=""><a href="/affaires/finances-personnelles/" alt="Finances personnelles" title="Finances personnelles">Finances personnelles</a></li>
+                                                            <li class=""><a href="/affaires/pme/" alt="PME" title="PME">PME</a></li>
+                                                            <li class=""><a href="/affaires/portfolio/" alt="Portfolio" title="Portfolio">Portfolio</a></li>
+                                                            <li class=""><a href="/affaires/tetes-daffiche/" alt="T&ecirc;tes d&#039;affiche" title="T&ecirc;tes d&#039;affiche">T&ecirc;tes d&#039;affiche</a></li>
+                                        </ul>
+                            <script type='text/javascript'>activeMenu(5204);</script>                            </div>
+        </div>
+    </div>
+</div>
+<!-- / Tous les sites sauf l accueil -->
+
+
+    <!-- Tout le site sauf l accueil et Rmon1 -->
+    <script type="text/javascript">
+        var ladate = new Date();
+        var today_date = (ladate.getMonth()+1)+"/"+ladate.getDate()+"/"+ladate.getFullYear();
+    </script>
+	<!-- / Tout le site sauf l accueil et Rmon1 -->
+
+<!-- lapresse.ca -->
+        <!-- lapresse sauf l accueil et Rmon1 -->
+    <div id="wrapper">
+	    <a name="haut"></a>
+	    <div id="masthead">
+    
+<!-- /  fin entete includes --><!-- / Tout le site fin entete -->
+
+
+	<div id="maincontent">
+		<div class="filariane">
+      	<ul>
+				<li><a title="Accueil" href="/">Accueil</a>&nbsp;&gt;&nbsp;</li>
+		<li><a title="Affaires" href="/affaires/">Affaires</a>&nbsp;</li><li>&gt;&nbsp;Stade de baseball: Bronfman sollicite l'aide de Québec&nbsp;</li>    </ul>
+	</div><!-- END .filariane -->
+
+    <div xmlns:dc="https://purl.org/dc/elements/1.1/" class="block-page Bpad">
+    
+              	<div class="rail-left">
+            
+      
+
+<div class="articleStandard">
+                
+                <!-- article 2014 -->
+                <div class="article-page">
+				                    
+                    
+            
+<div class="article-header">
+    <div class="externalSource">Source ID:7c448a82bccb3ae4b7e6a6f5f5da9a85; App Source:StoryBuilder</div>
+	    	<p><script language="Javascript">document.write(publicatioin_date("2019-02-12 17:42:00.000", "2019-02-13 09:48:00.000"));</script>
+
+	    </p>
+	<p class="surtitre"></p>
+	<h1>Stade de baseball: Bronfman sollicite l'aide de Québec</h1>
+	
+        		<div class="lpPlayerContainer">
+			
+            <link rel="stylesheet" href="https://static.lpcdn.ca/lpweb/videojs-ima/video-js.min.css">
+            <link rel="stylesheet" href="https://static.lpcdn.ca/lpweb/videojs-ima/videojs.ads.css" />
+            <link rel="stylesheet" href="https://static.lpcdn.ca/lpweb/videojs-ima/videojs.ima.css" />
+            <script src="https://static.lpcdn.ca/lpweb/videojs-ima/video.min.js"></script>
+            <script src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+            <script src="https://static.lpcdn.ca/lpweb/videojs-ima/videojs.ads.min.js"></script>
+            <script src="https://static.lpcdn.ca/lpweb/videojs-ima/videojs.ima.js"></script>
+        
+        <video
+            id="content_video1" 
+            class="video-js vjs-default-skin"
+            data-video-id="e1814af114dc4bb5a6151917008ec57a"
+            data-video-title="Stade de baseball: Bronfman demande l’aide de Québec pour le terrain d’Ottawa"
+            poster="https://s2.content.video.llnw.net/lovs/images-prod/e1b3e24ecb944abd8f4ed823a0b76ddc/media/e1814af114dc4bb5a6151917008ec57a/5nd.1280x720.jpeg" 
+            preload="auto" 
+            width="640" 
+            height="360"
+            controls
+            autoplay
+        >
+            <source src="https://production.smedia.lvp.llnw.net/e1b3e24ecb944abd8f4ed823a0b76ddc/Da/6rA2Q0PXTETjnOkq-rSGicZXszyq3duzGkeSyd4-s/stade-de-baseball--bronfman-demande-l-aide-de-que-bec-pour-le-terrain-d-ottawa.mp4?x=0&h=c8a448c13bba78f52204db4de11b62ad" type="video/mp4"><source src="https://bellvps1.content.video.llnw.net/smedia/e1b3e24ecb944abd8f4ed823a0b76ddc/L0/8LhikaeYRDQq74fUb-0Uusy0sfB8YYFY0tXIdK2EA/stade-de-baseball--bronfman-demande-l-aide-de-que-bec-pour-le-terrain-d-ottawa-db84862695edba1503b63f07d6105f9678dc3c06.m3u8" type="application/x-mpegURL"> 
+        </video>
+        <script>
+            var player = videojs("content_video1");
+            player.ima(new ng.videoIma({
+                pageType: "desktop",
+                articleIds: getArticleId(),
+                section: getSection(),
+                videoPosition: 1,
+                videoDuration: 51273,
+                network: getNetwork(),
+                topLevelAdUnit: getTopLevelAdUnit(),
+                adUnit:  getAdUnit(),
+                skipPub: 0,
+                userAgent: navigator.userAgent,
+                location: location,
+              }).getOptions()
+            );
+            window.dataLayerEventSubscriber.subscribeVideoEvents(player);
+        </script>
+		</div>
+    
+	
+</div>
+
+				
+					<div class="leftbar">
+                                            
+                        <div class="centerbar">
+
+
+     <div class="actionBox">
+        <script type="text/javascript">var isUserLogedIn = 0;</script>
+        <div class="mapresseActions">
+            <!--show Ma Presse buttons -->
+            <h4><img src="https://static.lpcdn.ca/lpweb/img/actionBox/logoMaPresse.png" alt="Ma Presse" /></h4>
+                            <p><a class="addToMapresse" href="#wcm:article:5214499" onclick="storeClient('store', 'wcm:article:5214499' );return false;">
+                        <img src="https://static.lpcdn.ca/lpweb/img/actionBox/icoAdd.png" alt="Ajouter &agrave; Ma Presse" />
+                        <span>Ajouter</span>
+                    </a></p>
+                                </div>
+        <div class="shareActions">
+            <h4>Partage</h4>
+            <div class="facebook">
+                <fb:share-button href="https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php" type="button_count"></fb:share-button>
+            </div>
+            <div class="twitter">
+                <a href="https://twitter.com/share" class="twitter-share-button"
+                   data-text="Stade de baseball: Bronfman sollicite l'aide de Québec"
+                   data-count="horizontal"
+                   data-via="lp_lapresse"
+                   data-related="lapresse_sports,lp_international,lp_arts,lp_musique,lp_sante,lp_voyage,lp_musique"
+                   data-url="https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+                   data-counturl="https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+                   data-lang="fr">Tweet</a>
+            </div>
+
+            <div class="mail">
+                <a href="mailto:?subject=Votre%20ami%28e%29%20vous%20recommande%20cet%20article&body=Votre%20ami%28e%29%20vous%20recommande%20cet%20article%20sur%20lapresse.ca.%20Cliquez%20sur%20le%20lien%20suivant%20%3A%20https%3A%2F%2Fwww.lapresse.ca%2Faffaires%2F201902%2F12%2F01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php%3Futm_categorieinterne%3Dtrafficdrivers%26utm_contenuinterne%3Denvoyer_cbp%20.%20Pour%20ne%20rien%20manquer%2C%20visitez%20lapresse.ca" class="pastille"  title="Partager par courriel"><img src="https://static.lpcdn.ca/lpweb/img/actionBox/icoMail.png" alt="Partager par courriel"/></a>
+            </div>
+        </div>
+        <div class="actionTools">
+            <!--show article action buttons : rss, print, fontsize -->
+            <div title="Taille de police" class="pastille"  id="fontsizeaA"><img src="https://static.lpcdn.ca/lpweb/img/actionBox/icoFontsize.png" alt="Taille de police" /></div>
+            <script type="text/javascript" src="https://static.lpcdn.ca/lpweb/script/fontsize.js"></script>
+            <a href="javascript:window.print();" class="pastille" title="Imprimer la page"><img src="https://static.lpcdn.ca/lpweb/img/actionBox/icoPrint.png" alt="Imprimer la page"/></a>
+                    </div>
+    </div>
+
+
+<div class="clear-box">
+					<h4 class="general-cat">Du même auteur</h4>
+					<ul class="square"><li><a id="url_auteur_5214499_1_titre" href="/sports/baseball/201902/22/01-5215710-retour-des-expos-nos-zamours-a-temps-partiel-.php" alt="Retour des Expos: nos Z'Amours à temps partiel ?" title="Retour des Expos: nos Z'Amours à temps partiel ?">Retour des Expos: nos Z'Amours à temps partiel ?</a></li>
+<li><a id="url_auteur_5214499_2_titre" href="/sports/tennis/201902/19/01-5215270-felix-auger-aliassime-demenage-dans-un-paradis-fiscal.php" alt="Félix Auger-Aliassime déménage dans un paradis fiscal" title="Félix Auger-Aliassime déménage dans un paradis fiscal">Félix Auger-Aliassime déménage dans un paradis fiscal</a></li>
+<li><a id="url_auteur_5214499_3_titre" href="/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php" alt="Stade de baseball: Bronfman sollicite l'aide de Québec" title="Stade de baseball: Bronfman sollicite l'aide de Québec">Stade de baseball: Bronfman sollicite l'aide de Québec</a></li>
+<li><a id="url_auteur_5214499_4_titre" href="/affaires/economie/medias-et-telecoms/201902/07/01-5213952-voir-abandonne-le-papier.php" alt="Voir abandonne le papier" title="Voir abandonne le papier"><em>Voir</em> abandonne le papier</a></li>
+<li><a id="url_auteur_5214499_5_titre" href="/affaires/entreprises/201902/07/01-5213899-demande-daction-collective-de-237-milliards-contre-snc-lavalin.php" alt="Demande d'action collective de 2,37 milliards contre SNC-Lavalin" title="Demande d'action collective de 2,37 milliards contre SNC-Lavalin">Demande d'action collective de 2,37 milliards contre SNC-Lavalin</a></li>
+</ul></div>
+<script language="javascript">
+tagsLiensBoitesReg("meme","auteur_5214499",5);
+</script></div> <!-- END .centerbar -->				    
+			        
+						<div class="excerpt">
+												                                    
+                                <!-- article--><div class="boxAuteur">
+    <div class="infosAuteur wide"><a href="https://cse.google.com/cse?cx=004348325735519040616:xugxk9rp5mm&q=Vincent+Brousseau-Pouliot" target="_blank" title="Vincent Brousseau-Pouliot"><strong>Vincent Brousseau-Pouliot</strong></a>, <strong>ANDRÉ DUBUC</strong><br />La Presse</div><div class="twitterAuteur"></div></div>							                        
+																		
+                        
+                        
+
+
+
+            
+	                    		<p class='amorce'>(Montréal) Advenant le retour des Expos, le groupe de Stephen Bronfman a choisi le terrain où il aimerait construire un stade de baseball : le terrain du bassin Peel appartenant au gouvernement fédéral. Et il demande au gouvernement Legault de l'aider à convaincre Ottawa de lui céder le terrain en question, évalué à environ 50 millions de dollars.</p></div><!-- .excerpt -->                
+                        	
+    
+    
+
+
+
+	<div class='entry chapitre chapitreTexte'>
+	<p>Claridge, la firme d'investissement privé de la famille de Stephen Bronfman, vient de s'inscrire au Registre des lobbyistes du Québec afin « d'obtenir l'appui (politique) du gouvernement du Québec (orientation) dans des discussions à venir avec le gouvernement fédéral (plus spécifiquement Société immobilière du Canada) concernant la cession potentielle d'un terrain convoité par le promoteur pour un projet de stade visant à ramener une équipe de baseball professionnelle à Montréal puisque ce terrain appartient à [la Société immobilière du Canada] », selon le mandat déposé par Claridge au Registre des lobbyistes du Québec.</p>
+		
+        
+	<p>
+Le mandat de lobbying enregistré à Québec ne précise pas si Claridge demandera à Ottawa de lui céder gratuitement le terrain, ou si Claridge envisage de l'acheter. Le mandat enregistré à Québec parle de « discussions à venir » avec la Société immobilière du Canada. Claridge n'a pas inscrit de mandat de lobbying au registre fédéral.</p>
+		
+        
+	<p>
+Selon le mandat de lobbying enregistré à Québec, Claridge ne demande pas d'aide financière au gouvernement du Québec dans le dossier du terrain du bassin Peel.</p>
+					<p align="center"></p>
+		
+        
+	<p>
+Le terrain de la Société immobilière du Canada est situé au sud du bassin Peel et fait environ 900 000 pieds carrés (il faut au moins 350 000 pieds carrés pour construire un stade de baseball). Le reste du terrain pourrait ainsi servir à rentabiliser le projet en construisant un quartier résidentiel et des commerces.</p>
+		
+        
+	<p>
+La valeur foncière du terrain en question est de 6 millions de dollars, mais sa valeur marchande réelle est beaucoup plus élevée. Dans le cadre d'un article publié la semaine dernière dans <em>La Presse+</em>, un expert estimait qu'un terrain dans ce secteur vaut environ 55 $ le pied carré, ce qui donnerait une valeur marchande d'environ 49,5 millions de dollars pour le terrain convoité par le groupe de M. Bronfman.</p>
+		
+        
+	<p>
+Le terrain du bassin Peel sera aussi situé à proximité d'une station du Réseau express métropolitain (REM). « C'est de loin le meilleur emplacement [pour un stade de baseball à Montréal]. Il y a la taille, ça commence avec ça. C'est le plus proche du centre-ville. C'est voisin d'un quartier en effervescence [Griffintown] et c'est aussi sur le chemin du REM », disait Pierre Boivin, président et chef de la direction de Claridge, en entrevue avec <em>La Presse</em> la semaine dernière.</p>
+		
+        
+	<p>
+La Ville de Montréal a un droit de préemption sur une partie du terrain en question, ce qui lui donne en quelque sorte un droit de veto sur tout projet sur ce terrain (elle pourrait acheter le terrain si elle n'est pas d'accord avec un projet donné). Actuellement, le terrain est en partie vacant, et certains lots sont loués à une entreprise de transport de céréales jusqu'en 2024.</p>
+		
+        
+	<p>
+Le mandat de lobbying de Claridge a commencé le 13 décembre dernier (les entreprises ont ensuite deux mois pour s'inscrire au Registre des lobbyistes du Québec). Ce jour-là, Stephen Bronfman a rencontré le premier ministre du Québec François Legault pour discuter du projet du retour des Expos. Selon le mandat, Stephen Bronfman et Pierre Boivin sont désignés comme lobbyistes pour Claridge. Le mandat de lobbying vise le premier ministre du Québec François Legault et son ministère du Conseil exécutif, le ministre de l'Économie du Québec Pierre Fitzgibbon et son ministère, ainsi que le président du Conseil du trésor Christian Dubé et son ministère.</p>
+		
+        
+	<p>
+Le groupe de M. Bronfman n'a pas souhaité faire de commentaires hier sur le dossier du stade de baseball.</p>
+		
+        
+	<p>
+- Avec Pierre-André Normandin, <em>La Presse</em></p>
+		
+        
+		</div>
+
+
+
+    
+					</div> <!-- END #leftbar -->
+
+                            
+
+
+                    	
+                    	
+<!-- <div class="articleShared"> -->
+<div>
+<table cellpadding="0" cellspacing="3" border="0">
+<tr>
+<td>
+<div style="padding-right:10px;">
+<fb:share-button href="https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php" type="button_count"></fb:share-button>
+</div>
+</td>
+<td>
+
+<a href="https://twitter.com/share" class="twitter-share-button"
+data-text="Stade de baseball: Bronfman sollicite l'aide de Québec"
+data-count="horizontal"
+data-via="lp_lapresse"
+data-related="lapresse_sports,lp_international,lp_arts,lp_musique,lp_sante,lp_voyage,lp_musique"
+data-url="https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+data-counturl="https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+data-lang="fr">Tweet</a>
+</td>
+
+</tr>
+</table>
+</div>
+<br /><br />
+<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+<!-- FB init est dans l'entête appId: '166995983353903' -->
+<script type="text/javascript">
+  window.___gcfg = {lang: 'fr', parsetags: 'explicit'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!-- /partager -->                        <br clear="all" />
+
+                    	
+                    	<h4 class="general-cat">
+    À découvrir sur LaPresse.ca
+</h4>
+<ul class="stories">
+<li class="main first"><a id="url_5214499_0_image" href="/affaires/economie/immobilier/201902/04/01-5213415-quel-terrain-pour-nos-futurs-expos.php" title="Quel terrain pour nos futurs Expos?"><img src="https://images.lpcdn.ca/130x87/201902/04/1611003-demande-presse-firme-experts-immobiliers.jpg" alt="Quel terrain pour nos futurs Expos?" title="Quel terrain pour nos futurs Expos?" /></a>
+<p class="surtitre"><a href="/affaires/economie/immobilier/" alt="Immobilier" title="Immobilier">Immobilier</a></p>
+<h3><a id="url_5214499_0_titre" href="/affaires/economie/immobilier/201902/04/01-5213415-quel-terrain-pour-nos-futurs-expos.php" title="Quel terrain pour nos futurs Expos?">Quel terrain pour nos futurs Expos?</a></h3>
+<p class="amorce" style='margin-left:141px;'><script language="Javascript">document.write(format_date('2019-02-04 06:30:00.000'));</script> Où joueront Nos Z'Amours en cas de renaissance ? À la demande de <em>La Presse</em>, la firme d'experts immobiliers Groupe Altus a désigné 10... <a id="url_5214499_0_fleche" class="viewmore" href="/affaires/economie/immobilier/201902/04/01-5213415-quel-terrain-pour-nos-futurs-expos.php" title="Quel terrain pour nos futurs Expos?">&raquo;</a></p>
+</li>
+<li class="main"><a id="url_5214499_1_image" href="/actualites/grand-montreal/201902/13/01-5214583-stade-de-baseball-valerie-plante-voit-dun-bon-oeil-le-choix-du-bassin-peel.php" title="Stade de baseball: Valérie Plante voit d'un bon oeil le choix du bassin Peel"><img src="https://images.lpcdn.ca/130x87/201902/13/1612958-terrain-bassin-peel-figure-avant.jpg" alt="Stade de baseball: Valérie Plante voit d'un bon oeil le choix du bassin Peel" title="Stade de baseball: Valérie Plante voit d'un bon oeil le choix du bassin Peel" /></a>
+<p class="surtitre"><a href="/actualites/grand-montreal/" alt="Grand Montréal" title="Grand Montréal">Grand Montréal</a></p>
+<h3><a id="url_5214499_1_titre" href="/actualites/grand-montreal/201902/13/01-5214583-stade-de-baseball-valerie-plante-voit-dun-bon-oeil-le-choix-du-bassin-peel.php" title="Stade de baseball: Valérie Plante voit d'un bon oeil le choix du bassin Peel">Stade de baseball: Valérie Plante voit d'un bon oeil le choix du bassin Peel</a></h3>
+<p class="amorce" style='margin-left:141px;'><script language="Javascript">document.write(format_date('2019-02-13 11:07:00.000'));</script> La mairesse de Montréal, Valérie Plante, n'est pas surprise du choix du Groupe de Montréal de privilégier le bassin Peel pour la construction... <a id="url_5214499_1_fleche" class="viewmore" href="/actualites/grand-montreal/201902/13/01-5214583-stade-de-baseball-valerie-plante-voit-dun-bon-oeil-le-choix-du-bassin-peel.php" title="Stade de baseball: Valérie Plante voit d'un bon oeil le choix du bassin Peel">&raquo;</a></p>
+</li>
+<li class="main"><a id="url_5214499_2_image" href="/actualites/politique/politique-quebecoise/201902/13/01-5214636-quebec-tres-ouvert-au-projet-de-stade-pres-du-bassin-peel.php" title="Québec «très ouvert» au projet de stade près du bassin Peel"><img src="https://images.lpcdn.ca/130x87/201902/13/1613037-quebec-dit-pret-investir-fonds.jpg" alt="Québec «très ouvert» au projet de stade près du bassin Peel" title="Québec «très ouvert» au projet de stade près du bassin Peel" /></a>
+<p class="surtitre"><a href="/actualites/politique/politique-quebecoise/" alt="Politique québécoise" title="Politique québécoise">Politique québécoise</a></p>
+<h3><a id="url_5214499_2_titre" href="/actualites/politique/politique-quebecoise/201902/13/01-5214636-quebec-tres-ouvert-au-projet-de-stade-pres-du-bassin-peel.php" title="Québec «très ouvert» au projet de stade près du bassin Peel">Québec «très ouvert» au projet de stade près du bassin Peel</a></h3>
+<p class="amorce" style='margin-left:141px;'><script language="Javascript">document.write(format_date('2019-02-13 15:41:01.000'));</script> Le gouvernement Legault s'est montré intéressé mercredi par la construction d'un stade de baseball aux abords du Bassin Peel, au centre-ville de... <a id="url_5214499_2_fleche" class="viewmore" href="/actualites/politique/politique-quebecoise/201902/13/01-5214636-quebec-tres-ouvert-au-projet-de-stade-pres-du-bassin-peel.php" title="Québec «très ouvert» au projet de stade près du bassin Peel">&raquo;</a></p>
+</li>
+<li class="main last"><a id="url_5214499_3_image" href="/actualites/politique/politique-quebecoise/201902/14/01-5214722-retour-des-expos-quebec-dit-non-aux-subventions-mais-nexclut-pas-une-participation-publique.php" title="Retour des Expos: Québec dit non aux «subventions», mais n'exclut pas une participation publique"><img src="https://images.lpcdn.ca/130x87/201902/14/1613246-groupe-stephen-bronfman-choisi-terrain.jpg" alt="Retour des Expos: Québec dit non aux «subventions», mais n'exclut pas une participation publique" title="Retour des Expos: Québec dit non aux «subventions», mais n'exclut pas une participation publique" /></a>
+<p class="surtitre"><a href="/actualites/politique/politique-quebecoise/" alt="Politique québécoise" title="Politique québécoise">Politique québécoise</a></p>
+<h3><a id="url_5214499_3_titre" href="/actualites/politique/politique-quebecoise/201902/14/01-5214722-retour-des-expos-quebec-dit-non-aux-subventions-mais-nexclut-pas-une-participation-publique.php" title="Retour des Expos: Québec dit non aux «subventions», mais n'exclut pas une participation publique">Retour des Expos: Québec dit non aux «subventions», mais n'exclut pas une participation publique</a></h3>
+<p class="amorce" style='margin-left:141px;'><script language="Javascript">document.write(format_date('2019-02-14 10:29:00.000'));</script> Le gouvernement du Québec exclut de subventionner un éventuel retour des Expos, mais ouvre la porte à toutes autres interventions - incluant un... <a id="url_5214499_3_fleche" class="viewmore" href="/actualites/politique/politique-quebecoise/201902/14/01-5214722-retour-des-expos-quebec-dit-non-aux-subventions-mais-nexclut-pas-une-participation-publique.php" title="Retour des Expos: Québec dit non aux «subventions», mais n'exclut pas une participation publique">&raquo;</a></p>
+</li>
+</ul>
+<script language="javascript">
+tagsLiensBoitesReg("vous_suggere",5214499,5);
+</script>
+
+                     	
+                    	
+<!-- dfp-banner-1 -->
+<div id="dfp-banner-1">
+    <script>
+        googletag.cmd.push(function () {
+            var slotName = "dfp-banner-1";
+
+            googletag.defineSlot('/' + getNetwork() + '/' + getTopLevelAdUnit() + '/' + getAdUnit(), [[634, 125], [634, 150], [634, 180], [634, 200]], slotName)
+                .setTargeting('position', 'pos1')
+                .addService(googletag.pubads()
+                );
+
+            googletag.display(slotName);
+        });
+    </script>
+</div>
+
+<div class="colspan">
+    <ul class="actions">
+        <li><a href="javascript:history.go(-1);" class="back note_s lined" title="Retour"><strong>Retour</strong></a></li>
+        <li><a href="#haut" class="up note_s lined" title="Haut"><strong>Haut</strong></a></li>
+    </ul> <!-- END .actions -->
+</div>
+
+
+				</div> <!-- END .article -->
+
+			</div>
+            </div> <!-- END .rail-left -->
+
+			<div class="rail-right">
+            
+                <!-- article_rail_right_affaires -->
+<!-- Boite video B73 -->
+<!-- B73_videoplaylist.tpl -->
+
+       
+
+<!--
+<div>
+<pre>
+::::B73_videoplaylist.tpl::::
+Generated at : 2019-02-26 13:23:39
+Generation dev : 1105
+ID dev :
+debut: 0
+nbElement: 3
+LLChannelId (param B73): e2d9b6c6106a44f1aa023861342af457
+channelId (section) : 5204gescaConfig_ratioPubVideo : 2
+</pre>
+</div>
+-->
+
+
+    <div class='b73'>
+        <script type='text/javascript'>
+            var LLChannelId = 'e2d9b6c6106a44f1aa023861342af457';
+            var ratio = '1';
+        </script>
+        <div class='id_obj'>la boite: 4391560:box; tpl: 300_B73_videos_playlist.tpl:file; </div>
+
+        <div class='playerTitle'><h3><a href='/videos/affaires/'>Vidéos<span>&gt;</span></a></h3></div>
+        <div class='inner-b73'>
+            <div id='videosContainer'><!-- 0 media_id='656527dc58a548b494fc851de8112586' url= /videos/actualites/201902/25/46-1-commerce-trump-annonce-un-sommet-avec-le-president-chinois-pour-signer-un-accord.php/656527dc58a548b494fc851de8112586 -->
+                        <div  class='videoThumbnailWrapper ordre0' id='656527dc58a548b494fc851de8112586'>
+                            <div class='videoThumbnailImage'>
+                                <a href='/videos/actualites/201902/25/46-1-commerce-trump-annonce-un-sommet-avec-le-president-chinois-pour-signer-un-accord.php/656527dc58a548b494fc851de8112586' title='Commerce: Trump annonce un sommet avec le président chinois pour signer un accord' ratio='1' style='background:url(https://s2.content.video.llnw.net/lovs/images-prod/e1b3e24ecb944abd8f4ed823a0b76ddc/media/656527dc58a548b494fc851de8112586/DC7.120x66.jpeg) center center no-repeat;' class='videoThumbnailImageAnchor videoLink'></a>
+                                <a href='/videos/actualites/201902/25/46-1-commerce-trump-annonce-un-sommet-avec-le-president-chinois-pour-signer-un-accord.php/656527dc58a548b494fc851de8112586' title='Commerce: Trump annonce un sommet avec le président chinois pour signer un accord' ratio='1' class='videosTumbArrow littlePlayButtonVideo videoLink' alt='Voir la video'></a>
+                            </div>
+
+                            <div class='videoThumbnailtext'>
+                                <p class='videoThumbnailTitle'>
+                                    <a href='/videos/actualites/201902/25/46-1-commerce-trump-annonce-un-sommet-avec-le-president-chinois-pour-signer-un-accord.php/656527dc58a548b494fc851de8112586' title='Commerce: Trump annonce un sommet avec le président chinois pour signer un accord' ratio='1' class='videoLink' >Commerce: Trump annonce un sommet avec le président chinois pour signer un accord</a>
+                                </p>
+                                <p class='videoThumbnailDate'>00:40</p>
+                            </div>
+                        </div><!-- 1 media_id='988d9d37006b4275a406fcabdde91172' url= /videos/lp-affaires/201902/25/46-1-la-plus-grosse-usine-de-nutella-au-monde-redemarre.php/988d9d37006b4275a406fcabdde91172 -->
+                        <div  class='videoThumbnailWrapper ordre1' id='988d9d37006b4275a406fcabdde91172'>
+                            <div class='videoThumbnailImage'>
+                                <a href='/videos/lp-affaires/201902/25/46-1-la-plus-grosse-usine-de-nutella-au-monde-redemarre.php/988d9d37006b4275a406fcabdde91172' title='La plus grosse usine de Nutella au monde redémarre' ratio='1' style='background:url(https://s2.content.video.llnw.net/lovs/images-prod/e1b3e24ecb944abd8f4ed823a0b76ddc/media/988d9d37006b4275a406fcabdde91172/nyN.120x66.jpeg) center center no-repeat;' class='videoThumbnailImageAnchor videoLink'></a>
+                                <a href='/videos/lp-affaires/201902/25/46-1-la-plus-grosse-usine-de-nutella-au-monde-redemarre.php/988d9d37006b4275a406fcabdde91172' title='La plus grosse usine de Nutella au monde redémarre' ratio='1' class='videosTumbArrow littlePlayButtonVideo videoLink' alt='Voir la video'></a>
+                            </div>
+
+                            <div class='videoThumbnailtext'>
+                                <p class='videoThumbnailTitle'>
+                                    <a href='/videos/lp-affaires/201902/25/46-1-la-plus-grosse-usine-de-nutella-au-monde-redemarre.php/988d9d37006b4275a406fcabdde91172' title='La plus grosse usine de Nutella au monde redémarre' ratio='1' class='videoLink' >La plus grosse usine de Nutella au monde redémarre</a>
+                                </p>
+                                <p class='videoThumbnailDate'>00:45</p>
+                            </div>
+                        </div><!-- 2 media_id='305675ccbac34c638e8ef96e407bdda5' url= /videos/lp-affaires/201902/25/46-1-barrick-gold-a-lassaut-de-newmont-pour-creer-un-geant-de-lor.php/305675ccbac34c638e8ef96e407bdda5 -->
+                        <div  class='videoThumbnailWrapper ordre2' id='305675ccbac34c638e8ef96e407bdda5'>
+                            <div class='videoThumbnailImage'>
+                                <a href='/videos/lp-affaires/201902/25/46-1-barrick-gold-a-lassaut-de-newmont-pour-creer-un-geant-de-lor.php/305675ccbac34c638e8ef96e407bdda5' title='Barrick Gold à l'assaut de Newmont pour créer un géant de l'or' ratio='1' style='background:url(https://s2.content.video.llnw.net/lovs/images-prod/e1b3e24ecb944abd8f4ed823a0b76ddc/media/305675ccbac34c638e8ef96e407bdda5/QCJ.120x66.jpeg) center center no-repeat;' class='videoThumbnailImageAnchor videoLink'></a>
+                                <a href='/videos/lp-affaires/201902/25/46-1-barrick-gold-a-lassaut-de-newmont-pour-creer-un-geant-de-lor.php/305675ccbac34c638e8ef96e407bdda5' title='Barrick Gold à l'assaut de Newmont pour créer un géant de l'or' ratio='1' class='videosTumbArrow littlePlayButtonVideo videoLink' alt='Voir la video'></a>
+                            </div>
+
+                            <div class='videoThumbnailtext'>
+                                <p class='videoThumbnailTitle'>
+                                    <a href='/videos/lp-affaires/201902/25/46-1-barrick-gold-a-lassaut-de-newmont-pour-creer-un-geant-de-lor.php/305675ccbac34c638e8ef96e407bdda5' title='Barrick Gold à l'assaut de Newmont pour créer un géant de l'or' ratio='1' class='videoLink' >Barrick Gold à l'assaut de Newmont pour créer un géant de l'or</a>
+                                </p>
+                                <p class='videoThumbnailDate'>00:53</p>
+                            </div>
+                        </div></div> <!-- FIN VIDEOSCONTAINER --></div> <!-- fin inner-b73 --><div class='playerTitle footer'><p><a href="/videos/"  title="Plus de vidéos">Plus de vidéos <span>&gt;</span></a></p></div></div> <!-- fin b73 -->
+<!-- dfp-bigbox-1  -->
+<div id="dfp-bigbox-1">
+    <script>
+        googletag.cmd.push(function () {
+            var slotName = "dfp-bigbox-1";
+
+            googletag.defineSlot('/' + getNetwork() + '/' + getTopLevelAdUnit() + '/' + getAdUnit(), [[300, 250], [300, 600], [300, 1050], [1, 1]], slotName)
+                .setTargeting('position', 'pos1')
+                .addService(googletag.pubads()
+                );
+
+            googletag.display(slotName);
+        });
+    </script>
+</div>
+
+<div class="box-filet">
+	<h4 class="cat">Les plus populaires : Affaires</h4>
+	<div class="inner">
+		<ul id="tab-popular" class="tab-list fix">
+			<li class="first"><a href="#" title="Dernière heure">Dernière<br />heure</a></li>
+			<li><a href="#" title="Dernière jour">Dernier<br />jour</a></li>
+			<li><a href="#" title="Dernière semaine">Dernière<br />semaine</a></li>
+		</ul>
+		<div id="popular-tab-content">
+			<div class="tab-content">
+										<dl class="list-pop first">
+							<dt><script type="text/javascript">document.write( format_date_populaires( "2019-02-26 12:44:00.000" ));</script><noscript>(26/02/2019)</noscript></dt>
+							<dd><a id="url5204-0" href="/affaires/entreprises/201902/26/01-5216175-snc-visee-par-une-demande-daction-collective.php" alt="SNC visée par une demande d'action collective" title="SNC visée par une demande d'action collective">SNC visée par une demande d'action collective</a></dd>
+						</dl>										
+											<dl class="list-pop">
+							<dt><script type="text/javascript">document.write( format_date_populaires( "2019-02-26 13:03:31.000" ));</script><noscript>(26/02/2019)</noscript></dt>
+							<dd><a id="url5204-1" href="/affaires/entreprises/201902/26/01-5216188-les-succursales-de-la-sqdc-ouvertes-le-mercredi.php" alt="Les succursales de la SQDC ouvertes le mercredi" title="Les succursales de la SQDC ouvertes le mercredi">Les succursales de la SQDC ouvertes le mercredi</a></dd>
+						</dl>	
+											<dl class="list-pop">
+							<dt><script type="text/javascript">document.write( format_date_populaires( "2019-02-26 10:55:40.000" ));</script><noscript>(26/02/2019)</noscript></dt>
+							<dd><a id="url5204-2" href="/affaires/economie/quebec/201902/26/01-5216161-quebec-presentera-son-budget-le-21-mars.php" alt="Québec présentera son budget le 21 mars" title="Québec présentera son budget le 21 mars">Québec présentera son budget le 21 mars</a></dd>
+						</dl>	
+											<dl class="list-pop">
+							<dt><script type="text/javascript">document.write( format_date_populaires( "2019-02-26 10:52:32.000" ));</script><noscript>(26/02/2019)</noscript></dt>
+							<dd><a id="url5204-3" href="/affaires/entreprises/201902/26/01-5216173-ex-centre-dappels-de-francois-lambert-pres-de-400-licenciements-a-ttec.php" alt="Ex-centre d'appels de François Lambert: près de 400 licenciements à TTEC" title="Ex-centre d'appels de François Lambert: près de 400 licenciements à TTEC">Ex-centre d'appels de François Lambert: près de 400 licenciements à TTEC</a></dd>
+						</dl>	
+											
+			</div>
+			<div class="tab-content">
+										<dl class="list-pop first">
+							<dt><script type="text/javascript">document.write( format_date_populaires( "2019-02-25 13:02:51.000" ));</script><noscript>(25/02/2019)</noscript></dt>
+							<dd><a id="url5204-4" href="/affaires/economie/agroalimentaire/201902/25/01-5216028-la-plus-grosse-usine-de-nutella-au-monde-redemarre.php" alt="La plus grosse usine de Nutella au monde redémarre" title="La plus grosse usine de Nutella au monde redémarre">La plus grosse usine de Nutella au monde redémarre</a></dd>
+						</dl>										
+											<dl class="list-pop">
+							<dt><script type="text/javascript">document.write( format_date_populaires( "2019-02-25 17:18:36.000" ));</script><noscript>(25/02/2019)</noscript></dt>
+							<dd><a id="url5204-5" href="/affaires/economie/quebec/201902/25/01-5216075-syndicalisation-a-la-sqdc-changement-de-strategie.php" alt="Syndicalisation à la SQDC: changement de stratégie" title="Syndicalisation à la SQDC: changement de stratégie">Syndicalisation à la SQDC: changement de stratégie</a></dd>
+						</dl>	
+											<dl class="list-pop">
+							<dt><script type="text/javascript">document.write( format_date_populaires( "2019-02-25 19:59:00.000" ));</script><noscript>(25/02/2019)</noscript></dt>
+							<dd><a id="url5204-6" href="/affaires/economie/automobile/201902/25/01-5216107-tesla-en-bourse-musk-accuse-de-ne-pas-respecter-un-accord.php" alt="Tesla en Bourse: Musk accusé de ne pas respecter un accord" title="Tesla en Bourse: Musk accusé de ne pas respecter un accord">Tesla en Bourse: Musk accusé de ne pas respecter un accord</a></dd>
+						</dl>	
+											<dl class="list-pop">
+							<dt><script type="text/javascript">document.write( format_date_populaires( "2019-02-25 22:36:00.000" ));</script><noscript>(25/02/2019)</noscript></dt>
+							<dd><a id="url5204-7" href="/affaires/economie/medias-et-telecoms/201902/25/01-5216110-leurope-na-pas-interet-a-suivre-washington-dans-sa-guerre-contre-huawei.php" alt="L'Europe n'a «pas intérêt» à suivre Washington dans sa «guerre contre Huawei»" title="L'Europe n'a «pas intérêt» à suivre Washington dans sa «guerre contre Huawei»">L'Europe n'a «pas intérêt» à suivre Washington dans sa «guerre contre Huawei»</a></dd>
+						</dl>	
+								</div>
+			<div class="tab-content">
+										<dl class="list-pop first">
+							<dt class="annee"><script type="text/javascript">document.write( format_date( "2019-02-24 13:01:21.000" ));</script><noscript>(24/02/2019)</noscript></dt>
+							<dd class="annee"><a id="url5204-8" href="/affaires/economie/agroalimentaire/201902/24/01-5215918-ketchup-heinz-les-limites-des-cures-dausterite.php" alt="Ketchup Heinz: les limites des cures d'austérité" title="Ketchup Heinz: les limites des cures d'austérité">Ketchup Heinz: les limites des cures d'austérité</a></dd>
+						</dl>										
+											<dl class="list-pop">
+							<dt class="annee"><script type="text/javascript">document.write( format_date( "2019-02-20 23:30:55.000" ));</script><noscript>(20/02/2019)</noscript></dt>
+							<dd class="annee"><a id="url5204-9" href="/affaires/economie/transports/201902/20/01-5215526-des-regles-inhumaines-pour-les-passagers-aeriens.php" alt="Des règles «inhumaines» pour les passagers aériens" title="Des règles «inhumaines» pour les passagers aériens">Des règles «inhumaines» pour les passagers aériens</a></dd>
+						</dl>	
+											<dl class="list-pop">
+							<dt class="annee"><script type="text/javascript">document.write( format_date( "2019-02-19 17:41:02.000" ));</script><noscript>(19/02/2019)</noscript></dt>
+							<dd class="annee"><a id="url5204-10" href="/affaires/economie/transports/201902/19/01-5215353-air-canada-fait-pietre-figure-face-aux-competiteurs.php" alt="Air Canada fait piètre figure face aux compétiteurs" title="Air Canada fait piètre figure face aux compétiteurs">Air Canada fait piètre figure face aux compétiteurs</a></dd>
+						</dl>	
+											<dl class="list-pop">
+							<dt class="annee"><script type="text/javascript">document.write( format_date( "2019-02-25 07:57:58.000" ));</script><noscript>(25/02/2019)</noscript></dt>
+							<dd class="annee"><a id="url5204-11" href="/affaires/economie/international/201902/24/01-5215924-trump-une-coree-du-nord-denuclearisee-deviendrait-un-geant-economique.php" alt="Trump: une Corée du Nord dénucléarisée deviendrait un géant économique" title="Trump: une Corée du Nord dénucléarisée deviendrait un géant économique">Trump: une Corée du Nord dénucléarisée deviendrait un géant économique</a></dd>
+						</dl>	
+								</div>
+		</div>
+		<p class="learnmore left"><a href="/les-plus-populaires/?section=affaires" title="Tous les plus populaires"><span>Tous les plus populaires de la section Affaires<br>sur Lapresse.ca</span> »</a></p>
+	</div>
+</div>
+<script type="text/javascript">	
+	initTabs('tab-popular', 'popular-tab-content', 1, 'tab-content');
+</script>
+<script language="javascript">
+tagsLiensBoites("les-plus-populaires-affaires",5204,12,5);
+</script><!-- dfp-bigbox-2  -->
+<div id="dfp-bigbox-2">
+    <script>
+        googletag.cmd.push(function () {
+            var slotName = "dfp-bigbox-2";
+
+            googletag.defineSlot('/' + getNetwork() + '/' + getTopLevelAdUnit() + '/' + getAdUnit(), [[300, 250], [300, 600], [300, 1050], [1, 1]], slotName)
+                .setTargeting('position', 'pos2')
+                .addService(googletag.pubads()
+                );
+
+            googletag.display(slotName);
+        });
+    </script>
+</div>
+
+
+<div class="nbox-populaire box-filet custom-flux" data-channel="">
+  <h4 class="cat">Autres contenus populaires</h4>
+  <div class="inner">
+    <ul id="tab-popular" class="tab-list fix">
+      <li class="first"><a href="#" title="Auto" >Auto</a></li>
+      <li><a href="#" title="Cinéma">Cinéma</a></li>
+      <li><a href="#" title="Maison">Maison</a></li>
+    </ul>
+    <div id="popular-tab-content" class="popular-tab-content">
+      <div class="tab-content">
+                                                                 
+        <dl class="list-pop  first">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-19 17:12:00.000"));</script>
+            <noscript>(19/02/2019)</noscript></dt>
+            <dd><a href="https://auto.lapresse.ca/actualites/audi/201902/19/01-5215354-une-audi-electrique-grimpe-la-piste-la-plus-a-pic-de-la-coupe-du-monde-de-ski.php" title="Une Audi électrique grimpe la piste la plus à pic de la Coupe du monde de ski">Une Audi électrique grimpe la piste la plus à pic de la Coupe du monde de ski</a></dd>
+        </dl> 
+                                                 
+        <dl class="list-pop ">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-23 08:00:00.000"));</script>
+            <noscript>(23/02/2019)</noscript></dt>
+            <dd><a href="https://auto.lapresse.ca/auto-ecolo/201902/22/01-5215791-vehicules-electriques-tous-contre-tesla.php" title="Véhicules électriques: tous contre Tesla">Véhicules électriques: tous contre Tesla</a></dd>
+        </dl> 
+                                                 
+        <dl class="list-pop ">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-20 12:29:00.000"));</script>
+            <noscript>(20/02/2019)</noscript></dt>
+            <dd><a href="https://auto.lapresse.ca/actualites/tesla/201902/20/01-5215463-trop-cher-le-modele-3-et-si-vous-pouviez-le-louer-.php" title="Trop cher le Modèle 3 ? Et si vous pouviez le louer ?">Trop cher le Modèle 3 ? Et si vous pouviez le louer ?</a></dd>
+        </dl> 
+                                                 
+        <dl class="list-pop ">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-21 17:22:00.000"));</script>
+            <noscript>(21/02/2019)</noscript></dt>
+            <dd><a href="https://auto.lapresse.ca/actualites/201902/21/01-5215669-si-monsieur-assman-tient-a-sa-plaque-personnalisee-le-quebec-lui-tend-les-bras.php" title="Si Monsieur Assman tient à sa plaque personnalisée, le Québec lui tend les bras<i></i><i></i>">Si Monsieur Assman tient à sa plaque personnalisée, le Québec lui tend les bras<i></i><i></i></a></dd>
+        </dl> 
+                                                 
+        <dl class="list-pop ">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-25 08:35:00.000"));</script>
+            <noscript>(25/02/2019)</noscript></dt>
+            <dd><a href="https://auto.lapresse.ca/actualites/201902/25/01-5215986-petition-en-faveur-du-remplissage-de-lave-glace.php" title="Pétition en faveur du remplissage de lave-glace">Pétition en faveur du remplissage de lave-glace</a></dd>
+        </dl> 
+                    </div>
+      <div class="tab-content">
+                                                              
+      
+        <dl class="list-pop  first">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-24 08:00:00.000"));</script>
+            <noscript>(24/02/2019)</noscript></dt>
+            <dd><a href="https://www.lapresse.ca/cinema/ceremonies/oscars/201902/22/01-5215804-green-book-remporte-loscar-du-meilleur-film.php" title="<em>Green Book</em> remporte l'Oscar du meilleur film"><em>Green Book</em> remporte l'Oscar du meilleur film</a></dd>
+        </dl> 
+                                              
+      
+        <dl class="list-pop ">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-23 11:31:00.000"));</script>
+            <noscript>(23/02/2019)</noscript></dt>
+            <dd><a href="https://www.lapresse.ca/cinema/ceremonies/201902/23/01-5215875-melissa-mccarthy-sacree-pire-actrice-aux-razzies.php" title="Melissa McCarthy sacrée pire actrice aux Razzies">Melissa McCarthy sacrée pire actrice aux Razzies</a></dd>
+        </dl> 
+                                              
+      
+        <dl class="list-pop ">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-25 09:14:00.000"));</script>
+            <noscript>(25/02/2019)</noscript></dt>
+            <dd><a href="https://www.lapresse.ca/cinema/ceremonies/oscars/201902/24/01-5215943-oscars-green-book-et-roma-grands-gagnants.php" title="Oscars: <em>Green Book</em> et <em>Roma</em>, grands gagnants">Oscars: <em>Green Book</em> et <em>Roma</em>, grands gagnants</a></dd>
+        </dl> 
+                                              
+      
+        <dl class="list-pop ">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-22 17:18:00.000"));</script>
+            <noscript>(22/02/2019)</noscript></dt>
+            <dd><a href="https://www.lapresse.ca/cinema/201902/22/01-5215826-un-autre-film-sur-la-vie-de-celine-dion-en-preparation.php" title="Un autre film sur la vie de Céline Dion en préparation">Un autre film sur la vie de Céline Dion en préparation</a></dd>
+        </dl> 
+                                              
+      
+        <dl class="list-pop ">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-20 11:53:00.000"));</script>
+            <noscript>(20/02/2019)</noscript></dt>
+            <dd><a href="https://www.lapresse.ca/cinema/nouvelles/201902/20/01-5215451-emma-thompson-quitte-le-plateau-du-film-luck.php" title="Emma Thompson quitte le plateau du film <em>Luck</em>">Emma Thompson quitte le plateau du film <em>Luck</em></a></dd>
+        </dl> 
+                    </div>
+      <div class="tab-content">
+                                                             
+        <dl class="list-pop  first">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-25 09:49:00.000"));</script>
+            <noscript>(25/02/2019)</noscript></dt>
+            <dd><a href="https://www.lapresse.ca/maison/immobilier/201902/25/01-5215999-du-jamais-vu-40-millions-pour-une-maison.php" title="Du jamais vu: 40 millions pour une maison">Du jamais vu: 40 millions pour une maison</a></dd>
+        </dl> 
+                                             
+        <dl class="list-pop ">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-22 08:00:00.000"));</script>
+            <noscript>(22/02/2019)</noscript></dt>
+            <dd><a href="https://www.lapresse.ca/maison/renovation/201902/21/01-5215650-la-reno-a-lere-duber-et-dairbnb.php" title="La réno à l'ère d'Uber et d'Airbnb">La réno à l'ère d'Uber et d'Airbnb</a></dd>
+        </dl> 
+                                             
+        <dl class="list-pop ">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-20 08:00:00.000"));</script>
+            <noscript>(20/02/2019)</noscript></dt>
+            <dd><a href="https://www.lapresse.ca/maison/decoration/201902/19/01-5215332-notre-vie-en-kitsch.php" title="Notre vie en kitsch">Notre vie en kitsch</a></dd>
+        </dl> 
+                                             
+        <dl class="list-pop ">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-23 08:00:00.000"));</script>
+            <noscript>(23/02/2019)</noscript></dt>
+            <dd><a href="https://www.lapresse.ca/maison/immobilier/maisons-de-luxe/201902/22/01-5215754-du-luxe-a-faire-rever.php" title="Du luxe à faire rêver">Du luxe à faire rêver</a></dd>
+        </dl> 
+                                             
+        <dl class="list-pop ">
+            <dt><script type="text/javascript">document.write( format_date_populaires("2019-02-21 08:00:00.000"));</script>
+            <noscript>(21/02/2019)</noscript></dt>
+            <dd><a href="https://www.lapresse.ca/maison/decoration/201902/20/01-5215491-pimpe-ta-cuisinette.php" title="<em>Pimpe</em> ta cuisinette"><em>Pimpe</em> ta cuisinette</a></dd>
+        </dl> 
+                    </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+  
+  (function ajustementNouvelleBoxPopulaire() {
+    var onglets = jQuery('.custom-flux #tab-popular-custom a'), hh = 0; // highest height
+
+    // Make sure we have node
+    if (onglets.length > 0 ) {
+      // Get highest tabs
+      jQuery(onglets).each(function(i, index) {
+        var hauteurElement = jQuery(index).height();
+        if (hh < hauteurElement) {
+          hh = hauteurElement;
+        }
+      });
+
+      // Adjust tabs heights
+      jQuery(onglets).each(function(i, index) {
+        var incr = (i == 0) ? hh + 1 : hh;
+        jQuery(index).height(incr);
+      });
+    }
+  }());
+  
+</script>
+<script type="text/javascript"> initTabs('tab-popular', 'popular-tab-content', 1, 'tab-content'); </script>
+<script language="javascript"> tagsLiensBoites("Autres contenus populaires", 161, 4, 5); </script><div class="df-Spacing">
+    <!-- dfp-bigbox-3  -->
+<div id="dfp-bigbox-3">
+    <script>
+        googletag.cmd.push(function () {
+            var slotName = "dfp-bigbox-3";
+
+            googletag.defineSlot('/' + getNetwork() + '/' + getTopLevelAdUnit() + '/' + getAdUnit(), [[300, 250], [300, 600], [300, 1050], [1, 1]], slotName)
+                .setTargeting('position', 'pos3')
+                .addService(googletag.pubads()
+                );
+
+            googletag.display(slotName);
+        });
+    </script>
+</div>
+    <!-- dfp-bigbox-4  -->
+<div id="dfp-bigbox-4">
+    <script>
+        googletag.cmd.push(function () {
+            var slotName = "dfp-bigbox-4";
+
+            googletag.defineSlot('/' + getNetwork() + '/' + getTopLevelAdUnit() + '/' + getAdUnit(), [[300, 250], [300, 600], [300, 1050], [1, 1]], slotName)
+                .setTargeting('position', 'pos4')
+                .addService(googletag.pubads()
+                );
+
+            googletag.display(slotName);
+        });
+    </script>
+</div>
+    <!-- dfp-bigbox-5  -->
+<div id="dfp-bigbox-5">
+    <script>
+        googletag.cmd.push(function () {
+            var slotName = "dfp-bigbox-5";
+
+            googletag.defineSlot('/' + getNetwork() + '/' + getTopLevelAdUnit() + '/' + getAdUnit(), [[300, 250], [300, 600], [300, 1050], [1, 1]], slotName)
+                .setTargeting('position', 'pos5')
+                .addService(googletag.pubads()
+                );
+
+            googletag.display(slotName);
+        });
+    </script>
+</div>
+</div>
+
+
+
+
+
+			</div> <!-- END .rail-right -->
+
+		</div> <!-- END .block-page -->
+
+
+		    <div class="block-page Bpad">
+			    <!--div data-widget="plista_widget_belowArticle_2"></div-->			    
+
+<div class="id_obj">La liste:-1:liste; la boite:219:box; tpl:html.tpl:file</div>
+<!-- a découvrir -->		    </div> <!-- END .block page -->
+
+
+	</div> <!-- END #maincontent -->
+
+
+<div id="toggleImg-window" class="popingBox">
+	<div class="header">
+		<h5>image title</h5>
+		<a href="javascript:closeWindow('toggleImg-window');" class="popingWindow-close">Fermer</a>
+	</div>
+</div>
+
+
+
+
+    
+
+
+<script type="text/javascript">
+    (function(c){var g,s='script',w=window,n=c.name||'PLISTA';if(!w[n]){w[n]=c;g=w.document.getElementsByTagName(s)[0];s=w.document.createElement(s);s.async=true;s.type='text/javascript';s.src=(w.location.protocol==='https:'?'https:':'http:')+'//static'+(c.origin?'-'+c.origin:'')+'.plista.com/async'+(c.name?'/'+c.name:'')+'.js';g.parentNode.insertBefore(s,g);}
+            }({
+            "publickey": "479add597ceb16a43052a219",
+			"item": {"objectid":5214499,"title":"Stade de baseball: Bronfman sollicite l'aide de\u00a0Qu\u00e9bec","text":"Claridge, la firme d'investissement priv\u00e9 de la famille de Stephen Bronfman, vient de s'inscrire au Registre des lobbyistes du Qu\u00e9bec afin \u00ab\u00a0d'obtenir l'appui (politique) du gouvernement du Qu\u00e9bec (orientation) dans des discussions \u00e0 venir avec le","url":"https:\/\/\/affaires\/201902\/12\/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php","img":"","category":"Affaires","published_at":1550011320,"updated_at":1550069280,"start":1,"end":2},
+            "origin": "ca"
+        }));
+</script>
+
+  <script>
+    window.dataLayerArticleId = '5214499';
+    window.dataLayerChannelBreadcrumb = ["Affaires"];
+  </script>
+
+  <script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function () {
+      if (
+        'undefined' === typeof window.dataLayerEventSubscriber ||
+        'undefined' === typeof window.dataLayerArticleId ||
+        'undefined' === typeof window.dataLayerChannelBreadcrumb
+      ) {
+        return;
+      }
+
+      window.dataLayerEventSubscriber.setPageId();
+      window.dataLayerEventSubscriber.recordTimeSpentOnLastPage();
+      window.dataLayerEventSubscriber.logSuccessfulConnection();
+      window.dataLayerEventSubscriber.setArticleId(window.dataLayerArticleId);
+      window.dataLayerEventSubscriber.setChannelPath(window.dataLayerChannelBreadcrumb);
+      window.dataLayerEventSubscriber.subscribeAll();
+    });
+  </script>
+
+	
+    </div>
+</div>
+<!-- END #wrapper -->
+
+<div id="footer">
+    <div id="footerLiensTop">
+        <div class="ctnLiensTop">
+            <div class="liensTop">
+                <ul>
+				    <li class="apropos"><a href="https://www.lapresse.ca/a-propos-de-nous/la-presse/" title="À propos de nous">À propos de nous</a></li>
+                	<li class="contact"><a href="https://www.lapresse.ca/contact/" title="Nous joindre">Nous joindre</a></li>
+                    <li class="lapresse"><a href="https://carrieres.lapresse.ca" title="LA PRESSE - Carrières chez nous" target="_blank">LA PRESSE - Carrières chez nous</a></li>
+                    <li class="linkedin"><a href="https://www.linkedin.com/groups/Presse-Carri%C3%A8res-chez-nous-3972143?trk=myg_ugrp_ovr" title="LinkedIn" target="_blank">&nbsp;</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="footerBoxLiens">
+        <div class="ctnBoxLiens">
+            <div class="boxLiens">
+                <div class="liens internet">
+                    <h3>Internet</h3>
+                    <div class="col">
+                        <ul>
+                            <li class="titre">Information en continu</li>
+                            <li>Rester connecté</li>
+                            <li>
+                                <ul class="connecte">
+                                    <li class="facebook"><a href="https://www.lapresse.ca/facebook/" title="Facebook" target="_blank">Facebook</a></li>
+                                    <li class="twitter"><a href="https://www.lapresse.ca/twitter/" title="Twitter">Twitter</a></li>
+                                    <li class="rss"><a href="https://www.lapresse.ca/rss.php" title="RSS">RSS</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="https://www.lapresse.ca/alertes/" title="Alertes">Alertes</a></li>
+                            <li><a href="https://usager.lapresse.ca/Newsletter" title="Infolettre">Infolettre</a></li>
+                            <li><a href="https://www.lapresse.ca/cpenaccueil.php" title="Lapresse.ca en page d'accueil">Lapresse.ca en page d'accueil</a></li>
+                        </ul>
+                        <ul>
+                            <li class="titre">Archives</li>
+                            <li><a href="https://www.lapresse.ca/archives/" title="Recherche">Recherche</a></li>
+                            <li><a href="https://www.lapresse.ca/archives_payantes/" title="Archives payantes">Archives payantes</a></li>
+                            <li><a href="https://www.lapresse.ca/pages/" title="Achat d'une page d'histoire">Achat d'une page d'histoire</a></li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul>
+                            <li class="titre">Détente</li>
+                            <li><a href="https://www.lapresse.ca/photos/caricatures/" title="Caricatures">Caricatures</a></li>
+                            <li><a href="https://www.lapresse.ca/nosconcours/" title="Concours">Concours</a></li>
+                            <li><a href="https://www.lapresse.ca/detente/horoscope.php" title="Horoscope">Horoscope</a></li>
+                            <li><a href="https://www.lapresse.ca/detente/mots_croises.php" title="Mots croisés">Mots croisés</a></li>
+                            <li><a href="https://www.lapresse.ca/detente/sudoku.php" title="Sudoku">Sudoku</a></li>
+                        </ul>
+                        <ul>
+                            <li class="titre">Services</li>
+                            <li><a href="https://www.lapresse.ca/meteo/ville/montreal_caqc0363.php" title="Météo">Météo</a></li>
+                            <li><a href="https://www.lapresse.ca/sports/" title="Résultats sportifs">Résultats sportifs</a></li>
+                            <li><a href="http://necrologie.lapresse.ca" title="Nécrologie">Nécrologie</a></li>
+                        </ul>
+						<ul>
+						    <li class="titre">Autres</li>
+                            <li><a href="https://editions.lapresse.ca/" title="Éditions La Presse">Éditions La Presse</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="liens mobile">
+                    <h3>Mobile</h3>
+                    <ul>
+                        <li class="titre">Applications</li>
+                        <li><a href="https://www.lapresse.ca/mobile/" title="La Presse plus">La Presse+</a></li>
+                        <li>iPad 2 ou plus ou iPad mini</li>
+						<li>Tablettes Android compatibles</li>
+                        <li><a href="https://www.lapresse.ca/mobile/" title="La Presse Mobile">La Presse Mobile</a></li>
+                        <li>Sur iPhone et Android</li>
+                    </ul>
+                </div>
+                <div class="liens journaux">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footerMenu">
+        <div class="ctnNavigation">
+            <div class="menu">
+                                    <ul>
+                                    <li class="accueil"><a href="https://www.lapresse.ca/" title="Accueil">&nbsp;</a></li>
+                    <li class="actualites"><a href="https://www.lapresse.ca/actualites/" title="Actualités">Actualités</a></li>
+                    <li class="international"><a href="https://www.lapresse.ca/international/" title="International">International</a></li>
+                    <li class="affaires"><a href="https://www.lapresse.ca/affaires/" title="Affaires">Affaires</a></li>
+                    <li class="sports"><a href="https://www.lapresse.ca/sports/" title="Sports">Sports</a></li>
+                    <li class="auto"><a href="https://auto.lapresse.ca/" title="Auto">Auto</a></li>
+                    <li class="arts"><a href="https://www.lapresse.ca/arts/" title="Arts">Arts</a></li>
+                    <li class="cinema"><a href="https://www.lapresse.ca/cinema/" title="Cinéma">Cinéma</a></li>
+                    <li class="vivre"><a href="https://www.lapresse.ca/vivre/" title="Vivre">Vivre</a></li>
+                    <li class="voyage"><a href="https://www.lapresse.ca/voyage/" title="Voyage">Voyage</a></li>
+                    <li class="vins"><a href="https://www.lapresse.ca/vins/" title="Vins">Vins</a></li>
+                    <li class="maison"><a href="https://www.lapresse.ca/maison/" title="Maison">Maison</a></li>
+                    <li class="techno"><a href="https://www.lapresse.ca/techno/" title="Techno">Techno</a></li>
+                </ul>
+            </div>
+        </div>
+     </div>
+
+     <div id="footerBoxCopyright">
+        <div class="ctnBoxCopyright">
+            <div class="boxCopyright">
+                <ul>
+                    <li><a href="https://www.lapresse.ca/plandusite.php" title="Plan du site">Plan du site</a></li>
+                    <li><a href="https://usager.lapresse.ca/Profile" title="Modifier votre profil">Modifier votre profil</a></li>
+                    <li><a href="https://www.lapresse.ca/faq.php" title="Foire aux questions">Foire aux questions</a></li>
+                    <li><a href="https://www.lapresse.ca/contact/" title="Nous joindre">Nous joindre</a></li>
+                    <li><a href="https://www.lapresse.ca/conditions.php" title="Conditions d'utilisation">Conditions d'utilisation</a></li>
+                    <li><a href="https://www.lapresse.ca/politique.php" title="Politique de confidentialité">Politique de confidentialité</a></li>
+					<li><a href="https://www.lapresse.ca/codedeconduite/" title="Code de conduite">Code de conduite</a></li>
+                    <li class="last"><a href="https://publicite.lapresse.ca/" title="Annoncez dans nos médias">Annoncez dans nos médias</a></li>
+                </ul>
+                <p>&copy; La Presse (2018) Inc. Tous droits réservés.</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="clearer">&nbsp;</div>
+<!-- END #footer -->
+
+<script src="https://static.freeskreen.com/publisher/223/freeskreen.min.js"></script>
+<script type="text/javascript">
+document.write("<img id='img1' height='1' width='1'>");document.getElementById("img1").src="https://beacon.scorecardresearch.com/scripts/beacon.dll?C1=2&C2=3005690&C3=3005690&C4=lapresse.ca&C5=Lapresse&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999);
+</script><script type="text/javascript" src="https://static.lpcdn.ca/lpweb/script/pub.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b90eab036c","applicationID":"109615643","transactionName":"YVdbMBRSXkMEVhZcWFgdbBYPHG9DBkcLRUNFHV0NFUNRRAZdTEVfRg==","queueTime":0,"applicationTime":63,"atts":"TRBYRlxITU0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

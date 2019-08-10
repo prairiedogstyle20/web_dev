@@ -1,0 +1,913 @@
+<!DOCTYPE HTML><html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+<meta charset="UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<!-- Title -->
+<title>Whoops! Page Not Found | The Mark Levin Show</title><link rel='dns-prefetch' href='//www.marklevinshow.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.marklevinshow.com\/wp-includes\/js\/wp-emoji.js?ver=4.9.8","twemoji":"http:\/\/www.marklevinshow.com\/wp-includes\/js\/twemoji.js?ver=4.9.8"}};
+			( function( window, document, settings ) {
+	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
+
+	/**
+	 * Check if two sets of Emoji characters render the same.
+	 *
+	 * @param set1 array Set of Emoji characters.
+	 * @param set2 array Set of Emoji characters.
+	 * @returns {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( set1, set2 ) {
+		var stringFromCharCode = String.fromCharCode;
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set1 ), 0, 0 );
+		var rendered1 = canvas.toDataURL();
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set2 ), 0, 0 );
+		var rendered2 = canvas.toDataURL();
+
+		return rendered1 === rendered2;
+	}
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "flag" or "emoji".
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var isIdentical;
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 56826, 55356, 56819 ],
+					[ 55356, 56826, 8203, 55356, 56819 ]
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather an five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[ 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ],
+					[ 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ]
+				);
+
+				return ! isIdentical;
+			case 'emoji':
+				/*
+				 * She's the hero Emoji deserves, but not the one it needs right now.
+				 *
+				 * To test for support, try to render a new emoji (female superhero),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (superhero + female sign).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					[55358, 56760, 9792, 65039],
+					[55358, 56760, 8203, 9792, 65039]
+				);
+				return ! isIdentical;
+		}
+
+		return false;
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.defer = script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	tests = Array( 'flag', 'emoji' );
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script>
+		
+
+<!-- Stylesheets -->
+<link rel='stylesheet' id='headway-google-fonts' href='//fonts.googleapis.com/css?family=Oswald' type='text/css' media='all' />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bxslider-style-css'  href='http://www.marklevinshow.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='amp-promo-reel-widget-style-css'  href='http://www.marklevinshow.com/wp-content/plugins/amp-promo-reel/includes/../css/widget.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='headway-general-css'  href='http://www.marklevinshow.com/wp-content/uploads/sites/301/headway/cache/general-5cba001.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='headway-layout-single-css'  href='http://www.marklevinshow.com/wp-content/uploads/sites/301/headway/cache/layout-single-8a15185.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='headway-responsive-grid-css'  href='http://www.marklevinshow.com/wp-content/uploads/sites/301/headway/cache/responsive-grid-d2119e4.css?ver=4.9.8' type='text/css' media='all' />
+<meta name="builder-styles-css" content="" id="builder-styles-css">
+<link rel='stylesheet' id='amp-breaking-news-css'  href='http://www.marklevinshow.com/wp-content/plugins/amp-breaking-news/public/css/public.css?ver=0.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-style-css'  href='http://www.marklevinshow.com/wp-content/plugins/shared/css/animate.css?ver=0.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='amp-styles-plugin-styles-css'  href='http://www.marklevinshow.com/wp-content/plugins/amp-styles/css/public.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='amp-events-calendar-styles-css'  href='http://www.marklevinshow.com/wp-content/plugins/amp-events/css/calendar.css?ver=1.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='amp-events-export-styles-css'  href='http://www.marklevinshow.com/wp-content/plugins/amp-events/css/public.css?ver=1.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='amp_feed-plugin-styles-css'  href='http://www.marklevinshow.com/wp-content/plugins/amp-feeds/css/public.css?ver=0.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='amp-image-rotator-plugin-styles-css'  href='http://www.marklevinshow.com/wp-content/plugins/amp-image-rotator/public/assets/css/public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='amp-listen-live-plugin-styles-css'  href='http://www.marklevinshow.com/wp-content/plugins/amp-listen-live/public/assets/css/public.css?ver=1.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='amp-onair-plugin-styles-css'  href='http://www.marklevinshow.com/wp-content/plugins/amp-onair/public/assets/css/public.css?ver=1.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='AMPPromoReel-plugin-styles-css'  href='http://www.marklevinshow.com/wp-content/plugins/amp-promo-reel/css/public.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='http://www.marklevinshow.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://www.marklevinshow.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='amp-tabs-plugin-styles-css'  href='http://www.marklevinshow.com/wp-content/plugins/amp-tabs/public/assets/css/public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='amp-header-rotator-css'  href='http://www.marklevinshow.com/wp-content/themes/Headway-AMP_CMS/css/amp-header-rotator.css?ver=1.1.5' type='text/css' media='all' />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.marklevinshow.com/wp-content/themes/Headway-AMP_CMS/style.css" />
+
+<!-- Scripts -->
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/themes/headway/library/blocks/navigation/js/selectnav.js?ver=1548900293'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/themes/headway/library/media/js/jquery.hoverintent.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/themes/headway/library/blocks/navigation/js/jquery.superfish.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/uploads/sites/301/headway/cache/block-dynamic-js-layout-single-769a883.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/shared/js/bxslider/jquery.bxslider.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/amp-promo-reel/includes/../js/widget.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/themes/headway/library/media/js/jquery.fitvids.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/uploads/sites/301/headway/cache/responsive-grid-js-e6e6939.js?ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _ampconfig = {"site_url":"http:\/\/www.marklevinshow.com","site_id":"301","tz":"America\/New_York","tz_offset":"-5","ts":"1548900293","blog_name":"The Mark Levin Show","client_name":"cumuluspro","user_ID":"","ts_offset":"1551187654","version":"2.48.2","env":"prod","settings":{"tenant_id":"see_3713","syn_site_name":"MARK-CM","selector_logo":false,"selector_masthead":false,"selector_nav":false,"selector_rotator":false,"default_show_name":false,"default_show_img":false,"gtm_id":false,"vidible_company_key":"06125e55709b3c4ffdfe3c3f8a9ed8bd","client_name":false,"nielsen_provider":"cumulus","promoreel_priority":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/shared/js/amp-common.js?ver=1548900293'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/amp-breaking-news/public/js/public.js?ver=0.2.3'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/amp-styles/js/public.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dates = {"start_of_week":"1","moment_date_format":"MMMM D, YYYY","moment_time_format":"h:mm a","calendar_date_format":"MMMM d, yyyy","calendar_time_format":"h:mm tt","date_format":"MM d, yy","time_format":"h:mm tt"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/amp-events/js/calendar.js?ver=1.1.4'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/amp-events/js/public.js?ver=1.1.4'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/amp-feeds/js/jquery.totemticker.min.js?ver=0.4.0'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/amp-feeds/js/amp-feed.js?ver=0.4.0'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/amp-feeds/js/public.js?ver=0.4.0'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/amp-feeds/js/date.js?ver=0.4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _amplistenlive = {"blog_id":"301","callsign":"","mount_name":"MARK-CM","provider":"stream_the_world","gmt_offset":"-18000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/amp-listen-live/public/assets/js/public.js?ver=1.4.4'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/amp-onair/public/assets/js/public.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/themes/Headway-AMP_CMS/js/amp-theme.js?ver=1.1.5'></script>
+
+<!--[if lt IE 9]>
+<script src="http://www.marklevinshow.com/wp-content/themes/headway/library/media/js/html5shiv.js"></script>
+<![endif]-->
+
+<!--[if lt IE 8]>
+<script src="http://www.marklevinshow.com/wp-content/themes/headway/library/media/js/ie8.js"></script>
+<![endif]-->
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+var leaderboardSizeMap = googletag.sizeMapping()
+	.addSize([970, 0], [[728, 90], [970, 90]])
+ .addSize([750,0], [728,90])
+	.addSize([0, 0], [[320, 50], [320, 53]])
+	.build();
+
+googletag.defineSlot('/6717/cd.mark.cm', [[300, 250], [300, 600]], 'div-gpt-ad-1418849849333-0').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","mid");
+googletag.defineSlot('/6717/cd.mark.cm', [[728, 90], [970, 90]], 'div-gpt-ad-1418849849333-1').addService(googletag.pubads())
+.defineSizeMapping(leaderboardSizeMap).setCollapseEmptyDiv(true).setTargeting("pos","top");
+googletag.defineSlot('/6717/cd.mark.cm', [[728, 90], [970, 90]], 'div-gpt-ad-1418849849333-2').addService(googletag.pubads())
+.defineSizeMapping(leaderboardSizeMap).setCollapseEmptyDiv(true).setTargeting("pos","bot");
+googletag.defineSlot('/6717/cd.mark.cm', [[300, 250], [300, 600]], 'div-gpt-ad-1418849849333-3').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","mid2");
+googletag.defineSlot('/6717/cd.mark.cm', [[160, 600]], 'div-gpt-ad-1418849849333-4').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","left");
+googletag.defineSlot('/6717/cd.mark.cm', [[160, 600]], 'div-gpt-ad-1418849849333-5').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","right");
+googletag.defineSlot('/6717/cd.mark.cm', [[654, 70]], 'div-gpt-ad-1418849849333-6').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","rdioplayer");
+googletag.defineSlot('/6717/cd.mark.cm', [[300, 100]], 'div-gpt-ad-1418849849333-7').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","contest1");
+googletag.defineSlot('/6717/cd.mark.cm', [[300, 100]], 'div-gpt-ad-1418849849333-8').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","contest2");
+googletag.defineSlot('/6717/cd.mark.cm', [[300, 100]], 'div-gpt-ad-1418849849333-9').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","contest3");
+googletag.defineSlot('/6717/cd.mark.cm', [[100, 51]], 'div-gpt-ad-1418849849333-10').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","rdiobutton");
+googletag.defineSlot('/6717/cd.mark.cm', [[113, 23]], 'div-gpt-ad-1418849849333-11').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","feedsponsor1");
+googletag.defineSlot('/6717/cd.mark.cm', [[113, 23]], 'div-gpt-ad-1418849849333-12').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","feedsponsor2");
+googletag.defineSlot('/6717/cd.mark.cm', [[113, 23]], 'div-gpt-ad-1418849849333-13').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","feedsponsor3");
+googletag.defineSlot('/6717/cd.mark.cm', [[113, 23]], 'div-gpt-ad-1418849849333-14').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","feedsponsor4");
+googletag.defineSlot('/6717/cd.mark.cm', [[1, 1]], 'div-gpt-ad-1418849849333-16').addService(googletag.pubads())
+.setCollapseEmptyDiv(true).setTargeting("pos","wallpaper-ad");
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+<!--ONESTAT SCRIPTCODE START-->
+  <script type="text/javascript">
+  <!--
+  function OneStat_Pageview()
+  {
+      var d=document;
+      var sid="mark-cm.cumulus";
+      var CONTENTSECTION="";
+      var osp_URL=d.URL;
+      var osp_Title=d.title;
+      var t=new Date();
+      var p="http"+(d.URL.indexOf('https:')==0?'s':'')+"://stat.onestat.com/stat.aspx?tagver=2&sid="+sid;
+      p+="&url="+escape(osp_URL);
+      p+="&ti="+escape(osp_Title);
+      p+="&section="+escape(CONTENTSECTION);
+      p+="&rf="+escape(parent==self?document.referrer:top.document.referrer);
+      p+="&tz="+escape(t.getTimezoneOffset());
+      p+="&ch="+escape(t.getHours());
+      p+="&js=1";
+      p+="&ul="+escape(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage);
+      if(osp_URL!=d.URL) p+="&ol="+escape(d.URL);
+      if(typeof(screen)=="object"){
+         p+="&sr="+screen.width+"x"+screen.height;p+="&cd="+screen.colorDepth;
+         p+="&jo="+(navigator.javaEnabled()?"Yes":"No");
+      }
+      d.write('<img id="ONESTAT_TAG" border="0" width="0" height="0" src="'+p+'" >');
+  }
+
+  OneStat_Pageview();
+  //-->
+  </script>
+    <noscript>
+    <a href="http://www.onestat.com"><img border="0" width="0" height="0" src="http://stat.onestat.com/stat.aspx?tagver=2&sid=mark-cm.cumulus&js=No&" ALT="OneStat.com Web Analytics"></a>
+    </noscript>
+  <!--ONESTAT SCRIPTCODE END-->
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','corpDataLayer','GTM-TKDVR2');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+/*!
+ * Open external URLs in a new tab
+ */
+(function($, w, undefined){
+	$('.post .entry-content a').on('click', function(e){
+		if (
+			this.hostname == w.location.hostname ||
+			this.target == '_blank'
+		) {
+			return;
+		}
+		e.preventDefault();
+		e.stopPropagation();
+		window.open(this.href, '_blank');
+	});
+}(jQuery, window));
+</script>
+
+<script src="//platform-api.sharethis.com/js/sharethis.js#property=5b086bc5cbc3900011ee2ab8&product=sticky-share-buttons"></script>
+
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+<link rel="alternate" type="application/rss+xml" title="The Mark Levin Show &raquo; Feed" href="http://www.marklevinshow.com/feed/" />
+<!-- Customization: Default -->
+<style style="text/css" id="customize-styles">
+#whitewrap {background-image: url(http://www.marklevinshow.com/wp-content/uploads/sites/301/2014/12/bg_body.png) !important;
+background-repeat: repeat;
+}
+#whitewrap > .wrapper-header {background-color: #FFFFFF !important; 
+}
+#whitewrap > .wrapper-content {background-color: transparent !important; background-image: none !important;}
+#whitewrap > .wrapper-footer {background-color: transparent !important; background-image: none !important;}
+body {background-color: #FFFFFF !important; 
+}
+
+</style>
+<script>_AMP.theme.data = [];</script>
+<script type="text/javascript">var ajaxurl = "http://www.marklevinshow.com/wp-admin/admin-ajax.php"</script><script type="text/javascript">var ajaxurl = "http://www.marklevinshow.com/wp-admin/admin-ajax.php"</script>
+<!-- AMP CMS DFP custom tags -->
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+      googletag.pubads().setTargeting('cms-sname', 'The Mark Levin Show');
+      googletag.pubads().setTargeting('cms-sgroup', ['All Sites', 'Format  NewsTalk', 'Market  Westwood One']);
+      googletag.pubads().setTargeting('cms-ptitle', '');
+  });
+</script>
+
+<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.4 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="The Mark Levin Show"/>
+  <meta property="og:title" content="The Mark Levin Show"/>
+  <meta property="og:url" content="http://www.marklevinshow.com/news/x-ray-gun-used-to-study-800-year-old-shipwreck-and-its-treasures/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="The Mark Levin Show"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="The Mark Levin Show"/>
+  <meta itemprop="description" content="The Mark Levin Show"/>
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="The Mark Levin Show"/>
+  <meta name="twitter:url" content="http://www.marklevinshow.com/news/x-ray-gun-used-to-study-800-year-old-shipwreck-and-its-treasures/"/>
+  <meta name="twitter:description" content="The Mark Levin Show"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+<!-- END - Facebook Open Graph, Google+ and Twitter Card Tags 2.0.4 -->
+
+
+</head><!-- End <head> -->
+
+<body class="error404 custom responsive-grid-enabled responsive-grid-active layout-four04 layout-using-single builder-parallax-scrolling-active" itemscope itemtype="http://schema.org/WebPage">
+
+
+<div id="whitewrap">
+
+
+<div id="wrapper-48" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-mirroring-8 wrapper-first wrapper-header" data-alias="Wrapper Header">
+
+<div class="grid-container clearfix">
+
+<section class="row row-1">
+
+<section class="column column-1 grid-left-0 grid-width-24">
+<div id="block-27" class="leaderboard-ad block block-type-custom-code block-fluid-height" data-alias="728x90 Leaderboard Ad">
+<div class="block-content">
+<div align="center">
+<div id='div-gpt-ad-1418849849333-1'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-1'); });
+</script>
+</div>
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-27 -->
+
+</section><!-- .column -->
+
+</section><!-- .row -->
+
+
+<section class="row row-2">
+
+<section class="column column-1 grid-left-0 grid-width-5">
+<figure id="block-31" class="logo block block-type-image block-fixed-height" data-alias="Logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<div class="block-content">
+<a href="/" class="image" ><img src="http://cumulus.pro.poolb.tritondigitalcms.com/mark-cm/wp-content/uploads/sites/301/2015/02/site-logo.png" alt="" title="" itemprop="contentURL"/></a>
+</div><!-- .block-content -->
+
+</figure><!-- #block-31 -->
+<div id="block-bkj54a2b9912881a" class="takeover-left block block-type-custom-code block-fluid-height" data-alias="Skyscraper - Left">
+<div class="block-content">
+<div id='div-gpt-ad-1418849849333-4'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-4'); });
+</script>
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-bkj54a2b9912881a -->
+
+</section><!-- .column -->
+
+<section class="column column-2 grid-left-0 grid-width-19">
+<section id="block-30" class="social-nav block block-type-social block-fixed-height" data-alias="Social Navigation">
+<div class="block-content">
+<div class="social-icons-container"><ul class="social-icons"><li><a href="#"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/mark-cm/wp-content/uploads/sites/301/2015/01/ListenLive.png" title="Listen Live!!" class="img-1"  /></a></li><li><a href="/listen-live-with-alexa"><img src="http://images.tritondigitalcms.com/6616/sites/301/2018/01/02151219/Alexa-Social-Logo-MUSIC.png" alt="Alexa" title="Alexa" class="img-2"  /></a></li><li><a href="https://www.facebook.com/marklevinshow" target="_blank"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/mark-cm/wp-content/uploads/sites/301/2014/12/facebook1.png" alt="Like us on Facebook" title="Like us on Facebook" class="img-3"  /></a></li><li><a href="https://twitter.com/marklevinshow" target="_blank"><img src="http://cumulus.pro.poolb.tritondigitalcms.com/mark-cm/wp-content/uploads/sites/301/2014/12/twitter1.png" alt="Follow us on Twitter" title="Follow us on Twitter" class="img-4"  /></a></li><li><a href="https://itunes.apple.com/us/app/mark-levin-show/id496033448?mt=8" target="_blank"><img src="http://images.tritondigitalcms.com/6616/sites/301/2018/06/06110148/apple.png" alt="Use our Apple app" title="Use our Apple app" class="img-5"  /></a></li><li><a href="https://play.google.com/store/apps/details?id=com.airkast.MARK_LEVIN" target="_blank"><img src="http://images.tritondigitalcms.com/6616/sites/301/2018/06/06110227/droid.png" alt="Use our Android app" title="Use our Android app" class="img-6"  /></a></li></ul></div><!-- .social-icons-container -->
+</div><!-- .block-content -->
+
+</section><!-- #block-30 -->
+
+<section class="sub-column sub-column-1 column column-1 grid-width-17 grid-left-0">
+<nav id="block-32" class="main-nav block block-type-navigation block-fluid-height" data-alias="Main Navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<div class="block-content">
+<div class="nav-horizontal nav-align-left"><ul id="menu-main-navigation" class="menu"><li id="menu-item-15263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15263"><a href="http://www.marklevinshow.com/features/">Features</a>
+<ul class="sub-menu">
+	<li id="menu-item-50726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50726"><a href="http://www.marklevinshow.com/about-the-show/">About The Show</a></li>
+	<li id="menu-item-446336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-446336"><a href="http://www.marklevinshow.com/levin-mobile-app/">Levin Mobile App</a></li>
+	<li id="menu-item-41501" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41501"><a href="http://www.marklevinshow.com/category/daily-recap/">Daily Recap</a></li>
+	<li id="menu-item-41504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41504"><a href="http://www.marklevinshow.com/category/notes-of-interest/">Notes of Interest</a></li>
+	<li id="menu-item-41507" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41507"><a href="http://www.marklevinshow.com/category/mark-speaks/">Mark Speaks</a></li>
+	<li id="menu-item-41510" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-41510"><a href="http://www.marklevinshow.com/category/required-reading/">Required Reading</a>
+	<ul class="sub-menu">
+		<li id="menu-item-41543" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41543"><a href="http://www.marklevinshow.com/category/marks-books/">Mark&#8217;s Books</a></li>
+	</ul>
+</li>
+	<li id="menu-item-41522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41522"><a href="http://www.marklevinshow.com/links/">Links</a></li>
+	<li id="menu-item-41528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41528"><a href="http://sprite.marklevinshow.com/">Pet&#8217;s Corner</a></li>
+</ul>
+</li>
+<li id="menu-item-41525" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41525"><a href="http://www.marklevinshow.com/category/daily-recap/">Daily Recap</a></li>
+<li id="menu-item-41531" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-41531"><a href="http://www.marklevinshow.com/category/required-reading/">Req. Reading</a>
+<ul class="sub-menu">
+	<li id="menu-item-41540" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41540"><a href="http://www.marklevinshow.com/category/marks-books/">Mark&#8217;s Books</a></li>
+</ul>
+</li>
+<li id="menu-item-46382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-46382"><a href="http://www.marklevinshow.com/audio-rewind/">Audio Rewind</a>
+<ul class="sub-menu">
+	<li id="menu-item-123219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123219"><a href="http://www.marklevinshow.com/the-mark-levin-podcast-faq/">The Mark Levin Podcast FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-41558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41558"><a href="http://www.marklevinshow.com/links/">Links</a></li>
+<li id="menu-item-15269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15269"><a href="#">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-41552" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41552"><a href="http://www.marklevinshow.com/category/cnn-us/">National News</a></li>
+	<li id="menu-item-41549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41549"><a href="http://www.marklevinshow.com/category/cnn-politics/">Political News</a></li>
+	<li id="menu-item-41555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41555"><a href="http://www.marklevinshow.com/category/cnn-world/">World News</a></li>
+	<li id="menu-item-41546" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41546"><a href="http://www.marklevinshow.com/category/cnn-business/">Business News</a></li>
+</ul>
+</li>
+</ul></div><!-- .nav-horizontal nav-align-left -->
+</div><!-- .block-content -->
+
+</nav><!-- #block-32 -->
+
+</section><!-- .sub-column -->
+
+<section class="sub-column sub-column-2 column column-2 grid-width-1 grid-left-0">
+<nav id="block-94" class="search-box block block-type-navigation block-fluid-height" data-alias="Navigation Search" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<div class="block-content">
+<div class="nav-horizontal nav-align-right nav-search-active nav-search-position-right"><div class="nav-search">
+		<form method="get" id="searchform" action="http://www.marklevinshow.com/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="text" class="field" name="s" id="s" value="Type to search, then press enter" onclick="if(this.value=='Type to search, then press enter')this.value='';" onblur="if(this.value=='')this.value='Type to search, then press enter';" />
+			<input type="submit" class="submit" name="searchsubmit" id="searchsubmit" value="Search" />
+		</form>
+	</div></div><!-- .nav-horizontal nav-align-right nav-search-active nav-search-position-right -->
+</div><!-- .block-content -->
+
+</nav><!-- #block-94 -->
+
+</section><!-- .sub-column -->
+
+<section class="sub-column sub-column-3 column column-3 grid-width-1 grid-left-0">
+<div id="block-b0l5568b2fe6df19" class="search-icon block block-type-custom-code block-fluid-height" data-alias="Search Icon">
+<div class="block-content">
+<script>
+jQuery(function($){
+$(".show-search").click(function(){
+$(".search-box").toggle(200); 
+});
+});
+</script>
+<img class="show-search" src="/wp-content/uploads/sites/301/2015/05/search_small.png">
+</div><!-- .block-content -->
+
+</div><!-- #block-b0l5568b2fe6df19 -->
+
+</section><!-- .sub-column -->
+
+<section class="sub-column sub-column-1 column column-1 grid-width-5 grid-left-0">
+<div id="block-b7x54a2b9912b304" class="takeover-right block block-type-custom-code block-fluid-height" data-alias="Skyscraper - Right">
+<div class="block-content">
+<div id='div-gpt-ad-1418849849333-5'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-5'); });
+</script>
+</div>
+
+</div><!-- .block-content -->
+
+</div><!-- #block-b7x54a2b9912b304 -->
+
+</section><!-- .sub-column -->
+
+</section><!-- .column -->
+
+</section><!-- .row -->
+
+
+</div><!-- .grid-container -->
+
+</div><!-- .wrapper -->
+
+<div id="wrapper-49" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-content" data-alias="Wrapper Content">
+
+<div class="grid-container clearfix">
+
+<section class="row row-1">
+
+<section class="column column-1 grid-left-0 grid-width-16">
+<div id="block-bi35b086c33cdcf1" class="block block-type-custom-code block-fluid-height" data-alias="ShareThis">
+<div class="block-content">
+<div class="sharethis-inline-share-buttons"></div>
+
+</div><!-- .block-content -->
+
+</div><!-- #block-bi35b086c33cdcf1 -->
+<div id="block-132" class="block block-type-content block-fluid-height" data-alias="">
+<div class="block-content">
+<div id="post-system-404" class="page system-page system-404 hentry"><h1 class="entry-title">Whoops!  Page Not Found</h1><div class="entry-content"><p>Don't fret, you didn't do anything wrong.  It appears that the page you are looking for does not exist or has been moved elsewhere.</p><p>If you keep ending up here, please head back to our <a href="http://www.marklevinshow.com">homepage</a> or try the search form below.</p>
+		<form method="get" id="searchform" action="http://www.marklevinshow.com/">
+			<label for="s" class="assistive-text">Search</label>
+			<input type="text" class="field" name="s" id="s" value="Type to search, then press enter" onclick="if(this.value=='Type to search, then press enter')this.value='';" onblur="if(this.value=='')this.value='Type to search, then press enter';" />
+			<input type="submit" class="submit" name="searchsubmit" id="searchsubmit" value="Search" />
+		</form>
+	</div><!-- .entry-content --></div><!-- #post-system-404 -->
+</div><!-- .block-content -->
+
+</div><!-- #block-132 -->
+
+</section><!-- .column -->
+
+<section class="column column-2 grid-left-0 grid-width-8">
+<div id="block-34" class="300x250-ad-1 block block-type-custom-code block-fluid-height responsive-block-hiding-device-smartphones block-mirrored block-mirroring-bb25499e64d5bce0 block-original-66" data-alias="300x250 Ad 1">
+<div class="block-content">
+<div id='div-gpt-ad-1418849849333-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-0'); });
+</script>
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-34 -->
+<div id="block-36" class="vip-club-ad block block-type-custom-code block-fluid-height block-mirrored block-mirroring-b5n5499e64d5e75f block-original-68" data-alias="VIP Club Ad">
+<div class="block-content">
+<div id='div-gpt-ad-1418849849333-7'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-7'); });
+</script>
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-36 -->
+<aside id="block-45" class="free-apps block block-type-widget-area block-fluid-height block-mirrored block-mirroring-bso5499e64d75758 block-original-81" data-alias="Home - Free Apps" itemscope="" itemtype="http://schema.org/WPSideBar">
+<div class="block-content">
+<h1 class="block-title"><span>Free Apps</span></h1><ul class="widget-area"><li id="text-3" class="widget widget_text">
+			<div class="textwidget"><div align="center">
+<a href="https://itunes.apple.com/us/app/mark-levin-show/id496033448?mt=8" target="_blank"><img src="/wp-content/uploads/sites/301/2014/10/appstore.png" border="0"></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.airkast.MARK_LEVIN" target="_blank"><img src="/wp-content/uploads/sites/301/2014/10/googleplay.png" border="0"></a>&nbsp;<a href="http://www.amazon.com/AirKast-Inc-Mark-Levin-Show/dp/B00G56FH7Y" target="_blank"><img src="/wp-content/uploads/sites/301/2014/10/amazon.png" border="0"></a>
+</div></div>
+		</li><!-- .widget -->
+</ul>
+</div><!-- .block-content -->
+
+</aside><!-- #block-45 -->
+<div id="block-42" class="facebook-ad block block-type-custom-code block-fluid-height block-mirrored block-mirroring-b4u5499e64d6fc9b block-original-73" data-alias="Facebook Ad">
+<div class="block-content">
+<div id='div-gpt-ad-1418849849333-8'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-8'); });
+</script>
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-42 -->
+<div id="block-43" class="headlines block block-type-content block-fluid-height block-mirrored block-mirroring-buz5499e64d72bca block-original-74" data-alias="Headlines">
+<div class="block-content">
+<h1 class="block-title"><span>Headlines</span></h1><div class="loop">
+
+<div class="entry-row">
+
+<article id="post-1040920" class="post-1040920 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/democratic-senators-want-intelligence-community-to-submit-report-on-khashoggis-murder/" title="Democratic senators want intelligence community to submit report on Khashoggi&#8217;s murder" rel="bookmark">Democratic senators want intelligence community to submit report on Khashoggi&#8217;s murder</a></h2></header></article><!-- #post-1040920 --><article id="post-1040921" class="post-1040921 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics alt custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/washington-judge-upholds-trump-administrations-bump-stock-ban/" title="Washington judge upholds Trump administration&#8217;s bump stock ban" rel="bookmark">Washington judge upholds Trump administration&#8217;s bump stock ban</a></h2></header></article><!-- #post-1040921 -->
+
+</div><!-- .entry-row -->
+
+
+
+<div class="entry-row">
+
+<article id="post-1040948" class="post-1040948 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/key-players-at-the-trump-kim-summit/" title="Key players at the Trump-Kim summit" rel="bookmark">Key players at the Trump-Kim summit</a></h2></header></article><!-- #post-1040948 --><article id="post-1040947" class="post-1040947 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics alt custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/bernie-sanders-says-climate-change-is-an-existential-crisis/" title="Bernie Sanders says climate change is an &#8216;existential crisis&#8217;" rel="bookmark">Bernie Sanders says climate change is an &#8216;existential crisis&#8217;</a></h2></header></article><!-- #post-1040947 -->
+
+</div><!-- .entry-row -->
+
+
+
+<div class="entry-row">
+
+<article id="post-1040946" class="post-1040946 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/republican-senator-says-hell-vote-against-trumps-national-emergency/" title="Republican senator says he&#8217;ll vote against Trump&#8217;s national emergency" rel="bookmark">Republican senator says he&#8217;ll vote against Trump&#8217;s national emergency</a></h2></header></article><!-- #post-1040946 --><article id="post-1040945" class="post-1040945 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics alt custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/sanders-warns-against-outside-intervention-in-venezuela-stops-short-of-calling-maduro-a-dictator/" title="Sanders warns against outside intervention in Venezuela, stops short of calling Maduro a &#8216;dictator&#8217;" rel="bookmark">Sanders warns against outside intervention in Venezuela, stops short of calling Maduro a &#8216;dictator&#8217;</a></h2></header></article><!-- #post-1040945 -->
+
+</div><!-- .entry-row -->
+
+
+
+<div class="entry-row">
+
+<article id="post-1040944" class="post-1040944 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/manaforts-lawyers-taunt-mueller-for-not-tying-him-to-russian-interference-in-2016-election/" title="Manafort&#8217;s lawyers taunt Mueller for not tying him to Russian interference in 2016 election" rel="bookmark">Manafort&#8217;s lawyers taunt Mueller for not tying him to Russian interference in 2016 election</a></h2></header></article><!-- #post-1040944 --><article id="post-1040943" class="post-1040943 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics alt custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/democrats-blast-absent-trump-with-oversight-offensive/" title="Democrats blast absent Trump with oversight offensive" rel="bookmark">Democrats blast absent Trump with oversight offensive</a></h2></header></article><!-- #post-1040943 -->
+
+</div><!-- .entry-row -->
+
+
+
+<div class="entry-row">
+
+<article id="post-1040942" class="post-1040942 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/14-people-are-running-to-be-chicagos-mayor-today/" title="14 people are running to be Chicago&#8217;s mayor today" rel="bookmark">14 people are running to be Chicago&#8217;s mayor today</a></h2></header></article><!-- #post-1040942 --><article id="post-1040979" class="post-1040979 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics alt custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/energetic-democrats-see-a-common-purpose-if-not-yet-a-champion-in-2020-race/" title="Energetic Democrats see a common purpose &#8212; if not yet a champion &#8212; in 2020 race" rel="bookmark">Energetic Democrats see a common purpose &#8212; if not yet a champion &#8212; in 2020 race</a></h2></header></article><!-- #post-1040979 -->
+
+</div><!-- .entry-row -->
+
+
+
+<div class="entry-row">
+
+<article id="post-1040978" class="post-1040978 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/new-report-from-environmental-group-details-reduced-enforcement-at-epa/" title="New report from environmental group details reduced enforcement at EPA" rel="bookmark">New report from environmental group details reduced enforcement at EPA</a></h2></header></article><!-- #post-1040978 --><article id="post-1040922" class="post-1040922 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics alt custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/drug-executives-to-testify-on-capitol-hill-about-rising-drug-prices/" title="Drug executives to testify on Capitol Hill about rising drug prices" rel="bookmark">Drug executives to testify on Capitol Hill about rising drug prices</a></h2></header></article><!-- #post-1040922 -->
+
+</div><!-- .entry-row -->
+
+
+
+<div class="entry-row">
+
+<article id="post-1040977" class="post-1040977 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/wisconsin-governor-pulls-national-guard-from-southern-border/" title="Wisconsin governor pulls National Guard from southern border" rel="bookmark">Wisconsin governor pulls National Guard from southern border</a></h2></header></article><!-- #post-1040977 --><article id="post-1040976" class="post-1040976 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics alt custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/us-weighs-sending-drones-military-advisers-to-burkina-faso-after-terror-uptick/" title="US weighs sending drones, military advisers to Burkina Faso after terror uptick" rel="bookmark">US weighs sending drones, military advisers to Burkina Faso after terror uptick</a></h2></header></article><!-- #post-1040976 -->
+
+</div><!-- .entry-row -->
+
+
+
+<div class="entry-row">
+
+<article id="post-1040975" class="post-1040975 feed_posts type-feed_posts status-publish has-post-thumbnail hentry category-cnn-politics custom-query" itemscope itemtype="http://schema.org/BlogPosting"><header><h2 class="entry-title" itemprop="headline"><a href="http://www.marklevinshow.com/news/the-utter-absurdity-of-trumps-july-fourth-bash/" title="The utter absurdity of Trump&#8217;s July Fourth bash" rel="bookmark">The utter absurdity of Trump&#8217;s July Fourth bash</a></h2></header></article><!-- #post-1040975 -->
+
+</div><!-- .entry-row -->
+
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-43 -->
+<div id="block-44" class="twitter-ad block block-type-custom-code block-fluid-height block-mirrored block-mirroring-bav5499e64d7435f block-original-79" data-alias="Twitter Ad">
+<div class="block-content">
+<div id='div-gpt-ad-1418849849333-9'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-9'); });
+</script>
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-44 -->
+<div id="block-46" class="300x250-ad-2 block block-type-custom-code block-fluid-height block-mirrored block-mirroring-box5499e64d77392 block-original-124" data-alias="300x250 Ad 2">
+<div class="block-content">
+<div id='div-gpt-ad-1418849849333-3'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-3'); });
+</script>
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-46 -->
+
+</section><!-- .column -->
+
+</section><!-- .row -->
+
+
+</div><!-- .grid-container -->
+
+</div><!-- .wrapper -->
+
+<div id="wrapper-50" class="wrapper wrapper-fluid wrapper-fixed-grid grid-fluid-24-32-10 responsive-grid wrapper-mirroring-10 wrapper-last wrapper-footer" data-alias="Wrapper Footer">
+
+<div class="grid-container clearfix">
+
+<section class="row row-1">
+
+<section class="column column-1 grid-left-0 grid-width-6">
+<nav id="block-50" class="footer-nav block block-type-navigation block-fluid-height" data-alias="Footer Navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<div class="block-content">
+<div class="nav-vertical nav-align-left"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-167763" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167763"><a href="/1111/11/11/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-167766" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167766"><a href="/1111/11/11/terms-of-service">Terms of Service</a></li>
+<li id="menu-item-167769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167769"><a href="/1111/11/11/contest-rules">Contest Rules</a></li>
+<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="http://www.marklevinshow.com/advertise-with-us/">Advertise With Us</a></li>
+<li id="menu-item-141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-141"><a href="http://www.cumulus.com/careers/">Employment Opportunities</a></li>
+<li id="menu-item-944830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-944830"><a target="_blank" href="https://www.cumulus.com">Cumulus Media Corporate</a></li>
+</ul></div><!-- .nav-vertical nav-align-left -->
+</div><!-- .block-content -->
+
+</nav><!-- #block-50 -->
+<div id="block-bal55f19d0604838" class="block block-type-custom-code block-fluid-height" data-alias="Wallpaper Ad">
+<div class="block-content">
+<div id='div-gpt-ad-1418849849333-16'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-16'); });
+</script>
+</div>
+</div><!-- .block-content -->
+
+</div><!-- #block-bal55f19d0604838 -->
+
+</section><!-- .column -->
+
+<section class="column column-2 grid-left-0 grid-width-18">
+<div id="block-51" class="728x90-ad-2 block block-type-custom-code block-fluid-height" data-alias="728x90 Ad 2">
+<div class="block-content">
+<div class="footer-728x90-ad" align="right">
+<div id='div-gpt-ad-1418849849333-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1418849849333-2'); });
+</script>
+</div>
+</div>
+
+</div><!-- .block-content -->
+
+</div><!-- #block-51 -->
+<footer id="block-52" class="copyright block block-type-footer block-fluid-height" data-alias="Copyright" itemscope="" itemtype="http://schema.org/WPFooter">
+<div class="block-content">
+
+<div class="footer-container">
+
+<div class="footer">
+<p class="copyright footer-copyright">Copyright: Mark R. Levin / Westwood One | Westwood One is an equal opportunity employer / AA</p><p class="footer-responsive-grid-link-container footer-responsive-grid-link-disable-container"><a href="http://www.marklevinshow.com/news/x-ray-gun-used-to-study-800-year-old-shipwreck-and-its-treasures/?full-site=true" rel="nofollow" class="footer-responsive-grid-link footer-responsive-grid-disable footer-link">View Full Site</a></p>
+</div><!-- .footer -->
+</div><!-- .footer-container -->
+</div><!-- .block-content -->
+
+</footer><!-- #block-52 -->
+
+</section><!-- .column -->
+
+</section><!-- .row -->
+
+
+</div><!-- .grid-container -->
+
+</div><!-- .wrapper -->
+
+
+
+<script>_AMP.theme.init();</script>
+<script type='text/javascript' src='//see-p-elb-01.tritondigital.net/widget/see_3713/see.js'></script><link rel='stylesheet' id='media_library_assistant-plugin-styles-css'  href='http://www.marklevinshow.com/wp-content/plugins/media-library-assistant/includes/../css/prettyPhoto.css?ver=1.61' type='text/css' media='all' />
+<link rel='stylesheet' id='media_library_assistant-widget-styles-css'  href='http://www.marklevinshow.com/wp-content/plugins/media-library-assistant/includes/../css/widget.css?ver=1.61' type='text/css' media='all' />
+<link rel='stylesheet' id='amp-polls-plugin-styles-css'  href='http://www.marklevinshow.com/wp-content/plugins/amp-polls/css/widget.css?ver=4.9.8' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themify_vars = {"version":"2.2.6.3","url":"http:\/\/www.marklevinshow.com\/wp-content\/plugins\/themify-builder\/themify","map_key":null,"includesURL":"http:\/\/www.marklevinshow.com\/wp-includes\/","isCached":null,"minify":{"css":{"themify-icons":false,"themify.framework":false,"lightbox":false,"themify-builder-style":false},"js":{"backstretch.themify-version":false,"bigvideo":false,"themify.dropdown":false,"themify.builder.script":false,"themify.scroll-highlight":false,"themify-youtube-bg":false,"themify.parallaxit":false,"themify.ticks":false}}};
+var tbLocalScript = {"isAnimationActive":"1","isParallaxActive":"1","isParallaxScrollActive":"1","animationInviewSelectors":[".module.wow",".module_row.wow",".builder-posts-wrap > .post.wow"],"backgroundSlider":{"autoplay":5000,"speed":2000},"animationOffset":"100","videoPoster":"http:\/\/www.marklevinshow.com\/wp-content\/plugins\/themify-builder\/img\/blank.png","backgroundVideoLoop":"yes","builder_url":"http:\/\/www.marklevinshow.com\/wp-content\/plugins\/themify-builder","framework_url":"http:\/\/www.marklevinshow.com\/wp-content\/plugins\/themify-builder\/themify","version":"2.2.6.3","fullwidth_support":"","fullwidth_container":"body","loadScrollHighlight":"","addons":[],"breakpoints":{"tablet_landscape":[769,1280],"tablet":[681,768],"mobile":680},"ticks":{"tick":240,"ajaxurl":"http:\/\/www.marklevinshow.com\/wp-admin\/admin-ajax.php","postID":false}};
+var themifyScript = {"lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":"","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":"","gallerySelector":".gallery-icon > a","lightboxGalleryOn":true},"lightboxContext":"body"};
+var tbScrollHighlight = {"fixedHeaderSelector":"","speed":"900","navigation":"#main-nav","scrollOffset":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/themify-builder/themify/js/main.js?ver=2.2.6.3'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-includes/js/mediaelement/mediaelement-and-player.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-includes/js/mediaelement/mediaelement-migrate.js?ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/media-library-assistant/includes/../js/jquery.prettyPhoto.js?ver=1.61'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/media-library-assistant/includes/../js/widget-front-end.js?ver=1548900293'></script>
+<script type='text/javascript' src='http://www.marklevinshow.com/wp-content/plugins/amp-polls/js/widget-front-end.js?ver=4.9.8'></script>
+<script type="text/javascript" class="_tgmp_p">
+function onTuneGenieMediaPlayerLoaded() {
+    window.tgmp=new TuneGenieMediaPlayer('playerbar', {
+        brand: "mark",
+    });
+    tgmp.go();
+    window.tgmp_rc = new TuneGenieRC(tgmp);
+    tgmp_rc.recentSongWidget(document.getElementById('tgrecent'),{});
+    tgmp_rc.nowPlayingWidget(document.getElementById('tgnowplaying'),{});
+}
+</script>
+<script type="text/javascript"  class="_tgmp_p" async src="//mpl.tunegenie.com/js/loader2.min.js"></script>
+
+
+</div><!-- #whitewrap -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+
+
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 2116/2167 objects using memcache
+Page Caching using memcache
+Database Caching 261/266 queries in 0.250 seconds using memcache
+
+Served from: www.1460wrad.com @ 2019-02-26 13:27:35 by W3 Total Cache
+-->

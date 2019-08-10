@@ -1,0 +1,2121 @@
+ <!DOCTYPE html>
+<html lang="ja-jp">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="index,follow,noydir,noodp">
+<meta name="copyright" content="WOWOW INC.">
+<meta name="viewport" content="width=device-width,user-scalable=yes">
+<title>ã¹ãã¤ã³ãµãã«ã¼ ãªã¼ã¬ã»ã¨ã¹ããã§ã¼ã©ï½ã¹ãã¼ã | WOWOWãªã³ã©ã¤ã³</title>
+
+<meta name="keywords" content="ãµãã«ã¼,ãªã¼ã¬,ãªã¼ã¬ã»ã¨ã¹ããã§ã¼ã©,ã¹ãã¤ã³,ã¬ã¢ã«,ãã«ãµ,WOWOW">
+<meta name="description" content="ã¹ãã¤ã³ãµãã«ã¼ ãªã¼ã¬ã»ã¨ã¹ããã§ã¼ã©ãWOWOWã§ï¼">
+
+<meta property="og:title" content="ã¹ãã¤ã³ãµãã«ã¼ ãªã¼ã¬ã»ã¨ã¹ããã§ã¼ã©ï½ã¹ãã¼ã | WOWOWãªã³ã©ã¤ã³">
+<meta property="og:description" content="ã¹ãã¤ã³ãµãã«ã¼ ãªã¼ã¬ã»ã¨ã¹ããã§ã¼ã©ãWOWOWã§ï¼">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.wowow.co.jp/sports/liga/">
+<meta property="og:image" content="https://www.wowow.co.jp/sports/liga/logo_liga.jpg">
+<meta property="og:site_name" content="WOWOW">
+<meta property="og:locale" content="ja_JP">
+<meta property="fb:app_id" content="109198062549133">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@wowow_liga">
+<meta name="twitter:creator" content="@wowow_liga">
+<meta name="twitter:title" content="ã¹ãã¤ã³ãµãã«ã¼ ãªã¼ã¬ã»ã¨ã¹ããã§ã¼ã©ï½ã¹ãã¼ã | WOWOWãªã³ã©ã¤ã³">
+<meta name="twitter:description" content="ã¹ãã¤ã³ãµãã«ã¼ ãªã¼ã¬ã»ã¨ã¹ããã§ã¼ã©ãWOWOWã§ï¼æ¯ç¯æå¤§5è©¦åçä¸­ç¶ï¼">
+<meta name="twitter:image" content="https://www.wowow.co.jp/sports/liga/logo_liga.jpg">
+
+<link rel="stylesheet" href="https://www.wowow.co.jp/assets/css/screen.css">
+<script type="text/javascript" src="https://www.wowow.co.jp/assets/js/modernizr.min.js?_=c5c8d40"></script>
+<link rel="stylesheet" type="text/css" href="https://console.temo.jp/css/jquery.suggest.css">
+<script type="text/javascript" src="https://www.wowow.co.jp/assets/js/webfontloader.min.js?_=68f3959"></script>
+<script>
+	WebFont.load({
+		custom: {
+			families: ['Noto Sans Japanese'],
+			urls: ['//fonts.googleapis.com/earlyaccess/notosansjapanese.css']
+		}
+	});
+</script>
+
+<!-- css -->
+<link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet"> s
+<link rel="stylesheet" href="https://www.wowow.co.jp/sports/liga/css2/base.css">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+<body class="__static">
+
+
+<!-- wol_header -->
+<!-- ã­ã°ã¤ã³å¤å® -->
+<!--[if !ie]><!-->
+<script type="text/javascript">
+	"use strict";
+	document.addEventListener("DOMContentLoaded",function(eve){
+		var registObj = new XMLHttpRequest();
+		registObj.open("get", "/common/header/header_point.php", true);
+		registObj.onload = function(){
+			var registData = JSON.parse(this.responseText);
+			//WOWOWãªã³ã©ã¤ã³ã¦ã¼ã¶ã¼å¤å®
+			var userFlg = registData[0].login_info[0].length >= 1;
+			var userClass = userFlg?'__closed':'__open';
+		    // var userClass = '__closed';  // TODO: DELETE
+			//å å¥èå¤å®
+			var registFlg = (registData[0].login_info[1] === 'ON');
+			var registClass = registFlg?'__registed':'__unregistered';
+			// var registClass = '__registed';  // TODO: DELETE
+			document.body.classList.add(userClass, registClass);
+		}
+		registObj.send(null);
+
+		// ãã©ãã­ã³ã°URLåå¾
+		window.globalTrackingUrl = {};
+		window.globalTrackingUrl.isAvailable = false;
+		var joinLinkUrl = "/join/";
+		$.ajax({
+			type:"POST",
+			url: "/API/new_prg/get_tracking_url.php",
+			data: JSON.stringify({ "url": getRequestUrl() }),
+			contentType: 'application/json',
+			dataType:"json",
+			timeout : 30000,
+			success: function(data) {
+				var responseData = data;
+				if (responseData &&
+					responseData.hasOwnProperty("result") &&
+					responseData.result === "0" &&
+					responseData.hasOwnProperty("tracking_url") &&
+					responseData.tracking_url.length > 0
+					) {
+					joinLinkUrl = responseData.tracking_url;
+				}
+				setTrackingUrl(joinLinkUrl);
+			},
+			error: function(data) {
+				setTrackingUrl(joinLinkUrl);
+			}
+		});
+
+		// ãããã¼ååæéä¿¡ä¸­çªçµè¡¨ç¤º
+		var getSimulContents = new Promise(function(resolve, reject){
+			$.ajax({
+				type: 'POST',
+				url: '/API/new_prg/programlist.php',
+				contentType: 'application/json',
+				data: JSON.stringify({
+					mode: "24"
+				}),
+				cache: false
+			}).done(function (data) {
+				if (data.result !== "0") {
+					console.error("Error(API) ", data);
+					$("header .__ondemand .container .__navi").css({"display" : "none"});
+					$("nav .__slide-menu .__mod .__head").css({"display" : "none"});
+					return;
+				}
+				var channelHTML = {
+					"191": '<img class="__icn_channel" src="/assets/img/icon/icon_ch_prime.svg">',
+					"192": '<img class="__icn_channel" src="/assets/img/icon/icon_ch_live.svg">',
+					"193": '<img class="__icn_channel" src="/assets/img/icon/icon_ch_cinema.svg">'
+				};
+
+				var channelName = {
+					"191": "prime",
+					"192": "live",
+					"193": "cinema"
+				};
+
+				var credit = "";
+
+				var programLength = 0;
+
+				if(window.windowWidth > 800) { // _head_link.ejsã§å®ç¾© window.windowWidth = window.innerWidth
+					var simulContentBox = $("header .__ondemand .container .__content");
+				} else {
+					var simulContentBox = $("nav .__slide-menu .__mod .__content");
+				}
+
+				data.onair_list.forEach(function (value) {
+					if(value.simulcast !== "2") {
+						return false;
+					}
+					programLength++;
+
+					var episode = value.story_no && value.story_no !== "0" ? "#" + value.story_no : "";
+					episode += value.episode ? " " + value.episode : "";
+					episode = episode !== "" ? "<br>" + episode : episode;
+
+					credit += "ã" + value.title + "ã" + value.credit + " ";
+
+					var simulcastUrl = "";
+					if ($('html').hasClass('ios') || $('html').hasClass('android') || $('html').hasClass('android-default') || $('html').hasClass('android-chrome')) {
+						simulcastUrl = value.prg_branch_cd
+							? '/detail/' + value.prg_cd + '/' + value.prg_branch_cd + '/' + value.prg_mode_branch_cd
+							: '/detail/' + value.prg_cd + '/-/' + value.prg_mode_branch_cd;
+					} else {
+						simulcastUrl = "https://mod.wowow.co.jp/simulcast?channel=" + value.channel;
+					}
+
+					simulContentBox.append(
+						'<a href="' + simulcastUrl + '" class="__item col-8__md-24 js-simulcast" target="_blank" onclick="gaCustom' + '(this, \'send\', \'event\', \'header\', \'Click\', \'wol_pc_simulcast_' + channelName[value.channel] + '\');">' +
+						'<div class="row">' +
+						'<div class="__thumb col-12 is-hidden-md">' +
+						'<img src="' + value.image_a_half + '">' +
+						'</div>' +
+						'<div class="__desc col-12__md-24">' +
+						'<div class="__icn">' + channelHTML[value.channel] + '</div>' +
+						'<div class="__text-wrap js-text-elp">' +
+						value.title +
+						episode +
+						'</div>' +
+						'</div>' +
+						'</div>' +
+						'</a>'
+					);
+				});
+				simulContentBox.ready(function() {
+					$("header .__ondemand .container .__credit").text(credit);
+					if(programLength === 0) {
+						$("header .__ondemand .container .__navi").css({"display" : "none"});
+						$("nav .__slide-menu .__mod .__head").css({"display" : "none"});
+					}
+					resolve();
+				});
+			});
+		});
+		getSimulContents.then(function() {
+			$(".js-simulcast").on("click", function(e) {
+				e.stopPropagation();
+			});
+
+			if(window.windowWidth > 800) {
+				var flg = 'pc';
+				var ondemandPC = $(".nav__global .__ondemand");
+				var elp = $('.nav__global .js-text-elp');
+				var cloneWidth = 'calc(100% - 20px)';
+				var targetHeight = '60';
+			} else {
+				var flg = 'sp';
+				var ondemandSP = $("#menu-sp .__slide-menu .__mod");
+				var elp = $('#menu-sp .js-text-elp');
+				var cloneWidth = 'calc(100% - 60px)';
+				var targetHeight = '35';
+			}
+
+			elp.each(function () {
+				flg === 'pc' ? ondemandPC.addClass('is-active is-transparent') : ondemandSP.css({"display" : "block"});
+				var target = $(this);
+				var html = target.html();
+				var clone = target.clone();
+				clone.css({
+					opacity: '0',
+					position: 'absolute',
+					overflow: 'visible',
+					width: cloneWidth,
+				});
+				target.after(clone);
+				target.height(targetHeight);
+				clone.ready(function() {
+					while (html.length > 0 && clone.height() > targetHeight) {
+						html = html.substr(0, html.length - 1);
+						clone.html(html + 'â¦');
+					}
+					target.html(clone.html());
+					clone.remove();
+				});
+				flg === 'pc' ? ondemandPC.removeClass('is-active is-transparent') : ondemandSP.css({"display" : "none"});
+			});
+		});
+
+		function getRequestUrl() {
+
+			var urlBase = $(location).attr('protocol') + "//" +  $(location).attr('host');
+			var urlPath = $(location).attr('pathname');
+
+			var requestUrl = urlBase;
+			var pathArr = urlPath.split("/");
+			if (pathArr.length > 1) {
+				switch (pathArr[1]) {
+					// ãµã¤ãTOP
+					case "":
+					// ã¸ã£ã³ã«TOP
+					case "movie":
+					case "drama":
+					case "sports":
+					case "music":
+					case "stage":
+					case "anime":
+					case "documentary":
+					case "extra":
+					// ä»å¾ã®æ¾éäºå®
+					case "program":
+					// ç¹é
+					case "special":
+					// æ°ççªçµ
+					case "release":
+						requestUrl = urlBase + urlPath;
+						break;
+					// ã©ã³ã­ã³ã°
+					case "ranking":
+					// çªçµè¡¨
+					case "schedule":
+						requestUrl = urlBase + "/" + pathArr[1] + "/";
+						break;
+					// çªçµè©³ç´°
+					case "detail":
+						requestUrl = urlBase + "/" + pathArr[1] + "/" + pathArr[2];
+						break;
+				}
+			}
+
+			return requestUrl;
+		}
+
+		function setTrackingUrl(trackingUrl) {
+			var joinLinkElem = document.getElementById("header_join_link");
+			if (joinLinkElem) {
+				joinLinkElem.setAttribute("href", trackingUrl);
+			}
+			var joinLinkSpElem = document.getElementById("header_join_link_sp");
+			if (joinLinkSpElem) {
+				joinLinkSpElem.setAttribute("href", trackingUrl);
+			}
+			window.globalTrackingUrl.isAvailable = true;
+			window.globalTrackingUrl.url = trackingUrl;
+		}
+
+	},false);
+</script>
+<!--<![endif]-->
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-XTSJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-XTSJ');</script>
+<!-- End Google Tag Manager -->
+
+
+<!--[if IE]>
+<div class="mdl__alert-environment">
+<dl>
+<dt>ãå©ç¨ã®ãã©ã¦ã¶ã§ã®æ¬ã³ã³ãã³ãã®é²è¦§ããµãã¼ããã¦ããã¾ããã</dt>
+<dd><p>WOWOWãªã³ã©ã¤ã³ãå¿«é©ã«ãå©ç¨ããã ãããã«ããã©ã¦ã¶ãã¢ããã°ã¬ã¼ããããã¨ãæ¨å¥¨ãããã¾ãã</p>
+<a href="/guidance/attention/" class="nav__linktext">ãµã¤ãããªã·ã¼</a>
+</dd>
+</dl>
+</div>
+<![endif]-->
+
+<header>
+<div class="container">
+	<div class="__siteid">
+	<p><a href="/" data-outlink="logo" onclick="gaCustom(this,'send','event','header','Click','wol_pc_logo'); return false;">WOWOW</a></p>
+  	</div>
+	<nav class="__navigation is-hidden-md" role="navigation">
+		<ul class="nav__global">
+			<li class="__program-search">
+			<a href="#program"><span>çªçµãæ¢ã</span></a>
+			<div class="nav__megamenu" id="program">
+				<div class="container">
+					<div class="__navi">
+						<dl class="__movie">
+							<dt><a onclick="gaCustom(this,'send','event','header','Click','wol_pc_program_movie'); return false;" href="/movie/"><span>æ ç»</span></a></dt>
+							<dd><ul>
+								<li><a onclick="gaCustom(this,'send','event','header','Click','wol_pc_program_movie_new'); return false;" href="/movie/#newmovie">æ°ä½æ ç»</a></li>
+								<li><a onclick="gaCustom(this,'send','event','header','Click','wol_pc_program_movie_special'); return false;" href="/movie/#special" >ç¹é</a></li>
+								<li><a onclick="gaCustom(this,'send','event','header','Click','wol_pc_program_movie_list'); return false;" href="/program_list/01" >æ ç»ä¸è¦§</a></li>
+							</ul></dd>
+						</dl>
+						<dl class="__drama">
+							<dt><a onclick="gaCustom(this,'send','event','header','Click','wol_pc_program_drama'); return false;" href="/drama/"><span>ãã©ã</span></a></dt>
+							<dd><ul>
+								<li><a onclick="gaCustom(this,'send','event','header','Click','wol_pc_program_original-drama'); return false;" href="/drama/original/">ãªãªã¸ãã«ãã©ã</a></li>
+								<li><a onclick="gaCustom(this,'send','event','header','Click','wol_pc_program_kaigai-drama'); return false;" href="/drama/kaigai/">æµ·å¤ãã©ã</a></li>
+								<li><a onclick="gaCustom(this,'send','event','header','Click','wol_pc_program_korea-drama'); return false;" href="/drama/korea/">éå½ãã©ã<br>ï¼ã¢ã¸ã¢å¨è¬ï¼</a></li>
+								<li><a onclick="gaCustom(this,'send','event','header','Click','wol_pc_program_drama_list'); return false;" href="/program_list/02">ãã©ãä¸è¦§</a></li>
+							</ul></dd>
+						</dl>
+						<dl class="__sports">
+							<dt><a onclick="gaCustom(this,'send','event','header','Click','wol_pc_program_sports'); return false;" href="/sports/"><span>ã¹ãã¼ã</span></a></dt>
+							<dd><ul>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_tennis'); return false;" href="/sports/tennis/" >ããã¹</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_liga'); return false;" href="/sports/liga/" >ãµãã«ã¼</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_lpga'); return false;" href="/sports/lpga/" >ã´ã«ã</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_rugby'); return false;" href="/sports/rugby/" >ã©ã°ãã¼</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_nba'); return false;" href="/sports/nba/" >ãã¹ã±ãããã¼ã«</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_excite'); return false;" href="/sports/excite/" >ãã¯ã·ã³ã°</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_ufc'); return false;" href="/sports/ufc/" >UFC-ç©¶æ¥µæ ¼éæ-</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_sports_whoiam'); return false;" href="/sports/whoiam/" >ãã©ãªã³ããã¯</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_sports_list'); return false;" href="/program_list/06" >ã¹ãã¼ãä¸è¦§</a></li>
+							</ul></dd>
+						</dl>
+						<dl class="__music">
+							<dt><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_music'); return false;" href="/music/" ><span>é³æ¥½</span></a></dt>
+							<dd><ul>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_music_japan'); return false;" href="/music/#japanese" >é¦æ¥½</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_music_overseas'); return false;" href="/music/#western" >æ´æ¥½</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_music_list'); return false;" href="/program_list/04" >é³æ¥½ä¸è¦§</a></li>
+							</ul></dd>
+						</dl>
+						<dl class="__stage">
+							<dt><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_stage'); return false;" href="/stage/" ><span>ã¹ãã¼ã¸</span></a></dt>
+							<dd><ul>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_musical'); return false;" href="/stage/musical/" >ãã¥ã¼ã¸ã«ã«</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_takarazuka'); return false;" href="/stage/takarazuka/" >å®å¡</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_met'); return false;" href="/stage/met/" >ã¡ãã­ããªã¿ã³ã»ãªãã©</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_stage_list'); return false;" href="/program_list/05" >ã¹ãã¼ã¸ä¸è¦§</a></li>
+							</ul></dd>
+						</dl>
+						<dl class="__anime">
+							<dt><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_anime'); return false;" href="/anime/" ><span>ã¢ãã¡</span></a></dt>
+							<dd><ul>
+								 <li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_anime_japan'); return false;" href="/anime/#japanese">æ¥æ¬ã®ã¢ãã¡</a></li>
+								 <li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_anime_overseas'); return false;" href="/anime/#overseas">æµ·å¤ã®ã¢ãã¡</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_anime_list'); return false;" href="/program_list/03">ã¢ãã¡ä¸è¦§</a></li>
+							</ul></dd>
+						</dl>
+						<dl class="__documentary">
+							<dt><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_documentary'); return false;" href="/documentary/"><span>ãã­ã¥ã¡ã³ã¿ãªã¼</span></a></dt>
+							<dd><ul>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_nfw'); return false;" href="/documentary/original/">ãã³ãã£ã¯ã·ã§ã³W/å½éå±åå¶ä½ãã­ã¸ã§ã¯ã</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_bbc'); return false;" href="/documentary/bbc/">BBC EARTH</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_documentary_whoiam'); return false;" href="/sports/whoiam/">ãã©ãªã³ããã¯</a></li>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_documentary_list'); return false;" href="/program_list/07">ãã­ã¥ã¡ã³ã¿ãªã¼ä¸è¦§</a></li>
+							</ul></dd>
+						</dl>
+						<dl class="__extra">
+							<dt><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_extra'); return false;" href="/extra/"><span>ã¨ã¯ã¹ãã©</span></a></dt>
+							<dd><ul>
+								<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_extra_list'); return false;" href="/program_list/08">ã¨ã¯ã¹ãã©ä¸è¦§</a></li>
+							</ul></dd>
+						</dl>
+					</div>
+					<ul class="__foot">
+						<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_list'); return false;" href="/program_list/">å¨çªçµãªã¹ã</a></li>
+						<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_ranking'); return false;" href="/ranking/">ã©ã³ã­ã³ã°</a></li>
+						<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_program_program'); return false;" href="/program/">ä»å¾ã®ããããçªçµ</a></li>
+					</ul>
+				</div>
+			</div>
+			</li>
+			<li class="__ondemand">
+				<a href="#ondemand"><span>ãããè¦è´</span></a>
+				<div class="nav__megamenu" id="ondemand">
+					<div class="container">
+						<div class="__navi">
+							<div class="__head row">
+								<div class="__title">æ¾éåæéä¿¡ä¸­</div>
+								<div class="__text"><span>æ¾éä¸­ã®çªçµããããã§æ¥½ãããï¼</span><span class="-min">â»å¨çªçµãå¯¾è±¡ã§ã¯ããã¾ããã</span><span class="-min">ãâ»è¦è´ã«ã¯ã­ã°ã¤ã³ãå¿è¦ã§ãã</span></div>
+							</div>
+							<div class="__content row">
+							</div>
+						</div>
+						<div class="__foot">
+							<div class="__wrap">
+								<div class="row">
+									<img class="js-lazy" data-original="/assets/img/lgo__wmod.svg" alt="WOWOWã¡ã³ãã¼ãºãªã³ããã³ã" src="/assets/img/lgo__wmod.svg">
+									<div class="__catch">âãã¤ã§ãã»ã©ãã§ãâæ¥½ããã<br>ãã¬ãä¼å¡éå®ã®çªçµéä¿¡ãµã¼ãã¹</div>
+								</div>
+								<div class="row __btn">
+									<a href="https://mod.wowow.co.jp/" target="_blank" class="btn__default" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_simulcast_mod');">è¦è´ã¯ãã¡ã</a>
+									<a href="http://www.wowow.co.jp/mod/" class="btn__default" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_simulcast_mod_service'); return false;">ãªã³ããã³ãç´¹ä»ãã¼ã¸ã¸</a>
+								</div>
+							</div>
+							<div class="__credit"></div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<li class="__service">
+				<a href="#service"><span>ãµã¼ãã¹</span></a>
+				<div class="nav__megamenu" id="service">
+					<div class="container">
+						<div class="__navi">
+							<div class="__box">
+								<div class="__heading">WOWOWããã£ã¨æ¥½ãã</div>
+								<ul class="row __content">
+									<li class="col-8">
+										<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_service_servicetop'); return false;" href="/service/" class="__item"><span class="__text">ãµã¼ãã¹ã¬ã¤ã</span></a>
+									</li>
+									<li class="col-8">
+										<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_service_fg'); return false;" href="/service/ichiran/" class="__item"><span class="__text">ãµã¼ãã¹ä¸è¦§</span></a>
+									</li>
+									<li class="col-8">
+										<a onclick="ga('send', 'event', 'header', 'Click', 'wol_pc_service_mod')" href="/mod/" class="__item"><span class="__text">WOWOWã¡ã³ãã¼ãºãªã³ããã³ã</span></a>
+									</li>
+
+									<li class="col-8">
+										<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_service_plusw'); return false;" href="/plusw/" class="__item"><span class="__text">ãã¬ã¼ã³ãï¼ãã©ã¹Wï¼</span></a>
+									</li>
+									<li class="col-8">
+										<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_service_ml'); return false;" href="/myw/ml/mlindex.php" class="__item"><span class="__text">ã¡ã«ãã¬</span></a>
+									</li>
+									<li class="col-8">
+										<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_service_external'); return false;" href="/service/external/" class="__item"><span class="__text">SNSå¬å¼ã¢ã«ã¦ã³ãä¸è¦§</span></a>
+									</li>
+
+									<li class="col-8">
+										<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_service_dpm'); return false;" href="/dpm/" class="__item"><span class="__text">eãã­ã°ã©ã ã¬ã¤ã</span></a>
+									</li>
+									<li class="col-8">
+										<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_service_eventinfo'); return false;" href="/eventinfo/" class="__item"><span class="__text">ã¤ãã³ã</span></a>
+									</li>
+									<li class="col-8">
+										<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_service_point');" href="http://point.wowow.co.jp/" class="__item" target="_blank"><span class="__text">WOWOWãã¤ã³ã</span></a>
+									</li>
+
+									<li class="col-8">
+										<a onclick="ga('send', 'event', 'header', 'Click', 'wol_pc_service_wowshop')" href="https://wowshop.jp/" target="_blank" class="__item"><span class="__text">wowshop</span></a>
+									</li>
+								</ul>
+							</div>
+							<div class="__box">
+								<div class="__heading">WOWOWããã£ã¨ããã¯ã«</div>
+								<ul class="row __content">
+									<li class="col-8">
+										<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_service_fc'); return false;" href="/fc/" class="__item"><span class="__text">WOWOWç´¹ä»å¶åº¦</span></a>
+									</li>
+									<li class="col-8">
+										<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_service_card'); return false;" href="/value/card/" class="__item"><span class="__text">WOWOWææºã«ã¼ã</span></a>
+									</li>
+									<li class="col-8">
+										<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_service_addon'); return false;" href="/join/add_on/" class="__item"><span class="__text">è¿½å å¥ç´</span></a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<li class="__support">
+				<a href="#support"><span>ãµãã¼ã</span></a>
+				<div class="nav__megamenu" id="support">
+					<div class="container">
+						<div class="__navi">
+							<ul>
+								<li>
+									<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_support');" href="https://support.wowow.co.jp/s/" target="_blank" class="__item"><span class="__text">ãµãã¼ãã»ãããããè³ªå</span></a>
+								</li>
+								<li>
+									<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_contact_term'); return false;" href="/support/contact_term.php" class="__item"><span class="__text">ãåãåãã</span></a>
+								</li>
+								<li>
+									<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_chat_support'); return false;" href="/service/chatguide/" class="__item"><span class="__text">ãã£ãããµãã¼ã</span></a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</nav>
+
+
+	<div class="__navigation-sub is-hidden-md">
+		<ul class="nav__member">
+			<li class="__member">
+				<a href="#login" class="__open"><span>ã­ã°ã¤ã³/IDç»é²</span></a>
+				<a href="#login" class="__closed"><span>ã­ã°ã¤ã³ä¸­</span></a>
+				<div class="nav__megamenu" class="login" id="login">
+					<div class="container">
+						<div class="__navi">
+							<ul class="nav__login-menu">
+								<li class="__open">
+									<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_login'); return false;" href="/member/login.php/rd/" class="-login js-loginUrl"><span class="__text">ã­ã°ã¤ã³</span></a>
+								</li>
+								<li class="__register __open">
+									<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_register');" href="/member/term.php" target="_blank" class="-register"><span class="__text">IDæ°è¦ç»é²</span></a>
+								</li>
+								<li class="__mywow">
+									<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_myw'); return false;" href="/my_wowow/" class="-my-wowow"><span class="__text">My WOWOW</span></a>
+								</li>
+								<li class="__closed">
+									<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_login_logout'); return false;" href="https://www.wowow.co.jp/member/logout.php" class="__logout -login"><span class="__text">ã­ã°ã¢ã¦ã</span></a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</li>
+			<li class="__program"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_schedule'); return false;" href="/schedule/"><span>çªçµè¡¨</span></a></li>
+		</ul>
+
+		<ul class="nav__support">
+			<li class="__join">
+				<a href="#join" class="__btn"><span class="__text">ãå å¥ã¯ãã¡ã</span></a>
+				<div class="nav__megamenu __join" id="join">
+					<div class="container">
+						<ul class="nav__join-menu">
+							<li class="-highlight"><a onclick="ga('send', 'event', 'header', 'Click', 'wol_pc_join_shinki')" href="/join/" class="__join" id="header_join_link" target="_blank">ãå å¥ã®ãç³ãè¾¼ã¿</a></li>
+							<li class="-beginner"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_beginner'); return false;" href="/join/guide/">ã¯ããã¦ã®æ¹ã¸</a></li>
+						</ul>
+						<ul class="nav__join-menu">
+							<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_join_addon'); return false;" href="/join/add_on/">è¿½å å¥ç´ã®ãç³ãè¾¼ã¿</a></li>
+							<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_join_re'); return false;" href="/join/re/">åå å¥ã®ãç³ãè¾¼ã¿</a></li>
+						</ul>
+					</div>
+				</div>
+			</li>
+			<li class="__join __add-on">
+				<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_pc_join_addon'); return false;" href="/join/add_on/" class="__btn"><span class="__text">è¿½å å¥ç´ã¯ãã¡ã</span></a>
+			</li>
+
+			<li class="__localsearch">
+				<form name="siteSearchForm" method="get" action="/search/">
+					<input type="search" name="serchProgramText" id="short_text-pc" placeholder="æ¤ç´¢" autocomplete="off" title="ãµã¤ãåæ¤ç´¢" tabindex="8" onclick="ga('send', 'event', 'header', 'Click', 'wol_pc_search');">
+					<input type="submit" name="search" value="æ¤ç´¢" class="is-hidden">
+				</form>
+			</li>
+		</ul>
+	</div>
+
+	
+	<div  class="__navigation-sub-md is-visible-md js-nav-md">
+		<div class="nav-sub-md">
+			<div class="__join-md">
+				<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_join_navi'); return false;" href="#join-sp" class="__open"><span class="__text">ãå å¥</span></a>
+				<a href="close" class="__close"><span class="__text">éãã</span></a>
+			</div>
+			<div class="__join-md __add-on">
+				<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_join_addon'); return false;" href="/join/add_on/" class="__open"><span class="__text">è¿½å å¥ç´</span></a>
+			</div>
+			<div class="__program"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_schedule'); return false;" href="/schedule/"><span class="__text">çªçµè¡¨</span></a></div>
+		</div>
+	</div>
+</div>
+</header>
+
+<div class="btn__burgermenu js-nav-md is-visible-md">
+	<a onclick="ga('send', 'event', 'header', 'Click', 'wol_sp_menu'); return false;" href="#menu-sp">
+		<span class="__icon">
+			<span class="__bar"></span>
+			<span class="__bar"></span>
+			<span class="__bar"></span>
+		</span>
+	</a>
+</div>
+
+<nav class="nav__drawermenu is-visible-md">
+	<ul>
+		<li id="menu-sp">
+			<div class="btn__burger">
+				<span class="__icon">
+					<span class="__bar"></span>
+					<span class="__bar"></span>
+					<span class="__bar"></span>
+				</span>
+			</div>
+			<div class="container">
+				<dl class="nav__cascade-menu __utility __search">
+					<dd>
+						<form name="siteSearchForm" method="get" action="/search/" class="__form">
+							<input type="search" name="serchProgramText" id="short_text-sp" placeholder="æ¤ç´¢" autocomplete="off" title="ãµã¤ãåæ¤ç´¢" onclick="ga('send', 'event', 'header', 'Click', 'wol_sp_search');" class="__input">
+							<input type="submit" class="is-hidden" name="searchProgramText" value="æ¤ç´¢">
+						</form>
+					</dd>
+				</dl>
+				<dl class="nav__cascade-menu __slide-menu">
+					<dd>
+						<ul>
+							<li class="__item">
+								<div class="__text -parent -search-genre">ã¸ã£ã³ã«ããæ¢ã</div>
+								<ul class="__list">
+									<li class="__item">
+										<div class="__text -parent"><span>æ ç»</span></div>
+										<ul class="__list">
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_movie'); return false;" href="/movie/">æ ç»TOP</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send','event','header','Click','wol_sp_program_movie_new'); return false;" href="/movie/#newmovie">æ°ä½æ ç»</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send','event','header','Click','wol_sp_program_movie_special'); return false;" href="/movie/#special">ç¹é</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send','event','header','Click','wol_sp_program_movie_list'); return false;" href="/program_list/01/">æ ç»ä¸è¦§</a></li>
+										</ul>
+									</li>
+								</ul>
+								<ul class="__list">
+									<li class="__item">
+										<div class="__text -parent"><span>ãã©ã</span></div>
+										<ul class="__list">
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_drama'); return false;" href="/drama/">ãã©ãTOP</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send','event','header','Click','wol_sp_program_original-drama'); return false;" href="/drama/original/">ãªãªã¸ãã«ãã©ã</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send','event','header','Click','wol_sp_program_kaigai-drama'); return false;" href="/drama/kaigai/">æµ·å¤ãã©ã</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send','event','header','Click','wol_sp_program_korea-drama'); return false;" href="/drama/korea/">éå½ãã©ã<br>ï¼ã¢ã¸ã¢å¨è¬ï¼</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send','event','header','Click','wol_sp_program_drama_list'); return false;" href="/program_list/02/">ãã©ãä¸è¦§</a></li>
+										</ul>
+									</li>
+								</ul>
+								<ul class="__list">
+									<li class="__item">
+										<div class="__text -parent"><span>ã¹ãã¼ã</span></div>
+										<ul class="__list">
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_sports'); return false;" href="/sports/">ã¹ãã¼ãTOP</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_tennis'); return false;" href="/sports/tennis/">ããã¹</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_liga'); return false;" href="/sports/liga/">ãµãã«ã¼</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_lpga'); return false;" href="/sports/lpga/">ã´ã«ã</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_rugby'); return false;" href="/sports/rugby/">ã©ã°ãã¼</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_nba'); return false;" href="/sports/nba/">ãã¹ã±ãããã¼ã«</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_excite'); return false;" href="/sports/excite/">ãã¯ã·ã³ã°</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_ufc'); return false;" href="/sports/ufc/">UFC-ç©¶æ¥µæ ¼éæ-</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_sports_whoiam'); return false;" href="/sports/whoiam/">ãã©ãªã³ããã¯</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_sports_list'); return false;" href="/program_list/06/" >ã¹ãã¼ãä¸è¦§</a></li>
+										</ul>
+									</li>
+								</ul>
+								<ul class="__list">
+									<li class="__item">
+										<div class="__text -parent"><span>é³æ¥½</span></div>
+										<ul class="__list">
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_music'); return false;" href="/music/">é³æ¥½TOP</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_music_japan'); return false;" href="/music/#japanese" >é¦æ¥½</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_music_overseas'); return false;" href="/music/#western" >æ´æ¥½</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_music_list'); return false;" href="/program_list/04/" >é³æ¥½ä¸è¦§</a></li>
+										</ul>
+									</li>
+								</ul>
+								<ul class="__list">
+									<li class="__item">
+										<div class="__text -parent"><span>ã¹ãã¼ã¸</span></div>
+										<ul class="__list">
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_stage'); return false;" href="/stage/">ã¹ãã¼ã¸TOP</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_musical'); return false;" href="/stage/musical/">ãã¥ã¼ã¸ã«ã«</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_takarazuka'); return false;" href="/stage/takarazuka/">å®å¡</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_met'); return false;" href="/stage/met/">ã¡ãã­ããªã¿ã³ã»ãªãã©</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_stage_list'); return false;" href="/program_list/05/" >ã¹ãã¼ã¸ä¸è¦§</a></li>
+										</ul>
+									</li>
+								</ul>
+								<ul class="__list">
+									<li class="__item">
+										<div class="__text -parent"><span>ã¢ãã¡</span></div>
+										<ul class="__list">
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_anime'); return false;" href="/anime/" >ã¢ãã¡TOP</a></li>
+								 			<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_anime_japan'); return false;" href="/anime/#japanese">æ¥æ¬ã®ã¢ãã¡</a></li>
+								 			<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_anime_overseas'); return false;" href="/anime/#overseas">æµ·å¤ã®ã¢ãã¡</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_anime_list'); return false;" href="/program_list/03/">ã¢ãã¡ä¸è¦§</a></li>
+										</ul>
+									</li>
+								</ul>
+								<ul class="__list">
+									<li class="__item">
+										<div class="__text -parent"><span>ãã­ã¥ã¡ã³ã¿ãªã¼</span></div>
+										<ul class="__list">
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_documentary'); return false;" href="/documentary/">ãã­ã¥ã¡ã³ã¿ãªã¼TOP</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_nfw'); return false;" href="/documentary/original/">ãã³ãã£ã¯ã·ã§ã³W/å½éå±åå¶ä½ãã­ã¸ã§ã¯ã</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_bbc'); return false;" href="/documentary/bbc/">BBC EARTH</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_documentary_whoiam'); return false;" href="/sports/whoiam/">ãã©ãªã³ããã¯</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_documentary_list'); return false;" href="/program_list/07/">ãã­ã¥ã¡ã³ã¿ãªã¼ä¸è¦§</a></li>
+										</ul>
+									</li>
+								</ul>
+								<ul class="__list">
+									<li class="__item">
+										<div class="__text -parent"><span>ã¨ã¯ã¹ãã©</span></div>
+										<ul class="__list">
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_extra'); return false;" href="/extra/">ã¨ã¯ã¹ãã©TOP</a></li>
+											<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_extra_list'); return false;" href="/program_list/08/">ã¨ã¯ã¹ãã©ä¸è¦§</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li class="__item">
+								<div class="__text -parent -search-recom"><span>ããããã»ä¸è¦§ããæ¢ã</span></div>
+								<ul class="__list">
+									<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_list'); return false;" href="/program_list/">å¨çªçµãªã¹ã</a></li>
+									<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_ranking'); return false;" href="/ranking/">ã©ã³ã­ã³ã°</a></li>
+									<li class="__item"><a class="__text" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_program_program'); return false;" href="/program/">ä»å¾ã®ããããçªçµ</a></li>
+								</ul>
+							</li>
+
+							<li class="__item">
+								<div class="__text -parent -net-viewing">ãããè¦è´</div>
+								<ul class="__list __mod">
+									<li>
+										<div class="__head">
+											<div class="__title">æ¾éåæéä¿¡ä¸­</div>
+											<div class="__normal-text">æ¾éã¨ååå®¹ããããã§æ¥½ãããï¼</div>
+											<div class="__content"></div>
+											<div class="__normal-text">
+												<p class="-min">â»å¨çªçµãå¯¾è±¡ã§ã¯ããã¾ããã</p>
+												<p class="-min">â»è¦è´ã«ã¯ã­ã°ã¤ã³ãå¿è¦ã§ãã</p>
+											</div>
+										</div>
+										<div class="__foot">
+											<div class="__title">WOWOWã¡ã³ãã¼ãºãªã³ããã³ã</div>
+											<a href="/mod/" class="__logo row" onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_simulcast_mod_service'); return false;">
+												<img alt="WOWOWã¡ã³ãã¼ãºãªã³ããã³ã" src="/assets/img/pct__service-mod.svg">
+												<div class="__catch">âãã¤ã§ãã»ã©ãã§ãâæ¥½ããããã¬ãä¼å¡éå®ã®çªçµéä¿¡ãµã¼ãã¹</div>
+											</a>
+											<div class="__normal-text">ã¹ãã¼ããã©ã³ã¾ãã¯ã¿ãã¬ããã§ãå©ç¨ã®å ´åã¯å°ç¨ã¢ããªããã¦ã³ã­ã¼ããã¦ãã ããã</div>
+											<div class="__download">
+												<dd class="is-visible-ios __button"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_simulcast_as');" href="https://itunes.apple.com/jp/app/line/id522318738" target="_blank"><img src="/assets/img/Download_on_the_App_Store_Badge_US-UK_135x40.svg" alt="App Store"></a></dd>
+												<dd class="is-visible-android __button"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_simulcast_gp');" href="https://play.google.com/store/apps/details?id=jp.ne.wowow.vod&hl=ja" target="_blank"><img src="/assets/img/google-play-badge.png" alt="Google Play"></a></dd>
+											</div>
+										</div>
+									</li>
+								</ul>
+							</li>
+							<li class="__item">
+								<div class="__text -parent -service"><span>ãµã¼ãã¹</span></div>
+								<ul class="__list">
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_service_servicetop'); return false;" href="/service/" class="__text"><span>ãµã¼ãã¹ã¬ã¤ã</span></a></li>
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_service_fg'); return false;" href="/service/ichiran/" class="__text"><span>ãµã¼ãã¹ä¸è¦§</span></a></li>
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_service_mod'); return false;" href="/mod/" class="__text"><span>WOWOWã¡ã³ãã¼ãºãªã³ããã³ã</span></a></li>
+
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_service_plusw'); return false;" href="/plusw/" class="__text"><span>ãã¬ã¼ã³ãï¼ãã©ã¹Wï¼</span></a></li>
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_service_ml'); return false;" href="/myw/ml/mlindex.php" class="__text"><span>ã¡ã«ãã¬</span></a></li>
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_service_external'); return false;" href="/service/external/" class="__text"><span>SNSå¬å¼ã¢ã«ã¦ã³ãä¸è¦§</span></a></li>
+
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_service_dpm'); return false;" href="/dpm/" class="__text"><span>eãã­ã°ã©ã ã¬ã¤ã</span></a></li>
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_service_eventinfo'); return false;" href="/eventinfo/" class="__text"><span>ã¤ãã³ã</span></a></li>
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_service_point');" href="http://point.wowow.co.jp/" class="__text" target="_blank"><span>WOWOWãã¤ã³ã</span></a></li>
+
+									<li class="__item"><a onclick="ga('send', 'event', 'header', 'Click', 'wol_sp_service_wowshop')" href="https://wowshop.jp/" target="_blank" class="__text"><span>wowshop</span></a></li>
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_service_fc'); return false;" href="/fc/"><span class="__text">WOWOWç´¹ä»å¶åº¦</span></a></li>
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_service_card'); return false;" href="/value/card/"><span class="__text">WOWOWææºã«ã¼ã</span></a></li>
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_service_addon'); return false;" href="/join/add_on/"><span class="__text">è¿½å å¥ç´</span></a></li>
+								</ul>
+							</li>
+							<li class="__item">
+								<div class="__text -parent -support"><span>ãµãã¼ã</span></div>
+								<ul class="__list">
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_support');" href="https://support.wowow.co.jp/s/" target="_blank"><span class="__text">ãµãã¼ãã»ãããããè³ªå</span></a></li>
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_contact_term'); return false;" href="/support/contact_term.php"><span class="__text">ãåãåãã</span></a></li>
+									<li class="__item"><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_chat_support'); return false;" href="/service/chatguide/"><span class="__text">ãã£ãããµãã¼ã</span></a></li>
+								</ul>
+							</li>
+							<li class="__item __open">
+								<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_login'); return false;" href="/member/login.php/rd/http%3A%2B%2Bwww.wowow.co.jp%2Bindex.php/" class="js-loginUrl"><span class="-login __text">ã­ã°ã¤ã³</span></a>
+
+							</li>
+							<li class="__item __closed">
+								<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_logout'); return false;" href="/member/logout.php"><span class="-login __text">ã­ã°ã¢ã¦ã</span></a>
+							</li>
+							<li class="__item __open">
+								<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_register');" href="/member/term.php" target="_blank"><span class="-register __text">IDæ°è¦ç»é²</span></a>
+							</li>
+							<li class="__item">
+								<a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_myw'); return false;" href="/my_wowow/"><span class="-my-wowow __text">My WOWOW</span></a>
+							</li>
+						</ul>
+					</dd>
+				</dl>
+				<!-- <input type="checkbox" name="pnl__toggle" id="pnl__service" class="__switch"> -->
+			</div>
+		</li>
+		<li id="join-sp">
+			<div class="container">
+				<ul class="nav__join-menu">
+					<li><a onclick="ga('send', 'event', 'header', 'Click', 'wol_sp_join_shinki')" href="/join/" class="btn__default __join" id="header_join_link_sp" target="_blank">ãã¾ããç³ãè¾¼ã</a></li>
+					<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_join_beginner'); return false;" href="/join/guide/" class="btn__default btn__beginner"><span>ã¯ããã¦ã®æ¹ã¸</span></a></li>
+					<li><a onclick="gaCustom(this,'send', 'event', 'header', 'Click', 'wol_sp_join_addon'); return false;" href="/join/add_on/" class="btn__default">è¿½å å¥ç´ã®ãæ¡å</a></li>
+					<li><a href="/join/re/" class="btn__default">åå å¥ã®ãæ¡å</a></li>
+				</ul>
+			</div>
+		</li>
+	</ul>
+</nav>
+
+<div class="mdl__emergency" id="emergency"><div class="container" ></div></div>
+<div class="mdl__leyout_anchor" id="leyout_anchor"></div>
+
+
+
+<!-- main -->
+<main>
+
+<!-- sports_header -->
+<link rel="stylesheet" href="/sports/sports_header/css/sports_header.css">
+<div id="sports_header">
+<div class="container2">
+	<p class="sports_header_title">SPORTS</p>
+
+	<div class="btn_share_wrapper">
+		<p class="btn_share is-visible-sd"><a class="btn__share" href="javascript:void(0);"></a></p>
+	</div>
+
+	<p class="sports_header_btn is-visible-sd">
+		<a href="javascript:void(0);"><!-- ãµã¤ãå --></a>
+	</p>
+	
+	<div class="sports_header_menu">
+	<ul>
+		<li id="sports_header_tennis"><a href="/sports/tennis/" onclick="ga('send', 'event', 'sports_header', 'Click', 'sportshd_tennis')">ããã¹</a></li>
+		<li id="sports_header_liga"><a href="/sports/liga/" onclick="ga('send', 'event', 'sports_header', 'Click', 'sportshd_liga')">ãµãã«ã¼</a></li>
+		<li id="sports_header_lpga"><a href="/sports/lpga/" onclick="ga('send', 'event', 'sports_header', 'Click', 'sportshd_lpga')">ã´ã«ã</a></li>
+		<li id="sports_header_rugby"><a href="/sports/rugby/" onclick="ga('send', 'event', 'sports_header', 'Click', 'sportshd_rugby')">ã©ã°ãã¼</a></li>
+		<li id="sports_header_nba"><a href="/sports/nba/" onclick="ga('send', 'event', 'sports_header', 'Click', 'sportshd_nba')">ãã¹ã±ãããã¼ã«</a></li>
+		<li id="sports_header_excite"><a href="/sports/excite/" onclick="ga('send', 'event', 'sports_header', 'Click', 'sportshd_excite')">ãã¯ã·ã³ã°</a></li>
+		<li id="sports_header_ufc"><a href="/sports/ufc/" onclick="ga('send', 'event', 'sports_header', 'Click', 'sportshd_ufc')">UFC-ç©¶æ¥µæ ¼éæ-</a></li>
+		<li id="sports_header_whoiam"><a href="/documentary/whoiam/" onclick="ga('send', 'event', 'sports_header', 'Click', 'sportshd_whoiam')">ãã©ãªã³ããã¯</a></li>
+	</ul>
+	</div>
+</div>
+</div>
+
+<!-- liga_header -->
+
+<div id="liga_header">
+<div class="container2">
+	<div class="logo_area">
+		<h1><a href="/sports/liga/">ã¹ãã¤ã³ãµãã«ã¼</a></h1>
+		<ul class="liga_menu">
+			<li><a href="/sports/liga/report/">è©¦åçµæã»é ä½</a></li>
+		</ul>
+		<p class="btn_share is-hidden-sd"><a class="btn__share" href="javascript:void(0);">SNSã§ã·ã§ã¢ãã</a></p>
+	</div>
+	<p class="btn_kanyu"><a href="/join/" target="_blank">ãªã¼ã¬ã<br class="is-hidden-sd">è¦ããªãWOWOWã¸<span class="icn-right_arrow"></span></a></p>
+</div>
+</div>
+
+<!-- news -->
+<!-- news -->
+<div id="news">
+<div id="news_inner" class="container2">
+	<ul>
+		<li><span><a href="info/detail_190226.html" target="_blank"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>çæ¾éï¼ä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³ç´åã¹ãã·ã£ã« ä»å¤èªãå°½ãããæ¥æ¬ãµãã«ã¼Ãä¸çæé«å³°ãHey! Say! JUMP è®å®å¤ªã®ã²ã¹ãåºæ¼ãæ±ºå®ï¼</a></span></li>
+	</ul>
+	<p class="btn"><a href="javascript:void(0);"><span class="icn-arrow_right"></span></a></p>
+</div>
+</div>
+
+<!-- main_visual -->
+<div id="main_visual">
+<div class="container2 guard">
+<img src="img2/main_visual0225.png" alt="ã¹ãã¤ã³ãµãã«ã¼ ãªã¼ã¬ã¨ã¹ããã§ã¼ã©" class="spImgChange">
+</div>
+</div>
+
+<!-- topbnr-->
+
+<div id="card">
+<div class="container2">
+
+<!-- <div class="clearfix">
+<div class="boxbox">
+<a href="howto/" target="_blank"><img src="./img2/bnr_180921.jpg" alt="ãªã¼ã¬ã®æ¥½ãã¿æ¹" width="49%"></a>ã<a href="#movie" ><img src="./img2/bnr_181213.jpg" alt="WOWOW SOCCER FACTORY" width="49%"></a>
+</div>
+</div>
+<br /> -->
+
+				<table style="width: 100%;" class="standard" cellspacing="0" cellpadding="5" summary="ããã¼">
+				<colgroup>
+				<col style="width:49%;" />
+				<col style="width:49%;" />
+				</colgroup>
+					<tbody>
+						<tr>
+						<td><!-- <a href="howto/" target="_blank"><img src="./img2/bnr_180921.jpg" alt="ãªã¼ã¬ã®æ¥½ãã¿æ¹" width="98%"></a> --><a href="classico/" target="_blank"><img src="./img2/bnr_190201.jpg" alt="ã¯ã©ã·ã³ç¹é" width="98%"></a></td>
+						<td><a href="#movie" ><img src="./img2/bnr_181213.jpg" alt="WOWOW SOCCER FACTORY" width="98%"></a></td>
+						</tr>
+					</tbody>
+				</table>
+<br />
+				<table style="width: 100%;" class="standard" cellspacing="0" cellpadding="5" summary="ããã¼">
+				<colgroup>
+				<col style="width:49%;" />
+				<col style="width:49%;" />
+				</colgroup>
+					<tbody>
+						<tr>
+						<td><a href="info/detail_190117.html" target="_blank"><img src="./img2/bnr_190118.jpg" alt="euro" width="98%"></a></td>
+						<td><a href="https://www.wowow.co.jp/detail/113404" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'detail')"><img src="./img2/bnr_190205.jpg" alt="MWAM" width="98%"></a></td>
+						</tr>
+					</tbody>
+				</table>
+<br />
+
+<!--<center><p class="btn_wmod"><a href="/sports/liga/lp/" target="_blank"><img src="/sports/liga/img2/bnr_ss.png" width="100%"  alt="ã¯ã©ã·ã³"></a></p></center><br /><br />-->
+<!-- <p class="btn_wmod"><a href="https://twitter.com/wowow_liga" class="wmod_link" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_present')"><img src="./img2/bnr_190107.jpg" alt="MAN WITH A MISSION" width="100%"></a></p><br /> -->
+
+<!-- <center><p class="btn_wmod"><a href="info/detail_190117.html" target="_blank"><img src="/sports/liga/img2/bnr_190118.jpg" width="100%" alt="euro"></a></p></center><br />
+
+<p><center><a href="https://twitter.com/wowow_liga" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_present')"><img src="./img2/bnr_190107.jpg" alt="MAN WITH A MISSION" width="60%"></a></center></p><br /> -->
+
+
+<!-- onair -->
+
+<h2 class="common_title">Liga Espa&ntilde;ola æ¾éæå ±</h2>
+
+	<dl>
+		<dt>
+			<p class="no">ç¬¬26ç¯</p><!-- <li class="pickup"> -->
+			<!-- <p class="period">/<span>()</span> ï½ /<span>()</span></p> -->
+			<div class="plus">
+			<div class="plus_inner">
+				<span class="plus01"></span>
+				<span class="plus02"></span>
+			</div>
+			</div>
+		</dt>
+		<dd>
+			<ul>
+				<li><!-- 01 -->
+					<div class="date">
+						3/2<span class="small">(å)æ·±å¤</span>0:00ï½<!-- <br /><small>â»ãªãã¼ãæ¾éãã</small> -->ã<br class="is-visible-md"><!--<span class="icn-wowow-ondemande">WOWOWã¡ã³ãã¼ãºãªã³ããã³ã</span>--><span class="icn-wowow-live">WOWOWã©ã¤ã</span><span class="lbl-tv-red">ç</span>
+					</div>
+					<div class="match">
+						<div class="match_inner">
+							<div class="club1">ãã¸ã£ã¬ã¢ã«<img src="./img2/club_logo_villarreal.png" alt="ãã¸ã£ã¬ã¢ã«"></div>
+							<div class="vs">VS</div>
+							<div class="club2"><img src="./img2/club_logo_alaves.png" alt="ã¢ã©ãã¹">ã¢ã©ãã¹</div>
+						</div>
+						<!-- <center><p>ï½ãããªã¼ãã»ãã¼ãã¼ï½</p></center> -->
+						<div class="outline">è§£èª¬ï¼<a href="#" class="js-modal" data-target="okudera">å¥¥å¯ºåº·å½¦</a> / å®æ³ï¼ææ²¢æå¼<br />ãã¼ãã¿ã¤ã ä¼ç»ï¼
+						<span style="color:#c70852">å½çæ¯ã¯ã©ã·ã³ æºæ±ºå2ndã¬ã° ãã¤ã¸ã§ã¹ã</span></div>
+					</div>
+					<div class="wmod">
+						<a href="https://mod.wowow.co.jp/" class="wmod_link" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_wmod')">ã©ã¤ãéä¿¡</a><!-- <br /><center><img src="./img2/icon_4k.png" width="90" style="margin:5px 0 5px 0" alt="4Kè¦è´å¯¾å¿"/></center> -->
+					</div>
+				</li>
+				<li><!-- 00 -->
+					<div class="date">
+						3/3<span class="small">(æ¥)åå</span>4:15ï½<!-- <br /><small>â»ãªãã¼ãæ¾éãã</small> -->ã<br class="is-visible-md"><!--<span class="icn-wowow-ondemande">WOWOWã¡ã³ãã¼ãºãªã³ããã³ã</span>--><span class="icn-wowow-live">WOWOWã©ã¤ã</span><span class="lbl-tv-red">ç</span>
+					</div>
+					<div class="match">
+						<div class="match_inner">
+							<div class="club1">
+							<p style="text-align:center;">ã­ãã¯ãªãã¾ã§ãã¨ï¼ï¼åï¼<br />ä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³<br />ç¾å°çºããããªã¼ãææ°æå ±</p>
+						</div>
+						</div>
+					</div>
+					<div class="wmod">
+					</div>
+				</li>
+				<li class="pickup"><!-- 02 -->
+					<div class="date">
+						3/3<span class="small">(æ¥)åå</span>4:30ï½<br /><small>â»ãªãã¼ãæ¾éãã</small>ã<br class="is-visible-md"><!-- <span class="icn-wowow-ondemande">WOWOWã¡ã³ãã¼ãºãªã³ããã³ã</span> --><span class="icn-wowow-live">WOWOWã©ã¤ã</span><span class="lbl-tv-red">ç</span>
+					</div>
+					<div class="match">
+						<div class="match_inner">
+							<div class="club1">Rã»ãããªã¼ã<img src="./img2/club_logo_realmadrid.png" alt="Rã»ãããªã¼ã"></div>
+							<div class="vs">VS</div>
+							<div class="club2"><img src="./img2/club_logo_barcelona.png" alt="ãã«ã»ã­ã">ãã«ã»ã­ã</div>
+						</div>
+						<center><p>ï½ä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³ï½</p></center>
+						<div class="outline">è§£èª¬ï¼<a href="#" class="js-modal" data-target="miyazawa">å®®æ¾¤ãã·ã§ã«</a> / å®æ³ï¼æ¨ªåæ´æ¨¹ / ã²ã¹ãè§£èª¬ï¼è¥¿éæï¼ãµãã«ã¼æå°èï¼/ <br />ã¹ã¿ã¸ãªè§£èª¬ï¼<a href="#" class="js-modal" data-target="noguchi">éå£å¹¸å¸</a> / ã¹ã¿ã¸ãªMCï¼ããï¼ããã«ãã£ï¼/ ã¢ã·ã¹ã¿ã³ãï¼è»éä»ç¾<br />ãã¼ãã¿ã¤ã ä¼ç»ï¼
+						ç¾å°å®æ³å¸­ããçã¬ãã¼ã</div>
+					</div>
+					<div class="wmod">
+						<a href="https://mod.wowow.co.jp/" class="wmod_link" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_wmod')">ã©ã¤ãéä¿¡</a><br /><center><img src="./img2/icon_4k.png" width="90" style="margin:5px 0 5px 0" alt="4Kè¦è´å¯¾å¿"/></center>
+					</div>
+				</li>
+				<li><!-- 03 -->
+					<div class="date">
+						3/3<span class="small">(æ¥)æ·±å¤</span>0:00ï½<!-- <br /><small>â»ãªãã¼ãæ¾éãã</small> -->ã<br class="is-visible-md"><!-- <span class="icn-wowow-ondemande">WOWOWã¡ã³ãã¼ãºãªã³ããã³ã</span> --><span class="icn-wowow-live">WOWOWã©ã¤ã</span><span class="lbl-tv-red">ç</span>
+					</div>
+					<div class="match">
+						<div class="match_inner">
+							<div class="club1">ããã£ã¹<img src="./img2/club_logo_betis.png" alt="ããã£ã¹"></div>
+							<div class="vs">VS</div>
+							<div class="club2"><img src="./img2/club_logo_getafe.png" alt="ãã¿ãã§">ãã¿ãã§</div>
+						</div>
+						<!-- <center><p>ï½ãã«ã»ã­ãã»ãã¼ãã¼ï½</p></center> -->
+						<div class="outline">è§£èª¬ï¼<a href="#" class="js-modal" data-target="tsunami">é½ä¸¦æå²</a> / å®æ³ï¼ç°ä¸­å¤§å£«<br />ãã¼ãã¿ã¤ã ä¼ç»ï¼
+						ç¾å°ç´asã§è¦ãåç¯ææéå¬ãã¤ã¸ã§ã¹ãï¼åç¯ã¹ã¼ãã¼ãã¬ã¼</div>
+					</div>
+					<div class="wmod">
+						<a href="https://mod.wowow.co.jp/" class="wmod_link" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_wmod')">ã©ã¤ãéä¿¡</a>
+					</div>
+				</li>
+				<li><!-- 04 -->
+					<div class="date">
+						3/3<span class="small">(æ¥)æ·±å¤</span>2:15ï½<br /><small>â»ãªãã¼ãæ¾éãã</small>ã<br class="is-visible-md"><!-- <span class="icn-wowow-ondemande">WOWOWã¡ã³ãã¼ãºãªã³ããã³ã</span> --><span class="icn-wowow-live">WOWOWã©ã¤ã</span><span class="lbl-tv-red">ç</span>
+					</div>
+					<div class="match">
+						<div class="match_inner">
+							<div class="club1">Rã»ã½ã·ã¨ã<img src="./img2/club_logo_sociedad.png" alt="Rã»ã½ã·ã¨ã"></div>
+							<div class="vs">VS</div>
+							<div class="club2"><img src="./img2/club_logo_atleticomadrid.png" alt="Aã»ãããªã¼ã">Aã»ãããªã¼ã</div>
+						</div>
+						<!-- <center><p>ï½ä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³ï½</p></center> -->
+						<div class="outline">è§£èª¬ï¼<a href="#" class="js-modal" data-target="miyazawa">å®®æ¾¤ãã·ã§ã«</a> / å®æ³ï¼æ¨ªåæ´æ¨¹ / ã²ã¹ãè§£èª¬ï¼è¥¿éæï¼ãµãã«ã¼æå°èï¼/ <br />ã¹ã¿ã¸ãªè§£èª¬ï¼<a href="#" class="js-modal" data-target="ogura">å°åå</a> / ã¹ã¿ã¸ãªé²è¡ï¼ä¹ä¿ç°åå½¦<br />ãã¼ãã¿ã¤ã ä¼ç»ï¼
+						ç¾å°å®æ³å¸­ããçã¬ãã¼ã</div>
+					</div>
+					<div class="wmod">
+						<a href="https://mod.wowow.co.jp/" class="wmod_link" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_wmod')">ã©ã¤ãéä¿¡</a>
+					</div>
+				</li>
+				<li><!-- 05 -->
+					<div class="date">
+						3/4<span class="small">(æ)åå</span>4:35ï½<!-- <br /><small>â»ãªãã¼ãæ¾éãã</small> -->ã<br class="is-visible-md"><!-- <span class="icn-wowow-ondemande">WOWOWã¡ã³ãã¼ãºãªã³ããã³ã</span> --><!-- <span class="icn-wowow-prime">WOWOWãã©ã¤ã </span> --><span class="icn-wowow-live">WOWOWã©ã¤ã</span><span class="lbl-tv-red">ç</span>
+					</div>
+					<div class="match">
+						<div class="match_inner">
+							<div class="club1">ãã¬ã³ã·ã¢<img src="./img2/club_logo_valencia.png" alt="ãã¬ã³ã·ã¢"></div>
+							<div class="vs">VS</div>
+							<div class="club2"><img src="./img2/club_logo_athletic.png" alt="ã¢ã¹ã¬ãã£ãã¯">ã¢ã¹ã¬ãã£ãã¯</div>
+						</div>
+						<!-- <center><p>ï½ä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³ï½</p></center> -->
+						<div class="outline">è§£èª¬ï¼<a href="#" class="js-modal" data-target="yasunaga">å®æ°¸è¡å¤ªé</a> / å®æ³ï¼å±±ç°æ³°ä¸<br />ãã¼ãã¿ã¤ã ä¼ç»ï¼
+						è§£èª¬ãã¬ã¼ å®æ°¸'s eye</div>
+					</div>
+					<div class="wmod">
+						<a href="https://mod.wowow.co.jp/" class="wmod_link" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_wmod')">ã©ã¤ãéä¿¡</a>
+					</div>
+				</li>
+
+				<li class="digest">
+					<div class="digest_date">
+						3/4<span class="small">(æ)ãã</span>8:00ï½<br><small>â»ãªãã¼ãæ¾éãã</small>ã<br class="is-visible-ld is-hidden-md"><span class="icn-wowow-live">WOWOWã©ã¤ã</span>
+					</div>
+					<div class="digest_title">ãªã¼ã¬ãã¤ã¸ã§ã¹ãï¼ç¬¬26ç¯</div>
+					<div class="digest_outline">MCï¼<a href="#" class="js-modal" data-target="hide">ãã(ããã«ãã£)</a>ãè§£èª¬ï¼<a href="#" class="js-modal" data-target="kitazawa">åæ¾¤è±ª</a>ãã¢ã·ã¹ã¿ã³ãï¼è»éä»ç¾
+					<br />ãç¹éãã¯ã©ã·ã³ãã­ã¥ã¡ã³ã</div>
+				</li>
+			</ul>
+		</dd>
+	</dl>
+
+<br />
+
+<p id="attention">â»ããã¼ãã¿ã¤ã ä¼ç»ãããªã¼ã¬ãã¤ã¸ã§ã¹ãï¼ãã®ä¼ç»ã¯å¤æ´ã«ãªãå¯è½æ§ãããã¾ãã<br />
+&raquo; <a target="_blank" href="https://www.wowow.co.jp/service/4k/">4Kæ åã§ããæ¥½ãã¿ããã ããå®è¨¼å®é¨ãå®æ½ãããã¾ãã</a></p>
+<p class="btn_ranking"><a href="/sports/liga/report/">è©¦åçµæã»é ä½ãç¢ºèª<span class="icn-arrow_right"></span></a></p>
+<!--<p class="btn_wmod"><a href="bestofclasico_vote/" class="wmod_link" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_present')"><img src="/sports/liga/img2/bnr_0921.jpg" alt="ãã¹ãã»ãªãã»ã¯ã©ã·ã³"></a></p><br /> -->
+</div>
+</div>
+
+
+<!-- program2 -->
+<div id="program2">
+<div class="container2">
+	<h2 class="common_title">é¢é£çªçµæ¾éäºå®</h2>
+	<ul>
+		<li>
+			<a href="https://www.wowow.co.jp/detail/113404/024/01" class="wmod_link" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_detail')">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="./img2/program_190122.jpg" alt="ãªã¼ã¬ãã¤ã¸ã§ã¹ãï¼ã¯ã©ã·ã³æ¡å¤§ç with MAN WITH A MISSION"></p>
+				<p class="title">ãªã¼ã¬ãã¤ã¸ã§ã¹ãï¼ã¯ã©ã·ã³æ¡å¤§ç with MAN WITH A MISSION</p>
+				<p class="text">ãµãã«ã¼ãã¡ã³å¿è¦ã®ãªã¼ã¬æå ±çªçµãé±æ«ã«æ¾éããå¨è©¦åã®å¨ã´ã¼ã«ã«å ãã¦ãè²´éãªé¸æã¤ã³ã¿ãã¥ã¼ãç¹éä¼ç»ããå±ãããã</p>
+				<p class="oa">2/26(ç«)ãã6:45<!-- <span style="font-size: 0.8em;">â»ä¸­æ­¢ã®å ´åãã</span> --></p>
+				<p class="spec"><span class="icn-wowow-live">WOWOWã©ã¤ã</span></p>
+			</a>
+		</li>
+		<li>
+			<a href="https://www.wowow.co.jp/music/mwam/" class="wmod_link" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_detail')">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="./img2/program_190107.jpg" alt="MAN WITH A MISSION ãã³ã¦ã£ãºç²å­åã¹ãã·ã£ã«"></p>
+				<p class="title">MAN WITH A MISSION ãã³ã¦ã£ãºç²å­åã¹ãã·ã£ã«</p>
+				<p class="text">ç²å­åã©ã¤ãã®æ¾éãè¨å¿µãã¦MAN WITH A MISSIONã3ã«æé£ç¶ã§å¤§ç¹éï¼</p>
+				<p class="oa">2/26(ç«)ãã8:30<!-- <span style="font-size: 0.8em;">â»ä¸­æ­¢ã®å ´åãã</span> --></p>
+				<p class="spec"><span class="icn-wowow-live">WOWOWã©ã¤ã</span></p>
+			</a>
+		</li>
+		<li>
+			<a href="https://www.wowow.co.jp/detail/114603/-/01" class="wmod_link" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_detail')">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="./img2/program_190225.jpg" alt="çæ¾éï¼ä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³ç´åã¹ãã·ã£ã« ä»å¤èªãå°½ãããæ¥æ¬ãµãã«ã¼Ãä¸çæé«å³° "></p>
+				<p class="title">çæ¾éï¼ä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³ç´åã¹ãã·ã£ã« ä»å¤èªãå°½ãããæ¥æ¬ãµãã«ã¼Ãä¸çæé«å³°ã</p>
+				<p class="text">ã­ã·ã¢ï¼·æ¯ã§æ¥æ¬ä»£è¡¨ãçããè¥¿éæã¨ãªã¼ã¬è§£èª¬ã§ããªãã¿ã®å®®æ¾¤ãã·ã§ã«ããç®åã«è¿«ãä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³ãããã«æ¥æ¬ãµãã«ã¼ã«ã¤ãã¦ç±ããæ·±ããèªãå°½ããã</p>
+				<p class="oa">3/1(é)ãã10:00 ã»ã<!-- <span style="font-size: 0.8em;">â»ä¸­æ­¢ã®å ´åãã</span> --></p>
+				<p class="spec"><span class="icn-wowow-live">WOWOWã©ã¤ã</span><!-- <span class="icn-wowow-prime">WOWOWãã©ã¤ã </span> --><span class="lbl-tv-red">ç¡æ</span></p>
+			</a>
+		</li>
+		<li>
+			<a href="https://www.wowow.co.jp/detail/113404/" class="wmod_link" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_detail')">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="/sports/liga/img2/program_digest.jpg" alt="ãªã¼ã¬ãã¤ã¸ã§ã¹ãï¼"></p>
+				<p class="title">ãªã¼ã¬ãã¤ã¸ã§ã¹ãï¼</p>
+				<p class="text">ãµãã«ã¼ãã¡ã³å¿è¦ã®ãªã¼ã¬æå ±çªçµãé±æ«ã«éå¬ãããå¨è©¦åã®å¨ã´ã¼ã«ã«å ãã¦ãè²´éãªé¸æã¤ã³ã¿ãã¥ã¼ãç¹éä¼ç»ããå±ãããã</p>
+				<p class="oa">3/4(æ)ãã8:00 ã»ã</p>
+				<p class="spec"><span class="icn-wowow-live">WOWOWã©ã¤ã</span></p>
+			</a>
+		</li>
+	</ul>
+</div>
+</div>
+<!-- <span class="icn-wowow-prime">WOWOWãã©ã¤ã </span> -->
+
+
+<!-- present -->
+<!-- present -->
+<div id="present">
+<div class="container2">
+	<h2 class="common_title">ãã¬ã¼ã³ã</h2>
+	<ul>
+		<li>
+			<a href="https://www.wowow.co.jp/plusw/present.php?p_id=6678" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_present')">
+				<div class="photo">
+				<div class="photo_inner">
+					<img src="./img2/present_190219.jpg" alt="ããã»ã»ãã¼ã¸ã§ã¹ï¼Rã»ãããªã¼ãï¼ç´ç­ãµã¤ã³å¥ãã¦ããã©ã¼ã ã1åæ§ã«ãã¬ã¼ã³ãï¼">
+				</div>
+				</div>
+				<div class="copy">
+					<p class="title">ããã»ã»ãã¼ã¸ã§ã¹ï¼Rã»ãããªã¼ãï¼ç´ç­ãµã¤ã³å¥ãã¦ããã©ã¼ã ã1åæ§ã«ãã¬ã¼ã³ãï¼</p>
+					<p class="limit">ç· åï¼4/1(æ)24:00</p>
+				</div>
+			</a>
+		</li>
+
+		<li>
+			<a href="https://www.wowow.co.jp/plusw/present.php?p_id=6677" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_present')">
+				<div class="photo">
+				<div class="photo_inner">
+					<img src="./img2/present_190218.jpg" alt="ããã§ã»ãã§ã«ãã³ãã¹ï¼Rã»ãããªã¼ãï¼ç´ç­ãµã¤ã³å¥ãã¦ããã©ã¼ã ã1åæ§ã«ãã¬ã¼ã³ãï¼">
+				</div>
+				</div>
+				<div class="copy">
+					<p class="title">ããã§ã»ãã§ã«ãã³ãã¹ï¼Rã»ãããªã¼ãï¼ç´ç­ãµã¤ã³å¥ãã¦ããã©ã¼ã ã1åæ§ã«ãã¬ã¼ã³ãï¼</p>
+					<p class="limit">ç· åï¼4/1(æ)24:00</p>
+				</div>
+			</a>
+		</li>
+		<li>
+			<a href="https://www.wowow.co.jp/plusw/present.php?p_id=6676" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_present')">
+				<div class="photo">
+				<div class="photo_inner">
+					<img src="./img2/present_190217.jpg" alt="ã±ã¤ã©ã¼ã»ããã¹ï¼Rã»ãããªã¼ãï¼ç´ç­ãµã¤ã³å¥ãã¦ããã©ã¼ã ã1åæ§ã«ãã¬ã¼ã³ãï¼">
+				</div>
+				</div>
+				<div class="copy">
+					<p class="title">ã±ã¤ã©ã¼ã»ããã¹ï¼Rã»ãããªã¼ãï¼ç´ç­ãµã¤ã³å¥ãã¦ããã©ã¼ã ã1åæ§ã«ãã¬ã¼ã³ãï¼</p>
+					<p class="limit">ç· åï¼4/1(æ)24:00</p>
+				</div>
+			</a>
+		</li>
+		<li>
+			<a href="https://www.wowow.co.jp/plusw/present.php?p_id=6675" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_present')">
+				<div class="photo">
+				<div class="photo_inner">
+					<img src="./img2/present_190216.jpg" alt="ã¢ã»ã³ã·ãªï¼Rã»ãããªã¼ãï¼ç´ç­ãµã¤ã³å¥ãã­ã£ããã1åæ§ã«ãã¬ã¼ã³ãï¼">
+				</div>
+				</div>
+				<div class="copy">
+					<p class="title">ã¢ã»ã³ã·ãªï¼Rã»ãããªã¼ãï¼ç´ç­ãµã¤ã³å¥ãã­ã£ããã1åæ§ã«ãã¬ã¼ã³ãï¼</p>
+					<p class="limit">ç· åï¼4/1(æ)24:00</p>
+				</div>
+			</a>
+		</li>
+		<li>
+			<a href="https://www.wowow.co.jp/plusw/present.php?p_id=6669" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_present')">
+				<div class="photo">
+				<div class="photo_inner">
+					<img src="./img2/present_190215.jpg" alt="ããªã¼ã¬ãã¤ã¸ã§ã¹ãï¼ãçªçµåé²è¦³è¦§ã¸5çµ10åæ§ãç¹æ´¾å¡ã¨ãã¦ãæå¾ï¼">
+				</div>
+				</div>
+				<div class="copy">
+					<p class="title">ããªã¼ã¬ãã¤ã¸ã§ã¹ãï¼ãçªçµåé²è¦³è¦§ã¸5çµ10åæ§ãç¹æ´¾å¡ã¨ãã¦ãæå¾ï¼</p>
+					<p class="limit">ç· åï¼3/8(é)10:00</p>
+				</div>
+			</a>
+		</li>
+		<li>
+			<a href="https://www.wowow.co.jp/plusw/present.php?p_id=6612" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_present')">
+				<div class="photo">
+				<div class="photo_inner">
+					<img src="./img2/present_180107.jpg" alt="ã¸ã£ã³ã»ã±ã³ã»ã¸ã§ãã¼ã®ã¹ãã¤ã³åç£">
+				</div>
+				</div>
+				<div class="copy">
+					<p class="title">ã¸ã£ã³ã»ã±ã³ã»ã¸ã§ãã¼ã®ã¹ãã¤ã³åç£</p>
+					<p class="limit">ç· åï¼2/28(æ¨)24:00</p>
+				</div>
+			</a>
+		</li>
+
+	</ul>
+</div>
+</div>
+
+<!-- movie -->
+
+<!-- movie -->
+<div id="movie">
+<div class="container2">
+<h2 class="common_title">ãåç»ãWOWOW SOCCER FACTORY</h2>
+<p class="btn_wmod"><img src="./img2/bnr_WOWOWSOCCERFACTORY.jpg" alt="ãåç»ãWOWOW SOCCER FACTORY" width="100%"></p><br />
+<ul>
+	<li><!-- å¬éæ¥2/26 -->
+		<a class="js-modal" href="./douga.html?id=625361" data-movie-title="ãªã¼ã¬ã¼ã« é´æ¨ç¾ç¾½ SNS de LaLigaï¼ããã«ã»ã­ï¼ã¬ã¢ã«ã»ãããªã¼ãï¼å®¶æã¨ã®ä¼æ¥ã" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190226a.jpg" alt="ãªã¼ã¬ã¼ã« é´æ¨ç¾ç¾½ SNS de LaLigaï¼ããã«ã»ã­ï¼ã¬ã¢ã«ã»ãããªã¼ãï¼å®¶æã¨ã®ä¼æ¥ã"></p>
+			<div class="copy">
+			<p class="text">ãªã¼ã¬ã¼ã« é´æ¨ç¾ç¾½ SNS de LaLigaï¼ããã«ã»ã­ï¼ã¬ã¢ã«ã»ãããªã¼ãï¼å®¶æã¨ã®ä¼æ¥ã</p>
+			</div>
+		</a>
+	</li>
+	<li><!-- å¬éæ¥2/26 -->
+		<a class="js-modal" href="./douga.html?id=636653" data-movie-title="ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #6ãã¸ã§ã«ãã£ã»ã¢ã«ãï¼ãã«ã»ã­ãï¼ã¹ãã¤ã³ä»£è¡¨ï¼ç¬å ææ°ã¤ã³ã¿ãã¥ã¼" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190226b.jpg" alt="ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #6ãã¸ã§ã«ãã£ã»ã¢ã«ãï¼ãã«ã»ã­ãï¼ã¹ãã¤ã³ä»£è¡¨ï¼ç¬å ææ°ã¤ã³ã¿ãã¥ã¼"></p>
+			<div class="copy">
+			<p class="text">ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #6ãã¸ã§ã«ãã£ã»ã¢ã«ãï¼ãã«ã»ã­ãï¼ã¹ãã¤ã³ä»£è¡¨ï¼ç¬å ææ°ã¤ã³ã¿ãã¥ã¼</p>
+			</div>
+		</a>
+	</li>
+	<li><!-- å¬éæ¥2/25 -->
+		<a class="js-modal" href="./douga.html?id=605464" data-movie-title="âç¬¬26ç¯ æ¾éäºå®â" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190225a.jpg" alt="âç¬¬26ç¯ æ¾éäºå®â"></p>
+			<div class="copy">
+			<p class="text">âç¬¬26ç¯ æ¾éäºå®â</p>
+			</div>
+		</a>
+	</li>
+	<li><!-- å¬éæ¥2/25 -->
+		<a class="js-modal" href="./douga.html?id=628633" data-movie-title="ã¬ãªã»ã¡ãã· ã¹ã¼ãã¼ãã¬ã¼éï¼ãªã¼ã¬ã»ã¨ã¹ããã§ã¼ã© 18-19ã·ã¼ãºã³" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190225b.jpg" alt="ã¬ãªã»ã¡ãã· ã¹ã¼ãã¼ãã¬ã¼éï¼ãªã¼ã¬ã»ã¨ã¹ããã§ã¼ã© 18-19ã·ã¼ãºã³"></p>
+			<div class="copy">
+			<p class="text">ã¬ãªã»ã¡ãã· ã¹ã¼ãã¼ãã¬ã¼éï¼ãªã¼ã¬ã»ã¨ã¹ããã§ã¼ã© 18-19ã·ã¼ãºã³</p>
+			</div>
+		</a>
+	</li>
+	<li><!-- å¬éæ¥2/25 -->
+		<a class="js-modal" href="./douga.html?id=623672" data-movie-title="ç¬¬25ç¯ Aã»ãããªã¼ã vs ãã¸ã£ã¬ã¢ã« ãã¤ã©ã¤ã" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190225c.jpg" alt="ç¬¬25ç¯ Aã»ãããªã¼ã vs ãã¸ã£ã¬ã¢ã« ãã¤ã©ã¤ã"></p>
+			<div class="copy">
+			<p class="text">ç¬¬25ç¯ Aã»ãããªã¼ã vs ãã¸ã£ã¬ã¢ã« ãã¤ã©ã¤ã</p>
+			</div>
+		</a>
+	</li>
+	<li><!-- å¬éæ¥2/19 -->
+		<a class="js-modal" href="./douga.html?id=625357" data-movie-title="ãªã¼ã¬ã¼ã« é´æ¨ç¾ç¾½ SNS de LaLigaï¼ãã¢ã«ãã¥ã¼ã«ï¼ãã«ã»ã­ãï¼ãæè¬ã¨ææãè¾¼ãããã¤ã¼ãï¼ã" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190219a.jpg" alt="ãªã¼ã¬ã¼ã« é´æ¨ç¾ç¾½ SNS de LaLigaï¼ãã¢ã«ãã¥ã¼ã«ï¼ãã«ã»ã­ãï¼ãæè¬ã¨ææãè¾¼ãããã¤ã¼ãï¼ã"></p>
+			<div class="copy">
+			<p class="text">ãªã¼ã¬ã¼ã« é´æ¨ç¾ç¾½ SNS de LaLigaï¼ãã¢ã«ãã¥ã¼ã«ï¼ãã«ã»ã­ãï¼ãæè¬ã¨ææãè¾¼ãããã¤ã¼ãï¼ã</p>
+			</div>
+		</a>
+	</li>
+	<li><!-- å¬éæ¥2/19 -->
+		<a class="js-modal" href="./douga.html?id=628611" data-movie-title="ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #5ãã¬ãªã»ã¡ãã·ç¹å¥ã¤ã³ã¿ãã¥ã¼å¾ç¯" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190219b.jpg" alt="ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #5ãã¬ãªã»ã¡ãã·ç¹å¥ã¤ã³ã¿ãã¥ã¼å¾ç¯"></p>
+			<div class="copy">
+			<p class="text">ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #5ãã¬ãªã»ã¡ãã·ç¹å¥ã¤ã³ã¿ãã¥ã¼å¾ç¯</p>
+			</div>
+		</a>
+	</li>
+	<li><!-- å¬éæ¥2/19 -->
+		<a class="js-modal" href="./douga.html?id=636649" data-movie-title="ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #4ãã¬ãªã»ã¡ãã·ç¹å¥ã¤ã³ã¿ãã¥ã¼åç¯" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190219c.jpg" alt="ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #4ãã¬ãªã»ã¡ãã·ç¹å¥ã¤ã³ã¿ãã¥ã¼åç¯"></p>
+			<div class="copy">
+			<p class="text">ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #4ãã¬ãªã»ã¡ãã·ç¹å¥ã¤ã³ã¿ãã¥ã¼åç¯</p>
+			</div>
+		</a>
+	</li>
+	<li><!-- å¬éæ¥2/26 -->
+		<a class="js-modal" href="./douga.html?id=639927" data-movie-title="ãç¬¬24ç¯ãææéå¬ãã¤ã¸ã§ã¹ãï¼ã¹ã¼ãã¼ãã¬ã¼" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190226c.jpg" alt="ãç¬¬24ç¯ãææéå¬ãã¤ã¸ã§ã¹ãï¼ã¹ã¼ãã¼ãã¬ã¼"></p>
+			<div class="copy">
+			<p class="text">ãç¬¬24ç¯ãææéå¬ãã¤ã¸ã§ã¹ãï¼ã¹ã¼ãã¼ãã¬ã¼</p>
+			</div>
+		</a>
+	</li>
+	<li><!-- å¬éæ¥2/25 -->
+		<a class="js-modal" href="./douga.html?id=636621" data-movie-title="ç¬¬24ç¯ ã´ã©ãã½ BEST3" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190225d.jpg" alt="ç¬¬24ç¯ ã´ã©ãã½ BEST3"></p>
+			<div class="copy">
+			<p class="text">âç¬¬24ç¯ ã´ã©ãã½ BEST3</p>
+			</div>
+		</a>
+	</li>
+	<!-- <li>å¬éæ¥2/18
+		<a class="js-modal" href="./douga.html?id=623668" data-movie-title="ãä¹¾è²´å£« åçºåºå ´ï¼ãç¬¬24ç¯ ããã£ã¹ vs ã¢ã©ãã¹ ãã¤ã©ã¤ã" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190218b.jpg" alt="ãä¹¾è²´å£« åçºåºå ´ï¼ãç¬¬24ç¯ ããã£ã¹ vs ã¢ã©ãã¹ ãã¤ã©ã¤ã"></p>
+			<div class="copy">
+			<p class="text">ãä¹¾è²´å£« åçºåºå ´ï¼ãç¬¬24ç¯ ããã£ã¹ vs ã¢ã©ãã¹ ãã¤ã©ã¤ã</p>
+			</div>
+		</a>
+	</li> -->
+	<li><!-- å¬éæ¥2/18 -->
+		<a class="js-modal" href="./douga.html?id=642514" data-movie-title="å¨ä¸çãæ³¨ç®ï¼ä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³ã«åé§ãç¹å¥çªçµãæ¾éï¼" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190218c.jpg" alt="å¨ä¸çãæ³¨ç®ï¼ä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³ã«åé§ãç¹å¥çªçµãæ¾éï¼"></p>
+			<div class="copy">
+			<p class="text">å¨ä¸çãæ³¨ç®ï¼ä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³ã«åé§ãç¹å¥çªçµãæ¾éï¼</p>
+			</div>
+		</a>
+	</li>
+	<!-- <li>å¬éæ¥2/13
+		<a class="js-modal" href="./douga.html?id=625353" data-movie-title="ãªã¼ã¬ã¼ã« é´æ¨ç¾ç¾½ SNS de LaLigaï¼ãã¨ã¼ã­ãã å®è­·ç¥ã©ã³ã­ã³ã°ï¼ï¼ã" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190213a.jpg" alt="ãªã¼ã¬ã¼ã« é´æ¨ç¾ç¾½ SNS de LaLigaï¼ãã¨ã¼ã­ãã å®è­·ç¥ã©ã³ã­ã³ã°ï¼ï¼ã"></p>
+			<div class="copy">
+			<p class="text">ãªã¼ã¬ã¼ã« é´æ¨ç¾ç¾½ SNS de LaLigaï¼ãã¨ã¼ã­ãã å®è­·ç¥ã©ã³ã­ã³ã°ï¼ï¼ã</p>
+			</div>
+		</a>
+	</li> -->
+	<!-- <li>å¬éæ¥2/13
+		<a class="js-modal" href="./douga.html?id=628607" data-movie-title="ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #3ãâç½ãå·¨äººã®ã©ãã­ã¼ã¸ã§ã¼ã«ã¼â ã´ã£ãã·ã¦ã¹" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190213b.jpg" alt="ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #3ãâç½ãå·¨äººã®ã©ãã­ã¼ã¸ã§ã¼ã«ã¼â ã´ã£ãã·ã¦ã¹"></p>
+			<div class="copy">
+			<p class="text">ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #3ãâç½ãå·¨äººã®ã©ãã­ã¼ã¸ã§ã¼ã«ã¼â ã´ã£ãã·ã¦ã¹</p>
+			</div>
+		</a>
+	</li> -->
+	<!-- <li>å¬éæ¥2/13
+		<a class="js-modal" href="./douga.html?id=608277" data-movie-title="ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #2ãã«ãªã ã»ãã³ã¼ã ã¤ã³ã¿ãã¥ã¼ï½ç§ãããç·ã®æ±ºæã«è¿«ãï½" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190213c.jpg" alt="ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #2ãã«ãªã ã»ãã³ã¼ã ã¤ã³ã¿ãã¥ã¼ï½ç§ãããç·ã®æ±ºæã«è¿«ãï½"></p>
+			<div class="copy">
+			<p class="text">ãã·ãªã¼ãºã»ã¯ã©ã·ã³ #2ãã«ãªã ã»ãã³ã¼ã ã¤ã³ã¿ãã¥ã¼ï½ç§ãããç·ã®æ±ºæã«è¿«ãï½</p>
+			</div>
+		</a>
+	</li> -->
+	<li><!-- å¬éæ¥2/19 -->
+		<a class="js-modal" href="./douga.html?id=628579" data-movie-title="ãç¬¬23ç¯ãææéå¬ãã¤ã¸ã§ã¹ãï¼ã¹ã¼ãã¼ãã¬ã¼" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190219d.jpg" alt="ãç¬¬23ç¯ãææéå¬ãã¤ã¸ã§ã¹ãï¼ã¹ã¼ãã¼ãã¬ã¼"></p>
+			<div class="copy">
+			<p class="text">ãç¬¬23ç¯ãææéå¬ãã¤ã¸ã§ã¹ãï¼ã¹ã¼ãã¼ãã¬ã¼</p>
+			</div>
+		</a>
+	</li>
+	<!-- <li>å¬éæ¥2/18
+		<a class="js-modal" href="./douga.html?id=636617" data-movie-title="ç¬¬23ç¯ ã´ã©ãã½ BEST3" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190218d.jpg" alt="ç¬¬23ç¯ ã´ã©ãã½ BEST3"></p>
+			<div class="copy">
+			<p class="text">ç¬¬23ç¯ ã´ã©ãã½ BEST3</p>
+			</div>
+		</a>
+	</li> -->
+	<!-- <li>å¬éæ¥2/13
+		<a class="js-modal" href="./douga.html?id=628575" data-movie-title="ãç¬¬22ç¯ãææéå¬ãã¤ã¸ã§ã¹ãï¼ã¹ã¼ãã¼ãã¬ã¼é" data-target="__static-movie-player-local" target="_blank">
+			<p class="photo guard"><span class="hover"></span><img src="./img2/movie_190213d.jpg" alt="ãç¬¬22ç¯ãææéå¬ãã¤ã¸ã§ã¹ãï¼ã¹ã¼ãã¼ãã¬ã¼é"></p>
+			<div class="copy">
+			<p class="text">ãç¬¬22ç¯ãææéå¬ãã¤ã¸ã§ã¹ãï¼ã¹ã¼ãã¼ãã¬ã¼é</p>
+			</div>
+		</a>
+	</li> -->
+</ul>
+<p class="btn_movie"><a href="https://www.youtube.com/playlist?list=PLaBzzOA-v6UkUwz6ddQhIb-h1quzK6bol" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_movie')">WOWOW SOCCER FACTOYã®<br />åç»ããã£ã¨è¦ã</a></p>
+</div>
+</div>
+
+<!-- pickup -->
+
+<div id="pickup">
+<div class="container2">
+	<h2 class="common_title">æ³¨ç®æå ±</h2>
+	<ul>
+
+		<li>
+			<a href="info/detail_190226.html" target="_blank">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="info/img2/190226.jpg" alt="çæ¾éï¼ä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³ç´åã¹ãã·ã£ã« ä»å¤èªãå°½ãããæ¥æ¬ãµãã«ã¼Ãä¸çæé«å³°ãHey! Say! JUMP è®å®å¤ªã®ã²ã¹ãåºæ¼ãæ±ºå®ï¼"></p>
+				<div class="copy">
+				<p class="title">çæ¾éï¼ä¼çµ±ã®ä¸æ¦ã¯ã©ã·ã³ç´åã¹ãã·ã£ã« ä»å¤èªãå°½ãããæ¥æ¬ãµãã«ã¼Ãä¸çæé«å³°ãHey! Say! JUMP è®å®å¤ªã®ã²ã¹ãåºæ¼ãæ±ºå®ï¼</p>
+				</div>
+			</a>
+		</li>
+
+		<li>
+			<a href="info/detail_190212.html" target="_blank">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="info/img2/190212.jpg" alt="ãæ¨ææµ©å£ã³ã©ã ãããã£ã¹ã¨æ­£åå¯¾ãã¨ã¤ãã«ã¨ä¼¼ã¦éãªãã¢ã©ãã¹ã§ãä¹¾ã¯ã©ãã¾ã§ããããï¼"></p>
+				<div class="copy">
+				<p class="title">ãæ¨ææµ©å£ã³ã©ã ãããã£ã¹ã¨æ­£åå¯¾ãã¨ã¤ãã«ã¨ä¼¼ã¦éãªãã¢ã©ãã¹ã§ãä¹¾ã¯ã©ãã¾ã§ããããï¼</p>
+				</div>
+			</a>
+		</li>
+		<li>
+			<a href="info/detail_190130.html" target="_blank">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="info/img2/190130.jpg" alt="ãæ¨ææµ©å£ã³ã©ã ãã«ãã¼ã¬ã¹ããµã³ãã£ã»ã«ã½ã«ã©ãã ãã¢ã¤ã³â¦â¦ãã«ã ããã¯ã®ç·ãã¡ãè¸ãç±ãããã"></p>
+				<div class="copy">
+				<p class="title">ãæ¨ææµ©å£ã³ã©ã ãã«ãã¼ã¬ã¹ããµã³ãã£ã»ã«ã½ã«ã©ãã ãã¢ã¤ã³â¦â¦ãã«ã ããã¯ã®ç·ãã¡ãè¸ãç±ãããã</p>
+				</div>
+			</a>
+		</li>
+		<li>
+			<a href="info/detail_190117.html" target="_blank">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="info/img2/190117.jpg" alt="ã¨ã¼ã­ããæå¼·å½ãæ±ºãããµãã«ã¼ã®ç¥­å¸ãUEFA EURO 2020 tm ãµãã«ã¼æ¬§å·é¸ææ¨©ãæ¾éæ±ºå®ï½å¨51è©¦åãçä¸­ç¶ï½"></p>
+				<div class="copy">
+				<p class="title">ã¨ã¼ã­ããæå¼·å½ãæ±ºãããµãã«ã¼ã®ç¥­å¸ãUEFA EURO 2020&trade;ãµãã«ã¼æ¬§å·é¸ææ¨©ãæ¾éæ±ºå®ï½å¨51è©¦åãçä¸­ç¶ï½</p>
+				</div>
+			</a>
+		</li>
+		<li>
+			<a href="info/detail_190112.html" target="_blank">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="info/img2/190112s.jpg" alt="ãæ¨ææµ©å£ã³ã©ã ãä¹¾ã¯ä½çªç®ã®é¸æãï¼ãã¸ã·ã§ã³å¥ãã¼ã åã®åºåã¨âä¸åä¸âã®å¯è½æ§"></p>
+				<div class="copy">
+				<p class="title">ãæ¨ææµ©å£ã³ã©ã ãä¹¾ã¯ä½çªç®ã®é¸æãï¼ãã¸ã·ã§ã³å¥ãã¼ã åã®åºåã¨âä¸åä¸âã®å¯è½æ§</p>
+				</div>
+			</a>
+		</li>
+		<li>
+			<a href="info/detail_190111.html" target="_blank">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="info/img2/190111.jpg" alt="ãå®®æ¬æéã¤ã³ã¿ãã¥ã¼ãã¤ãã¨ã¹ã¿ãFã»ãã¼ã¬ã¹ãªã©æ¥æ¬ã§ããã°ãã¼ã ããã¬ã¼ããã®ã¯ãJãªã¼ã°å¨ä½ã«ãç¥è¦ãä¸ãã"></p>
+				<div class="copy">
+				<p class="title">ãå®®æ¬æéã¤ã³ã¿ãã¥ã¼ãã¤ãã¨ã¹ã¿ãFã»ãã¼ã¬ã¹ãªã©æ¥æ¬ã§ããã°ãã¼ã ããã¬ã¼ããã®ã¯ãJãªã¼ã°å¨ä½ã«ãç¥è¦ãä¸ãã</p>
+				</div>
+			</a>
+		</li>
+		<!-- <li>
+			<a href="info/detail_181214.html" target="_blank">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="info/img2/181214z.jpg" alt="ãªã¼ã¬ã»ã¨ã¹ããã§ã¼ã©ç¬¬16ç¯ããã6åã®è±ªè¯è§£èª¬é£ãç»å ´ï¼"></p>
+				<div class="copy">
+				<p class="title">ãªã¼ã¬ã»ã¨ã¹ããã§ã¼ã©ç¬¬16ç¯ããã6åã®è±ªè¯è§£èª¬é£ãç»å ´ï¼</p>
+				</div>
+			</a>
+		</li> -->
+		<!-- <li>
+			<a href="info/detail_181221.html" target="_blank">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="info/img2/181221.jpg" alt="ãé½ä¸¦æå²ã®ãªã¼ã¬è¦èé²ï½ç¬¬ï¼åãã¢ãã¬ãã£ã³ã¯ããããã©ãã©ãè¯ããªãã¨æãã¾ã"></p>
+				<div class="copy">
+				<p class="title">ãé½ä¸¦æå²ã®ãªã¼ã¬è¦èé²ï½ç¬¬ï¼åãã¢ãã¬ãã£ã³ã¯ããããã©ãã©ãè¯ããªãã¨æãã¾ã</p>
+				</div>
+			</a>
+		</li> -->
+		<!-- <li>
+			<a href="info/detail_181220.html" target="_blank">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="info/img2/181220.jpg" alt="ãæ¨ææµ©å£ã³ã©ã ãæ´å´ã¯ä½çªç®ã®é¸æãï¼ãã¸ã·ã§ã³å¥ãã¼ã åã®åºåã¨âä¸åä¸âã®å¯è½æ§"></p>
+				<div class="copy">
+				<p class="title">ãæ¨ææµ©å£ã³ã©ã ãæ´å´ã¯ä½çªç®ã®é¸æãï¼ãã¸ã·ã§ã³å¥ãã¼ã åã®åºåã¨âä¸åä¸âã®å¯è½æ§</p>
+				</div>
+			</a>
+		</li> -->
+		<!-- <li>
+			<a href="info/detail_181207.html" target="_blank">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="info/img2/181207.jpg" alt="ãæ¨ææµ©å£ã³ã©ã ãVARã®è¦ããªãã¤ã³ãã¯ã"></p>
+				<div class="copy">
+				<p class="title">ãæ¨ææµ©å£ã³ã©ã ãVARã®è¦ããªãã¤ã³ãã¯ã</p>
+				</div>
+			</a>
+		</li> -->
+		<!-- <li>
+			<a href="info/detail_181023.html" target="_blank">
+				<p class="hover"></p>
+				<p class="photo guard"><img src="info/img2/181023s.jpg" alt="æ¥æ¥å¾ãæ¥æ¬ã®ãã¬ãåã®ç¬å åæã«å¿ããã¤ãã¨ã¹ã¿ãä½ããå¤ããã°å½±é¿ã¯åºããã§ããåãã¡ã¯åªåãç¶ããã"></p>
+				<div class="copy">
+				<p class="title">æ¥æ¥å¾ãæ¥æ¬ã®ãã¬ãåã®ç¬å åæã«å¿ããã¤ãã¨ã¹ã¿ãä½ããå¤ããã°å½±é¿ã¯åºããã§ããåãã¡ã¯åªåãç¶ããã</p>
+				</div>
+			</a>
+		</li> -->
+	</ul>
+</div>
+</div>
+
+<!--<dive id="add">
+<p class="btn_add"><a href="/extra/muryo/20171202/" target="_blank"><img src="/sports/liga/img2/bnr_1121.jpg" alt="WOWOW12æéç¡ææ¾éãååºä»£ããã«å¨é¨è¦ãã¾ãã¹ãã·ã£ã«"></a></p><br>
+</dive>-->
+
+<!-- cast -->
+<div id="cast">
+<div class="container2">
+	<h2 class="common_title">ã¬ã®ã¥ã©ã¼åºæ¼è</h2>
+	<ul>
+		<li>
+			<a href="#" class="js-modal" data-target="okudera">
+				<p class="photo"><img src="./img2/cast_okudera.jpg" alt="å¥¥å¯ºåº·å½¦"></p>
+				<p class="name">å¥¥å¯ºåº·å½¦</p>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="js-modal" data-target="ogura">
+				<p class="photo"><img src="./img2/cast_ogura.jpg" alt="å°åå"></p>
+				<p class="name">å°åå</p>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="js-modal" data-target="kitazawa">
+				<p class="photo"><img src="./img2/cast_kitazawa.jpg" alt="åæ¾¤è±ª"></p>
+				<p class="name">åæ¾¤è±ª</p>
+			</a>
+		</li>
+		<!--<li>
+			<a href="#" class="js-modal" data-target="jo">
+				<p class="photo"><img src="./img2/cast_jo.jpg" alt="åå½°äº"></p>
+				<p class="name">åå½°äº</p>
+			</a>
+		</li>-->
+		<!--<li>
+			<a href="#" class="js-modal" data-target="sekizuka">
+				<p class="photo"><img src="./img2/cast_sekizuka.jpg" alt="é¢å¡é"></p>
+				<p class="name">é¢å¡é</p>
+			</a>
+		</li>-->
+		<li>
+			<a href="#" class="js-modal" data-target="tsunami">
+				<p class="photo"><img src="./img2/cast_tsunami.jpg" alt="é½ä¸¦æå²"></p>
+				<p class="name">é½ä¸¦æå²</p>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="js-modal" data-target="noguchi">
+				<p class="photo"><img src="./img2/cast_noguchi.jpg" alt="éå£å¹¸å¸"></p>
+				<p class="name">éå£å¹¸å¸</p>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="js-modal" data-target="miyazawa">
+				<p class="photo"><img src="./img2/cast_miyazawa.jpg" alt="å®®æ¾¤ãã·ã§ã«"></p>
+				<p class="name">å®®æ¾¤ãã·ã§ã«</p>
+			</a>
+		</li>
+		<!--<li>
+			<a href="#" class="js-modal" data-target="miyamoto">
+				<p class="photo"><img src="./img2/cast_miyamoto.jpg" alt="å®®æ¬æé"></p>
+				<p class="name">å®®æ¬æé</p>
+			</a>
+		</li>-->
+		<li>
+			<a href="#" class="js-modal" data-target="mochizuki">
+				<p class="photo"><img src="./img2/cast_mochizuki.jpg" alt="ææéè¯"></p>
+				<p class="name">ææéè¯</p>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="js-modal" data-target="yasunaga">
+				<p class="photo"><img src="./img2/cast_yasunaga.jpg" alt="å®æ°¸è¡å¤ªé"></p>
+				<p class="name">å®æ°¸è¡å¤ªé</p>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="js-modal" data-target="hide">
+				<p class="photo"><img src="./img2/cast_hide.jpg" alt="ãã(ããã«ãã£)"></p>
+				<p class="name">ãã<br><span>(ããã«ãã£)</span></p>
+			</a>
+		</li>
+		<li>
+			<a href="#" class="js-modal" data-target="ligirl">
+				<p class="photo"><img src="./img2/cast_ligirl2018.jpg" alt="é´æ¨ç¾ç¾½(ãªã¼ã¬ã¼ã«)"></p>
+				<p class="name">é´æ¨ç¾ç¾½<br><span>(ãªã¼ã¬ã¼ã«)</span></p>
+			</a>
+		</li>
+		<!--<li>
+			<a href="#" class="off">
+				<p class="photo"><img src="./img2/cast_legirl.jpg" alt="ãªã¼ã¬âã«"></p>
+				<p class="name">ãªã¼ã¬âã«<br>Coming Soon</p>
+			</a>
+		</li>-->
+	</ul>
+</div>
+</div>
+
+<!-- bnr -->
+<div id="bnr" class="container2">
+	<ul>
+		<li class="wmod">
+			<a href="https://mod.wowow.co.jp/" class="wmod_link" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_wmod')">
+				<p class="icon"><img src="/sports/liga/img2/bnr_wmod_icon.png" alt="WOWOW ã¡ã³ãã¼ãºãªã³ããã³ã"></p>
+				<p class="title">WOWOW ã¡ã³ãã¼ãº<br class="is-visible-md">ãªã³ããã³ã</p>
+				<p class="text">åè¡ãè¦éãç­ã<br class="is-visible-md">è±å¯ãªã©ã¤ã³ããããéä¿¡</p>
+			</a>
+		</li>
+		<li class="twitter">
+			<a href="https://twitter.com/wowow_liga" target="_blank" onclick="ga('send', 'event', '/sports/liga/', 'Click', 'liga_twitter')">
+				<p class="icon"><img src="/sports/liga/img2/bnr_twitter_icon.png" alt="WOWOW ããã¹å¬å¼Twitter"></p>
+				<p class="title">WOWOW ãµãã«ã¼å¬å¼<br class="is-visible-md">Twitter</p>
+				<p class="text">æ¾éã¹ã±ã¸ã¥ã¼ã«ã<br class="is-visible-md">ææ°ãã¥ã¼ã¹ç­ãä¸­å¿ã«<br class="is-visible-md">ãã¤ã¼ãï¼</p>
+			</a>
+		</li>
+	</ul>
+</div>
+
+<!-- other_bnr -->
+<!-- <div id="other_bnr">
+	<ul class="container2">
+		<li><a href=""><img src="/sports/liga/img2/other_bnr01.jpg" alt="ããã¼"></a></li>
+		<li><a href=""><img src="/sports/liga/img2/other_bnr01.jpg" alt="ããã¼"></a></li>
+		<li><a href=""><img src="/sports/liga/img2/other_bnr01.jpg" alt="ããã¼"></a></li>
+		<li><a href=""><img src="/sports/liga/img2/other_bnr01.jpg" alt="ããã¼"></a></li>
+	</ul>
+
+	<ul class="container2">
+		<li><a href=""><img src="/sports/liga/img2/other_bnr01.jpg" alt="ããã¼"></a></li>
+		<li><a href=""><img src="/sports/liga/img2/other_bnr01.jpg" alt="ããã¼"></a></li>
+	</ul>
+</div> -->
+
+<!-- noguchi -->
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="noguchi"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_noguchi.jpg" alt="éå£å¹¸å¸"></div>
+<div class="copy">
+	<p class="name">éå£å¹¸å¸</p>
+	<p class="profile1">åæ¥æ¬ä»£è¡¨FWã Jãªã¼ã°1è©¦åæå¤å¾ç¹(5å¾ç¹)è¨é²ä¿æè<br />
+ã¢ã­ã¼ã¬å«çå­ç£ç£å¼ã¢ããã¤ã¶ã¼ãWOWOWå°å±è§£èª¬è<br /><br />
+ï¼é¸æçµæ­´ï¼<br />
+ãã¸ã¿âãã«ãã¼ã¬å¹³å¡âå·å´ãã­ã³ã¿ã¼ã¬âåå¤å±ã°ã©ã³ãã¹âå¤§å®®ã¢ã«ãã£ã¼ã¸ã£(2000å¹´å¼é)<br />
+ï¼æ¥æ¬ä»£è¡¨æ­´ï¼<br />
+1è©¦ååºå ´0å¾ç¹</p>
+</div>
+</div>
+</div>
+
+<!-- okudera -->
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="okudera"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_okudera.jpg" alt="å¥¥å¯ºåº·å½¦"></div>
+<div class="copy">
+	<p class="name">å¥¥å¯ºåº·å½¦</p>
+	<p class="profile1">æ¥æ¬äººåã®æ¬§å·ãã­é¸æãæ¥æ¬ãµãã«ã¼åä¼ï¼AFCæ®¿å <br />
+ãã³ãã¹ãªã¼ã¬ã§éç®235è©¦åã«åºå ´ãããã£ã³ããªã³ãºã«ããã§ãæ´»èº<br /><br />
+ï¼é¸æçµæ­´ï¼<br />
+å¤å·é»æ°å·¥æ¥­âFCã±ã«ã³(ãã¤ã)âãã«ã¿ã»ãã«ãªã³(ãã¤ã)âã´ã§ã«ãã¼ã»ãã¬ã¼ã¡ã³(ãã¤ã)âå¤å·é»æ°å·¥æ¥­(1988å¹´å¼é)<br />
+ï¼æ¥æ¬ä»£è¡¨æ­´ï¼<br />
+32è©¦ååºå ´9å¾ç¹</p>
+</div>
+</div>
+</div>
+
+<!-- ogura -->
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="ogura"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_ogura.jpg" alt="å°åå"></div>
+<div class="copy">
+	<p class="name">å°åå</p>
+	<p class="profile1">æ¥æ¬ä»£è¡¨ããªãªã³ããã¯ä»£è¡¨ã®ã³ã¼ããæ­´ä»»<br />ç¾å¨ã¯æ¨ªæµFã»ããªãã¹ã®ã¹ãã¼ãã£ã³ã°ãã¤ã¬ã¯ã¿ã¼</p>
+</div>
+</div>
+</div>
+
+<!-- miyazawa -->
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="miyazawa"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_miyazawa.jpg" alt="å®®æ¾¤ãã·ã§ã«"></div>
+<div class="copy">
+	<p class="name">å®®æ¾¤ãã·ã§ã«</p>
+	<p class="profile1">1994å¹´æ¥æ¬ä»£è¡¨é¸åºãã¸ã§ãå¸åã®DFã¨ãã¦æ´»èº<br />
+å¼éå¾ã¯å¸äº¬é«æ ¡ã³ã¼ãããã¨ã¼ã²ã³éæ²¢ã¹ã¼ãã¼ãã¤ã¶ã¼ãæ­´ä»»<br /><br />
+ï¼é¸æçµæ­´ï¼<br />
+ãã¸ã¿âã¸ã§ãã¦ãã¤ãããå¸å(1995å¹´å¼é)</p>
+</div>
+</div>
+</div>
+
+<!-- kitazawa -->
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="kitazawa"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_kitazawa.jpg" alt="åæ¾¤è±ª"></div>
+<div class="copy">
+	<p class="name">åæ¾¤è±ª</p>
+	<p class="profile1">åæ¥æ¬ä»£è¡¨MFãã´ã§ã«ãã£ã®é»éæä»£ãæ¯ããä¸äºº<br />
+æ¥æ¬ãµãã«ã¼åä¼çäºãæ¥æ¬éããèãµãã«ã¼é£çä¼é·<br /><br />
+ï¼é¸æçµæ­´ï¼<br />
+æ¬ç°æç âèª­å£²ã¯ã©ãâã´ã§ã«ãã£å·å´âæ±äº¬ã´ã§ã«ãã£(2002å¹´å¼é)<br />
+ï¼æ¥æ¬ä»£è¡¨æ­´ï¼<br />
+58è©¦ååºå ´3å¾ç¹</p>
+</div>
+</div>
+</div>
+
+<!-- jo >
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="jo"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_jo.jpg" alt="åå½°äº"></div>
+<div class="copy">
+	<p class="name">åå½°äº</p>
+	<p class="profile1">åæ¥æ¬ä»£è¡¨FWãã¢ãã©ã³ã¿äºè¼ªã»1998å¹´Wæ¯åºå ´<br>
+ãªã¼ã¬æ¥æ¬äººåã´ã¼ã«ãç¾å¨ã¯ã¤ã³ãã«ã¢ã«ããã¼ã¸ã£ãã³SD<br><br>
+ï¼é¸æçµæ­´ï¼<br>
+ã¸ã§ãã¦ãã¤ãããå¸åâæ¨ªæµããªãã¹âãã¸ã£ããªã¼ã(ã¹ãã¤ã³1é¨)âã´ã£ãã»ã«ç¥æ¸âæ¨ªæµFC(2006å¹´å¼é)<br>
+ï¼æ¥æ¬ä»£è¡¨æ­´ï¼<br>
+35è©¦ååºå ´7å¾ç¹
+</p>
+</div>
+</div>
+</div>-->
+
+<!-- yasunaga -->
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="yasunaga"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_yasunaga.jpg" alt="å®æ°¸è¡å¤ªé"></div>
+<div class="copy">
+	<p class="name">å®æ°¸è¡å¤ªé</p>
+	<p class="profile1">
+	æ¥æ¬äººåã®ã¹ãã¤ã³ãªã¼ã°åºå ´é¸æã§2é¨éç®46è©¦å5å¾ç¹<br />
+ã©ã¼ã¸ã§ã§ã®Sç´ç ä¿®ãçµã¦ã2017å¹´ã¾ã§J3 SCç¸æ¨¡åã®ç£ç£ãåãã<br /><br />
+ï¼é¸æçµæ­´ï¼<br />
+æ¨ªæµããªãã¹âãªã§ã¤ã(ã¹ãã¤ã³2é¨)âæ¸æ°´ã¨ã¹ãã«ã¹âæ¨ªæµFããªãã¹âã©ã·ã³ã»ãã»ãã§ã­ã¼ã«(ã¹ãã¤ã³2é¨)âæã¬ã¤ã½ã«(2005å¹´å¼é)</p>
+</div>
+</div>
+</div>
+
+<!-- tsunami -->
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="tsunami"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_tsunami.jpg" alt="é½ä¸¦æå²"></div>
+<div class="copy">
+	<p class="name">é½ä¸¦æå²</p>
+	<p class="profile1">
+åæ¥æ¬ä»£è¡¨DFãå½éAããã78è©¦å<br />
+å¼éå¾ã¯ãã¬ã«ã¿ä»å°ãªã©ã®ç£ç£ãæ­´ä»»<br />
+2019å¹´ããããªãªããã«æµ¦å®ã®ç£ç£ã«å°±ä»»<br />
+<br />
+ï¼é¸æçµæ­´ï¼<br />
+èª­å£²ã¯ã©ãâã´ã§ã«ãã£å·å´âã¢ãã¹ãç¦å²¡âãã«ãã¼ã¬å¹³å¡ï¼1998å¹´å¼éï¼<br />
+ï¼æ¥æ¬ä»£è¡¨æ­´ï¼<br />
+78è©¦ååºå ´2å¾ç¹</p>
+</div>
+</div>
+</div>
+
+<!-- miyamoto >
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="miyamoto"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_miyamoto.jpg" alt="å®®æ¬æé"></div>
+<div class="copy">
+	<p class="name">å®®æ¬æé</p>
+	<p class="profile1">åæ¥æ¬ä»£è¡¨DFï¼ã­ã£ããã³ãWOWOWå°å±è§£èª¬è<br>
+2002å¹´ã»2006å¹´Wæ¯åºå ´ãFIFAãã¹ã¿ã¼ä¿®äº<br><br>
+
+ï¼é¸æçµæ­´ï¼<br>
+ã¬ã³ãå¤§éªâã¶ã«ããã«ã¯(ãªã¼ã¹ããªã¢)âã´ã£ãã»ã«ç¥æ¸(2011å¹´å¼é)<br>
+ï¼æ¥æ¬ä»£è¡¨æ­´ï¼<br>
+71è©¦ååºå ´3å¾ç¹
+</p>
+</div>
+</div>
+</div>-->
+
+<!-- mochizuki -->
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="mochizuki"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_mochizuki.jpg" alt="ææéè¯"></div>
+<div class="copy">
+	<p class="name">ææéè¯</p>
+	<p class="profile1">åæ¥æ¬ä»£è¡¨MF å½éAããã14è©¦ååºå ´<br />
+ç¾J3 SCç¸æ¨¡åä»£è¡¨ JFAå¬èªSç´ã©ã¤ã»ã³ã¹ä¿æ<br /><br />
+ï¼é¸æçµæ­´ï¼<br />
+åå¤å±ã°ã©ã³ãã¹âäº¬é½ãã¼ãã«ãµã³ã¬âã´ã£ãã»ã«ç¥æ¸âã¸ã§ãã¦ãã¤ãããå¸åâãã¬ã«ã¿ä»å°âæ¨ªæµFC(2006å¹´å¼é)<br />
+ï¼æ¥æ¬ä»£è¡¨æ­´ï¼<br />
+14è©¦ååºå ´1å¾ç¹</p>
+</div>
+</div>
+</div>
+
+<!-- sekizuka >
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="sekizuka"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_sekizuka.jpg" alt="é¢å¡é"></div>
+<div class="copy">
+	<p class="name">é¢å¡é</p>
+	<p class="profile1">é¹¿å³¶ã¢ã³ãã©ã¼ãºãå·å´ãã­ã³ã¿ã¼ã¬ã®ç£ç£ãæ­´ä»»<br>
+2012å¹´ ã­ã³ãã³ãªãªã³ããã¯æ¥æ¬ä»£è¡¨ç£ç£<br><br>
+ï¼é¸æçµæ­´ï¼<br>
+æ¬ç°æç (1991å¹´å¼é)
+</p>
+</div>
+</div>
+</div>-->
+
+<!-- hide -->
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="hide"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_hide.jpg" alt="ãã(ããã«ãã£)"></div>
+<div class="copy">
+	<p class="name">ãã<span>(ããã«ãã£)</span></p>
+	<p class="profile1">åèçåºèº«ã1971å¹´4æ7æ¥çã¾ã<br />
+å¸ç«è¹æ©é«æ ¡æä»£ã«å¨å½é«æ ¡ãµãã«ã¼é¸ææ¨©ã§æºåªåãçµé¨<br />
+1994å¹´2æããç¬ãã³ã³ããããã«ãã£ãçµæ<br />
+ä»ã·ã¼ãºã³ã§5å¹´ç®ã¨ãªãããªã¼ã¬ãã¤ã¸ã§ã¹ãï¼ãã®MCãæå½</p>
+</div>
+</div>
+</div>
+
+<!-- suzuki -->
+<div class="box__modal animated zoomIn modal_profile_wrapper" data-modal-name="ligirl"><a href="#" class="btn__close">éãã</a>
+<div class=" modal_profile">
+<div class="photo"><img src="./img2/modal_profile_ligirl.jpg" alt="é´æ¨ç¾ç¾½(ãªã¼ã¬ã¼ã«)"></div>
+<div class="copy">
+	<p class="name">é´æ¨ç¾ç¾½<span>(ãªã¼ã¬ã¼ã«)</span></p>
+	<p class="profile1">2018-19 WOWOWãªã¼ã¬ã¼ã«<br />
+ç¥å¥å·çåºèº«ã2000å¹´4æ14æ¥çã¾ã<br />
+CMããã©ããªã©èå±ã®ä»äºãä¸­å¿ã«æ´»èºä¸­ã6æã«ã¯ãTVerÃFIFA ã¯ã¼ã«ãã«ãã ã¤ã³ãã©ãã¼ã·ã£ã«ãã«ãåºæ¼ã</p>
+</div>
+</div>
+</div>
+
+</main>
+
+
+<!-- wol_footer -->
+<footer>
+<div class="container">
+<a href="#top" class="btn__pagetop"><span>ãã¼ã¸TOPã¸</span></a>
+
+<div wol-copyright></div>
+</div>
+
+<div wol-breadCrumb class="js__nav-breadCrumb"></div>
+
+<div class="container">
+<ul class="lst__footer-help row">
+<li class="col-auto"><a href="#" class="icn-help js-modal" data-target="__mark-explanatory-notes" onclick="ga('send', 'event', 'footer', 'Click', 'icon')"><span>çªçµã§ä½¿ç¨ããã¦ããã¢ã¤ã³ã³ã«ã¤ãã¦</span>
+	<span><img class="__icn_onair" src="/assets/img/icon/icon_first.svg"><img class="__icn_onair" src="/assets/img/icon/icon_broadcast_free.svg"></span></a></li>
+<li class="col-auto"><a href="#" class="icn-help js-modal" data-target="__why-myprogram" onclick="ga('send', 'event', 'footer', 'Click', 'mylist')"><span>ãWEBä¼å¡éå®æ©è½ãMyçªçµç»é²ã¨ã¯ï¼</span></a></li>
+</ul>
+</div>
+
+<hr class="bdr__footer">
+
+<div class="container">
+<ul class="nav__corporate">
+<li><a href="https://corporate.wowow.co.jp/"><span>ä¼ç¤¾æå ±</span></a></li>
+<li><a href="https://corporate.wowow.co.jp/ir/"><span>IRæå ±</span></a></li>
+<li><a href="https://corporate.wowow.co.jp/recruit/"><span>æ¡ç¨æå ±</span></a></li>
+<li><a href="/sitemap/"><span>ãµã¤ãããã</span></a></li>
+<li><a href="/guidance/pii/"><span>åäººæå ±ã®ä¿è­·æ¹éåã³åæ±è¦ç¨</span></a></li>
+<li><a href="/rule/"><span>ç´æ¬¾ã»è¦ç´ä¸è¦§</span></a></li>
+<li><a href="/guidance/digitalcopy.html"><span>æ¾éçªçµã®ãå©ç¨ã«é¢ãããç¥ãã</span></a></li>
+<li><a href="/guidance/kk/"><span>ç·æ¥å°ééå ±ã«ã¤ãã¦</span></a></li>
+<li><a href="/guidance/attention/"><span>ãµã¤ãããªã·ã¼</span></a></li>
+</ul>
+
+<ul class="nav__credit row__middle">
+<li class="col-4__xld-5__ld-6__md-8__sd-10 __lmark"><img src="/assets/img/pct__wf-lmark.gif" alt="ã¨ã«ãã¼ã¯" /></li>
+<li class="col-4__xld-5__ld-6__md-6__sd-10 __jasrac"><img src="/assets/img/pct__jasrac.gif" alt="JASRAC" /><span>JASRAC è¨±è«¾çªå·<br />9010055019Y45040</span></li>
+<li class="col-1__md-2__sd-4 __pmark"><a href="http://privacymark.jp/" data-outlink="privacymark" target="_blank"><img src="/assets/img/pct__pmark.gif" alt="ãã©ã¤ãã·ã¼ãã¼ã¯" /></a></li>
+</ul>
+
+<address class="txt__copyright">&copy;1996-<span class="js-nowYear"></span> WOWOW INC.</address>
+</div>
+</footer>
+
+<div class="box__modal animated zoomIn" data-modal-name="__why-myprogram"><a href="#" class="btn__close">éãã</a>
+<div class="container mdl__why-myprogram">
+<h2 class="__title">Myçªçµç»é²ã¨ã¯ï¼</h2>
+<p class="__catch">Myçªçµç»é²ã§è¦éãé²æ­¢ï¼</p>
+<p>è¦ããçªçµãæ°ã«ãªãçªçµããããããç»é²ã<br>æ¾éæéåã®ãªãã¤ã³ãã¡ã¼ã«ã§çªçµããã£ããè¦éããã¨ãããã¾ããã</p>
+<div class="is-hidden-closed">
+<h2 class="__subtitle">å©ç¨ããã«ã¯ï¼</h2>
+<p>WEBä¼å¡IDããç»é²ã®ãããã­ã°ã¤ã³ãã¦ãå©ç¨ãã ããã</p>
+<div class="row__spaceAround">
+<dl class="col-10__sd-24" data-push-left="off-1__sd-0">
+<dt>WEBä¼å¡IDããæã¡ã§ãªãæ¹</dt>
+<dd><a href="https://www.wowow.co.jp/member/term.php" class="btn__default">WEBä¼å¡IDãç»é²ãã</a></dd>
+</dl>
+<dl class="col-10__sd-24" data-push-right="off-1__sd-0">
+<dt>WEBä¼å¡IDããæã¡ã®æ¹</dt>
+<dd><a href="https://www.wowow.co.jp/member/login.php" class="btn__default js-loginUrl" data-loginurl="__why-myprogram">ã­ã°ã¤ã³ãã</a></dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+
+<div class="box__modal animated zoomIn" data-modal-name="__mark-explanatory-notes"><a href="#" class="btn__close">éãã</a>
+<div class="container mdl__why-myprogram">
+<h2 class="__title">çªçµã§ä½¿ç¨ããã¦ããã¢ã¤ã³ã³ã«ã¤ãã¦</h2>
+<div class="row__noGutter mdl__explanatory-notes __border">
+<div class="col-24 row__noGutter">
+<div class="col-12__sd-24">
+<table>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_first.svg"></th><td>ååæ¾é</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_new_program.svg"></th><td>æ°çªçµ</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_final.svg"></th><td>æçµå</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_broadcast_now.svg"></th><td>çæ¾é</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_5.1.svg"></th><td>5.1chãµã©ã¦ã³ãæ¾é</td></tr>
+</table>
+</div>
+<div class="col-12__sd-24">
+<table>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_lang_bilingual_ver.svg"></th><td>äºã«å½èªçæ¾é</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_lang_dubbed.svg"></th><td>å¹æ¿çæ¾é</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_lang_subtitle.svg"></th><td>å­å¹çæ¾é</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_cc.svg"></th><td>å­å¹æ¾é</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_broadcast_free.svg"></th><td>ãã³ã¹ã¯ã©ã³ãã«ï¼ç¡ææ¾éï¼</td></tr>
+</table>
+</div>
+</div>
+
+<div class="col-24">
+<table>
+<tr><th><img class="__icn_onair __icn_onair_pc" src="/assets/img/icon/icon_simulcast.svg"><img class="__icn_onair __icn_onair_sp" src="/assets/img/icon/icon_simulcast_schedule_sp.svg"></th><td>ãªã³ããã³ãã§ã®åæéä¿¡</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_PG-12.svg"></th><td>2009å¹´4æä»¥åã«æ å«å¯©æ»ãåããä½åã§ãPG-12æå®ï¼12æ­³æªæºã¯ä¿è­·èåä¼´ãæã¾ããï¼ããããã®</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_PG12.svg"></th><td>åå ´å¬éæãPG12æå®ï¼å°å­¦çä»¥ä¸ã¯å©è¨ã»æå°ãå¿è¦ï¼ããããã®</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_R-15.svg"></th><td>2009å¹´4æä»¥åã«æ å«å¯©æ»ãåããä½åã§ãR-15æå®ï¼15æ­³æªæºéè³ä¸å¯ï¼ããããã®</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_R-15_equivalent.svg"></th><td>R-15æå®ã«ç¸å½ããå ´é¢ãããã¨æããããã®</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_R15+.svg"></th><td>åå ´å¬éæãR15+æå®ï¼15æ­³ä»¥ä¸éè³å¯ï¼ããããã®</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_R15+_equivalent.svg"></th><td>R15+æå®ã«ç¸å½ããå ´é¢ãããã¨æããããã®</td></tr>
+<tr><th><img class="__icn_onair" src="/assets/img/icon/icon_R.svg"></th><td>1998å¹´4æä»¥åã«æ å«å¯©æ»ãåããä½åã§ãRæå®ï¼ä¸è¬æ ç»å¶éä»ãï¼ã¨ããããã®</td></tr>
+</table>
+</div>
+</div>
+
+</div>
+</div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="/assets/js/library.min.js?_=68a29f5"></script>
+<script language="JavaScript" type="text/JavaScript">
+
+$(function (){
+    $.ajax({
+        url: "/common/header/access_history.php",
+        cache: false,
+        });
+});
+</script>
+
+
+<script type="text/javascript" src="https://console.temo.jp/javascript/jquery.suggest2.js" charset="Shift_JIS"></script>
+<script type="text/javascript" src="https://console.temo.jp/javascript/jq.suggest_start.js" charset="Shift_JIS"></script>
+
+<script>
+$(function(){
+	var $trigger = $('.js__nav-breadCrumb');
+	if($trigger.length) {
+		if($('body').hasClass('__static')) {
+			var $path = location.pathname.split('/'),
+					$title = $('title').text().replace(/\s\|\s/, 'ï½').split('ï½').reverse(),
+					$breadcrumb = '<div class="nav__breadcrumb"><div class="container"><ol itemscope="" itemtype="http://schema.org/BreadcrumbList">',
+					href = '/',
+					ajust = function(){
+						if($path.length > $title.length) {
+							$title.unshift(false);
+							ajust();
+						}
+					};
+			$path.pop();
+			$path.shift();
+			$title.shift();
+			ajust();
+			$breadcrumb += '<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="' + href + '" itemprop="item"><span itemprop="name">ãªã³ã©ã¤ã³TOP</span></a><meta itemprop="position" content="1"></li>';
+			for (var $pathLengthIndex = 0; $pathLengthIndex < $path.length; $pathLengthIndex++) {
+				href += $path[$pathLengthIndex] + '/';
+				if($title[$pathLengthIndex]) {
+					$breadcrumb += '<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="'
+					$breadcrumb += href;
+					$breadcrumb += '" itemprop="item"><span itemprop="name">';
+					$breadcrumb += $title[$pathLengthIndex];
+					$breadcrumb += '</span></a><meta itemprop="position" content="'
+					$breadcrumb += $pathLengthIndex + 2;
+					$breadcrumb += '"></li>';
+				};
+			}
+			$breadcrumb += '</ol></div></div>';
+			$trigger.append($breadcrumb);
+		}
+	}
+});
+</script>
+
+
+<!-- sports_footer -->
+
+
+<link rel="stylesheet" href="/sports/sports_common_nav4/css/sports_common_nav4.css?v=1124">
+<script type="text/javascript" src="/sports/sports_common_nav4/js/sports_common_nav4.js?v=1124"></script>
+
+
+<!-- sports_common_nav4 -->
+<div id="sports_common_nav4">
+<div class="container2">
+
+
+	<div id="sports_common_nav4_inner">
+		<div id="sports_common_nav4_title_area">
+			<!-- <p class="sports_common_nav4_title">ç®ã®åããããããããWOWOW</p> -->
+			<p class="sports_common_nav4_catch">ä»å¾ã®ãªã¹ã¹ã¡çªçµããã§ãã¯ãããï¼</p>
+			<p class="sports_common_nav4_open"><a href="javascript:void(0)">OPENï¼CLOSE</a></p>
+		</div>
+
+		<ul id="sports_common_nav4_lineup_area" class="sports_common_nav4_lineup_area">
+
+			<li>
+				<a href="https://www.wowow.co.jp/detail/113878" onclick="ga('send', 'event', 'sports_footer', 'Click', 'sportsft_pg_lineup')">
+					<p class="sports_common_nav4_lineup_thumb"><span class="guard"></span><img src="/sports/sports_common_nav4/img/thumb_inuyashiki.jpg" alt="ãã¬ããã" /></p>
+					<p class="sports_common_nav4_lineup_title">ãã¬ããã<span class="credit_txt">&copy;2018 æ ç»ããã¬ããããè£½ä½å§å¡ä¼ã&copy;å¥¥æµ©åï¼è¬è«ç¤¾</span></p>
+					<p class="sports_common_nav4_lineup_oa">2/16ï¼åï¼ãã8:00 ä»</p>
+					<p class="sports_common_nav4_lineup_spec">
+						<span class="icn-wowow-cinema">WOWOWã·ãã</span>
+						<span class="icn-wowow-prime">WOWOWãã©ã¤ã </span>
+						<!-- <span class="lbl-tv">å­å¹ç</span> -->
+					</p>
+				</a>
+			</li>
+
+			<li>
+				<a href="https://www.wowow.co.jp/detail/114069" onclick="ga('send', 'event', 'sports_footer', 'Click', 'sportsft_pg_lineup')">
+					<p class="sports_common_nav4_lineup_thumb"><span class="guard"></span><img src="/sports/sports_common_nav4/img/thumb_rampage.jpg" alt="ã©ã³ãã¤ã¸ å·¨ç£å¤§ä¹±é" /></p>
+					<p class="sports_common_nav4_lineup_title">ã©ã³ãã¤ã¸ å·¨ç£å¤§ä¹±é<span class="credit_txt">&copy;Warner Bros. Entertainment Inc.</span></p>
+					<p class="sports_common_nav4_lineup_oa">2/23ï¼åï¼ãã8:00 ä»</p>
+					<p class="sports_common_nav4_lineup_spec">
+						<span class="icn-wowow-cinema">WOWOWã·ãã</span>
+						<span class="icn-wowow-prime">WOWOWãã©ã¤ã </span>
+						 <!-- <span class="lbl-tv">ç</span> -->
+					</p>
+				</a>
+			</li>
+
+
+
+
+			<li>
+				<a href="https://www.wowow.co.jp/dramaw/soreai/" onclick="ga('send', 'event', 'sports_footer', 'Click', 'sportsft_pg_lineup')">
+					<p class="sports_common_nav4_lineup_thumb"><span class="guard"></span><span class="credit"></span><img src="/sports/sports_common_nav4/img/thumb_soreai.jpg" alt="é£ç¶ãã©ãWããããæã¨ã¾ã¡ããããã" /></p>
+					<p class="sports_common_nav4_lineup_title">é£ç¶ãã©ãWã<br class="is-hidden-md">ãããæã¨ã¾ã¡ããããã<span class="credit_txt">&copy;2013ãäºä¸èé</span></p>
+					<p class="sports_common_nav4_lineup_oa">2/9ï¼åï¼ã¹ã¿ã¼ã<br>æ¯é±åæãã10:00<br>â»ç¬¬1è©±ç¡ææ¾éï¼å¨5è©±ï¼</p>
+					<p class="sports_common_nav4_lineup_spec">
+						<!-- <span class="icn-wowow-cinema">WOWOWã·ãã</span> -->
+						<span class="icn-wowow-prime">WOWOWãã©ã¤ã </span>
+						<!-- <span class="lbl-tv">å­å¹ç</span> -->
+					</p>
+				</a>
+			</li>
+
+			<li>
+				<a href="https://www.wowow.co.jp/special/014697" onclick="ga('send', 'event', 'sports_footer', 'Click', 'sportsft_pg_lineup')">
+					<p class="sports_common_nav4_lineup_thumb"><span class="guard"></span><img src="/sports/sports_common_nav4/img/thumb_queen.jpg" alt="ï¼çªçµä¸ææ¾éï¼ ã¯ã¤ã¼ã³ç¹é" /></p>
+					<p class="sports_common_nav4_lineup_title">ï¼çªçµä¸ææ¾éï¼ ã¯ã¤ã¼ã³ç¹é<span class="credit_txt">Getty Images</span></p>
+					<p class="sports_common_nav4_lineup_oa">3/7ï¼æ¨ï¼ãã8:00ï½</p>
+					<p class="sports_common_nav4_lineup_spec">
+						<span class="icn-wowow-live">WOWOWã©ã¤ã</span>
+						 <!-- <span class="lbl-tv">ç</span> -->
+					</p>
+				</a>
+			</li>
+
+
+
+
+
+
+
+
+
+
+		</ul>
+		<style>
+				.sports_common_nav4_lineup_thumb .credit{
+					position: absolute;
+					bottom: 0.5rem;
+					right: 0.5rem;
+					color: #fff;
+					font-size: 0.75rem;
+				}
+			</style>
+		<p class="sports_common_nav4_btn_more"><a href="/program/" onclick="ga('send', 'event', 'sports_footer', 'Click', 'sportsft_program')">ä»å¾ã®ãªã¹ã¹ã¡çªçµããã£ã¨è¦ã<span class="icn-arrow_right"></span></a></p>
+	</div>
+</div>
+</div>
+
+
+<!-- js -->
+<script type="text/javascript" src="/sports/sports_header/js/sports_header.js"></script>
+<script type="text/javascript" src="/sports/liga/js2/base.js"></script>
+<script type="text/javascript" src="/sports/liga/js2/top.js"></script>
+
+<script type="text/javascript">
+// ã¯ã¬ã¸ãã
+$("div[wol-copyright]").append('<div id="credit" class="mdl__credit"><p>ã¢ããªãããã¡ãã· Getty Images</p></div>');
+</script>
+
+<!-- åç»ã¢ã¼ãã« -->
+<div class="box__modal animated zoomIn box__modal-movie" data-modal-name="__static-movie-player-local"><a href="#" class="btn__close">éãã</a><iframe src="" width="100%" height="500" allowfullscreen></iframe></div>
+
+<script>
+  new function(){
+	var $modal = $("[data-modal-name='__static-movie-player-local']").eq(0);
+
+	$(document).on('click', ".js-modal[data-target='__static-movie-player-local']", function(){
+	  var href = $(this).attr("href");
+	  $modal.find("iframe").attr("src",href + '&var=' + Math.floor(Math.random() * 1000000));
+	  $modal.find("iframe").css("height","500");
+	});
+
+	$(document).on('click','.js-modal-wrap, .box__modal .btn__close', function(){
+	  $modal.find("iframe").attr("src","");
+	});
+  };
+</script>
+
+</body>
+</html>

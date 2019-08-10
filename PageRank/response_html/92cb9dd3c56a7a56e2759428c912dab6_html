@@ -1,0 +1,612 @@
+<!doctype html>
+<html lang="el">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Στο YouTube ανακάλυψε τον Τσιτσιπά ο προπονητής του</title>
+<meta name="robots" content="index, follow" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="enikos.gr">
+<meta name="application-name" content="enikos.gr">
+<meta name="msapplication-TileColor" content="#d00000">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="msvalidate.01" content="938D8DC1A7156AFAF984A3178FD47448" />
+<meta property="fb:pages" content="303605699676942" />
+<link href="https://plus.google.com/+enikosgr/" rel="publisher" />
+<meta name=news_keywords content="ΤΣΙΤΣΙΠΑΣ,ΤΕΝΙΣ,ΜΟΥΡΑΤΟΓΛΟΥ,YOUTUBE">
+<meta name=keywords content="ΤΣΙΤΣΙΠΑΣ,ΤΕΝΙΣ,ΜΟΥΡΑΤΟΓΛΟΥ,YOUTUBE">
+<meta property="fb:app_id" content="979009708869397" />
+<meta property="og:title" content="Στο YouTube ανακάλυψε τον Τσιτσιπά ο προπονητής του" />
+<meta property="og:type" content="article" />
+<meta property="og:image:width" content="720" />
+<meta property="og:image:height" content="405" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image" content="http://media.enikos.gr/data/photos/resized/720_620712_801786cdd5-890e41684b1c3922.jpg" />
+<meta property="og:description" content="Εδώ και τέσσερα χρόνια ο Πατρίκ Μουράτογλου συνεργάζεται με τον Στέφανο Τσιτσιπά..." />
+<meta property="og:url" content="http://www.enikos.gr/sports/625834/sto-youtube-anakalypse-ton-tsitsipa-o-proponitis-tou" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@enikos_gr">
+<meta name="twitter:title" content="Στο YouTube ανακάλυψε τον Τσιτσιπά ο προπονητής του">
+<meta name="twitter:description" content="Εδώ και τέσσερα χρόνια ο Πατρίκ Μουράτογλου συνεργάζεται με τον Στέφανο Τσιτσιπά...">
+<meta name="twitter:creator" content="@enikos_gr">
+<meta name="twitter:image" content="http://media.enikos.gr/data/photos/resized/720_620712_801786cdd5-890e41684b1c3922.jpg">
+<meta name="ajaxListInfinity" content="/article_ajax">
+<link rel="stylesheet" href="/Bundles/main.min.css?v=2224dedfb66a5ded24b5e89bb01a398c329f1579c3d2d4466245aedf417c79e5fe40e457c5e6021918ea2bf2058fd55ea20420151ac4daad1186fe4b3ec243a7">
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script> var googletag = googletag || {};googletag.cmd = googletag.cmd || [];</script>
+<script>
+
+                
+                                    console=false;
+                    if (console ===false || typeof console === 'undefined') {
+                        console = {log: function() { } };
+                    }
+                
+                App={};
+                App.showScrollTopOffset=100;
+
+
+                App.ResizeTimer = new Date();
+                App.ResizeTimerTimedOut = false;
+                App.ResizeDeltaSpeed = 200;
+                App.AdsInitialized = false;
+
+                App.PageAds={};
+                App.PageAds.Side=[];
+
+                                App.vfrm='63ec277ce3755dadc879b5d154aa7aac';
+                App.adsToDisplay = [];
+
+                App.AdCategoryName='Sports';
+
+
+                App.totalpages = 1;
+                App.cpage=1;
+                App.csubpage="625834";
+
+                                    App.err404=false;
+                
+                                                    App.staticpagetype = '';
+                
+
+                                App.cquerstr='';
+
+
+                App.preventInfinite=false;
+
+                                                    App.paging=true;
+                    App.infinite=[624930,624739,624597,623382,623249,622686,622584,622459,622454]
+                
+                App.startpage=1;
+
+                (adsbygoogle = window.adsbygoogle || []).push({google_ad_client: 'ca-pub-4255903819372606',enable_page_level_ads: true});
+
+                function defer(method) {
+
+                    if ((window.$)&&(typeof googletag!=='undefined')&&(typeof gapi!=='undefined')){
+                        if (typeof googletag.display=='function'){
+                            method();
+                        } else {
+                            setTimeout(function() { defer(method) }, 50);
+                        }
+                    } else {
+                        setTimeout(function() { defer(method) }, 50);
+                    }
+                };
+            </script>
+
+<script src="//cdn.orangeclickmedia.com/tech/enikos.gr/ocm.js" async></script>
+</head>
+<body>
+<div class="main-wrapper">
+<header class="main-header fluid-container" tabindex="1">
+<div class="container mobile-header">
+<div class="row">
+<div class="col open-menu-cont">
+<a href="#" class="open-menu"></a>
+</div>
+<div class="col main-logo">
+<h1><a href="/" class="name"><img src="/images/enikos-logo.svg" id="imglogo" role="presentation" alt="Στο YouTube ανακάλυψε τον Τσιτσιπά ο προπονητής του"></a></h1>
+</div>
+<div class="search-cont ">
+<form class="search">
+<div class="search__wrapper">
+<input type="text" class="search__field" id="querstr">
+<a href="" class="icon-search search__icon" id="search-button"></a>
+</div>
+</form>
+</div>
+<div class="header-social col ">
+<ul>
+<li><a id="contact" href="/contact" class="contact">επικοινωνία</a></li>
+<li><a href="https://www.facebook.com/enikosgr/" target="_blank" class="facebook"><i class="icon-facebook"></i></a></li>
+<li><a href="http://www.twitter.com/enikos_gr" target="_blank" class="twitter"><i class="icon-twitter"></i></a></li>
+<li><a href="http://www.youtube.com/enikosgr" target="_blank" class="youtube"><i class="icon-youtube-play"></i></a></li>
+<li><a href="https://plus.google.com/+enikosgr" target="_blank" class="gplus"><i class="icon-gplus"></i></a></li>
+<li><a href="/rss/latest.xml" target="_blank" class="rss"><i class="icon-rss"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<hr class="bold-hr">
+</div>
+<div class="container">
+<div class="row">
+<div class=" bottom-header">
+<div class="ticker col hide-sm">
+<div id="current-day"><span></span></div>
+<div id="names-nameday">
+<div class="eorti-title"> 26 Φεβρουάριου 2019 | Εορτάζουν:</div>
+<ul>
+<li>Ανατολή</li>
+<li>Πορφύριος</li>
+<li>Πορφυρία</li>
+<li>Σεβαστιανός</li>
+<li>Φωτεινή</li>
+</ul>
+</div>
+</div>
+<ul class="hash-wrap col">
+<li><a href="/tags/%CE%A9%CE%BA%CE%B5%CE%B1%CE%BD%CE%AF%CF%82">#Ωκεανίς</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<hr>
+</div>
+</header>
+<div class="full-content">
+<div class="container-fluid">
+<div class="billboard-wrap row">
+<div id="BillDesk_A_1" class="BillDesk googadd"></div>
+<div id="BillTab_A_1" class="BillTab googadd"></div>
+<div id="BillMob_A_1" class="BillMob googadd"></div>
+</div>
+</div>
+<div id="content-wrapper" class="container clearfix">
+<div class="row">
+<div id="truecontent" class="main-content-list col" role="main">
+<div class="content-list">
+<ul class="contentul inside-article">
+<li id="content-item-625834" data-scrollurl="http://www.enikos.gr/sports/625834/sto-youtube-anakalypse-ton-tsitsipa-o-proponitis-tou" data-title="Στο YouTube ανακάλυψε τον Τσιτσιπά ο προπονητής του" itemscope itemtype="http://schema.org/NewsArticle">
+<meta itemprop="author" content="editor@enikos.gr">
+<meta itemprop="mainEntityOfPage" content="http://www.enikos.gr/sports/625834/sto-youtube-anakalypse-ton-tsitsipa-o-proponitis-tou">
+<meta itemprop="thumbnailUrl" content="http://media.enikos.gr/data/photos/resized/350_620712_801786cdd5-890e41684b1c3922.jpg">
+<meta itemprop="description" content="Εδώ και τέσσερα χρόνια ο Πατρίκ Μουράτογλου συνεργάζεται με τον Στέφανο Τσιτσιπά...">
+<meta itemprop="datePublished" content="13/02/2019 05:09">
+<meta itemprop="dateModified" content="13/02/2019 05:09">
+<meta itemprop="dateCreated" content="12/02/2019 15:13">
+<meta itemprop="keywords" content="ΤΣΙΤΣΙΠΑΣ,ΤΕΝΙΣ,ΜΟΥΡΑΤΟΓΛΟΥ,YOUTUBE">
+ <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta itemprop="url" content="http://www.enikos.gr/images/enikos_logo.png">
+<meta itemprop="width" content="217">
+<meta itemprop="height" content="62">
+</div>
+<meta itemprop="name" content="Enikos.gr">
+<meta itemprop="url" content="www.enikos.gr">
+</div>
+<div class="content-item clearfix">
+<h1 itemprop="headline name">Στο YouTube ανακάλυψε τον Τσιτσιπά ο προπονητής του</h1>
+<div class="top-info clearfix">
+<div class="article-time small-6 col">
+<span class="non-mobile">5:09 πμ, Τετάρτη 13 Φεβ 2019</span>
+<span class="mobile">5:09 πμ, Τετάρτη 13 Φεβ 2019</span>
+</div>
+<h3 class="article-category col" itemprop="articleSection">
+<a href="                /sports" ">
+Αθλητισμός
+</a>
+</h3>
+</div>
+<div class="article-wrapper">
+<div class="main-object">
+<div itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+<img class="Ph2" src="http://media.enikos.gr/data/photos/resized/720_620712_801786cdd5-890e41684b1c3922.jpg" />
+<meta itemprop="url" content="http://media.enikos.gr/data/photos/resized/720_620712_801786cdd5-890e41684b1c3922.jpg" />
+<meta itemprop="width" content="720">
+<meta itemprop="height" content="405">
+</div>
+</div>
+<div id="articletext">
+<p>Εδώ και τέσσερα χρόνια ο Πατρίκ Μουράτογλου συνεργάζεται με τον <a href="http://www.enikos.gr/sports/625182/prooros-apokleismos-gia-tsitsipa-sti-sofia">Στέφανο Τσιτσιπά.</a><p></p><div><div><div><div></div></div></div><p>Ο 20χρονος Έλληνας τενίστας, Νο12 στην ATP, έχει ως βάση του την Ακαδημία του, ενώ έχει εξαιρετική συνεργασία με τον προπονητή της Σερένα Γουίλιαμς.</p><p>Πώς έγινε η πρώτη επαφή μεταξύ τους; «Μέσω της πλατφόρμας YouΤube! Τον είδα για πρώτη φορά σε ένα βίντεο στο <a href="http://www.enikos.gr/society/624204/ellines-youtubers-edosan-pourmpouar-1000-evro-se-nteliverades-vid">YouΤube</a>! Πρέπει να ήταν 16 ετών. Αμέσως αντιλήφθηκα ότι αυτός ο νεαρός έχει μεγάλο ταλέντο και μπορεί να γίνει αστέρι.</p><p>Πήρα αμέσως τηλέφωνο τον πατέρα του και τον προσκάλεσα να έρθει στην Ακαδημία μας. Όντως ήρθε και έκτοτε δεν ξαναέφυγε. Έπαιξε ρόλο το ότι ήταν και Έλληνας. Έχω και εγώ ελληνικές ρίζες και κάτι ξύπνησε μέσα μου», ανέφερε ο Μουράτογλου.</p> </div><p>Πηγή: Filathlos.gr</p>
+<div id="OOP_A_0625834"></div>
+<div id="SkinToBe625834"></div>
+</div>
+<div id="OOP_A_0625834"></div>
+<div id="Skin_A_0625834"></div>
+</div>
+<div class="footer-wrap row">
+<div id="FootDesk_A_625834"></div>
+</div>
+<div class="article-tags">
+<ul>
+<li>
+<a href="/tags/%CE%A4%CE%A3%CE%99%CE%A4%CE%A3%CE%99%CE%A0%CE%91%CE%A3">
+ΤΣΙΤΣΙΠΑΣ
+</a>
+</li>
+<li>
+<a href="/tags/%CE%A4%CE%95%CE%9D%CE%99%CE%A3">
+ΤΕΝΙΣ
+</a>
+</li>
+<li>
+<a href="/tags/%CE%9C%CE%9F%CE%A5%CE%A1%CE%91%CE%A4%CE%9F%CE%93%CE%9B%CE%9F%CE%A5">
+ΜΟΥΡΑΤΟΓΛΟΥ
+</a>
+</li>
+<li>
+<a href="/tags/YOUTUBE">
+YOUTUBE
+</a>
+</li>
+</ul>
+</div>
+<div class="social-share horizontal-list">
+<ul>
+<li>
+<a class="facebook-share social-icon" href="javascript:void(0);" id="social-fbb" onclick="postToFeed('%CE%A3%CF%84%CE%BF%20YouTube%20%CE%B1%CE%BD%CE%B1%CE%BA%CE%AC%CE%BB%CF%85%CF%88%CE%B5%20%CF%84%CE%BF%CE%BD%20%CE%A4%CF%83%CE%B9%CF%84%CF%83%CE%B9%CF%80%CE%AC%20%CE%BF%20%CF%80%CF%81%CE%BF%CF%80%CE%BF%CE%BD%CE%B7%CF%84%CE%AE%CF%82%20%CF%84%CE%BF%CF%85', '%CE%95%CE%B4%CF%8E%20%CE%BA%CE%B1%CE%B9%20%CF%84%CE%AD%CF%83%CF%83%CE%B5%CF%81%CE%B1%20%CF%87%CF%81%CF%8C%CE%BD%CE%B9%CE%B1%20%CE%BF%20%CE%A0%CE%B1%CF%84%CF%81%CE%AF%CE%BA%20%CE%9C%CE%BF%CF%85%CF%81%CE%AC%CF%84%CE%BF%CE%B3%CE%BB%CE%BF%CF%85%20%CF%83%CF%85%CE%BD%CE%B5%CF%81%CE%B3%CE%AC%CE%B6%CE%B5%CF%84%CE%B1%CE%B9%20%CE%BC%CE%B5%20%CF%84%CE%BF%CE%BD%20%CE%A3%CF%84%CE%AD%CF%86%CE%B1%CE%BD%CE%BF%20%CE%A4%CF%83%CE%B9%CF%84%CF%83%CE%B9%CF%80%CE%AC...', 'http://www.enikos.gr/sports/625834/sto-youtube-anakalypse-ton-tsitsipa-o-proponitis-tou','http://media.enikos.gr/data/photos/resized/720_620712_801786cdd5-890e41684b1c3922.jpg')">
+<i class="icon-facebook"></i>Share
+</a>
+</li>
+<li>
+<a class="twitter-share social-icon" href="https://twitter.com/share?via=enikos_gr&amp;text=Στο YouTube ανακάλυψε τον Τσιτσιπά ο προπονητής του&amp;url=http://www.enikos.gr/sports/625834/sto-youtube-anakalypse-ton-tsitsipa-o-proponitis-tou" id="social-twb" onclick="window.open(this.href, 'Share via Twitter');return false;">
+<i class="icon-twitter"></i>Tweet
+</a>
+</li>
+<li>
+<a class="google-plus-share social-icon" href="https://plus.google.com/share?url=http://www.enikos.gr/sports/625834/sto-youtube-anakalypse-ton-tsitsipa-o-proponitis-tou" id="social-gpb" onclick="window.open(this.href, 'Share via Google+');return false;"><i class="icon-gplus"></i>Share</a>
+</li>
+<li><a class="mail-share social-icon" href="/cdn-cgi/l/email-protection#ad92ded8cfc7c8ced990c8c3c4c6c2de83cadf8bccc0dd96cfc2c9d490c5d9d9dd978282dadada83c8c3c4c6c2de83cadf82deddc2dfd9de829b9f98959e9982ded9c280d4c2d8d9d8cfc880ccc3ccc6ccc1d4dddec880d9c2c380d9dec4d9dec4ddcc80c280dddfc2ddc2c3c4d9c4de80d9c2d8" id="social-inb">
+<i class="icon-mail-alt">
+</i>Email
+</a>
+</li>
+</ul>
+</div>
+<div class="comments-header">σχολίασε κι εσύ</div>
+<div class="disqus_thread">
+<button class="show-disqus" onclick="ResetDisq($(this),625834,'http://www.enikos.gr/sports/625834/sto-youtube-anakalypse-ton-tsitsipa-o-proponitis-tou')"> (<span class="disqus-comment-count" data-disqus-identifier="625834">0 </span> σχόλια)</button>
+</div>
+<div id="readmore-wrapper">
+<div id="readmore-header">
+σχετικά άρθρα
+</div>
+</div>
+<div class="relative-articles-wrapper">
+<ul>
+<li>
+<div class="content-item">
+<div class="photodiv">
+<a href="                                    /sports/624930/ntempouto-me-to-dexi-gia-ton-tsitsipa-sti-sofia
+    
+">
+<img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://media.enikos.gr/data/photos/resized/350_621108_60bc6ec773-94acb41c3b1c854f.jpg" title="Ντεμπούτο με το δεξί για τον Τσιτσιπά στη Σόφια" alt="Ντεμπούτο με το δεξί για τον Τσιτσιπά στη Σόφια">
+<noscript>
+                                            <img
+                                                    src="http://media.enikos.gr/data/photos/resized/350_621108_60bc6ec773-94acb41c3b1c854f.jpg"
+                                                    title="Ντεμπούτο με το δεξί για τον Τσιτσιπά στη Σόφια"
+                                                    alt="Ντεμπούτο με το δεξί για τον Τσιτσιπά στη Σόφια"
+                                            >
+                                        </noscript>
+</a>
+</div>
+<div class="text">
+<a href="                                    /sports/624930/ntempouto-me-to-dexi-gia-ton-tsitsipa-sti-sofia
+    
+">
+<h4>Ντεμπούτο με το δεξί για τον Τσιτσιπά στη Σόφια</h4>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="content-item">
+<div class="photodiv">
+<a href="                                    /sports/624739/simera-archizei-i-machi-tou-tsitsipa-sto-sofia-open-ti-dilose-gia
+    
+">
+<img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://media.enikos.gr/data/photos/resized/350_624739_cddd72f7f7-a5476ea3b2ef41fc.jpg" title="Σήμερα αρχίζει η &quot;μάχη&quot; του Τσιτσιπά στο Sofia Open - Τι δήλωσε για Τζόκοβιτς και Ναδάλ" alt="Σήμερα αρχίζει η &quot;μάχη&quot; του Τσιτσιπά στο Sofia Open - Τι δήλωσε για Τζόκοβιτς και Ναδάλ">
+<noscript>
+                                            <img
+                                                    src="http://media.enikos.gr/data/photos/resized/350_624739_cddd72f7f7-a5476ea3b2ef41fc.jpg"
+                                                    title="Σήμερα αρχίζει η &quot;μάχη&quot; του Τσιτσιπά στο Sofia Open - Τι δήλωσε για Τζόκοβιτς και Ναδάλ"
+                                                    alt="Σήμερα αρχίζει η &quot;μάχη&quot; του Τσιτσιπά στο Sofia Open - Τι δήλωσε για Τζόκοβιτς και Ναδάλ"
+                                            >
+                                        </noscript>
+</a>
+</div>
+<div class="text">
+<a href="                                    /sports/624739/simera-archizei-i-machi-tou-tsitsipa-sto-sofia-open-ti-dilose-gia
+    
+">
+<h4>Σήμερα αρχίζει η &quot;μάχη&quot; του Τσιτσιπά στο Sofia Open - Τ...</h4>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="content-item">
+<div class="photodiv">
+<a href="                                    /sports/624597/evale-telos-stin-xirasia-o-pagdatis
+    
+">
+<img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://media.enikos.gr/data/photos/resized/350_624597_b7d813ad9b-913b216e59d91a5b.jpg" title="Έβαλε τέλος στην «ξηρασία» ο Παγδατής" alt="Έβαλε τέλος στην «ξηρασία» ο Παγδατής">
+<noscript>
+                                            <img
+                                                    src="http://media.enikos.gr/data/photos/resized/350_624597_b7d813ad9b-913b216e59d91a5b.jpg"
+                                                    title="Έβαλε τέλος στην «ξηρασία» ο Παγδατής"
+                                                    alt="Έβαλε τέλος στην «ξηρασία» ο Παγδατής"
+                                            >
+                                        </noscript>
+</a>
+</div>
+<div class="text">
+<a href="                                    /sports/624597/evale-telos-stin-xirasia-o-pagdatis
+    
+">
+<h4>Έβαλε τέλος στην «ξηρασία» ο Παγδατής</h4>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="content-item">
+<div class="photodiv">
+<a href="                                    /sports/623382/pos-apokalese-ton-tsitsipa-o-antetokounmpo-video
+    
+">
+<img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://media.enikos.gr/data/photos/resized/350_623382_b454be40e9-abe069cad7c15fd6.jpg" title="Πώς αποκάλεσε τον Τσιτσιπά ο Αντετοκούνμπο – ΒΙΝΤΕΟ " alt="Πώς αποκάλεσε τον Τσιτσιπά ο Αντετοκούνμπο – ΒΙΝΤΕΟ ">
+<noscript>
+                                            <img
+                                                    src="http://media.enikos.gr/data/photos/resized/350_623382_b454be40e9-abe069cad7c15fd6.jpg"
+                                                    title="Πώς αποκάλεσε τον Τσιτσιπά ο Αντετοκούνμπο – ΒΙΝΤΕΟ "
+                                                    alt="Πώς αποκάλεσε τον Τσιτσιπά ο Αντετοκούνμπο – ΒΙΝΤΕΟ "
+                                            >
+                                        </noscript>
+</a>
+</div>
+<div class="text">
+<a href="                                    /sports/623382/pos-apokalese-ton-tsitsipa-o-antetokounmpo-video
+    
+">
+<h4>Πώς αποκάλεσε τον Τσιτσιπά ο Αντετοκούνμπο – ΒΙΝΤΕΟ </h4>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="content-item">
+<div class="photodiv">
+<a href="                                    /sports/623249/to-kryfo-kallitechniko-profil-tou-stefanou-tsitsipa-sto-instagram
+    
+">
+<img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://media.enikos.gr/data/photos/resized/350_623249_3ad4db8420-ba80b3a649607875.jpg" title="Αυτό είναι το κρυφό καλλιτεχνικό προφίλ του Στέφανου Τσιτσιπά στο Instagram - ΦΩΤΟ" alt="Αυτό είναι το κρυφό καλλιτεχνικό προφίλ του Στέφανου Τσιτσιπά στο Instagram - ΦΩΤΟ">
+<noscript>
+                                            <img
+                                                    src="http://media.enikos.gr/data/photos/resized/350_623249_3ad4db8420-ba80b3a649607875.jpg"
+                                                    title="Αυτό είναι το κρυφό καλλιτεχνικό προφίλ του Στέφανου Τσιτσιπά στο Instagram - ΦΩΤΟ"
+                                                    alt="Αυτό είναι το κρυφό καλλιτεχνικό προφίλ του Στέφανου Τσιτσιπά στο Instagram - ΦΩΤΟ"
+                                            >
+                                        </noscript>
+</a>
+</div>
+<div class="text">
+<a href="                                    /sports/623249/to-kryfo-kallitechniko-profil-tou-stefanou-tsitsipa-sto-instagram
+    
+">
+<h4>Αυτό είναι το κρυφό καλλιτεχνικό προφίλ του Στέφανου Τσ...</h4>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="content-item">
+<div class="photodiv">
+<a href="                                    /sports/622686/to-efcharisto-tou-stefanou-tsitsipa-se16-glosses-video
+    
+">
+<img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://media.enikos.gr/data/photos/resized/350_622686_ff7dc8c417-b663cac1cd0286dd.jpg" title="Το &quot;ευχαριστώ&quot; του Στέφανου Τσιτσιπά σε...16 γλώσσες - ΒΙΝΤΕΟ " alt="Το &quot;ευχαριστώ&quot; του Στέφανου Τσιτσιπά σε...16 γλώσσες - ΒΙΝΤΕΟ ">
+<noscript>
+                                            <img
+                                                    src="http://media.enikos.gr/data/photos/resized/350_622686_ff7dc8c417-b663cac1cd0286dd.jpg"
+                                                    title="Το &quot;ευχαριστώ&quot; του Στέφανου Τσιτσιπά σε...16 γλώσσες - ΒΙΝΤΕΟ "
+                                                    alt="Το &quot;ευχαριστώ&quot; του Στέφανου Τσιτσιπά σε...16 γλώσσες - ΒΙΝΤΕΟ "
+                                            >
+                                        </noscript>
+</a>
+</div>
+<div class="text">
+<a href="                                    /sports/622686/to-efcharisto-tou-stefanou-tsitsipa-se16-glosses-video
+    
+">
+<h4>Το &quot;ευχαριστώ&quot; του Στέφανου Τσιτσιπά σε...16 γλώσσες - ...</h4>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="content-item">
+<div class="photodiv">
+<a href="                                    /sports/622584/o-tsitsipas-paringeile-fagito-tin-ora-pou-periegrafe-agona-video
+    
+">
+<img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://media.enikos.gr/data/photos/resized/350_622584_408bf697f8-9eb4b7f991c4a8aa.jpg" title="O Τσιτσιπάς παρήγγειλε φαγητό την ώρα που περιέγραφε αγώνα - ΒΙΝΤΕΟ" alt="O Τσιτσιπάς παρήγγειλε φαγητό την ώρα που περιέγραφε αγώνα - ΒΙΝΤΕΟ">
+<noscript>
+                                            <img
+                                                    src="http://media.enikos.gr/data/photos/resized/350_622584_408bf697f8-9eb4b7f991c4a8aa.jpg"
+                                                    title="O Τσιτσιπάς παρήγγειλε φαγητό την ώρα που περιέγραφε αγώνα - ΒΙΝΤΕΟ"
+                                                    alt="O Τσιτσιπάς παρήγγειλε φαγητό την ώρα που περιέγραφε αγώνα - ΒΙΝΤΕΟ"
+                                            >
+                                        </noscript>
+</a>
+</div>
+<div class="text">
+<a href="                                    /sports/622584/o-tsitsipas-paringeile-fagito-tin-ora-pou-periegrafe-agona-video
+    
+">
+<h4>O Τσιτσιπάς παρήγγειλε φαγητό την ώρα που περιέγραφε αγ...</h4>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="content-item">
+<div class="photodiv">
+<a href="                                    /sports/622459/anevike-stin-pagkosmia-katataxi-i-sakkari
+    
+">
+<img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://media.enikos.gr/data/photos/resized/350_622459_047f2f1759-aa42d31e861bcb36.jpg" title="Ανέβηκε στην παγκόσμια κατάταξη η Σάκκαρη" alt="Ανέβηκε στην παγκόσμια κατάταξη η Σάκκαρη">
+<noscript>
+                                            <img
+                                                    src="http://media.enikos.gr/data/photos/resized/350_622459_047f2f1759-aa42d31e861bcb36.jpg"
+                                                    title="Ανέβηκε στην παγκόσμια κατάταξη η Σάκκαρη"
+                                                    alt="Ανέβηκε στην παγκόσμια κατάταξη η Σάκκαρη"
+                                            >
+                                        </noscript>
+</a>
+</div>
+<div class="text">
+<a href="                                    /sports/622459/anevike-stin-pagkosmia-katataxi-i-sakkari
+    
+">
+<h4>Ανέβηκε στην παγκόσμια κατάταξη η Σάκκαρη</h4>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="content-item">
+<div class="photodiv">
+<a href="                                    /sports/622454/neo-rekor-gia-ton-tsitsipa-se-poia-thesi-tis-pagkosmias-katataxis
+    
+">
+<img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://media.enikos.gr/data/photos/resized/350_622454_f1718c661b-8b80ad3c163725b2.jpg" title="Νέο ρεκόρ για τον Τσιτσιπά - Σε ποια θέση της παγκόσμιας κατάταξης ανέβηκε" alt="Νέο ρεκόρ για τον Τσιτσιπά - Σε ποια θέση της παγκόσμιας κατάταξης ανέβηκε">
+<noscript>
+                                            <img
+                                                    src="http://media.enikos.gr/data/photos/resized/350_622454_f1718c661b-8b80ad3c163725b2.jpg"
+                                                    title="Νέο ρεκόρ για τον Τσιτσιπά - Σε ποια θέση της παγκόσμιας κατάταξης ανέβηκε"
+                                                    alt="Νέο ρεκόρ για τον Τσιτσιπά - Σε ποια θέση της παγκόσμιας κατάταξης ανέβηκε"
+                                            >
+                                        </noscript>
+</a>
+</div>
+<div class="text">
+<a href="                                    /sports/622454/neo-rekor-gia-ton-tsitsipa-se-poia-thesi-tis-pagkosmias-katataxis
+    
+">
+<h4>Νέο ρεκόρ για τον Τσιτσιπά - Σε ποια θέση της παγκόσμια...</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<aside class=" main-sidebar col ">
+<div id="sidebar1" class="sidebar-wrapper" data-sticky_parent>
+<nav id="main-menu">
+<ul id="mobile-social">
+<li><a href="https://www.facebook.com/enikosgr/" target="_blank" class="facebook"><i class="icon-facebook"></i></a></li>
+<li><a href="http://www.twitter.com/enikos_gr" target="_blank" class="twitter"><i class="icon-twitter"></i></a></li>
+<li><a href="http://www.youtube.com/enikosgr" target="_blank" class="youtube"><i class="icon-youtube-play"></i></a></li>
+<li><a href="https://plus.google.com/+enikosgr" target="_blank" class="gplus"><i class="icon-gplus"></i></a></li>
+<li><a href="/contact" class="contact" onclick="event.preventDefault();event.stopPropagation();$('#UniversalModal').modal('show').find('#form-container').load($(this).attr('href').toString()+'?aj=1')"><i class="icon-mail-alt"></i></a></li>
+</ul>
+<span class="close-btn">×</span>
+<ul id="menu">
+<li><a href="/my-blog">το blog μου </a></li>
+<li><a href="/politics">πολιτική</a></li>
+<li><a href="/economy">οικονομία</a></li>
+<li><a href="/international">διεθνή</a></li>
+<li><a href="/society">κοινωνία</a></li>
+<li><a href="/sports">αθλητισμός</a></li>
+<li><a href="/lifestyle">lifestyle</a></li>
+<li><a href="/media">media</a></li>
+<li><a href="/columns">στήλες</a></li>
+<li><a href="/specials">ξεχωρίζουν</a></li>
+<li><a href="/ekpompes">εκπομπές</a></li>
+</ul>
+</nav>
+<div id="mainads-wrapper">
+<div id="Side1_A_1" class="googadd"></div>
+<div id="Side2_A_1" class="googadd"></div>
+<div id="Side3_A_1" class="googadd"></div>
+</div> <div id="Side10_A_1" class="googadd data-sticky_column"></div>
+</div>
+</aside>
+</div>
+</div>
+<footer>
+<div class="footer-paging"><div class="pagination"></div></div>
+<div class="container clearfix">
+<ul class="right-footer">
+<li><a href="/terms">Όροι Χρήσης</a></li>
+<li><a href="" id="back-to-top-footer">Επιστροφή στην κορυφή ▲</a></li>
+</ul>
+ <div class="left-footer">© 2019 enikos.gr</div>
+</div>
+</footer>
+<a href="#" id="back-to-top" title="Back to top">&uarr;</a>
+<div id="fb-root"></div>
+<div class="modal fade" id="UniversalModal" tabindex="-1" role="dialog">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+</div>
+<div class="modal-body" id="form-container"></div>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-27847891-1', 'auto');
+                if (App.err404) {ga('set', 'page', '/404');}
+                ga('send', 'pageview');
+            </script>
+
+<script>
+                !function(f,b,e,v,n,t,s)
+                {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                n.queue=[];t=b.createElement(e);t.async=!0;
+                t.src=v;s=b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t,s)}(window,document,'script',
+                'https://connect.facebook.net/en_US/fbevents.js');
+                 fbq('init', '150146215709094');
+                fbq('track', 'PageView');
+            </script>
+<noscript>
+                 <img height="1" width="1" src="https://www.facebook.com/tr?id=150146215709094&ev=PageView&noscript=1"/>
+            </noscript>
+<script>defer(function (){$.extend($.lazyLoadXT, {forceLoad: true,edgeY: 600,srcAttr: 'data-src',onerror:function(){this.parentNode.removeChild(this);}});})</script>
+<script>window.___gcfg = {lang: 'el',parsetags: 'explicit'};</script>
+<script id="dsq-count-scr" src="//enikos-gr.disqus.com/count.js"></script>
+<script id="dsq-embed-scr" src="//enikos-gr.disqus.com/embed.js"></script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+<script src="/bundle.js"></script>
+</body>
+</html>

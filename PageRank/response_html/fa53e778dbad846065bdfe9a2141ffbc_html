@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-CA" dir="ltr">
+
+<head>
+ <!-- data-info:v:20190216_14447072;a:488a894a-74a1-42f1-b9d9-d4e71b64598e;cn:86;az:{did:e0d5c95b869e465daf1947dc4e42fcc3, rid: 86, sn: eastus-prod-entertainment, dt: 2019-02-26T06:47:07.6486089Z, bt: 2019-02-17T01:14:15.7782295Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:gray;PageName:articlePage;m:en-ca;cb:;l:en-ca;mu:en-ca;ud:{cid:BBTxBZ0,vk:news,n:ar,l:en-ca,ck:newspolitics};xd:;ovc:f;al:;f:muidflt27cf,muidflt57cf,muidflt299cf,muidflt300cf,staticfloor,pneedge1cf,pneedge3cf,view-paddles,sam-geminictl;userOptOut:false;userOptOutOptions: -->
+ <meta name="application-name" content="Opinions | Trump’s wall of lies and illusions just cracked again"/><meta name="cq" content="passed"/>
+ <link rel="canonical" href="https://www.washingtonpost.com/opinions/2019/02/13/trumps-wall-lies-illusions-just-cracked-again/" />
+ 
+
+ <title>Opinions | Trump’s wall of lies and illusions just cracked again</title>
+ <meta name="description" content="It appears the President will go along with the deal to reopen the government — while pretending he has all kinds of other options to fund his wall."/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-entertainment-eus-s-msn-com.akamaized.net/en-ca/news/_sc/css/b443689a-603bbc39/direction=ltr.locales=en-ca.themes=gray.dpi=resolution1x/42-b8ee35-71ecad1c/13-bfc664-b12c00e0/18-5f471f-ce9d7e1e/17-3f3702-68ddb2ab/2a-1f1669-bc2b922c/9b-ba6b1f-f94d3276/ab-52fe22-a648eab2?ver=20190216_14447072&amp;fdhead=muidflt27cf,muidflt57cf,muidflt299cf,muidflt300cf,staticfloor,pneedge1cf,pneedge3cf,view-paddles,sam-geminictl&amp;ocid=st&amp;csopd=20190117002718&amp;csopdb=20190219210000" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}function st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,location:o&&o.location,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","location","document"],function(n,t,i){function o(t,i,r){var u=t[i],e,f;if(!u||u.length===0)return"";for(e="",f=0;f<u.length;f++)u[f]&&(e=e+r+i+"="+n.urlPart(u[f]),r==="?"&&(r="&"));return e}function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t||r==="item"?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var s,f,e,h,r,c;if(i){if(s=t.split("?"),s[1]){f=u(s[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=s[0];e="?";h="item";for(r in f)r!==h&&(t+=f[r]?e+n.urlPart(r)+"="+n.urlPart(f[r]):e+n.urlPart(r),e==="?"&&(e="&"));c=o(f,h,e);t=t+c}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-entertainment-eus-s-msn-com.akamaized.net/en-ca/news/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>.storyimage.smallfullwidth .image,.storyimage.smallfullwidth img{background:#000;margin:0 auto}#toast-container{display:none}iframe.instagram-media{position:relative !important}#maincontent #main .morefromprovider{display:none}#maincontent #main .morefromproviderrr{display:none}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}</style>
+</head>
+
+<body class="ap content center-content gray">
+ 
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-ca">Home</a>
+</li>
+ <li  class="current">
+<a href="/en-ca/news">News</a>
+</li>
+ <li >
+<a href="/en-ca/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-ca/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-ca/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-ca/money">Money</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More ></a>
+<ul>
+ <li >
+<a href="/en-ca/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-ca/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-ca/lifestyle/food">Food</a>
+</li>
+ <li >
+<a href="/en-ca/lifestyle/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-ca/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-ca/video">Video</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-ca" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-entertainment-eus-s-msn-com.akamaized.net/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/en-ca/news" tabindex="2">news</a>
+
+
+
+</div>
+<div id="header-links">
+
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-entertainment-eus-s-msn-com.akamaized.net/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRNWSR" />
+ <input type="hidden" name="mkt" value="en-ca" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="488a894a74a142f1b9d9d4e71b64598e">
+<input type="submit" class="text" value="web search" title="web search"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-ca">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+ 
+
+ <div class="articlecontent">
+<h1>Opinions | Trump’s wall of lies and illusions just cracked again</h1>
+<div>
+<div>
+ <span class="partner">
+ <a  href="https://www.washingtonpost.com/"  title="the washington post logo"><img alt="The Washington Post logo" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAxYtfi.img?h=17&amp;w=0&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" title="The Washington Post logo" /> The Washington Post</a>
+ </span>
+ <span>
+ <span class="time">2019-02-13</span>
+         <span class="authorname-txt" 
+              
+              
+              >
+                <span class="truncate" >Greg Sargent</span>
+        </span>
+
+                </span>
+            </div>
+        </div>
+
+ <div class="richtext"  data-aop="articlebody">
+ 
+ <span class="storyimage fullwidth inlineimage"  data-aop="image">
+<span class="image" data-attrib="Mandel Ngan/AFP/Getty Images" data-caption="(Mandel Ngan/Getty Images)" >
+ <img alt="(Mandel Ngan/Getty Images)" height="200" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTxjPN.img?h=200&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=2432&amp;y=736" width="300" />
+</span>
+<span class="caption truncate">
+ <span class="attribution">&#169; Mandel Ngan/AFP/Getty Images</span>
+ (Mandel Ngan/Getty Images)
+</span>
+</span>
+<p><strong><em>Editor’s note: The opinions in this article are the author’s, as published by our content partner, and do not necessarily represent the views of MSN or Microsoft.</em></strong></p><p>It now looks as if President Trump will grudgingly go along with the emerging bipartisan deal to reopen the government, though he’s plainly in a rage over it. CNN <a href="https://www.cnn.com/2019/02/13/politics/trump-border-security-deal/index.html?utm_source=twCNNp&utm_content=2019-02-13T12%3A39%3A53&utm_term=image&utm_medium=social">reports</a> that two knowledgeable sources say he’ll sign the compromise. <a href="https://www.bloomberg.com/news/articles/2019-02-13/trump-edges-toward-taking-shutdown-averting-border-deal?srnd=politics-vp">Bloomberg adds</a> that he will then pivot to an effort to fund his wall via executive action.<br></p><p>Republicans and some of Trump’s media allies are urging him to move promptly and resourcefully to find that wall money in unilateral fashion. The White House is <a href="https://www.politico.com/story/2019/02/11/mick-mulvaney-border-wall-funds-1163996?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f117-dd93-ad7f-f9174cc30003&nlid=630318">letting it be known</a> that aides are searching aggressively for a way to pull the money out of a (MAGA) hat.</p><p>But all of this is taking on the quality of an increasingly breathless effort to blow air into a balloon with a leak. The obvious play here is to make Trump <em>feel</em> as if he still has ways at his disposal to take forceful and decisive action and to take control of events, or at least to appear to be doing so.</p><p>Ideally, this will persuade Trump that he can sign the deal while also being able to sustain this perception in the eyes of his base — an effort that is deeply entangled with whether that perception is sustained in his own mind — that is, the perception that he is acting to ensure that the wall he envisions is becoming a reality.</p><p>Trump himself is working furiously to maintain that perception. The emerging deal would provide $1.375 billion for barriers that are <a href="https://www.bloomberg.com/news/articles/2019-02-12/border-security-tentative-deal-reached-in-bid-to-avoid-shutdown">limited</a> to the type of fencing currently in use — which is far short of the $5.7 billion Trump asked for and nothing like the wall Trump has promised his supporters for years.</p><p><strong><em>Also watch: Trump likely to avoid another shutdown (Video provided by CP)</em></strong></p><p> <div class="xnetvidplayer "  data-aop="xnet-mod" 
+  aria-label="Video &#39;AP Debrief: Trump likely to avoid another shutdown&#39; "
+  tabindex="0">
+
+ <button class="overlay-open" >
+<span>Click to expand</span>
+</button>
+ <button class="overlay-close" ></button>
+
+<div class="player-and-close">
+<div class="player">
+  <div class="wcvideoplayer vxplayer animate  " id="video_player_eb15eb94-8af2-4b20-9fc3-1694bb01c2a9"
+   data-adpagegroups="{&quot;web&quot;:&quot;ceanew&quot;,&quot;mobileweb&quot;:&quot;camnws&quot;,&quot;tvweb&quot;:&quot;&quot;}"
+  data-config="{&quot;AutoPlay&quot;: false,&quot;FlashSource&quot;: &quot;//static-entertainment-eus-s-msn-com.akamaized.net/en-ca/news/_h/b00c897a/webcore/flash/player.swf&quot;,&quot;HomePageLink&quot;: &quot;//www.msn.com/en-ca&quot;,&quot;HybridPlayerSource&quot;: &quot;//static-entertainment-eus-s-msn-com.akamaized.net/en-ca/news/_h/561caba8/webcore/flash/hybridplayer_2.swf&quot;,&quot;IsImmersivePlayer&quot;: true,&quot;InPlayerPageContext&quot;: false,&quot;IsInlinePlayer&quot;: true,&quot;InViewPlay&quot;: true,&quot;InViewWidthFraction&quot;: 0.5,&quot;InViewHeightFraction&quot;: 0.5,&quot;LeadWith&quot;: &quot;html5&quot;,&quot;Mute&quot;: true,&quot;SwfCacheRefreshTime&quot;: 86400,&quot;ShowTitle&quot;: true,&quot;UseHybridPlayer&quot;: false,&quot;AdConfig&quot;:{&quot;AdManagerRequestTimeout&quot;: 25,&quot;FWFlashProfile&quot;: &quot;188286:MSN_AS3_Live&quot;,&quot;FWHtml5Profile&quot;: &quot;188286:MSN_HTML5_Live&quot;,&quot;FWNetworkId&quot;: 188286,&quot;FWServer&quot;: &quot;http://2df7e.v.fwmrm.net&quot;,&quot;HybridPlayerAdInitTimeout&quot;: 30,&quot;HybridPlayerAdStartTimeout&quot;: 30,&quot;UseTargetingService&quot;: &quot;none&quot;},&quot;EndSlateConfig&quot;:{&quot;EndslateContinuousPlayEnabled&quot;: true},&quot;ReportingConfig&quot;:{&quot;Category&quot;: &quot;newspolitics&quot;,&quot;ComscoreUrl&quot;: &quot;https://sb.scorecardresearch.com/b?&quot;,&quot;DomainId&quot;: 13987,&quot;Fr&quot;: &quot;en-ca_news&quot;,&quot;ImpressionGuid&quot;: &quot;488a894a74a142f1b9d9d4e71b64598e&quot;,&quot;Market&quot;: &quot;en-ca&quot;,&quot;OtfUrl&quot;: &quot;//otf.msn.com/c.gif?&quot;,&quot;SubCategory&quot;: &quot;no-sc&quot;,&quot;Subcvs&quot;: &quot;news&quot;}}"
+  data-metadata="{&quot;adNetworkId&quot;:&quot;188286&quot;,&quot;csId&quot;:&quot;AA1VFq&quot;,&quot;csIdBase32&quot;:&quot;7GYVMVE&quot;,&quot;description&quot;:&quot;The Associated Press reports President Donald Trump says he&#39;s not expecting the government to shut down again, a signal that he&#39;s leaning toward accepting a budget deal that denies him most of the money he&#39;s sought for a southern border wall. (Feb. 13)&quot;,&quot;durationSecs&quot;:121,&quot;feedId&quot;:&quot;AA2pKFi&quot;,&quot;providerId&quot;:&quot;en-usAPNewsVideos_urn:publicid:ap.org:62f8cb8321834b888567eab135dfbb0d&quot;,&quot;shareUrl&quot;:&quot;http://www.msn.com/en-ca/news/newspolitics/ap-debrief-trump-likely-to-avoid-another-shutdown/vi-BBTzeFk&quot;,&quot;sourceFriendly&quot;:&quot;The Canadian Press&quot;,&quot;sourceLogo&quot;:&quot;http://img.s-msn.com/tenant/amp/entityid/AA3JLi8.img&quot;,&quot;title&quot;:&quot;AP Debrief: Trump likely to avoid another shutdown&quot;,&quot;uuid&quot;:&quot;BBTzeFk&quot;,&quot;uuidBase32&quot;:&quot;B6FTP52BS&quot;,&quot;videoFiles&quot;:[{&quot;formatCode&quot;:&quot;1001&quot;,&quot;url&quot;:&quot;http://wus-streaming-video-msn-com.akamaized.net/08f3ea9b-b67a-4547-ae75-787a8239074b/9aedfa1d-c909-4399-b2f9-89bc266718eb.wmv&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},{&quot;formatCode&quot;:&quot;1004&quot;,&quot;url&quot;:&quot;http://wus-streaming-video-msn-com.akamaized.net/e152bd5c-063a-4cbb-b7d0-a2a819a714ae/9aedfa1d-c909-4399-b2f9-89bc2667.ism/manifest&quot;,&quot;width&quot;:&quot;640&quot;,&quot;height&quot;:&quot;360&quot;},{&quot;formatCode&quot;:&quot;1006&quot;,&quot;url&quot;:&quot;http://wus-streaming-video-msn-com.akamaized.net/e152bd5c-063a-4cbb-b7d0-a2a819a714ae/9aedfa1d-c909-4399-b2f9-89bc2667.ism/manifest(format=m3u8-aapl)&quot;,&quot;width&quot;:&quot;640&quot;,&quot;height&quot;:&quot;360&quot;},{&quot;formatCode&quot;:&quot;1007&quot;,&quot;url&quot;:&quot;http://wus-streaming-video-msn-com.akamaized.net/e152bd5c-063a-4cbb-b7d0-a2a819a714ae/9aedfa1d-c909-4399-b2f9-89bc2667.ism/manifest(format=mpd-time-csf)&quot;,&quot;width&quot;:&quot;640&quot;,&quot;height&quot;:&quot;360&quot;},{&quot;formatCode&quot;:&quot;101&quot;,&quot;url&quot;:&quot;http://wus-streaming-video-msn-com.akamaized.net/e152bd5c-063a-4cbb-b7d0-a2a819a714ae/9aedfa1d-c909-4399-b2f9-89bc2667_650.mp4&quot;,&quot;width&quot;:&quot;640&quot;,&quot;height&quot;:&quot;360&quot;}],&quot;tags&quot;:[{&quot;ns&quot;:&quot;partnerCategories&quot;,&quot;value&quot;:&quot;System.Collections.Generic.List`1[System.String]&quot;},{&quot;ns&quot;:&quot;jobEnvironment&quot;,&quot;value&quot;:&quot;System.Collections.Generic.List`1[System.String]&quot;},{&quot;ns&quot;:&quot;jobInstanceName&quot;,&quot;value&quot;:&quot;System.Collections.Generic.List`1[System.String]&quot;},{&quot;ns&quot;:&quot;feedUrl&quot;,&quot;value&quot;:&quot;http://syndication.ap.org/AP.Distro.Feed/GetFeed.aspx?idList=37895&amp;idListType=products&amp;fullContent=true&amp;showMemberBodyTemp=true&amp;format=4&amp;maxItems=10&amp;showInlineLinks=true&quot;}],&quot;thumbnail&quot;:{&quot;url&quot;:&quot;http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTyquU.img&quot;},&quot;headlineImage&quot;:{&quot;url&quot;:&quot;http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTyquU.img&quot;}}"
+ 
+ 
+ 
+data-playertype="Html5">
+ 
+ 
+<div class="hybrid video_player">
+<div class="video_player_outer">
+<div class="video_player_inner">
+<video id="video_player_eb15eb94-8af2-4b20-9fc3-1694bb01c2a9_element" preload="metadata"  aria-label="AP Debrief: Trump likely to avoid another shutdown"></video>
+<div class="video_play_thumb">
+<img alt="" />
+<div class="mobile_quality_selector">
+<div class="quality_label"></div>
+<div class="quality_state"></div>
+                </div>
+            </div>
+            <div class="video_play_duration"></div>
+<div class="video_play_splash" tabindex="0"></div>
+<div class="video_spinner">
+<img class="image spinner_image" alt="" src="//static-entertainment-eus-s-msn-com.akamaized.net/sc/d3/9f8e92.gif" />
+</div>
+<div class="video_captions">
+<div class="video_captions_ttml"></div>
+</div>
+ <div class="endslate"  >
+<div class="endslateinner">
+<div class="act rel">
+<div class="rp" title="Replay Video">
+<div class="text">Replay Video</div>
+</div>
+<div class="sh">
+ 
+</div>
+</div>
+ <div class="rvouter">
+<div class="rvinner">
+ <div class="upnexttitle">UP NEXT</div>
+ <ul >
+ <li >
+<a title="Strange, beautiful ice shards stack up on Lake Superior" href="http://www.msn.com/en-ca/news/other/strange-beautiful-ice-shards-stack-up-on-lake-superior/vi-BBU4zjM">
+<div class="rvthumb">
+ <img alt="water next to the ocean: Strange, Beautiful Ice Shards Stack Up on Lake Superior" height="80" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU4C2m.img?h=80&amp;w=100&amp;m=6&amp;q=60&amp;o=t&amp;l=f&amp;x=290&amp;y=157" title="Strange, Beautiful Ice Shards Stack Up on Lake Superior - Provided by National Geographic Partners, LLC" width="100" />
+                                        </div>
+                                        <div class="rvdetails">
+<div class="title">Strange, beautiful ice shards stack up on Lake Superior</div>
+<div class="description">Strange, Beautiful Ice Shards Stack Up on Lake Superior</div>
+<div class="srclog">
+ <img alt="National Geographic Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBJ3XCJ.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;o=t&amp;l=f" width="16" />
+<span class="srcname">National Geographic</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+ <li >
+<a title="Nike and Serena Williams celebrate &#39;crazy&#39; women in this powerful Oscars ad" href="http://www.msn.com/en-ca/news/other/nike-and-serena-williams-celebrate-crazy-women-in-this-powerful-oscars-ad/vi-BBU4dU3">
+<div class="rvthumb">
+ <img alt="Nike and Serena Williams celebrate &#39;crazy&#39; women in this powerful Oscars ad" height="80" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU5ywK.img?h=80&amp;w=100&amp;m=6&amp;q=60&amp;o=t&amp;l=f&amp;x=628&amp;y=255" title="Serena Williams - NTN" width="100" />
+                                        </div>
+                                        <div class="rvdetails">
+<div class="title">Nike and Serena Williams celebrate &#39;crazy&#39; women in this powerful Oscars ad</div>
+<div class="description">Nike and Serena Williams sent a powerful message about &quot;crazy&quot; women during the 2019 Oscars.</div>
+<div class="srclog">
+ <img alt="NowThis News Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA9UMeN.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;o=t&amp;l=f" width="16" />
+<span class="srcname">NowThis News</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+ <li >
+<a title="Plane sways midflight due to strong wind" href="http://www.msn.com/en-ca/news/other/plane-sways-midflight-due-to-strong-wind/vi-BBU3Zuv">
+<div class="rvthumb">
+ <img alt="a traffic light sitting on the side of a road: GIBRALTAR, GIBRALTAR - SEPTEMBER 11:  A British Airways flight from London arrives in Gibraltar on September 11, 2018 in Gibraltar, Gibraltar.  As the date for the United Kingdom&#39;s departure from the European Union approaches, the effects of Brexit on the self-governing 6.8 square-kilometre enclave, whose 34,000 residents voted 96 percent to remain and is already outside the EU customs union, remains still unclear.  A British territory for 300 years, which has a land border with Spain, has a $2.9 billion services economy which heavily relies on frontier workers coming from Spain for about 50 percent of its labour force.  (Photo by Matt Cardy/Getty Images)" height="80" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU3X37.img?h=80&amp;w=100&amp;m=6&amp;q=60&amp;o=t&amp;l=f&amp;x=600&amp;y=423" title="GIBRALTAR, GIBRALTAR - SEPTEMBER 11: A British Airways flight from London arrives in Gibraltar on Se... - Matt Cardy/Getty Images Europe/Getty Images" width="100" />
+                                        </div>
+                                        <div class="rvdetails">
+<div class="title">Plane sways midflight due to strong wind</div>
+<div class="description">British Airways said its passengers arrived safely in Malaga, Spain, after their flight had to be diverted due to strong wind in Gibraltar.</div>
+<div class="srclog">
+ <img alt="CNN Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAywGC0.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;o=t&amp;l=f" width="16" />
+<span class="srcname">CNN</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+  </ul>
+ <div class="countdown">
+<div class="number">1</div>
+<div class="cancel">Cancel</div>
+</div>
+ </div>
+</div>
+ </div>
+</div>
+
+
+ <div class="video_control_container vid_ctrls">
+<div class="mvp_play pauseactive" data-aop="playpause">
+<button  class="play circle mvp_btn" data-aop="play" title="Play"></button>
+<button  class="pause circle mvp_btn" data-aop="pause" title="Pause"></button>
+</div>
+<div class="mvp_progress">
+<div class="scrubber_bar" title="Seek">
+<span class="total"></span>
+<span class="buffered"></span>
+<span class="elapsed"></span>
+<button class="prog_handle"  data-aop="slider" title="Seek" role="button"></button>
+</div>
+<div class="progress_text">
+<div class="time_passed" tabindex="0"></div>
+<div class="time_total" tabindex="0"></div>
+</div>
+</div>
+<div class="controls">
+<button class="info circle mvp_btn" data-aop="Info" title="Info" role="button"></button>
+<div class="volume_ctrl">
+<button class="vid_volon  circle mvp_btn"  data-aop="Volume" title="Volume" role="button"></button>
+<button class="vid_volmute  circle mvp_btn"  data-aop="Volume" title="Volume" role="button"></button>
+<div class="volume_bar" role="dialog">
+<span class="volume_total"></span>
+<span class="volume_elapsed"></span>
+<button class="vol_handle" data-aop="volhandle"  title="Volume" role="button"></button>
+                </div>
+            </div>
+            <div class="caption_ctrl">
+<button class="closecaption circle textleft mvp_btn"  title="Closed Captioning" role="button"></button>
+<div class="close_caption_bar" role="menu">
+<div class="cc_box">
+<div class="cc_langbox"></div>
+<div class="cc_off settings" role="menuitem">SETTINGS</div>
+<div class="cc_off off" role="menuitem">OFF</div>
+                    </div>
+                </div>
+            </div>
+            <div class="qlty_ctrl">
+<button class="vid_qlty circle mvp_btn"  title="Video Quality" role="button"></button>
+<div class="qltybar" role="menu">
+<div class="hd" tabindex="0" data-bitrate="3000" data-type="104"  title="High-definition Video" role="menuitem">HD</div>
+<div class="hq" tabindex="0" data-bitrate="1400" data-type="103"  title="High-quality Video" role="menuitem">HQ</div>
+<div class="sd" tabindex="0" data-bitrate="600" data-type="102"  title="Standard-definition Video" role="menuitem">SD</div>
+<div class="low" tabindex="0" data-bitrate="400" data-type="101"  title="Low-bandwidth Video" role="menuitem">LO</div>
+                </div>
+            </div>
+            <button  class="vid_fs circle  mvp_btn" data-aop="FullScreen" title="Full Screen" role="button"></button>
+<button  class="vid_exitfs  circle mvp_btn" data-aop="ExitFullScreen" title="Exit Full Screen" role="button"></button>
+</div>
+</div>
+ <div class="ad_control_container">
+<div class="prgbar">
+<span class="elapsed"></span>
+</div>
+<div class="mvp_ctrls">
+<div class="mvp_play pauseactive" data-aop="playpause">
+<button class="play mvp_btn" data-aop="play" title="Play"></button>
+<button class="pause mvp_btn" data-aop="pause" title="Pause"></button>
+</div>
+<div class="statustext"></div>
+<div class="volume_ctrl">
+<button class="vid_volon mvp_btn" data-aop="Volume" title="Volume" role="button"></button>
+<button class="vid_volmute mvp_btn" data-aop="Volume" title="Volume" role="button"></button>
+                </div>
+            </div>
+        </div>
+
+<div class="video_admsg_container">
+<span class="video_admsg_txt"></span>
+</div>
+<div class="video_error video_player_error" style="display: none;">
+<div class="video_error_txt"></div>
+</div>
+<div class="video_pane_container"></div>
+<div class="video_logo_container"></div>
+<div class="ad_player" data-isdelayed="True">
+ </div>
+</div>
+</div>
+<div class="vpaid_admsg_container">
+</div>
+</div>
+<div class="flash video_player">
+<div class="sass_vars"></div>
+</div>
+<div class="external"></div>
+<div class="error"></div>
+ 
+</div>
+    <script>
+        require(["binding"], function (binding) {
+            binding("wcVideoPlayer", "#video_player_eb15eb94-8af2-4b20-9fc3-1694bb01c2a9").all();
+});
+</script>
+
+</div>
+<div class="close-btn-outer">
+<button  title="close"
+ ></button>
+</div>
+</div>
+
+ <div class="metadata">
+ <div class="title">AP Debrief: Trump likely to avoid another shutdown</div>
+
+<div class="provider-cntr">
+  <div class="provider">
+<div class="logo vidplogotext">
+ <a  aria-label="the canadian press" href="/en-ca/news/browse/the-canadian-press/vs-AA2pKFi" target="_self">
+<img alt="" height="20" src="//img.s-msn.com/tenant/amp/entityid/AA3JLi8.img?h=20&amp;w=20&amp;m=6&amp;q=60&amp;u=t&amp;o=f&amp;l=f&amp;f=png" width="20" /> </a>
+ </div>
+ <span>The Canadian Press</span>
+
+</div>
+
+ <div class="more-videos" >
+<a href="/en-ca/video">
+ See more videos
+                            </a>
+                        </div>
+ </div>
+ <div class="share-container">
+  <div class="stb-bsb"  data-aop="sharingtoolbar_social" >
+ 
+ <a 
+  class="stb-btn stb-linkedin stb-btn-first"
+  href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fa.msn.com%2f01%2fen-ca%2fBBTzeFk%3focid%3dsl&amp;title=AP+Debrief%3a+Trump+likely+to+avoid+another+shutdown&amp;source=http%3a%2f%2fa.msn.com%2f01%2fen-ca%2fBBTzeFk%3focid%3dsl"
+  data-piitxt="tmx-stb-linkedin"
+  aria-label="share on linkedin" >
+<div class="stb-box">
+ <span class="stb-text" aria-hidden="true" role="presentation">SHARE</span>
+ </div>
+</a>
+ <a 
+  class="stb-btn stb-facebook"
+  href="http://a.msn.com/01/en-ca/BBTzeFk?ocid=sf"
+  data-piitxt="tmx-stb-facebook"
+  aria-label="share on facebook" >
+<div class="stb-box">
+ <span class="stb-text" aria-hidden="true" role="presentation">SHARE</span>
+ </div>
+</a>
+ <a 
+  class="stb-btn stb-twitter"
+  href="https://twitter.com/share?url=http%3a%2f%2fa.msn.com%2f01%2fen-ca%2fBBTzeFk%3focid%3dst&amp;text=AP+Debrief%3a+Trump+likely+to+avoid+another+shutdown&amp;original_referer=http%3a%2f%2fa.msn.com%2f01%2fen-ca%2fBBTzeFk%3focid%3dst"
+  data-piitxt="tmx-stb-twitter"
+  aria-label="tweet" >
+<div class="stb-box">
+ <span class="stb-text" aria-hidden="true" role="presentation">TWEET</span>
+ </div>
+</a>
+ <a 
+  class="stb-btn stb-whatsapp"
+  href="https://web.whatsapp.com/send?text=http%3a%2f%2fa.msn.com%2f01%2fen-ca%2fBBTzeFk%3focid%3dsw"
+  data-piitxt="tmx-stb-whatsapp"
+  aria-label="share on whatsapp" >
+<div class="stb-box">
+ <span class="stb-text" aria-hidden="true" role="presentation">SHARE</span>
+ </div>
+</a>
+ <a 
+  class="stb-btn stb-email"
+  href="mailto:?subject=AP%20Debrief%3a%20Trump%20likely%20to%20avoid%20another%20shutdown&amp;body=I%20thought%20you%20would%20be%20interested%20in%20this%20video%20I%20found%20on%20MSN%3a%20AP%20Debrief%3a%20Trump%20likely%20to%20avoid%20another%20shutdown%20http%3a%2f%2fa.msn.com%2f01%2fen-ca%2fBBTzeFk%3focid%3dse"
+  data-piitxt="tmx-stb-email"
+  aria-label="share via email" >
+<div class="stb-box">
+ <span class="stb-text" aria-hidden="true" role="presentation">EMAIL</span>
+ </div>
+</a>
+
+
+ 
+</div>
+
+
+
+</div>
+ </div>
+  <div  class="playlist-and-storepromo">
+<div class="playlist-container"  data-aop="playlist">
+<button class="leftarrow" ></button>
+<div class="playlist-title">
+ What to watch next
+</div>
+<div class="playlist">
+ 
+
+<div class="list"   data-aop="cms/api/amp/video/bbtzefk"    
+  >
+ 
+ 
+ <div class="mediummodulea flexenabled height6u">
+  <ul class="autosizeflex flexbox-polyfill">
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/strange-beautiful-ice-shards-stack-up-on-lake-superior/vi-BBU4zjM"   aria-label="strange, beautiful ice shards stack up on lake superior trailer by national geographic. duration: 2 minutes 0 seconds">
+
+<img alt="water next to the ocean: Strange, Beautiful Ice Shards Stack Up on Lake Superior" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU4C2m.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg&amp;x=290&amp;y=157" title="Strange, Beautiful Ice Shards Stack Up on Lake Superior - Provided by National Geographic Partners, LLC" width="300" />                    <h3>Strange, beautiful ice shards stack up on Lake Superior</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="National Geographic Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBJ3XCJ.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="National Geographic">National Geographic</span>
+
+
+    </span>
+                    <span class="duration" aria-label="2 Minutes 0 Seconds" tabindex="0">2:00</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/nike-and-serena-williams-celebrate-crazy-women-in-this-powerful-oscars-ad/vi-BBU4dU3"   aria-label="nike and serena williams celebrate &#39;crazy&#39; women in this powerful oscars ad trailer by nowthis news. duration: 1 minutes 30 seconds">
+
+<img alt="Nike and Serena Williams celebrate &#39;crazy&#39; women in this powerful Oscars ad" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU5ywK.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg&amp;x=628&amp;y=255" title="Serena Williams - NTN" width="300" />                    <h3>Nike and Serena Williams celebrate 'crazy' women in this powerful Oscars ad</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="NowThis News Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA9UMeN.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="NowThis News">NowThis News</span>
+
+
+    </span>
+                    <span class="duration" aria-label="1 Minutes 30 Seconds" tabindex="0">1:30</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/plane-sways-midflight-due-to-strong-wind/vi-BBU3Zuv"   aria-label="plane sways midflight due to strong wind trailer by cnn. duration: 1 minutes 1 seconds">
+
+<img alt="a traffic light sitting on the side of a road: GIBRALTAR, GIBRALTAR - SEPTEMBER 11:  A British Airways flight from London arrives in Gibraltar on September 11, 2018 in Gibraltar, Gibraltar.  As the date for the United Kingdom&#39;s departure from the European Union approaches, the effects of Brexit on the self-governing 6.8 square-kilometre enclave, whose 34,000 residents voted 96 percent to remain and is already outside the EU customs union, remains still unclear.  A British territory for 300 years, which has a land border with Spain, has a $2.9 billion services economy which heavily relies on frontier workers coming from Spain for about 50 percent of its labour force.  (Photo by Matt Cardy/Getty Images)" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU3X37.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg&amp;x=600&amp;y=423" title="GIBRALTAR, GIBRALTAR - SEPTEMBER 11: A British Airways flight from London arrives in Gibraltar on Se... - Matt Cardy/Getty Images Europe/Getty Images" width="300" />                    <h3>Plane sways midflight due to strong wind</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="CNN Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAywGC0.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="CNN">CNN</span>
+
+
+    </span>
+                    <span class="duration" aria-label="1 Minutes 1 Seconds" tabindex="0">1:01</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/offbeat/woman-discovers-python-in-luggage-after-9000-mile-flight-from-australia/vi-BBU3WF1"   aria-label="woman discovers python in luggage after 9,000-mile flight from australia trailer by buzz60. duration: 0 minutes 33 seconds">
+
+<img alt="a pair of shoes" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU3RWG.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg" title="Woman Discovers Python in Luggage After 9,000-Mile Flight from Australia - Provided by Zazoom, LLC" width="300" />                    <h3>Woman discovers python in luggage after 9,000-mile flight from Australia</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="Buzz60 Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BByCIyx.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="Buzz60">Buzz60</span>
+
+
+    </span>
+                    <span class="duration" aria-label="0 Minutes 33 Seconds" tabindex="0">0:33</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/shock-for-onlookers-as-huge-ice-blocks-crash-onto-shore-just-feet-away/vi-BBU3VVJ"   aria-label="shock for onlookers as huge ice blocks crash onto shore just feet away trailer by newsflare. duration: 1 minutes 19 seconds">
+
+<img alt="a car parked on the side of a road" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU30pJ.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg&amp;x=926&amp;y=442" title="Huge blocks of ice crash onto shore of Lake Erie just feet from onlookers - Provided by Newsflare Limited" width="300" />                    <h3>Shock for onlookers as huge ice blocks crash onto shore just feet away</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="Newsflare Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BByydI8.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="Newsflare">Newsflare</span>
+
+
+    </span>
+                    <span class="duration" aria-label="1 Minutes 19 Seconds" tabindex="0">1:19</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/video/kim-jong-un-impersonator-deported-from-vietnam-ahead-of-summit/vi-BBU2TyB"   aria-label="kim jong un impersonator deported from vietnam ahead of summit trailer by afp. duration: 1 minutes 2 seconds">
+
+<img alt="Kim Jong Un impersonator deported from Vietnam ahead of summit" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU36VN.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg&amp;x=465&amp;y=206" title="Kim - AFP" width="300" />                    <h3>Kim Jong Un impersonator deported from Vietnam ahead of summit</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="AFP Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAyXiwM.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="AFP">AFP</span>
+
+
+    </span>
+                    <span class="duration" aria-label="1 Minutes 2 Seconds" tabindex="0">1:02</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/its-raining-fish-men-brave-raging-storm-to-pick-up-fish-blown-ashore/vi-BBU2rxe"   aria-label="it&#39;s raining fish! men brave raging storm to pick up fish blown ashore trailer by newsflare. duration: 1 minutes 14 seconds">
+
+<img alt="It&#39;s raining fish! Men brave raging storm to pick up fish blown ashore" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU2mG5.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg" title="Fish - Newsflare" width="300" />                    <h3>It's raining fish! Men brave raging storm to pick up fish blown ashore</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="Newsflare Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BByydI8.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="Newsflare">Newsflare</span>
+
+
+    </span>
+                    <span class="duration" aria-label="1 Minutes 14 Seconds" tabindex="0">1:14</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/world/astonishing-fire-whirl-captured-on-video/vi-BBU2R4W"   aria-label="astonishing fire whirl captured on video trailer by reuters. duration: 0 minutes 18 seconds">
+
+<img alt="Astonishing fire whirl captured on video" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU32em.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg" title="fire - Reuters" width="300" />                    <h3>Astonishing fire whirl captured on video</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="Reuters Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTOvML.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="Reuters">Reuters</span>
+
+
+    </span>
+                    <span class="duration" aria-label="0 Minutes 18 Seconds" tabindex="0">0:18</span>
+    </a>
+
+ 
+</li>
+ </ul>
+
+</div>
+ <div class="mediummodulea flexenabled height6u">
+  <ul class="autosizeflex flexbox-polyfill">
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/inside-the-wild-world-of-ice-canoe-racing-in-canada/vi-BBTZwjq"   aria-label="inside the wild world of ice canoe racing in canada trailer by nbc news. duration: 1 minutes 50 seconds">
+
+<img alt="Inside the wild world of ice canoe racing in Canada" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU0mXw.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg" title="Racing - NBC News" width="300" />                    <h3>Inside the wild world of ice canoe racing in Canada</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="NBC News Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBAJ56P.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="NBC News">NBC News</span>
+
+
+    </span>
+                    <span class="duration" aria-label="1 Minutes 50 Seconds" tabindex="0">1:50</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/79-year-old-is-the-queen-of-the-blues-guitar/vi-BBTXzBp"   aria-label="79-year-old is the &#39;queen of the blues guitar&#39; trailer by nowthis news. duration: 2 minutes 13 seconds">
+
+<img alt="79-year-old is the &#39;queen of the blues guitar&#39;" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU03Js.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg" title="Woman - NTN" width="300" />                    <h3>79-year-old is the 'queen of the blues guitar'</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="NowThis News Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA9UMeN.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="NowThis News">NowThis News</span>
+
+
+    </span>
+                    <span class="duration" aria-label="2 Minutes 13 Seconds" tabindex="0">2:13</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/mark-kelly-and-gabby-giffords-experience-rare-bout-of-snow-in-arizona/vi-BBTXU6B"   aria-label="mark kelly and gabby giffords experience rare bout of snow in arizona trailer by nowthis news. duration: 0 minutes 15 seconds">
+
+<img alt="Mark Kelly and Gabby Giffords experience rare bout of snow in Arizona" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBU00c7.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg" title="Mark Kelly - NTN" width="300" />                    <h3>Mark Kelly and Gabby Giffords experience rare bout of snow in Arizona</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="NowThis News Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA9UMeN.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="NowThis News">NowThis News</span>
+
+
+    </span>
+                    <span class="duration" aria-label="0 Minutes 15 Seconds" tabindex="0">0:15</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/man-skis-while-holding-onto-rope-attached-to-horse-and-buggy/vi-BBTXySP"   aria-label="man skis while holding onto rope attached to horse and buggy trailer by abc news. duration: 0 minutes 20 seconds">
+
+<img alt="Man skis while holding onto rope attached to horse and buggy" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTXmXK.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg&amp;x=534&amp;y=213" title="Man skis while holding onto rope attached to horse and buggy - Provided by ABC News Inc." width="300" />                    <h3>Man skis while holding onto rope attached to horse and buggy</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="ABC News Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTw0cA.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="ABC News">ABC News</span>
+
+
+    </span>
+                    <span class="duration" aria-label="0 Minutes 20 Seconds" tabindex="0">0:20</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/timelapse-shows-how-fast-arizona-gets-buried-in-snow/vi-BBTXQit"   aria-label="timelapse shows how fast arizona gets buried in snow trailer by accuweather. duration: 0 minutes 20 seconds">
+
+<img alt="a group of snow covered ground" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTXFqg.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg&amp;x=353&amp;y=345" title="Timelapse shows how fast Arizona gets buried in snow - Provided by Accuweather, Inc" width="300" />                    <h3>Timelapse shows how fast Arizona gets buried in snow</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="AccuWeather Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AA6HZTm.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="AccuWeather">AccuWeather</span>
+
+
+    </span>
+                    <span class="duration" aria-label="0 Minutes 20 Seconds" tabindex="0">0:20</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/woman-reunites-with-purse-she-lost-65-years-ago/vi-BBTWAO8"   aria-label="woman reunites with purse she lost 65 years ago trailer by inside edition. duration: 1 minutes 46 seconds">
+
+<img alt="Woman Reunites With Purse She Lost 65 Years Ago" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTX9CO.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg&amp;x=321&amp;y=337" title="Woman Reunites With Purse She Lost 65 Years Ago" width="300" />                    <h3>Woman Reunites With Purse She Lost 65 Years Ago</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="Inside Edition Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAsvT3F.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="Inside Edition">Inside Edition</span>
+
+
+    </span>
+                    <span class="duration" aria-label="1 Minutes 46 Seconds" tabindex="0">1:46</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/watch-this-pilot-make-a-perfect-landing-with-almost-zero-visibility/vi-BBTVqnZ"   aria-label="watch this pilot make a perfect landing with almost zero visibility trailer by storyful. duration: 0 minutes 53 seconds">
+
+<img alt="a view of a city street" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTVbMA.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg&amp;x=373&amp;y=199" title="Watch This Pilot Make a Perfect Landing With Almost Zero Visibility - Provided by Storyful" width="300" />                    <h3>Watch this pilot make a perfect landing with almost zero visibility</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="Storyful Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1Qgoh.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="Storyful">Storyful</span>
+
+
+    </span>
+                    <span class="duration" aria-label="0 Minutes 53 Seconds" tabindex="0">0:53</span>
+    </a>
+
+ 
+</li>
+ <li  class="hl3 media video"
+ 
+ >
+ 
+     <a href="http://www.msn.com/en-ca/news/other/failed-atm-theft-ends-in-destruction/vi-BBTREYb"   aria-label="failed atm theft ends in &#39;destruction&#39; trailer by sky news. duration: 1 minutes 6 seconds">
+
+<img alt="a view of a street" height="170" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBTRKSL.img?h=170&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=jpg&amp;x=885&amp;y=618" title="Failed ATM theft ends in destruction - Ooyala - Sky News UK" width="300" />                    <h3>Failed ATM theft ends in 'destruction'</h3>
+    <span class="sourcename">
+                <div class="vidplogotext">
+                    <img alt="Sky News Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAyx2WP.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" width="16" />
+                </div>
+
+
+                <span  class="sourcetitle" title="Sky News">Sky News</span>
+
+
+    </span>
+                    <span class="duration" aria-label="1 Minutes 6 Seconds" tabindex="0">1:06</span>
+    </a>
+
+ 
+</li>
+ </ul>
+
+</div>
+ 
+</div>
+
+
+
+
+</div>
+<button class="rightarrow" ></button>
+<div class="paging"></div>
+</div>
+
+ </div>
+ <div class="nextvideo-outer">
+<div class="nextvideo-inner" >
+<img alt="UP NEXT" class="vid-image" />
+<div class="coming-up">
+ UP NEXT
+</div>
+<div class="vid-title"></div>
+<div class="circle"></div>
+<div class="next-seconds"></div>
+<button class="cancel" ></button>
+</div>
+</div>
+
+</div>
+
+
+
+<br></p><p>But Trump <a href="https://twitter.com/realDonaldTrump/status/1095469447933059073">tweeted</a> that once this money is “hooked up with lots of money from other sources,” he’ll <a href="https://twitter.com/realDonaldTrump/status/1095469449052868610">actually be getting</a> “almost $23 BILLION for Border Security,” and that the wall “is being built as we speak.” No one knows where that sum comes from, and the <a href="https://www.washingtonpost.com/news/fact-checker/wp/2018/04/05/president-trump-says-his-beautiful-wall-is-being-built-nope/?utm_term=.9f48c68ee099">idea that the wall is being built is a lie</a>. But the details don’t matter: All that matters is maintaining the <em>illusion</em> that Trump is acting and winning.</p><p>Trump’s allies are also working overtime to maintain that illusion. Jacqueline Alemany <a href="https://www.washingtonpost.com/news/powerpost/paloma/powerup/2019/02/13/powerup-short-changed-here-s-trump-could-get-more-money-for-the-wall-without-congress/5c631b301b326b71858c6b67/?utm_term=.2eebc8507d25">rounds up some of their public statements</a>, and perhaps the best one in terms of sheer propagandistic up-is-downism comes from Rush Limbaugh, who claims that Trump can “portray” the deal “as a win,” after which he “can continue in his efforts.”</p><p>Similarly, Rep. Mark Meadows (R-N.C.) and Sen. Lindsey O. Graham (R-S.C.) are <a href="https://www.washingtonpost.com/news/powerpost/paloma/powerup/2019/02/13/powerup-short-changed-here-s-trump-could-get-more-money-for-the-wall-without-congress/5c631b301b326b71858c6b67/?utm_term=.8cf262d780f9">calling on</a> Trump to declare a national emergency. The whole point of this is not merely to get Trump to do it, but also to <em>create the impression</em> that he has ways of acting decisively going forward.</p><p><strong>National emergency appears unlikely</strong></p><p>Indeed, the push for Trump to declare a national emergency itself underscores this point. Remember, during the first government shutdown, Trump repeatedly threatened a national emergency, at one point even <a href="https://thehill.com/homenews/sunday-talk-shows/424053-schiff-trumps-threat-to-declare-national-emergency-a-non-starter">saying</a> he might do so “in the next few days.” The idea was that Trump <em>can still act on his own</em>, so Democrats should be very frightened and should cough up the unilateral concessions he’s demanding to avoid that.</p><p>But it quickly became clear that the idea that this gives him leverage was also an illusion. Even if Trump did do this, <a href="https://www.nytimes.com/2019/01/09/us/politics/donald-trump-national-emergency.html">legal challenges would likely delay</a> construction until at least 2020. Republicans also quickly realized that Democrats can <a href="https://www.washingtonpost.com/opinions/2019/02/04/if-trump-declares-national-emergency-pelosi-can-jam-republicans-heres-how/?utm_term=.8876986e4a42">execute a procedural maneuver to force GOP senators to vote</a> on Trump’s emergency declaration, which they are loath to do.</p><p>That’s why Republicans are now adamantly warning Trump off of declaring an emergency. But Trump’s allies are still calling on him to do it, anyway, which at least will create the impression that he has ways of acting.</p><p><strong>Trump’s other options are constrained</strong></p><p>To be clear, Trump may have ways to gin up at least some more money. But they appear pretty constrained at the outset. The Post <a href="https://www.washingtonpost.com/business/economy/white-house-wont-commit-to-congress-border-deal-to-avert-shutdown/2019/02/12/16275638-2ed9-11e9-813a-0ab2f17e305b_story.html?utm_term=.a158742357af">reports that some Republicans say</a> Trump can find $881 million in a military program that funds roads and fences to block drug-smuggling. But that’s less money than he’s getting in the current deal, and one would think it would have to be focused on areas where drug-smuggling is happening (most of which <a href="https://www.washingtonpost.com/news/fact-checker/wp/2017/09/11/president-trumps-claim-that-a-wall-will-stop-much-of-the-drugs-from-pouring-into-this-country/?utm_term=.79cf7a053ea0">proceeds through official ports of entry</a>).</p><p>Meanwhile, White House advisers are <a href="https://www.politico.com/story/2019/02/11/mick-mulvaney-border-wall-funds-1163996?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f117-dd93-ad7f-f9174cc30003&nlid=630318">looking at using an executive order</a> to shift money from various military flood-control and construction projects, including disaster relief funds. But Politico <a href="https://www.politico.com/story/2019/02/11/mick-mulvaney-border-wall-funds-1163996?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f117-dd93-ad7f-f9174cc30003&nlid=630318">reports that even some inside the White House believe</a> this will be deeply problematic politically and very vulnerable to court challenges.</p><p>Even if Trump does find a bit more money, it would result in nothing like his wall. In a recent briefing to reporters that I listened to, Customs and Border Protection officials clarified that the type of fencing they see as most effective is the <a href="https://cuellar.house.gov/uploadedfiles/border_barrier_fact_sheet_12.18.18_final.pdf">sort of bollard fencing that’s already being built</a>. And it would get installed in very targeted areas — a far cry from the decisive break with past practice, in the form of a Trumpian monolith, that Trump sold to his supporters.</p><p>Of course, it really may be that all that matters to Trump is maintaining the illusion that he is acting decisively and succeeding. At his rally in El Paso on Monday, Trump spoke against the backdrop of an enormous banner that blared: “FINISH THE WALL.” According <a href="https://twitter.com/ddale8/status/1095660191612309505">to the indefatigable Daniel Dale</a>, Trump’s operatives started handing out signs with this slogan in October, and El Paso was the first time it made its way into a banner.</p><p>So Trump and his political operation plainly recognize how crucial it is to sustain the lie that the wall is already being built, if only in the minds of Trump’s base. But everyone else knows the grand illusion is cracking up under the strain of reality.</p><p><strong>Read more</strong>:</p><p><a href="https://www.washingtonpost.com/opinions/2019/02/12/take-deal-mr-president/?utm_term=.c12269a3fd04">Henry Olsen: Take the deal, Mr. President</a></p><p><a href="https://www.washingtonpost.com/opinions/come-on-lawmakers-not-another-shutdown/2019/02/11/bd239ecc-2e40-11e9-8ad3-9a5b113ecd3c_story.html?utm_term=.a9ebdb3fdf30">The Post’s View: Come on, lawmakers. Not another shutdown.</a></p><p><a href="https://www.washingtonpost.com/opinions/2019/02/12/with-new-border-deal-republicans-are-trying-negotiate-trumps-surrender/?utm_term=.36bc1286d0e5">Greg Sargent: With new border deal, Republicans are trying to negotiate Trump’s surrender</a></p><p><a href="https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html?utm_term=.28e790f11153">Marc A. Thiessen: How Trump can get the rest of his wall money — without a shutdown or emergency</a></p><p><a href="https://www.washingtonpost.com/opinions/2019/02/13/how-trump-lost-border-wall-fight/?utm_term=.91cf161b34c5">Jennifer Rubin: How Trump lost the border-wall fight</a></p><p><a href="https://www.washingtonpost.com/opinions/2019/02/07/trumps-wall-is-potent-symbol-not-just-his-supporters-his-opponents-too/?utm_term=.73e1e7ac2af2">Greg Sargent: Trump’s wall is a potent symbol. Not just for his supporters. For his opponents, too.</a></p>
+</div>
+ </div>
+
+ 
+
+<div class="back-msn-home"  data-aop="back-to-home">
+<a href="/en-ca"  role="button"><span>Go to MSN Home</span></a>
+</div>
+
+ 
+ 
+
+</div>
+<div id="aside"  data-region="aside">
+ 
+     <div  class="ad"  id="rectangle1_article_19a2b613-4c80-4160-9f51-857e6cd79fa3">
+        <div>
+            <div  id="rectangle1_article_container_19a2b613-4c80-4160-9f51-857e6cd79fa3">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=NEWCAEN11&amp;PVGUID=488a894a74a142f1b9d9d4e71b64598e&amp;PROVIDERID=7GYXSIP", 300, 600, "rectangle1_article_container_19a2b613-4c80-4160-9f51-857e6cd79fa3");
+                    </script>
+            </div>
+                    <a href="//go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+    <div  class="ad"  id="rectangle2_article_f4d51627-1d3a-4a16-8882-1020d5e5eeca">
+        <div>
+            <div  id="rectangle2_article_container_f4d51627-1d3a-4a16-8882-1020d5e5eeca">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=NEWCAEN13&amp;PVGUID=488a894a74a142f1b9d9d4e71b64598e&amp;PROVIDERID=7GYXSIP", 300, 250, "rectangle2_article_container_f4d51627-1d3a-4a16-8882-1020d5e5eeca");
+                    </script>
+            </div>
+                    <a href="//go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+ <section class="morefromproviderrr"  data-aop="morefromprovidervnext_morefromprovidervnext" >
+ 
+<h3> <h2>
+ <span>More From The Washington Post</span>
+ </h2>
+</h3>
+ 
+<ul>
+ </ul>
+         <div class="promotionalcontent">
+            <span class="promoimage">
+                <a target="_blank" href="https://www.washingtonpost.com/"  data-aop="provider_logo_secondary" >
+                   <img alt="The Washington Post" height="100" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAxYtfi.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;u=t&amp;o=f&amp;l=f" width="100" />
+                </a>
+            </span>
+            <span class="promotext">
+                <div class="providername">
+                    The Washington Post
+                </div>
+                <div class="readmore">
+                    <a target="_blank" href="https://www.washingtonpost.com/"  data-aop="provider_promotext" >
+                       View the full site
+                    </a>
+                </div>
+            </span>
+        </div>
+
+ 
+</section>
+
+
+
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-ca">Home</a>
+</li>
+ <li  class="current">
+<a href="/en-ca/news">News</a>
+</li>
+ <li >
+<a href="/en-ca/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-ca/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-ca/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-ca/money">Money</a>
+</li>
+ <li >
+<a href="/en-ca/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-ca/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-ca/lifestyle/food">Food</a>
+</li>
+ <li >
+<a href="/en-ca/lifestyle/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-ca/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-ca/video">Video</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en-ca/">&#169; 2019 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy &amp; Cookies</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Terms of use</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-ca/msn-worldwide">MSN Worldwide</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=488a894a74a142f1b9d9d4e71b64598e&amp;rnd=636868023988037494&amp;rf=&amp;tp=http%253A%252F%252Fwww.msn.com%252Fen-ca%252Fnews%252Fnewspolitics%252Fopinions-trumps-wall-of-lies-and-illusions-just-cracked-again%252Far-BBTxBZ0%253Focid%253Dst&amp;di=13987&amp;lng=en-ca&amp;activityId=488a894a74a142f1b9d9d4e71b64598e&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=newspolitics&amp;st.sdpt=&amp;subcvs=news&amp;pg.n=articlevnext&amp;pg.t=article&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;aadState=0" alt="image beacon" width="1" height="1" /><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;cs_ucfr=1&amp;rn=636868023988037494&amp;c7=http%253A%252F%252Fwww.msn.com%252Fen-ca%252Fnews%252Fnewspolitics%252Fopinions-trumps-wall-of-lies-and-illusions-just-cracked-again%252Far-BBTxBZ0%253Focid%253Dst&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=13987&amp;pi=&amp;ps=&amp;su=http%253A%252F%252Fwww.msn.com%252Fen-ca%252Fnews%252Fnewspolitics%252Fopinions-trumps-wall-of-lies-and-illusions-just-cracked-again%252Far-BBTxBZ0%253Focid%253Dst&amp;mkt=en-ca&amp;pp=False&amp;cv.partner=The%2BWashington%2BPost&amp;cv.publcat=WP%2BCompany%2BLLC%2Bd%252fb%252fa%2BThe%2BWashington%2BPost&amp;st.dpt=newspolitics&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636868023988037494&amp;rf=&amp;rid=488a894a74a142f1b9d9d4e71b64598e&amp;cvs=Browser&amp;subcvs=news&amp;cv.entityId=BBTxBZ0&amp;cv.entitySrc=ar&amp;provid=AA2ed1&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=488a894a74a142f1b9d9d4e71b64598e&amp;pm=&amp;pg.n=articlevnext&amp;pg.t=article&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;ex=&amp;aadState=0" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+    <script>
+        require(["document", "c.deferred"], function (document)
+        {
+            var iframe = document.createElement("iframe");
+            var protocolWithColon = "True" === "True" ? document.location.protocol : protocol + ":";
+
+            iframe.src = protocolWithColon + "//" + "cdn.adaptv.advertising.com/msft/msftsync.html";
+            iframe.width = 0;
+            iframe.height = 0;
+            iframe.setAttribute("style", "display: block; border: 0");
+
+            document.body.appendChild(iframe);
+        });
+    </script>
+    <noscript>
+        <iframe src="cdn.adaptv.advertising.com/msft/msftsync.html" height="0" width="0" style="display: block; border: 0"></iframe>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>

@@ -1,0 +1,1047 @@
+
+<!DOCTYPE html>
+<html class="root root_js_disabled">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=1170" />
+        <meta name="site" content="wkyc.com" />
+        <script>
+            document.documentElement.classList.remove('root_js_disabled');
+        </script>
+        <noscript>
+            <style>
+                * {
+                    transition: none !important;
+                    animation: none !important;
+                }
+                .page__desktop-header {
+                    position: static;
+                    top: auto;
+                    left: auto;
+                    right: auto;
+                    bottom: auto;
+                }
+                .desktop-header__nav-wrapper {
+                    z-index: 3;
+                    opacity: 0;
+                    width: 70px !important;
+                    height: 50px !important;
+                    transform: translateX(-655px) translateY(23px);
+                    transition: none;
+                }
+                .desktop-header__navigation_visible_false {
+                    transition: none !important;
+                    overflow: visible !important;
+                }
+                .desktop-header__nav-wrapper:hover {
+                    height: auto !important;
+                    transform: none;
+                    opacity: 1;
+                    transition: none;
+                }
+                .desktop-header__nav-wrapper:hover .desktop-header__navigation_visible_false {
+                    opacity: 1;
+                    transform: translateX(-670px) translateY(-98px) !important;
+                    padding-top: 100px;
+                }
+                .grid__cell[data-columns="12"] .ad,
+                .page__footer .ad__nojs-placeholder {
+                    display: none !important;
+                }
+                .grid__cell[data-columns="12"] [data-module="ad"] {
+                    display: none !important;
+                }
+                .grid__module[data-module="headline-list-with-abstract"] .ad__nojs-placeholder {
+                    display: none !important;
+                }
+            </style>
+        </noscript>
+        <script>
+            function appendStyle(url) {
+                var sheet = document.createElement("link");
+                sheet.setAttribute("href", url);
+                sheet.setAttribute("rel", "stylesheet");
+                sheet.setAttribute("type", "text/css");
+                document.head.appendChild(sheet);
+            }
+        </script>
+        <link rel="stylesheet" href="/Views/dist/styles/modules.min.css?version=3.3.7" />
+        <script>
+            appendStyle('/Views/lib/jquery-ui/jquery-ui.min.css');
+            appendStyle('/Views/lib/jquery-ui/jquery-ui.structure.min.css');
+            appendStyle('/Views/lib/jquery-ui/jquery-ui.theme.min.css');
+        </script>
+        <!--[if IE]><link rel="shortcut icon" href="/content/favicon/WKYC.png?version=3.3.7"><![endif]-->
+        <link rel="icon" href="/content/favicon/WKYC.png?version=3.3.7">
+        <meta property="fb:app_id" content="145836432870387" />
+        <meta property="og:site_name" content="WKYC" />
+        <meta property="og:locale" content="en_US" />
+        <meta itemprop="pageType" content="article" />
+        <meta name="description" content="New Cleveland Browns coach Freddie Kitchens says if you are not all in on brown and orange, you do not matter." />
+                    <script>
+                var tealiumUrl = 'https://tags.tiqcdn.com/utag/tegna/wkyc-redesign-desktop/prod/utag.js';
+                var utag_data = {
+                    //Original Set
+                    template_type: "", // ux name for page layout
+                    page_type: "article",
+                    division: "Broadcast",
+                    site_type: "desktop",
+                    page_url: window.location.href,
+                    simplerreach_tags: "",
+                    pathname: "https://www.wkyc.com/article/sports/nfl/browns/freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns/95-c62ee7ae-cb6b-4882-b3bb-6b648716f305",
+                    ad_slots: [],
+                    gpt_network_code: "32805352/oh-cleveland-WKYC-B3330_DesktopTablet",
+                    //Occurring in Both Sets
+                    section: "sports",
+                    subsection: "nfl",
+                    topic: "browns",
+                    subtopic: "",
+                    content_type: "article",
+                    category: "sports",
+                    market: "Cleveland" + ", " + "OH",
+                    //New Set
+                    subcategory: "nfl",
+                    keywords: "WKYC",
+                    document_title: "WKYC.com",
+                    canonical_url: "https://www.wkyc.com/article/sports/nfl/browns/freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns/95-c62ee7ae-cb6b-4882-b3bb-6b648716f305"
+                };
+            </script>
+        <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "url": "https://www.wkyc.com",
+            "logo": "https://www.wkyc.com/content/logos/mobile/wkyc.png",
+            "sameAs": [
+            "https://www.facebook.com/WKYC.Channel3",
+            "https://twitter.com/@WKYC"
+            ]
+            }
+        </script>
+        <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "url": "https://www.wkyc.com",
+            "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.wkyc.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+            }
+            }
+        </script>
+            <meta itemprop="datePublished" content="1/14/2019 11:13:26 PM" />
+            <meta itemprop="dateModified" content="1/14/2019 11:57:28 PM" />
+            <meta itemprop="url" content="https://www.wkyc.com/article/sports/nfl/browns/freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns/95-c62ee7ae-cb6b-4882-b3bb-6b648716f305" />
+            <meta itemprop="magnet:custom" name="category" content="sports" />
+            <meta property="og:url" content="https://www.wkyc.com/article/sports/nfl/browns/freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns/95-c62ee7ae-cb6b-4882-b3bb-6b648716f305">
+            <meta property="og:title" content="Freddie Kitchens: If you don’t wear brown and orange, you don’t matter to Browns">
+            <meta property="og:description" content="New Cleveland Browns coach Freddie Kitchens says if you are not all in on brown and orange, you do not matter.">
+            <meta property="og:type" content="article" />
+            <meta property="og:image" content="https://media.wkyc.com/assets/WKYC/images/2ce02321-cde9-44d7-bcda-6847208fc662/2ce02321-cde9-44d7-bcda-6847208fc662_1140x641.jpg">
+            <meta property="og:image:width" content="1140" />
+            <meta property="og:image:height" content="641" />
+            <meta property="og:article:published_time" content="1/14/2019 11:13:26 PM" />
+            <meta name="twitter:title" content="Freddie Kitchens: If you don’t wear brown and orange, you don’t matter to Browns">
+            <meta name="twitter:image:src" content="https://media.wkyc.com/assets/WKYC/images/2ce02321-cde9-44d7-bcda-6847208fc662/2ce02321-cde9-44d7-bcda-6847208fc662_360x203.jpg">
+            <meta name="twitter:card" content="summary">
+            <meta name="twitter:site" content="@WKYC">
+            <meta name="twitter:description" content="New Cleveland Browns coach Freddie Kitchens says if you are not all in on brown and orange, you do not matter.">
+            <meta name="twitter:domain" content="www.wkyc.com">
+            <link rel="canonical" href="https://www.wkyc.com/article/sports/nfl/browns/freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns/95-c62ee7ae-cb6b-4882-b3bb-6b648716f305" />
+            <link rel="alternate" href="https://www.wkyc.com/mobile/article/sports/nfl/browns/freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns/95-c62ee7ae-cb6b-4882-b3bb-6b648716f305" />
+                <link rel="amphtml" href="https://www.wkyc.com/amp/article?section=sports&amp;subsection=nfl&amp;topic=browns&amp;headline=freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns&amp;contentId=95-c62ee7ae-cb6b-4882-b3bb-6b648716f305" />
+            <script>
+                if (window.utag_data) {
+                    //Original Set
+                    utag_data.video_included = "true";
+                    utag_data.article_date = "1/14/2019 11:13:26 PM";
+                    
+                    utag_data.msj_tag = "";
+                    if ("text" === "text")
+                    {
+                        utag_data.item_number = 1;
+                    }
+                    //Occurring in Both Sets
+                    utag_data.asset_id = "c62ee7ae-cb6b-4882-b3bb-6b648716f305";
+                    utag_data.article_keywords = "WKYC";
+                    utag_data.content_title = "Freddie Kitchens: If you don’t wear brown and orange, you don’t matter to Cleveland Browns";
+                    utag_data.content_categories = "";
+                    //New Set
+                    utag_data.article_byline = "Matthew Florjancic";
+                    utag_data.topics_included = "false"; //whether related topics are present, may be able to remove since not using Klangoo
+
+                    if ("" === "video")
+                    {
+                        utag_data.video_included = "true";  //if lead asset is video
+                        utag_data.video_autoplay = "true";  //if lead asset is autoplay
+                    }
+                }
+            </script>
+            <title>Freddie Kitchens: If you don’t wear brown and orange, you don’t matter to Cleveland Browns | wkyc.com</title>
+                <style>
+        .fc-pinned-header:after {
+            background: #000000 url('/content/logos/dark/WKYC.png') calc(100% - 45px) 10px no-repeat;
+            background-size: auto 25px;
+            content: 'Ad blocker detected';
+        }
+        .fc-dialog-header:after {
+            background: #000000 url('/content/logos/dark/WKYC.png') calc(100% - 20px) 10px no-repeat;
+            background-size: auto 25px;
+            content: 'Ad blocker detected';
+        }
+        </style>
+            </head>
+    <body id="page"
+          class="page"
+          data-model-siteid="95"
+          data-model-gptid="oh-cleveland-WKYC-B3330_DesktopTablet"
+          data-model-callletters="WKYC"
+          data-model-primarydomain="wkyc.com"
+          data-model-imageresizeurl="https://www.wkyc.com/img/resize/"
+          data-model-imageresizeurl-wx="https://www.wkyc.com/img/wx/resize/"
+          data-model-city="Cleveland"
+          data-model-state="OH"
+          data-model-fban="145836432870387"
+          data-model-refresh="420"
+          data-model-metadata="{
+  &quot;title&quot;: &quot;WKYC.com&quot;,
+  &quot;keywords&quot;: &quot;WKYC&quot;,
+  &quot;contentType&quot;: &quot;article&quot;,
+  &quot;pageType&quot;: &quot;article&quot;,
+  &quot;continiousScrollSettings&quot;: {
+    &quot;providers&quot;: [
+      &quot;database&quot;,
+      &quot;database&quot;,
+      &quot;database&quot;,
+      &quot;database&quot;,
+      &quot;database&quot;
+    ],
+    &quot;default&quot;: &quot;database&quot;
+  },
+  &quot;platform&quot;: &quot;desktop&quot;
+}"
+          data-model-timezone="Eastern"
+          data-model-twitterid="@WKYC"
+          data-model-omnitureid="0"
+          data-model-googleanalytics="455"
+          data-model-tealiumgpt="446"
+          data-model-version="3.3.7"
+          data-model-closings="true"
+          data-model-gptnetworkcode="32805352"
+          data-model-comscoreid="19962895"
+          data-model-recaptchasitekey="6LdhZY8UAAAAANQxx8Y6_JJZSJtONlMiM_yiKTah"
+            data-model-cscrollsectionpriority="false"             data-model-ispreview="false">
+        <div id="fb-root"></div>
+            <div class="page__desktop-header">
+<div class="desktop-header desktop-header_collapsed_false">
+    <div class="desktop-header__wrap">
+        <div class="desktop-header__inner">
+            <div class="desktop-header__toolbar">
+<div class="toolbar">
+    <div class="toolbar__live-indicator">
+<div class="live-indicator live-indicator_collapsed_false">
+                <div class="live-indicator__info live-indicator__info_visible_true">
+                    <div class="live-indicator__cta">
+                        <div class="live-indicator__watch-live">WATCH LIVE</div>
+                        <div class="live-indicator__watch-time">On Air 5:55PM</div>
+                    </div>
+                </div>
+
+</div>
+    </div>
+    <div class="toolbar__weather-summary">
+<div class="weather-summary">
+    <a class="weather-summary__link" data-tracking="weather-summary/weatherClicked" href="/weather">
+        <div class="weather-summary__icon weather-icons weather-icons_icon_77"></div>
+        <span class="weather-summary__current-temperature">20</span>
+        <div class="weather-summary__location">Cleveland, OH</div>
+        <div class="weather-summary__weather-conditions-container">
+            <p class="weather-summary__weather-conditions">Cleveland Weather Summary: 20 degrees</p>
+        </div>
+        <!-- span class="weather-summary__details">
+        <span class="weather-summary__high-low weather-summary__high-low_visible_true">
+            <span class="weather-summary__high-low-icon"></span>
+            <span class="weather-summary__high-low-label" title="high">H</span>
+            <span class="weather-summary__high-low-temperature weather-summary__high">25</span>
+            <span class="weather-summary__high-low-separator">/</span>
+            <span class="weather-summary__high-low-label" title="low">L</span>
+            <span class="weather-summary__high-low-temperature weather-summary__low">16</span>
+        </span>
+    </span -->
+    </a>
+</div>
+
+    </div>
+</div>
+            </div>
+            <div class="desktop-header__nav-button"><div class="desktop-header__nav-label">Menu</div></div>
+            <div class="desktop-header__badges"></div>
+            <a class="desktop-header__home-link desktop-header__home-link_visible_true" href="/" data-tracking="desktop-header/homeLinkClicked">
+                <img class="desktop-header__logo" src="/content/logos/mobile/wkyc.png" />
+            </a>
+            <div class="desktop-header__article-title"></div>
+        </div>
+        <div class="desktop-header__progress desktop-header__progress_visible_false">
+<progress class="progress" value="0"></progress>
+        </div>
+    </div>
+    <div class="desktop-header__nav-wrapper">
+        <div class="desktop-header__navigation desktop-header__navigation_visible_false desktop-header__navigation_collapsed_false">
+
+<div class="navigation navigation_visible_false">
+    <div class="navigation__main">
+    <div class="navigation__main-inner">
+        <div class="navigation__searchbox">
+<div class="searchbox">
+    <form class="searchbox__form" action="/search">
+        <div class="searchbox__main">
+            <input class="searchbox__textbox searchbox__textbox_name_q" name="q" placeholder="Search"/>
+            <button class="searchbox__submit" type="submit"></button>
+        </div>
+        <label class="searchbox__labeled-field">
+            <input class="searchbox__checkbox searchbox__checkbox_name_phrase" type="checkbox" name="phrase" />
+            <span class="searchbox__label">Exact phrase</span>
+        </label>
+    </form>
+</div>
+        </div>
+        <div class="navigation__notification-container">
+            <div class="navigation__notification">
+                <div class="navigation__notification-title">WKYC Alert Center</div>
+                <div class="navigation__notification-list">
+                        <a class="navigation__notification-label navigation__notification-label_name_live-videos navigation__notification-label_active_false" data-tracking="navigation/alertCenterClicked" href="/live-video">Live Video</a>
+                                            <a class="navigation__notification-label navigation__notification-label_name_breaking-news navigation__notification-label_active_false" data-tracking="navigation/alertCenterClicked" href="/breaking-news">Breaking<br />News</a>
+                                            <a class="navigation__notification-label navigation__notification-label_name_weather navigation__notification-label_active_false" data-tracking="navigation/alertCenterClicked" href="/severe-weather">Weather</a>
+                                                <a class="navigation__notification-label navigation__notification-label_name_closings navigation__notification-label_active_true" data-tracking="navigation/alertCenterClicked" href="/closings">Delays/<br />Closings</a>
+                </div>
+            </div>
+        </div>
+        <ul class="navigation__sponsored-list">
+            <li class="navigation__sponsored-by">Sponsored by</li>
+        </ul>
+        <noscript>
+            <div class="navigation__item navigation__item_children_false" style="border-top:1px solid #e6e6e6">
+                <a class="navigation__sublist-activator" href="/">
+                    <span class="navigation__label">Home</span>
+                </a>
+            </div>
+        </noscript>
+        <ul class="navigation__list">
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_news" href="/news" >News</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                            <ul class="navigation__sublist navigation__sublist_special_true navigation__sublist_visible_false">
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_local navigation__sublink_special_true" href="/local" >Local</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_money navigation__sublink_special_true" href="/money" >Money</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_entertainment-news navigation__sublink_special_true" href="/entertainment" >Entertainment</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~nation-world navigation__sublink_special_true" href="/nation-now" >Nation World</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-health navigation__sublink_special_true" href="/health" >Health</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life navigation__sublink_special_true" href="/life" >Life</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-investigations navigation__sublink_special_true" href="/investigative" >Investigative</a></li>
+                                            <li class="navigation__subitem navigation__subitem_special_true"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_community navigation__sublink_special_true" href="/community" >Community</a></li>
+                            </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_weathertraffic" href="/weather/" >Weather &amp; Traffic</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather" href="/weather" >Current Weather</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather-radar" href="/radar" >Radar</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather" href="/10-day" >Hourly &amp; 10-Day</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather-closings" href="/closings" >Closings &amp; Delays</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather-closings" href="/textalerts" >Text Alerts</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather~weather-blog" href="/weather-features" >Weather Features</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_weather-environment" href="/environment" >Environment</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_tech~science" href="/space-science" >Earth and Space</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_traffic" href="/traffic" >Traffic</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_traffic~gas-prices" href="/gas-prices" >Gas Prices</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_sports" href="/sports" >Sports</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports" href="/sports" >Latest Sports</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports-high-school" href="/hss" >High School</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports-nfl-browns" href="/browns" >Browns</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports-mlb-indians" href="/indians" >Indians</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports-nba-cavaliers" href="/cavaliers" >Cavaliers</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports-college-osu" href="/osu" >OSU Sports</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports-golf" href="/golf" >Golf</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports~outdoors" href="/outdoors" >Outdoors</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_sports-nfl-superbowl" href="/superbowl" >Super Bowl</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_features" href="/features" >Features</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~outreach~3cares" href="/3cares" >3 Cares</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~akron" href="/akron" >Akron</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~canton" href="/canton" >Canton</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-local-contests" href="/contests" >Contests</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_money~consumer~dealboss" href="/dealboss" >DEALBOSS</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_entertainment-television-programs-donovan-live" href="/donovan-live" >Donovan Live</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-education" href="/education" >Education</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life-events" href="/events" >Events</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_syndication-kin-community-food" href="/food" >Food</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_tech~science~girls-in-stem" href="/girlsinstem" >Girls in STEM</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life~holidays~holiday-season" href="/holidays" >Holidays</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life~events~incuya" href="/incuya-music-festival" >InCuya Music Festival</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_syndication~instagram" href="/instagram" >Instagram</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~special-reports~lebron-james-foundation" href="/lebron-james-foundation" >LeBron James Family Foundation</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_opinion~columnists~leon-bibb" href="/leonbibb" >Leon Bibb</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_entertainment~television~liveonlakeside" href="/liveonlakeside" >Live on Lakeside</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_money-magnify-money" href="/magnify-money" >Magnify Money</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life~pets" href="/pets" >Pets</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_money~markets~real-estate" href="/real-estate" >Real Estate</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life-food-recipes" href="/recipes" >Recipes</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_entertainment~music~rock-hall" href="/rockhall" >Rock &#39;n Roll Hall of Fame</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_local-northwest-ohio-see-possible" href="/seethepossible" >See the Possible</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink" href="https://www.shopdealboss.com/"  target=&quot;_blank&quot;>Shop</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~unzipped" href="/unzipped" >Unzipped</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_life~holidays~valentines-day" href="/valentines-day" >Valentine&#39;s Day</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news~local~verify" href="/verify" >Verify</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news" href="/votenow" >Vote Now</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news-weird" href="/watercooler" >Water Cooler</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_entertainment-television-programs-we-the-people" href="/wethepeople" >We The People</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_entertainment-programs-wkyc-morning-show" href="/morning" >WKYC Morning Show</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_media" href="/video" >Media</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news" href="/video" >Video</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news" href="/gallery"  target=&quot;_blank&quot;>Photos</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+                    <li class="navigation__item navigation__item_children_true">
+                        <div class="navigation__sublist-activator">
+                            <span class="navigation__label navigation__label_section_connect" href="/connect" >Connect</span>
+                                <span class="navigation__expansion-indicator"></span>
+                        </div>
+                                <ul class="navigation__sublist navigation__sublist_visible_false">
+
+                                    
+
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/about-us" >About Us</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/advertise" >Advertise With Us</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/apps" >Apps</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us-contact-us" href="/contact-us" >Contact Us</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/internships" >Interships</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="https://www.jobs.net/jobs/tegna/en-us/all-jobs/?companyf=WKYC"  target=&quot;_blank&quot;>Jobs</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/meet-the-team" >Meet the Team</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_news" href="/email" >Newsletter</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/tv-listings" >TV Listings</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="http://yourtake.wkyc.com" >Your Take</a><div class="navigation__go-indicator"></div></li>
+                                                <li class="navigation__subitem"><a data-tracking="navigation/linkClicked" class="navigation__sublink navigation__sublink_section_about-us" href="/rss" >RSS Feeds</a><div class="navigation__go-indicator"></div></li>
+                                </ul>
+                    </li>
+        </ul>
+    </div>
+    </div>
+    <div class="navigation__footer">
+        <div class="navigation__live-indicator">
+        </div>
+        <div class="navigation__social">
+                <a href="https://www.facebook.com/WKYC.Channel3" target="_blank"><div class="navigation__icon navigation__icon_facebook"></div></a>
+
+                <a href="https://twitter.com/intent/user?screen_name=@WKYC" target="_blank"><div class="navigation__icon navigation__icon_twitter"></div></a>
+
+        </div>
+        <div class="navigation__copyright">&copy; 2019 WKYC-TV. All Rights Reserved.</div>
+    </div>
+
+</div>
+        </div>
+    </div>
+</div>
+            </div>
+        
+
+        <div class="page__main page__main_stand-alone_false">
+            <div class="page__modal-overlay"></div>
+            <div class="page__grid">
+                
+<div class="grid">
+            <div class="grid__section-group grid__section-group_theme_default">
+                    <div class="grid__section grid__section_top_true grid__section_sticky_none grid__section_theme_default grid__section_theme-changed_false" data-theme="default">
+                        <div class="grid__gutter">
+                        </div>
+                        <div class="grid__content grid__content_top_true grid__content_theme_default grid__content_theme-changed_false">
+                            <div class="grid__main grid__main_sticky_none">
+                                <div class="grid__cell grid__cell_columns_3" data-columns="12">
+                                    <div class="grid__module grid__module_top_true grid__module_ready_true" data-count="0" data-module="notification" data-module-id="">
+                                        
+                                        <div class="grid__module-inner grid__module-inner_ready_true">
+<div class="alert-bar alert-bar_visible_false">
+    <div class="alert-bar__list">
+    <a class="alert-bar__item alert-bar__item_slides-to-show_3 alert-bar__item_type_closings" href="//www.wkyc.com/closings" data-tracking="alert-bar/linkClicked" data-id="sc-4">
+        <h2 class="alert-bar__title">Delays/Closings</h2>
+        <p class="alert-bar__description">4 Closing Alerts</p>
+    </a>
+    </div>
+    <div class="alert-bar__controls">
+        <div class="alert-bar__close-button"></div>
+        <div class="alert-bar__arrows alert-bar__arrows_visible_false">
+            <div class="alert-bar__arrow alert-bar__arrow_side_left"></div>
+            <div class="alert-bar__arrow alert-bar__arrow_side_right"></div>
+        </div>
+    </div>
+</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="grid__gutter">
+                        </div>
+                    </div>
+
+
+
+                <div class="grid__section grid__section_sticky_left grid__section_theme_default grid__section_theme-changed_false grid__section_previous-theme_default grid__section_next-theme_default" data-theme="default" data-next-theme="default" data-previous-theme="default">
+                    <div class="grid__gutter">
+                        <div class="grid__gutter-content">
+                        </div>
+                    </div>
+                    <div class="grid__content grid__content_theme_default grid__content_theme-changed_false">
+                                <div class="grid__sticky-column grid__sticky-column_side_left">
+                                    <div class="grid__sticky-content" data-columns="4">
+                                            <div class="grid__module grid__module_fast_false" data-track-movement="false" data-module="ad" data-module-id="2d60ed3a-b39c-4bca-9d4c-a1dbd607e57f">
+      <div class="ad ad_border_true ad_position_article_atf" id="article_atf" data-model-refresh="none" data-model-refresh-limit="3" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;article_atf&quot;,&quot;div&quot;:&quot;article_atf&quot;,&quot;sizes&quot;:[300,250]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;c62ee7ae-cb6b-4882-b3bb-6b648716f305&quot;],&quot;main_front&quot;:[&quot;false&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;video_included&quot;:[&quot;true&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+
+                                            </div>
+                                            <div class="grid__module grid__module_fast_false" data-track-movement="false" data-module="docked-video-slot" data-module-id="d7dfc4a5-4f84-4c70-afda-726d3fc4168f">
+<div class="docked-video-slot">
+    <div class="docked-video-slot__inner"></div>
+</div>
+                                            </div>
+                                    </div>
+                                </div>
+                        <div class="grid__main grid__main_sticky_left">
+                                        <div class="grid__cell grid__cell_columns_2" data-starting-column="5" data-columns="8">
+
+                                            <div class="grid__module grid__module_ready_true" data-track-movement="true" data-count="0" data-module="articles" data-module-id="f3f37245-83dd-402c-b229-87b7f61c4033">
+                                                
+                                                <div class="grid__module-inner grid__module-inner_ready_true">
+<div class="article"
+        data-dock-context-for="sharing title"
+        data-model-title="Freddie Kitchens: If you don’t wear brown and orange, you don’t matter to Browns"
+        data-model-article="c62ee7ae-cb6b-4882-b3bb-6b648716f305"
+        data-model-section="sports"
+        data-model-subsection="nfl"
+        data-model-topic="browns"
+        data-model-subtopic=""
+        data-model-gptId="446" 
+        data-model-omnitureId="0" 
+        data-model-comscoreId="1" 
+        data-model-url="www.wkyc.com/article/sports/nfl/browns/freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns/95-c62ee7ae-cb6b-4882-b3bb-6b648716f305" data-model-id="c62ee7ae-cb6b-4882-b3bb-6b648716f305" 
+        data-model-gpt="32805352/oh-cleveland-WKYC-B3330_DesktopTablet"
+        data-model-hasvideo="true"
+        data-model-iscontinuousscroll="false"
+        data-model-categories="browns, nfl, sports, news, local, home"
+        data-sharing-target="true"
+        data-sharing-title="Freddie Kitchens: If you don’t wear brown and orange, you don’t matter to Browns"
+        data-sharing-url="www.wkyc.com/article/sports/nfl/browns/freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns/95-c62ee7ae-cb6b-4882-b3bb-6b648716f305"
+        
+        data-model-author=""
+        data-model-keywords="[]"
+>
+    <div class="article__article-story">
+    <div class="article-story">
+        <div class="article-story__lead-asset">
+                            <div data-module="video" data-track-off-screen="true" data-track-movement="true">
+        <div class="video"
+             data-standalone="false"
+             data-model-origin="upload"
+             data-video-url="https://www.wkyc.com/video/sports/nfl/browns/freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns/95-9cc75605-89ae-4c8c-8a61-2874cba01ec6"
+             data-grid-track="video"
+             data-model-captions="https://wkyc-download.akamaized.net/video/9cc75605-89ae-4c8c-8a61-2874cba01ec6/9cc75605-89ae-4c8c-8a61-2874cba01ec6_vtt.vtt"
+             data-model-apiresponse="{&quot;Id&quot;:&quot;9cc75605-89ae-4c8c-8a61-2874cba01ec6&quot;,&quot;Sources&quot;:[{&quot;Format&quot;:&quot;HLS&quot;,&quot;Path&quot;:&quot;https://wkyc-vh.akamaihd.net/i/video/9cc75605-89ae-4c8c-8a61-2874cba01ec6/9cc75605-89ae-4c8c-8a61-2874cba01ec6_,350,640,1000,2000,.mp4.csmil/master.m3u8&quot;,&quot;EncodingRate&quot;:1}],&quot;DateCreated&quot;:&quot;2019-01-14T23:56:17Z&quot;,&quot;SiteUrl&quot;:null,&quot;Image&quot;:&quot;https://media.wkyc.com/assets/WKYC/images/24b6fcf6-9f52-4e27-b6b0-51cc4396b425/24b6fcf6-9f52-4e27-b6b0-51cc4396b425.jpg&quot;,&quot;Title&quot;:&quot;Freddie Kitchens: If you don’t wear brown and orange, you don’t matter to Browns&quot;,&quot;Description&quot;:null,&quot;Origin&quot;:null,&quot;Advertising&quot;:{&quot;BrightcoveId&quot;:null,&quot;Section&quot;:&quot;sports&quot;,&quot;Subsection&quot;:&quot;nfl&quot;,&quot;Topic&quot;:&quot;browns&quot;,&quot;Subtopic&quot;:&quot;&quot;,&quot;Enabled&quot;:true},&quot;VideoLength&quot;:&quot;49&quot;,&quot;Captions&quot;:&quot;https://wkyc-download.akamaized.net/video/9cc75605-89ae-4c8c-8a61-2874cba01ec6/9cc75605-89ae-4c8c-8a61-2874cba01ec6_vtt.vtt&quot;}"
+             data-autoplay="true"
+             data-model-dfpid="32805352"
+             data-model-adsize="920x508"
+             data-model-gptid="oh-cleveland-WKYC-B3330_DesktopTablet"
+             data-model-omnituretag="0"
+             data-model-videosplayedcount="1"
+             data-model-endslate="jwplayer-related-plugin"
+             data-model-embedsbaseurl="https://media.wkyc.com/"
+             data-model-related-playlist-id="BcYduhAg"
+             data-model-related-media-id="3rUMpZzB">
+                        <div class="video__ratio-enforcer">
+                <div class="video__ratio-enforced">
+                    <div class="video__inner">
+                        <div class="video__ratio-enforcer">
+                            <div class="video__ratio-enforced" data-aspect-ratio>
+                                <div class="video__teaser">
+                                    <img class="video__thumbnail" data-asset-fallback="default" data-lazy-loader="https://media.wkyc.com/assets/WKYC/images/24b6fcf6-9f52-4e27-b6b0-51cc4396b425/24b6fcf6-9f52-4e27-b6b0-51cc4396b425_750x422.jpg" />
+                                    <div class="video__button video__button_play"></div>
+                                </div>
+                                <div class="video__player-container">
+                                    <div class="video__player"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <script type="application/ld+json">
+                {
+                "@context": "http://schema.org",
+                "@type": "VideoObject",
+                "name": "Freddie Kitchens: If you don’t wear brown and orange, you don’t matter to Browns",
+                "description": "New Cleveland Browns coach Freddie Kitchens says if you are not all in on brown and orange, you do not matter.",
+                "thumbnailUrl": "http://wkyc-download.edgesuite.net/video/9cc75605-89ae-4c8c-8a61-2874cba01ec6/9cc75605-89ae-4c8c-8a61-2874cba01ec6_Thumb.jpg",
+                "uploadDate": "1/14/2019 11:56:17 PM",
+                "duration": "49",
+                "contentUrl": "https://www.wkyc.com/video/sports/nfl/browns/freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns/95-9cc75605-89ae-4c8c-8a61-2874cba01ec6",
+                "embedUrl": "https://media.wkyc.com/embeds/video/9cc75605-89ae-4c8c-8a61-2874cba01ec6/iframe"
+                }
+            </script>
+        </div>
+
+
+                            </div>
+        </div>
+
+
+
+
+        <h2 class="article-story__category article-story__category_section_nfl"><a data-tracking="article-story/categoryLinkClicked/browns" class="article-story__category-link" href="/section/sports/nfl/browns">BROWNS</a></h2>
+
+
+            <div class="article-story__lead-asset-caption">
+            </div>
+
+        <h1 class="article-story__headline grid__scroll-hook" data-scroll-hook-name="article-story__headline">Freddie Kitchens: If you don’t wear brown and orange, you don’t matter to Browns</h1>
+        <div class="article-story__abstract">
+            New Cleveland Browns coach Freddie Kitchens says if you are not all in on brown and orange, you do not matter.
+        </div>
+        
+    </div>
+    <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.wkyc.com/article/sports/nfl/browns/freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns/95-c62ee7ae-cb6b-4882-b3bb-6b648716f305"
+        },
+        "headline": "Freddie Kitchens: If you don’t wear brown and orange, you don’t matter to Browns",
+
+            
+                "image" : [],
+            
+
+        "datePublished": "1/14/2019 11:13:26 PM",
+        "dateModified": "1/14/2019 11:57:28 PM",
+        "author": {
+        "@type": "Person",
+        "name": ""
+        },
+        "publisher": {
+        "@type": "Organization",
+        "name": "WKYC",
+        "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.wkyc.com/content/logos/amp/wkyc.png",
+        "width": 340,
+        "height": 60
+        }
+        },
+        "description": "New Cleveland Browns coach Freddie Kitchens says if you are not all in on brown and orange, you do not matter."
+        }
+    </script>
+
+    </div>
+    <div class="article__story-highlights">
+
+<div class="story-highlights">
+</div>
+    </div>
+    <div class="article__author" data-grid-gutter-top="right">
+    <div class="author">
+        <div class="author__container">
+            <div class="author__data">
+                <div class="author__item">
+                    <span class="author__tag">Author: </span>
+                    <span class="author__name">
+Matthew Florjancic
+                    </span>
+                </div>
+                <div class="author__item">
+                    <span class="author__tag">Published: </span>
+                            <span class="author__date">
+                                6:13 PM EST January 14, 2019
+                            </span>
+                </div>
+                <div class="author__item">
+                    <span class="author__tag">Updated: </span>
+                        <span class="author__date">
+                            6:57 PM EST January 14, 2019
+                        </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    <div class="article__article-body">
+
+    <div class="article-body">
+        <div class="text">
+
+                        <p>CLEVELAND — Either you are with us or against us.</p><p>The age-old adage has been said on numerous occasions and fans can count new Cleveland Browns coach Freddie Kitchens among the believers of that credo, as everything moving forward is directly related to the goal of winning games.</p><p>“Let’s not fool ourselves, this game is about winning,” Kitchens said in his introductory press conference at FirstEnergy Stadium Monday. “Everything that we do in the organization from the football side of things moving forward, with the organization moving forward, if you do not wear brown and orange, you do not matter.</p>      <div class="ad ad_border_true ad_position_article_mid1" id="article_mid1_0" data-model-refresh="none" data-model-refresh-limit="none" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;article_mid1&quot;,&quot;div&quot;:&quot;article_mid1_0&quot;,&quot;sizes&quot;:[[300,250],[1,1],[750,570]]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;c62ee7ae-cb6b-4882-b3bb-6b648716f305&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;strnativekey&quot;:[&quot;2YNEkKMk1QC5WsCndTXLDYVB&quot;],&quot;video_included&quot;:[&quot;true&quot;],&quot;ttid&quot;:[&quot;9cc75605-89ae-4c8c-8a61-2874cba01ec6&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+<p>“The only organization that we care anything about right now is the Cleveland Browns. It is always going to be about one thing and one thing only, and that is about winning football games and putting a good product on the field that plays with effort, enthusiasm and toughness.”</p><div class="image">
+    <div class="image__aspect-ratio-enforcer">
+        <div class="image__aspect-ratio-enforced" data-aspect-ratio>
+            <img class="image__image" data-asset-fallback="default" data-lazy-loader="https://media.wkyc.com/assets/WKYC/images/5fca5d14-b443-43de-ac79-77a91719cd7f/5fca5d14-b443-43de-ac79-77a91719cd7f_750x422.jpg" alt="New Cleveland Browns coach Freddie Kitchens" />
+            <noscript>
+                <img class="image__image" src="https://media.wkyc.com/assets/WKYC/images/5fca5d14-b443-43de-ac79-77a91719cd7f/5fca5d14-b443-43de-ac79-77a91719cd7f_750x422.jpg" alt="New Cleveland Browns coach Freddie Kitchens" />
+            </noscript>
+        </div>
+    </div>
+</div>
+    <div class="image__caption">New Cleveland Browns coach Freddie Kitchens says the fun is in winning, and we&#39;re going to have a damn good time doing it.</div>
+    <div class="image__credit">Matt Florjancic</div>
+<p>By everyone within the organization channeling all of their efforts toward winning, Kitchens believes the culture will continue to change for the better for a franchise with just one playoff appearance (2002) and two winning seasons (2002, 2007) since returning to the National Football League in 1999.</p>
+<div class="newsletter-signup">
+    <div class="newsletter-signup__container newsletter-signup__hidden">
+        <div class="newsletter-signup__main-label newsletter-signup__lightText" style="background-color:#ae2128">
+            <div class="newsletter-signup__main-label-text newsletter-signup__awaiting">
+                Sign up for the daily Top 3 Newsletter
+            </div>
+            <div class="newsletter-signup__main-label-text newsletter-signup__complete">
+                Thank you
+            </div>
+            <div class="newsletter-signup__main-label-text newsletter-signup__error">
+                Something went wrong.
+            </div>
+        </div>
+        <div class="newsletter-signup__content">
+            <div class="newsletter-signup__instructions">
+                <div class="newsletter-signup__instructions-text newsletter-signup__awaiting">
+                    This email will be delivered to your inbox once a day in the morning.
+                </div>
+                <div class="newsletter-signup__instructions-text newsletter-signup__complete">
+                    Thank you for signing up for The Top 3 Newsletter
+                </div>
+                <div class="newsletter-signup__instructions-text newsletter-signup__error">
+                    Please try again later.
+                </div>
+            </div>
+            <div class="newsletter-signup__form-container newsletter-signup__awaiting">
+                <form class="newsletter-signup__form">
+                    <div class="newsletter-signup__form-email-wrap">
+                        <input type="text" placeholder="ENTER EMAIL HERE " name="email" class="newsletter-signup__form-email" /><br />
+                    </div>
+                                                            <button type="submit" class="newsletter-signup__submit newsletter-signup__lightText newsletter-signup__lightArrow" style="background-color:#ae2128"><span class="newsletter-signup__submit__text">Submit</span></button>
+                    <div class="newsletter-signup__form-email-error"></div>
+                    <input type="hidden" name="siteId" value="95" />
+                    <input type="hidden" name="newsletterId" value="1fef2b83fa23c42a33257e728cc42cb1" />
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="newsletter-signup__recaptcha"></div>
+</div>                                <script>
+                                    utag_data.embedded_elements = utag_data.embedded_elements || "";
+                                    utag_data.embedded_elements = "newsletter-signup";
+                                </script>
+<p>“There are ups and downs during the course of a season,” Kitchens said. “There is one thing that has to happen during the course of the season, if you want to get back up from being down and you have to be together. That is not going to change. Within the football team, that is not going to change. From this day forward, it is never changing.</p><p>“Since 1999, there have been ups and downs in this organization. Just like during a season, sometimes, there are more ups than more downs. Since 1999, I understand and I relish the fact that there have been more downs than ups, but that ends today -- I promise you that. Every decision we make as an organization, and (GM) John (Dorsey) would agree with this, I am sure he would, every decision will be based on one thing and one thing only, that is winning football games.”</p><div class="image">
+    <div class="image__aspect-ratio-enforcer">
+        <div class="image__aspect-ratio-enforced" data-aspect-ratio>
+            <img class="image__image" data-asset-fallback="default" data-lazy-loader="https://media.wkyc.com/assets/WKYC/images/92be7b7b-c01c-4f9d-bb90-331c2fd212c7/92be7b7b-c01c-4f9d-bb90-331c2fd212c7_750x422.jpg" alt="New Cleveland Browns coach Freddie Kitchens, GM John Dorsey" />
+            <noscript>
+                <img class="image__image" src="https://media.wkyc.com/assets/WKYC/images/92be7b7b-c01c-4f9d-bb90-331c2fd212c7/92be7b7b-c01c-4f9d-bb90-331c2fd212c7_750x422.jpg" alt="New Cleveland Browns coach Freddie Kitchens, GM John Dorsey" />
+            </noscript>
+        </div>
+    </div>
+</div>
+    <div class="image__caption">New Cleveland Browns coach Freddie Kitchens (left) and general manager John Dorsey (right) pose for photos after the prior&#39;s introductory press conference at FirstEnergy Stadium Monday.</div>
+    <div class="image__credit">Matt Florjancic</div>
+<p>At 2-5-1 following a 33-18 loss to the Pittsburgh Steelers on October 28 and in the middle of an unprecedented midseason coaching staff upheaval following the dismissals of Hue Jackson and offensive coordinator Todd Haley with eight games left to play, the 2018 Browns looked to be anything but a team capable of the greatest year-to-year turnaround in franchise history.</p>      <div class="ad ad_border_true ad_position_article_mid2" id="article_mid2_0" data-model-refresh="none" data-model-refresh-limit="none" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;article_mid2&quot;,&quot;div&quot;:&quot;article_mid2_0&quot;,&quot;sizes&quot;:[[300,250],[1,1]]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;c62ee7ae-cb6b-4882-b3bb-6b648716f305&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;strnativekey&quot;:[&quot;2YNEkKMk1QC5WsCndTXLDYVB&quot;],&quot;video_included&quot;:[&quot;true&quot;],&quot;ttid&quot;:[&quot;9cc75605-89ae-4c8c-8a61-2874cba01ec6&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+<p>But a 5-3 record over the second half of the season and a three-game winning streak in December secured the Browns’ greatest turnaround in team history, as they finished plus-7.5 in wins over their winless campaign in 2017.</p><p>“We all understand that it was an improvement, but under no circumstances is that ever going to be acceptable,” Kitchens said.</p><p>“We only have one goal here and that is to hoist the Lombardi Trophy. Everything we do moving forward, if it is going to benefit us moving in that direction, we will make that decision.”</p>            
+        </div>
+    </div>
+        <div id="taboola-below-article-thumbnails-2nd-0" data-model-page-type="article" data-model-ad="below_taboola" data-model-mode="thumbnails-h2" data-model-targetType="mix" data-model-placement="Below Article Thumbnails 2nd" data-model-url="http://www.wkyc.com/article/sports/nfl/browns/freddie-kitchens-if-you-dont-wear-brown-and-orange-you-dont-matter-to-browns/95-c62ee7ae-cb6b-4882-b3bb-6b648716f305" class="taboola"></div>
+
+    </div>
+</div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                        </div>
+                    </div>
+                    <div class="grid__gutter">
+                        <div class="grid__gutter-content">
+                                        <div class="grid__gutter-module" data-module="sticky-sharing">
+<div class="sticky-sharing">
+    <a data-tracking="sharing/twitterLink" class="sticky-sharing__icon sticky-sharing__icon_type-twitter" href="https://twitter.com/intent/tweet?text=[TITLE]&url=[URL]&via=[USERNAME]" target="_blank">
+    </a>
+    <div class="sticky-sharing__icon sticky-sharing__icon_type-facebook"></div>
+
+</div>                                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid__section-group grid__section-group_theme_default">
+
+
+
+                <div class="grid__section grid__section_sticky_none grid__section_theme_default grid__section_theme-changed_false grid__section_previous-theme_default grid__section_next-theme_default" data-theme="default" data-next-theme="default" data-previous-theme="default">
+                    <div class="grid__gutter">
+                        <div class="grid__gutter-content">
+                        </div>
+                    </div>
+                    <div class="grid__content grid__content_theme_default grid__content_theme-changed_false">
+                        <div class="grid__main grid__main_sticky_none">
+                                        <div class="grid__cell grid__cell_columns_3" data-starting-column="1" data-columns="12">
+
+                                            <div class="grid__module grid__module_ready_true" data-track-movement="false" data-count="0" data-module="ad" data-module-id="2d60ed3a-b39c-4bca-9d4c-a1dbd607e57f">
+                                                
+                                                <div class="grid__module-inner grid__module-inner_ready_true">
+      <div class="ad ad_border_true ad_position_article_flex_btf" id="article_flex_btf" data-model-refresh="none" data-model-refresh-limit="none" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;article_flex_btf&quot;,&quot;div&quot;:&quot;article_flex_btf&quot;,&quot;sizes&quot;:[[970,250],[728,90],[1140,286],[1,1]]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;c62ee7ae-cb6b-4882-b3bb-6b648716f305&quot;],&quot;main_front&quot;:[&quot;false&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;video_included&quot;:[&quot;true&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+                        </div>
+                    </div>
+                    <div class="grid__gutter">
+                        <div class="grid__gutter-content">
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div>
+
+            </div>
+        </div>
+            <div class="page__footer">
+<div class="footer">
+    <div class="footer__inner">
+        <div class="footer__social">
+
+<div class="social">
+    <ul class="social__list social__list_align_center">
+        <li class="social__item">
+            <a class="social__link" target="_blank" href="https://www.facebook.com/WKYC.Channel3">
+                <span class="social__icon social__icon_type_facebook"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="16" viewBox="0 0 17 16">
+    <image id="Vector_Smart_Object" data-name="Vector Smart Object" width="17" height="16" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAQAAABaOFzUAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfhAhENOQMc/E5OAAAAlklEQVQoz73PMQtBARTF8d+ToiyGV4oSWQ0+gEL5GL6Ewax8G5OdwWozyOYVC4MimwmTAe+xOdu9/e895wSzjZpvioLZ3Q+lY7cHY3s5PbV4ZKnjAhpJyNBFoKuknGS0Rsv0OaZikBvySXHPRjhhpY+BIq+ldyovJ0fh+5esNhauQnUZ4adRwRxVW02Tb3Hf9Eck+kFED4KVHWZAZTHbAAAAAElFTkSuQmCC" />
+</svg></span>
+            </a>
+        </li>
+
+        <li class="social__item">
+            <a class="social__link" target="_blank" href="https://twitter.com/intent/user?screen_name=@WKYC">
+                <span class="social__icon social__icon_type_twitter"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="16" viewBox="0 0 19 16">
+    <image id="Vector_Smart_Object" data-name="Vector Smart Object" width="19" height="16" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAQCAQAAABezYzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfhAhENNjO9vWItAAABFUlEQVQoz33QPUhbARAA4O89k4qDXRrMIrgFwSkuLlJSea3oVoRu4i4IHerk5Jyhi44uDg4KHS3tg9JBLLQFaSQVERGh0EBpJHFQNJYOJs0PTW66n2+4uyDmkd/aIy1vTr/Pln2Scx3Egw49ddKCHvoiU89vlVVNhDJG7JtsYYv/EElpJa9CVaR89FqqPsp1rHBuNYg5MgquvLGrYN3jNjYU/QritCkbBnSPZFRLGLLlrgcqRTVCRd/19WB7EPpjQaUHe3vP+GrJjy6oYqfByBruwvLRZZOtePdf9E3+PgnrH5sxq9iBfnruppU9EHlprA2deuKsUYReOHDhvWct5M6arONmI2HbB/OmjUsJlBXENjsv/wvGUENgDcdadwAAAABJRU5ErkJggg==" />
+</svg></span>
+            </a>
+        </li>
+
+
+    </ul>
+</div>
+        </div>
+        <div class="footer__menu">
+            <ul class="footer__list">
+                <li class="footer__item"><a class="footer__link" href="/terms">Terms of Service</a></li>
+                <li class="footer__item"><a class="footer__link" href="/privacy">Privacy Notice</a></li>
+                <li class="footer__item"><a class="footer__link" href="/privacy">Your California Privacy Notice</a></li>
+                <li class="footer__item"><a class="footer__link" href="/adchoices">Ad Choices</a></li>
+                        <li class="footer__item"><a class="footer__link" href="http://content.wkyc.com/document_dev/2018/05/23/Cleveland_OH_EEO_Public_File_2017 -2018_16005487_ver1.0.pdf">EEO Public File Report</a></li>
+                        <li class="footer__item"><a class="footer__link" href="/fcc-public-inspection-file">FCC Online Public Inspection File </a></li>
+                        <li class="footer__item"><a class="footer__link" href="/closed-captioning">Closed Captioning Procedures</a></li>
+            </ul>
+        </div>
+        <div class="footer__copyright">
+            &copy; 2019 WKYC-TV. All Rights Reserved.
+        </div>
+    </div>
+</div>
+      <div class="ad ad_border_true ad_position_exit_interstitial" id="exit_interstitial" data-model-refresh="none" data-model-refresh-limit="none" data-model-settings="{&quot;ad&quot;:{&quot;name&quot;:&quot;exit_interstitial&quot;,&quot;div&quot;:&quot;exit_interstitial&quot;,&quot;sizes&quot;:[[1,1]]},&quot;targeting&quot;:{&quot;pgid&quot;:[&quot;c62ee7ae-cb6b-4882-b3bb-6b648716f305&quot;],&quot;pgtype&quot;:[&quot;article&quot;],&quot;strnativekey&quot;:[&quot;cTjReTE4PFTtiwNcLwExqbY9&quot;],&quot;video_included&quot;:[&quot;true&quot;],&quot;ttid&quot;:[&quot;9cc75605-89ae-4c8c-8a61-2874cba01ec6&quot;]}}"></div>
+    <noscript>
+        <div class="ad__nojs-placeholder" style="height:90px;border:2px solid #e6e6e6"></div>
+    </noscript>
+            </div>
+        <script src="/scripts/require-2.3.3.min.js"></script>
+        <script>
+
+        (function() {
+            var modules = [
+                'error',
+                'page',
+                'grid',
+                'desktop-header',
+                'toolbar',
+                'weather-summary',
+                'navigation',
+                'video',
+                'throbber',
+                'utils',
+                'fitted-headline',
+                'forecast',
+                'article',
+                'continuous-scroll',
+                'sharing',
+                'gallery',
+                'radar-gallery',
+                'forecast',
+                'article-crosspromo',
+                'featured-videos',
+                'chapter-slider',
+                'pollen',
+                'olympics-live-stream',
+                'three-day-outlook',
+                'current-weather',
+                'search-results',
+                'tracking',
+                'chapter-progress',
+                'progress',
+                'countdown-clock',
+                'longform-explore',
+                'media-gallery',
+                'social-sharing',
+                'weather-alerts',
+                'weather-interactive-radar',
+                'closings',
+                'tealium',
+                'alert-bar',
+                'cookie',
+                'sticky-sharing',
+                'live-indicator',
+                'sharethrough',
+                'taboola',
+                'elections',
+                'just-for-you',
+                'just-for-you-li',
+                'olympics-tv-listings',
+                'headline-list-with-abstract',
+                'text-only-headline-list',
+                'story-snapshot-with-abstract',
+                'snapshot',
+                'story-snapshot',
+                'special-content-headline-list',
+                'notfound',
+                'linked-image',
+                'article-recirculation',
+                'linked-image-with-title',
+                'newsletter-signup',
+                'linked-image-with-title',
+                'newsletter-signup-multiple',
+                'live-videos',
+                'breaking-news',
+                'weather-alerts',
+                'closings',
+                'media-gallery-alt',
+                'alert-center-menu',
+                'trending-list',
+                'toc',
+                'featured-radars',
+                'searchbox',
+                'hot-races',
+                'recirculation',
+                'photo',
+                'video-youtube'
+            ];
+            require.config({
+                'baseUrl': '/',
+                'deps': modules,
+                'waitSeconds': 30,
+                'bundles': {
+                    'modules': modules
+                },
+                'paths': {
+                    'jquery': 'scripts/jquery-3.1.1.min',
+                    'jwplayer': 'content/player/jwplayer.js?version=3.3.7',
+                    'modules': 'Views/dist/scripts/modules.min.js?version=3.3.7',
+                    'facebook': 'https://connect.facebook.net/en_US/all',
+                    'twitter': 'https://platform.twitter.com/widgets',
+                    'slick': 'content/libs/slick/slick.min',
+                    'dotdotdot': 'content/libs/dotdotdot/jquery.dotdotdot.min',
+                    'jqueryui': 'Views/lib/jquery-ui/jquery-ui.min',
+                    'comscore': 'content/libs/comscore/comscore.min',
+                    'stickyfill': 'content/libs/stickyfill/stickyfill.min',
+                    'youtube': 'https://www.youtube.com/iframe_api?noext'
+                },
+                'shim': {
+                    'facebook': {
+                        'exports': 'FB'
+                    },
+                    'twitter': {
+                        'exports': 'twttr'
+                    },
+                    'youtube': {
+                        'exports': 'YT'
+                    },
+                    'jwplayer': ['jquery'],
+                    'jqueryui': {
+                        'deps': ['jquery']
+                    },
+                    'slick': ['jquery'],
+                    'dotdotdot': ['jquery']
+                }
+            });
+        })();
+        </script>
+
+        <script src="https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&render=explicit" async defer></script>
+        <script type="text/javascript">
+            var recaptchaCallback = function () {
+                window.grecaptcha = grecaptcha;
+                console.log('recaptcha is ready');
+            }
+        </script>
+        <script type="text/javascript" src="//cloudfront.loggly.com/js/loggly.tracker-latest.min.js" async></script>
+        <noscript>
+            <style>
+                .grid__module {
+                    height: auto;
+                    opacity: 1;
+                }
+            </style>
+        </noscript>
+    </body>
+</html>

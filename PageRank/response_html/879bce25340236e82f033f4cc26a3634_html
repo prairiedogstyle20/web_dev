@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--begin static inclusion of WSI assets-->
+    <link href="/css/wsi.css" rel="stylesheet" />
+    <script type="text/javascript" src="https://webwidgets.wsi.com/wxwidget.loader.js?cid=119226295"></script>
+    <!--end static inclusion of WSI assets-->
+    <meta charset="ISO-8859-1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Analysis says sports betting could generate $20M annually - New Jersey Herald - </title>
+    <meta name="keywords" content="Analysis says sports betting could generate $20M annually, National Sports,, National Sports," />
+    <meta name="description" content="An analysis of a proposal to legalize sports betting in Kentucky says it could generate about $20 million a year in tax money" />
+    <meta property="fb:app_id" content="1505744343029908" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="New Jersey Herald" />
+    <meta property="og:image" content="https://www.njherald.com/apps/pbcsi.dll/storyimage/NH/20190213/AP/302139803/AR/0/AR-302139803.jpg&MaxW=500" />
+    <meta property="og:title" content="Analysis says sports betting could generate $20M annually" />
+    <meta property="og:description" content="An analysis of a proposal to legalize sports betting in Kentucky says it could generate about $20 million a year in tax money" />
+    <meta property="og:url" content="https://www.njherald.com/article/20190213/AP/302139803" />
+    <meta property="article:published_time" content="20190213080000" />
+    <meta property="article:modified_time" content="201902131303" />
+    <meta property="article:section" content="National Sports" />
+    <meta name="__sync_contentCategory" content="Metered" />
+    <link rel="canonical" href="https://www.njherald.com/article/20190213/AP/302139803" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Analysis says sports betting could generate $20M annually">
+    <meta name="twitter:description" content="An analysis of a proposal to legalize sports betting in Kentucky says it could generate about $20 million a year in tax money">
+    <meta name="twitter:image" content="https://www.njherald.com/apps/pbcsi.dll/storyimage/NH/20190213/AP/302139803/AR/0/AR-302139803.jpg&MaxW=500">
+    <link href="https://www.njherald.com/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://www.njherald.com/css/bootstrap-custom.css" rel="stylesheet" />
+    <link href="https://www.njherald.com/css/font-awesome.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="https://www.njherald.com/img/NH-favicon-32x32.png" />
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- GOOGLE TAG MANAGER DATA LAYER - INSERT EXTRA DATA METRICS HERE -->
+    <script>
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config={};
+      _sf_async_config.sections = 'njherald';
+      _sf_async_config.authors = 'njherald-stories';
+      dataLayer = [{
+        'publication': 'New Jersey Herald',
+        'pageCategory': "National Sports",
+        'platform':'Newscycle Digital',
+        'dfpclass':'Sport-National',
+        'contentType':'article'
+                ,'ArticleTitle':'Analysis says sports betting could generate $20M annually',
+        'pageTitle': 'Analysis says sports betting could generate $20M annually - New Jersey Herald - ',
+        'canonicalURL':'https://www.njherald.com/article/20190213/AP/302139803',
+          'ArticleByline1':'By ADAM BEAM'
+      }];
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      dimension1 = "|";
+      for(i = 1; i < 6; i++){
+        if(dataLayer[0]['ArticleByline' + i]){
+            dimension1 = dimension1 + dataLayer[0]['ArticleByline' + i] + "|";
+        }
+      }
+      dimension1 = dimension1.replace('&apos;', "'");
+      ga('create', 'UA-47344006-1', 'auto');
+      ga('set', 'dimension1', dimension1);
+      ga('set', 'dimension2', "Sport-National");
+      ga('set', 'dimension3', "National Sports");
+      ga('send', 'pageview');
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+      })();
+      if ($(window).width()<728)
+        googletag.cmd.push(function() {
+          googletag.defineSlot('/21720672171/loc-mob/njh/m-web/Sport-National', [320, 50], 'leaderboard-01').setTargeting('wnsz',['106']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-mob/njh/m-web/Sport-National', [320, 50], 'box-01').setTargeting('wnsz',['103']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-mob/njh/m-web/Sport-National', [320, 50], 'box-02').setTargeting('wnsz',['101']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-mob/njh/m-web/Sport-National', [320, 50], 'box-03').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.enableServices();
+        });
+      else if ($(window).width()<998)
+        googletag.cmd.push(function() {
+          googletag.defineSlot('/21720672171/loc-mob/njh/m-web/Sport-National', [468, 60], 'leaderboard-01').setTargeting('wnsz',['106']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-mob/njh/m-web/Sport-National', [468, 60], 'box-01').setTargeting('wnsz',['103']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-mob/njh/m-web/Sport-National', [468, 60], 'half-box-01').setTargeting('wnsz',['105']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-mob/njh/m-web/Sport-National', [468, 60], 'box-02').setTargeting('wnsz',['101']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.enableServices();
+        });
+      else if ($(window).width()<1200)
+        googletag.cmd.push(function() {
+          googletag.defineSlot('/21720672171/loc-desktop/njh/web/Sport-National', [728, 90], 'leaderboard-01').setTargeting('wnsz',['41']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-desktop/njh/web/Sport-National', [300, 250], 'box-01').setTargeting('wnsz',['43']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-desktop/njh/web/Sport-National', [300, 250], 'box-02').setTargeting('wnsz',['52']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-desktop/njh/web/Sport-National', [300, 250], 'box-03').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-desktop/njh/web/Sport-National', [300, 150], 'half-box-01').setTargeting('wnsz',['44']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-desktop/njh/web/Sport-National', [300, 150], 'half-box-02').setTargeting('wnsz',['144']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.enableServices();
+        });
+      else
+        googletag.cmd.push(function() {
+          googletag.defineSlot('/21720672171/loc-desktop/njh/web/Sport-National', [728, 90], 'leaderboard-01').setTargeting('wnsz',['41']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-desktop/njh/web/Sport-National', [300, 250], 'box-01').setTargeting('wnsz',['43']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-desktop/njh/web/Sport-National', [300, 250], 'box-02').setTargeting('wnsz',['52']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-desktop/njh/web/Sport-National', [300, 250], 'box-03').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-desktop/njh/web/Sport-National', [300, 150], 'half-box-01').setTargeting('wnsz',['44']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.defineSlot('/21720672171/loc-desktop/njh/web/Sport-National', [300, 150], 'half-box-02').setTargeting('wnsz',['144']).addService(googletag.pubads()).setCollapseEmptyDiv(true);
+          googletag.enableServices();
+        });
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row margin-top-15 margin-bottom-15">
+        <div class="col-xs-12 text-center padding-left-0 padding-right-0" id="leaderboard-01">
+          <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('leaderboard-01'); });
+          </script>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row hidden-xs hidden-sm">
+        <div class="col-sm-5">
+          <ul class="list-inline">
+            <li class="smlarge"><a href="https://secure.adpay.com/searchresults.aspx?p=2211&region=2211&catid=1240"><strong>Autos</strong></a></li>
+            <li class="divider font-color-d5d5d5 smlarge">|</li>
+            <li class="smlarge"><a href="http://homesnjherald.com/"><strong>Real Estate</strong></a></li>
+            <li class="divider font-color-d5d5d5 smlarge">|</li>
+            <li class="smlarge"><a href="http://www.jerseyjobseekers.com/"><strong>Jobs</strong></a></li>
+            <li class="divider font-color-d5d5d5 smlarge">|</li>
+            <li class="smlarge"><a href="https://www.njherald.com/classifieds"><strong>Classifieds</strong></a></li>
+          </ul>
+        </div>
+        <div class="col-sm-2 text-center small">February 26, 2019</div>
+        <div class="col-sm-5">
+          <ul class="pull-right list-inline">
+            
+            <li class="smlarge"><a href="https://syncaccess-qni-njh.syncronex.com/qni/njh/account/logon?op=fedAuth&returnURL=https://www.njherald.com/apps/pbcs.dll/exec?name=requesttoken.php5"><strong>Log In</strong></a></li>
+            <li class="divider font-color-d5d5d5 smlarge">|</li>
+            <li class="smlarge"><a href="/subscribe"><strong>Subscribe</strong></a></li>
+
+            <li class="divider font-color-d5d5d5 smlarge">|</li>
+            <li class="smlarge"><a href="https://www.njherald.com/contact-us"><strong>Customer Service</strong></a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="row hidden-xs hidden-sm"><!-- Story Id -- @StoryId -->
+        <div class="col-xs-4"><a href="/weather" ><wx:widget type="current-conditions" template="sticker" location="USNJ0359"></wx:widget></a></div>
+        <div class="col-xs-4"><a href="https://www.njherald.com/"><img src="https://www.njherald.com/img/NHlogo.png" alt="New Jersey Herald" class="img-responsive center-block" /></a></div>
+        <div class="col-xs-1 hidden-sm hidden-xs"></div>
+        <div class="col-lg-3 col-md-4">
+          <form role="search" action="https://www.njherald.com/search" method="get" enctype="text/plain">
+            <div class="input-group">
+              <input type="text" class="form-control" placeholder="SEARCH" aria-describedby="sizing-addon2" name="text" />
+              <span class="input-group-btn"><button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button></span>
+            </div>
+          </form>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12">
+          <nav role="navigation" class="navbar navbar-default">
+            <div class="navbar-header hidden-md hidden-lg">
+              <div class="row">
+                <div class="col-xs-9">
+                  <div class="height-50">
+                    <a href="https://www.njherald.com/"><img src="https://www.njherald.com/img/NHlogo.png" alt="New Jersey Herald" class="img-responsive valign-center" /></a>
+                  </div>
+                </div>
+                <div class="col-xs-3">
+                  <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div id="navbarCollapse" class="collapse navbar-collapse yamm">
+              <ul class="nav navbar-nav">
+                <li><a href="https://www.njherald.com/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a></li>
+                <li class="dropdown yamm-fw">
+                  <a href="/News" class="text-uppercase" target="_self">News</a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <div class="row margin-0 margin-bottom-15-md margin-top-15-md">
+                        <div class="col-xs-8 hidden-xs hidden-sm" id="nav-elem-1001">
+                        </div>
+                        <script language="javascript" type="application/javascript">
+                          $(document).ready(function() {
+                            $.get(
+                              "/apps/pbcs.dll/section?template=navArticleList&profile=1001",
+                              function (data) {
+                                $('#nav-elem-1001').html(data);
+                              }
+                            );
+                          });
+                        </script>
+                        <div class="col-md-4 col-xs-12">
+                          <div class="row margin-0">
+                            <div class="col-xs-12">
+                              <h6 class="margin-bottom-0 margin-top-0 text-uppercase font-color-0098d1">More In News</h6>
+                            </div>
+                          </div>
+                          <div class="row margin-0">
+                            <div class="col-xs-6 padding-right-5">
+                              <ul class="list-unstyled">
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Police-and-Courts" class="text-uppercase" target="_self">Police & Courts</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Business" class="text-uppercase" target="_self">Business</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Community-Calendar" class="text-uppercase" target="_self">Calendar </a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Odd-News" class="text-uppercase" target="_self">Odd News</a></li>
+                              </ul>
+                            </div>
+                            <div class="col-xs-6 padding-left-5">
+                              <ul class="list-unstyled">
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Schools" class="text-uppercase" target="_self">Schools</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Regional-News" class="text-uppercase" target="_self">Regional News</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Nation-and-World" class="text-uppercase" target="_self">Nation & World</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/traffic" class="text-uppercase" target="_self">Traffic</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                </li>
+                <li class="dropdown yamm-fw">
+                  <a href="/Sports" class="text-uppercase" target="_self">Sports</a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <div class="row margin-0 margin-bottom-15-md margin-top-15-md">
+                        <div class="col-xs-8 hidden-xs hidden-sm" id="nav-elem-1136">
+                        </div>
+                        <script language="javascript" type="application/javascript">
+                          $(document).ready(function() {
+                            $.get(
+                              "/apps/pbcs.dll/section?template=navArticleList&profile=1136",
+                              function (data) {
+                                $('#nav-elem-1136').html(data);
+                              }
+                            );
+                          });
+                        </script>
+                        <div class="col-md-4 col-xs-12">
+                          <div class="row margin-0">
+                            <div class="col-xs-12">
+                              <h6 class="margin-bottom-0 margin-top-0 text-uppercase font-color-0098d1">More In Sports</h6>
+                            </div>
+                          </div>
+                          <div class="row margin-0">
+                            <div class="col-xs-6 padding-right-5">
+                              <ul class="list-unstyled">
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Regional-Sports" class="text-uppercase" target="_self">Regional Sports</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/National-Sports" class="text-uppercase" target="_self">National Sports</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Sports/Football" class="text-uppercase" target="_self">Football</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Sports/Soccer" class="text-uppercase" target="_self">Soccer </a></li>
+                              </ul>
+                            </div>
+                            <div class="col-xs-6 padding-left-5">
+                              <ul class="list-unstyled">
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Sports/Tennis" class="text-uppercase" target="_self">Tennis </a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Sports/Field-Hockey" class="text-uppercase" target="_self">Field Hockey</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Sports/Cross-Country" class="text-uppercase" target="_self">Cross Country</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Outdoors" class="text-uppercase" target="_self">Outdoors</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                </li>
+                <li class="dropdown yamm-fw">
+                  <a href="/Opinion" class="text-uppercase" target="_self">Opinion</a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <div class="row margin-0 margin-bottom-15-md margin-top-15-md">
+                        <div class="col-xs-8 hidden-xs hidden-sm" id="nav-elem-1208">
+                        </div>
+                        <script language="javascript" type="application/javascript">
+                          $(document).ready(function() {
+                            $.get(
+                              "/apps/pbcs.dll/section?template=navArticleList&profile=1208",
+                              function (data) {
+                                $('#nav-elem-1208').html(data);
+                              }
+                            );
+                          });
+                        </script>
+                        <div class="col-md-4 col-xs-12">
+                          <div class="row margin-0">
+                            <div class="col-xs-12">
+                              <h6 class="margin-bottom-0 margin-top-0 text-uppercase font-color-0098d1">More In Opinion</h6>
+                            </div>
+                          </div>
+                          <div class="row margin-0">
+                            <div class="col-xs-6 padding-right-5">
+                              <ul class="list-unstyled">
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/your-opinion" class="text-uppercase" target="_self">Your Opinion</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/our-opinion" class="text-uppercase" target="_self">Our Opinion</a></li>
+                              </ul>
+                            </div>
+                            <div class="col-xs-6 padding-left-5">
+                              <ul class="list-unstyled">
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Opinion/Columnists" class="text-uppercase" target="_self">Columnists</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="/Obituaries" class="text-uppercase" target="_self">Obituaries</a>
+                </li>
+                <li class="dropdown yamm-fw">
+                  <a href="/Your-Life" class="text-uppercase" target="_self">Your Life </a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <div class="row margin-0 margin-bottom-15-md margin-top-15-md">
+                        <div class="col-xs-8 hidden-xs hidden-sm" id="nav-elem-1249">
+                        </div>
+                        <script language="javascript" type="application/javascript">
+                          $(document).ready(function() {
+                            $.get(
+                              "/apps/pbcs.dll/section?template=navArticleList&profile=1249",
+                              function (data) {
+                                $('#nav-elem-1249').html(data);
+                              }
+                            );
+                          });
+                        </script>
+                        <div class="col-md-4 col-xs-12">
+                          <div class="row margin-0">
+                            <div class="col-xs-12">
+                              <h6 class="margin-bottom-0 margin-top-0 text-uppercase font-color-0098d1">More In Your Life </h6>
+                            </div>
+                          </div>
+                          <div class="row margin-0">
+                            <div class="col-xs-6 padding-right-5">
+                              <ul class="list-unstyled">
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Anniversaries" class="text-uppercase" target="_self">Anniversaries</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Births" class="text-uppercase" target="_self">Births</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Engagements" class="text-uppercase" target="_self">Engagements</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Weddings" class="text-uppercase" target="_self">Weddings</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/Entertainment" class="text-uppercase" target="_self">Entertainment</a></li>
+                              </ul>
+                            </div>
+                            <div class="col-xs-6 padding-left-5">
+                              <ul class="list-unstyled">
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/club-calendar" class="text-uppercase" target="_self">Club Calendar</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/things-to-do" class="text-uppercase" target="_self">Things to Do</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/tv-schedule" class="text-uppercase" target="_self">TV Schedule</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/History" class="text-uppercase" target="_self">History</a></li>
+                                <li class="margin-bottom-10 large-md text-uppercase"><a href="/games" class="text-uppercase" target="_self">Games</a></li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="/Photos-and-Videos" class="text-uppercase" target="_self">Photos & Videos</a>
+                </li>
+                <li>
+                  <a href="/Weather" class="text-uppercase" target="_self">Weather</a>
+                </li>
+                <li class="hidden-xs hidden-sm"><a href="https://twitter.com/NJHerald" target="_blank"><img src="https://www.njherald.com/img/twitter.png" alt="New Jersey Herald on Twitter" /></a></li>
+                <li class="hidden-xs hidden-sm"><a href="https://www.facebook.com/NewJerseyHerald" target="_blank"><img src="https://www.njherald.com/img/facebook.png" alt="New Jersey Herald on Facebook" /></a></li>
+                <li><a href="https://newjerseyherald-nj.newsmemory.com/">TODAY'S EDITION</a></li>
+                <li class="hidden-md hidden-lg text-uppercase"><a href="https://www.njherald.com/classifieds">Classifieds</a></li>
+                <li class="hidden-md hidden-lg text-uppercase"><a href="https://www.njherald.com/contact-us">Contact Us</a></li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+      <div class="row hidden-md hidden-lg">
+        <div class="col-xs-12">
+          <div class="background-0098d1">
+            <div class="row">
+              <div class="col-xs-7">
+                <ul class="list-inline margin-bottom-0 line-height-30 margin-left-5">
+                  
+                  <li class="font-color-white small"><a href="https://syncaccess-qni-njh.syncronex.com/qni/njh/account/logon?op=fedAuth&returnURL=https://www.njherald.com/apps/pbcs.dll/exec?name=requesttoken.php5"><strong>Log In</strong></a></li>
+                  <li class="divider font-color-d5d5d5">|</li>
+                  <li class="font-color-white small"><a href="/subscribe"><strong>Subscribe</strong></a></li>
+
+                </ul>
+              </div>
+              <div class="col-xs-5">
+                <ul class="pull-right list-inline margin-bottom-0 line-height-30 margin-left-0">
+                  <li class="font-color-white small"><a href="/weather" ><!-- wx:widget type="current-conditions" template="sticker" location="USNJ0359"></wx:widget --></a></li>
+                  <li><a href="https://twitter.com/NJHerald" target="_blank"><img src="https://www.njherald.com/img/twitter-white.png" alt="New Jersey Herald on Twitter" class="height-18" /></a></li>
+                  <li><a href="https://www.facebook.com/NewJerseyHerald" target="_blank"><img src="https://www.njherald.com/img/facebook-white.png" alt="New Jersey Herald on Facebook" class="height-18" /></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row margin-top-5 hidden-md hidden-lg">
+        <div class="col-xs-12">
+          <form role="search" action="https://www.njherald.com/search" method="get" enctype="text/plain">
+            <div class="input-group">
+              <input type="text" class="form-control" placeholder="SEARCH" aria-describedby="sizing-addon2" name="text" />
+              <span class="input-group-btn"><button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button></span>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="row margin-bottom-15 hidden-md hidden-lg">
+        <div class="col-xs-12 small">February 26, 2019</div>
+      </div>
+
+<!-- ARTICLE OBJECT-->
+<!--STANDARD ARTICLE-->
+
+
+      <div class="row">
+        <!-- Run of Site RED BREAKING  -->
+        
+
+        <div class="col-md-8 col-xs-12">
+          <h4 class="margin-0"><a class="font-color-0098d1" href="/National-Sports">National Sports</a></h4>
+                    <h1 class="margin-0 margin-bottom-10 font-color-black bodyText">Analysis says sports betting could generate $20M annually</h1>
+          
+
+
+
+          <div class="margin-bottom-15">
+            
+
+            
+                <!-- ARTICLE PICTURE 1 Main Picture -->
+                <div class="item ">
+                  <div class="thumbnail">
+                    <div class="carouselImageWrapper">
+                      <img src="https://www.njherald.com/apps/pbcsi.dll/storyimage/NH/20190213/AP/302139803/AR/0/AR-302139803.jpg" alt="" class="img-responsive center-block" />
+                      <div class="carouselImageCounter exlarge padding-10"></div>
+                    </div>
+                    <div class="caption small">
+                      
+                      Kentucky Republican state Rep. Adam Koenig speaks with reporters on Wednesday, Feb. 13, 2019, in Frankfort, Ky. Koenig is the primary sponsor of House bill 175, which would make sports betting legal in Kentucky. An analysis by the firm Commonwealth Economics found the bill would generate at least $20 million a year in tax revenue, most of which would be spent on the state's struggling public pension systems. (AP Photo/Adam Beam)<br />
+                      <span class="text-italic">The Associated Press</span>
+                    </div>
+                  </div>
+                </div>
+
+            
+          </div>
+
+
+
+          <!-- ARTICLE BYLINE -->
+
+          <strong>By ADAM BEAM</strong>
+
+
+
+
+          <div class="margin-bottom-10">Posted: Feb. 13, 2019 8:00 am Updated: Feb. 13, 2019 1:03 pm</div>
+          <div class="pull-right margin-left-10 margin-top-10">
+            <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.njherald.com%2Farticle%2F20190213%2FAP%2F302139803" target="_new" class="btn btn-block btn-social"><i class="fa fa-facebook social-facebook"></i></a>
+            <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.njherald.com%2Farticle%2F20190213%2FAP%2F302139803" target="_new" class="btn btn-block btn-social"><i class="fa fa-twitter social-twitter"></i></a>
+            <a href="/article/20190213/AP/302139803?template=art_print" target="_new" class="btn btn-block btn-social"><i class="fa fa-print social-print"></i></a>
+            <a href="mailto:?subject=%20&amp;body=https%3A%2F%2Fwww.njherald.com%2Farticle%2F20190213%2FAP%2F302139803" class="btn btn-block btn-social"><i class="fa fa-envelope social-email"></i></a>
+          </div>
+          <div class="font-color-black">
+            
+
+
+
+
+
+                  <p class="large bodyText">FRANKFORT, Ky. (AP)  Legal sports betting in Kentucky could be worth at least $20 million a year in new taxes, with most of it going to the state's struggling public pension systems, according to an analysis of a proposal in the House of Representatives.</p>
+	<p class="large bodyText">Kentucky is one of several states eying sports wagering to fill budget holes after the U.S. Supreme Court last year struck down a federal law that effectively banned the practice in most states. Since then, seven states have legalized sports wagering, including West Virginia, which borders Kentucky to the east.</p>
+	<p class="large bodyText">Stacie Stern, a lobbyist for the fantasy sports company FanDuel, said she expects at least a dozen states to consider sports betting legislation this year.</p>
+	<p class="large bodyText">House bill 175 would tax bookmakers' 10.25 percent for wagers made in-person and 14.25 percent for bets made on mobile phones. John Farris, founder and managing partner of the firm Commonwealth Economics, estimated the proposal would generate at least $20.2 million each year in state tax dollars. He said that number could swell to $48 million if none of the surrounding states legalize sports betting.</p>
+	<p class="large bodyText">"People are crying out to do it legally," said Republican state Rep. Adam Koenig, the bill's primary sponsor. "It is part of not just Kentucky's culture, but America's culture. I think it is time we bring these issues out of the shadows."</p>
+	<p class="large bodyText">The analysis did not consider the effects of other fees that would be required in the industry. It also did not include potential effects from fantasy sports gambling and internet poker, which would also be legalized under the proposal.</p>
+	<p class="large bodyText">The proposal would require the state to spend a portion of the tax money on regulating the new industry and providing addiction prevention services. But the rest of it would go toward the state's pension systems, which are at least an estimated $39 billion short of the money required to pay benefits over the next three decades, making them among the worst-funded public retirement plans in the country.</p>
+	<p class="large bodyText">"It's not going to fix the pension system, but every bit we can find to go to it helps," Koenig said.</p>
+	<p class="large bodyText">Teachers and other public workers have opposed Republican-led efforts to make benefit changes to the pension system without first finding new sources of revenue. Nema Brewer, an organizer with the teacher group #120strong, said she supports anything that would bring in new money.</p>
+	<p class="large bodyText">"Our elected need to have just a little political courage and think outside the box," she said.</p>
+	<p class="large bodyText">The proposal would require a three-fifths majority in the legislature, meaning at least 60 votes in the House and 23 votes in the Senate. And it would have to overcome opposition from the state's conservative religious communities, including groups like The Family Foundation. Stan Cave, the foundation's lobbyist and a former state lawmaker, said the proposal would violate the state Constitution.</p>
+	<p class="large bodyText">"This is an attempt by the gambling industry to slip daylight by the rooster so they don't have to amend the Constitution," he said.</p>
+	<p class="large bodyText">Koenig disagreed, adding he believes he has the votes to get the bill out of committee. Beyond that, he is unsure.</p>
+	<p class="large bodyText">"Hopefully, this is the time when the revenue is important to some folks, the freedom is important to others and folks vote their conscience rather than playing politics," Koenig said.</p>
+	<p class="large bodyText">For decades, Kentucky has allowed wagering on its signature horse racing industry, including the annual Kentucky Derby. But House bill 175 would let people also place bets on professional and college sporting events at most of the state's horse racing tracks and the Kentucky Speedway, which hosts a NASCAR event each summer. People could place bets in person or on their smartphones.</p>
+	<p class="large bodyText">The bill would ban betting on any sporting event involving a Kentucky college or university, including the state's beloved basketball teams at University of Kentucky and the University of Louisville. The reason, Koenig said, is because people have closer access to amateur sports, making it easier to illegally influence the outcome of the games. That happened in the 1950s, when several University of Kentucky men's basketball players were arrested for accepting bribes to shave points in a game. The NCAA suspended Kentucky's basketball program for the 1952-53 season.</p>
+	<p class="large bodyText">But some are pushing to lift the proposed betting ban for Kentucky college sports. Stern, the lobbyist for FanDuel, said nearly 1 million Kentucky residents are already placing illegal bets on offshore websites, and she was willing to bet a lot of them were wagering on Kentucky college sports' teams.</p>
+	<p class="large bodyText">"Kentucky will be leaving money on the table with the ban on Kentucky collegiate athletic events," she said.</p>
+
+
+
+
+            
+  
+<!--News Alert-->
+
+
+
+<!-- End News Alert -->
+          </div>
+<!-- EMBED CODE START -->
+
+<!-- EMBED CODE END -->
+
+
+          <div class="row">
+            <div class="col-xs-12">
+              <div id="fb-root"></div>
+              <script>(function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+                fjs.parentNode.insertBefore(js, fjs);
+              }(document, 'script', 'facebook-jssdk'));</script>
+              <div id="targetCommentURL" class="fb-comments" data-href="https://www.njherald.com/article/20190213/AP/302139803" data-numposts="10" data-colorscheme="light"></div>
+            </div>
+          </div>
+
+
+          <div class="row border-top-c3c3c3">
+            <div class="col-xs-12 margin-bottom-15">
+              <div class="row">
+                <div class="col-xs-12">
+                  <h4><a href="/National-Sports" class="font-color-0098d1 uppercase">More In National Sports</a></h4>
+                </div>
+                <div class="col-xs-12">
+                  <div class="row">
+                                          <div class="col-sm-4 col-xs-12">
+    <div class="thumbnail">
+      <h6 class="margin-bottom-0 margin-top-0 text-uppercase"><small><a href="/National-Sports" class="font-color-0098d1 uppercase">National Sports</a></small></h6>
+      <a href="/article/20190226/AP/302269825">
+        Former Clemson safety pleads guilty in apartment break-in
+      </a>
+    </div>
+  </div>
+  <div class="col-sm-4 col-xs-12">
+    <div class="thumbnail">
+      <h6 class="margin-bottom-0 margin-top-0 text-uppercase"><small><a href="/National-Sports" class="font-color-0098d1 uppercase">National Sports</a></small></h6>
+      <a href="/article/20190226/AP/302269830">
+        NBCSN to simulcast Sky Sports News on weekdays
+      </a>
+    </div>
+  </div>
+  <div class="col-sm-4 col-xs-12">
+    <div class="thumbnail">
+      <a href="/article/20190226/AP/302269844">
+      	<img src="https://www.njherald.com/apps/pbcsi.dll/storyimage/NH/20190226/AP/302269844/AR/0/AR-302269844.jpg" alt="Hanley Ramirez, Indians finalize minor league deal" class="img-responsive"/>
+      </a>
+      <h6 class="margin-bottom-0 margin-top-0 text-uppercase"><small><a href="/National-Sports" class="font-color-0098d1 uppercase">National Sports</a></small></h6>
+      <a href="/article/20190226/AP/302269844">
+        Hanley Ramirez, Indians finalize minor league deal
+      </a>
+    </div>
+  </div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+     	      <div class="col-md-4 col-xs-12">
+        <div class="row">
+          <div id='box-01' class="col-xs-12 text-center margin-left-neg-xs-15 padding-left-0 padding-right-0">
+            <script type='text/javascript'>
+              googletag.cmd.push(function() { googletag.display('box-01'); });
+            </script>
+          </div>
+        </div>
+                  <!-- MOST READ -->
+          <!-- CONTENTSTATS 14 -->
+		  <div class="row">
+            <div class="col-xs-12">
+              <div class="border-top-c3c3c3 margin-top-15"></div>
+              <h4>Most Read</h4>
+<!-- CONTENTSTATSITEM 14 -->
+              <a rel="nofollow" href="/20190225/vernon-man-accused-of-overdose-crash-that-killed-3-to-remain-detained-judge-rules">
+                <div class="row">
+                  <div class="col-xs-2 col-sm-1 col-md-2 col-lg-1">
+                    <span class="most-read margin-0 font-color-727272"><exlarge>1</exlarge></span>
+                  </div>
+                  <div class="col-xs-6 col-sm-7 col-md-6 col-lg-7">
+                    Vernon man accused of overdose crash that killed 3 to remain detained, judge rules
+                  </div>
+                  <div class="col-xs-4 text-right">
+                    <img src="https://www.njherald.com/apps/pbcsi.dll/storyimage/NH/20190225/ARTICLE/302259830/AR/0/AR-302259830.jpg&imageversion=1200by700" class="img-responsive" alt="Vernon man accused of overdose crash that killed 3 to remain detained, judge rules" />
+                  </div>
+                </div>
+              </a>
+<!-- CONTENTSTATSITEM 14 -->
+              <div class="border-top-e5e5e5 margin-top-5 margin-bottom-5"></div>
+              <a rel="nofollow" href="/20190226/vanderee-was-convicted-in-similar-incident--in-2016-had-to-be-revived-with-narcan-twice">
+                <div class="row">
+                  <div class="col-xs-2 col-sm-1 col-md-2 col-lg-1">
+                    <span class="most-read margin-0 font-color-727272"><exlarge>2</exlarge></span>
+                  </div>
+                  <div class="col-xs-6 col-sm-7 col-md-6 col-lg-7">
+                     New details emerge as Vernon man accused in triple fatal crash stays jailed
+                  </div>
+                  <div class="col-xs-4 text-right">
+                    <img src="https://www.njherald.com/apps/pbcsi.dll/storyimage/NH/20190226/ARTICLE/302269989/AR/0/AR-302269989.jpg&imageversion=1200by700" class="img-responsive" alt=" New details emerge as Vernon man accused in triple fatal crash stays jailed" />
+                  </div>
+                </div>
+              </a>
+<!-- CONTENTSTATSITEM 14 -->
+              <div class="border-top-e5e5e5 margin-top-5 margin-bottom-5"></div>
+              <a rel="nofollow" href="/20190226/man-charged-with-threatening-wv-officials">
+                <div class="row">
+                  <div class="col-xs-2 col-sm-1 col-md-2 col-lg-1">
+                    <span class="most-read margin-0 font-color-727272"><exlarge>3</exlarge></span>
+                  </div>
+                  <div class="col-xs-6 col-sm-7 col-md-6 col-lg-7">
+                    Man charged with threatening Wallkill Valley officials in profanity-laced voicemail
+                  </div>
+                  <div class="col-xs-4 text-right">
+                    <img src="https://www.njherald.com/apps/pbcsi.dll/storyimage/NH/20190226/ARTICLE/302269986/AR/0/AR-302269986.jpg&imageversion=1200by700" class="img-responsive" alt="Man charged with threatening Wallkill Valley officials in profanity-laced voicemail" />
+                  </div>
+                </div>
+              </a>
+<!-- CONTENTSTATSITEM 14 -->
+              <div class="border-top-e5e5e5 margin-top-5 margin-bottom-5"></div>
+              <a rel="nofollow" href="/20190226/sussex-wantage-boe-to-vote-on-transgender-policy--update">
+                <div class="row">
+                  <div class="col-xs-2 col-sm-1 col-md-2 col-lg-1">
+                    <span class="most-read margin-0 font-color-727272"><exlarge>4</exlarge></span>
+                  </div>
+                  <div class="col-xs-6 col-sm-7 col-md-6 col-lg-7">
+                    Sussex-Wantage BOE to vote on transgender policy  update
+                  </div>
+                  <div class="col-xs-4 text-right">
+                    <img src="https://www.njherald.com/apps/pbcsi.dll/storyimage/NH/20190226/ARTICLE/302269987/AR/0/AR-302269987.jpg&imageversion=1200by700" class="img-responsive" alt="Sussex-Wantage BOE to vote on transgender policy update" />
+                  </div>
+                </div>
+              </a>
+<!-- CONTENTSTATSITEM 14 -->
+              <div class="border-top-e5e5e5 margin-top-5 margin-bottom-5"></div>
+              <a rel="nofollow" href="/article/20190225/ARTICLE/190229996">
+                <div class="row">
+                  <div class="col-xs-2 col-sm-1 col-md-2 col-lg-1">
+                    <span class="most-read margin-0 font-color-727272"><exlarge>5</exlarge></span>
+                  </div>
+                  <div class="col-xs-10 col-sm-11 col-md-10 col-lg-11">
+                    High winds leave more than 2,000 in Sussex County without power 
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+        
+        
+        <div class="row">
+          <div id='half-box-01' class="col-xs-12 text-center margin-left-neg-xs-15 padding-left-0 padding-right-0 margin-top-15">
+            <script type='text/javascript'>
+              googletag.cmd.push(function() { googletag.display('half-box-01'); });
+            </script>
+          </div>
+        </div>
+                  <!-- IN CASE YOU MISSED IT -->
+                    <div class="row margin-bottom-15">
+            <div class="col-xs-12">
+              <div class="border-top-c3c3c3 margin-top-15"></div>
+              <div class="row">
+                <div class="col-xs-9">
+                  <h4>In Case You Missed It</h4>
+                </div>
+                <div class="col-xs-3 text-right margin-top-10">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-12">
+                   <a href="/20190224/abigail-roberts-a-female-preacher-comes-to-town"><img src="https://www.njherald.com/apps/pbcsi.dll/storyimage/NH/20190224/ARTICLE/302249991/AR/0/AR-302249991.jpg" alt="Abigail Roberts, a female preacher, comes to town" class="img-responsive"/></a>
+                </div>
+                <div class="col-xs-12">
+                  <h4 class="margin-0 margin-bottom-5 margin-top-5"><a href="/20190224/abigail-roberts-a-female-preacher-comes-to-town">Abigail Roberts, a female preacher, comes to town</a></h4>
+                </div>
+                <div class="col-xs-12">
+                  SUSSEX/WARREN COUNTIES -- In June 1824, the residents of Orange, Sussex and Warren counties were startled by the news that a female preacher had come to town. In the book "Memoir of Mrs. Abigail Roberts," written by her son, Rev. Philetus Roberts (1858),
+                </div>
+              </div>
+            </div>
+          </div>
+
+        <div class="row">
+          <div id='box-02' class="col-xs-12 text-center margin-left-neg-xs-15 padding-left-0 padding-right-0 margin-top-15">
+            <script type='text/javascript'>
+              googletag.cmd.push(function() { googletag.display('box-02'); });
+            </script>
+          </div>
+        </div>
+                  <div class="border-top-c3c3c3 margin-top-15"></div>
+          <div class="row">
+            <div class="col-xs-12">
+              <script src="https://embed.secondstreetapp.com/Scripts/dist/optin.js" data-ss-embed="optin" data-design-id="257975" ></script>
+            </div>
+          </div>
+
+        
+        
+        <div class="row">
+          <div id='half-box-02' class="col-xs-12 text-center margin-left-neg-xs-15 padding-left-0 padding-right-0 margin-top-15">
+            <script type='text/javascript'>
+              googletag.cmd.push(function() { googletag.display('half-box-02'); });
+            </script>
+          </div>
+        </div>
+      </div>
+
+      </div>
+
+<!-- FOOTER-->
+      <div class="row">
+        <div class="border-top-c3c3c3 margin-top-10"></div>
+        <div class="col-xs-12 text-center smlarge margin-top-10 font-color-727272">
+           <ul class="list-inline"> <li class="margin-bottom-10"><a href="/about">About Us</a></li>
+ <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class="margin-bottom-10"><a href="/staff/Advertising">Advertise</a></li>
+ <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class="margin-bottom-10"><a href="/contact-us">Contact Us</a></li>
+ <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class="margin-bottom-10"><a href="/contests">Events & Contests</a></li>
+ <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class="margin-bottom-10"><a href="http://www.njherald.com/article/99999999/ARTICLE/170229981">Manage My Account</a></li>
+ <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class="margin-bottom-10"><a href="/alerts">News Alerts</a></li>
+ <li class="divider font-color-d5d5d5 hidden-xs smlarge">|</li> <li class=""><a href="/subscribe">Subscribe</a></li>
+</ul>
+        </div>
+      </div>
+      <div class="row background-footer font-color-footer">
+        <div class="col-xs-12 col-sm-6 margin-top-15 margin-bottom-15">
+          <a href="https://www.njherald.com"><img src="https://www.njherald.com/img/NHlogo-white.png" alt="New Jersey Herald" class="img-responsive" /></a>
+          2 Spring St. Newton, NJ 07860<br />
+          <a href="tel:+19733831500">973-383-1500</a>  &middot;  <a href="tel:+118004243725">1-800-424-3725</a>
+        </div>
+        <div class="col-xs-12 col-sm-6 text-right margin-top-15 margin-bottom-15">
+          &copy; Copyright 2019 <strong>The New Jersey Herald</strong><br />
+          <a href="https://www.njherald.com/privacy">Privacy Policy</a> - <a href="https://www.njherald.com/terms">Terms of Service</a><br />
+          <a href="https://quincymediacareers.com/">Quincy Media Careers</a>
+        </div>
+      </div>
+      <div class="row padding-bottom-20">
+        <div>
+          <h1>&nbsp;</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div id='floating-ad' class="col-xs-12 text-center">
+          <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('floating-ad'); });
+          </script>
+        </div>
+      </div>
+    </div>
+    <script src="https://syncaccess-qni-njh.syncronex.com/qni/njh/api/scripts/syncwall"></script>
+    <script src="https://www.njherald.com/js/bootstrap.min.js"></script>
+    <script src="https://www.njherald.com/js/jquery.mobile.custom.min.js"></script>
+    <script src="https://www.njherald.com/js/custom.js"></script>
+    <script src=""></script>
+  </body>
+</html>
+ 
+<!--Updated: 2019/02/26 12:50:24-->

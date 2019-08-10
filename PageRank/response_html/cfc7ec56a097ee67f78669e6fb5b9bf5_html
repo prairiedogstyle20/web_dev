@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+          'gtm.start': new Date().getTime(), event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-TTK3TS7');</script>
+  <!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Cache-Control" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0,user-scalable=no">
+  <meta name="apple-itunes-app" content="app-id=543128311">
+  <meta name="google-play-app" content="app-id=jp.co.ipg.gguide">
+  <link rel="apple-touch-icon-precomposed apple-touch-icon" type="image/png" href="https://ggm-contents.bangumi.org/bangumi/assets/apple_touch_icon-1270491bc6f60385bdc0e81b50c2983d1c25dbeb1823cce59ee737b4f2d1f9f9.png" sizes="120x120" />
+
+  <link rel="stylesheet" media="all" href="https://ggm-contents.bangumi.org/bangumi/assets/application-8a9410852c4c572a7ca2a51d6971c5c752195ec8c68f4d82bd7e4d2e26a7d697.css" />
+
+  
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="vg7RHQTIPz16aVTU7b6L1G4e2XhtFdMwCaz6WvkMPGq/+91tvq3IbE01MlqZLMC+NS33gqDvrbaISRTDHGVbRg==" />
+
+  <title>File Not Found</title>
+
+      <script>
+          (function (i, s, o, g, r, a, m) {
+              i['GoogleAnalyticsObject'] = r;
+              i[r] = i[r] || function () {
+                  (i[r].q = i[r].q || []).push(arguments)
+              }, i[r].l = 1 * new Date();
+              a = s.createElement(o),
+                  m = s.getElementsByTagName(o)[0];
+              a.async = 1;
+              a.src = g;
+              m.parentNode.insertBefore(a, m)
+          })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+          ga('create', 'UA-33452626-1', 'auto');
+          ga('send', 'pageview');
+      </script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTK3TS7"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <section class="mobile_header">
+  <header role="banner" id="js-mobile-menu">
+    <ul>
+      <li>
+        <a href="" id="sub-menu-show-button">
+          <img id="menu" alt="テレビ番組" src="https://ggm-contents.bangumi.org/bangumi/assets/header_menu_icon-8e39afe2d0df0655cd0e6c94d752fee30e53a011b882e3e4efce2135b51f383a.png" />
+        </a>
+      </li>
+      <li>
+        <h1>
+          <a href="/">
+            <img class="logo" src="https://ggm-contents.bangumi.org/bangumi/assets/mobile_g_guide-67cb405934c7ef038d40d96b24e1e6ee32b3abf06e68019765f5730aff2429a3.png" alt="Mobile g guide" />
+          </a>
+        </h1>
+      </li>
+    </ul>
+  </header>
+  <section id="js-mobile-sub-menu" v-cloak>
+    <nav v-bind:class="[isSlided ? 'slide-enter' : 'slide-leave-active']">
+      <ul>
+        <li>
+          <a href="/">
+            <img class="logo" src="https://ggm-contents.bangumi.org/bangumi/assets/mobile_g_guide-67cb405934c7ef038d40d96b24e1e6ee32b3abf06e68019765f5730aff2429a3.png" alt="Mobile g guide" />
+          </a>
+        </li>
+        <li>
+          <a href="/">
+            注目番組
+          </a>
+        </li>
+        <li>
+          <a href="/epg/td">
+            番組表
+          </a>
+        </li>
+        <li>
+          <form action="/search" id="searchForm" method="get" v-on:submit.prevent="onSubmit">
+            <input type="text" name="q" id="search_style" placeholder="番組検索" v-model="input">
+            <input type="hidden" name="area_code" id="search_area_code" v-model="searchAreaCode">
+          </form>
+        </li>
+      </ul>
+      <div class="close" id="sub-menu-closer">
+        <img id="close" src="https://ggm-contents.bangumi.org/bangumi/assets/close_icon-603c193922e3e2c0be1c9b82a9c6027c1630eb058a6e38abfedaf763c4e38333.png" alt="Close icon" />
+      </div>
+    </nav>
+  </section>
+  <section id="sub_menu_back_section" v-cloak>
+    <div id="sub_menu_back" v-show="isSubMenuDisp"></div>
+  </section>
+</section>
+
+    <section class="not_found">
+      <div id="ggb_error_page">
+        <section id="section_not_found">
+          <div>
+            <p class="title">番組情報が見つかりません</p>
+            <p class="detail">申し訳ございません。お客様がアクセスしようとした番組の情報が見つかりませんでした。</p>
+            <p class="detail">お客様がお探しの番組は、番組が終了してしまったか、8日以内に次回放送の予定がない可能性があります。番組表や検索から、ご覧になりたい番組をお探しください。</p>
+            <p class="link"><a href="/epg/td">番組表</a></p>
+                <p class="link"><a href="/">トップページ</a></p>
+          </div>
+        </section>
+      </div>
+      <section id="section_footer">
+  <a href="/"><img src="https://ggm-contents.bangumi.org/bangumi/assets/ipg_logo-6bd537b48a5ee29ca41879e77969d93cad7a2c9c4bd6c4557b83b3066ae4bbde.png" alt="Ipg logo" /></a>
+  <ul>
+    <li><a href="//ipg.co.jp/">会社概要</a></li>
+    <li><a href="//ggm.bangumi.org/web/v6/forward.action?name=termsOfService">利用規約</a></li>
+    <li><a href="//ggm.bangumi.org/web/v6/forward.action?name=inquiry">お問い合わせ</a></li>
+  </ul>
+  <small>&copy;IPG inc. All Rights Reserved.</small>
+</section>
+    </section>
+
+<script src="https://ggm-contents.bangumi.org/bangumi/assets/application-0c6524ce4aeaa7e641f15c3e1501bd89386893f7246026d735f197816783a2de.js"></script>
+<script>
+    $.smartbanner({
+        title: "Gガイドテレビ番組表",
+        author: "IPG Inc.",
+        appStoreLanguage: 'ja',
+        daysHidden: 7,
+        button: "開く",
+        icon: "https://ggm-contents.bangumi.org/bangumi/assets/apple_touch_icon-1270491bc6f60385bdc0e81b50c2983d1c25dbeb1823cce59ee737b4f2d1f9f9.png"
+    });
+</script>
+
+</body>
+</html>

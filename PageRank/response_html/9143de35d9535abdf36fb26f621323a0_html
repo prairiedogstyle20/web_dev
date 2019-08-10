@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<script type="text/javascript">
+		function unescapeHtml(escaped_str) {
+		    var div = document.createElement('div');
+		    div.innerHTML = escaped_str;
+		    var child = div.childNodes[0];
+		    return child ? child.nodeValue : null;
+		}
+		
+		function validateProtocol(url) {
+			var parser = document.createElement('a');
+		    parser.href = url;
+		    var protocol = parser.protocol.toLowerCase();
+			if ([ 'javascript:', 'vbscript:', 'data:' ].indexOf(protocol) < 0) {
+				return url;
+			}
+			return null;
+		}
+		
+		function validate(url) {
+			var unescaped_value = unescapeHtml(url);
+			if (unescaped_value && validateProtocol(unescaped_value)) {
+				return unescaped_value;
+			}
+			return '/';
+		}			var hasURI = false;
+			var intervalExecuted = false;
+			window.onload = function() {
+				document.getElementById("l").src = validate("nullmedium.com/p/trumps-dad-was-so-racist-woody-guthrie-wrote-a-song-about-it-deea588fa11a?link_click_id=629008751659641459");
+				window.setTimeout(function() {
+					if (!hasURI) {
+						window.top.location = validate("https://medium.com/p/trumps-dad-was-so-racist-woody-guthrie-wrote-a-song-about-it-deea588fa11a?_branch_match_id=629008751659641459");
+					}
+					intervalExecuted = true;
+				}, 300);
+			};
+
+			window.onblur = function() {
+				hasURI = true;
+			};
+
+			window.onfocus = function() {
+				if (hasURI) {
+					window.top.location = validate("https://medium.com/p/trumps-dad-was-so-racist-woody-guthrie-wrote-a-song-about-it-deea588fa11a?_branch_match_id=629008751659641459");
+				} else if(intervalExecuted) {
+					window.top.location = validate("https://medium.com/p/trumps-dad-was-so-racist-woody-guthrie-wrote-a-song-about-it-deea588fa11a?_branch_match_id=629008751659641459");
+				}
+			}
+		</script>
+		<iframe id="l" width="1" height="1" style="visibility:hidden"></iframe>
+	</body>
+</html>

@@ -1,0 +1,1641 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" dir="ltr">
+<head>
+
+<script>
+  (function () {
+    if (document.querySelector == undefined) {
+      return;
+    }
+    var agent = navigator.userAgent, isTablet, isSMP, isAndroid, isAndroidMobile, isAndroidTablet, isIPad, isIphone, isWindowsPhone;
+    isAndroid = agent.match(/Android/i) != null;
+    isAndroidMobile = agent.match(/Android.*Mobile/i) != null;
+    isAndroidTablet = !isAndroidMobile && isAndroid;
+    isIPad = agent.match(/iPad/i) != null;
+    isIphone = agent.match(/iPhone/i) != null;
+    isWindowsPhone = agent.match(/Windows Phone/i) != null;
+    isTablet = isIPad || isAndroidTablet;
+    isSMP = isIphone || isAndroidMobile || isWindowsPhone;
+    var m, h;
+    h = document.querySelector('head');
+    m = document.createElement('meta');
+    m.name = 'viewport';
+    if (isTablet || isSMP) {
+      m.content = 'width=1054, user-scalable=no';
+      document.documentElement.classList.add("tablet")
+    }
+    h.appendChild(m);
+  })();
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta http-equiv="Content-Language" content="ja" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>骨髄バンク５０倍問い合わせ！璃花子　広がる支援に「ありがとう」― スポニチ Sponichi Annex スポーツ</title>
+<meta name="description" content="骨髄バンク５０倍問い合わせ！璃花子　広がる支援に「ありがとう」"/>
+<meta name="keywords" content="スポーツ,芸能,野球,サッカー,格闘技,グラビア,ニュース,写真"/>
+<meta name="author" content="株式会社スポーツニッポン新聞社マルチメディア事業本部" />
+<meta name="copyright" content="Copyright (C) SPORTS NIPPON NEWSPAPERS" />
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="スポニチ Sponichi Annex" />
+<meta property="og:title" content="骨髄バンク５０倍問い合わせ！璃花子　広がる支援に「ありがとう」 - スポニチ Sponichi Annex スポーツ" />
+<meta property="og:description" content="　競泳女子のエース、池江璃花子（１８＝ルネサンス）が白血病を公表してから一夜明けた１３日、国内外で続々とエールの声が上がり、支援する輪も広がりを見せた。病魔と闘うスイマーはツイッターを更新。２０２０年東京五輪での活躍を願う周囲の励ましに感謝の思いをつづり、復帰への意欲を示した。" />
+
+<meta property="og:image" content="https://www.sponichi.co.jp/sports/news/2019/02/14/jpeg/20190213s00092000309000p_view.jpg" />
+
+<meta name="twitter:title" content="骨髄バンク５０倍問い合わせ！璃花子　広がる支援に「ありがとう」 - スポニチ Sponichi Annex スポーツ" />
+<meta name="twitter:description" content="　競泳女子のエース、池江璃花子（１８＝ルネサンス）が白血病を公表してから一夜明けた１３日、国内外で続々とエールの声が上がり、支援する輪も広がりを見せた。病魔と闘うスイマーはツイッターを更新。２０２０年東京五輪での活躍を願う周囲の励ましに感謝の思いをつづり、復帰への意欲を示した。" />
+<meta name="twitter:site" content="@sponichiannex" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://www.sponichi.co.jp/sports/news/2019/02/14/jpeg/20190213s00092000309000p_view.jpg" />
+
+
+<link rel="stylesheet" type="text/css" media="screen, projection, tv" href="/assets/css/import.css" />
+
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/js/jquery.ui.datepicker-ja.min.js"></script>
+<script type="text/javascript" src="/js/common/tab.js?v=1.1"></script>
+<script src="/js/swiper/swiper.jquery.min.js"></script>
+<script type="text/javascript" src="/js/parts.js"></script>
+<link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" rel="stylesheet">
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/assets/js/gdpr.js"></script>
+<script type="text/javascript" src="/assets/js/date.js"></script>
+<script type="text/javascript" src="/assets/js/sns_botton.js"></script>
+
+
+
+<link rel="amphtml" href="https://www.sponichi.co.jp/sports/news/2019/02/14/kiji/20190213s00092000487000c.html?amp=1" />
+<meta name="item-id" content="20190213s00092000487000c">
+<link rel="canonical" href="https://www.sponichi.co.jp/sports/news/2019/02/14/kiji/20190213s00092000487000c.html" />
+<meta name="title" content="骨髄バンク５０倍問い合わせ！璃花子　広がる支援に「ありがとう」"/>
+<meta name="item-image" content="/sports/news/2019/02/14/jpeg/20190213s00092000309000p_thum.jpg"/>
+
+<meta name="can-recommend" content="true"/>
+
+<meta name="category" content="sports"/>
+<meta name="epoch-publish-date" content="1552489200"/>
+
+<meta name="lgenre_1" content="スポーツ"/>
+<meta name="lgenre_2" content="競泳"/>
+
+<!-- Start DataLayer -->
+<script>
+var dataLayer = dataLayer || [];
+dataLayer.push({ 
+  "articleDate": "2019-02-14 05:30:00",
+  "pageCategory": "スポーツ",
+  "pageSubCategory": "競泳",
+  "imageFile": "写真あり"
+});
+</script>
+<!-- End DataLayer -->
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5LFQDRM');</script>
+<!-- End Google Tag Manager -->
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/36797461/annex_pc/Top/S_Banner', [[970, 250], [728, 90]], 'div-gpt-ad-1550047579889-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Top/Mid_Rect', [300, 250], 'div-gpt-ad-1550048329518-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Top/Foot_Rect', [300, 250], 'div-gpt-ad-1550048509174-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Baseball/S_Banner', [[970, 250], [728, 90]], 'div-gpt-ad-1550049028712-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Baseball/Mid_Rect', [300, 250], 'div-gpt-ad-1550049296929-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Baseball/Foot_Rect', [300, 250], 'div-gpt-ad-1550049401235-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Soccer/S_Banner', [[970, 250], [728, 90]], 'div-gpt-ad-1550049496542-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Soccer/Mid_Rect', [300, 250], 'div-gpt-ad-1550049557056-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Soccer/Foot_Rect', [300, 250], 'div-gpt-ad-1550049657267-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Battle/S_Banner', [[970, 250], [728, 90]], 'div-gpt-ad-1550049948724-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Battle/Mid_Rect', [300, 250], 'div-gpt-ad-1550050018270-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Battle/Foot_Rect', [300, 250], 'div-gpt-ad-1550050058668-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Sports/S_Banner', [[728, 90], [970, 250]], 'div-gpt-ad-1550050375402-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Sports/Mid_Rect', [300, 250], 'div-gpt-ad-1550050415895-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Sports/Foot_Rect', [300, 250], 'div-gpt-ad-1550050481343-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Olympic/Foot_Rect', [300, 250], 'div-gpt-ad-1550050729957-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Society/S_Banner', [[728, 90], [970, 250]], 'div-gpt-ad-1550050916648-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Society/Foot_Rect', [300, 250], 'div-gpt-ad-1550050952854-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Entertainment/S_Banner', [[970, 250], [728, 90]], 'div-gpt-ad-1550051020757-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Entertainment/Mid_Rect', [300, 250], 'div-gpt-ad-1550051058345-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Entertainment/Foot_Rect', [300, 250], 'div-gpt-ad-1550051105756-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Horseracing/S_Banner', [[728, 90], [970, 250]], 'div-gpt-ad-1550051609182-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Horseracing/Mid_Rect', [300, 250], 'div-gpt-ad-1550051881338-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Horseracing/Foot_Rect', [300, 250], 'div-gpt-ad-1550052280566-0').addService(googletag.pubads());
+    googletag.defineSlot('/36797461/annex_pc/Car/Foot_Rect', [300, 250], 'div-gpt-ad-1550052350251-0').addService(googletag.pubads());
+    googletag.enableServices();
+  });
+</script>
+
+<style>
+.toast-message a {
+    text-decoration: underline;
+}
+</style>
+
+
+</head>
+
+
+      <body class="compact">
+  
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LFQDRM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+    <!-- ▼▼HEADER▼▼ -->
+<div class="document-wrapper" id="documentWrapper">
+    <header class="has-secondary" data-component="global-header" data-js-component="GlobalHeader">
+
+        <div class="top-bar">
+  <div class="left">
+    <span class="btn-hamburger"><i></i></span><a class="logo" href="/"></a><span class="date"></span>
+  </div>
+  <div class="right">
+    <a class="subscription" href="https://sponichi.jp/printed-matter/subscription/" target="_blank">新聞購読とバックナンバーの申込み</a>
+    <div class="sns">
+      <a class="tw" target="_blank"></a><a class="fb" target="_blank"></a><a class="line" target="_blank"></a>
+    </div>
+    <div id="wrapper-search">
+      <form action="https://search.sponichi.co.jp/">
+        <input type="hidden" value="t" name="ord" />
+        <input type="hidden" value="utf-8" name="cs" />
+        <input type="hidden" value="20817" name="id" />
+        <input id="searchBox" name="kw" type="text" value="" class="field" id="hdSearchTxt" />
+        <button for="searchbox" type="submit" value="" /><i></i>検索</button>
+      </form>
+    </div>
+  </div>
+</div>
+
+        
+  <div id="body-ad">
+<div id="ad-area">
+<p>
+<!-- /36797461/annex_pc/Sports/S_Banner -->
+<div id='div-gpt-ad-1550050375402-0'>
+<script>
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-1550050375402-0");
+});
+</script>
+</div>
+</p>
+</div>
+</div>
+
+<script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js'></script>
+<div id='crt-1079406' style='width:728px; height:90px; margin:12px auto 0;'></div>
+<script type='text/javascript'>
+   Criteo.DisplayAcceptableAdIfAdblocked(
+       {'zoneid' : 1079406,
+        'containerid' : 'crt-1079406'
+    });
+</script>
+
+
+        <nav class="primary">
+    <a href="/">トップ</a>
+    <a href="/all/kijilist/">新着</a>
+    <a href="/baseball/">野球</a>
+    <a href="/soccer/">サッカー</a>
+    <a href="/battle/">格闘技</a>
+    <a href="/sports/">スポーツ</a>
+    <a href="/olympic/">五輪</a>
+    <a href="/society/">社会</a>
+    <a href="/entertainment/">芸能</a>
+    <a href="/gamble/">ギャンブル</a>
+    <a href="/car/">クルマ</a>
+    <a href="/tokusyu/">特集</a>
+    <a href="/society/uranai/">占い</a>
+    <a href="/all/gazolist/">フォト</a>
+    <a href="/ranking/">ランキング</a>
+    <a href="/osaka/">大阪</a>
+</nav>
+                <script>
+          var path = location.pathname;
+          if (path === undefined) {
+            path = '/';
+          }
+          $($('nav.primary a').get().reverse()).each(function () {
+            var href = $(this).attr('href');
+            if (path.indexOf(href) === 0) {
+              $(this).addClass('active');
+              return false;
+            }
+          });
+        </script>
+
+
+
+        
+        <nav class="secondary">
+	<div>
+		<a href="/sports/tokusyu/kisya/">記者コラム</a>
+		<a href="/sports/athlete/">アスリート</a>
+		<a href="/sports/tokusyu/figure/">フィギュアスケート</a>
+		<a href="/sports/tokusyu/tennis/">テニス</a>
+		<a href="/sports/tokusyu/rugby/">ラグビー</a>
+		<a href="/sports/tokusyu/golf/">ゴルフ</a>
+		<a href="/sports/tokusyu/sumou/2019/">大相撲</a>
+		<a href="/sports/tokusyu/athletics/">陸上</a>
+		<a href="/sports/tokusyu/swimming/">競泳</a>
+		<a href="/sports/tokusyu/nba/">NBA</a>
+		<a href="/sports/tokusyu/tabletennis/">卓球</a>
+	</div>
+	<div class="hidden">
+		<a href="/sports/tokusyu/jsl-women/">女子ソフト</a>
+		<a href="/olympic/tokusyu/katopan/">カトパン突撃</a>
+		<a href="/sports/yomimono/palasports/">チャレンジド・アスリートの軌跡～障がい者スポーツ～</a>
+		<a href="/sports/tokusyu/eating/">食のお姉さん</a>
+	</div><span class="btn-more close">その他</span>
+</nav>
+        
+    </header>
+    <!-- BODY-AREA [START] -->
+    <main>
+        
+  <div data-component="article-nav" data-block="main">
+    <nav class="breadcrumbs" data-block="article"><a href="/">トップ</a><span>&gt;</span><a href="/sports/">スポーツ</a><span>&gt;</span><a href="/sports/news/2019/02/14/">2019年2月14日</a> 
+    </nav>
+        <nav class="pagination" data-block="side"><a href="/sports/news/2019/02/14/kiji/20190214s00092000086000c.html">前のニュース</a><span></span><a href="/sports/news/2019/02/14/kiji/20190213s00092000492000c.html">次のニュース</a></nav>
+    </div>
+
+        <div data-block="main">
+            
+<div data-block="article">
+  <article data-component="basic-article">
+  
+    <!--記事 -->
+      <header data-component="article-header">
+    <h1 class="heading">
+            <!-- 記事見出し --><!-- google_ad_section_start(name=s1) -->骨髄バンク５０倍問い合わせ！璃花子　広がる支援に「ありがとう」<!-- google_ad_section_end(name=s1) --><!-- 記事見出しここまで -->
+    </h1>
+    <div class="row">
+      <p data-component="date-format">
+        [ 2019年2月14日 05:30 ]
+      </p>
+      <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v3.2';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="sns">
+        <div class="fb-like" data-href="" data-width="110" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="false"></div>
+	<a class="fb" target="_blank"></a>
+	<a class="tw" target="_blank"></a>
+</div>
+    </div>
+  </header>
+  
+  <div data-component="article-body"><figure class="float-left">
+      <a href="/sports/news/2019/02/14/gazo/20190213s00092000309000p.html">
+        <span class="bg">
+            <img src="/sports/news/2019/02/14/jpeg/20190213s00092000309000p_thum.jpg">        </span>
+        <figcaption>白血病を公表した池江璃花子。国内外からエールの声が上がり、支援の輪が広がっている<br>Photo By スポニチ</figcaption>
+      </a>
+          </figure><p><!-- google_ad_section_start(name=s1) -->
+      <!-- 前文 -->
+      　競泳女子のエース、池江璃花子（１８＝ルネサンス）が白血病を公表してから一夜明けた１３日、国内外で続々とエールの声が上がり、支援する輪も広がりを見せた。病魔と闘うスイマーはツイッターを更新。２０２０年東京五輪での活躍を願う周囲の励ましに感謝の思いをつづり、復帰への意欲を示した。      <!-- 前文リンク -->
+      
+      <!-- 前文下リンク -->
+      
+      <!-- 関連SSI(本文中) -->
+          </p>
+    <p>
+      <!-- 本文 --> 　池江はツイッターを更新し、「神様は乗り越えられない試練は与えない、自分に乗り越えられない壁はないと思っています」とし、「今は、完治を目指し、焦らず、周りの方々に支えて頂きながら戦っていきたい」とつづった。<br />
+<br />
+　そんな病気と闘う覚悟を決めた１８歳に世界中から励ましの言葉が届いた。１６年リオ五輪競泳４冠のケイティ・レデッキー（２１＝米国）がインスタグラムに「あなたと早期の回復のために祈っています」とメッセージを書き込めば、男子の入江陵介（２９＝イトマン東進）もツイッターに「世界の最前線で戦ってるリカコなら病気にも圧勝してくれる」とエールを送った。<br />
+<br />
+　復活を願うのは選手仲間だけではない。一般ファンからも支援の動きが出始めた。池江が今後必要とする可能性がある「骨髄バンク」への関心が急速に高まっている。公益財団法人の日本骨髄バンクには、１２日午後からドナー登録についての電話やメールでの問い合わせが急増。それまで１日５、６件だった資料請求は、１２日だけで約２７０件に上ったという。ほとんどは池江の名を出さず「登録したいがどうすればいいか」「過去に病気をしたけど大丈夫か」など、登録の方法や条件を尋ねるもの。広報担当者は「キャンペーンＣＭが出たりテレビで特集されると増えることがあるが、今回は桁違い」と驚いている。<br />
+<br />
+　白血球の型が適合する確率は、非血縁者では数百から数万分の１といわれる。ドナーの登録者数は昨年末で４９万３６２７人。全体の高齢化が進み若い世代の登録者増が急務という状況に、池江を中心とする善意の輪が変化をもたらしそうだ。<br />
+<br />
+　また日本水泳連盟には励ましの電話も殺到。漢方を紹介する連絡もある。同連盟関係者によれば、詳しい検査結果が出るまで２〜３週間かかる見通しという。白血病は進行の速さや、がんになる細胞の種類によって急性骨髄性白血病や急性リンパ性白血病など細かく分類されている。詳細な検査結果が判明した後に本格的な治療に入るとみられる。<br />
+<br />
+　池江はツイッターの中で骨髄バンクに登録したとのメッセージなどに「ありがとうございます」と切り出し、「同じように辛（つら）い思いをしている方達にも本当に希望を持たせて頂いてます」と感謝の意を示した。世界中の思いが、「必ず戻ってきます」と誓った池江の支えになる。<br />
+<br />
+　▽骨髄バンク　骨髄・末梢（まっしょう）血管細胞提供斡旋の公的事業。日本骨髄バンクが主体となり、日本赤十字社や地方自治体の協力で行われる。ドナー登録は申込書を全国の献血ルームや保健所などに提出し、白血球の型を調べるため２ミリリットルの採血を受けて完了。同バンクからの適合通知を待つ。登録は１８歳から５４歳まで、薬を服用していないなどの条件がある。問い合わせは日本骨髄バンク（電）０３（５２８０）１７８９。 
+      <!-- google_ad_section_end(name=s1) -->
+    </p>
+
+    
+          <div id="news-more" class="compact-cover" data-show-compact-only><span data-component="button-show-more" data-js-component="CompactSwitch">続きを表示</span></div>
+      <script>
+        $('#news-more').on('click', function() {
+            $('body').removeClass('compact');
+        })
+      </script>
+      </div>
+
+  
+  
+
+    
+
+    <!-- この記事のフォト -->
+                  
+
+
+    <div class="mb30" data-hide-at-compact>
+      <div id="logly-lift-4284236"></div>
+<script charset="UTF-8">
+  (function(){
+    var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4284236";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+  })();
+</script>
+    </div>
+
+    
+        <div class="mb40 mt40" data-block="cols2">
+      <div data-component="ad-basic">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- annex_pc_rectangle_sports4_336x280_left -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-4610619947078412"
+     data-ad-slot="2956939904"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+      </div>
+
+      <div data-component="ad-basic">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- annex_pc_rectangle_sports4_336x280_right -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-4610619947078412"
+     data-ad-slot="3863414198"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+      </div>
+    </div>
+
+    <section class="mb40" data-hide-at-compact="data-hide-at-compact">
+      <div id="logly-lift-4284234"></div>
+<script charset="UTF-8">
+  (function(){
+    var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4284234";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+  })();
+</script>
+    </section>
+
+    
+            <div data-block="cols2" data-hide-at-compact>
+            <section>
+        <h2 data-component="section-header"><a class="arrow" href="/sports/tokusyu/osaka">「大坂なおみ」特集記事</a></h2>
+          <ul class="large-first" data-component="basic-list">
+                                                <li data-component="list-item" class="cateSports " >
+                      <a href="/sports/news/2019/02/25/kiji/20190224s00028000405000c.html">
+                          <figure>
+                                                            <img class="after_load object-fit0" src="https://www.sponichi.co.jp//sports/news/2019/02/25/jpeg/20190225s00028000001000p_thum.jpg">
+                                                      </figure>
+                          <div class="text">
+                            <p class="title">錦織「状態いい」今日開幕ドバイ選手権へ　大坂に復調期待のエール</p>
+                            <p data-component="date-format">［ 2019年2月25日 05:30 ］</p>
+                          </div>
+                      </a>
+                  </li>
+                                                                <li data-component="list-item" class="cateSports " >
+                      <a href="/sports/news/2019/02/21/kiji/20190220s00028000299000c.html">
+                          <figure>
+                                                            <img class="after_load object-fit0" src="https://www.sponichi.co.jp//sports/news/2019/02/20/jpeg/20190221s00028000009000p_thum.jpg">
+                                                      </figure>
+                          <div class="text">
+                            <p class="title">【辻野隆三の目】大坂、初戦敗退も…相手は元世界１０位　悲観する必…</p>
+                            <p data-component="date-format">［ 2019年2月21日 09:30 ］</p>
+                          </div>
+                      </a>
+                  </li>
+                                                                <li data-component="list-item" class="cateSports " >
+                      <a href="/sports/news/2019/02/21/kiji/20190220s00028000293000c.html">
+                          <figure>
+                                                            <img class="after_load object-fit0" src="https://www.sponichi.co.jp//sports/news/2019/02/21/jpeg/20190221s00028000007000p_thum.jpg">
+                                                      </figure>
+                          <div class="text">
+                            <p class="title">大坂、涙の敗退…世界１位初戦飾れず　次戦に向け巻き返し急務</p>
+                            <p data-component="date-format">［ 2019年2月21日 05:30 ］</p>
+                          </div>
+                      </a>
+                  </li>
+                                                                <li data-component="list-item" class="cateSports " >
+                      <a href="/sports/news/2019/02/21/kiji/20190220s00028000296000c.html">
+                          <figure>
+                                                            <img class="after_load object-fit0" src="https://www.sponichi.co.jp//sports/news/2019/02/21/jpeg/20190221s00028000008000p_thum.jpg">
+                                                      </figure>
+                          <div class="text">
+                            <p class="title">大坂、粘れず試合中はイライラ隠せず　精神面のもろさ再び露呈</p>
+                            <p data-component="date-format">［ 2019年2月21日 05:30 ］</p>
+                          </div>
+                      </a>
+                  </li>
+                                                                <li data-component="list-item" class="cateSports last-li" >
+                      <a href="/sports/news/2019/02/21/kiji/20190221s00028000012000c.html">
+                          <figure>
+                                                                <img src="/sports/images/thumbnail/007.jpg" >
+                                                                                      </figure>
+                          <div class="text">
+                            <p class="title">ムラデノビッチ、世界１位撃破　快勝して「意味のある勝利」</p>
+                            <p data-component="date-format">［ 2019年2月21日 05:30 ］</p>
+                          </div>
+                      </a>
+                  </li>
+                                        </ul>
+        <div data-component="link-more"><a href="/sports/tokusyu/osaka">「大坂なおみ」特集記事をもっと見る</a></div>
+      </section>
+            <section>
+        <h2 data-component="section-header"><a class="arrow" href="/sports/tokusyu/athlete/hanyuyuzuru">「羽生結弦」特集記事</a></h2>
+          <ul class="large-first" data-component="basic-list">
+                                                <li data-component="list-item" class="cateSports " >
+                      <a href="/sports/news/2019/02/21/kiji/20190220s00079000313000c.html">
+                          <figure>
+                                                            <img class="after_load object-fit0" src="https://www.sponichi.co.jp//sports/news/2019/02/21/jpeg/20190221s00079000030000p_thum.jpg">
+                                                      </figure>
+                          <div class="text">
+                            <p class="title">羽生、ジャンプ練習再開　３．２０開幕世界選手権へ準備進める</p>
+                            <p data-component="date-format">［ 2019年2月21日 05:30 ］</p>
+                          </div>
+                      </a>
+                  </li>
+                                                                <li data-component="list-item" class="cateSports " >
+                      <a href="/sports/news/2019/02/20/kiji/20190220s00079000191000c.html">
+                          <figure>
+                                                            <img class="after_load object-fit0" src="https://www.sponichi.co.jp//sports/news/2019/02/20/jpeg/20190220s00079000190000p_thum.jpg">
+                                                      </figure>
+                          <div class="text">
+                            <p class="title">羽生結弦「世界選手権に向けて調整」　スケート連盟理事会、強化部…</p>
+                            <p data-component="date-format">［ 2019年2月20日 15:34 ］</p>
+                          </div>
+                      </a>
+                  </li>
+                                                                <li data-component="list-item" class="cateSports " >
+                      <a href="/sports/news/2019/02/16/kiji/20190215s00079000380000c.html">
+                          <figure>
+                                                            <img class="after_load object-fit0" src="https://www.sponichi.co.jp//sports/news/2019/02/16/jpeg/20190216s00079000023000p_thum.jpg">
+                                                      </figure>
+                          <div class="text">
+                            <p class="title">宮原がトリプルアクセル挑戦、今夏から　来季以降習得へ</p>
+                            <p data-component="date-format">［ 2019年2月16日 05:30 ］</p>
+                          </div>
+                      </a>
+                  </li>
+                                                                <li data-component="list-item" class="cateSports " >
+                      <a href="/sports/news/2019/02/12/kiji/20190211s00079000409000c.html">
+                          <figure>
+                                                                <img src="/sports/images/thumbnail/008.jpg" >
+                                                                                      </figure>
+                          <div class="text">
+                            <p class="title">オーサー・コーチ語る　羽生は右足首回復「世界選手権へ照準」</p>
+                            <p data-component="date-format">［ 2019年2月12日 05:30 ］</p>
+                          </div>
+                      </a>
+                  </li>
+                                                                <li data-component="list-item" class="cateSports last-li" >
+                      <a href="/sports/news/2019/02/11/kiji/20190211s00079000176000c.html">
+                          <figure>
+                                                            <img class="after_load object-fit0" src="https://www.sponichi.co.jp//sports/news/2019/02/11/jpeg/20190211s00079000175000p_thum.jpg">
+                                                      </figure>
+                          <div class="text">
+                            <p class="title">大技の佐藤＆完成度の鍵山　男子フィギュア界で注目のライバル関係</p>
+                            <p data-component="date-format">［ 2019年2月11日 11:45 ］</p>
+                          </div>
+                      </a>
+                  </li>
+                                        </ul>
+        <div data-component="link-more"><a href="/sports/tokusyu/athlete/hanyuyuzuru">「羽生結弦」特集記事をもっと見る</a></div>
+      </section>
+          </div>
+    
+
+    
+    <script src="//www.sponichi.co.jp/adds/pc/shopping/sannex_space.js" charset="utf-8" type="text/javascript"></script>
+<script src="//www.sponichi.co.jp/adds/pc/shopping/sannex_space_error.js" charset="utf-8" type="text/javascript"></script>
+<style type="text/css">
+<!--
+a.snad {
+    color:#0000FF;
+    font-weight:bold;
+    text-decoration:none;
+}
+a:hover.snad {
+    color:#FF0000;
+}
+-->
+</style>
+
+     <section>
+<!-- 注目アイテムの置換用 -->
+
+
+         <div id="space_shopping_2018">
+         <div>
+
+         <!-- バナーの表示を実行します。バナー表示位置より下に記述してください。 -->
+         <script language="javascript"><!--
+         triggerBanner("shopping_2018");
+         // --></script>
+
+
+     </section>
+
+    
+            <div class="mt40 mb40" data-component="article-carousel" data-js-component="ArticleCarousel">
+      <div class="btn-prev"><i></i></div>
+      <div class="btn-next"><i></i></div>
+      <div class="carousel-wrapper">
+                            <a href="/sports/tokusyu/osaka/">
+            <figure><img src="/sports/images/tokusyu/osaka.jpg"/></figure>
+            <p>
+                              大坂なおみ                          </p>
+          </a>
+                            <a href="/sports/tokusyu/athlete/hanyuyuzuru/">
+            <figure><img src="/sports/images/tokusyu/hanyuyuzuru.jpg"/></figure>
+            <p>
+                              羽生結弦                          </p>
+          </a>
+                            <a href="/sports/tokusyu/kihirarika/">
+            <figure><img src="/sports/images/tokusyu/kihirarika.jpg"/></figure>
+            <p>
+                              紀平梨花                          </p>
+          </a>
+                            <a href="/sports/tokusyu/rugby_highschool2019/">
+            <figure><img src="/sports/images/tokusyu/rugby_highschool2019.jpg"/></figure>
+            <p>
+                              高校ラグビー（第98回全国高校ラグビー大会）                          </p>
+          </a>
+                            <a href="/sports/tokusyu/sumou/2019/">
+            <figure><img src="/sports/images/tokusyu/sumo2017.jpg"/></figure>
+            <p>
+                              大相撲　2019年                          </p>
+          </a>
+                            <a href="/sports/tokusyu/gymnastics/">
+            <figure><img src="/sports/images/tokusyu/gymnastics.jpg"/></figure>
+            <p>
+                              パワハラ告発の行方は!?<br />
+体操                          </p>
+          </a>
+                            <a href="/sports/tokusyu/takanohanakoji/">
+            <figure><img src="/sports/images/tokusyu/takanohanakoji.jpg"/></figure>
+            <p>
+                              貴乃花                          </p>
+          </a>
+                            <a href="/sports/tokusyu/athlete/unoshoma/">
+            <figure><img src="/sports/images/tokusyu/unoshoma.jpg"/></figure>
+            <p>
+                              宇野昌磨                          </p>
+          </a>
+                            <a href="/sports/tokusyu/kisenosato/">
+            <figure><img src="/sports/images/tokusyu/kisenosato.jpg"/></figure>
+            <p>
+                              稀勢の里                          </p>
+          </a>
+                            <a href="/sports/tokusyu/momota/">
+            <figure><img src="/sports/images/tokusyu/momota.jpg"/></figure>
+            <p>
+                              桃田賢斗<br />
+男子初の世界選手権制覇!                          </p>
+          </a>
+                            <a href="/sports/tokusyu/athlete/nishikorikei/">
+            <figure><img src="/sports/images/tokusyu/nishikorikei.jpg"/></figure>
+            <p>
+                              錦織圭                          </p>
+          </a>
+                            <a href="/sports/tokusyu/doping/">
+            <figure><img src="/sports/images/tokusyu/doping.jpg"/></figure>
+            <p>
+                              スポーツ界のドーピング                          </p>
+          </a>
+                            <a href="/sports/tokusyu/kisya/">
+            <figure><img src="/sports/images/tokusyu/sports.jpg"/></figure>
+            <p>
+                              スポニチ記者が見た！<br />
+スポーツ記者コラム                          </p>
+          </a>
+                            <a href="/sports/tokusyu/rugby/">
+            <figure><img src="/sports/images/tokusyu/rugby.jpg"/></figure>
+            <p>
+                              ラグビー特集                          </p>
+          </a>
+                            <a href="/sports/tokusyu/tabletennis/">
+            <figure><img src="/sports/images/tokusyu/tabletennis.jpg"/></figure>
+            <p>
+                              卓球                          </p>
+          </a>
+                            <a href="/sports/tokusyu/badminton/">
+            <figure><img src="/sports/images/tokusyu/badminton.jpg"/></figure>
+            <p>
+                              バドミントン<br />
+東京五輪金メダル独占も!?                          </p>
+          </a>
+                            <a href="/sports/tokusyu/tennis/">
+            <figure><img src="/sports/images/tokusyu/tennis.jpg"/></figure>
+            <p>
+                              テニス                          </p>
+          </a>
+                            <a href="/sports/tokusyu/golf/">
+            <figure><img src="/sports/images/tokusyu/golf.jpg"/></figure>
+            <p>
+                              ゴルフ                          </p>
+          </a>
+                            <a href="/sports/tokusyu/hataokanasa/">
+            <figure><img src="/sports/images/tokusyu/hataoka.jpg"/></figure>
+            <p>
+                              畑岡奈紗                          </p>
+          </a>
+                            <a href="/olympic/tokusyu/katopan/">
+            <figure><img src="/olympic/images/tokusyu/katopan.jpg"/></figure>
+            <p>
+                              スポニチ本紙連載<br />
+カトパン突撃！！                          </p>
+          </a>
+                            <a href="/sports/tokusyu/jsl-women/">
+            <figure><img src="/sports/images/tokusyu/softball.jpg"/></figure>
+            <p>
+                              日本女子ソフトボールリーグ                          </p>
+          </a>
+                            <a href="/sports/tokusyu/esports/">
+            <figure><img src="/sports/images/tokusyu/esports.jpg"/></figure>
+            <p>
+                              ｅスポーツ                          </p>
+          </a>
+              </div>
+    </div>
+    
+    
+    <section class="mb40">
+      <h2 data-component="section-header"><div class="arrow">2019年2月14日のニュース</div></h2>
+      <ul class="border-top" data-component="basic-list">
+          <div class="mb40" data-component="more-list" data-js-component="MoreList" data-add-count="999" data-initial-count="20">
+    <ul class="border-top" data-component="basic-list">
+                                <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190214s00056000247000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190214s00056000246000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">朝原氏　白血病を公表した池江にエール「本人が一番悔しいと思う」</p>
+                  <p data-component="date-format">［ 2019年2月14日 21:07 ］&nbsp;陸上</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190214s00011061181000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190214s00011061163000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">ウォリアーズ大荒れ　カー監督退場　連勝は５で止まって球宴ブレークへ</p>
+                  <p data-component="date-format">［ 2019年2月14日 16:43 ］&nbsp;バスケット</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190214s00011000119000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190214s00011061120000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">渡辺雄太が１３日ぶりにＧリーグの試合に出場　７得点と４リバウンドを記録　試合は２０点差で敗戦</p>
+                  <p data-component="date-format">［ 2019年2月14日 13:26 ］&nbsp;バスケット</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190214s00043000083000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190214s00043000082000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">“夢の城”で最高のリゾート体験を約束　スポニチ５４ホールチャレンジゴルフｉｎグアム参加者募集中！</p>
+                  <p data-component="date-format">［ 2019年2月14日 12:00 ］&nbsp;ゴルフ</p>
+                </div>
+            </a>
+        </li>
+                                                                    <script src="//cdn.gmossp-sp.jp/ads/loader.js?space_id=g907120" charset="utf-8" language="JavaScript"></script>
+<script language='javascript'>
+    gmossp_forsp.ad('g907120');
+</script>                                                                                    <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190214s00040079101000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190214s00040079081000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">ＮＦＬレイブンズがスーパーボウルＭＶＰを放出　ＱＢフラッコはブロンコスへ移籍</p>
+                  <p data-component="date-format">［ 2019年2月14日 11:33 ］&nbsp;アメフト</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190214s00011000094000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190214s00011000095000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">全米ベスト３０に八村　大学男子バスケのＭＶＰ「ネイスミス賞」の候補３０人に選出される</p>
+                  <p data-component="date-format">［ 2019年2月14日 11:16 ］&nbsp;バスケット</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190214s00092000086000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/13/jpeg/20190213s00092000304000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">ＩＯＣバッハ会長が池江に激励メッセージ「今はただ良くなることに集中して」</p>
+                  <p data-component="date-format">［ 2019年2月14日 10:49 ］&nbsp;競泳</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00092000487000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00092000309000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">骨髄バンク５０倍問い合わせ！璃花子　広がる支援に「ありがとう」</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;競泳</p>
+                </div>
+            </a>
+        </li>
+                                                                    <div id="_popIn_infeed_for_pc_2"></div>
+<script type="text/javascript">
+    (function() {
+        var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.charset = "utf-8"; pa.async = true;
+        pa.src = window.location.protocol + "//api.popin.cc/searchbox/sponichi.js";
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+    })(); 
+</script>                                                                                    <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00092000492000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00092000308000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">璃花子と泳ぎたい！東京五輪日本リレー枠獲得へ「一致団結」</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;競泳</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00092000524000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00092000497000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">今井　璃花子から直電　ライバルで親友「きっと大丈夫」</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;競泳</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00092000513000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00092000500000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">璃花子にエール！中学時代からの恩師「病気と闘って」</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;競泳</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00067000375000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00067000351000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">璃花子へエール！白井「アスリート間でも支援」　内村「回復して一緒に五輪出よう」</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;体操</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00028000419000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00028000313000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">錦織　３週間ぶり実戦　慣れぬ室内コートに苦戦も逆転勝ち</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;テニス</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00028000430000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/13/jpeg/20190212s00028000377000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">錦織も驚き！大坂のコーチ契約解消に「何も聞いてなかった」</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;テニス</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00039000447000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00039000331000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">ロコ・ソラーレ底力連勝！藤沢“神ショット”で昨季王者撃破</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;カーリング</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00072000437000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00072000326000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">スキー回転湯浅　世界選手権断念…肉離れ回復せず</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;アルペンスキー</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00043000459000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00043000337000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">松山　Ｖへ前向き「かみ合わせがうまくいけば」</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;ゴルフ</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00043000467000c.html">
+                <figure> 
+                                                              <img src="/sports/images/thumbnail/006.jpg" >
+                                  </figure>
+                <div class="text">
+                  <p class="title">英莉花　初参戦の豪女子ＯＰ開幕へ決意「笑って帰る」</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;ゴルフ</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00062000538000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00062000531000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">３・１発足「大学スポーツ協会」顧問に川淵氏が就任へ！</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;スポーツ一般</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00044000350000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00044000343000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">山沢　代表候補合宿で初のプレースキック練習「焦らずやっていく」</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;ラグビー</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports " >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00067000355000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00067000345000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">体操日中合同合宿　内村も刺激「相当意味あった」</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;体操</p>
+                </div>
+            </a>
+        </li>
+                                                                                        <li data-component="list-item" class="cateSports last-li" >
+            <a href="/sports/news/2019/02/14/kiji/20190213s00106000363000c.html">
+                <figure> 
+                                        <img class="after_load object-fit0" src="/sports/news/2019/02/14/jpeg/20190213s00106000341000p_thum.jpg">
+                                  </figure>
+                <div class="text">
+                  <p class="title">上山　サーフィン東京五輪代表入りへ「体つくる」</p>
+                  <p data-component="date-format">［ 2019年2月14日 05:30 ］&nbsp;サーフィン</p>
+                </div>
+            </a>
+        </li>
+                                                                    </ul><span class="btn-more"><span>もっと見る</span></span>
+  </div>
+      </ul>
+    </section>
+
+    
+    <section class="mt50">
+      <div id="logly-lift-4284237"></div>
+<script charset="UTF-8">
+  (function(){
+    var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4284237";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+  })();
+</script>
+    </section>
+  </article>
+</div>
+
+
+        <!-- CONTENT-SUB [START] -->
+            <aside data-block="side">
+            
+  <div class="mb30" data-component="ad-basic">
+<script type="text/javascript" language="JavaScript">
+<!--
+var impAserver = "https://as.sp.impact-ad.jp";
+var impAtarget = "/SITE=SPORTS/AREA=RECTANGLE1/AAMSZ=300X250/OENCJP=UTF8";
+
+impArnd = Math.round(Math.random() * 100000000);
+if (!impApid) var impApid = Math.round(Math.random() * 100000000);
+
+document.write('<scr');
+document.write('ipt type="text/javascript" language="JavaScript" src="' + impAserver + '/jserver/acc_random=' + impArnd + impAtarget + '/pageid=' + impApid + '">');
+document.write('</scr');
+document.write('ipt>');
+//-->
+</script>
+<noscript>
+<iframe src="https://as.sp.impact-ad.jp/hserver/SITE=SPORTS/AREA=RECTANGLE1/AAMSZ=300X250/OENCJP=UTF8" noresize scrolling="no" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="300" height="250" allowTranspareeny="true">
+</iframe>
+</noscript>
+
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<div id="1079405" style="width:300px;height:600px;"></div>
+<script type="text/javascript">
+Criteo.DisplayAcceptableAdIfAdblocked({
+    "zoneid": 1079405,
+    "containerid": "1079405"});
+</script>
+</div>
+
+              <div>
+              <h2 data-component="heading-side1">人気ランキング（スポーツ）</h2>
+              <div data-component="ranking-tab" data-js-component="BasicTab">
+                <nav class="tab-btns"><span class="active">最新</span><span>一週間</span><span>おすすめ</span>
+                </nav>
+                <ul class="active tab-contents">
+                              <li>
+            <a href="/sports/news/2019/02/22/kiji/20190222s00079000294000c.html">
+            
+                <span class="index">1</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/22/jpeg/20190222s00079000331000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/22/jpeg/20190222s00079000331000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">１１歳・本田紗来　国際大会初Ｖ！３回転ジャンプ６本着氷、２…</p>
+                                    </div>
+            </a>
+        </li>
+            <li>
+            <a href="/sports/news/2019/02/26/kiji/20190225s00011000409000c.html">
+            
+                <span class="index">2</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/26/jpeg/20190225s00011000366000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/26/jpeg/20190225s00011000366000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">男子バスケ日本代表　６月初旬から“虎の穴”計画　長期合宿で鍛…</p>
+                                    </div>
+            </a>
+        </li>
+            <li>
+            <a href="/sports/news/2019/02/11/kiji/20190211s00011061201000c.html">
+            
+                <span class="index">3</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/11/jpeg/20190211s00011000202000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/11/jpeg/20190211s00011000202000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">八村塁がノミネートされたウッデン賞の歴史的な重み　候補者に…</p>
+                                    </div>
+            </a>
+        </li>
+            <li>
+            <a href="/sports/news/2019/02/03/kiji/20190203s00011000216000c.html">
+            
+                <span class="index">4</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/03/jpeg/20190203s00011000215000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/03/jpeg/20190203s00011000215000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">日本バスケ界の歴史的“分岐点”と人気漫画「スラムダンク」に運…</p>
+                                    </div>
+            </a>
+        </li>
+            <li>
+            <a href="/sports/news/2019/02/25/kiji/20190225s00005000348000c.html">
+            
+                <span class="index">5</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/25/jpeg/20190225s00005000349000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/25/jpeg/20190225s00005000349000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">元大関・照ノ富士、春場所での復帰目指し大阪入り…４場所連続…</p>
+                                    </div>
+            </a>
+        </li>
+                    </ul>
+                <ul class="tab-contents">
+                              <li>
+            <a href="/sports/news/2019/02/22/kiji/20190222s00079000294000c.html">
+            
+                <span class="index">1</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/22/jpeg/20190222s00079000331000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/22/jpeg/20190222s00079000331000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">１１歳・本田紗来　国際大会初Ｖ！３回転ジャンプ６本着氷、２…</p>
+                                    </div>
+            </a>
+        </li>
+            <li>
+            <a href="/sports/news/2019/02/24/kiji/20190224s00079000376000c.html">
+            
+                <span class="index">2</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/24/jpeg/20190224s00079000377000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/24/jpeg/20190224s00079000377000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">紀平梨花　トリプルアクセル決めて逆転Ｖ「今できる最高かなと…</p>
+                                    </div>
+            </a>
+        </li>
+            <li>
+            <a href="/sports/news/2019/02/24/kiji/20190224s00079000276000c.html">
+            
+                <span class="index">3</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/24/jpeg/20190224s00079000369000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/24/jpeg/20190224s00079000369000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">紀平梨花　ＳＰ２位から逆転Ｖで世界選手権へ弾み！国際大会６…</p>
+                                    </div>
+            </a>
+        </li>
+            <li>
+            <a href="/sports/news/2019/02/11/kiji/20190211s00079000135000c.html">
+            
+                <span class="index">4</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/11/jpeg/20190210s00079000428000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/11/jpeg/20190210s00079000428000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">紀平、羽生に学ぶ　世界選手権で４回転サルコー生観戦「じっく…</p>
+                                    </div>
+            </a>
+        </li>
+            <li>
+            <a href="/sports/news/2019/02/10/kiji/20190210s00079000137000c.html">
+            
+                <span class="index">5</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/09/jpeg/20190209s00079000292000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/09/jpeg/20190209s00079000292000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">紀平梨花　演技後の“プレゼント”に感謝　大のピンク好きも一時…</p>
+                                    </div>
+            </a>
+        </li>
+                    </ul>
+                <ul class="tab-contents">
+                              <li>
+            <a href="/sports/news/2019/02/08/kiji/20190208s00005000140000c.html">
+            
+                <span class="index">1</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/08/jpeg/20190208s00005000133000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/08/jpeg/20190208s00005000133000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">元貴乃花親方「今度は内助の功、表に出ない人がいいかな」再婚…</p>
+                                    </div>
+            </a>
+        </li>
+            <li>
+            <a href="/sports/news/2019/02/25/kiji/20190224s00028000405000c.html">
+            
+                <span class="index">2</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/25/jpeg/20190225s00028000001000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/25/jpeg/20190225s00028000001000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">錦織「状態いい」今日開幕ドバイ選手権へ　大坂に復調期待のエ…</p>
+                                    </div>
+            </a>
+        </li>
+            <li>
+            <a href="/sports/news/2019/02/18/kiji/20190217s00028000451000c.html">
+            
+                <span class="index">3</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/18/jpeg/20190217s00028000504000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/18/jpeg/20190217s00028000504000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">錦織　決勝進出ならず、バブリンカに競り負け「悔しい」</p>
+                                    </div>
+            </a>
+        </li>
+            <li>
+            <a href="/sports/news/2019/02/22/kiji/20190222s00079000294000c.html">
+            
+                <span class="index">4</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2019/02/22/jpeg/20190222s00079000331000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2019/02/22/jpeg/20190222s00079000331000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">１１歳・本田紗来　国際大会初Ｖ！３回転ジャンプ６本着氷、２…</p>
+                                    </div>
+            </a>
+        </li>
+            <li>
+            <a href="/sports/news/2018/11/28/kiji/20181127s00005000518000c.html">
+            
+                <span class="index">5</span>
+                
+                <figure>
+                                            <img class="after_load" src="https://www.sponichi.co.jp/sports/news/2018/11/28/jpeg/20181127s00005000506000p_thum.jpg" data-src="https://www.sponichi.co.jp/sports/news/2018/11/28/jpeg/20181127s00005000506000p_thum.jpg" border="0">
+                                    </figure>
+
+                
+                <div class="text">
+                                        <p class="title">元貴親方、景子さんの芸能活動意欲に不満　今年夏頃に噴出…離…</p>
+                                    </div>
+            </a>
+        </li>
+                    </ul>
+              </div>
+              <div data-component="link-more"><a href="/sports/ranking/">ランキングをもっと見る</a></div>            </div>
+
+
+  <div class="mb30" data-component="ad-basic">
+<!-- /36797461/annex_pc/Sports/Mid_Rect -->
+<div id='div-gpt-ad-1550050415895-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-1550050415895-0");
+});
+</script>
+</div>
+</div>
+                          <div>
+              <h2 data-component="heading-side2">新着ニュース</h2>
+              <ul class="border-top" data-component="basic-list">
+                                                <li data-component="list-item">
+                  <a href="/sports/news/2019/02/26/kiji/20190226s00028000341000c.html">
+                    <figure>
+                                          <img class="after_load object-fit0" src="/sports/news/2019/02/26/jpeg/20190226s00028000454000p_thum.jpg">
+                                        </figure>
+                    <div class="text">
+                      <p class="title">錦織、世界６５位ペールをストレート撃破！ドバイ選手権１回戦</p>
+                      <p data-component="date-format">［ 2月26日 22:33 ］&nbsp;テニス</p>
+                    </div>
+                  </a>
+                </li>
+                                                                <li data-component="list-item">
+                  <a href="/sports/news/2019/02/26/kiji/20190226s00043000299000c.html">
+                    <figure>
+                                          <img class="after_load object-fit0" src="/sports/news/2019/02/26/jpeg/20190226s00043000297000p_thum.jpg">
+                                        </figure>
+                    <div class="text">
+                      <p class="title">ＰＧＡ女性会員募集、ＬＰＧＡから「時期遅らせて」と要望…倉本会長明かす</p>
+                      <p data-component="date-format">［ 2月26日 18:42 ］&nbsp;ゴルフ</p>
+                    </div>
+                  </a>
+                </li>
+                                                                <li data-component="list-item">
+                  <a href="/sports/news/2019/02/26/kiji/20190226s00005000279000c.html">
+                    <figure>
+                                                                <img src="/sports/images/thumbnail/006.jpg" >
+                                        </figure>
+                    <div class="text">
+                      <p class="title">相撲協会、過度な験担ぎのヒゲ禁止「神聖な土俵だから」　もみあげはＯＫ</p>
+                      <p data-component="date-format">［ 2月26日 17:44 ］&nbsp;相撲</p>
+                    </div>
+                  </a>
+                </li>
+                                                                <li data-component="list-item">
+                  <a href="/sports/news/2019/02/26/kiji/20190226s00078000278000c.html">
+                    <figure>
+                                          <img class="after_load object-fit0" src="/sports/news/2019/02/26/jpeg/20190226s00078000277000p_thum.jpg">
+                                        </figure>
+                    <div class="text">
+                      <p class="title">小平奈緒が凱旋帰国「まだ気は緩んでいない」　今季中の世界記録更新へ意欲</p>
+                      <p data-component="date-format">［ 2月26日 17:37 ］&nbsp;スピードスケート</p>
+                    </div>
+                  </a>
+                </li>
+                                                                <li data-component="list-item">
+                  <a href="/sports/news/2019/02/26/kiji/20190226s00005000274000c.html">
+                    <figure>
+                                          <img class="after_load object-fit0" src="/sports/news/2019/02/26/jpeg/20190226s00005000273000p_thum.jpg">
+                                        </figure>
+                    <div class="text">
+                      <p class="title">鶴竜　春場所連覇へ意欲！ゆるキャラをすくい投げ「調子いいかもね」</p>
+                      <p data-component="date-format">［ 2月26日 17:17 ］&nbsp;相撲</p>
+                    </div>
+                  </a>
+                </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </ul>
+              <div data-component="link-more"><a href="/sports/news/2019/02/26">新着ニュースをもっと見る</a></div>
+            </div>
+            
+
+<div class="mb30">
+<div style="width:298px;height:230px;border:1px #CCCCCC solid;margin-top:7px;">
+
+<img src="/shopping/images/title_a.gif" width="298" height="32" alt="【楽天】オススメアイテム" style="margin-bottom:2px;" />
+
+<!-- Rakuten Widget FROM HERE -->
+<script type="text/javascript">
+rakuten_design="slide";
+rakuten_affiliateId="0c081886.a272f9bd.0c0818ae.b4edbbae";
+rakuten_items="ranking";
+rakuten_genreId="0";
+rakuten_size="298x170";
+rakuten_target="_blank";
+rakuten_theme="gray";
+rakuten_border="off";
+rakuten_auto_mode="on";
+rakuten_genre_title="off";
+rakuten_recommend="on";
+rakuten_service_flag="ichiba";
+rakuten_noScrollButton="off"
+rakuten_disableLogo="off";
+rakuten_no_logo="off";
+rakuten_ver="20100708";
+rakuten_pointbackId="_RTmtlk20010122";
+</script>
+<script type="text/javascript" src="//xml.affiliate.rakuten.co.jp/widget/js/rakuten_widget.js"></script>
+<!-- Rakuten Widget TO HERE -->
+
+<a href="//hb.afl.rakuten.co.jp/hsc/0f997d34.97753221.0bf7ec77.64ba6304/" target="_blank"><img src="//hbb.afl.rakuten.co.jp/hsb/0f997d34.97753221.0bf7ec77.64ba6304/" border="0" style="margin-top:2px;" alt="" /></a>
+
+</div>
+</div>
+            <div class="mb30">
+              <h2 data-component="heading-side3">クイックアクセス</h2>
+              <ul data-component="link-list">
+		<li><a href="/sports/tokusyu/figure/">フィギュアスケート</a></li>
+		<li><a href="/sports/tokusyu/tennis/">テニス</a></li>
+		<li><a href="/sports/tokusyu/rugby/">ラグビー</a></li>
+		<li><a href="/sports/tokusyu/rugby_highschool2019/">高校ラグビー</a></li>
+		<li><a href="/sports/tokusyu/golf/">ゴルフ</a></li>
+		<li><a href="/sports/tokusyu/sumou/2019/">大相撲</a></li>
+		<li><a href="/sports/tokusyu/athletics/">陸上</a></li>
+		<li><a href="/sports/tokusyu/swimming/">水泳</a></li>
+		<li><a href="/sports/tokusyu/nba/">NBA</a></li>
+		<li><a href="/sports/tokusyu/tabletennis/">卓球</a></li>
+		<li><a href="/sports/tokusyu/jsl-women/">女子ソフト</a></li>
+		<li><a href="/olympic/tokusyu/katopan/">カトパン突撃</a></li>
+		<li><a href="/sports/yomimono/palasports/">チャレンジド・アスリートの軌跡～障がい者スポーツ～</a></li>
+		<li><a href="/sports/tokusyu/eating/">食のお姉さん</a></li>
+		<li><a href="/sports/athlete/">アスリート</a></li>
+              </ul>
+              <nav class="mt10 small" data-component="tags">
+		<a href="/sports/tokusyu/athlete/hanyuyuzuru/">羽生結弦</a>
+		<a href="/sports/tokusyu/athlete/unoshoma/">宇野昌磨</a>
+		<a href="/sports/tokusyu/athlete/asadamao/">浅田真央</a>
+		<a href="/sports/tokusyu/athlete/miyaharasatoko/">宮原知子</a>
+		<a href="/sports/tokusyu/athlete/nishikorikei/">錦織圭</a>
+		<a href="/sports/tokusyu/athlete/uchimurakouhei/">内村航平</a>
+		<a href="/sports/tokusyu/athlete/yoshidasaori/">吉田沙保里</a>
+		<a href="/sports/tokusyu/athlete/matsuyamahideki/">松山英樹</a>
+		<a href="/sports/tokusyu/athlete/miyazatoai/">宮里藍</a>
+		<a href="/sports/tokusyu/athlete/fukuharaai/"> 福原愛</a>
+</nav>
+            </div>
+
+            <div class="mb30">
+              <h2 data-component="heading-side3">コラム</h2>
+              <ul data-component="link-list">
+		<li><a href="/sports/tokusyu/fujiyama/">藤山健二の独立独歩</a></li>
+		<li><a href="/sports/tokusyu/fukunaga/">福永稔彦のアンプレアブル</a></li>
+		<li><a href="/sports/tokusyu/satoh/">佐藤博之のもう一丁</a></li>
+		<li><a href="/sports/tokusyu/takayanagi/">高柳昌弥のスポーツ・イン・ＵＳＡ</a></li>
+		<li><a href="/sports/tokusyu/kuroda/">黒田健司郎のくつろぎタイム</a></li>
+		<li><a href="/sports/tokusyu/gaman/">我満晴朗のこう見えても新人類</a></li>
+		<li><a href="/sports/tokusyu/suzuki/">鈴木誠治の我田引用</a></li>
+		<li><a href="/sports/yomimono/sponichiplaza/">スポニチPLAZA便り</a></li>
+		<li><a href="/sports/tokusyu/kisya/">記者コラム</a></li>
+              </ul>
+            </div>
+<div class="mb30">
+<h2 data-component="heading-side1">スペシャルコンテンツ</h2>
+<!-- スペシャルコンテンツ1枠目-->
+<div id="logly-lift-4284228"></div>
+<script charset="UTF-8">
+  (function(){
+    var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4284228";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+  })();
+</script>
+
+<!-- スペシャルコンテンツ2枠目-->
+<div id="logly-lift-4284229"></div>
+<script charset="UTF-8">
+  (function(){
+    var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4284229";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+  })();
+</script>
+
+<!-- スペシャルコンテンツ3枠目-->
+<div id="logly-lift-4284230"></div>
+<script charset="UTF-8">
+  (function(){
+    var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4284230";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+  })();
+</script>
+
+<!-- スペシャルコンテンツ4枠目-->
+<div id="logly-lift-4284231"></div>
+<script charset="UTF-8">
+  (function(){
+    var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4284231";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+  })();
+</script>
+
+<!-- スペシャルコンテンツ5枠目-->
+<div id="logly-lift-4284232"></div>
+<script charset="UTF-8">
+  (function(){
+    var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4284232";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+  })();
+</script>
+
+<!-- スペシャルコンテンツ6枠目-->
+<div id="logly-lift-4284233"></div>
+<script charset="UTF-8">
+  (function(){
+    var _lgy_lw = document.createElement("script");
+    _lgy_lw.type = "text/javascript";
+    _lgy_lw.charset = "UTF-8";
+    _lgy_lw.async = true;
+    _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4284233";
+    var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+    _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+  })();
+</script>
+</div>
+<div class="mb30" data-component="ad-basic">
+<!-- /36797461/annex_pc/Sports/Foot_Rect -->
+<div id='div-gpt-ad-1550050481343-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() {
+googletag.display("div-gpt-ad-1550050481343-0");
+});
+</script>
+</div>
+</div>
+
+            </aside>
+        </div>
+    </main>
+    
+    
+    
+    <!-- ▼▼FOOTER▼▼ -->
+    <div id="footer">
+  <footer data-component="global-footer">
+    <div>
+      <figure></figure>
+      <nav>
+        <a href="/common/about/">このサイトについて</a><span>|</span>
+        <a href="https://sponichi.jp/privacy/" target="_blank">個人情報について</a><span>|</span>
+        <a href="https://sponichi.jp/legalnotice/" target="_blank">免責事項</a><span>|</span>
+        <a href="/common/inquire/">ご意見</a><span>|</span>
+        <a href="https://sponichi.jp/company/" target="_blank">会社案内</a>
+      </nav>
+    </div>
+    <div>
+      <p>Copyright &copy; SPORTS NIPPON NEWSPAPERS. All Rights Reserved.</p>
+      <p>Sponichi Annexに掲載の記事・写真・カット等の転載を禁じます。すべての著作権はスポーツニッポン新聞社と情報提供者に帰属します。</p>
+    </div>
+  </footer>
+
+</div>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33588348-1']);
+  _gaq.push(['_setDomainName', 'sponichi.co.jp']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    <!-- ▲▲FOOTER▲▲ -->
+
+    </div>
+    <span data-component="to-top" data-js-component="ToTop"><i></i></span>
+
+        <div class="hidden" data-component="drawer-nav" data-js-component="DrawerNav">
+      <div class="bg"></div>
+      <nav><span class="btn-close"></span>
+        <div class="inner">
+          <ul class="main">
+            <li class="heading">スポニチ編集局で働いてみませんか</li>
+            <li><a href="https://sponichi.jp/recruit/parttime-tokyo/" target="_blank">募集詳細はこちら</a></li>
+            <li class="heading">スポニチNEW</li>
+			<li><a href="/company/new/index.html#201902akb">「AKB48Group新聞3月号」販売中</a></li>
+			<li><a href="/company/new/index.html#takarazuka"> 「宝塚歌劇特集号19年春」リニューアルして発売中</a></li>
+			<li><a href="/company/new/index.html#senbatsu19">センバツ特集号　定価350円で発売中</a></li>
+			<li><a href="/company/new/index.html#arc">スポニチアーカイブス3月号は「――平成のスポーツ史を振り返る」</a></li>
+			<li><a href="/company/new/index.html#dragonball">「ドラゴンボール超新聞」発売</a></li>
+			<li><a href="/company/new/book.html">加賀まりこ氏、ガッツ石松氏ら「我が道」発売</a></li>
+			<li><a href="/company/new/index.html#figure">「Dancin’on The Edge」羽生結弦</a></li>
+			<li><a href="/company/new/">その他･･･</a></li>
+            <li class="heading">コンテンツ</li>
+			<li><a href="/shimen/ichimen/tokyo/">今日の東京版一面</a></li>
+			<li><a href="/shimen/ichimen/osaka/">今日の大阪版一面</a></li>
+			<li><a href="/osaka/">大阪</a></li>
+			<li><a href="/ranking/">ランキング</a></li>
+			<li><a href="/all/gazolist/">フォト（写真一覧）</a></li>
+			<li><a href="/yomimono/">コラム</a></li>
+			<li><a href="/sports/tokusyu/column/">編集・専門委員のコラム</a></li>
+			<li><a href="/tokusyu/">特集</a></li>
+			<li><a href="/schedule/">日程・結果</a></li>
+			<li><a href="/common/sns/index.html">SNSアカウント一覧</a></li>
+            <li class="heading">記事カテゴリー</li>
+			<li><a href="/baseball/">野球</a></li>
+			<li><a href="/soccer/">サッカー</a></li>
+			<li><a href="/entertainment/">芸能</a></li>
+			<li><a href="/sports/">スポーツ</a></li>
+			<li><a href="/society/">社会</a></li>
+			<li><a href="/battle/">格闘技</a></li>
+			<li><a href="/gamble/">ギャンブル</a></li>
+			<li><a href="/olympic/">五輪</a></li>
+			<li><a href="/car/">クルマ</a></li>
+            <li class="heading">スポニチ</li>
+			<li><a href="/sponichi/jigyou/">スポニチ事業日程</a></li>
+			<li><a href="https://sponichi.jp/project/event/" target="_blank">スポニチのイベント</a></li>
+			<li><a href="https://sponichi.jp/printed-matter/sponichi-junior/" target="_blank">スポニチジュニア</a></li>
+			<li><a href="http://lp.smartcoach.jp/sponichiacademy/" target="_blank">スポニチアカデミー</a></li>
+			<li><a href="https://mainichi.jp/" target="_blank">毎日.jp</a></li>
+          </ul>
+          <ul class="images">
+            <li><a href="/company/new/index.html#c"><img src="/images/content_main/ad/ebooks_idol300_120d.jpg" /></a></li>
+            <li><a href="http://www.s-gc.net" target="_blank" rel="nofollow"><img src="/images/content_main/ad/sgc.jpg" /></a></li>
+            <li><a href="http://np-labo.com/" target="_blank" rel="nofollow"><img src="/images/content_main/ad/np-labo_20180528.png" /></a></li>
+            <li><a href="https://kyujin.sponichi.co.jp/" target="_blank" rel="nofollow"><img src="/images/content_main/ad/sponichi_kyujin20180129.gif" /></a></li>
+            <li><a href="https://www.sponichicreates.jp/" target="_blank" rel="nofollow"><img src="/images/content_main/ad/sponichicreates_ad.jpg" /></a></li>
+            <li><a href="http://www.sponichipartner.co.jp/" target="_blank" rel="nofollow"><img src="/images/content_main/ad/sponichipartner.png" /></a></li>
+          </ul>
+			
+          <ul class="sub">
+			<li><a href="https://sponichi.jp/printed-matter/advertisement-branch-2/" target="_blank">広告掲載資料</a></li>
+			<li><a href="https://sponichi.jp/printed-matter/subscription/" target="_blank">新聞購読とバックナンバーの申込み</a></li>
+			<li><a href="https://sponichi.jp/printed-matter/pictures/" target="_blank">掲載写真お分けします</a></li>
+			<li><a href="https://sponichi.jp/printed-matter/useage/" target="_blank">紙面使用のご案内</a></li>
+            <li><a href="/common/about/">このサイトについて</a></li>
+            <li><a href="https://sponichi.jp/privacy/" target="_blank">個人情報について</a></li>
+            <li><a href="https://sponichi.jp/legalnotice/" target="_blank">免責事項</a></li>
+            <li><a href="/common/inquire/">ご意見</a></li>
+            <li><a href="https://sponichi.jp/" target="_blank">会社案内</a></li>
+            <li><a href="https://sponichi.jp/recruit/" target="_blank">2019年度定期採用</a></li>
+            <li><a href="https://sponichi.jp/recruit/parttime-tokyo/" target="_blank">アルバイト募集・東京</a></li>
+            <li><a href="https://sponichi.jp/recruit/parttime-osaka/" target="_blank">アルバイト募集・大阪</a></li>
+            <li><a href="https://sponichi.jp/recruit/parttime-fukuoka/" target="_blank">アルバイト募集・福岡</a></li>
+          </ul>
+			
+          <div class="footer">
+            <p>Copyright &copy; SPORTS NIPPON NEWSPAPERS. All Right Reserved.</p>
+            <p>Sponichi Annexに掲載の記事・写真・カット等の転載を禁じます。すべての著作権はスポーツニッポン新聞社と情報提供者に帰属します。</p>
+          </div>
+			
+        </div>
+      </nav>
+    </div>
+
+    <script src="/assets/libs/flickity.pkgd.min.js"></script>
+    <script src="/assets/libs/packery.pkgd.min.js"></script>
+    <script src="/assets/libs/smooth-scrollbar.js"></script>
+    <script src="/assets/js/main.js"></script>
+    <script type="text/javascript" src="/assets/libs/object-fit-images/dist/ofi.min.js"></script>
+    <script>
+      objectFitImages();
+    </script>
+    
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e4d723c5c7","applicationID":"35133124","transactionName":"YwAEYkRWWEUDUhddVlpKM0RfGF9YBlQbGklcFQ==","queueTime":0,"applicationTime":150,"atts":"T0cHFAxMS0s=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang='ja-JP'>
+<head prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#'>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="CNP+ohGT5AOfp3rR1NpBFqYnvdla/8ZCZ81ixEPxRcRu7ACltms2nN8nXoQ0e33NpiVfXayfcWCts7WMgo1U7w==" />
+<title>
+MLB メジャーリーグ 03/21(木) 18:30のチケットを27,800円でお譲りします。 | チケジャム [ticketjam] 
+</title>
+<meta content='03/21(木) 18:30 東京ドーム 2019MLB開幕戦　アスレチックス VS マリナーズ 27,800円/枚のチケット 4枚お譲りします。' name='description'>
+
+
+<meta content='©ticketjam.jp' name='copyright'>
+<meta content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'>
+<meta charset='utf-8'>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"945c2965d3","applicationID":"158017382","transactionName":"dVtZREtZX1pURkoVD1VfUkRKGUBeXkM=","queueTime":0,"applicationTime":103,"agent":""}</script>
+<script>window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta content='【手数料全額ポイント還元中】 MLB メジャーリーグ 03/21(木) 18:30のチケットを27,800円でお譲りします。 | チケジャム [ticketjam] ' property='og:title'>
+<meta content='チケジャム [ticketjam] はエンタメに関わる全ての人のための安心チケット売買サイト。登録無料ですぐに取引OK！良席、定価以下のチケットが多数出品中！｢あんしん決済｣｢補償システム｣を導入し、365日専門スタッフがお取引をサポート！人気チケットはチケジャム [ticketjam] にお任せ！' property='og:description'>
+<meta content='ja-JP' property='og:locale'>
+<meta content='website' property='og:type'>
+<meta content='https://ticketjam.jp/ticket/sports/56831-1902?aid=215' property='og:url'>
+<meta content='チケジャム [ticketjam] ' property='og:site_name'>
+<meta content='https://ticketjam.jp/assets/logo_text-e715e15e3d7e8676b83405af23c081735872958352e63bba1685320d9b5e8bbc.jpg' property='og:image'>
+<meta content='419532088547672' property='fb:app_id'>
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='ticketjam://' property='al:ios:url'>
+<meta content='1431228295' property='al:ios:app_store_id'>
+<meta content='チケット売買アプリ「チケジャム」' property='al:ios:app_name'>
+<meta content='チケット売買アプリ「チケジャム」' property='al:android:app_name'>
+<meta content='com.ticketjam' property='al:android:package'>
+<meta content='https://ticketjam.jp' property='al:web:url'>
+<link href='https://ticketjam.jp/' hreflang='ja' rel='alternate'>
+<link href='/assets/logo_text-e715e15e3d7e8676b83405af23c081735872958352e63bba1685320d9b5e8bbc.jpg' rel='apple-touch-icon' size='152x152'>
+<link rel="stylesheet" media="all" href="/assets/application-2539d57e2ce439c9c45b3bd3f98e3cae1f52e3388c2f2b88a918e35af685888d.css" data-turbolinks-track="reload" />
+<script src="/assets/application-ec18e476486de5cf43f5e78a5d31dbbbbe3ac3af71809f65266b8da843435074.js" data-turbolinks-track="reload"></script>
+<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-2-2d1283d91b4ab8077ca801a0899e4820a93fd55083fbdf1099ace787798136c7.ico" />
+<meta content='app-id=1431228295' name='apple-itunes-app'>
+<link href='/assets/manifest-047b5e48dc87c3edef7af71cd83207b7848bb3fd6c4f2c4d9322ec0f10d6f51a.json' rel='manifest'>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-73825450-14"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-73825450-14');
+gtag('config', 'AW-798201980');
+</script>
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '213268682599321');
+fbq('track', 'PageView');
+
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=213268682599321&ev=PageView&noscript=1"/></noscript>
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+<!-- / Insert Twitter Pixel ID and Standard Event data below -->
+twq('init','o01s8');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+<script>
+  $(function(){
+    var bannerClosed = document.cookie.replace(/(?:(?:^|.*;\s*)bannerClosed\s*\=\s*([^;]*).*$)|^.*$/, "$1");
+    if (bannerClosed == 'TRUE') {
+      $('#smartbanner').css('display','none');
+    }
+  
+    $('#smb-close').click(function(){
+      $('#smartbanner').slideUp();
+      document.cookie = 'bannerClosed=TRUE';
+    });
+  });
+</script>
+
+</head>
+<body>
+<nav class='global-header clearfix'>
+<a class="global-header__logo" href="/"></a>
+<div class='' itemscope itemtype='http://schema.org/WebSite'>
+<meta content='https://ticketjam.jp/' itemprop='url'>
+<form itemprop="potentialAction" itemscope="itemscope" itemtype="http://schema.org/SearchAction" action="/tickets_search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<meta content='https://ticketjam.jp/tickets_search?query={query}' itemprop='target'>
+<div class='global-header__search form-inline'>
+<div class='global-header__search--drop dropdown'>
+<div class='global-header__search--box input-group'>
+<i class='fa fa-search'></i>
+<input type="search" name="query" id="js-dropdown-input" value="" placeholder="アーティスト名、公演名などでチケット検索" class="form-control dropdown-toggle" autocomplete="off" itemprop="query-input" onclick="ga(&#39;send&#39;,&#39;event&#39;,&#39;ticket_search&#39;,&#39;search_box_click&#39;,&#39;pattern1&#39;);" />
+</div>
+<div class='global-header__dropmenu dropdown-menu' id='js-dropdown-item-container'></div>
+</div>
+<input type="submit" name="commit" value="検索" class="btn btn-primary" data-disable-with="検索" />
+</div>
+</form>
+
+</div>
+
+<ul class='global-header__nav'>
+<li class='nav-item'>
+<a href="/users/sign_up">新規登録</a>
+</li>
+<li class='nav-item'>
+<a href="/users/sign_in">ログイン</a>
+</li>
+<li class='nav-item'>
+<a href="/guides">ご利用ガイド</a>
+</li>
+</ul>
+</nav>
+
+<div class='only-pc header-space'></div>
+<div aria-hidden='true' aria-labelledby='campaignModalLabel' class='modal fade' data-signedIn='false' id='campaign-modal' role='dialog' tabindex='-1'>
+<div class='modal-dialog modal-dialog-centered' role='document'>
+<div class='modal-content'>
+<div class='modal-header'>
+<h5 class='modal-title' id='exampleModalLabel'>キャンペーン情報</h5>
+<button aria-label='Close' class='close' data-dismiss='modal' type='button'>
+<span aria-hidden='true'>×</span>
+</button>
+</div>
+<div class='modal-body' style='height: &#39;auto;'>
+<img width="100%" src="/assets/banners/eight_percent_point_back-fdf508c59d886bacaa4e6fd305e06c43a54237e8a6ee75656c3da78d407cc88b.png" />
+<div class='mt-3'>
+只今、チケット購入で8%ポイント還元キャンペーンを行なっております！
+<br>
+ぜひこの機会にあなたの素敵な思い出を残せるチケットをゲットしてみてはいかがでしょうか？
+<div class='mt-3'>
+<small>※本キャンペーンは予告なしで終了する場合がございます。</small>
+</div>
+</div>
+</div>
+<div class='modal-footer text-center'>
+<a class="button--primary btn-block" href="/users/sign_up">会員登録をする</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class='container-fluid'>
+<div class='row'>
+<div class='sidebar only-pc' data-spy='affix'>
+<ul class='sidebar__category'>
+<h2>探す</h2>
+<li class='sidebar__item'>
+<a href="/tickets/new_lists">新着チケットから</a>
+</li>
+<li class='sidebar__item'>
+<a href="/tickets/pricedown_lists">値下げしたチケットから</a>
+</li>
+<li class='sidebar__item'>
+<a href="/prefectures">都道府県から</a>
+</li>
+<li class='sidebar__item'>
+<a href="/ticket_requests">リクエスト一覧</a>
+</li>
+</ul>
+<ul class='sidebar__category border-top'>
+<h2>取扱チケット</h2>
+<li class='sidebar__wrapper'>
+<ul>
+<li class='sidebar__item'>
+<ul>
+<p><a href="/categorie_groups/live_domestic">ライブ・コンサート（国内）</a></p>
+</ul>
+<ul>
+<p><a href="/categorie_groups/live_international">ライブ・コンサート（海外）</a></p>
+</ul>
+<ul>
+<p><a href="/categorie_groups/event">イベント</a></p>
+</ul>
+<ul>
+<p><a href="/categorie_groups/sports">スポーツ</a></p>
+</ul>
+<ul>
+<p><a href="/categorie_groups/musical">演劇・ミュージカル</a></p>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='sidebar__category border-top'>
+<h2>ご利用ガイド</h2>
+<li class='sidebar__item'>
+<a href="/guides">ご利用ガイド</a>
+</li>
+<li class='sidebar__item'>
+<a href="/guides/payment">手数料・お支払い方法</a>
+</li>
+<li class='sidebar__item'>
+<a target="_blank" href="https://support.ticketjam.jp/hc/ja">よくある質問</a>
+</li>
+<li class='sidebar__item'>
+<a href="/information">お知らせ</a>
+</li>
+</ul>
+<ul class='sidebar__category sidebar__btn'>
+<li class='sidebar__item'>
+<a href="/lp/seller"><img class="" width="100%" alt="出品者ガイド" src="/assets/btn-sidebar-seller-1e9d10054b9cbf63ad0cb39912346dc320836b45b849550b504f82eba4b83524.png" />
+</a></li>
+<li class='sidebar__item'>
+<a href="/lp/buyer"><img class="" width="100%" alt="購入者ガイド" src="/assets/btn-sidebar-buyer-441ccfaa66cc87b5aa47a648a0ab922735792a2cdb17cf89ddc1437e4d2556d9.png" />
+</a></li>
+</ul>
+<ul class='sidebar__category border-top'>
+<h2>サイト情報</h2>
+<li class='sidebar__item'>
+<a href="/company">運営会社</a>
+</li>
+<li class='sidebar__item'>
+<a href="/terms">利用規約</a>
+</li>
+<li class='sidebar__item'>
+<a href="/privacy">プライバシーポリシー</a>
+</li>
+<li class='sidebar__item'>
+<a href="/tokusho">特定商取引法の記載</a>
+</li>
+<li class='sidebar__item'>
+<a href="/request_events/new">公演登録依頼</a>
+</li>
+<li class='sidebar__item'>
+<a target="_blank" href="https://prtimes.jp/main/html/rd/p/000000003.000036723.html">弊社の取り組み</a>
+</li>
+<li class='sidebar__item'>
+<a href="/boards">チケジャムHR</a>
+</li>
+</ul>
+
+</div>
+<div class='main flex-column'>
+<div class='alert alert-dismissible alert-info fade flash notice show' role='alert'>
+<p>現在<b>19人</b>のユーザーがMLB メジャーリーグのチケットを検討しています。</p>
+<button aria-label='Close' class='close custom-close' data-dismiss='alert' type='button'>
+<span aria-hidden='true'>
+<i class='material-icons'>close</i>
+</span>
+</button>
+</div>
+
+<ol class='breadcrumbs' itemscope itemtype='http://schema.org/BreadcrumbList'>
+<li itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a itemprop="item" href="/"><span itemprop='name'>トップ</span>
+</a><meta content='1' itemprop='position'>
+>
+</li>
+<li itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a itemprop="item" href="/categorie_groups/sports"><span itemprop='name'>スポーツ</span>
+</a><meta content='2' itemprop='position'>
+>
+</li>
+<li itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a itemprop="item" href="/categories/baseball"><span itemprop='name'>プロ野球</span>
+</a><meta content='3' itemprop='position'>
+>
+</li>
+<li itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a itemprop="item" href="/tickets/ml-baseball"><span itemprop='name'>MLB メジャーリーグ</span>
+</a><meta content='4' itemprop='position'>
+>
+</li>
+<li itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a itemprop="item" href="/tickets/ml-baseball/prefecture/tokyo"><span itemprop='name'>東京都</span>
+</a><meta content='5' itemprop='position'>
+>
+</li>
+<li itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+<a class="current" itemprop="item" href="/ticket/sports/56831-1902?aid=215"><span itemprop='name'>チケット詳細</span>
+</a><meta content='6' itemprop='position'>
+</li>
+</ol>
+
+<script type="text/javascript">
+window._pt_lt = new Date().getTime();
+window._pt_sp_2 = [];
+_pt_sp_2.push('setAccount,5a48d475');
+var _protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+(function() {
+var atag = document.createElement('script'); atag.type = 'text/javascript'; atag.async = true;
+atag.src = _protocol + 'js.ptengine.jp/pta.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(atag, s);
+})();
+</script>
+<div class='container'>
+<section>
+<div class='heading--top'>
+<h1 class='truncate'>
+2019MLB開幕戦　アスレチックス VS マリナーズ
+のチケット
+</h1>
+</div>
+</section>
+<section class='only-sp'>
+<div class='site-title text-center py-2 mb-3'>
+<p class='m-0'>🎉 取引手数料無料キャンペーン実施中 🎉</p>
+</div>
+<div class='card table card--ticket-info'>
+<div class='card__body'>
+<div class='m-3'>
+<div>
+一枚あたりの値段
+<h3 class='mb-5'>
+<div class='pull-right'>
+<del>
+<span>29,800</span>
+</del>
+<small>円</small>
+<span class='red price-down'>
+27,800
+</span>
+<small>円/枚</small>
+
+</div>
+</h3>
+</div>
+<div>
+枚数
+<h5 class='mb-5'>
+<div class='pull-right'>
+4枚連番 (バラ売り可)
+</div>
+</h5>
+</div>
+<div class='mt-2'>
+<span class='tag--none'>名義なし</span>
+<span class='tag--border--organizer'>主催者</span>
+</div>
+
+</div>
+<div class='m-3 text-center'>
+<div class='my-3'>
+<a data-disable-with="追加中..." class="button--round-gray to-green add" href="/users"><i class='material-icons'>star_border</i>
+<p>検討リストに追加する</p>
+<span>0</span>
+</a><a class="button--round-gray" href="/tickets/ml-baseball/event/61600"><p>
+<i class='material-icons'>call_split</i>
+同じイベントの他のチケットと比べる
+</p>
+<span>11</span>
+</a><a class="button--round-gray" rel="nofollow" data-method="post" href="/tickets/56831/report"><p>
+<i class='material-icons'>flag</i>
+不適切なチケットの報告
+</p>
+</a></div>
+<a class="button--primary btn-block" href="/users">ご注文手続きへ</a>
+</div>
+
+<div class='mb-3 text-center'>
+<img width="80%" src="/assets/guides/chart_mini-032b4fa7c639167a086caed46d251967b927c263e254847c91fd727bbbc9e8ab.png" />
+</div>
+<div class='row mb-3'>
+<div class='col-6'><img width="100%" src="/assets/payment_brand/cards-00935d1c11b9ab7418bb5ba6f043e6e6f13e7ea333393ee5dc49613ce8e2a883.png" /></div>
+<div class='col-6'><img width="100%" src="/assets/payment_brand/cvs-5dfd710f913297103ad360b7493356692720d6160bca5c400067f4194b3ed5d3.png" /></div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class='card table card--ticket-info'>
+<header class='card__header'>
+<div class='buttons pull-right'>
+<div class='twitter'>
+<a class='twitter-share-button' data-hashtags='チケジャム' data-lang='ja' data-show-count='false' data-text='『2019MLB開幕戦　アスレチックス VS マリナーズ』のチケットをチケジャム[ticketjam]で販売中♪' data-url='https://ticketjam.jp/ticket/sports/56831-1902?aid=212' href='https://twitter.com/share?ref_src=twsrc%5Etfw'></a>
+<script async='' charset='utf-8' src='https://platform.twitter.com/widgets.js'></script>
+</div>
+</div>
+
+<h2>チケット詳細情報</h2>
+</header>
+<div class='card__body'>
+<table>
+<tbody>
+<tr>
+<th>公演名</th>
+<td>2019MLB開幕戦　アスレチックス VS マリナーズ</td>
+</tr>
+<tr>
+<th>開催日</th>
+<td>
+<a href="/tickets/ml-baseball/event/61600">2019/03/21(木) 18:30</a>
+</td>
+</tr>
+<tr>
+<th>会場</th>
+<td>
+<i class='material-icons'>place</i>
+<a href="/venues/6824">東京ドーム</a>
+</td>
+</tr>
+<tr>
+<th>枚数</th>
+<td>4枚連番 (バラ売り可)</td>
+</tr>
+<tr>
+<th>残り枚数</th>
+<td>
+4枚
+</td>
+</tr>
+<tr>
+<th>一枚あたりの値段</th>
+<td>
+<del>
+<span>29,800</span>
+</del>
+<small>円</small>
+<span class='red price-down'>
+27,800
+</span>
+<small>円/枚</small>
+
+</td>
+</tr>
+<tr>
+<th>送料</th>
+<td>送料込み</td>
+</tr>
+<tr>
+<th>席</th>
+<td>最前列 ライト外野指定席 最前列 540番〜580番 ４連番 バラ売り可</td>
+</tr>
+<tr>
+<th>名義人/購入元</th>
+<td><div class='mt-2'>
+<span class='tag--none'>名義なし</span>
+<span class='tag--border--organizer'>主催者</span>
+</div>
+</td>
+</tr>
+<tr>
+<th>発送方法</th>
+<td>郵送</td>
+</tr>
+<tr>
+<th>チケットの発券状態</th>
+<td>発券済み</td>
+</tr>
+<tr>
+<th>発送予定</th>
+<td>24時間以内</td>
+</tr>
+<tr>
+<th>取引方法</th>
+<td>
+通常取引 (落札承認が必要)
+</td>
+</tr>
+<tr>
+<th>出品者からの説明</th>
+<td><p></p></td>
+</tr>
+</tbody>
+</table>
+
+<div class='m-3 text-center'>
+<div class='my-3'>
+<a data-disable-with="追加中..." class="button--round-gray to-green add" href="/users"><i class='material-icons'>star_border</i>
+<p>検討リストに追加する</p>
+<span>0</span>
+</a><a class="button--round-gray" href="/tickets/ml-baseball/event/61600"><p>
+<i class='material-icons'>call_split</i>
+同じイベントの他のチケットと比べる
+</p>
+<span>11</span>
+</a><a class="button--round-gray" rel="nofollow" data-method="post" href="/tickets/56831/report"><p>
+<i class='material-icons'>flag</i>
+不適切なチケットの報告
+</p>
+</a></div>
+<a class="button--primary btn-block" href="/users">ご注文手続きへ</a>
+</div>
+
+<div class='only-pc'>
+<div class='mb-3 text-center'>
+<img style="max-width: 350px; width: 70%" src="/assets/guides/chart_mini-032b4fa7c639167a086caed46d251967b927c263e254847c91fd727bbbc9e8ab.png" />
+</div>
+<div class='row mb-3'>
+<div class='col-6 text-center'><img style="max-width: 350px; width: 80%" src="/assets/payment_brand/cards-00935d1c11b9ab7418bb5ba6f043e6e6f13e7ea333393ee5dc49613ce8e2a883.png" /></div>
+<div class='col-6 text-center'><img style="max-width: 350px; width: 80%" src="/assets/payment_brand/cvs-5dfd710f913297103ad360b7493356692720d6160bca5c400067f4194b3ed5d3.png" /></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class='card card--comment'>
+<header class='card__header'>
+<h2>コメントをする</h2>
+</header>
+<div class='card__body'>
+<div class='card--comment__body'>
+</div>
+<div class='notice mb-3'>
+<p>
+相手のことを考え丁寧なコメントを心がけましょう。不快な言葉遣いなどは利用制限や退会処分となることがあります。
+</p>
+</div>
+<form class="new_comment" id="new_comment" action="/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="fiqumV87KWq9VY7aLRXPHwv1wk398ppHisI9PZijn7nW8lDEacSQWyYzRBRmi60iaNVxeTK3tohT9aXEYBkh3A==" /><input value="56831" type="hidden" name="comment[ticket_id]" id="comment_ticket_id" />
+<textarea rows="8" cols="40" class="mb-2 card--comment__textarea" required="required" name="comment[body]" id="comment_body">
+</textarea>
+<input type="submit" name="commit" value="コメントする" class="button--primary" data-disable-with="コメントする" />
+</form></div>
+</div>
+</section>
+<section>
+<div class='card card--prefecture'>
+<header class='card__header clearfix'>
+<h2 class='float-left'>MLB メジャーリーグのその他の日程</h2>
+<a href="/tickets/ml-baseball"><p>もっと見る</p>
+<i class='material-icons'>keyboard_arrow_right</i>
+</a></header>
+<div class='card__body'>
+<div class='card__text-link'>
+<div class='mt-3 mx-1'>
+<p class='color-light_gray text-weight-500'>巨人戦 読売ジャイアンツ 2019 MLBプレシーズンゲーム 読売ジャイアンツVSマリナーズ</p>
+</div>
+<ul class='mb-3 row'>
+<div class='col-lg-4 col-6 p-0 px-md-3'>
+<li>
+<a href="/tickets/giants/event/55798"><p>2019/03/17(日) 12:00</p>
+<i class='material-icons'>keyboard_arrow_right</i>
+</a></li>
+</div>
+<div class='col-lg-4 col-6 p-0 px-md-3'>
+<li>
+<a href="/tickets/giants/event/55799"><p>2019/03/18(月) 19:00</p>
+<i class='material-icons'>keyboard_arrow_right</i>
+</a></li>
+</div>
+</ul>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div aria-hidden='true' aria-labelledby='shareModalLabel' class='modal fade share-modal' id='share-modal' role='dialog' tabindex='-1'>
+<div class='modal-dialog modal-dialog-centered' role='document'>
+<div class='modal-content'>
+<div class='modal-header'>
+<h5 class='modal-title' id='shareModalLabel'>チケット出品が完了しました</h5>
+<button aria-label='Close' class='close' data-dismiss='modal' type='button'>
+<span aria-hidden='true'>×</span>
+</button>
+</div>
+<div class='modal-body'>
+<div class='image'>
+<img height="50px" src="/assets/jmonkeys/hiphop-fa075291ac2bad208753cb00aee4ff6502daee5ca603701f91f721af27df2722.png" />
+<img height="50px" src="/assets/jmonkeys/normal-2a74db9bb2418f8d72c32147b9e3cc30abda89a02e8cb8de9094e9d40e1cd156.png" />
+<img height="50px" src="/assets/jmonkeys/anime-3130edec68d2a1c6eca6721cef0df0dedfc493f0de53abf457b2d839df7220cb.png" />
+</div>
+<p>チケット出品ありがとうございます。</p>
+<p>シェアしてみんなにお知らせしよう！</p>
+<div class='my-3'>
+<small>シェアで購入者が現れるまでの時間が</small>
+<span class='color-red'>4倍</span>
+<small>短くなります!!</small>
+</div>
+<div class='buttons'>
+<div class='twitter'>
+<a class='twitter-share-button' data-hashtags='チケジャム' data-lang='ja' data-show-count='false' data-size='large' data-text='チケジャム [ticketjam] で2019MLB開幕戦　アスレチックス VS マリナーズのチケットを出品しました！お譲りします！' data-url='https://ticketjam.jp/ticket/sports/56831-1902?aid=212' href='https://twitter.com/share?ref_src=twsrc%5Etfw'></a>
+<script async='' charset='utf-8' src='https://platform.twitter.com/widgets.js'></script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  var shareModal = $('#share-modal');
+  if (shareModal.data().showModal) {
+    shareModal.modal('show');
+  }
+</script>
+
+<div class='only-sp' style='height: 64px;'></div>
+<div class='only-pc' style='height: 47px;'></div>
+<footer class='global-footer'>
+<div class='global-footer__attention only-sp'>
+<p>転売目的でのチケット購入・販売は固くお断りさせて頂きます。</p>
+</div>
+<div class='global-footer__wrap'>
+<h2>Ticketjam</h2>
+<small>©2018 Ticketjam Inc. 複製及び無断転載禁止</small>
+</div>
+<div class='global-footer__attention only-pc'>
+<p>転売目的でのチケット購入・販売は固くお断りさせて頂きます。</p>
+<div class='global-footer__sns'>
+<a href='https://www.facebook.com/ticketjam' target='_blank'>
+<img height="25px" src="/assets/flogo-ef3ebdb053723271d18354c2bdda13108d99c660db7abdae67c9fc915e4b065e.svg" />
+</a>
+<a href='https://twitter.com/ticketjam_pr' target='_blank'>
+<img height="25px" src="/assets/tlogo-28e0acc89e5ba46047da3d8a38ed471bd176be9c5a590d879038f5750c540911.svg" />
+</a>
+</div>
+</div>
+<div class='global-footer__sns only-sp'>
+<a href='https://www.facebook.com/ticketjam' target='_blank'>
+<img height="30px" src="/assets/flogo-sp-cbb01c70dc3165961f07c541ae046707fd582d78c2feefbc8c83f57d7f3d6c5b.svg" />
+</a>
+<a href='https://twitter.com/ticketjam_pr' target='_blank'>
+<img height="30px" src="/assets/tlogo-sp-b16824dce9a12d4ce33a4f8cc223b447160b0b1faae38829e085afde927cba4a.svg" />
+</a>
+</div>
+</footer>
+
+</div>
+</div>
+</div>
+</body>
+</html>

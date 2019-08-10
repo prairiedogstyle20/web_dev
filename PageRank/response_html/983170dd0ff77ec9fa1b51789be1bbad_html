@@ -1,0 +1,773 @@
+<!doctype html>
+	<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<script type="text/javascript">
+		function setPerformanceMark(name) {
+			var performance = window.performance || {};
+			if (typeof performance.mark === 'undefined') {
+				return;
+			}
+			// Create the performance mark
+			performance.mark(name);
+		}
+		function measurePerformance(name, start, end) {
+			var performance = window.performance || {};
+			if (typeof performance.measure === 'undefined') {
+				return;
+			}
+			// Measure the performance
+			performance.measure(name, start, end);
+		}
+	</script>
+	<script type="text/javascript">setPerformanceMark("gen4_head_start");</script>
+	<title>Florida Woman Racially Abuses Black Deputy on Camera - news+ - att.net</title>
+		<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=10.0, user-scalable=yes" />
+	<meta name="description" content="Julie Edwards has been charged with driving under the influence of alcohol, making a threat against a law enforcement officer, refusing to submit for testing and resisting an officer without violence." />
+	<meta name="keywords" content="att.net" />
+	<meta name="google-site-verification" content="vi2-xV9rKQfJgGCXvElrDU3sEOfqSw5WK_LhsR_ZtH0" />
+	<meta name="google-site-verification" content="Gf7XArG0ZmdywWvUMU9T8_wNc2EW6DpVd1kxQL5ALE0" />
+	
+	<link rel="shortcut icon" href="https://static.jade.synacor.com/assets/site_config/att-gen4/assets/en_US/gen4/shared/images/icons/favicon.ico" />
+	<link rel="manifest" href="https://start.att.net/manifest.json" />
+	<!-- Apple icons -->
+	<link rel="apple-touch-icon" sizes="60x60" href="https://static.jade.synacor.com/assets/site_config/att-gen4/assets/en_US/gen4/shared/images/icons/appletouch-60.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="https://static.jade.synacor.com/assets/site_config/att-gen4/assets/en_US/gen4/shared/images/icons/appletouch-76.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="https://static.jade.synacor.com/assets/site_config/att-gen4/assets/en_US/gen4/shared/images/icons/appletouch-120.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="https://static.jade.synacor.com/assets/site_config/att-gen4/assets/en_US/gen4/shared/images/icons/appletouch-152.png" />
+	<!-- /Apple icons -->
+	<!-- Stylesheets -->
+	<script type="text/javascript">setPerformanceMark("rescon_css_start");</script>
+	<link rel="stylesheet" href="https://static.jade.synacor.com/assets/res.php?s;att/att-gen4;en_US;eb2b0363;styles!generatedStylesheets~aolmarketplaceplugandplay*component@englishspanishtoggle=components+search-container$notifications,stylesheets^trendingnow/global-nav?gen4{news}copyright|placement\modal[carousel]en_US({(globals(!(global))pages(}(!(})))+(header(super(!(super-header)))logo(!(logo))headernav(generic(!(generic)))?(!(?))login(!(login))nav(!(nav))apps(!(apps))=(!(=))footer(!(footer))|(!(|))$(!($))search(@(input(~(input))suggest(ask(result(~(result;result_override))))/(~(/;trendingnow_override)))),(!(,))cube(!(cube))ad(@({(gpt(unit(^(unit;unit_override))))))card(!(card))}(read(!(read)))](!(];slide))}(read(addthis(!(addthis))))ad(@({(gpt(unit(adhesion(~(adhesion;adhesion_override))))taboola(\(!(~(\)))))))))+(ad(@(gpt(targetingmodule(*(^(*))))))){(+([(!([))cube(!([" />
+	<script type="text/javascript">setPerformanceMark("rescon_css_end");</script>
+	<!-- /Stylesheets -->
+	<!-- Sadlib -->
+	<script type="text/javascript">setPerformanceMark("sadlib_start");</script>
+	<script type='text/javascript'>
+	window.Sadlib_Config = window.Sadlib_Config || {};
+	if (!window.Sadlib_Config.loaded) {
+		window.Sadlib_Config.targetingProviders = window.Sadlib_Config.targetingProviders || {};
+window.Sadlib_Config.targetingProviders.smartwrapper = window.Sadlib_Config.targetingProviders.smartwrapper || {"debug":false,"enabled":true,"script_url":"\/\/smartwrapper.technoratimedia.com\/client\/synacor\/synacor.js","data":{"configuration":{"bidders":{"adworks":{"adjustment_max":"20.00","price_ranges":{"0.05":"10.00","0.01":"0.02"},"setEnabled":"yes","setRefresh":"no","setRevShare":"1.00","setTimeout":"1250","slot_ids":{"btf_photo":"13862869","atf_news_us_main":"13862857","atf_sports":"13862870","btf_weather_main":"13862875","btf_sports":"13862871","atf_news":"13862876","stream_5":"13862889","btf_news_politics_main":"13862858","read_masthead":"14002857","atf_video_main":"13862872","stream_4":"13862888","atf_entertainment":"13862861","atf_comics":"13862859","atf_photo":"13862868","atf_news_main_main":"13862876","atf_finance_myportfolio":"13862863","btf_comics_rightrail":"13862860","atf_news_in_article":"13862877","atf_news_politics_main":"13862857","btf_news_world_main":"13862858","atf_comics_rightrail":"13862859","adhesion":"13862856","btf_finance":"13862865","btf_video_main_btf":"13862873","atf_news_world_main":"13862857","home_itf":"13862853","btf_news":"13862878","stream_8":"13862892","stream_6":"13862890","btf_entertainment":"13862862","btf_comics":"13862860","atf_finance":"13862864","stream_1":"13862885","atf_lifestyle":"13862866","stream_7":"13862891","masthead":"13862855","home_btf":"13862852","home":"13862851","btf_news_main_main":"13862878","stream_2":"13862886","atf_weather_main":"13862874","btf_lifestyle":"13862867","btf_news_us_main":"13862858","stream_3":"13862887"}},"aol":{"adjustment_max":"","networkId":"","placement_ids":[],"price_ranges":[],"setEnabled":"no","setRefresh":"no","setRevShare":"","setTimeout":""},"appnexus":{"adjustment_max":"20.00","price_ranges":{"0.05":"10.00","0.01":"0.02"},"setEnabled":"yes","setRefresh":"no","setRevShare":"1.00","setTimeout":"1200","slot_ids":{"btf_lifestyle_autos_main":"13769835","atf_sports":"11321793","btf_weather_main":"11321810","atf_news":"11321791","btf_sports":"11321794","stream_5":"11976512","read_masthead":"13993399","atf_video_main":"11321807","stream_4":"11976499","atf_entertainment":"11321798","atf_comics":"13769926","atf_finance_myportfolio":"11321815","sidekick":"11321816","stream_9":"12096581","atf_news_in_article":"11321811","adhesion":"11321813","btf_video_main_btf":"11321808","btf_finance":"11321805","home_itf":"12260133","btf_news":"11321792","stream_8":"12096580","btf_entertainment":"11321800","stream_6":"12096577","atf_finance":"11321802","btf_comics":"13769928","atf_lifestyle":"13769873","stream_1":"11976485","stream_7":"12096579","masthead":"11731895","home_btf":"11321788","home":"11321787","stream_2":"11976486","atf_lifestyle_autos_main":"13769834","stream_10":"12096584","atf_weather_main":"11542276","btf_lifestyle":"13769874","stream_3":"11976495"}},"brealtime":{"adjustment_max":"","placement_ids":[],"price_ranges":[],"setRefresh":"no","setRevShare":"","setTimeout":""},"casale":{"adjustment_max":"20.00","price_ranges":{"0.05":"10.00","0.01":"0.02"},"setEnabled":"yes","setId":"198145","setRefresh":"no","setRevShare":"1.00","setTimeout":"1200","slot_ids":{"home_itf":"9876","btf_lifestyle_autos_main":"123030","btf_news":"54","atf_sports":"55","stream_8":"1017","btf_entertainment":"58","stream_6":"1015","btf_weather_main":"64","btf_sports":"56","atf_news":"53","btf_comics":"123026","atf_finance":"61","stream_5":"1014","atf_lifestyle":"123027","stream_1":"1010","stream_7":"1016","read_masthead":"314315","masthead":"31400","atf_video_main":"59","stream_4":"1013","home_btf":"52","atf_entertainment":"57","atf_comics":"123025","home":"51","atf_finance_myportfolio":"67","stream_2":"1011","atf_lifestyle_autos_main":"123029","atf_news_in_article":"65","atf_weather_main":"63","adhesion":"66","btf_finance":"62","btf_video_main_btf":"60","btf_lifestyle":"123028","stream_3":"1012"}},"criteo":{"adjustment_max":"50.00","price_ranges":{"0.05":"10.00","0.01":"0.02","0.50":"20.00"},"setEnabled":"yes","setRefresh":"no","setRevShare":"1.00","setTimeout":"1200","zone_ids":{"btf_lifestyle_autos_main":"123030","atf_sports":"815275","btf_weather_main":"815278","atf_news":"815275","btf_sports":"815278","stream_5":"1046708","read_masthead":"774128,1213439","atf_video_main":"815275","stream_4":"1046707","atf_entertainment":"815275","atf_comics":"123025","atf_finance_myportfolio":"815276","stream_9":"1046712","atf_news_in_article":"815275","adhesion":"815276","btf_video_main_btf":"815278","btf_finance":"815278","home_itf":"1114895","btf_news":"815278","stream_8":"1046711","stream_6":"1046709","btf_entertainment":"815278","atf_finance":"815275","btf_comics":"123026","stream_1":"1046704","atf_lifestyle":"123027","stream_7":"1046710","masthead":"774128,1213439","home_btf":"774130","home":"774126","stream_2":"1046705","atf_lifestyle_autos_main":"123029","stream_10":"1046713","atf_weather_main":"815275","btf_lifestyle":"123028","stream_3":"1046706"}},"facebook":{"adjustment_max":"20.00","price_ranges":{"0.05":"10.00","0.01":"0.02"},"setEnabled":"yes","setRefresh":"no","setRevShare":"1.00","setTimeout":"1200","slot_ids":{"home_itf":"137263936881618_279018099372867","btf_news":"137263936881618_279018592706151","stream_8":"137263936881618_222294521711892","stream_6":"137263936881618_222293665045311","btf_weather_main":"137263936881618_156544258286919","atf_news":"137263936881618_279018346039509","stream_5":"137263936881618_156476414960370","btf_comics":"137263936881618_253458355262175","stream_1":"137263936881618_156476168293728","read_masthead":"137263936881618_316148502326493","stream_7":"137263936881618_222294301711914","masthead":"137263936881618_316148738993136","atf_video_main":"137263936881618_279018936039450","stream_4":"137263936881618_156476374960374","atf_comics":"137263936881618_253458081928869","home":"137263936881618_279017482706262","stream_2":"137263936881618_156476241627054","atf_news_in_article":"137263936881618_156476788293666","atf_weather_main":"137263936881618_253461451928532","adhesion":"137263936881618_145735959367749","btf_video_main_btf":"137263936881618_279019232706087","stream_3":"137263936881618_156476344960377","atf_finance_my_portfolio":"137263936881618_156544138286931"},"whitelisted_sizes":"300x250,320x50"},"openx":{"setRefresh":"no"},"pubmatic":{"adjustment_max":"20.00","price_ranges":{"0.05":"10.00","0.01":"0.02"},"setEnabled":"yes","setId":"48110","setRefresh":"no","setRevShare":"1.00","setTimeout":"1200","slot_ids":{"btf_lifestyle_autos_main":"1528570_btf_lifestyle_autos_main@300x250","atf_sports":"1085110_att_desktop_atf_sports_300x250@300x250","btf_weather_main":"1085121_att_mobile_btf_weather_main_320x50@320x50","btf_sports":"1085111_att_desktop_btf_sports_300x250@300x250","atf_news":"1085106_att_desktop_atf_news_300x250@300x250","stream_5":"1170082_stream_5@320x50","read_masthead":"1455090_970x90_masthead@970x90,1334946_Home_Itf@728x90,1765526_atf_news_read_masthead@320x50","atf_video_main":"1085108_att_desktop_atf_video_main_300x250@300x250","stream_4":"1170081_stream_4@320x50","atf_entertainment":"1085114_att_desktop_atf_entertainment_300x250@300x250","atf_comics":"1528573_atf_comics@300x250","atf_finance_myportfolio":"1085122_att_mobile_atf_finance_myportfolio_320x50@320x50","sidekick":"1085123_att_mobile_sidekick_320x50@320x50","stream_9":"1170086_stream_9@320x50","atf_news_in_article":"1466729_att_mobile_atf_news_in_article_300x250@300x250","adhesion":"1085120_att_mobile_adhesion_320x50@320x50","btf_video_main_btf":"1085109_att_desktop_btf_video_main_btf_300x250@300x250","btf_finance":"1085113_att_desktop_btf_finance_300x250@300x250","home_itf":"870272_Home_Itf@300x250","btf_news":"1085107_att_desktop_btf_news_300x250@300x250","stream_8":"1170085_stream_8@320x50","btf_entertainment":"1085115_att_desktop_btf_entertainment_300x250@300x250","stream_6":"1170083_stream_6@320x50","atf_finance":"1085112_att_desktop_atf_finance_300x250@300x250","btf_comics":"1528574_btf_comics@300x250","atf_lifestyle":"1528571_atf_lifestyle@300x250","stream_1":"1170077_stream_1@320x50","stream_7":"1170084_stream_7@320x50","masthead":"1830899@320x50,1334946_Home_Itf@728x90,1349990_970x250_masthead@970x250,1455090_970x90_masthead@970x90","home_btf":"1085105_att_desktop_home_btf_300x250@300x250","home":"1085104_att_desktop_home_300x250@300x250","stream_2":"1170079_stream_2@320x50","atf_lifestyle_autos_main":"1528569_atf_lifestyle_autos_main@300x250","stream_10":"1170078_stream_10@320x50","atf_weather_main":"1085116_att_desktop_atf_weather_main_300x250@300x250","btf_lifestyle":"1528572_btf_lifestyle@300x250","stream_3":"1170080_stream_3@320x50"}},"realvu":{"setRefresh":"no"},"rubicon":{"setRefresh":"no"},"sekindo":{"setRefresh":"no"},"sonobi":{"setRefresh":"no"},"sovrn":{"setRefresh":"no"},"tm":{"adjustment_max":"20.00","price_ranges":{"0.05":"10.00","0.01":"0.02"},"setEnabled":"yes","setId":"attgen4","setRefresh":"no","setRevShare":"1.00","setTimeout":"1200","slot_ids":{"btf_lifestyle_autos_main":"81879","atf_sports":"81047","btf_weather_main":"81057","btf_sports":"81048","atf_news":"81045","stream_5":"81874","read_masthead":"82152","atf_video_main":"81051","stream_4":"81873","atf_entertainment":"81049","atf_comics":"81882","atf_news_in_article":"81053","adhesion":"81058","btf_video_main_btf":"81052","btf_finance":"81055","home_itf":"81044","btf_news":"81046","stream_8":"81876","btf_entertainment":"81050","stream_6":"81875","atf_finance":"81054","btf_comics":"81883","stream_1":"81870","atf_lifestyle":"81880","stream_7":"81878","masthead":"81869","home_btf":"81043","home":"81042","stream_2":"81871","atf_lifestyle_autos_main":"81877","atf_weather_main":"81056","btf_lifestyle":"81881","atf_finance_my_portfolio":"81059","stream_3":"81872"}},"whitelist":"appnexus,criteo,pubmatic,casale","yieldbot":{"setRefresh":"no"}},"code":"synacor","publisher_id":"81427","setPrebidTimeout":"1200","tag_id":"1109"}}};
+
+window.Sadlib_Config.targetingProviders = window.Sadlib_Config.targetingProviders || {};
+window.Sadlib_Config.targetingProviders.targeting_parameters = window.Sadlib_Config.targetingProviders.targeting_parameters || {"debug":false,"enabled":true,"data":{"lang":"en-US","ml":"0","environment":"production"}};
+
+window.Sadlib_Config.targetingProviders = window.Sadlib_Config.targetingProviders || {};
+window.Sadlib_Config.targetingProviders.realvu_boost = window.Sadlib_Config.targetingProviders.realvu_boost || {"debug":false,"enabled":false};
+
+window.Sadlib_Config.targetingProviders = window.Sadlib_Config.targetingProviders || {};
+window.Sadlib_Config.targetingProviders.amazon_directmatch = window.Sadlib_Config.targetingProviders.amazon_directmatch || {"debug":false,"enabled":false,"amazon_script_uri":"https:\/\/c.amazon-adsystem.com\/aax2\/amzn_ads.js"};
+
+window.Sadlib_Config.targetingProviders = window.Sadlib_Config.targetingProviders || {};
+window.Sadlib_Config.targetingProviders.amazon_A9 = window.Sadlib_Config.targetingProviders.amazon_A9 || {"debug":false,"enabled":true,"amazon_script_uri":"https:\/\/c.amazon-adsystem.com\/aax2\/apstag.js"};
+
+window.Sadlib_Config.targetingProviders = window.Sadlib_Config.targetingProviders || {};
+window.Sadlib_Config.targetingProviders.rubicon_fastlane = window.Sadlib_Config.targetingProviders.rubicon_fastlane || {"enabled":true};
+
+window.Sadlib_Config.targetingProviders = window.Sadlib_Config.targetingProviders || {};
+window.Sadlib_Config.targetingProviders.index_wrapper = window.Sadlib_Config.targetingProviders.index_wrapper || {"enabled":false};
+
+window.Sadlib_Config.targetingProviders = window.Sadlib_Config.targetingProviders || {};
+window.Sadlib_Config.targetingProviders.lotame_bidder = window.Sadlib_Config.targetingProviders.lotame_bidder || {"debug":false,"enabled":false,"publisher_id":"12058"};
+
+window.Sadlib_Config.targetingProviders = window.Sadlib_Config.targetingProviders || {};
+window.Sadlib_Config.targetingProviders.advelvet = window.Sadlib_Config.targetingProviders.advelvet || {"enabled":false};
+
+
+		window.Sadlib_Config.loaded = true;
+		window.Sadlib_Config.dfp_network_id = '5284';
+		window.Sadlib_Config.dfp_client_name = 'syn.att';
+		window.Sadlib_Config.siteId = 'att-gen4';
+		window.Sadlib_Config.adunit_configs = {"adhesion":{"adunit_config":{"ad_refresh":"","status":"0","scheduleList":[],"phone":{"ad_refresh":"","status":"1","scheduleList":[]},"tablet":{"ad_refresh":"","status":"0","scheduleList":[]}},"background":"yes","entertainment":{"adunit_config":{"ad_refresh":"","status":"0","scheduleList":[]}},"finance":{"adunit_config":{"ad_refresh":"","status":"0","scheduleList":[]}},"news":{"adunit_config":{"ad_refresh":"","status":"0","scheduleList":[]},"read":{"adunit_config":{"ad_refresh":"","status":"0","scheduleList":[]}}},"phone":{"adunit_config":{"phone":{"ad_refresh":"","status":"1","scheduleList":[]}}},"sports":{"adunit_config":{"ad_refresh":"","status":"0","scheduleList":[]}}},"atf_inarticle":{"news":{"read":{"adunit_config":{"ad_refresh":"","status":"0","scheduleList":[],"phone":{"ad_refresh":"","status":"1","scheduleList":[],"offset":"3"},"tablet":{"ad_refresh":"","status":"0","scheduleList":[]}}}}},"atf_right_rail":{"news":{"read":{"adunit_config":{"ad_refresh":"60","status":"1","smart_refresh":"yes","scheduleList":[],"tablet":{"ad_refresh":"","status":"1","smart_refresh":"no","scheduleList":[],"collapse_before_fetch":"no"}}}}},"att":{"tdata":{"adunit_config":{"status":"1","scheduleList":[]}}},"btf_right_rail":{"news":{"read":{"adunit_config":{"ad_refresh":"60","status":"1","smart_refresh":"yes","scheduleList":[],"tablet":{"ad_refresh":"60","status":"1","smart_refresh":"yes","scheduleList":[],"collapse_before_fetch":"no"}}}}},"comics_btf":{"adunit_config":{"ad_refresh":"","status":"1","smart_refresh":null,"lazy_load":"no","scheduleList":[]}},"comics_btf_rightrail":{"adunit_config":{"ad_refresh":"","status":"1","smart_refresh":null,"lazy_load":"yes","scheduleList":[]}},"dspotlight":{"adunit_config":{"status":"0","scheduleList":[{"stop":"2015-Jun-30 00:00","start":"2015-Jan-26 00:00"}]}},"footer":{"adunit_config":{"status":"0","scheduleList":[]}},"games":{"player_page_adhesion":{"adunit_config":{"ad_refresh":"","status":"0","scheduleList":[]}}},"home":{"adunit_config":{"ad_refresh":"60","status":"1","smart_refresh":"yes","scheduleList":[],"collapse_before_fetch":"no"}},"home_btf":{"adunit_config":{"ad_refresh":"60","status":"1","smart_refresh":"yes","scheduleList":[]}},"home_btf_promo":{"adunit_config":{"status":"0","scheduleList":[]}},"home_itf":{"adunit_config":{"ad_refresh":"","status":"1","smart_refresh":null,"lazy_load":"yes","collapse_before_fetch":"yes","scheduleList":[],"lazyload":"yes"}},"home_mtf":{"adunit_config":{"ad_refresh":"","status":"1","smart_refresh":null,"scheduleList":[],"collapse_before_fetch":"no"}},"home_scm":{"adunit_config":{"ad_refresh":"","status":"0","scheduleList":[]}},"home_wij":{"adunit_config":{"ad_refresh":"","status":"0","scheduleList":[]}},"landing_oop":{"adunit_config":{"ad_refresh":"","status":"0","smart_refresh":null,"scheduleList":[],"phone":{"ad_refresh":"","status":"0","smart_refresh":null,"scheduleList":[]},"tablet":{"ad_refresh":"","status":"0","smart_refresh":null,"scheduleList":[]}}},"masthead":{"adunit_config":{"ad_refresh":"","status":"1","smart_refresh":null,"scheduleList":[],"collapse_before_fetch":"yes","phone":{"ad_refresh":"","status":"1","smart_refresh":null,"scheduleList":[]},"tablet":{"ad_refresh":"","status":"0","scheduleList":[]}},"closebutton":"yes","news":{"read":{"adunit_config":{"ad_refresh":"","status":"1","scheduleList":[],"phone":{"ad_refresh":"","status":"1","smart_refresh":null,"lazy_load":"no","scheduleList":[]}}}}},"offlede":{"adunit_config":{"status":"0","scheduleList":[{"stop":"2018-Aug-30 23:45","start":"2018-Aug-30 00:15"}]}},"oop":{"adunit_config":{"ad_refresh":"","status":"0","smart_refresh":null,"scheduleList":[],"phone":{"ad_refresh":"","status":"0","smart_refresh":null,"scheduleList":[]},"tablet":{"ad_refresh":"","status":"0","smart_refresh":null,"scheduleList":[]}}},"read_oop":{"adunit_config":{"ad_refresh":"","status":"0","smart_refresh":null,"scheduleList":[],"phone":{"ad_refresh":"","status":"0","smart_refresh":null,"scheduleList":[]},"tablet":{"ad_refresh":"","status":"0","smart_refresh":null,"scheduleList":[]}}},"serp_adm":{"adunit_config":{"ad_refresh":"","status":"0","scheduleList":[]}},"sidekick":{"adunit_config":{"ad_refresh":"","status":"0","scheduleList":[],"phone":{"ad_refresh":"","status":"0","scheduleList":[]},"tablet":{"ad_refresh":"","status":"0","scheduleList":[]}}},"slideshow":{"adunit_config":{"phone":{"status":"1","scheduleList":[],"card_interval":"3","first_card_offset":"3","prefetch":"0"}},"total_dfp_units":"8"},"stream":{"1":{"adunit_config":{"status":"0","scheduleList":[],"phone":{"status":"0","scheduleList":[]},"tablet":{"status":"0","scheduleList":[]}}},"10":{"adunit_config":{"status":"0","scheduleList":[],"phone":{"status":"0","scheduleList":[]},"tablet":{"status":"0","scheduleList":[]}}},"2":{"adunit_config":{"status":"0","scheduleList":[],"phone":{"status":"0","scheduleList":[]},"tablet":{"status":"0","scheduleList":[]}}},"3":{"adunit_config":{"status":"0","scheduleList":[],"phone":{"status":"0","scheduleList":[]},"tablet":{"status":"0","scheduleList":[]}}},"4":{"adunit_config":{"status":"0","scheduleList":[],"phone":{"status":"0","scheduleList":[]},"tablet":{"status":"0","scheduleList":[]}}},"5":{"adunit_config":{"status":"0","scheduleList":[],"phone":{"status":"0","scheduleList":[]},"tablet":{"status":"0","scheduleList":[]}}},"6":{"adunit_config":{"status":"0","scheduleList":[],"phone":{"status":"0","scheduleList":[]},"tablet":{"status":"0","scheduleList":[]}}},"7":{"adunit_config":{"status":"0","scheduleList":[],"phone":{"status":"0","scheduleList":[]},"tablet":{"status":"0","scheduleList":[]}}},"8":{"adunit_config":{"status":"0","scheduleList":[],"phone":{"status":"0","scheduleList":[]},"tablet":{"status":"0","scheduleList":[]}}},"9":{"adunit_config":{"status":"0","scheduleList":[],"phone":{"status":"0","scheduleList":[]},"tablet":{"status":"0","scheduleList":[]}}},"adunit_config":{"status":"0","scheduleList":[],"card_interval":"7","first_card_offset":"5","phone":{"status":"1","scheduleList":[],"card_interval":"7","first_card_offset":"7","prefetch":"0"},"prefetch":"0","tablet":{"status":"0","scheduleList":[],"card_interval":"7","first_card_offset":"5","prefetch":"0"}},"total_dfp_units":"8"},"stream_flurry":{"adunit_config":{"status":"1","scheduleList":[],"phone":{"status":"1","scheduleList":[]},"tablet":{"status":"1","scheduleList":[]}}},"stream_gemini":{"adunit_config":{"status":"0","scheduleList":[],"phone":{"status":"0","scheduleList":[]},"tablet":{"status":"0","scheduleList":[]}}},"uppercut":{"adunit_config":{"status":"0","scheduleList":[]}},"video_oop":{"adunit_config":{"ad_refresh":"","status":"0","smart_refresh":null,"scheduleList":[],"phone":{"ad_refresh":"","status":"0","smart_refresh":null,"scheduleList":[]},"tablet":{"ad_refresh":"","status":"0","smart_refresh":null,"scheduleList":[]}}},"videos_atf":{"adunit_config":{"ad_refresh":"60","status":"1","smart_refresh":"yes","scheduleList":[]}},"videos_btf":{"adunit_config":{"ad_refresh":"60","status":"1","smart_refresh":"yes","scheduleList":[]}},"videos_details_atf":{"adunit_config":{"ad_refresh":"","status":"1","smart_refresh":null,"scheduleList":[]}},"videos_details_btf":{"adunit_config":{"ad_refresh":"","status":"1","smart_refresh":null,"scheduleList":[]}},"videos_details_footer":{"adunit_config":{"ad_refresh":"","status":"1","smart_refresh":null,"scheduleList":[]}},"videos_details_masthead":{"adunit_config":{"ad_refresh":"","status":"1","smart_refresh":null,"scheduleList":[]}},"videos_guide_atf":{"adunit_config":{"ad_refresh":"60","status":"1","smart_refresh":"yes","scheduleList":[]}},"videos_guide_btf":{"adunit_config":{"ad_refresh":"60","status":"1","smart_refresh":"yes","scheduleList":[]}},"videos_masthead":{"adunit_config":{"ad_refresh":"","status":"1","scheduleList":[]}},"weather_btf_main":{"adunit_config":{"ad_refresh":"","status":"1","scheduleList":[]}},"whitelist":"home,masthead,home_btf,home_itf,home_mtf"};
+		window.Sadlib_Config.device_type = "phone";
+		window.Sadlib_Config.page_structure = [];
+		window.Sadlib_Config.page_type = 'article';
+		window.Sadlib_Config.babu = false;
+		window.Sadlib_Config.document_start_time = Date.now();
+		window.Sadlib_Config.load_type = 'sync';
+	}
+</script>
+<script type="text/javascript" src="//sadlib.static-app.synacor.com/client/synacor/synacor.js" id="sadlib"></script>
+
+	<script type="text/javascript">setPerformanceMark("sadlib_end");</script>
+	<!-- /Sadlib -->
+	<!-- Javascript -->
+	<script type="text/javascript">setPerformanceMark("rescon_js_start");</script>
+	<script type="text/javascript">
+//<![CDATA[
+function Syn(){}
+Syn.Config={"Domain":"att-gen4","PortalRoot":"\/","WebservicesUrl":"\/webservices\/index\x2ephp","Username":"","ProxyHostGeneralUrl":"https:\/\/appserv\x2ejade\x2esynacor\x2ecom\/"};
+Syn.Config.Framework={"LoggedIn":false,"Session":"a0c87403055c6034c6a2a5b60766c3cd9b4e8ce2-1551205624","UserId":"","AuthToken":"","Client":"att","SiteName":"att\x2enet","Site":"att-gen4","Page":"page:\/\/Synacor\/Gen4\/Configuration\/Pages\/News\/","Locale":"en_US","Language":"en","AssetsRoot":"https:\/\/static\x2ejade\x2esynacor\x2ecom\/assets\/","AppPlatformRoot":"att-gen4\x2eapp-catalog1\x2esyn-api\x2ecom\/","ConsolidatorUrl":"https:\/\/static\x2ejade\x2esynacor\x2ecom\/assets\/res\x2ephp","ApiRoot":"https:\/\/web\x2ejade\x2esynacor\x2ecom\/api\/","PortalRoot":"https:\/\/start\x2eatt\x2enet\/","AppServer":"https:\/\/appserv\x2ejade\x2esynacor\x2ecom\/","Javascripts":{"en_US\/gen4\/globals\/scripts\/dependencies\x2ejs":true,"en_US\/gen4\/pages\/home\/scripts\/page\x2ejs":true,"en_US\/gen4\/components\/logo\/scripts\/logo\x2ejs":true,"en_US\/gen4\/components\/emailcta\/scripts\/cta-trigger\x2ejs":true,"en_US\/gen4\/components\/global-nav\/scripts\/global-nav\x2ejs":true,"en_US\/gen4\/components\/login\/scripts\/login\x2ejs":true,"en_US\/gen4\/components\/nav\/scripts\/nav\x2ejs":true,"en_US\/gen4\/globals\/scripts\/syn\x2eview\x2etemplatable\x2ejs":true,"en_US\/gen4\/components\/apps\/scripts\/apps\x2ejs":true,"en_US\/gen4\/components\/footer\/desktop\/scripts\/footer\x2ejs":true,"en_US\/gen4\/components\/track\/scripts\/track\x2ejs":true,"en_US\/gen4\/components\/settings\/scripts\/settings_panel\x2ejs":true,"en_US\/gen4\/globals\/vendor\/headroom\x2ejs\/dist\/headroom\x2ejs":true,"en_US\/gen4\/components\/search-container\/scripts\/search-container\x2ejs":true,"en_US\/gen4\/components\/search\/component\/tabbed\/javascripts\/tabbed\x2ejs":true,"en_US\/gen4\/components\/search\/global\/input\/javascripts\/global_input\x2ejs":true,"en_US\/gen4\/components\/search\/component\/input\/javascripts\/input\x2ejs":true,"en_US\/gen4\/components\/search\/component\/input\/javascripts\/set_client_override\x2ejs":true,"en_US\/gen4\/components\/search\/component\/suggest\/ask\/result\/javascripts\/result\x2ejs":true,"en_US\/gen4\/components\/generic\/javascripts\/generic\x2ejs":true,"en_US\/gen4\/components\/notifications\/scripts\/notifications\x2ejs":true,"en_US\/gen4\/components\/cube\/scripts\/cube\x2ejs":true,"en_US\/globals\/javascripts\/framework\/gen4compatibility\x2ejs":true,"en_US\/components\/synaff\/javascripts\/synaff\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/unit\/javascripts\/unit\x2ejs":true,"en_US\/globals\/javascripts\/3rdparty\/postmessage\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/javascripts\/gpt\x2ejs":true,"en_US\/gen4\/globals\/vendor\/iframe-resizer\/src\/iframeResizer\x2ejs":true,"en_US\/gen4\/components\/video-player\/scripts\/video-player\x2ejs":true,"en_US\/gen4\/globals\/vendor\/bootstrap\/js\/transition\x2ejs":true,"en_US\/gen4\/globals\/vendor\/bootstrap\/js\/carousel\x2ejs":true,"en_US\/gen4\/globals\/vendor\/jquery-touchswipe\/jquery\x2etouchSwipe\x2ejs":true,"en_US\/gen4\/components\/news\/read\/scripts\/read\x2ejs":true,"en_US\/gen4\/globals\/vendor\/slick-carousel\/slick\/slick\x2ejs":true,"en_US\/gen4\/components\/carousel\/scripts\/carousel\x2ejs":true,"en_US\/gen4\/components\/ad\/component\/gen4\/taboola\/javascripts\/taboola\x2ejs":true,"en_US\/gen4\/components\/addthis\/scripts\/addthis\x2ejs":true,"en_US\/gen4\/components\/addthis\/desktop\/scripts\/addthis\x2ejs":true,"en_US\/gen4\/globals\/vendor\/jquery-scrollstop\/jquery\x2escrollstop\x2ejs":true,"en_US\/gen4\/components\/ad\/component\/gen4\/gpt\/unit\/adhesion\/javascripts\/adhesion\x2ejs":true,"en_US\/components\/ad\/component\/base\/javascripts\/base\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/javascripts\/targetingmodule\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/technoratismartwrapper\/javascripts\/technoratismartwrapper\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/amazondirectmatch\/javascripts\/amazondirectmatch\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/amazonA9\/javascripts\/amazonA9\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/rubiconfastlane\/javascripts\/rubiconfastlane\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/aolmarketplaceplugandplay\/javascripts\/aolmarketplaceplugandplay_configbuilder\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/aolmarketplaceplugandplay\/javascripts\/aolmarketplaceplugandplay\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/casaleindex\/javascripts\/casaleindex\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/criteo\/javascripts\/criteo\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/realvuboost\/javascripts\/realvuboost\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/openxbidder\/javascripts\/openxbidder\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/pubmaticbidder\/javascripts\/pubmaticbidder\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/lotame\/javascripts\/lotame\x2ejs":true,"en_US\/components\/ad\/component\/adblockdetection\/javascripts\/adblockdetection\x2ejs":true,"en_US\/gen4\/components\/ad\/component\/gen4\/gpt\/targetingmodule\/vammetadata\/javascripts\/vammetadata\x2ejs":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/advelvet\/javascripts\/advelvet\x2ejs":true,"en_US\/gen4\/components\/ad\/component\/gen4\/targeting\/att\/tdata\/javascripts\/tdata\x2ejs":true,"en_US\/components\/ad\/component\/targeting\/bluekai\/javascripts\/bluekai\x2ejs":true,"en_US\/components\/ad\/dataextractor\/dataextractor\x2ejs":true,"en_US\/components\/ad\/dataextractor\/page\/page\x2ejs":true,"en_US\/components\/ad\/dataextractor\/region\/region\x2ejs":true,"en_US\/gen4\/components\/edm\/javascripts\/edm\x2ejs":true,"en_US\/components\/tracking\/pageload\/javascripts\/Syn\x2eTracking\x2ePageLoad\x2eNoFW\x2ejs":true,"en_US\/gen4\/components\/service\/scripts\/service\x2ejs":true,"en_US\/gen4\/components\/dtm\/javascripts\/dtm\x2ejs":true,"en_US\/gen4\/pages\/home\/scripts\/attPage\x2ejs":true,"en_US\/gen4\/components\/target\/javascripts\/at\x2ejs":true,"en_US\/gen4\/components\/dynatrace\/scripts\/dynatrace\x2ejs":true,"en_US\/gen4\/components\/chartbeat\/javascripts\/chartbeat\x2ejs":true,"en_US\/gen4\/globals\/vendor\/bootstrap\/js\/modal\x2ejs":true,"en_US\/gen4\/components\/modal\/scripts\/modal\x2ejs":true,"en_US\/gen4\/components\/cube\/scripts\/modal\x2ejs":true},"Stylesheets":{"en_US\/gen4\/globals\/styles\/global\x2ecss":true,"en_US\/gen4\/pages\/news\/styles\/news\x2ecss":true,"en_US\/gen4\/components\/header\/super\/styles\/super-header\x2ecss":true,"en_US\/gen4\/components\/logo\/styles\/logo\x2ecss":true,"en_US\/gen4\/components\/headernav\/generic\/styles\/generic\x2ecss":true,"en_US\/gen4\/components\/global-nav\/styles\/global-nav\x2ecss":true,"en_US\/gen4\/components\/login\/styles\/login\x2ecss":true,"en_US\/gen4\/components\/nav\/styles\/nav\x2ecss":true,"en_US\/gen4\/components\/apps\/styles\/apps\x2ecss":true,"en_US\/gen4\/components\/englishspanishtoggle\/styles\/englishspanishtoggle\x2ecss":true,"en_US\/gen4\/components\/footer\/styles\/footer\x2ecss":true,"en_US\/gen4\/components\/copyright\/styles\/copyright\x2ecss":true,"en_US\/gen4\/components\/search-container\/styles\/search-container\x2ecss":true,"en_US\/gen4\/components\/search\/component\/input\/generatedStylesheets\/input\x2ecss":true,"en_US\/gen4\/components\/search\/component\/suggest\/ask\/result\/generatedStylesheets\/result\x2ecss":true,"en_US\/gen4\/components\/search\/component\/suggest\/ask\/result\/generatedStylesheets\/result_override\x2ecss":true,"en_US\/gen4\/components\/search\/component\/trendingnow\/generatedStylesheets\/trendingnow\x2ecss":true,"en_US\/gen4\/components\/search\/component\/trendingnow\/generatedStylesheets\/trendingnow_override\x2ecss":true,"en_US\/gen4\/components\/notifications\/styles\/notifications\x2ecss":true,"en_US\/gen4\/components\/cube\/styles\/cube\x2ecss":true,"en_US\/gen4\/components\/ad\/component\/gen4\/gpt\/unit\/stylesheets\/unit\x2ecss":true,"en_US\/gen4\/components\/ad\/component\/gen4\/gpt\/unit\/stylesheets\/unit_override\x2ecss":true,"en_US\/gen4\/components\/card\/styles\/card\x2ecss":true,"en_US\/gen4\/components\/news\/read\/styles\/read\x2ecss":true,"en_US\/gen4\/components\/carousel\/styles\/carousel\x2ecss":true,"en_US\/gen4\/components\/carousel\/styles\/slide\x2ecss":true,"en_US\/gen4\/components\/news\/read\/addthis\/styles\/addthis\x2ecss":true,"en_US\/gen4\/components\/ad\/component\/gen4\/gpt\/unit\/adhesion\/generatedStylesheets\/adhesion\x2ecss":true,"en_US\/gen4\/components\/ad\/component\/gen4\/gpt\/unit\/adhesion\/generatedStylesheets\/adhesion_override\x2ecss":true,"en_US\/gen4\/components\/ad\/component\/gen4\/taboola\/placement\/styles\/generatedStylesheets\/placement\x2ecss":true,"en_US\/components\/ad\/component\/gpt\/targetingmodule\/aolmarketplaceplugandplay\/stylesheets\/aolmarketplaceplugandplay\x2ecss":true,"en_US\/gen4\/components\/modal\/styles\/modal\x2ecss":true,"en_US\/gen4\/components\/cube\/styles\/modal\x2ecss":true},"DefaultTrackingModule":"Image","ModTag":"eb2b0363","device":"phone|unknown|unknown|unknown|unknown|unknown|unknown","CookieDomain":"\x2eatt\x2enet","RenderState":"approved"};
+//]]>
+
+</script>
+	<script src="https://static.jade.synacor.com/assets/res.php?j;att/att-gen4;en_US;eb2b0363;javascripts!components~scripts*component@globals=targetingmodule+gen4$vendor,aolmarketplaceplugandplay^technoratismartwrapper/amazondirectmatch?adblockdetection{search-container}carousel|rubiconfastlane\pubmaticbidder[notifications]en_US($(=(*(dependencies))pages(home(*(page)))~(logo(*(logo))emailcta(*(cta-trigger))global-nav(*(global-nav))login(*(login))nav(*(nav)))=(*(syn.view.templatable))~(apps(*(apps))footer(desktop(*(footer)))track(*(track))settings(*(settings_panel)))=(,(headroom.js(dist(headroom))))~(}(*(}))search(@(tabbed(!(tabbed)))global(input(!(global_input)))@(input(!(input;set_client_override))suggest(ask(result(!(result))))))generic(!(generic))](*(]))cube(*(cube))))=(!(framework(gen4compatibility)))~(synaff(!(synaff))ad(@(gpt(unit(!(unit))))))=(!(3rdparty(postmessage)))~(ad(@(gpt(!(gpt)))))$(=(,(iframe-resizer(src(iframeResizer))))~(video-player(*(video-player)))=(,(bootstrap(js(transition;|))jquery-touchswipe(jquery.touchSwipe)))~(news(read(*(read))))=(,(slick-carousel(slick(slick))))~(|(*(|))ad(@($(taboola(!(taboola)))))addthis(*(addthis)desktop(*(addthis))))=(,(jquery-scrollstop(jquery.scrollstop)))~(ad(@($(gpt(unit(adhesion(!(adhesion)))))))))~(ad(@(base(!(base))gpt(+(!(+)/(!(/))?(!(?))amazonA9(!(amazonA9))\(!(\))^(!(aolmarketplaceplugandplay_configbuilder;^))casaleindex(!(casaleindex))criteo(!(criteo))realvuboost(!(realvuboost))openxbidder(!(openxbidder))[(!([))lotame(!(lotame)))){(!({)))))$(~(ad(@($(gpt(+(vammetadata(!(vammetadata)))))))))~(ad(@(gpt(+(advelvet(!(advelvet)))))))$(~(ad(@($(targeting(att(tdata(!(tdata)))))))))~(ad(@(targeting(bluekai(!(bluekai))))dataextractor(dataextractor;page(page)region(region))))$(~(edm(!(edm))))~(tracking(pageload(!(Syn.Tracking.PageLoad.NoFW))))$(~(service(*(service))dtm(!(dtm)))pages(home(*(attPage)))~(target(!(at))dynatrace(*(dynatrace))chartbeat(!(chartbeat)))=(,(bootstrap(js(modal))))~(modal(*(modal))cube(*(modal"></script>
+	<script type="text/javascript">setPerformanceMark("rescon_js_end");</script>
+	<!-- /Javascript -->
+	<link rel="alternate" href="https://start.att.net/news/read/article/newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek/category/news+?lang=en-us" hreflang="en-us" />
+<link rel="alternate" href="https://start.att.net/news/read/article/newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek/category/news+?lang=es-419" hreflang="es-419" />
+<link rel="alternate" href="https://start.att.net/news/read/article/newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek/category/news+?lang=es-us" hreflang="es-us" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://start.att.net/opensearch/opensearch.xml" title="att.net Web Search" /><script type='text/javascript'>
+Syn.Ad_Component_Gpt_Config = Syn.Ad_Component_Gpt_Config || {};
+Syn.Ad_Component_Gpt_Config.network_id = "5284";
+Syn.Ad_Component_Gpt_Config.client_name = "syn.att";
+Syn.Ad_Component_Gpt_Config.locale = "en-US";
+</script>
+<meta name="news_keywords" content="att.net" />
+<meta property="og:title" content="Florida Woman Racially Abuses Black Deputy on Camera - news+ - att.net" />
+<meta property="og:description" content="Julie Edwards has been charged with driving under the influence of alcohol, making a threat against a law enforcement officer, refusing to submit for testing and resisting an officer without violence." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://da4pli3l5vc0d.cloudfront.net/11/d4/11d4b339e88eeae73a875809033a7d130704b069/h=310,w=414,crop=top-20/?app=portal&amp;sig=48add57365ba639191586c902db821d28579a8ebe483ba48027c34b5f221fa94" />
+<meta property="og:url" content="https://start.att.net/news/read/article/newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek/category/news+" />
+<meta property="og:source" content="Newsweek" />
+<meta property="og:tag" content="news+" />
+<meta name="twitter:card" content="summary" />
+<meta property="article:published_time" content="2019-02-13T15:02:09-05:00" />
+<link rel="canonical" href="https://www.newsweek.com/florida-woman-ku-klux-klan-kkk-volusia-county-deland-1329916?utm_source=Synacor&amp;utm_medium=Attnet&amp;utm_campaign=Partnerships" />
+<script type="text/javascript">
+	(function (){
+		var head = document.head || document.getElementsByTagName("head")[0];
+		var taboolaLink = document.createElement('link');
+		taboolaLink.rel = 'prefetch';
+		taboolaLink.href = '//cdn.taboola.com/libtrc/synacor-network1/loader.js';
+		taboolaLink.id = 'tb_prefetch_script';
+		head.appendChild( taboolaLink );
+	})();
+</script><script type="text/javascript">
+	window._taboola = window._taboola || [];
+	if ('article' !== '') {
+		_taboola.push({'article':'auto'});
+	}
+	(function ( sibling, url, id ) {
+		if (!document.getElementById(id)) { //This keeps us from loading multiple taboola scripts if this is included multiple times.
+			var element = document.createElement('script');
+			element.async = 1;
+			element.src = url;
+			element.id = id;
+			sibling.parentNode.insertBefore( element, sibling );
+		}
+	})( document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/synacor-network1/loader.js', 'tb_loader_script' );
+</script><script type="text/javascript">
+	if (typeof window._tbcallback !== 'function') {
+		window._tbcallback = function (e) {
+			if (typeof ddo !== 'undefined') {
+				ddo.pushEvent('linkClick','Link_Click',{
+					"linkPosition": "Taboola - " + e.detail.placement,
+					"linkName": e.detail.title,
+					"linkDestinationUrl": e.detail.url,
+				});
+			}
+		};
+		_taboola.push({
+			listenTo: 'click',
+			handler: window._tbcallback
+		});
+	}
+</script><script type="text/javascript">
+if (!(window.TN8 && window.TN8.Auction) && !document.querySelector("script#smartwrapper_script_included")) { //Only add smartwrapper script if its not already on the page.
+    var sw = document.createElement('script');
+    sw.id = "smartwrapper_script_included";
+    sw.async = true;
+    sw.type = 'text/javascript';
+    sw.src = '//smartwrapper.technoratimedia.com/client/synacor/synacor.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(sw, node);
+}
+</script><script>
+Syn.Ad_Component_Gpt_Units_Configuration = Syn.Ad_Component_Gpt_Units_Configuration || {};
+Syn.Ad_Component_Gpt_Units_Configuration['stream_10'] = {enabled: false, ad_refresh: 0};
+Syn.Ad_Component_Gpt_Units_Configuration['stream_1'] = {enabled: false, ad_refresh: 0};
+Syn.Ad_Component_Gpt_Units_Configuration['stream_2'] = {enabled: false, ad_refresh: 0};
+Syn.Ad_Component_Gpt_Units_Configuration['stream_3'] = {enabled: false, ad_refresh: 0};
+Syn.Ad_Component_Gpt_Units_Configuration['stream_4'] = {enabled: false, ad_refresh: 0};
+Syn.Ad_Component_Gpt_Units_Configuration['stream_5'] = {enabled: false, ad_refresh: 0};
+Syn.Ad_Component_Gpt_Units_Configuration['stream_6'] = {enabled: false, ad_refresh: 0};
+Syn.Ad_Component_Gpt_Units_Configuration['stream_7'] = {enabled: false, ad_refresh: 0};
+Syn.Ad_Component_Gpt_Units_Configuration['stream_8'] = {enabled: false, ad_refresh: 0};
+Syn.Ad_Component_Gpt_Units_Configuration['stream_9'] = {enabled: false, ad_refresh: 0};
+</script><script type="text/javascript" src="https://www.att.com/scripts/adobe/prod/detm-container-hdr.js"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M4DDFKD');</script>
+<!-- End Google Tag Manager -->
+				<script type="text/javascript"> var _sf_async_config = _sf_async_config || {}; _sf_async_config.uid = 65228; _sf_async_config.domain = "start.att.net";
+					_sf_async_config.flickerControl = false;
+					_sf_async_config.useCanonical = true;
+					var _sf_startpt = (new Date()).getTime();
+				</script>
+				<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+				<meta property="og:url" content="https://start.att.net/news/read/article/newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek/category/news+" />
+<style type="text/css">
+	@media (min-width: 1280px) {
+		.container, .layout-wrapper {
+			min-width: calc(1280px - 20px);
+		}
+		.container aside.l-col-sidebar,
+		.container .sidebar-body,
+		.layout-wrapper .layout-center .layout-right,
+		.layout-wrapper .layout-center .layout-right .sidebar-body {
+			width: 402px;
+		}
+		.container aside.l-col-sidebar .gpt_ad_unit,
+		.container aside.l-col-sidebar .gpt_ad_unit div,
+		.layout-wrapper aside .gpt_ad_unit,
+		.layout-wrapper aside .gpt_ad_unit div {
+			margin: 0 auto;
+		}
+		.container .l-page-hero,
+		.container .article .media-container,
+		.layout-wrapper .layout-center {
+			margin-right: calc(402px + 20px);
+		}
+		.layout-wrapper .layout-center .layout-right {
+			margin-right: -402px;
+		}
+		.container aside.l-col-sidebar .gpt_ad_unit {
+			background: #efefef;
+		}
+	}
+</style>
+<style type="text/css">
+	@media (min-width: 768px) and (orientation: landscape) {
+		.tablet .l-page-container .l-page-content {
+			float: left;
+			width: 100%;
+			margin-right: -300px;
+			padding-right: 0;
+		}
+		.tablet .l-page-container .l-page-content  {
+			padding-left: 40px;
+			margin-top: 20px;
+		}
+		.tablet.read-page .l-page-container .l-page-content  {
+			padding-left: 20px;
+		}
+		.tablet .l-page-container .l-page-content .stream {
+			padding:  0;
+		}
+		.tablet .l-page-container .l-col-sidebar {
+			display: block;
+			padding: 0;
+			position: absolute;
+			right: 20px;
+			top: 20px;
+			width: 300px;
+		}
+		.tablet .l-page-container .l-page-content-wrap .l-col-main {
+			margin-right: 340px;
+		}
+	}
+</style>
+	<script type="text/javascript">setPerformanceMark("gen4_head_end");</script>
+	<script type="text/javascript">
+		measurePerformance("gen4_head", "gen4_head_start", "gen4_head_end");
+		measurePerformance("rescon_css", "rescon_css_start", "rescon_css_end");
+		measurePerformance("rescon_js", "rescon_js_start", "rescon_js_end");
+		measurePerformance("sadlib", "sadlib_start", "sadlib_end");
+	</script>
+</head>
+	<body class="read-page">
+		<!--  -->
+		<div id="section-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2f-7cpage-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fNews-2f" class="l-page-container container">
+			<header class="l-page-header navbar navbar-default navbar-fixed-top" role="navigation">
+				<div class="header-bg"></div>
+				<div id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fHeader-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fLogo-2f" class="logo">
+	<a class="brand-logo navbar-brand " data-track data-track-args-track="logo-click" href="/" tabindex="1">
+			<img src="https://d35uctr6428reu.cloudfront.net/assets/site_config/att-gen4/assets/en_US/gen4/shared/images/logos/att-net-aleck-white.svg" alt="att.net" />
+	</a>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Logo","showBrand":true,"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Logo\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Header\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fHeader-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fLogo-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><ul id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fHeader-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fHeaderNav-2fGeneric-2f" class="nav navbar-nav headernav headernav--generic">
+	<li id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fHeaderNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fHeaderNav-2fItem-2fLink-2f-3fclass-3dgeneric-2dlink-2bemail-26dropdown-3d1-26icon-3dss-2dicon-2datt-2bss-2duser-2demail-26url-3dhttps-253A-252F-252Fmail-2eyahoo-2ecom-252F-253F-2epartner-253Dsbc-26arialabel-3dMAIL_LABEL-26arialabelledby-3dMailLabel-26role-3dbutton-26subnav-255B0-255D-255Buri-255D-3dcomponent-253A-252F-252FSynacor-252FGen4-252FConfiguration-252FComponents-252FEmail-252FLoggedIn-252F-26parse_active-3d1">
+	<a href="https://mail.yahoo.com/?.partner=sbc" class="generic-link email ss-icon-att ss-user-email" aria-label="Mail" aria-labelledby="MailLabel" role="button" target="_self" data-track data-track-args-track="nav-click" data-track-args-url="https://mail.yahoo.com/?.partner=sbc" ></a>
+	<ul class="dropdown-menu headernav__dropdown-menu generic-link email" role="menu">
+		
+	</ul>
+</li>
+<li id="MailLabel" class="hidden">Mail</li>
+
+</ul>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.CtaTrigger","position":"Header","template_alert":"<span class=\"badge ss-icon ss-alert\" aria-label=\"Email Notification Alert\" tabindex=\"0\"> <\/span>","scope_data":{"landing":null,"hashtag":"For You"},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/HeaderNav\/Generic\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Header\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fHeader-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fHeaderNav-2fGeneric-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><div id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fHeader-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fGlobalNav-2f" class="global-nav">
+	<button aria-label="Left Navigation" aria-expanded="false" class="global-nav-btn ss-icon ss-rows" data-track data-track-args-track="nav-click"></button>
+	<button class="global-nav-close ss-icon ss-delete hide"></button>
+	<button class="global-nav-exit ss-icon ss-navigateleft hide"></button>
+	<div class="global-nav-modal"></div>
+	<nav id="nav-scroll-wrap" class="global-nav-container">
+		<div class="nav-scroll">
+			<ul id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fLogin-2fNav-2f" class="login-nav primary" role="menu">
+	<li role="menuitem">
+		<a class="sign-in-link" href="https://start.att.net/login/"><span class="ss-icon-att ss-user-att" title="" aria-hidden="true"></span><span tabindex="0" role="link" class="sign-in-label">Sign In</span><span class="open-settings ss-icon ss-settings cog" role="button" aria-label="Member Settings Sub Menu" tabindex="0"></span></a>
+	</li>
+</ul>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Login","position":"Header","uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Login\/Nav\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/GlobalNav\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fLogin-2fNav-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><ul id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNav-2fTop-2f" class="navigation clearfix primary">
+	<li class="nav-item ">
+		<a class="sign-up" href="https://attreg.att.net/PortalRegWeb/PortalRegController?callingAppId=OP&amp;returnUrl=https://start.att.net"  data-track data-track-args-track="nav.primary" role="button" aria-label="Need an Account? Sign Up" ><span>Need an Account? Sign Up</span></a>
+	</li>
+</ul>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Nav","tracking_area":"navigation","position":"Header","scope_data":{"article":"newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek","category":"news+","root_url":"\/news"},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Nav\/Top\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/GlobalNav\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNav-2fTop-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><ul id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNav-2f" class="navigation clearfix primary">
+	<li class="nav-item ">
+		<a class="ss-icon-att ss-home" href="https://start.att.net/"  data-track data-track-args-track="nav.primary" role="button" aria-label="Home" ><span>Home</span></a>
+	</li>
+	<li class="nav-item ">
+		<a class="ss-icon-att ss-email" href="https://mail.yahoo.com/?.partner=sbc" target=__blank_ data-track data-track-args-track="nav.primary" role="button" aria-label="Mail" ><span>Mail</span></a>
+	</li>
+	<li class="nav-item nav-drop">
+		<a class="ss-icon-att ss-news" href="https://start.att.net/news/"  data-track data-track-args-track="nav.primary" role="button" aria-label="News" aria-expanded="false"><span>News</span><span class="ss-icon ss-navigatedown pull-right att-mobile-nav-expand"></span></a>
+		<ul class="secondary">
+			<li class="nav-item ">
+				<a href="https://start.att.net/news/category/local/"  data-track data-track-args-track="nav.secondary">Local News</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/news/category/us/"  data-track data-track-args-track="nav.secondary">US</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/news/category/world/"  data-track data-track-args-track="nav.secondary">World</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/news/category/politics/"  data-track data-track-args-track="nav.secondary">Politics</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/news/category/tech/"  data-track data-track-args-track="nav.secondary">Tech</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item nav-drop">
+		<a class="ss-icon-att ss-finance" href="https://start.att.net/finance"  data-track data-track-args-track="nav.primary" role="button" aria-label="Finance" aria-expanded="false"><span>Finance</span><span class="ss-icon ss-navigatedown pull-right att-mobile-nav-expand"></span></a>
+		<ul class="secondary">
+			<li class="nav-item ">
+				<a href="https://start.att.net/finance/category/business/"  data-track data-track-args-track="nav.secondary">Business</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/finance/category/personal-finance/"  data-track data-track-args-track="nav.secondary">Personal Finance</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/finance/category/markets/"  data-track data-track-args-track="nav.secondary">Markets</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/finance/category/myportfolio/pf/"  data-track data-track-args-track="nav.secondary">My Portfolio</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item nav-drop">
+		<a class="ss-icon-att ss-sports" href="https://start.att.net/sports"  data-track data-track-args-track="nav.primary" role="button" aria-label="Sports" aria-expanded="false"><span>Sports</span><span class="ss-icon ss-navigatedown pull-right att-mobile-nav-expand"></span></a>
+		<ul class="secondary">
+			<li class="nav-item ">
+				<a href="https://start.att.net/sports/category/nfl/"  data-track data-track-args-track="nav.secondary">NFL</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/sports/category/mlb/"  data-track data-track-args-track="nav.secondary">MLB</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/sports/category/nba/"  data-track data-track-args-track="nav.secondary">NBA</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/sports/category/nhl/"  data-track data-track-args-track="nav.secondary">NHL</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/sports/category/ncaaf/"  data-track data-track-args-track="nav.secondary">NCAAF</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/sports/category/ncaab/"  data-track data-track-args-track="nav.secondary">NCAAB</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/sports/category/soccer/"  data-track data-track-args-track="nav.secondary">Soccer</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/sports/category/pga/"  data-track data-track-args-track="nav.secondary">PGA</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/sports/category/lpga/"  data-track data-track-args-track="nav.secondary">LPGA</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/sports/category/nascar/"  data-track data-track-args-track="nav.secondary">NASCAR</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item nav-drop">
+		<a class="ss-icon-att ss-entertainment" href="https://start.att.net/entertainment"  data-track data-track-args-track="nav.primary" role="button" aria-label="Entertainment" aria-expanded="false"><span>Entertainment</span><span class="ss-icon ss-navigatedown pull-right att-mobile-nav-expand"></span></a>
+		<ul class="secondary">
+			<li class="nav-item ">
+				<a href="https://start.att.net/entertainment/category/celebrity/"  data-track data-track-args-track="nav.secondary">Celebrity</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/entertainment/category/tv/"  data-track data-track-args-track="nav.secondary">TV</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/entertainment/category/movies/"  data-track data-track-args-track="nav.secondary">Movies</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/comics"  data-track data-track-args-track="nav.secondary">Comics</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item nav-drop">
+		<a class="ss-icon-att ss-lifestyle" href="https://start.att.net/lifestyle/"  data-track data-track-args-track="nav.primary" role="button" aria-label="Lifestyle" aria-expanded="false"><span>Lifestyle</span><span class="ss-icon ss-navigatedown pull-right att-mobile-nav-expand"></span></a>
+		<ul class="secondary">
+			<li class="nav-item ">
+				<a href="https://start.att.net/lifestyle/category/autos/"  data-track data-track-args-track="nav.secondary">Autos</a>
+			</li>
+			<li class="nav-item ">
+				<a href="https://start.att.net/lifestyle/tastemade/"  data-track data-track-args-track="nav.secondary">Food by Tastemade</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item ">
+		<a class="ss-icon-att ss-weather" href="https://start.att.net/weather/"  data-track data-track-args-track="nav.primary" role="button" aria-label="Weather" ><span>Weather</span></a>
+	</li>
+</ul>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Nav","tracking_area":"navigation","scope_data":{"article":"newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek","category":"news+","root_url":"\/news"},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Nav\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/GlobalNav\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNav-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><script type="text/html" id="template_zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fServices-2f">
+	<li class="app-title"><h4>{{title}}</h4></li>
+	{{#apps}}
+		<li class="{{^isSupported}}not {{/isSupported}}supported">
+			<a class="{{att_icon}}" data-name="{{name}}" data-launch-type="{{runConfig.launch_type}}" href="{{runConfig.launch_url}}" data-track data-track-args-track="apps-click" data-track-args-name="{{displayName}}">
+				<span class="app-display-name">{{displayName}}</span>
+				<span class="app-close-container pull-right">
+					<span class="ss-icon ss-delete"></span>
+				</span>
+			</a>
+		</li>
+	{{/apps}}
+</script>
+<ul class="apps primary" id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fServices-2f"></ul>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Apps","event_trigger":null,"content_uri":null,"show_tags":[],"__i18n":{"METADATA_TITLE":"AT&T Services"},"apps":{"myAT&T":{"displayName":"myAT&T","att_icon":"ss-icon-att ss-att-globe","map":null,"uri":{"android":null,"ios":null,"default":"https:\/\/www.att.com\/olam\/passthroughAction.myworld?actionType=Manage\/&source=EU00AN000U9V0100E&wtExtndSource=MYATT_Navrail_SP"},"appstore":null,"icon":"https:\/\/d35uctr6428reu.cloudfront.net\/assets\/"},"ShopAT&T":{"displayName":"Shop AT&T","att_icon":"ss-icon-att ss-shop","map":null,"uri":{"android":null,"ios":null,"default":"https:\/\/www.att.com\/deals\/?source=EU00AN000U9V0100E&wtExtndSource=AQ_SHOP_Navrail_SP"},"appstore":null,"icon":"https:\/\/d35uctr6428reu.cloudfront.net\/assets\/"},"DIRECTV":{"displayName":"DIRECTV","att_icon":"ss-icon-att ss-directv","map":null,"uri":{"android":null,"ios":null,"default":"https:\/\/www.att.com\/directv\/?source=EU00AN000U9V0100E&wtExtndSource=AQ_DIRECTV_Navrail_SP"},"appstore":null,"icon":"https:\/\/d35uctr6428reu.cloudfront.net\/assets\/"},"DIRECTV NOW":{"displayName":"DIRECTV NOW","att_icon":"ss-icon-att ss-dtv-now","map":null,"uri":{"android":null,"ios":null,"default":"https:\/\/www.directvnow.com\/?source=EaYAAQ000MM0AW00L"},"appstore":null,"icon":"https:\/\/d35uctr6428reu.cloudfront.net\/assets\/"},"U-verseTV":{"displayName":"U-verse TV","att_icon":"ss-icon-att ss-uverse","map":null,"uri":{"android":null,"ios":null,"default":"https:\/\/start.att.net\/exclusive\/uverse\/uverse-tv?source=EU00AN000U9V0100E&wtExtndSource=AQ_UVERSE_Navrail_SP"},"appstore":null,"icon":"https:\/\/d35uctr6428reu.cloudfront.net\/assets\/"},"AT&T Support":{"displayName":"AT&T Support","att_icon":"ss-icon-att ss-support","map":null,"uri":{"android":null,"ios":null,"default":"https:\/\/www.att.com\/esupport\/?source=EU00AN000U9V0100E&wtExtndSource=SUPPORT_Navrail_SP"},"appstore":null,"icon":"https:\/\/d35uctr6428reu.cloudfront.net\/assets\/"},"Software":{"displayName":"Software","att_icon":"ss-icon-att ss-software","map":null,"uri":{"android":null,"ios":null,"default":"\/softwarecenter\/"},"appstore":null,"external":false,"icon":"https:\/\/d35uctr6428reu.cloudfront.net\/assets\/"},"Site Help":{"displayName":"Site Help","att_icon":"ss-icon-att ss-help","map":null,"uri":{"android":null,"ios":null,"default":"http:\/\/www.att.com\/newhomepage\/"},"appstore":null,"icon":"https:\/\/d35uctr6428reu.cloudfront.net\/assets\/"},"MoreFromAT&T":{"displayName":"More From AT&T","att_icon":"ss-icon-att ss-att-globe","map":null,"uri":{"android":null,"ios":null,"default":"https:\/\/m.att.com\/shopmobile\/globalnav\/morefromatt.html?referer=attNetWebnew"},"appstore":null,"icon":"https:\/\/d35uctr6428reu.cloudfront.net\/assets\/"}},"appstore_prefix":{"ios":"itms-apps:\/\/itunes.apple.com\/us\/app\/","android":"market:\/\/details?id="},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Services\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/GlobalNav\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fServices-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><script type="text/html" id="template_zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fApps-2f">
+	<li class="app-title"><h4>{{title}}</h4></li>
+	{{#apps}}
+		<li class="{{^isSupported}}not {{/isSupported}}supported">
+			<a class="{{att_icon}}" data-name="{{name}}" data-launch-type="{{runConfig.launch_type}}" href="{{runConfig.launch_url}}" data-track data-track-args-track="apps-click" data-track-args-name="{{displayName}}">
+				<span class="app-display-name">{{displayName}}</span>
+				<span class="app-close-container pull-right">
+					<span class="ss-icon ss-delete"></span>
+				</span>
+			</a>
+		</li>
+	{{/apps}}
+</script>
+<ul class="apps primary" id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fApps-2f"></ul>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Apps","event_trigger":null,"content_uri":null,"show_tags":[],"__i18n":{"METADATA_TITLE":"AT&T Apps"},"apps":{"myAT&T":{"displayName":"myAT&T","att_icon":"ss-icon-att ss-att-globe","map":null,"uri":{"android":null,"ios":null,"default":"http:\/\/att.com\/myattapp"},"appstore":{"ios":null,"android":null},"icon":"https:\/\/d35uctr6428reu.cloudfront.net\/assets\/"},"AT&TLive":{"displayName":"AT&T Live","att_icon":"ss-icon-att ss-att-live","map":null,"uri":{"android":"https:\/\/play.google.com\/store\/apps\/details?id=com.att.attlive","ios":"https:\/\/itunes.apple.com\/us\/app\/at-t-live\/id936970337","default":null},"appstore":{"ios":null,"android":null},"icon":"https:\/\/d35uctr6428reu.cloudfront.net\/assets\/"}},"appstore_prefix":{"ios":"itms-apps:\/\/itunes.apple.com\/us\/app\/","android":"market:\/\/details?id="},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Apps\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/GlobalNav\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fApps-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><ul id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fEnglishSpanishToggle-2f" class="english-spanish-toggle">
+	<li>
+		<a href="/?lang=es-us"
+		  title="En Español"
+		  aria-label="En Español"
+		  aria-label-by="Lang">
+		  En Español
+		</a>
+	</li>
+</ul><script type="text/html" id="template_zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fFeTemplate-2fFooter-2f">
+			<ul class="footer primary">
+		{{#.}}
+				{{#.}}
+					<li class={{class}}><a name="{{text}}" href="{{href}}" {{#data}}data-{{property}}="{{value}}"{{/data}} data-track data-track-args-track="{{data_track_args}}" data-track-args-name="{{text}}"{{#external}} rel="external"{{/external}} {{#target}} target="{{target}}"{{/target}}>{{text}}</a></li>
+				{{/.}}
+		{{/.}}
+			</ul>
+</script>
+<div class="footer-container" id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fFeTemplate-2fFooter-2f">
+	<ul id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fFeTemplate-2fFooter-2fZones-2fExtra-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fCopyright-2fMobile-2f" class="copyright primary">
+	<li><cite><a href="http://www.att.com/gen/privacy-policy?pid=2587" target="_blank" data-track data-track-args-track="copyright">Copyright &copy; 2019 AT&amp;T Intellectual Property.</a></cite></li>
+</ul>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Track","uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Copyright\/Mobile\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Components\/FeTemplate\/Footer\/Zones\/Extra\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fFeTemplate-2fFooter-2fZones-2fExtra-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fCopyright-2fMobile-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Footer.Desktop","links_group_size":3,"links":[{"href":"https:\/\/www.att.com\/legal\/terms.attNetTermsOfUse.html","text":"Terms","external":true,"target":"_blank"},{"href":"\/privacy","text":"Privacy","external":true,"target":"_blank"},{"href":"http:\/\/www.att.com\/legal\/terms.aup.html","text":"Acceptable Use Policy","external":true,"target":"_blank"},{"href":"http:\/\/adworks.att.com\/","text":"Advertise","external":true,"target":"_blank"},{"href":"http:\/\/about.att.com\/sites\/privacy_policy\/full_privacy_policy#obc","text":"Advertising Choices","external":true,"target":"_blank"},{"href":"https:\/\/survey.foreseeresults.com\/survey\/display?cid=JxTg9PsUYKor4P5i9ne0Ug==&sid=s-link_mobile","text":"Feedback","external":true,"target":"_blank"}],"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/FeTemplate\/Footer\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/GlobalNav\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fFeTemplate-2fFooter-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+		</div>
+		<nav class="nav-scroll navigation slideover" id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2fBelowScroll-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fSettings-2f">
+	<ul class="navigation apps primary" role="menu">
+		<li role="menuitem" class="close-apps"><a href="#" tabindex="0" aria-label="Return Back to Main Menu" role="button">My Settings<span class="ss-icon ss-navigateleft pull-left"></span></a></li>
+		
+	</ul>
+</nav>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.SettingsPanel","scope_data":{"landing":null,"hashtag":"For You"},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Settings\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/GlobalNav\/BelowScroll\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fGlobalNav-2fBelowScroll-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fSettings-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+	</nav>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.GlobalNav","three_dot":false,"scope_data":{"article":"business_insider-hidden_tv_cameras_caught_kim_jong_un_taking_a_ciga-newscred2","category":"news+","root_url":"\/news"},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/GlobalNav\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Header\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fHeader-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fGlobalNav-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><div id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fHeader-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fSearchContainer-2f" class="search-container">
+	<div class="s_tabbed" id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fSearchContainer-2f-7ccomponent-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fTabbed-2fInput-2fPhone-2f">
+	<div class="tab_body s_logo_centering_tracer">
+		<div id="Tabbed_Zone_Web-7ccomponent-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fWeb-2fGoogle-2fInput-2fPhone-2f" class="s_input provider_left variation_phone  postpend_has_children">
+	<div class="row">
+		<div class="hidden">
+			<div id="s_input_prepend_Tabbed_Zone_Web-7ccomponent-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fWeb-2fGoogle-2fInput-2fPhone-2f" class="s_input_prepend">
+				
+			</div>
+			
+		</div>
+		<div class="col-xs-7 col-sm-10 col-md-12 col-lg-12">
+			<button type="button" class="magnify-btn">
+				<span class="s_magnify glyphicon glyphicon-search"></span>
+				<span class="s_caret ss-icon ss-navigateup"></span>
+			</button>
+			<div class="s_phone_overlay"></div>
+			<div class="s_input_container">
+				<form action="/search/index.php" id="form_Tabbed_Zone_Web-7ccomponent-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fWeb-2fGoogle-2fInput-2fPhone-2f">
+					<fieldset>
+						<span class="s_input_provider s_input_provider_left s_input_provider_google"><img src="https://da4pli3l5vc0d.cloudfront.net/ff/34/ff34e28e8ab5c4d210c1004277921b5cee2d2b64" alt="provider logo" /></span>
+						<div class="s_input_field">
+							<span class="s_input_submit_wrap">
+									<button class="clear_input" type="button" aria-hidden="true"><span class="ss-icon ss-delete"></span></button>
+									<button type="submit"><span class="ss-icon ss-search"></span></button>
+							</span>
+							<span class="s_input_provider s_input_provider_inside s_input_provider_google"><img src="https://da4pli3l5vc0d.cloudfront.net/ff/34/ff34e28e8ab5c4d210c1004277921b5cee2d2b64" alt="provider logo" /></span>
+							
+							<span class="s_input_search_wrap">
+								<input class="s_q_input syn_suggestions" id="input_q_Tabbed_Zone_Web-7ccomponent-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fWeb-2fGoogle-2fInput-2fPhone-2f" name="q" placeholder="Search the Web" tabindex="2" type="search" value="" />
+							</span>
+							
+							<input type="hidden" name="context" value="news" />
+						</div>
+					</fieldset>
+				</form>
+				<div id="syn_suggestion_box" class="syn_suggestion_box">
+	<ul>
+		<li class="syn_suggestion_item"></li>
+	</ul>
+	<span class="powered_by">powered by Ask</span>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Search_Component_Suggest_Ask_Result","plugin_configuration":{"suggestion_box_locator":".syn_suggestion_box:first","input_locator":"input.syn_suggestions:first","maximum_results":3},"enabled":true,"uri":"component:\/\/Synacor\/Search\/Component\/Gen4\/Suggest\/Ask\/Result\/Phone\/","parent_uri":"zone:\/\/Synacor\/Search\/Component\/Gen4\/Web\/Google\/Input\/Phone\/Zone\/InsideDivBelowForm\/","event_id":"zone-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fWeb-2fGoogle-2fInput-2fPhone-2fZone-2fInsideDivBelowForm-2f-7ccomponent-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fSuggest-2fAsk-2fResult-2fPhone-2f"});}</script>
+			</div>
+		</div>
+		<div class="col-xs-4 col-sm-2 col-md-10 col-lg-10">
+			<div id="s_input_postpend_Tabbed_Zone_Web-7ccomponent-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fWeb-2fGoogle-2fInput-2fPhone-2f" class="s_input_postpend">
+				<div class="search_top_searches" id="zone-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fWeb-2fGoogle-2fInput-2fPhone-2fZone-2fOutsidePostpend-2f-7ccomponent-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fContextualTopSearches-2f">
+	<span class="search_top_searches_label">Top Searches</span>
+	<ol>
+			<li><a href="https://start.att.net/search?context=topsearches&amp;v=1&amp;q=las+vegas">Las Vegas</a></li>
+			<li><a href="https://start.att.net/search?context=topsearches&amp;v=1&amp;q=wwe+raw">WWE Raw</a></li>
+			<li><a href="https://start.att.net/search?context=topsearches&amp;v=1&amp;q=gerber+baby">Gerber Baby</a></li>
+			<li><a href="https://start.att.net/search?context=topsearches&amp;v=1&amp;q=lucky+charms">Lucky Charms</a></li>
+			<li><a href="https://start.att.net/search?context=topsearches&amp;v=1&amp;q=amtrak">Amtrak</a></li>
+			<li><a href="https://start.att.net/search?context=topsearches&amp;v=1&amp;q=jimmy+kimmel">Jimmy Kimmel</a></li>
+			<li><a href="https://start.att.net/search?context=topsearches&amp;v=1&amp;q=nbc+sports">NBC Sports</a></li>
+			<li><a href="https://start.att.net/search?context=topsearches&amp;v=1&amp;q=mobile+apps">Mobile Apps</a></li>
+			<li><a href="https://start.att.net/search?context=topsearches&amp;v=1&amp;q=nba">NBA</a></li>
+			<li><a href="https://start.att.net/search?context=topsearches&amp;v=1&amp;q=san+francisco+49ers">San Francisco 49ers</a></li>
+			<li><a href="https://start.att.net/search?context=topsearches&amp;v=1&amp;q=stock+exchange">Stock Exchange</a></li>
+			<li><a href="https://start.att.net/search?context=topsearches&amp;v=1&amp;q=will+smith">Will Smith</a></li>
+	</ol>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.ATT.Generic","position":"Top Searches","area":null,"open_links_in_new_window":false,"uri":"component:\/\/Synacor\/Search\/Component\/Gen4\/ContextualTopSearches\/","parent_uri":"zone:\/\/Synacor\/Search\/Component\/Gen4\/Web\/Google\/Input\/Phone\/Zone\/OutsidePostpend\/","event_id":"zone-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fWeb-2fGoogle-2fInput-2fPhone-2fZone-2fOutsidePostpend-2f-7ccomponent-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fContextualTopSearches-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Search_Component_Gen4_Input","auto_update_query":true,"auto_focus":false,"prevent_empty_submit":true,"button_style_randomization":true,"full_form_focus":true,"javascript_event_mappings":{"app.on.launch":"setupAutoFocus","synacor.input.position.modified":"onPositionModified"},"data":{"show_overlay_on_focus":true,"open_search_in_new_window":false,"clear_input_on_new_window_search":true},"uri":"component:\/\/Synacor\/Search\/Component\/Gen4\/Web\/Google\/Input\/Phone\/","parent_uri":"Tabbed_Zone_Web","event_id":"Tabbed_Zone_Web-7ccomponent-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fWeb-2fGoogle-2fInput-2fPhone-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+	</div>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Search_Component_Gen4_Tabbed","uri":"component:\/\/Synacor\/Search\/Component\/Gen4\/Tabbed\/Input\/Phone\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Components\/SearchContainer\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fSearchContainer-2f-7ccomponent-3a-2f-2fSynacor-2fSearch-2fComponent-2fGen4-2fTabbed-2fInput-2fPhone-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.SearchContainer","pinOverHeader":true,"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/SearchContainer\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Header\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fHeader-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fSearchContainer-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><script type="text/html" id="template_zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fHeader-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNotifications-2f">
+		<a href="#" data-track data-track-args-track="notification-click" class="col-md-12 notification {{type}}" data-id="{{id}}">
+			<div class="container">
+				<div class="nlink">
+					<span class="icon {{^icon}}ss-icon ss-{{type}}{{/icon}}">
+						{{#icon}}
+						<img src="{{icon}}" />
+						{{/icon}}
+					</span>
+					<span class="msg">{{{body}}}</span>
+					{{#close}}
+					<button type="button" class="remove ss-icon ss-delete"></button>
+					{{/close}}
+				</div>
+			</div>
+		</a>
+</script>
+<div id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fHeader-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNotifications-2f" class="notifications"></div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Notifications","__i18n":{"BREAKING_NEWS":"Breaking News","EVENT_NAMESPACE":"Syn.Notifications","CLASSIC_VIEW":"Looking for Classic View? Click Here","PAGE_NOT_FOUND":"Page could not be found."},"launch_notifications":[{"autoClose":5000,"body":"PAGE_NOT_FOUND","delay":1000,"device":[],"display_count":0,"path":{"segment":"page_not_found","strict":false},"title":"PAGE_NOT_FOUND"}],"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Notifications\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Header\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fHeader-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNotifications-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+			</header>
+			<div class="row">
+				<section class="l-page-content">
+					<section class="banner">
+						<div id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fNews-2fZones-2fBanner-2fPhone-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fCube-2fNotifications-2fNews-2fPhone-2f" class="cube "></div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Cube","name":"notifications","props":{"article":"newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek","category":"news+","root_url":"\/news","disable_updates":true,"feed_name":"gen4_breaking_news_news","startContentServiceOrigin":"https:\/\/scs.syn-api.com","tvDataServiceOrigin":"https:\/\/tvdata.syn-api.com"},"script":"https:\/\/d211ld0rq8ynx5.cloudfront.net\/tesseract.js","scope_data":{"article":"newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek","category":"news+","root_url":"\/news"},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Cube\/Notifications\/News\/Phone\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/News\/Zones\/Banner\/Phone\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fNews-2fZones-2fBanner-2fPhone-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fCube-2fNotifications-2fNews-2fPhone-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><div id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fNews-2fZones-2fBanner-2fPhone-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fCube-2fNav-2fNews-2f" class="cube "></div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Cube","name":"navigation.Tertiary","props":{"article":"newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek","category":"news+","root_url":"\/news","items":[{"url":"\/news\/category\/local\/","label":"Local News"},{"url":"\/news\/category\/us\/","label":"US"},{"url":"\/news\/category\/world\/","label":"World"},{"url":"\/news\/category\/politics\/","label":"Politics"},{"url":"\/news\/category\/tech\/","label":"Tech"}],"primaryLabel":{"label":"News","url":"\/news\/"},"startContentServiceOrigin":"https:\/\/scs.syn-api.com","tvDataServiceOrigin":"https:\/\/tvdata.syn-api.com"},"script":"https:\/\/d211ld0rq8ynx5.cloudfront.net\/tesseract.js","scope_data":{"article":"newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek","category":"news+","root_url":"\/news"},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Cube\/Nav\/News\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/News\/Zones\/Banner\/Phone\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fNews-2fZones-2fBanner-2fPhone-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fCube-2fNav-2fNews-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+					</section>
+					<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Synaff","uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Synaff\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/News\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fNews-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fSynaff-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><div id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fNews-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNews-2fRead-2f" class="article component">
+<div class="carousel-wrap">
+	<div class="story-header">
+		<h1 class="media-heading h1">
+			Florida Woman Racially Abuses Black Deputy on Camera
+		</h1>
+		<cite>
+			<div class="cite-words">
+					<span class="hashtag">
+						news+
+					</span>
+					<span class="timestamp">1 week ago</span>
+					<span class="source">
+						Newsweek
+					</span>
+			</div>
+		</cite>
+	</div>
+			<div class="media-object toggle-caption story-img-container ">
+					<span class="img-responsive story-img" style="background-image: url(https://da4pli3l5vc0d.cloudfront.net/11/d4/11d4b339e88eeae73a875809033a7d130704b069/h=310,w=414,crop=top-20/?app=portal&sig=48add57365ba639191586c902db821d28579a8ebe483ba48027c34b5f221fa94)"></span>
+			</div>
+					<div class="media-caption">
+						<div class="summary">PUBLICACCESS_35926878_fcc9d036a7d4495b-04E5CB3E-A1E0-4278-33ED473AB6B545561039053</div>
+					</div>
+	</div>
+	<div class="story-body">
+		<p>A Florida woman is facing multiple charges after she allegedly racially abused a black police officer and made threatening remarks referencing the Ku Klux Klan (KKK.)<p>The incident occurred on February 7 as Volusia County Sheriff's Office deputy Brandon King was called to a “disturbance” at a home in DeLand, Florida, the Miami Herald reported.<p>When King arrived at the scene, he found 53-year-old Julie Edwards trying to leave in her car, but he managed to stop her. After approaching the vehicle, he noticed a strong smell of alcohol on her breath and that she was slurring her words. He asked Edwards if she would take a breathalyzer test and perform field sobriety exercises. She declined.<p>At this point King decided to take Edwards into custody, but she attempted to walk away and resisted when the deputy tried to put her in his vehicle, according to the Volusia County Sheriff’s Office.<p>Once she was in the vehicle, Edwards began her tirade against King, much of which was captured by the deputy's bodycam as they drove back to the police station. The video was posted by the Sheriff’s Office on its official twitter account.<p>“Watch this if you need any more proof there's no expiration date on ignorance,” the post read. “You may have heard someone made racist threats against one of our deputies. Before you go on a racist rant, just remember we have body cams.”<p><a href="https://twitter.com/VolusiaSheriff/status/1095442562561777666" rel="external"></a><p>In the video, Edwards told King that the KKK would find him and that there wasn’t anything wrong “with a burning cross” in his yard.<p>“KKK’s got your ass boy,” she can be heard saying in the video, in which she refers to King by the n-word. "They’ll send all you f****** back… burn the rest of you. My KKK friends will burn your family, you should never be here in the first place. You ever been whipped on a whipping post?"<p>King kept his composure throughout. "Kudos to Deputy King for his calm response to all the racist garbage this KKK Enthusiast could throw at him," Volusia County Sheriff Mike Chitwood wrote on Twitter in response to the video. "Great job Deputy &amp; thank you to everyone condemning the hate in this video!"<p>Police have now charged Edwards with driving under the influence of alcohol, making a threat against a law enforcement officer, refusing to submit for testing and resisting an officer without violence, according to Volusia County Jail Corrections records.<p>  <!--vam-image:rnewsweek-b30bd91fbced5e2df5707982224c26f2-->    Volusia County Jail Corrections
+	</div>
+	<div class="sharing-bottom">
+		
+
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Taboola","data":{"enabled":true},"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Taboola\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Components\/News\/Read\/Zones\/ReadBottom\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNews-2fRead-2fZones-2fReadBottom-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fTaboola-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><div class="addthis horizontal" id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNews-2fRead-2fZones-2fReadBottom-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNews-2fRead-2fAddThis-2f">
+		<div class="add-this-item-wrapper">
+			<span class="addthis-share-link" rel="nofollow" data-addthis-service="/forward/facebook" data-service-url=""  alt="Facebook SHARING" aria-label="Facebook SHARING">
+				<span data-track data-track-args-track="addthis-facebook-click" class="ss-icon ss-facebook"></span>
+			</span>
+		</div>
+		<div class="add-this-item-wrapper">
+			<span class="addthis-share-link" rel="nofollow" data-addthis-service="/forward/twitter" data-service-url=""  alt="Twitter SHARING" aria-label="Twitter SHARING">
+				<span data-track data-track-args-track="addthis-twitter-click" class="ss-icon ss-twitter"></span>
+			</span>
+		</div>
+		<div class="add-this-item-wrapper">
+			<span class="addthis-share-link" rel="nofollow" data-addthis-service="/forward/email" data-service-url=""  alt="Email SHARING" aria-label="Email SHARING">
+				<span data-track data-track-args-track="addthis-mail-click" class="ss-icon ss-mail"></span>
+			</span>
+		</div>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.AddThis.Desktop","addthis_base_url":"http:\/\/api.addthis.com\/oexchange\/0.8{service}\/offer?ct=1&pubid=synacor&pco=tbxnj-1.0&url=","use_overlay":true,"sticky_share":null,"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/News\/Read\/AddThis\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Components\/News\/Read\/Zones\/ReadBottom\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNews-2fRead-2fZones-2fReadBottom-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNews-2fRead-2fAddThis-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><div class="adhesion">
+	<div class="adhesion_close">
+		<span class="ss-icon ss-delete"></span>
+	</div>
+	<div id='zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNews-2fRead-2fZones-2fReadBottom-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fUnit-2fNews-2fAdhesion-2fRead-2f' class=''>
+</div>
+</div>
+
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gen4_Gpt_Unit_Adhesion","fullname":"atf_news_read_adhesion","blocked":true,"background_present":true,"hide_on_scroll":false,"tag_configuration":{"ad_refresh":0,"targeting_refresh_slots_kv":{"ar":"1"},"collapse_div":3,"fullname":"atf_news_read_adhesion","name":"atf\/news\/read\/adhesion","siena_failure_display_value":"true","slot":[[1,1],[320,50]],"targets":"[\"config:postal_code\"]","out_of_page":"false","unit_targets":"[]","initial_page_load":"true","repeatable":"false","size_to_fit":"true","remove_on_resize":"false","slot_level_targeting":"true","allow_technorati":"true","priority":10,"require_visibility":"false","targeting_data":[],"fluid":"false"},"data":[],"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/Unit\/News\/Adhesion\/Read\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Components\/News\/Read\/Zones\/ReadBottom\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNews-2fRead-2fZones-2fReadBottom-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fUnit-2fNews-2fAdhesion-2fRead-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<div id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNews-2fRead-2fZones-2fReadBottom-2fChoice-2fDefault-2f459934810-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fTaboola-2fPlacement-2fNews-2fFooter-2f1-2fPhone-2f">
+	<div id="taboola_placement_taboola_phone_news_read_footer_1" ></div>
+	<script type="text/javascript">
+		window._taboola = window._taboola || [];
+		_taboola.push({
+			mode: 'alternating-thumbnails-g',
+			container: 'taboola_placement_taboola_phone_news_read_footer_1',
+			placement: 'Mobile Below Article Feed',
+			target_type: 'mix',
+			player: '',
+			category: '',
+			link_target: 'local'
+		});
+		 _taboola.push({flush:true}); 
+	</script>
+</div>
+
+
+
+			<img src="/images/track/track.gif?track=contentprovider&name=rnewsweek&series=&vendor=Newsweek&type=text&device=phone&headline=Florida Woman Racially Abuses Black Deputy on Camera" />
+	</div>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Read","player_type":null,"tracking_vars":[],"iframe_url":null,"asset_id":null,"__i18n":null,"iframes":[],"truncatedCaptionLength":700,"enableCaptionTruncation":false,"truncateSummary":true,"metadata":{"asset_id":"287547477","content":"text","device":"phone","external_ids":[{"provider":"rnewsweek","value":"www.newsweek.com\/node\/1329916","field":"guid"}],"genre_reductions":{"news":[]},"headline":"Florida Woman Racially Abuses Black Deputy on Camera","provider":"rnewsweek","provider_key":"rnewsweek","series":null,"vendor":"Newsweek","vendor_id":"271149085"},"videos":[],"enableRelatedArticles":false,"relatedArticlesParagraphInsert":null,"minParagraphsRelatedArticles":null,"dockVideoPlayerOnScroll":true,"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/News\/Read\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/News\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fNews-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fNews-2fRead-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><div id='zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fNews-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fUnit-2fNews-2fAtf-2fInArticle-2f' class=''>
+</div>
+
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_Unit","fullname":"atf_news_in_article","blocked":true,"tag_configuration":{"ad_refresh":0,"targeting_refresh_slots_kv":{"ar":"1"},"collapse_div":3,"fullname":"atf_news_in_article","name":"atf\/news\/in_article\/main_read","siena_failure_display_value":"true","slot":[[300,250]],"targets":"[\"config:postal_code\"]","out_of_page":"false","unit_targets":"{\"category\":\"main\",\"vammetadata\":true}","initial_page_load":"true","repeatable":"false","size_to_fit":"true","remove_on_resize":"false","slot_level_targeting":"true","allow_technorati":"true","priority":10,"require_visibility":"false","targeting_data":[],"fluid":"true"},"data":[],"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/Unit\/News\/Atf\/InArticle\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/News\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fNews-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fUnit-2fNews-2fAtf-2fInArticle-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+				</section>
+			</div>
+			<div class="row">
+				<footer class="l-page-footer">
+					<div id="gpt_component" style="display: none;">
+	
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_TargetingModule_TechnoratiSmartWrapper","debug":false,"enabled":true,"data":{"configuration":{"bidders":{"adworks":{"adjustment_max":"20.00","price_ranges":{"0.05":"10.00","0.01":"0.02"},"setEnabled":"yes","setRefresh":"no","setRevShare":"1.00","setTimeout":"1250","slot_ids":{"btf_photo":"13862869","atf_news_us_main":"13862857","atf_sports":"13862870","btf_weather_main":"13862875","btf_sports":"13862871","atf_news":"13862876","stream_5":"13862889","btf_news_politics_main":"13862858","read_masthead":"14002857","atf_video_main":"13862872","stream_4":"13862888","atf_entertainment":"13862861","atf_comics":"13862859","atf_photo":"13862868","atf_news_main_main":"13862876","atf_finance_myportfolio":"13862863","btf_comics_rightrail":"13862860","atf_news_in_article":"13862877","atf_news_politics_main":"13862857","btf_news_world_main":"13862858","atf_comics_rightrail":"13862859","adhesion":"13862856","btf_finance":"13862865","btf_video_main_btf":"13862873","atf_news_world_main":"13862857","home_itf":"13862853","btf_news":"13862878","stream_8":"13862892","stream_6":"13862890","btf_entertainment":"13862862","btf_comics":"13862860","atf_finance":"13862864","stream_1":"13862885","atf_lifestyle":"13862866","stream_7":"13862891","masthead":"13862855","home_btf":"13862852","home":"13862851","btf_news_main_main":"13862878","stream_2":"13862886","atf_weather_main":"13862874","btf_lifestyle":"13862867","btf_news_us_main":"13862858","stream_3":"13862887"}},"aol":{"adjustment_max":"","networkId":"","placement_ids":[],"price_ranges":[],"setEnabled":"no","setRefresh":"no","setRevShare":"","setTimeout":""},"appnexus":{"adjustment_max":"20.00","price_ranges":{"0.05":"10.00","0.01":"0.02"},"setEnabled":"yes","setRefresh":"no","setRevShare":"1.00","setTimeout":"1200","slot_ids":{"btf_lifestyle_autos_main":"13769835","atf_sports":"11321793","btf_weather_main":"11321810","atf_news":"11321791","btf_sports":"11321794","stream_5":"11976512","read_masthead":"13993399","atf_video_main":"11321807","stream_4":"11976499","atf_entertainment":"11321798","atf_comics":"13769926","atf_finance_myportfolio":"11321815","sidekick":"11321816","stream_9":"12096581","atf_news_in_article":"11321811","adhesion":"11321813","btf_video_main_btf":"11321808","btf_finance":"11321805","home_itf":"12260133","btf_news":"11321792","stream_8":"12096580","btf_entertainment":"11321800","stream_6":"12096577","atf_finance":"11321802","btf_comics":"13769928","atf_lifestyle":"13769873","stream_1":"11976485","stream_7":"12096579","masthead":"11731895","home_btf":"11321788","home":"11321787","stream_2":"11976486","atf_lifestyle_autos_main":"13769834","stream_10":"12096584","atf_weather_main":"11542276","btf_lifestyle":"13769874","stream_3":"11976495"}},"brealtime":{"adjustment_max":"","placement_ids":[],"price_ranges":[],"setRefresh":"no","setRevShare":"","setTimeout":""},"casale":{"adjustment_max":"20.00","price_ranges":{"0.05":"10.00","0.01":"0.02"},"setEnabled":"yes","setId":"198145","setRefresh":"no","setRevShare":"1.00","setTimeout":"1200","slot_ids":{"home_itf":"9876","btf_lifestyle_autos_main":"123030","btf_news":"54","atf_sports":"55","stream_8":"1017","btf_entertainment":"58","stream_6":"1015","btf_weather_main":"64","btf_sports":"56","atf_news":"53","btf_comics":"123026","atf_finance":"61","stream_5":"1014","atf_lifestyle":"123027","stream_1":"1010","stream_7":"1016","read_masthead":"314315","masthead":"31400","atf_video_main":"59","stream_4":"1013","home_btf":"52","atf_entertainment":"57","atf_comics":"123025","home":"51","atf_finance_myportfolio":"67","stream_2":"1011","atf_lifestyle_autos_main":"123029","atf_news_in_article":"65","atf_weather_main":"63","adhesion":"66","btf_finance":"62","btf_video_main_btf":"60","btf_lifestyle":"123028","stream_3":"1012"}},"criteo":{"adjustment_max":"50.00","price_ranges":{"0.05":"10.00","0.01":"0.02","0.50":"20.00"},"setEnabled":"yes","setRefresh":"no","setRevShare":"1.00","setTimeout":"1200","zone_ids":{"btf_lifestyle_autos_main":"123030","atf_sports":"815275","btf_weather_main":"815278","atf_news":"815275","btf_sports":"815278","stream_5":"1046708","read_masthead":"774128,1213439","atf_video_main":"815275","stream_4":"1046707","atf_entertainment":"815275","atf_comics":"123025","atf_finance_myportfolio":"815276","stream_9":"1046712","atf_news_in_article":"815275","adhesion":"815276","btf_video_main_btf":"815278","btf_finance":"815278","home_itf":"1114895","btf_news":"815278","stream_8":"1046711","stream_6":"1046709","btf_entertainment":"815278","atf_finance":"815275","btf_comics":"123026","stream_1":"1046704","atf_lifestyle":"123027","stream_7":"1046710","masthead":"774128,1213439","home_btf":"774130","home":"774126","stream_2":"1046705","atf_lifestyle_autos_main":"123029","stream_10":"1046713","atf_weather_main":"815275","btf_lifestyle":"123028","stream_3":"1046706"}},"facebook":{"adjustment_max":"20.00","price_ranges":{"0.05":"10.00","0.01":"0.02"},"setEnabled":"yes","setRefresh":"no","setRevShare":"1.00","setTimeout":"1200","slot_ids":{"home_itf":"137263936881618_279018099372867","btf_news":"137263936881618_279018592706151","stream_8":"137263936881618_222294521711892","stream_6":"137263936881618_222293665045311","btf_weather_main":"137263936881618_156544258286919","atf_news":"137263936881618_279018346039509","stream_5":"137263936881618_156476414960370","btf_comics":"137263936881618_253458355262175","stream_1":"137263936881618_156476168293728","read_masthead":"137263936881618_316148502326493","stream_7":"137263936881618_222294301711914","masthead":"137263936881618_316148738993136","atf_video_main":"137263936881618_279018936039450","stream_4":"137263936881618_156476374960374","atf_comics":"137263936881618_253458081928869","home":"137263936881618_279017482706262","stream_2":"137263936881618_156476241627054","atf_news_in_article":"137263936881618_156476788293666","atf_weather_main":"137263936881618_253461451928532","adhesion":"137263936881618_145735959367749","btf_video_main_btf":"137263936881618_279019232706087","stream_3":"137263936881618_156476344960377","atf_finance_my_portfolio":"137263936881618_156544138286931"},"whitelisted_sizes":"300x250,320x50"},"openx":{"setRefresh":"no"},"pubmatic":{"adjustment_max":"20.00","price_ranges":{"0.05":"10.00","0.01":"0.02"},"setEnabled":"yes","setId":"48110","setRefresh":"no","setRevShare":"1.00","setTimeout":"1200","slot_ids":{"btf_lifestyle_autos_main":"1528570_btf_lifestyle_autos_main@300x250","atf_sports":"1085110_att_desktop_atf_sports_300x250@300x250","btf_weather_main":"1085121_att_mobile_btf_weather_main_320x50@320x50","btf_sports":"1085111_att_desktop_btf_sports_300x250@300x250","atf_news":"1085106_att_desktop_atf_news_300x250@300x250","stream_5":"1170082_stream_5@320x50","read_masthead":"1455090_970x90_masthead@970x90,1334946_Home_Itf@728x90,1765526_atf_news_read_masthead@320x50","atf_video_main":"1085108_att_desktop_atf_video_main_300x250@300x250","stream_4":"1170081_stream_4@320x50","atf_entertainment":"1085114_att_desktop_atf_entertainment_300x250@300x250","atf_comics":"1528573_atf_comics@300x250","atf_finance_myportfolio":"1085122_att_mobile_atf_finance_myportfolio_320x50@320x50","sidekick":"1085123_att_mobile_sidekick_320x50@320x50","stream_9":"1170086_stream_9@320x50","atf_news_in_article":"1466729_att_mobile_atf_news_in_article_300x250@300x250","adhesion":"1085120_att_mobile_adhesion_320x50@320x50","btf_video_main_btf":"1085109_att_desktop_btf_video_main_btf_300x250@300x250","btf_finance":"1085113_att_desktop_btf_finance_300x250@300x250","home_itf":"870272_Home_Itf@300x250","btf_news":"1085107_att_desktop_btf_news_300x250@300x250","stream_8":"1170085_stream_8@320x50","btf_entertainment":"1085115_att_desktop_btf_entertainment_300x250@300x250","stream_6":"1170083_stream_6@320x50","atf_finance":"1085112_att_desktop_atf_finance_300x250@300x250","btf_comics":"1528574_btf_comics@300x250","atf_lifestyle":"1528571_atf_lifestyle@300x250","stream_1":"1170077_stream_1@320x50","stream_7":"1170084_stream_7@320x50","masthead":"1830899@320x50,1334946_Home_Itf@728x90,1349990_970x250_masthead@970x250,1455090_970x90_masthead@970x90","home_btf":"1085105_att_desktop_home_btf_300x250@300x250","home":"1085104_att_desktop_home_300x250@300x250","stream_2":"1170079_stream_2@320x50","atf_lifestyle_autos_main":"1528569_atf_lifestyle_autos_main@300x250","stream_10":"1170078_stream_10@320x50","atf_weather_main":"1085116_att_desktop_atf_weather_main_300x250@300x250","btf_lifestyle":"1528572_btf_lifestyle@300x250","stream_3":"1170080_stream_3@320x50"}},"realvu":{"setRefresh":"no"},"rubicon":{"setRefresh":"no"},"sekindo":{"setRefresh":"no"},"sonobi":{"setRefresh":"no"},"sovrn":{"setRefresh":"no"},"tm":{"adjustment_max":"20.00","price_ranges":{"0.05":"10.00","0.01":"0.02"},"setEnabled":"yes","setId":"attgen4","setRefresh":"no","setRevShare":"1.00","setTimeout":"1200","slot_ids":{"btf_lifestyle_autos_main":"81879","atf_sports":"81047","btf_weather_main":"81057","btf_sports":"81048","atf_news":"81045","stream_5":"81874","read_masthead":"82152","atf_video_main":"81051","stream_4":"81873","atf_entertainment":"81049","atf_comics":"81882","atf_news_in_article":"81053","adhesion":"81058","btf_video_main_btf":"81052","btf_finance":"81055","home_itf":"81044","btf_news":"81046","stream_8":"81876","btf_entertainment":"81050","stream_6":"81875","atf_finance":"81054","btf_comics":"81883","stream_1":"81870","atf_lifestyle":"81880","stream_7":"81878","masthead":"81869","home_btf":"81043","home":"81042","stream_2":"81871","atf_lifestyle_autos_main":"81877","atf_weather_main":"81056","btf_lifestyle":"81881","atf_finance_my_portfolio":"81059","stream_3":"81872"}},"whitelist":"appnexus,criteo,pubmatic,casale","yieldbot":{"setRefresh":"no"}},"code":"synacor","publisher_id":"81427","setPrebidTimeout":"1200","tag_id":"1109"}},"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/TechnoratiSmartWrapper\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fTechnoratiSmartWrapper-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_TargetingModule_AmazonDirectMatch","debug":false,"enabled":false,"data":{"publisher_id":3195,"slot_mappings":{"728x90":{"7.00":"a7x9p1","6.50":"a7x9p2","6.00":"a7x9p3","5.50":"a7x9p4","5.00":"a7x9p5","4.50":"a7x9p6","4.00":"a7x9p7","3.50":"a7x9p8","3.00":"a7x9p9","2.50":"a7x9p10","2.00":"a7x9p11","1.50":"a7x9p12","1.00":"a7x9p13","0.50":"a7x9p14"},"300x250":{"7.00":"a3x2p1","6.50":"a3x2p2","6.00":"a3x2p3","5.50":"a3x2p4","5.00":"a3x2p5","4.50":"a3x2p6","4.00":"a3x2p7","3.50":"a3x2p8","3.00":"a3x2p9","2.50":"a3x2p10","2.00":"a3x2p11","1.50":"a3x2p12","1.00":"a3x2p13","0.50":"a3x2p14"},"160x600":{"7.00":"a1x6p1","6.50":"a1x6p2","6.00":"a1x6p3","5.50":"a1x6p4","5.00":"a1x6p5","4.50":"a1x6p6","4.00":"a1x6p7","3.50":"a1x6p8","3.00":"a1x6p9","2.50":"a1x6p10","2.00":"a1x6p11","1.50":"a1x6p12","1.00":"a1x6p13","0.50":"a1x6p14"},"300x600":{"7.00":"a3x6p1","6.50":"a3x6p2","6.00":"a3x6p3","5.50":"a3x6p4","5.00":"a3x6p5","4.50":"a3x6p6","4.00":"a3x6p7","3.50":"a3x6p8","3.00":"a3x6p9","2.50":"a3x6p10","2.00":"a3x6p11","1.50":"a3x6p12","1.00":"a3x6p13","0.50":"a3x6p14"}}},"publisher_id":3195,"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/AmazonDirectMatch\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fAmazonDirectMatch-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_TargetingModule_AmazonA9","debug":false,"enabled":false,"data":{"publisher_id":"fa06da55-7aca-4111-be89-a65f83330498"},"publisher_id":"fa06da55-7aca-4111-be89-a65f83330498","timeout":1200,"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/AmazonA9\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fAmazonA9-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_TargetingModule_RubiconFastLane","debug":false,"enabled":false,"data":{"publisher_id":13344,"default_zone_id":382794,"zone_id_overrides":{"home":382792,"home_btf":382792,"home_itf":382792}},"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/RubiconFastLane\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fRubiconFastLane-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_TargetingModule_AolMarketplacePlugAndPlay","debug":false,"enabled":false,"data":[],"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/AolMarketplacePlugAndPlay\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fAolMarketplacePlugAndPlay-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_TargetingModule_CasaleIndex","debug":false,"enabled":false,"data":{"publisher_id":[157544]},"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/CasaleIndex\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fCasaleIndex-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_TargetingModule_Criteo","debug":false,"enabled":false,"data":{"publisher_id":2499,"iframe_url":"https:\/\/static.jade.synacor.com\/assets\/en_US\/components\/ad\/component\/gpt\/targetingmodule\/criteo\/html\/criteo_iframe.html","iframe_domain":"https:\/\/static.jade.synacor.com","callback_iframe_url":"https:\/\/start.att.net\/ad\/synbuster\/criteo.php","tier_data":[],"implementation_version":"v2","timeout":1000},"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Criteo\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fCriteo-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_TargetingModule_RealVuBoost","debug":false,"enabled":false,"data":{"publisher_id":"E1QQ"},"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/RealVuBoost\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fRealVuBoost-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_TargetingModule_OpenXBidder","debug":false,"enabled":false,"data":{"publisher_id":0,"script_uri":null},"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/OpenXBidder\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fOpenXBidder-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_TargetingModule_PubmaticBidder","debug":false,"enabled":false,"data":{"publisher_id":9999,"script_uri":"https:\/\/ads.pubmatic.com\/AdServer\/js\/gshowad.js"},"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/PubmaticBidder\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fPubmaticBidder-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_TargetingModule_Lotame","debug":false,"enabled":false,"data":{"publisher_id":"12058"},"publisher_id":"12058","uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Lotame\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fLotame-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_AdblockDetection","blocked":true,"options":{"use_script_detection":true,"use_missing_gpt_ads_detection":true,"use_missing_csa_detection":true,"monitoring_timeout":10000},"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/AdblockDetection\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fAdblockDetection-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gen4_Gpt_TargetingModule_VamMetadata","debug":false,"enabled":false,"data":[],"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/VamMetadata\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fVamMetadata-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_TargetingModule_AdVelvet","debug":false,"enabled":false,"data":[],"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/AdVelvet\/","parent_uri":"zone:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/TargetingModule\/Zone\/ActiveModules\/","event_id":"zone-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fZone-2fActiveModules-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fTargetingModule-2fAdVelvet-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt","network_id":"5284","client_name":"syn.att","postal_code":"23462","siena_host":"siena1.syn-api.com","siena_version":"v1","site_id":"att-gen4","portal_version":"gen4","environment":"production","enabled":true,"javascript_event_mappings":{"app.on.close":"refreshAll","app.minimize":"refreshAll","app.on.launch":"clearAll"},"data":{"targeting_modules":["Syn.Ad_Component_Gpt_TargetingModule_TechnoratiSmartWrapper","Syn.Ad_Component_Gpt_TargetingModule_AmazonDirectMatch","Syn.Ad_Component_Gpt_TargetingModule_AmazonA9","Syn.Ad_Component_Gpt_TargetingModule_RubiconFastLane","Syn.Ad_Component_Gpt_TargetingModule_AolMarketplacePlugAndPlay","Syn.Ad_Component_Gpt_TargetingModule_Criteo","Syn.Ad_Component_Gpt_TargetingModule_RealVuBoost","Syn.Ad_Component_Gpt_TargetingModule_OpenXBidder","Syn.Ad_Component_Gpt_TargetingModule_CasaleIndex","Syn.Ad_Component_Gpt_TargetingModule_PubmaticBidder","Syn.Ad_Component_Gpt_TargetingModule_Lotame","Syn.Ad_Component_Gpt_TargetingModule_AdVelvet","Syn.Ad_Component_Gen4_Gpt_TargetingModule_VamMetadata"],"trap_geolocation":true,"block_geolocation":true,"targeting_timeout":2500},"debug":false,"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Footer\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gen4_Targeting_Att_Tdata","data":{"base_url":"https:\/\/tdata-offers.att.net\/restservices\/customerrecommendation\/v1\/recommend\/ATTNET\/","user_id":null,"user_ip":"71.120.245.170","zip_code":"23462"},"enabled":true,"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Targeting\/Att\/Tdata\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Footer\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fTargeting-2fAtt-2fTdata-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Targeting_BlueKai","data":{"uuid":"ae03e1deb90d8f34b21ae5bd84deda5c0f537cc3"},"javascript_data_extraction_modules":["Ad_DataExtractor_Page","Ad_DataExtractor_Region"],"javascript_mappings":{"location":"__bk_l","referrer":"__bk_pr","title":"__bk_t","uuid":"puserid"},"partner_config":[],"iframe_host":"https:\/\/static.jade.synacor.com","iframe_url":"https:\/\/static.jade.synacor.com\/assets\/en_US\/components\/ad\/component\/targeting\/html\/iframe.html?callback_host=https%3A%2F%2Fstart.att.net%2Fnews%2Fread%2Farticle%2Fnewsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek%2Fcategory%2Fnews%2B","isDebugMode":false,"enabled":false,"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Targeting\/BlueKai\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Footer\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fTargeting-2fBlueKai-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">
+	var debugEnabled = false;
+	try {
+ 		if ( localStorage.debug === "*" || /flurry/.test( localStorage.debug )){
+			debugEnabled = true;
+		}
+	} catch ( error ){
+		// Silently ignore error since logging isn't that crucial
+	}
+	<!-- Yahoo! Flurry unit -->
+	var w_yahoo = (top == self) ? window : window.top, d_yahoo = w_yahoo.document;
+	w_yahoo.adUnitCode = w_yahoo.adUnitCode || [];
+	w_yahoo.adUnitCode.push("b842ae15-672e-4aeb-9e7d-f77e674efcee");
+	w_yahoo.apiKey = "MCMMDK2FFQ2CF8FNMPZV";
+	if ( debugEnabled ){
+		console.log( "Flurry - Configuration loaded >> adUnitCode: " + w_yahoo.adUnitCode + " apiKey: " + w_yahoo.apiKey, w_yahoo );
+	}
+	(function () {
+		var script = d_yahoo.createElement("script");
+		script.async = true;
+		script.innerHTML = "<!-- Yahoo! Flurry ad placement code -->";
+		script.src = "https://s.yimg.com/av/yap/ga/yap.js";
+		d_yahoo.body.appendChild(script);
+		if ( debugEnabled ){
+			console.log( "Flurry - Script appended:", script );
+		}
+	})();
+</script>
+
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.ATT.eDM","hostname":"web09.jade.dal.sync.lan","domain":"","section_suffix":"","user_ip":"71.120.245.170","user_email":null,"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Edm\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Footer\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fEdm-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><div id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2f-7ccomponent-3a-2f-2fSynacor-2fPortal-2fComponents-2fTracking-2fPageLoad-2f"></div>
+<div id='zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2fChoice-2fDefault-2f1997328035-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fUnit-2fOop-2fRead-2f' class=''>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Ad_Component_Gpt_Unit","fullname":"read_oop","blocked":true,"tag_configuration":{"ad_refresh":0,"targeting_refresh_slots_kv":{"ar":"1"},"collapse_div":3,"fullname":"read_oop","name":"read_oop","siena_failure_display_value":"true","slot":[[1,1]],"targets":"[\"config:postal_code\"]","out_of_page":"false","unit_targets":"[]","initial_page_load":"true","repeatable":"false","size_to_fit":"true","remove_on_resize":"false","slot_level_targeting":"true","allow_technorati":"true","priority":10,"require_visibility":"false","targeting_data":[],"fluid":"false"},"data":[],"uri":"component:\/\/Synacor\/Ad\/Component\/Gen4\/Gpt\/Unit\/Oop\/Read\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Footer\/Choice\/Default\/1997328035\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2fChoice-2fDefault-2f1997328035-2f-7ccomponent-3a-2f-2fSynacor-2fAd-2fComponent-2fGen4-2fGpt-2fUnit-2fOop-2fRead-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Synaff","uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Synaff\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Footer\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fSynaff-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Service","data":[],"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Service\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Footer\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fService-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.ATT.DTM","script":"https:\/\/www.att.com\/scripts\/adobe\/prod\/detm-container-ftr.js","uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Adobe\/DTM\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Footer\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fAdobe-2fDTM-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.ATT.tGuard","uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/AttTguard\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Footer\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fAttTguard-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Dynatrace","script_params":{"src":"\/\/js-cdn.dynatrace.com\/jstag\/16294a69b33\/ruxitagent_ICA27SVfqrx_10141180419161112.js","data-dtconfig":"app=DA530F68816E43CC|cors=1|bp2=1|featureHash=ICA27SVfqrx|lastModification=1526913388939|dtVersion=10141180419161112|reportUrl=https:\/\/bf30837wqf.bf.dynatrace.com\/bf|tp=500,50,0,1","crossorigin":"anonymous","type":"text\/javascript"},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Dynatrace\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Footer\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fDynatrace-2f"});}</script><script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.ATT.Chartbeat","uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Chartbeat\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Footer\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fFooter-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fChartbeat-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+				</footer>
+			</div>
+		</div>
+		<div id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fModal-2fPhone-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fModal-2fPhone-2f" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-wrap">
+			<div class="modal-header modal__transparent-header">
+				<button type="button" class="close" data-dismiss="modal">
+					<span aria-hidden="true" class="ss-icon ss-delete"></span>
+					<span class="sr-only">Close</span>
+				</button>
+				<h4 class="modal-title"></h4>
+			</div>
+			<div class="modal-content ">
+				
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Modal","page_load":false,"frequency":0,"backdrop":"static","destroy_on_close":true,"tracking_module":null,"trigger":null,"scope_data":{"landing":null,"hashtag":"For You"},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Modal\/Phone\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Modal\/Phone\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fModal-2fPhone-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fModal-2fPhone-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><div id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fModal-2fPhone-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fModal-2fWeather-2f" class="modal fade">
+	<div class="modal-dialog modal__weather">
+		<div class="modal-wrap">
+			<div class="modal-header modal__transparent-header">
+				<button type="button" class="close" data-dismiss="modal">
+					<span aria-hidden="true" class="ss-icon ss-delete"></span>
+					<span class="sr-only">Close</span>
+				</button>
+				<h4 class="modal-title">AccuWeather</h4>
+			</div>
+			<div class="modal-content no-padding">
+				
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Modal","page_load":false,"frequency":0,"backdrop":true,"destroy_on_close":true,"tracking_module":null,"trigger":"displayModal.weather","scope_data":{"landing":null,"hashtag":"For You"},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Modal\/Weather\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Modal\/Phone\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fModal-2fPhone-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fModal-2fWeather-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script><div class="full-screen-modal" id="zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fModal-2fPhone-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fCube-2fModal-2fVideoPlayer-2f">
+	<div class="cube-modal-body"></div>
+	<div class="close ss-icon ss-delete"></div>
+</div>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.CubeModal","props":{"article":"newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek","category":"news+","root_url":"\/news","startContentServiceOrigin":"https:\/\/scs.syn-api.com","tvDataServiceOrigin":"https:\/\/tvdata.syn-api.com"},"name":"videoplayer","script":"https:\/\/d211ld0rq8ynx5.cloudfront.net\/tesseract.js","scope_data":{"article":"newsweek-florida_woman_racially_abuses_black_deputy_on_came-rnewsweek","category":"news+","root_url":"\/news"},"uri":"component:\/\/Synacor\/Gen4\/Configuration\/Components\/Cube\/Modal\/VideoPlayer\/","parent_uri":"zone:\/\/Synacor\/Gen4\/Configuration\/Pages\/Zones\/Modal\/Phone\/","event_id":"zone-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fZones-2fModal-2fPhone-2f-7ccomponent-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fComponents-2fCube-2fModal-2fVideoPlayer-2f","target_action":null,"delayed_load":false,"use_appserv":false});}</script>
+	</body>
+</html>
+<script type="text/javascript">if(Syn&&Syn.ComponentMgr){Syn.ComponentMgr.instantiate({"class_name":"Syn.Page","uri":"page:\/\/Synacor\/Gen4\/Configuration\/Pages\/News\/","parent_uri":"section:\/\/Synacor\/Gen4\/Configuration\/Pages\/","event_id":"section-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2f-7cpage-3a-2f-2fSynacor-2fGen4-2fConfiguration-2fPages-2fNews-2f"});}</script>
+<!-- SERVER: (no cutename) web09.jade.dal.sync.lan (Phone, Unknown, Unknown, Unknown, Unknown, Unknown) -->

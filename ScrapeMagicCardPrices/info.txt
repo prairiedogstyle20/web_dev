@@ -1,0 +1,37 @@
+CS 432/532 Web Science
+Spring 2019
+http://anwala.github.io/lectures/cs532-s19/
+
+Assignment #8
+Due: 11:59pm April 14
+
+Support your answer: include all relevant discussion, assumptions,
+examples, etc.(10 points)
+
+(Spam classification using Naive Bayes classifier)
+1. Create two datasets; the first called Testing, the second called Training. 
+	
+	The Training dataset should:
+		a. consist of 10 text documents for email messages you consider spam (from your spam folder)
+		b. consist of 10 text documents for email messages you consider not spam (from your inbox)
+
+	The Testing dataset should:
+		a. consist of 10 text documents for email messages you consider spam (from your spam folder)
+		b. consist of 10 text documents for email messages you consider not spam (from your inbox)
+
+	Upload your datasets on github
+	Please do not include emails that contain sensitive information
+
+2. Using the PCI book modified docclass.py code and test.py (see Slack assignment-8 channel)
+Use your Training dataset to train the Naive Bayes classifier ( e.g., docclass.spamTrain() )
+Use your Testing dataset to test (test.py) the Naive Bayes classifier and report the classification results.
+
+===================================================================
+========Each question below is for 3 points extra credit===========
+===================================================================
+
+3. Draw a confusion matrix for your classification results
+(see: https://en.wikipedia.org/wiki/Confusion_matrix)
+
+4. Report the precision and accuracy scores of your classification results
+(see: https://en.wikipedia.org/wiki/Precision_and_recall)

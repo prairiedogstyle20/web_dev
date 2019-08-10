@@ -1,0 +1,88 @@
+<html>
+<head>
+<title>Random Trump</title>
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Random Trump" />
+<meta name="keywords" content="random trump, donald trump, trump" />
+<meta property="og:title" content="Random Trump" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Random Trump" />
+<meta property="og:url" content="https://randomtrump.com" />
+<meta property="og:image" content="https://randomtrump.com/images/trump.gif" />
+<meta property="og:site_name" content="randomtrump.com" />
+
+<style>
+
+    body {
+        background-color: #000;
+        width: 100%;
+        height: 100%;
+        cursor: pointer;
+        color:white;
+        overflow:hidden;
+    }
+#gif-frame {
+   position:fixed;
+   top:0px;
+   left:0px;
+   bottom:0px;
+   right:0px;
+   width:100%;
+   height:100%;
+   border:none;
+   margin:0;
+   padding:0;
+   overflow:hidden;
+}
+
+#social {
+   position:absolute;
+   bottom:5px;
+   left:5px;
+}
+
+#main-frame {
+    color:#000000;
+    background-color: #000;
+    min-height:100%;
+}
+</style>
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+
+<meta http-equiv="refresh" content="10;url=//randomtrump.com" /><div id='main-frame'><img onclick="location.href='//randomtrump.com';" id='gif-frame' src='//media.giphy.com/media/26xBMgX4QRreXTAoE/giphy.gif' /></div>
+<div id="social">
+<!--<!-- AddToAny BEGIN -->
+    <div class="a2a_kit a2a_kit_size_32 a2a_default_style a2a_follow">
+        <a class="a2a_button_twitter" data-a2a-follow="randomtrump1" title="Follow Random Trump on Twitter"></a>
+    </div>
+<!--<div class="a2a_kit a2a_kit_size_32 a2a_default_style">-->
+<!--<a class="a2a_button_facebook"></a>-->
+<!--<a class="a2a_button_twitter"></a>-->
+<!--<a class="a2a_button_reddit"></a>-->
+<!--</div>-->
+<script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
+</div>
+
+<!-- Default Statcounter code for Randomtrump.com
+https://randomtrump.com -->
+<script type="text/javascript">
+    var sc_project=11721306;
+    var sc_invisible=1;
+    var sc_security="dfc5e394";
+</script>
+<script type="text/javascript"
+        src="https://www.statcounter.com/counter/counter.js"
+        async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+                                      href="http://statcounter.com/" target="_blank"><img
+                    class="statcounter"
+                    src="//c.statcounter.com/11721306/0/dfc5e394/1/" alt="Web
+Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
+</body>
+</html>

@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie7" lang="en-US" prefix="og: http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 7]>
+<html class="no-js ie7" lang="en-US" prefix="og: http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="no-js ie8" lang="en-US" prefix="og: http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<![endif]-->
+<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/css/ie8-and-down.css" />
+	<link type="text/css" rel="stylesheet" href="https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/css/font-face.css" />
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<!--<![endif]-->
+
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel='apple-touch-icon' sizes='57x57' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/apple-touch-icon-57x57.png'>
+<link rel='apple-touch-icon' sizes='60x60' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/apple-touch-icon-60x60.png'>
+<link rel='apple-touch-icon' sizes='72x72' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/apple-touch-icon-72x72.png'>
+<link rel='apple-touch-icon' sizes='76x76' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/apple-touch-icon-76x76.png'>
+<link rel='apple-touch-icon' sizes='114x114' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/apple-touch-icon-114x114.png'>
+<link rel='apple-touch-icon' sizes='120x120' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/apple-touch-icon-120x120.png'>
+<link rel='apple-touch-icon' sizes='144x144' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/apple-touch-icon-144x144.png'>
+<link rel='apple-touch-icon' sizes='152x152' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/apple-touch-icon-152x152.png'>
+<link rel='apple-touch-icon' sizes='180x180' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/apple-touch-icon-180x180.png'>
+<link rel='icon' type='image/png' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/favicon-32x32.png' sizes='32x32'>
+<link rel='icon' type='image/png' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/android-chrome-192x192.png' sizes='192x192'>
+<link rel='icon' type='image/png' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/favicon-96x96.png' sizes='96x96'>
+<link rel='icon' type='image/png' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/favicon-16x16.png' sizes='16x16'>
+<link rel='manifest' href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/favicons/manifest.json'>
+<meta name='msapplication-TileImage' content='https://spectator.us/wp-content/themes/spectator-new/assets/favicons/mstile-144x144.png'>
+
+		
+		<meta name="msapplication-TileColor" content="#2b5797">
+		<meta name="theme-color" content="#d2091e">
+		<title>The dogphobia of Donald Trump | Spectator USA</title>
+			<script type="text/javascript">(function() {
+					var h       = document.getElementsByTagName( 'html' )[ 0 ], c = h.className;
+					c           = c.replace( /no-js/, 'js' );
+					h.className = c;
+				})();</script>
+            <!-- Google DFP Tag for The Spectator USA -->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+ // GPT slots
+ var gptAdSlots = [];
+ googletag.cmd.push(function() {
+	 
+   // Detect screen size for inSkin	 
+	var fn_pageskin = "false"; if (screen.width >= 1470) { fn_pageskin = "true"; } googletag.pubads().setTargeting("inskin_yes",fn_pageskin);
+
+   // Define a size mapping object. The first parameter to addSize is
+   // a viewport size, while the second is a list of allowed ad sizes.
+
+   var mappingLB = googletag.sizeMapping().
+   // Mobile
+   addSize([320, 0], [[320, 50], [300, 50]]). 
+   // Tablet 
+   addSize([768, 0], [728, 90]). 
+   // Desktop
+   addSize([1024, 0], [[1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90]]).build();
+
+   var mappingMPU = googletag.sizeMapping().
+   // Mobile
+   addSize([320, 0], [300, 250]). 
+   // Tablet 
+   addSize([768, 0], [[300, 600], [300, 500], [300, 250]]). 
+   // Desktop
+   addSize([1024, 0], [[300, 600], [300, 500], [300, 250]]).build();
+
+   var mappingMidarticleBannerMPU = googletag.sizeMapping().
+   // Mobile
+   addSize([320, 0], [300, 250]). 
+   // Tablet 
+   addSize([768, 0], [300, 250]). 
+   // Desktop
+   addSize([1024, 0], [560, 200]).build();
+
+   var mappingInlineVIDEO = googletag.sizeMapping().
+   // Mobile
+   addSize([320, 0], [2, 2]). 
+   // Tablet 
+   addSize([768, 0], [2, 2]). 
+   // Desktop
+   addSize([1024, 0], [2, 2]).build();
+
+   var mappingSkin = googletag.sizeMapping().
+   // Mobile
+   addSize([320, 0], []). 
+   // Tablet 
+   addSize([768, 0], []). 
+   // Desktop
+   addSize([1024, 0], [1, 1]).build();
+
+   var mappingSticky = googletag.sizeMapping().
+   // Mobile
+   addSize([320, 0], []). 
+   // Tablet 
+   addSize([768, 0], []). 
+   // Desktop
+   addSize([1024, 0], [3, 3]).build();
+
+
+   // Define the Leaderboard ad slots
+   gptAdSlots[0] = googletag.defineSlot('/21624813019/SpecUSAMagazine//Top_BB', [[1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-USA-Mag-LB1').
+       defineSizeMapping(mappingLB).
+       addService(googletag.pubads());
+   googletag.pubads();
+
+   gptAdSlots[1] = googletag.defineSlot('/21624813019/SpecUSAMagazine//Bottom_BB', [[1140, 250], [1140, 90], [970, 250], [940, 250], [728, 90], [320, 50], [300, 50]], 'div-gpt-ad-USA-Mag-LB2').
+       defineSizeMapping(mappingLB).
+       addService(googletag.pubads());
+   googletag.pubads();
+
+
+   // Define the MPU ad slots
+   gptAdSlots[2] = googletag.defineSlot('/21624813019/SpecUSAMagazine//MPU_1', [[300, 500], [300, 250], [300, 600]], 'div-gpt-ad-USA-Mag-MPU1').
+       defineSizeMapping(mappingMPU).
+       addService(googletag.pubads());
+   googletag.pubads();
+
+   gptAdSlots[3] = googletag.defineSlot('/21624813019/SpecUSAMagazine//MPU_2', [[300, 500], [300, 250], [300, 600]], 'div-gpt-ad-USA-Mag-MPU2').
+       defineSizeMapping(mappingMPU).
+       addService(googletag.pubads());
+   googletag.pubads();
+
+
+   // Define the Inline Video ad slots
+   gptAdSlots[5] = googletag.defineSlot('/21624813019/SpecUSAMagazine//Inline_Video', [2, 2], 'div-gpt-ad-USA-Mag-InlineVideo').
+       defineSizeMapping(mappingInlineVIDEO).
+       addService(googletag.pubads());
+   googletag.pubads();
+
+
+   // Define the Skin ad slots
+   gptAdSlots[6] = googletag.defineSlot('/21624813019/SpecUSAMagazine//Skin', [1, 1], 'div-gpt-ad-USA-Mag-Skin').
+       defineSizeMapping(mappingSkin).
+       addService(googletag.pubads());
+   googletag.pubads();
+
+
+   // Define the Sticky Banner ad slots
+   gptAdSlots[7] = googletag.defineSlot('/21624813019/SpecUSAMagazine//Sticky_Banner', [3, 3], 'div-gpt-ad-USA-Mag-StickyBan').
+       defineSizeMapping(mappingSticky).
+       addService(googletag.pubads());
+   googletag.pubads();
+
+
+	// Start ad fetching
+    googletag.pubads().enableLazyLoad();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- END Google DFP Tag for The Spectator USA -->
+<!-- This site is optimized with the Yoast SEO plugin v8.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Does Trump suffer from dogphobia? The president has a strange canine preoccupation. He has used the word ‘dog’ over 40 times on Twitter"/>
+<link rel="canonical" href="https://spectator.us/dog-donald-trump-dogphobia/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The dogphobia of Donald Trump | Spectator USA" />
+<meta property="og:description" content="Does Trump suffer from dogphobia? The president has a strange canine preoccupation. He has used the word ‘dog’ over 40 times on Twitter" />
+<meta property="og:url" content="https://spectator.us/dog-donald-trump-dogphobia/" />
+<meta property="og:site_name" content="Spectator USA" />
+<meta property="article:publisher" content="http://www.facebook.com/officialspectator" />
+<meta property="article:tag" content="Dogs" />
+<meta property="article:tag" content="Donald Trump" />
+<meta property="article:tag" content="Pets" />
+<meta property="article:section" content="Cockburn" />
+<meta property="article:published_time" content="2019-02-12T14:34:53-05:00" />
+<meta property="article:modified_time" content="2019-02-12T17:23:28-05:00" />
+<meta property="og:updated_time" content="2019-02-12T17:23:28-05:00" />
+<meta property="og:image" content="https://spectator.us/wp-content/uploads/2019/02/GettyImages-1098028308-copy.jpg?auto=compress,enhance,format&#038;crop=faces,entropy,edges&#038;fit=crop&#038;w=1024&#038;h=683" />
+<meta property="og:image:secure_url" content="https://spectator.us/wp-content/uploads/2019/02/GettyImages-1098028308-copy.jpg?auto=compress,enhance,format&#038;crop=faces,entropy,edges&#038;fit=crop&#038;w=1024&#038;h=683" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="683" />
+<meta property="og:image:alt" content="dognald trump dogphobia dog" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Does Trump suffer from dogphobia? The president has a strange canine preoccupation. He has used the word ‘dog’ over 40 times on Twitter" />
+<meta name="twitter:title" content="The dogphobia of Donald Trump | Spectator USA" />
+<meta name="twitter:site" content="@spectator" />
+<meta name="twitter:image" content="https://spectator.us/wp-content/uploads/2019/02/GettyImages-1098028308-copy.jpg?auto=compress,enhance,format&#038;crop=faces,entropy,edges&#038;fit=crop&#038;w=1024&#038;h=683" />
+<meta name="twitter:creator" content="@spectator" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/spectator.us\/","sameAs":["http:\/\/www.facebook.com\/officialspectator","https:\/\/www.youtube.com\/channel\/UCJMC-44oT9l97ra5iemDPiA","https:\/\/twitter.com\/spectator"],"@id":"https:\/\/spectator.us\/#organization","name":"The Spectator USA","logo":""}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//a.optmnstr.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Spectator USA &raquo; Feed" href="https://spectator.us/feed/" />
+
+			<!-- Google Tag Manager -->
+			                <script>
+                    if ( typeof dataLayer === "undefined" ) {
+                        dataLayer = [ {"category":"cockburn-politics","author":"cockburn","tags":["dogs","donald-trump","pets"]} ];
+                    }
+                    else {
+                        dataLayer.push ( {"category":"cockburn-politics","author":"cockburn","tags":["dogs","donald-trump","pets"]} );
+                    }
+                </script>
+			
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TNM4FQC');</script>
+			<!-- End Google Tag Manager -->
+					<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/spectator.us\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='feedzy-rss-feeds-css'  href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/plugins/feedzy-rss-feeds/css/feedzy-rss-feeds.css?ver=3.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='follow-us-widget-css'  href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/plugins/follow-us-widgets/assets/css/widget.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/css/font-face.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='site-css'  href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/dist/site.min.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='addition-css'  href='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/dist/addition.min.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/js/slick/slick.js'></script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/js/vendor/jquery.cycle2.min.js'></script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/js/modernizr/modernizr-objectfit.js'></script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/js/main.js'></script>
+<script type='text/javascript' data-cfasync="false" id="omapi-script" async="async" src='https://a.optmnstr.com/app/js/api.min.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://spectator.us/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://spectator.us/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://spectator.us/?p=10406694' />
+<link rel="alternate" type="application/json+oembed" href="https://spectator.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspectator.us%2Fdog-donald-trump-dogphobia%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://spectator.us/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspectator.us%2Fdog-donald-trump-dogphobia%2F&#038;format=xml" />
+		<style>
+		.getty.aligncenter {
+			text-align: center;
+		}
+		.getty.alignleft {
+			float: none;
+			margin-right: 0;
+		}
+		.getty.alignleft > div {
+			float: left;
+			margin-right: 5px;
+		}
+		.getty.alignright {
+			float: none;
+			margin-left: 0;
+		}
+		.getty.alignright > div {
+			float: right;
+			margin-left: 5px;
+		}
+		</style>
+		<!--[if (gte IE 6)&(lte IE 8)]><script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-parent/js/nwmatcher.js?ver=1.3.4'></script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-parent/js/selectivizr.js?ver=1.0.3b'></script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-parent/js/respond.src.js?ver=1.4.2'></script>
+<![endif]--><link rel="amphtml" href="https://spectator.us/dog-donald-trump-dogphobia/amp/" />
+		<!-- Facebook Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','//connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '1654356914818419');
+			fbq('track', "PageView");
+		</script>
+		<noscript>
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1654356914818419&ev=PageView&noscript=1"/>
+		</noscript>
+		<!-- End Facebook Pixel Code -->
+		<!--Pingdom Script-->
+			<script>
+				var _prum = [['id', '56ba1e09abe53d810990b994'],['mark', 'firstbyte', (new Date()).getTime()]];
+				(function() {
+					var s = document.getElementsByTagName('script')[0]
+					  , p = document.createElement('script');
+					p.async = 'async';
+					p.src = '//rum-static.pingdom.net/prum.min.js';
+					s.parentNode.insertBefore(p, s);
+				})();
+			</script>
+			<!--End Pingdom Script-->
+	</head>
+
+	<body class="post-template-default single single-post postid-10406694 single-format-standard section-home elementor-default">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNM4FQC"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+                <a class="aria-offscreen" href="#content-area-wrap">Skip to Content</a>
+        
+        <div id="app">
+
+		
+			<div class="top-banner">
+				<div class="widget widget_advert">				<div class="widget_advert_content" style="min-height: auto; width: 100%;"><!-- /21624813019/SpecUSAMagazine//Top_BB -->
+<div id='div-gpt-ad-USA-Mag-LB1'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-USA-Mag-LB1'); });
+</script>
+</div></div>
+			</div>	</div>
+
+<!--<div class="desktop-bar clearfix">-->
+<!--	<div class="container">-->
+<!--		<div class="bar-nav">-->
+<!--			--><!--            -->
+<!--			<ul class="bar-menu menu menu-bar">-->
+<!--				<li class="menu-item topbar-spec --><!--"><a href="http://www.spectator.co.uk/"><span class="menu-item-title">The Spectator</span></a></li>-->
+<!--				<li class="menu-item topbar-culture --><!--"><a href="http://www.spectator.co.uk/books-arts"><span class="menu-item-title">Culture House</span></a></li>-->
+<!--				<li class="menu-item topbar-events --><!--"><a href="http://events.spectator.co.uk/"><span class="menu-item-title">Events</span></a></li>-->
+<!--				<li class="menu-item topbar-health --><!--"><a href="http://health.spectator.co.uk/"><span class="menu-item-title">Health</span></a></li>-->
+<!--				<li class="menu-item topbar-life --><!--"><a href="http://life.spectator.co.uk/"><span class="menu-item-title">Life</span></a></li>-->
+<!--				<li class="menu-item topbar-money --><!--"><a href="http://www.spectator.co.uk/category/spectator-money"><span class="menu-item-title">Money</span></a></li>-->
+<!--				<li class="menu-item topbar-shop --><!--"><a href="https://shop.spectator.co.uk/"><span class="menu-item-title">Shop</span></a></li>-->
+<!--				<li class="menu-item topbar-wine --><!--"><a href="http://www.spectator.co.uk/wine-club"><span class="menu-item-title">Wine Club</span></a></li>-->
+<!--			</ul>-->
+<!---->
+<!--			<a href="#" class="desktop-search-trigger"></a>-->
+<!--			<div class="desktop-search-form">-->
+<!--				--><!--			</div>-->
+<!---->
+<!--			-->
+<!--		</div> <!-- End nav bar -->
+<!--</div>--> <!-- End of top bar (desktop) -->
+
+		<div class="site-header">
+
+		<div class="masthead">
+
+	<div class="masthead__container">
+
+        <div class="masthead__logo" id="scroll-to">
+            <a href="https://spectator.us" class="masthead__logo-link">
+                <svg class="masthead__logo-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 565 80"><defs><path id="a" d="M0 .065h38.743v61.858H0z"/><path id="c" d="M.058.067h51.166v58.659H.058z"/></defs><g fill="none" fill-rule="evenodd"><g transform="translate(0 .225)"><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><path d="M2.719 38.341c3.568 15.892 6.797 21.702 15.039 21.702 7.73 0 13.849-5.126 13.849-12.474C31.607 30.652 0 37.23 0 16.982 0 6.9 7.817.065 19.372.065c6.372 0 11.64 1.453 15.973 3.417v17.089h-1.87l-3.059-9.912c-2.123-6.75-6.286-8.714-11.809-8.714-7.477 0-12.83 5.041-12.83 11.277 0 6.409 4.504 8.117 15.973 12.475 12.575 4.784 16.993 8.031 16.993 17.429 0 10.766-9.006 18.797-22.09 18.797-4.928 0-12.065-2.222-15.804-4.784V38.34h1.87z" fill="#D31F2E" mask="url(#b)"/></g><path d="M51.996 30.193h7.986c9.175 0 13.254-2.82 13.254-13.072 0-8.031-3.654-13.585-12.49-13.585h-8.75v26.657zM37.722 60.78V58.9h5.097V3.537h-5.097v-1.88h24.384c13.51 0 20.815 6.494 20.815 15.465s-6.796 14.951-20.73 14.951H51.996v26.829h7.816v1.879h-22.09z" fill="#D31F2E"/><path d="M81.305 60.78V58.9h5.097V3.537h-5.097v-1.88h43.16v18.969h-1.869c-4.587-15.978-5.947-17.09-10.195-17.09H95.578v25.633h6.627c4.248 0 6.287-2.648 7.987-11.79h1.87v25.46h-1.87c-1.7-9.142-3.739-11.79-7.987-11.79h-6.627V58.9h14.954c6.032 0 7.817-2.307 12.83-19.993h1.869V60.78H81.305zM166.18 20.624h-1.87C159.042 4.22 157.428 2.17 150.8 2.17c-8.835 0-14.528 6.835-14.528 29.05 0 22.214 4.927 29.048 15.293 29.048 7.137 0 9.43-5.126 13.255-21.017h1.869v19.309c-4.759 2.478-10.026 3.589-15.124 3.589-14.443 0-25.828-11.962-25.828-30.93 0-18.967 11.385-30.929 25.828-30.929 5.693 0 10.45 1.282 14.614 3.247v17.088zM178.157 58.9h6.372V3.537h-5.523c-3.823 0-4.757.855-8.24 16.917h-1.87V1.657h40.443v18.796h-1.87c-3.484-16.062-4.418-16.917-8.241-16.917h-5.523V58.9h6.372v1.879h-21.92V58.9z" fill="#D31F2E"/><path d="M213.245 35.148h16.737l-8.157-25.203-8.58 25.203zM197.95 60.78V58.9h4.928L222.591.975h5.437L246.72 58.9h3.399v1.879h-18.863V58.9h6.288l-6.967-21.871H212.65L205.258 58.9h8.156v1.879h-15.463zM252.92 58.9h6.372V3.537h-5.523c-3.823 0-4.758.855-8.24 16.917h-1.872V1.657h40.444v18.796h-1.87c-3.483-16.062-4.418-16.917-8.241-16.917h-5.523V58.9h6.373v1.879h-21.92V58.9zM309.078 60.267c9.43 0 13.934-6.663 13.934-29.049 0-22.384-4.504-29.049-13.934-29.049-9.431 0-13.935 6.665-13.935 29.05s4.504 29.048 13.935 29.048m0-59.978c12.829 0 24.47 12.133 24.47 30.93 0 18.796-11.641 30.929-24.47 30.929-12.83 0-24.469-12.133-24.469-30.93C284.61 12.422 296.25.29 309.078.29" fill="#D31F2E"/><path d="M345.864 29.34h5.013c10.11 0 15.037-4.957 15.037-13.415 0-5.98-2.973-12.39-12.32-12.39h-7.73V29.34zM331.59 60.78V58.9h5.097V3.537h-5.097v-1.88h24.724c14.274 0 19.287 6.836 19.287 14.269 0 8.287-6.457 14.011-18.692 14.78l20.221 28.196h4.163v1.879h-13.508l-21.582-30.074h-.34V58.9h6.458v1.879h-20.73z" fill="#D31F2E"/><path d="M449.127 1.83v1.844h-6v42.15c0 10.223 5.75 13.492 11 13.492 7.916 0 13.499-5.363 13.499-14.078V3.674h-7.5V1.83h14.833v1.844h-5v41.647c0 9.721-6.416 15.838-16.166 15.838-13.5 0-19.667-5.698-19.667-17.262V3.674h-5V1.83h20zM478.041 38.031c3.5 15.586 6.667 21.285 14.75 21.285 7.583 0 13.583-5.028 13.583-12.235 0-16.592-31-10.14-31-30 0-9.887 7.667-16.591 19-16.591 6.25 0 11.417 1.424 15.667 3.352v16.76h-1.834l-3-9.721c-2.083-6.62-6.166-8.548-11.583-8.548-7.333 0-12.583 4.944-12.583 11.061 0 6.285 4.417 7.961 15.666 12.235 12.333 4.692 16.667 7.877 16.667 17.095 0 10.558-8.833 18.435-21.667 18.435-4.833 0-11.832-2.179-15.499-4.693V38.031h1.833z" fill="#2572C5"/><g transform="translate(512.481 1.093)"><mask id="d" fill="#fff"><use xlink:href="#c"/></mask><path d="M15.058 33.586h16.416l-8-24.72-8.416 24.72zm-15 25.14v-1.844h4.834L24.224.067h5.334L47.89 56.882h3.333v1.844h-18.5v-1.844h6.166L32.058 35.43H14.475l-7.25 21.452h8v1.844H.058z" fill="#2572C5" mask="url(#d)"/></g><path d="M403.5 2v58" stroke="#635A5B" stroke-linecap="square"/></g></svg>
+            </a>
+        </div>
+
+        <a href="#" class="nav-toggle"><svg width="30" height="25" viewBox="0 0 30 25" xmlns="http://www.w3.org/2000/svg"><g fill="#2D1404" fill-rule="evenodd"><path d="M0 0h30v5H0zM0 10h30v5H0zM0 20h30v5H0z"/></g></svg></a>
+
+        <div class="masthead__cta spev-show-not-active-subscriber">
+
+            
+    	</div>
+
+    </div>
+
+    
+
+</div><!-- End of masthead -->
+
+		<div class="header-nav" id="sticky-header">
+
+    <div class="nav-container">
+
+        <div class="primary-nav">
+            <a href="https://spectator.us">
+                <div class="monogram"><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="-90.5 246.9 48.8 81.7"><style>.st0{fill:#D2091E;}</style><path class="st0" d="M-44.6 315.4c-4.9 9.1-14.2 13.2-24.3 13.2-8.2 0-14-2.3-21.3-5.9v-24.8h2.1c1.1 4.6 2.1 8.9 3.4 13.7.9 3.2 2.1 6.6 4 9.3 1.7 2.5 5.5 5.5 12.7 5.5 2.8 0 10.8-.6 15.6-8 .9-1.5 2.5-4.6 2.5-8.9 0-1.5-.2-5.5-3-9.1-.8-.9-1.3-2.1-3-3.4-4.2-3.2-9.1-4.9-18.4-8.5-4.6-1.7-6.1-3.2-8.2-4.6-2.8-1.7-8-6.5-8-15.4 0-4 .9-7.4 3-11 3.8-6.5 13.3-10.6 22.4-10.6 7.6 0 11.8.8 18.8 2.5v24.9h-2.1c-1.7-7.8-3.4-17.3-6.8-20.9-1.9-1.9-4.7-4.2-11-4.2-6.1 0-11.4 1.7-14.8 6.6-.9 1.3-2.7 4-2.7 8 0 1.1.2 3.8 1.9 6.5 3 4.7 8 6.1 13.1 8.4 1.9.8 4 1.5 5.7 2.3 5.3 2.1 10.2 3.8 14.8 7.8 2.5 2.1 6.5 6.8 6.5 15.6 0 2.2-.4 6.4-2.9 11"/></svg></div>
+            </a>
+            <a href="#" class="nav-close">Close</a>
+
+            <div id="navigation" class="top-level-nav"><ul id="menu-primary-navigation" class="top-level-nav__list"><li id="menu-item-10282152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://spectator.us/category/columnists/american-politics/" class="depth-0-link"><span class="menu-item-title">US POLITICS</span></a>
+<ul class="sub-menu sub-menu-depth-0">
+	<li id="menu-item-10372711" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/columnists/politics/conservatism/" class="depth-1-link"><span class="menu-item-title">CONSERVATISM</span></a></li>
+	<li id="menu-item-10372341" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/columnists/politics/donald-trump/" class="depth-1-link"><span class="menu-item-title">DONALD TRUMP</span></a></li>
+	<li id="menu-item-10372361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/columnists/politics/guns/" class="depth-1-link"><span class="menu-item-title">GUNS</span></a></li>
+	<li id="menu-item-10372811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/columnists/politics/liberalism/" class="depth-1-link"><span class="menu-item-title">LIBERALISM</span></a></li>
+	<li id="menu-item-10372881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/columnists/politics/liberty/" class="depth-1-link"><span class="menu-item-title">LIBERTY</span></a></li>
+	<li id="menu-item-10372351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/columnists/politics/trade/" class="depth-1-link"><span class="menu-item-title">TRADE</span></a></li>
+</ul>
+</li>
+<li id="menu-item-10359121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0"><a href="https://spectator.us/cockburn-washington/" class="depth-0-link"><span class="menu-item-title">COCKBURN</span></a></li>
+<li id="menu-item-10348361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://spectator.us/category/features/world-news/" class="depth-0-link"><span class="menu-item-title">WORLD</span></a>
+<ul class="sub-menu sub-menu-depth-0">
+	<li id="menu-item-10373061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/features/world-news/china/" class="depth-1-link"><span class="menu-item-title">CHINA</span></a></li>
+	<li id="menu-item-10401664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/features/world-news/europe/" class="depth-1-link"><span class="menu-item-title">EUROPE</span></a></li>
+	<li id="menu-item-10401663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/features/world-news/middle-east/" class="depth-1-link"><span class="menu-item-title">MIDDLE EAST</span></a></li>
+	<li id="menu-item-10372471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/features/world-news/north-korea/" class="depth-1-link"><span class="menu-item-title">NORTH KOREA</span></a></li>
+	<li id="menu-item-10373331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/features/world-news/russia/" class="depth-1-link"><span class="menu-item-title">RUSSIA</span></a></li>
+</ul>
+</li>
+<li id="menu-item-10351821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://spectator.us/life-arts/" class="depth-0-link"><span class="menu-item-title">LIFE &#038; ARTS</span></a>
+<ul class="sub-menu sub-menu-depth-0">
+	<li id="menu-item-10405409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/life/education/" class="depth-1-link"><span class="menu-item-title">EDUCATION</span></a></li>
+	<li id="menu-item-10372371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/features/world-news/faith/" class="depth-1-link"><span class="menu-item-title">FAITH</span></a></li>
+	<li id="menu-item-10405405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/life/home/" class="depth-1-link"><span class="menu-item-title">HOME</span></a></li>
+	<li id="menu-item-10405406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/life/internet/" class="depth-1-link"><span class="menu-item-title">INTERNET</span></a></li>
+	<li id="menu-item-10405407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/life/media/" class="depth-1-link"><span class="menu-item-title">MEDIA</span></a></li>
+	<li id="menu-item-10405408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/life/tech/" class="depth-1-link"><span class="menu-item-title">TECH</span></a></li>
+</ul>
+</li>
+<li id="menu-item-10347901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-0"><a href="https://spectator.us/category/books/" class="depth-0-link"><span class="menu-item-title">BOOKS</span></a></li>
+<li id="menu-item-10347881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://spectator.us/writers/" class="depth-0-link"><span class="menu-item-title">WRITERS</span></a>
+<ul class="sub-menu sub-menu-depth-0">
+	<li id="menu-item-10350161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/author/daniel-mccarthy/" class="depth-1-link"><span class="menu-item-title">DANIEL MCCARTHY</span></a></li>
+	<li id="menu-item-10350141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/author/dominic-green/" class="depth-1-link"><span class="menu-item-title">DOMINIC GREEN</span></a></li>
+	<li id="menu-item-10350111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/author/freddy-gray/" class="depth-1-link"><span class="menu-item-title">FREDDY GRAY</span></a></li>
+	<li id="menu-item-10360431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/author/jacob-heilbrunn/" class="depth-1-link"><span class="menu-item-title">JACOB HEILBRUNN</span></a></li>
+	<li id="menu-item-10350131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/author/roger-kimball/" class="depth-1-link"><span class="menu-item-title">ROGER KIMBALL</span></a></li>
+	<li id="menu-item-10405098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/author/paul-wood/" class="depth-1-link"><span class="menu-item-title">PAUL WOOD</span></a></li>
+</ul>
+</li>
+<li id="menu-item-10348371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-0"><a href="https://audioboom.com/channel/americano" class="depth-0-link"><span class="menu-item-title">PODCAST</span></a></li>
+</ul></div>
+			<div class="uk-link-container">
+				<a href="https://spectator.co.uk?nogeoredir=1" class="uk-link">Go to Spectator UK <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 444.819 444.819"><path d="M352.025 196.712L165.884 10.848C159.029 3.615 150.469 0 140.187 0s-18.842 3.619-25.697 10.848L92.792 32.264c-7.044 7.043-10.566 15.604-10.566 25.692 0 9.897 3.521 18.56 10.566 25.981L231.545 222.41 92.786 361.168c-7.042 7.043-10.564 15.604-10.564 25.693 0 9.896 3.521 18.562 10.564 25.98l21.7 21.413c7.043 7.043 15.612 10.564 25.697 10.564 10.089 0 18.656-3.521 25.697-10.564L352.025 248.39c7.046-7.423 10.571-16.084 10.571-25.981.001-10.088-3.525-18.654-10.571-25.697z" /></svg></a>
+			</div>
+
+        </div>
+
+    </div><!-- end of nav-container -->
+
+</div>
+
+		</div><!-- End of site-header -->
+
+		<div class="container"><!-- Main site container -->
+
+<div class="main-content clearfix">
+
+	<div id="content-area-wrap" class="content-area">
+
+	<div id="post-10406694" class="article post-10406694 post type-post status-publish format-standard has-post-thumbnail hentry category-cockburn-politics category-donald-trump category-home category-internet tag-dogs tag-donald-trump tag-pets has-thumbnail">
+
+        
+<div class="article-header clearfix ">
+
+	<div class="article-header__text">
+
+		<p class="article-header__category"><a href="https://spectator.us/category/columnists/cockburn-politics/" rel="category tag">Cockburn</a> <a href="https://spectator.us/category/politics/donald-trump/" rel="category tag">Donald Trump</a> <a href="https://spectator.us/category/life/home/" rel="category tag">Home</a> <a href="https://spectator.us/category/life/internet/" rel="category tag">Internet</a></p>
+
+		<h1 class="article-header__title">The dogphobia of Donald Trump</h1>
+		<h2 class="article-header__standfirst">The President is having a ruff time</h2>
+		<div class="article-header__author"><a href="https://spectator.us/author/cockburn/" title="Posts by Cockburn" rel="author">Cockburn</a></div>
+
+	</div>
+
+		<div class="big-author">
+	    <div class="big-author__avatar">
+	        <a href="https://spectator.us/author/cockburn/">
+	            <img width="146" height="172" src="https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/Cockburn-small.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=146&amp;h=172" class="attachment-author-avatar size-author-avatar" alt="Cockburn" />	        </a>
+	    </div>
+	</div>
+	
+</div>
+
+    <div class="featured-image">
+        <div class="featured-image__scaled-wrapper"><img class="featured-image__img"  src="https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/GettyImages-1098028308-copy.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=820&h=547"  width="820"  height="547"  srcset="https://spectator.us/wp-content/uploads/2019/02/GettyImages-1098028308-copy.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=1024&h=683 1024w, https://spectator.us/wp-content/uploads/2019/02/GettyImages-1098028308-copy.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=300&h=200 300w, https://spectator.us/wp-content/uploads/2019/02/GettyImages-1098028308-copy.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=768&h=512 768w, https://spectator.us/wp-content/uploads/2019/02/GettyImages-1098028308-copy.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=620&h=413 620w, https://spectator.us/wp-content/uploads/2019/02/GettyImages-1098028308-copy.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=146&h=97 146w"  sizes="(max-width: 820px) 100vw, 820px"  data-img-id="10406710" ></div>    </div> <!-- End featured image -->
+		<div class="article-content">
+		<div class="margin-menu">
+	
+	<div class="float-container">
+	
+		<div class="meta-box">
+			<p class="meta-box__byline"><a href="https://spectator.us/author/cockburn/" title="Posts by Cockburn" rel="author">Cockburn</a></p>
+
+			<p class="meta-box__date">February 12, 2019</p>
+			<p class="meta-box__time">2:34 PM</p>
+			<p class="meta-box__date meta-box__date--mobile">12 February 2019</p>
+			<p class="meta-box__time meta-box__time--mobile">2:34 PM</p>
+		</div>
+
+		<div class="sharing">
+
+	<h2 class="sharing__header">Share</h2>
+
+	<ul class="sharing__list">
+        <li class="sharing__item sharing__item--twitter">
+            <a href="https://twitter.com/intent/tweet?url=https://spectator.us/dog-donald-trump-dogphobia/&text=The dogphobia of Donald Trump" target="_blank" class="sharing__link sharing__link--twitter">
+                <span class="sharing__link-text">Twitter</span>
+            </a>
+        </li>
+        <li class="sharing__item sharing__item--facebook">
+            <a href="https://facebook.com/sharer.php?u=https://spectator.us/dog-donald-trump-dogphobia/" target="_blank" class="sharing__link sharing__link--facebook">
+                <span class="sharing__link-text">Facebook</span>
+            </a>
+        </li>
+        <li class="sharing__item sharing__item--linkedin">
+            <a href="https://linkedin.com/shareArticle?mini=true&url=https://spectator.us/dog-donald-trump-dogphobia/" target="_blank" class="sharing__link sharing__link--linkedin">
+                <span class="sharing__link-text">LinkedIn</span>
+            </a>
+        </li>
+        <li class="sharing__item sharing__item--mail">
+            <a href="mailto:?subject=The dogphobia of Donald Trump&amp;body=Read The dogphobia of Donald Trump - https://spectator.us/dog-donald-trump-dogphobia/" class="sharing__link sharing__link--mail">
+                <span class="sharing__link-text">Email</span>
+            </a>
+        </li>
+        <li class="sharing__item sharing__item--whatsapp">
+            <a href="whatsapp://send?text=The dogphobia of Donald Trump : https://spectator.us/dog-donald-trump-dogphobia/" target="_blank" class="sharing__link sharing__link--whatsapp">
+                <span class="sharing__link-text">Whatsapp</span>
+            </a>
+        </li>
+	</ul>
+
+</div>
+
+        
+	</div>
+
+</div><!-- End of margin-menu -->
+<div class="article-body article-text article-text--post">
+    <div class="ev-meter-content-class">
+<p>Donald Trump doesn&rsquo;t want a dog, for fear of <a href="http://time.com/5527568/trump-pet-dog-phony/">looking phony</a>, he says. But Cockburn can&rsquo;t help wondering if there isn&rsquo;t a deeper neurosis here. The president, it seems, is a dogphobe. He once was reported to have said &lsquo;I never understood why people like dogs. Dogs are disgusting&rsquo; &mdash; though Snopes declared that <a href="https://spectator.us/tag/fake-news/">fake news</a>.</p>
+<p>Trump does however seem to have a strange canine preoccupation. He has used the word &lsquo;dog&rsquo; over&nbsp;<a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=dog%20from%3Arealdonaldtrump&amp;src=typd&amp;lang=en-gb">40 times</a> on Twitter. He employs the formulation &lsquo;like a dog&rsquo; with particular regularity &mdash; often, misusing the dog simile.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">.<a href="https://twitter.com/GeorgeWillF?ref_src=twsrc%5Etfw">@georgewillf</a> is perhaps the most boring political pundit on television. Got thrown off ABC like a dog. At Mar-a-Lago he was a total bust!</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/589251220000403456?ref_src=twsrc%5Etfw">April 18, 2015</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">.<a href="https://twitter.com/davidgregory?ref_src=twsrc%5Etfw">@DavidGregory</a> got thrown off of TV by NBC, fired like a dog! Now he is on <a href="https://twitter.com/CNN?ref_src=twsrc%5Etfw">@CNN</a> being nasty to me. Not nice!</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/715013260462960642?ref_src=twsrc%5Etfw">March 30, 2016</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Are dogs thrown off TV?</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">.<a href="https://twitter.com/glennbeck?ref_src=twsrc%5Etfw">@GlennBeck</a> got fired like a dog by <a href="https://twitter.com/hashtag/Fox?src=hash&amp;ref_src=twsrc%5Etfw">#Fox</a>. The Blaze is failing and he wanted to have me on his show. I said no &ndash; because he is irrelevant.</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/677339850752806912?ref_src=twsrc%5Etfw">December 17, 2015</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Does anyone remember this <a href="https://twitter.com/billmaher?ref_src=twsrc%5Etfw">@BillMaher</a> clip when he got fired from ABC- in fact, fired like a dog! <a href="http://t.co/Xekz6GTm">http://t.co/Xekz6GTm</a></p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/291568395621634049?ref_src=twsrc%5Etfw">January 16, 2013</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Wow was Ted Cruz disloyal to his very capable director of communication. He used him as a scape goat-fired like a dog! Ted panicked.</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/702141081027104769?ref_src=twsrc%5Etfw">February 23, 2016</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Wow, great news! I hear <a href="https://twitter.com/EWErickson?ref_src=twsrc%5Etfw">@EWErickson</a> of Red State was fired like a dog. If you read his tweets, you'll understand why. Just doesn't have IT!</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/652150749082746881?ref_src=twsrc%5Etfw">October 8, 2015</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">I hear that sleepy eyes <a href="https://twitter.com/chucktodd?ref_src=twsrc%5Etfw">@chucktodd</a> will be fired like a dog from ratings starved Meet The Press? I can't imagine what is taking so long!</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/620391296251916288?ref_src=twsrc%5Etfw">July 13, 2015</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Do dogs get fired?</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Robert Pattinson should not take back Kristen Stewart. She cheated on him like a dog &amp; will do it again&ndash;just watch. He can do much better!</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/258640349872926720?ref_src=twsrc%5Etfw">October 17, 2012</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Are dogs unfaithful? Cockburn thought famously that wasn&rsquo;t the case&hellip;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Obama called Reverend Wright his friend, counselor &amp; great leader&ndash;then dumped him like a dog!</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/253516010974507008?ref_src=twsrc%5Etfw">October 3, 2012</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Obama called Reverend Wright his friend, counselor &amp; great leader&ndash;then dumped him like a dog!</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/253516010974507008?ref_src=twsrc%5Etfw">October 3, 2012</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Do dogs get dumped?</p>
+<p>And, Cockburn&rsquo;s favorite,</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">.<a href="https://twitter.com/BrentBozell?ref_src=twsrc%5Etfw">@BrentBozell</a>, one of the National Review lightweights, came to my office begging for money like a dog. Why doesn't he say that?</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/690708660377513984?ref_src=twsrc%5Etfw">January 23, 2016</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>He&rsquo;s also displayed a predilection for comparing women to dogs (though incidentally has only tweeted the word &lsquo;bitch&rsquo; twice, when quoting someone else):</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">When you give a crazed, crying lowlife a break, and give her a job at the White House, I guess it just didn&rsquo;t work out. Good work by General Kelly for quickly firing that dog!</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1029329583672307712?ref_src=twsrc%5Etfw">August 14, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">"<a href="https://twitter.com/laurasgoldman?ref_src=twsrc%5Etfw">@laurasgoldman</a>: .<a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> why is it necessary to comment on .<a href="https://twitter.com/ariannahuff?ref_src=twsrc%5Etfw">@ariannahuff</a> looks? Because she is a dog who wrongfully comments on me</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/585281558816370690?ref_src=twsrc%5Etfw">April 7, 2015</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>And he loves to say how unsuccessful politicians &lsquo;couldn&rsquo;t get elected dog catcher&rsquo;.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">.<a href="https://twitter.com/GovernorPataki?ref_src=twsrc%5Etfw">@GovernorPataki</a>  couldn&rsquo;t be elected dog catcher if he ran again&mdash;so he didn&rsquo;t!</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/616353051432079360?ref_src=twsrc%5Etfw">July 1, 2015</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Bob Corker, who helped President O give us the bad Iran Deal &amp; couldn't get elected dog catcher in Tennessee, is now fighting Tax Cuts&hellip;.</p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/922798321739161600?ref_src=twsrc%5Etfw">October 24, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">.<a href="https://twitter.com/GovernorSununu?ref_src=twsrc%5Etfw">@GovernorSununu</a> who couldn't get elected dog catcher in NH forgot to mention my phenomenal biz success rate: 99.2% <a href="https://t.co/WsA3Jnjhwa">https://t.co/WsA3Jnjhwa</a></p>
+<p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/625772928416763904?ref_src=twsrc%5Etfw">July 27, 2015</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>There is a clear pattern here. Cockburn wonders: was the President bitten by a dog as a child? Or did &mdash; horror of horrors &mdash; a dog ask young Donald for money?</p>
+</div></div><!-- end of article-text -->
+		<hr class="sticky-clear" />
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup" class="mc-content">
+  <form action="https://javelindc.us6.list-manage.com/subscribe/post?u=c825ea2e83&amp;id=edf2ae2373" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+      <div class="text">
+        <h2>Sign up to receive a weekly summary of the best of Spectator USA</h2>
+      </div>
+      <div class="form">
+        <div class="mc-field-group">
+          <label for="mce-EMAIL">Email Address </label>
+          <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
+          <input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button">
+        </div>
+        <div id="mce-responses" class="clear">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c825ea2e83_edf2ae2373" tabindex="-1" value=""></div>
+      </div>
+    </div>
+  </form>
+  <br class="clear">
+</div>
+<!--End mc_embed_signup-->
+
+<div class="tags">
+
+    <h2 class="tags__header">See also</h2>
+    <ul class="tags__list"><li class="tags__item"><a href="https://spectator.us/tag/dogs/" rel="tag">Dogs</a></li><li class="tags__item"><a href="https://spectator.us/tag/donald-trump/" rel="tag">Donald Trump</a></li><li class="tags__item"><a href="https://spectator.us/tag/pets/" rel="tag">Pets</a></li></ul>
+</div>
+
+
+
+<!--
+	replace with Dianomi content
+--><!--
+	Adverts below article content
+-->
+
+<a href="#" class="button show-comments">Show comments</a>
+		</div><!-- end of article-content -->
+
+	</div>
+
+</div>
+
+
+	<div class="sidebar">
+    
+    <div class="widget widget_advert">				<div class="widget_advert_content" style="min-height: auto; width: 100%;"><!-- /21624813019/SpecUSAMagazine//MPU_1 -->
+<div id='div-gpt-ad-USA-Mag-MPU1'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-USA-Mag-MPU1'); });
+</script>
+</div></div>
+			</div><div class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup" class="sidebar-mc-signup widget">
+    <form action="https://javelindc.us6.list-manage.com/subscribe/post?u=c825ea2e83&amp;id=edf2ae2373" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+            <h2>Sign up to receive a weekly summary of the best of Spectator USA</h2>
+            <div class="mc-field-group">
+                <label for="mce-EMAIL">Email Address </label>
+                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
+            </div>
+            <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c825ea2e83_edf2ae2373" tabindex="-1" value=""></div>
+            <div class="clear"><input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+        </div>
+    </form>
+</div>
+<!--End mc_embed_signup-->
+</div></div><div class="widget widget_widget_follow_us"><div class="follow-us">
+    <h3 class="widget-title title-font">Follow us</h3>
+            <a href="https://twitter.com/spectatorUSA" class="follow-us__network follow-us__network--twitter" target="_blank">
+            <span class="follow-us__image"></span>
+            <span class="follow-us__text">
+                Follow us on Twitter @spectatorUSA            </span>
+        </a>
+            <a href="https://www.facebook.com/OfficialSpectator" class="follow-us__network follow-us__network--facebook" target="_blank">
+            <span class="follow-us__image"></span>
+            <span class="follow-us__text">
+                Like us on Facebook            </span>
+        </a>
+    </div>
+</div><div class="menu-walker-editors-choice advanced-menu-162202 widget widget-menu widget-menu-advanced"><h3 class="widget-title title-font">Editor&#8217;s Choice</h3><div class="news-listing news-listing--walker"><div class="news-listing__item news-listing__item--editors post-10407010 post type-post status-publish format-standard has-post-thumbnail hentry category-features category-world-news tag-imran-khan tag-india tag-pakistan has-thumbnail"><a href="https://spectator.us/blame-pakistan-terror-attacks/" class="excerpt-thumb"><img class="news-listing__img"  src="https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/oborne.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=454&h=302"  width="454"  height="302"  srcset="https://spectator.us/wp-content/uploads/2019/02/oborne.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=730&h=486 730w, https://spectator.us/wp-content/uploads/2019/02/oborne.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=300&h=200 300w, https://spectator.us/wp-content/uploads/2019/02/oborne.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=620&h=413 620w, https://spectator.us/wp-content/uploads/2019/02/oborne.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=146&h=97 146w"  sizes="(max-width: 454px) 100vw, 454px"  data-img-id="10407011" ></a><div class="news-listing__text"><h2 class="news-listing__title"><a class="news-listing__title-link" href="https://spectator.us/blame-pakistan-terror-attacks/">Who’s really to blame for Pakistan’s terror attacks?</a></h2><p class="news-listing__author"><a href="https://spectator.us/author/peter-oborne-2/" title="Posts by Peter Oborne" rel="author">Peter Oborne</a></p></div></div> <!-- End news listing item --></li>
+<div class="news-listing__item news-listing__item--editors post-10407007 post type-post status-publish format-standard has-post-thumbnail hentry category-donald-trump category-liberty category-american-politics category-politics tag-andrew-mccabe tag-james-comey tag-mccarthyism tag-robert-mueller has-thumbnail"><a href="https://spectator.us/andrew-mccabe-joe-mccarthy/" class="excerpt-thumb"><img class="news-listing__img"  src="https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/GettyImages-814020186.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=453&h=302"  width="453"  height="302"  srcset="https://spectator.us/wp-content/uploads/2019/02/GettyImages-814020186.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=1024&h=683 1024w, https://spectator.us/wp-content/uploads/2019/02/GettyImages-814020186.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=300&h=200 300w, https://spectator.us/wp-content/uploads/2019/02/GettyImages-814020186.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=768&h=512 768w, https://spectator.us/wp-content/uploads/2019/02/GettyImages-814020186.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=620&h=413 620w, https://spectator.us/wp-content/uploads/2019/02/GettyImages-814020186.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=146&h=97 146w"  sizes="(max-width: 453px) 100vw, 453px"  data-img-id="10407008" ></a><div class="news-listing__text"><h2 class="news-listing__title"><a class="news-listing__title-link" href="https://spectator.us/andrew-mccabe-joe-mccarthy/">Andrew McCabe is the new Joe McCarthy</a></h2><p class="news-listing__author"><a href="https://spectator.us/author/charles-lipson/" title="Posts by Charles Lipson" rel="author">Charles Lipson</a></p></div></div> <!-- End news listing item --></li>
+<div class="news-listing__item news-listing__item--editors post-10407014 post type-post status-publish format-standard has-post-thumbnail hentry category-europe category-features category-world-news tag-brexit tag-european-union tag-theresa-may tag-united-kingdom has-thumbnail"><a href="https://spectator.us/brexit-nightmare-article-50/" class="excerpt-thumb"><img class="news-listing__img"  src="https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/maycartoon.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=454&h=302"  width="454"  height="302"  srcset="https://spectator.us/wp-content/uploads/2019/02/maycartoon.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=730&h=486 730w, https://spectator.us/wp-content/uploads/2019/02/maycartoon.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=300&h=200 300w, https://spectator.us/wp-content/uploads/2019/02/maycartoon.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=620&h=413 620w, https://spectator.us/wp-content/uploads/2019/02/maycartoon.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=146&h=97 146w"  sizes="(max-width: 454px) 100vw, 454px"  data-img-id="10407068" ></a><div class="news-listing__text"><h2 class="news-listing__title"><a class="news-listing__title-link" href="https://spectator.us/brexit-nightmare-article-50/">There’s only way out of this Brexit nightmare – revoke Article 50</a></h2><p class="news-listing__author"><a href="https://spectator.us/author/paul-collier-2/" title="Posts by Paul Collier" rel="author">Paul Collier</a></p></div></div> <!-- End news listing item --></li>
+<div class="news-listing__item news-listing__item--editors post-10406964 post type-post status-publish format-standard has-post-thumbnail hentry category-internet category-life category-media tag-fake-news tag-hate-crime tag-jussie-smollett tag-media tag-racism has-thumbnail"><a href="https://spectator.us/faked-hate-crimes/" class="excerpt-thumb"><img class="news-listing__img"  src="https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/GettyImages-1066280148.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=454&h=302"  width="454"  height="302"  srcset="https://spectator.us/wp-content/uploads/2019/02/GettyImages-1066280148.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=1024&h=681 1024w, https://spectator.us/wp-content/uploads/2019/02/GettyImages-1066280148.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=300&h=200 300w, https://spectator.us/wp-content/uploads/2019/02/GettyImages-1066280148.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=768&h=511 768w, https://spectator.us/wp-content/uploads/2019/02/GettyImages-1066280148.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=620&h=413 620w, https://spectator.us/wp-content/uploads/2019/02/GettyImages-1066280148.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=146&h=97 146w"  sizes="(max-width: 454px) 100vw, 454px"  data-img-id="10406965" ></a><div class="news-listing__text"><h2 class="news-listing__title"><a class="news-listing__title-link" href="https://spectator.us/faked-hate-crimes/">The true cost of faked hate crimes</a></h2><p class="news-listing__author"><a href="https://spectator.us/author/douglas-murray/" title="Posts by Douglas Murray" rel="author">Douglas Murray</a></p></div></div> <!-- End news listing item --></li>
+</div></div><div class="widget widget_advert">				<div class="widget_advert_content" style="min-height: auto; width: 100%;"><!-- /21624813019/SpecUSAMagazine//MPU_2 -->
+<div id='div-gpt-ad-USA-Mag-MPU2'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-USA-Mag-MPU2'); });
+</script>
+</div></div>
+			</div><div class="widget widget_advert">				<div class="widget_advert_content" style="min-height: auto; width: 100%;"><!-- /21624813019/SpecUSAMagazine//Sticky_Banner -->
+<div id='div-gpt-ad-USA-Mag-StickyBan' style='height:3px; width:3px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-USA-Mag-StickyBan'); });
+</script>
+</div></div>
+			</div><div class="widget widget_advert">				<div class="widget_advert_content" style="min-height: auto; width: 100%;"><!-- /21624813019/SpecUSAMagazine//Inline_Video -->
+<div id='div-gpt-ad-USA-Mag-InlineVideo' style='height:2px; width:2px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-USA-Mag-InlineVideo'); });
+</script>
+</div></div>
+			</div><div class="widget widget_advert">				<div class="widget_advert_content" style="min-height: auto; width: 100%;"><!-- /21624813019/SpecUSAMagazine//Skin -->
+<div id='div-gpt-ad-USA-Mag-Skin' style='height:1px; width:1px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-USA-Mag-Skin'); });
+</script>
+</div></div>
+			</div>
+    
+</div>
+
+</div><!-- end of main-content -->
+
+<div class="site-footer">
+
+		<div class="bottom-banner">
+		<div class="widget widget_advert">				<div class="widget_advert_content" style="min-height: auto; width: 100%;"><!-- /21624813019/SpecUSAMagazine//Bottom_BB -->
+<div id='div-gpt-ad-USA-Mag-LB2'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-USA-Mag-LB2'); });
+</script>
+</div></div>
+			</div>	</div>
+
+<div class="masthead__logo masthead__logo--footer">
+    <a href="https://spectator.us">
+        <svg class="masthead__logo-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 565 80"><defs><path id="a" d="M0 .065h38.743v61.858H0z"/><path id="c" d="M.058.067h51.166v58.659H.058z"/></defs><g fill="none" fill-rule="evenodd"><g transform="translate(0 .225)"><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><path d="M2.719 38.341c3.568 15.892 6.797 21.702 15.039 21.702 7.73 0 13.849-5.126 13.849-12.474C31.607 30.652 0 37.23 0 16.982 0 6.9 7.817.065 19.372.065c6.372 0 11.64 1.453 15.973 3.417v17.089h-1.87l-3.059-9.912c-2.123-6.75-6.286-8.714-11.809-8.714-7.477 0-12.83 5.041-12.83 11.277 0 6.409 4.504 8.117 15.973 12.475 12.575 4.784 16.993 8.031 16.993 17.429 0 10.766-9.006 18.797-22.09 18.797-4.928 0-12.065-2.222-15.804-4.784V38.34h1.87z" fill="#D31F2E" mask="url(#b)"/></g><path d="M51.996 30.193h7.986c9.175 0 13.254-2.82 13.254-13.072 0-8.031-3.654-13.585-12.49-13.585h-8.75v26.657zM37.722 60.78V58.9h5.097V3.537h-5.097v-1.88h24.384c13.51 0 20.815 6.494 20.815 15.465s-6.796 14.951-20.73 14.951H51.996v26.829h7.816v1.879h-22.09z" fill="#D31F2E"/><path d="M81.305 60.78V58.9h5.097V3.537h-5.097v-1.88h43.16v18.969h-1.869c-4.587-15.978-5.947-17.09-10.195-17.09H95.578v25.633h6.627c4.248 0 6.287-2.648 7.987-11.79h1.87v25.46h-1.87c-1.7-9.142-3.739-11.79-7.987-11.79h-6.627V58.9h14.954c6.032 0 7.817-2.307 12.83-19.993h1.869V60.78H81.305zM166.18 20.624h-1.87C159.042 4.22 157.428 2.17 150.8 2.17c-8.835 0-14.528 6.835-14.528 29.05 0 22.214 4.927 29.048 15.293 29.048 7.137 0 9.43-5.126 13.255-21.017h1.869v19.309c-4.759 2.478-10.026 3.589-15.124 3.589-14.443 0-25.828-11.962-25.828-30.93 0-18.967 11.385-30.929 25.828-30.929 5.693 0 10.45 1.282 14.614 3.247v17.088zM178.157 58.9h6.372V3.537h-5.523c-3.823 0-4.757.855-8.24 16.917h-1.87V1.657h40.443v18.796h-1.87c-3.484-16.062-4.418-16.917-8.241-16.917h-5.523V58.9h6.372v1.879h-21.92V58.9z" fill="#D31F2E"/><path d="M213.245 35.148h16.737l-8.157-25.203-8.58 25.203zM197.95 60.78V58.9h4.928L222.591.975h5.437L246.72 58.9h3.399v1.879h-18.863V58.9h6.288l-6.967-21.871H212.65L205.258 58.9h8.156v1.879h-15.463zM252.92 58.9h6.372V3.537h-5.523c-3.823 0-4.758.855-8.24 16.917h-1.872V1.657h40.444v18.796h-1.87c-3.483-16.062-4.418-16.917-8.241-16.917h-5.523V58.9h6.373v1.879h-21.92V58.9zM309.078 60.267c9.43 0 13.934-6.663 13.934-29.049 0-22.384-4.504-29.049-13.934-29.049-9.431 0-13.935 6.665-13.935 29.05s4.504 29.048 13.935 29.048m0-59.978c12.829 0 24.47 12.133 24.47 30.93 0 18.796-11.641 30.929-24.47 30.929-12.83 0-24.469-12.133-24.469-30.93C284.61 12.422 296.25.29 309.078.29" fill="#D31F2E"/><path d="M345.864 29.34h5.013c10.11 0 15.037-4.957 15.037-13.415 0-5.98-2.973-12.39-12.32-12.39h-7.73V29.34zM331.59 60.78V58.9h5.097V3.537h-5.097v-1.88h24.724c14.274 0 19.287 6.836 19.287 14.269 0 8.287-6.457 14.011-18.692 14.78l20.221 28.196h4.163v1.879h-13.508l-21.582-30.074h-.34V58.9h6.458v1.879h-20.73z" fill="#D31F2E"/><path d="M449.127 1.83v1.844h-6v42.15c0 10.223 5.75 13.492 11 13.492 7.916 0 13.499-5.363 13.499-14.078V3.674h-7.5V1.83h14.833v1.844h-5v41.647c0 9.721-6.416 15.838-16.166 15.838-13.5 0-19.667-5.698-19.667-17.262V3.674h-5V1.83h20zM478.041 38.031c3.5 15.586 6.667 21.285 14.75 21.285 7.583 0 13.583-5.028 13.583-12.235 0-16.592-31-10.14-31-30 0-9.887 7.667-16.591 19-16.591 6.25 0 11.417 1.424 15.667 3.352v16.76h-1.834l-3-9.721c-2.083-6.62-6.166-8.548-11.583-8.548-7.333 0-12.583 4.944-12.583 11.061 0 6.285 4.417 7.961 15.666 12.235 12.333 4.692 16.667 7.877 16.667 17.095 0 10.558-8.833 18.435-21.667 18.435-4.833 0-11.832-2.179-15.499-4.693V38.031h1.833z" fill="#2572C5"/><g transform="translate(512.481 1.093)"><mask id="d" fill="#fff"><use xlink:href="#c"/></mask><path d="M15.058 33.586h16.416l-8-24.72-8.416 24.72zm-15 25.14v-1.844h4.834L24.224.067h5.334L47.89 56.882h3.333v1.844h-18.5v-1.844h6.166L32.058 35.43H14.475l-7.25 21.452h8v1.844H.058z" fill="#2572C5" mask="url(#d)"/></g><path d="M403.5 2v58" stroke="#635A5B" stroke-linecap="square"/></g></svg>
+    </a>
+</div>
+
+    <div class="footer-top-widgets">
+	   <div class="footer-widget widget widget_widget_follow_us"><div class="follow-us">
+    <h2 class="widget-title"></h2>
+            <a href="https://twitter.com/spectatorUSA" class="follow-us__network follow-us__network--twitter" target="_blank">
+            <span class="follow-us__image"></span>
+            <span class="follow-us__text">
+                Follow us on Twitter @spectatorUSA            </span>
+        </a>
+            <a href="https://www.facebook.com/OfficialSpectator" class="follow-us__network follow-us__network--facebook" target="_blank">
+            <span class="follow-us__image"></span>
+            <span class="follow-us__text">
+                Like us on Facebook            </span>
+        </a>
+    </div>
+</div>    </div>
+	<div id="sub-navigation" class="footer-nav"><ul id="menu-footer" class="footer-nav__list footer-nav__list--megamenu"><li id="menu-item-9652132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://spectator.us/about/" class="depth-0-link"><span class="menu-item-title">About</span></a>
+<ul class="sub-menu sub-menu-depth-0">
+	<li id="menu-item-9653992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="https://spectator.us/contact-us/" class="depth-1-link"><span class="menu-item-title">Contact Us</span></a></li>
+	<li id="menu-item-9697902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="https://spectator.us/privacy-policy/" class="depth-1-link"><span class="menu-item-title">Privacy Policy</span></a></li>
+	<li id="menu-item-9697892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-1"><a href="https://spectator.us/terms/" class="depth-1-link"><span class="menu-item-title">Terms and Conditions</span></a></li>
+</ul>
+</li>
+<li id="menu-item-9900542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="#" class="depth-0-link"><span class="menu-item-title">More from The Spectator</span></a>
+<ul class="sub-menu sub-menu-depth-0">
+	<li id="menu-item-10354441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="http://www.spectator.co.uk?nogeoredir=1" class="depth-1-link"><span class="menu-item-title">Spectator UK</span></a></li>
+	<li id="menu-item-9899022" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="http://spectator.com.au/" class="depth-1-link"><span class="menu-item-title">The Spectator Australia</span></a></li>
+	<li id="menu-item-9652182" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="http://www.apollo-magazine.com/" class="depth-1-link"><span class="menu-item-title">Apollo Magazine</span></a></li>
+	<li id="menu-item-9662662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="http://www.spectator.co.uk/shop" class="depth-1-link"><span class="menu-item-title">The Spectator Shop</span></a></li>
+</ul>
+</li>
+</ul></div>	<div class="copyright">
+	<div class="copyright__line1">The Spectator, 22 Old Queen Street, London, SW1H 9HP</div>
+	<div class="copyright__line2"></div>
+</div>
+
+	<!-- Crowdskout -->
+<script>
+  (function(s,k,o,u,t){
+    s.cs=s.cs||function(){cs.q.push(arguments);};
+    cs.q=cs.q||[];cs.apiUrl=t;s.sourceId=15524;s.clientId=2391;s.organizationId=1963320;
+    var a=k.getElementsByTagName(o)[0];var b=k.createElement(o);b.src=u+'/analytics.js';a.parentNode.insertBefore(b,a);
+  })(window,document,'script','//s.crowdskout.com','https://a.crowdskout.com');
+</script><script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/plugins/widget-tabbed-stats/js/tabbed.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var quizzlestickpolls = {"noanswerresponse":"Please select an answer for the poll","emailresponse":"Please ensure you have entered a valid email address","postcoderesponse":"Please enter your postcode"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/themes/spectator-new/assets/dist/site.min.js'></script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=4.9.9'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/plugins/icit-mediaplayer/js/mediaelement-override.js?ver=4.9.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"spectator-new-www"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://3h7pwd17k2h42n17eg2j7vdq-wpengine.netdna-ssl.com/wp-content/plugins/disqus/media/js/count.js?ver=4.9.9'></script>
+</div>
+</div><!-- end of main site container -->
+
+<div class="off-canvas">
+	<a href="#" class="nav-close">Close</a>
+
+
+	<div class="menu no-bottom-border">
+		<div class="menu-item uk-link-container">
+			<a href="https://spectator.co.uk?nogeoredir=1" class="uk-link"><span>Go to Spectator UK</span> <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 444.819 444.819"><path d="M352.025 196.712L165.884 10.848C159.029 3.615 150.469 0 140.187 0s-18.842 3.619-25.697 10.848L92.792 32.264c-7.044 7.043-10.566 15.604-10.566 25.692 0 9.897 3.521 18.56 10.566 25.981L231.545 222.41 92.786 361.168c-7.042 7.043-10.564 15.604-10.564 25.693 0 9.896 3.521 18.562 10.564 25.98l21.7 21.413c7.043 7.043 15.612 10.564 25.697 10.564 10.089 0 18.656-3.521 25.697-10.564L352.025 248.39c7.046-7.423 10.571-16.084 10.571-25.981.001-10.088-3.525-18.654-10.571-25.697z" /></svg></a>
+		</div>
+	</div>
+
+
+	<ul id="menu-primary-navigation-1" class="menu menu-site"><li id="menu-item-10282152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://spectator.us/category/columnists/american-politics/" class="depth-0-link"><span class="menu-item-title">US POLITICS</span></a>
+<ul class="sub-menu sub-menu-depth-0">
+	<li id="menu-item-10372711" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/columnists/politics/conservatism/" class="depth-1-link"><span class="menu-item-title">CONSERVATISM</span></a></li>
+	<li id="menu-item-10372341" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/columnists/politics/donald-trump/" class="depth-1-link"><span class="menu-item-title">DONALD TRUMP</span></a></li>
+	<li id="menu-item-10372361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/columnists/politics/guns/" class="depth-1-link"><span class="menu-item-title">GUNS</span></a></li>
+	<li id="menu-item-10372811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/columnists/politics/liberalism/" class="depth-1-link"><span class="menu-item-title">LIBERALISM</span></a></li>
+	<li id="menu-item-10372881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/columnists/politics/liberty/" class="depth-1-link"><span class="menu-item-title">LIBERTY</span></a></li>
+	<li id="menu-item-10372351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/columnists/politics/trade/" class="depth-1-link"><span class="menu-item-title">TRADE</span></a></li>
+</ul>
+</li>
+<li id="menu-item-10359121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-depth-0"><a href="https://spectator.us/cockburn-washington/" class="depth-0-link"><span class="menu-item-title">COCKBURN</span></a></li>
+<li id="menu-item-10348361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://spectator.us/category/features/world-news/" class="depth-0-link"><span class="menu-item-title">WORLD</span></a>
+<ul class="sub-menu sub-menu-depth-0">
+	<li id="menu-item-10373061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/features/world-news/china/" class="depth-1-link"><span class="menu-item-title">CHINA</span></a></li>
+	<li id="menu-item-10401664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/features/world-news/europe/" class="depth-1-link"><span class="menu-item-title">EUROPE</span></a></li>
+	<li id="menu-item-10401663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/features/world-news/middle-east/" class="depth-1-link"><span class="menu-item-title">MIDDLE EAST</span></a></li>
+	<li id="menu-item-10372471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/features/world-news/north-korea/" class="depth-1-link"><span class="menu-item-title">NORTH KOREA</span></a></li>
+	<li id="menu-item-10373331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/features/world-news/russia/" class="depth-1-link"><span class="menu-item-title">RUSSIA</span></a></li>
+</ul>
+</li>
+<li id="menu-item-10351821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://spectator.us/life-arts/" class="depth-0-link"><span class="menu-item-title">LIFE &#038; ARTS</span></a>
+<ul class="sub-menu sub-menu-depth-0">
+	<li id="menu-item-10405409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/life/education/" class="depth-1-link"><span class="menu-item-title">EDUCATION</span></a></li>
+	<li id="menu-item-10372371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/features/world-news/faith/" class="depth-1-link"><span class="menu-item-title">FAITH</span></a></li>
+	<li id="menu-item-10405405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/life/home/" class="depth-1-link"><span class="menu-item-title">HOME</span></a></li>
+	<li id="menu-item-10405406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/life/internet/" class="depth-1-link"><span class="menu-item-title">INTERNET</span></a></li>
+	<li id="menu-item-10405407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/life/media/" class="depth-1-link"><span class="menu-item-title">MEDIA</span></a></li>
+	<li id="menu-item-10405408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/category/life/tech/" class="depth-1-link"><span class="menu-item-title">TECH</span></a></li>
+</ul>
+</li>
+<li id="menu-item-10347901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-0"><a href="https://spectator.us/category/books/" class="depth-0-link"><span class="menu-item-title">BOOKS</span></a></li>
+<li id="menu-item-10347881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-depth-0 has-submenu"><a href="https://spectator.us/writers/" class="depth-0-link"><span class="menu-item-title">WRITERS</span></a>
+<ul class="sub-menu sub-menu-depth-0">
+	<li id="menu-item-10350161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/author/daniel-mccarthy/" class="depth-1-link"><span class="menu-item-title">DANIEL MCCARTHY</span></a></li>
+	<li id="menu-item-10350141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/author/dominic-green/" class="depth-1-link"><span class="menu-item-title">DOMINIC GREEN</span></a></li>
+	<li id="menu-item-10350111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/author/freddy-gray/" class="depth-1-link"><span class="menu-item-title">FREDDY GRAY</span></a></li>
+	<li id="menu-item-10360431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/author/jacob-heilbrunn/" class="depth-1-link"><span class="menu-item-title">JACOB HEILBRUNN</span></a></li>
+	<li id="menu-item-10350131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/author/roger-kimball/" class="depth-1-link"><span class="menu-item-title">ROGER KIMBALL</span></a></li>
+	<li id="menu-item-10405098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-1"><a href="https://spectator.us/author/paul-wood/" class="depth-1-link"><span class="menu-item-title">PAUL WOOD</span></a></li>
+</ul>
+</li>
+<li id="menu-item-10348371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-depth-0"><a href="https://audioboom.com/channel/americano" class="depth-0-link"><span class="menu-item-title">PODCAST</span></a></li>
+</ul>
+</div>
+
+</div> <!-- End #app -->
+
+</body>
+
+</html>

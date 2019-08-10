@@ -1,0 +1,1087 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="preconnect" href="//cdnjs.cloudflare.com">
+<link rel="preconnect" href="//fonts.googleapis.com">
+<link rel="preconnect" href="//ib.adnxs.com">
+<link rel="preconnect" href="//www.lightboxcdn.com">
+<link rel="preconnect" href="//www.googletagservices.com">
+<link rel="preconnect" href="//media.townhall.com">
+<link rel="preconnect" href="//prebid.adnxs.com">
+<link rel="preconnect" href="//www.google-analytics.com">
+<link rel="preconnect" href="//pagead2.googlesyndication.com">
+<link rel="preconnect" href="//ad.doubleclick.net">
+<link rel="preconnect" href="//securepubads.g.doubleclick.net">
+<link rel="preconnect" href="//c.amazon-adsystem.com">
+<link rel="preconnect" href="//townhallmedia-d.openx.net">
+<link rel="preconnect" href="//cdn.blueconic.net">
+<script async src="https://cdn.blueconic.net/salemmediagroup.js"></script>
+<script type='text/javascript'>var _sf_startpt = (new Date()).getTime()</script>
+<link rel="manifest" href="/manifest.json">
+<link rel="alternate" href="https://townhall.com" hreflang="en-us">
+<style>
+        .async-hide {
+            opacity: 0 !important
+        }
+    </style>
+<script>
+        (function (a, s, y, n, c, h, i, d, e) {
+            s.className += ' ' + y; h.start = 1 * new Date;
+            h.end = i = function () { s.className = s.className.replace(RegExp(' ?' + y), '') };
+            (a[n] = a[n] || []).hide = h; setTimeout(function () { i(); h.end = null }, c); h.timeout = c;
+        })(window, document.documentElement, 'async-hide', 'dataLayer', 4000,
+            { 'GTM-KT87G5R': true });
+    </script>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments);
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-404425-3', 'auto', { 'useAmpClientId': true });
+    
+    ga('require', 'GTM-KT87G5R');
+    
+    //ga('set', 'transport', 'beacon');
+    ga('require', 'displayfeatures');
+    if (typeof hptId !== 'undefined')
+    {
+        ga('set', 'dimension2', hptId);
+    }
+    ga('send', 'pageview');
+</script>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://media.townhall.com/thm/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://media.townhall.com/thm/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://media.townhall.com/thm/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://media.townhall.com/thm/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://media.townhall.com/thm/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://media.townhall.com/thm/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://media.townhall.com/thm/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://media.townhall.com/thm/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://media.townhall.com/thm/favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://media.townhall.com/thm/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://media.townhall.com/thm/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://media.townhall.com/thm/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://media.townhall.com/thm/favicon/android-chrome-192x192.png" sizes="192x192">
+<meta name="msapplication-square70x70logo" content="https://media.townhall.com/thm/favicon/smalltile.png" />
+<meta name="msapplication-square150x150logo" content="https://media.townhall.com/thm/favicon/mediumtile.png" />
+<meta name="msapplication-wide310x150logo" content="https://media.townhall.com/thm/favicon/widetile.png" />
+<meta name="msapplication-square310x310logo" content="https://media.townhall.com/thm/favicon/largetile.png" />
+<link href="/resources/css/bootstrap.min.css" rel="preload" as="style" />
+<link href="/resources/css/bootstrap.min.css" rel="stylesheet" />
+<link href="/resources/dist/css/main.min.css" rel="preload" as="style" />
+<link href="/resources/dist/css/main.min.css" rel="stylesheet" />
+<link href="/resources/lib/jquery/dist/jquery.min.js" rel="preload" as="script" />
+<script src="/resources/lib/jquery/dist/jquery.min.js"></script>
+<meta property="fb:app_id" content="967808926746051" />
+<meta property="fb:pages" content="41632789656,103971336305218,319569361390023,106547192707583,124538510989702,283971595408,212436860202,153162531376557,127519040661256,123834811060739,305174559545115,321502821264274,413465452078762,114013445328868,492802317512753,140705212665688,116757565026850" />
+<title>Bloomberg Will Spend $500 Million Against Trump- Unsure if He&#39;ll Run in 2020</title>
+<meta name="description" content="Financial giant Michael Bloomberg plans to allocate $500 million to either his own 2020 campaign or to whoever Democrat wins the primaries....02/26/2019 13:27:25PM EST." />
+<link rel="amphtml" href="https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416?amp=true">
+<meta name="keywords" content="Donald Trump, Michael Bloomberg, President, presidency, New York City Mayor, 2020 Election, 2020 presidential election" />
+<meta name="robots" content="index, follow" />
+<meta name="author" content="Ian  Snively" />
+<link rel="canonical" href="https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416" />
+<meta property="og:title" content="Bloomberg Will Spend $500 Million Against Trump- Unsure if He&#39;ll Run in 2020" />
+<meta property="og:type" content="Article" />
+<meta property="og:url" content="https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416" />
+<meta property="og:image" content="https://media.townhall.com/townhall/reu/s1280x720/2018/298/92a61346-f7a0-44d0-9797-ba15710c4764.jpg" />
+<meta property="og:site_name" content="Townhall " />
+<meta property="og:description" content="Financial giant Michael Bloomberg plans to allocate $500 million to either his own 2020 campaign or to whoever Democrat wins the primaries..." />
+<script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Bloomberg Will Spend $500 Million Against Trump- Unsure if He&#39;ll Run in 2020",
+        "datePublished": "2019-02-13T10:15:00-05:00",
+        "dateModified": "2019-02-13T10:15:00-05:00" ,
+        "image": {
+        "@type": "ImageObject",
+        "url": "https://media.townhall.com/townhall/reu/s1280x720/2018/298/92a61346-f7a0-44d0-9797-ba15710c4764.jpg",
+        "height": 665,
+        "width": 700
+        },
+        "mainEntityOfPage":"https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416",
+        "author": {
+        "@type": "Person",
+        "name": "Ian  Snively"
+        },
+        "publisher": {
+        "@type":"Organization",
+        "name": "Townhall.com",
+        "logo": {
+        "@type": "ImageObject",
+        "url": "https://media.townhall.com/townhall/ampmobile/Logo_TH_3.png",
+        "width": 128,
+        "height": 60
+        }
+        }
+        }
+    </script>
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:title" content="Bloomberg Will Spend $500 Million Against Trump- Unsure if He&#39;ll Run in 2020" />
+<meta property="twitter:image" content="https://media.townhall.com/townhall/reu/s1280x720/2018/298/92a61346-f7a0-44d0-9797-ba15710c4764.jpg?2613" />
+<meta property="twitter:url" content="https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416?2613" />
+<meta property="twitter:description" content="Financial giant Michael Bloomberg plans to allocate $500 million to either his own 2020 campaign or to whoever Democrat wins the primaries..." />
+<meta property="twitter:site" content="@townhallcom" />
+<script>
+        var _comscore = _comscore || [];
+        _comscore.push({
+            c1: "2",
+            c2: "21057668",
+            c3: "",
+            c4: ""
+        });
+        (function () {
+            var s = document.createElement("script"),
+                el = document.getElementsByTagName("script")[0];
+            s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+    </script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=21057668&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" /> </noscript>
+<script type="text/javascript">!function(t,o,e){e=t.createElement(o),t=t.getElementsByTagName(o)[0],e.async=1,e.src="https://cubchannel.com/v2/0/fkoPSN3j46-Luz7oGQ3O-wxbXwcyv0EAPva3ee4I3mkxm3hVC8IEMTL7mydzCy0nL7fKas-O7Z_",t.parentNode.insertBefore(e,t)}(document,"script"),function(t,o){t[o]=t[o]||function(){(t[o].q=t[o].q||[]).push(arguments)}}(document,window,"script","admiral");!function(t,e,n,a){function o(t){try{return t=localStorage.getItem("v4ac1eiZr0"),t&&t.split(",")[4]>0}catch(e){}return!1}function r(){var a=o();if(a){var r=t[e].pubads();typeof r.setTargeting===n&&r.setTargeting("admiral-engaged","true")}}a=t[e]=t[e]||{},a.cmd=a.cmd||[],typeof a.pubads===n?r():typeof a.cmd.unshift===n?a.cmd.unshift(r):a.cmd.push(r)}(window,"googletag","function");;;;;</script>
+<script>
+        function getRoxotGroupId() {
+            try {
+                var storageKey = 'roxot-gid';
+                var groupId = localStorage.getItem(storageKey);
+                if (groupId === null) {
+                    groupId = 1 + Math.floor(Math.random() * 10000);
+                    localStorage.setItem(storageKey, groupId);
+                }
+                return '' + groupId;
+            } catch (e) {
+                return '10001';
+            }
+        }
+
+        function getRoxotSectorId() {
+            try {
+                var storageKey = 'roxot-sid';
+                var groupId = localStorage.getItem(storageKey);
+                if (groupId === null) {
+                    groupId = 1 + Math.floor(Math.random() * 100);
+                    localStorage.setItem(storageKey, groupId);
+                }
+                return '' + groupId;
+            } catch (e) {
+                return '101';
+            }
+        }
+
+        function getRoxotDeep() {
+            try {
+                var storageKey = 'roxot-deep';
+                var groupId = localStorage.getItem(storageKey);
+                if (groupId === null) {
+                    groupId = 1 + Math.floor(Math.random() * 100);
+                    localStorage.setItem(storageKey, groupId);
+                }
+                return '' + groupId;
+            } catch (e) {
+                return '101';
+            }
+        }
+
+        function getRoxotEvent() {
+            return '' + (1 + Math.floor(Math.random() * 100));
+        }
+    </script>
+<script>
+        var bidTimeout = 3000;
+        var refreshInterval = 60000;
+        var PREBID_TIMEOUT = bidTimeout;
+        var FAILSAFE_TIMEOUT = 3000;
+        var SCREEN_TIME = false;
+        var PREBID = true;
+        var adUnits = [{"code":"div-gpt-728x90_1","sizes":[[728,90],[970,90],[970,250]],"bids":[{"bidder":"openx","params":{"unit":"537998002","delDomain":"townhallmedia-d.openx.net"}},{"bidder":"rubicon","params":{"accountId":"7685","siteId":"12263","zoneId":"80422"}},{"bidder":"appnexus","params":{"placementId":"9114174"}},{"bidder":"sovrn","params":{"tagid":"381642"}},{"bidder":"pubmatic","params":{"publisherId":"156799","adSlot":"townhall-div-gpt-728x90_1@728x90"}},{"bidder":"criteo","params":{"networkId":"7465"}}]},{"code":"div-gpt-300x250_2","sizes":[[300,250]],"bids":[{"bidder":"openx","params":{"unit":"537998003","delDomain":"townhallmedia-d.openx.net"}},{"bidder":"rubicon","params":{"accountId":"7685","siteId":"12263","zoneId":"80422"}},{"bidder":"appnexus","params":{"placementId":"9114174"}},{"bidder":"sovrn","params":{"tagid":"381643"}},{"bidder":"pubmatic","params":{"publisherId":"156799","adSlot":"townhall-div-gpt-300x250_2@300x250"}},{"bidder":"criteo","params":{"networkId":"7465"}}]},{"code":"div-gpt-300x250_1","sizes":[[300,250],[300,600]],"bids":[{"bidder":"openx","params":{"unit":"537998003","delDomain":"townhallmedia-d.openx.net"}},{"bidder":"rubicon","params":{"accountId":"7685","siteId":"12263","zoneId":"80422"}},{"bidder":"appnexus","params":{"placementId":"9114174"}},{"bidder":"sovrn","params":{"tagid":"381643"}},{"bidder":"pubmatic","params":{"publisherId":"156799","adSlot":"townhall-div-gpt-300x250_1@300x250"}},{"bidder":"criteo","params":{"networkId":"7465"}}]},{"code":"div-gpt-300x250_3","sizes":[[300,250],[300,600]],"bids":[{"bidder":"openx","params":{"unit":"537998003","delDomain":"townhallmedia-d.openx.net"}},{"bidder":"rubicon","params":{"accountId":"7685","siteId":"12263","zoneId":"80422"}},{"bidder":"appnexus","params":{"placementId":"9114174"}},{"bidder":"sovrn","params":{"tagid":"381643"}},{"bidder":"pubmatic","params":{"publisherId":"156799","adSlot":"townhall-div-gpt-300x250_3@300x250"}},{"bidder":"criteo","params":{"networkId":"7465"}}]},{"code":"div-gpt-300x250_sticky","sizes":[[300,250]],"bids":[{"bidder":"openx","params":{"unit":"537998003","delDomain":"townhallmedia-d.openx.net"}},{"bidder":"rubicon","params":{"accountId":"7685","siteId":"12263","zoneId":"80422"}},{"bidder":"appnexus","params":{"placementId":"9114174"}},{"bidder":"sovrn","params":{"tagid":"381643"}},{"bidder":"pubmatic","params":{"publisherId":"156799","adSlot":"townhall-div-gpt-300x250_sticky@300x250"}},{"bidder":"criteo","params":{"networkId":"7465"}}]},{"code":"div-gpt-728x90_3","sizes":[[728,90],[970,90]],"bids":[{"bidder":"openx","params":{"unit":"537998002","delDomain":"townhallmedia-d.openx.net"}},{"bidder":"rubicon","params":{"accountId":"7685","siteId":"12263","zoneId":"80422"}},{"bidder":"appnexus","params":{"placementId":"9114174"}},{"bidder":"sovrn","params":{"tagid":"381642"}},{"bidder":"pubmatic","params":{"publisherId":"156799","adSlot":"townhall-div-gpt-728x90_3@728x90"}},{"bidder":"criteo","params":{"networkId":"7465"}}]}];
+        var apstagSlots = [{"slotID":"div-gpt-728x90_1","slotName":"/6177/slm.townhall/tipsheet/728x90_1","sizes":[[728,90],[970,90],[970,250]]},{"slotID":"div-gpt-300x250_2","slotName":"/6177/slm.townhall/tipsheet/300x250_2","sizes":[[300,250]]},{"slotID":"div-gpt-300x250_1","slotName":"/6177/slm.townhall/tipsheet/300x250_1","sizes":[[300,250],[300,600]]},{"slotID":"div-gpt-300x250_3","slotName":"/6177/slm.townhall/tipsheet/300x250_3","sizes":[[300,250],[300,600]]},{"slotID":"div-gpt-300x250_sticky","slotName":"/6177/slm.townhall/tipsheet/300x250_sticky","sizes":[[300,250]]},{"slotID":"div-gpt-728x90_3","slotName":"/6177/slm.townhall/tipsheet/728x90_3","sizes":[[728,90],[970,90]]}];
+    </script>
+<script src="/resources/dist/js/prebid-latest.min.js?v=1.32.0-2"></script>
+<script async>
+        //<![CDATA[
+
+        var gptAdUnitPath = "tipsheet";
+        var gptAdSlot = [];
+
+        googletag.cmd.push(function () {
+            googletag.pubads().disableInitialLoad();
+            try {
+                gptAdSlot['div-gpt-728x90_1'] = googletag.defineSlot('/6177/slm.townhall/tipsheet/728x90_1', [[728,90],[970,90],[970,250],[1,1]], 'div-gpt-728x90_1').addService(googletag.pubads()).setTargeting('pos', '728x90_1').setTargeting('roxot-group-id', getRoxotGroupId()).setTargeting('roxot-sector-id', getRoxotSectorId()).setTargeting('roxot-deep', getRoxotDeep()).setTargeting('roxot-event-group-id', getRoxotEvent()).setTargeting('roxot-event', getRoxotEvent()).setTargeting('roxot-event-deep', getRoxotEvent()).setTargeting('roxot-minutes', (new Date).getUTCMinutes().toString()).setTargeting('roxot-hours', (new Date).getUTCHours().toString()).setTargeting('roxot-day', (new Date).getUTCDay().toString());
+gptAdSlot['div-gpt-300x250_2'] = googletag.defineSlot('/6177/slm.townhall/tipsheet/300x250_2', [[300,250]], 'div-gpt-300x250_2').addService(googletag.pubads()).setTargeting('pos', '300x250_2').setTargeting('roxot-group-id', getRoxotGroupId()).setTargeting('roxot-sector-id', getRoxotSectorId()).setTargeting('roxot-deep', getRoxotDeep()).setTargeting('roxot-event-group-id', getRoxotEvent()).setTargeting('roxot-event', getRoxotEvent()).setTargeting('roxot-event-deep', getRoxotEvent()).setTargeting('roxot-minutes', (new Date).getUTCMinutes().toString()).setTargeting('roxot-hours', (new Date).getUTCHours().toString()).setTargeting('roxot-day', (new Date).getUTCDay().toString());
+gptAdSlot['div-gpt-townhall_sub_article'] = googletag.defineSlot('/6177/slm.townhall/tipsheet/townhall_sub_article', [[1,1],"fluid"], 'div-gpt-townhall_sub_article').addService(googletag.pubads()).setTargeting('pos', 'townhall_sub_article').setTargeting('roxot-group-id', getRoxotGroupId()).setTargeting('roxot-sector-id', getRoxotSectorId()).setTargeting('roxot-deep', getRoxotDeep()).setTargeting('roxot-event-group-id', getRoxotEvent()).setTargeting('roxot-event', getRoxotEvent()).setTargeting('roxot-event-deep', getRoxotEvent()).setTargeting('roxot-minutes', (new Date).getUTCMinutes().toString()).setTargeting('roxot-hours', (new Date).getUTCHours().toString()).setTargeting('roxot-day', (new Date).getUTCDay().toString());
+gptAdSlot['div-gpt-300x250_1'] = googletag.defineSlot('/6177/slm.townhall/tipsheet/300x250_1', [[300,250],[300,600]], 'div-gpt-300x250_1').addService(googletag.pubads()).setTargeting('pos', '300x250_1').setTargeting('roxot-group-id', getRoxotGroupId()).setTargeting('roxot-sector-id', getRoxotSectorId()).setTargeting('roxot-deep', getRoxotDeep()).setTargeting('roxot-event-group-id', getRoxotEvent()).setTargeting('roxot-event', getRoxotEvent()).setTargeting('roxot-event-deep', getRoxotEvent()).setTargeting('roxot-minutes', (new Date).getUTCMinutes().toString()).setTargeting('roxot-hours', (new Date).getUTCHours().toString()).setTargeting('roxot-day', (new Date).getUTCDay().toString());
+gptAdSlot['div-gpt-300x250_3'] = googletag.defineSlot('/6177/slm.townhall/tipsheet/300x250_3', [[300,250],[300,600]], 'div-gpt-300x250_3').addService(googletag.pubads()).setTargeting('pos', '300x250_3').setTargeting('roxot-group-id', getRoxotGroupId()).setTargeting('roxot-sector-id', getRoxotSectorId()).setTargeting('roxot-deep', getRoxotDeep()).setTargeting('roxot-event-group-id', getRoxotEvent()).setTargeting('roxot-event', getRoxotEvent()).setTargeting('roxot-event-deep', getRoxotEvent()).setTargeting('roxot-minutes', (new Date).getUTCMinutes().toString()).setTargeting('roxot-hours', (new Date).getUTCHours().toString()).setTargeting('roxot-day', (new Date).getUTCDay().toString());
+gptAdSlot['div-gpt-300x250_sticky'] = googletag.defineSlot('/6177/slm.townhall/tipsheet/300x250_sticky', [[300,250]], 'div-gpt-300x250_sticky').addService(googletag.pubads()).setTargeting('pos', '300x250_sticky').setTargeting('roxot-group-id', getRoxotGroupId()).setTargeting('roxot-sector-id', getRoxotSectorId()).setTargeting('roxot-deep', getRoxotDeep()).setTargeting('roxot-event-group-id', getRoxotEvent()).setTargeting('roxot-event', getRoxotEvent()).setTargeting('roxot-event-deep', getRoxotEvent()).setTargeting('roxot-minutes', (new Date).getUTCMinutes().toString()).setTargeting('roxot-hours', (new Date).getUTCHours().toString()).setTargeting('roxot-day', (new Date).getUTCDay().toString());
+gptAdSlot['div-gpt-728x90_3'] = googletag.defineSlot('/6177/slm.townhall/tipsheet/728x90_3', [[728,90],[970,90]], 'div-gpt-728x90_3').addService(googletag.pubads()).setTargeting('pos', '728x90_3').setTargeting('roxot-group-id', getRoxotGroupId()).setTargeting('roxot-sector-id', getRoxotSectorId()).setTargeting('roxot-deep', getRoxotDeep()).setTargeting('roxot-event-group-id', getRoxotEvent()).setTargeting('roxot-event', getRoxotEvent()).setTargeting('roxot-event-deep', getRoxotEvent()).setTargeting('roxot-minutes', (new Date).getUTCMinutes().toString()).setTargeting('roxot-hours', (new Date).getUTCHours().toString()).setTargeting('roxot-day', (new Date).getUTCDay().toString());
+gptAdSlot['div-gpt-oop'] = googletag.defineOutOfPageSlot('/6177/slm.townhall/tipsheet', 'div-gpt-oop').addService(googletag.pubads());
+
+
+                if (typeof Storage !== "undefined") {
+                    var targetingParamStr = localStorage.getItem("bcDFPTargetingParams");
+
+                    if (targetingParamStr) {
+                        var targetingParameters = JSON.parse(targetingParamStr);
+
+                        // set page-level targeting parameters
+                        jQuery.each(targetingParameters, function (index, param) {
+                            window.googletag.pubads().setTargeting(param.key, param.value);
+                        });
+                    }
+                }
+            } catch (e) {
+                console.error("thm-ad-exception", e);
+            }
+
+            googletag.pubads().addEventListener('impressionViewable', function (event) {
+                
+                var slot = event.slot;
+                if (slot.getTargeting('refresh').indexOf('true') > -1) {
+                    setTimeout(function () {
+                        Thm.RefreshAd(slot);
+                    }, refreshInterval);
+                }
+            });
+            
+            
+            googletag.pubads().setTargeting("tags",["Donald Trump","Michael Bloomberg","President","presidency","New York City Mayor","2020 Election","2020 presidential election"]).setTargeting("author", "Ian  Snively").setTargeting("fullUrl", "untitled-n2541416");
+
+            
+
+            googletag.enableServices();
+
+        });
+        //]]>
+    </script>
+
+<script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            }; if (!f._fbq) f._fbq = n;
+            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+        }(window,
+            document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '791796474183597');
+        fbq('track', "PageView");</script>
+<noscript>
+        <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=791796474183597&ev=PageView&noscript=1" />
+    </noscript>
+
+<link href="/resources/lib/owl-carousel2/dist/assets/owl.carousel.min.css" rel="stylesheet" />
+<script id="article-meta" type="application/json">
+        {"Title":"Bloomberg Will Spend $500 Million Against Trump- Unsure if He'll Run in 2020","IsArticleView":true,"BaseShareUrl":"http://townhall.com","Canonical":"https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416","ShareTitle":"Bloomberg Will Spend $500 Million Against Trump- Unsure if He'll Run in 2020","PublishedDate":"2019-02-13T10:15:00","Id":121687,"Author":"Ian  Snively","AuthorImage":"authorimages//4fdaecbf-c2e5-4d10-bf18-188ad26d224c.jpg","ImageUrl":"https://media.townhall.com/townhall/reu/ha/2018/298/92a61346-f7a0-44d0-9797-ba15710c4764.jpg"}
+    </script>
+</head>
+<body>
+<div id="search">
+<button type="button" class="close"><i class="fa fa-close"></i></button>
+<form id="site-search">
+<input type="search" id="q" name="q" value="" placeholder="Search townhall.com...." />
+<button type="button" class="btn btn-default btn-search"><i class="fa fa-search"></i></button>
+</form>
+</div>
+<header>
+<nav id="thm-nav-sm" class="navbar navbar-default navbar-condensed navbar-fixed-top navbar-article-header">
+<div class="breaking-news-bar-container-condensed"></div>
+<div class="container">
+<div class="navbar-header">
+<a class="navbar-brand" href="/">
+<img src="/resources/th_logo.svg" class="th-logo" alt="">
+</a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+<ul class="nav navbar-nav navbar-links navbar-right">
+<li><a title="Columnists" href="/columnists/" class="top-menu">Columnists</a></li>
+<li class="active"><a title="Tipsheet" href="/tipsheet/" class="top-menu">Tipsheet</a></li>
+<li><a title="Cartoons" href="/political-cartoons/" class="top-menu">Cartoons</a></li>
+<li><a title="Podcasts" class="top-menu" href="/podcasts/">Podcasts</a></li>
+<li><a title="Election" class="top-menu hidden-md hidden-sm" href="/election/"><img style="width: 17px;height:17px;position: relative;top: 0px;" class="ec-brand" src="/resources/th_election_logo.svg">&nbsp;Election</a></li>
+<li><a title="Townhall TV" href="/tv/" class="top-menu">Townhall TV</a></li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle top-menu" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sections <span class="fa fa-chevron-down"></span></a>
+<ul class="dropdown-menu">
+<li><a title="Notebook" href="/notebook/">Notebook</a></li>
+<li><a title="Capitol Voices" href="/capitol-voices/">Capitol Voices</a></li>
+<li><a title="Entertainment" href="/entertainment/">Entertainment</a></li>
+<li><a title="Radio News" href="/news/">Radio News</a></li>
+<li class="hidden-lg"><a title="Election" href="/election/">Election</a></li>
+<li><a title="PollTracker" href="/polltracker/">Poll Tracker</a></li>
+<li><a title="Slideshows" href="/slideshows/">Slideshows</a></li>
+<li><a title="Video" href="/video/">Video</a></li>
+<li><a title="" href="/watchdog/">Watchdog</a></li>
+<li><a title="" href="/health/">Health</a></li>
+<li><a title="Newsletter signup" href="/newslettersignup/">Newsletters</a></li>
+<li><a title="Topics" href="/tags/">Topics</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle top-menu" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sites <span class="fa fa-chevron-down"></span></a>
+<ul class="dropdown-menu">
+<li><a href="http://hotair.com" target="_blank">Hot Air</a></li>
+<li><a href="http://bearingarms.com" target="_blank">Bearing Arms</a></li>
+<li><a href="http://twitchy.com" target="_blank">Twitchy</a></li>
+<li><a href="http://redstate.com" target="_blank">RedState</a></li>
+<li><a href="http://humanevents.com" target="_blank">Human Events</a></li>
+<li><a href="http://finance.townhall.com" target="_blank">Townhall Finance</a></li>
+<li><a href="http://www.conservativeradio.com/" target="_blank">Conservative Radio</a></li>
+</ul>
+</li>
+<li><button title="Search" id="btn-show-search" class="btn btn-default btn-show-search"><i class="fa fa-search"></i></button></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="thm-pad" style="padding-top:75px;">
+</div>
+<nav class="navbar navbar-default navbar-fixed-top navbar-article">
+<div class="container">
+<div class="navbar-header">
+<a class="navbar-brand" href="/"><img src="/resources/th_logo.svg" class="th-logo"></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+<ul class="nav navbar-nav navbar-title">
+<li class="headline">Bloomberg Will Spend $500 Million Against Trump- Unsure if He&#39;ll Run in 2020</li>
+</ul>
+<ul class="nav navbar-nav navbar-btn-search pull-right">
+<li><button class="btn btn-facebook-lg sc-fb"><i class="fa fa-facebook-official"></i>&nbsp;Share</button></li>
+<li><button class="btn btn-twitter-lg sc-tw"><i class="fa fa-twitter"></i>&nbsp;Tweet</button></li>
+<li><button title="Search" id="btn-show-search" class="btn btn-default btn-show-search"><i class="fa fa-search"></i></button></li>
+</ul>
+</div>
+</div>
+<div class="thm-carousel">
+<div class="owl-carousel owl-theme">
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/tipsheet/cortneyobrien/2019/02/26/dems-subpoena-former-trump-officials-over-border-policy-n2542239"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Dems (and a Couple Republicans) Subpoena Trump Officials Over Border Policy" data-src="//media.townhall.com/townhall/reu/b/townhall/reu/o/2018/337/b5fe6ed8-7d62-4c97-a15b-766601d07927.png" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/tipsheet/cortneyobrien/2019/02/26/dems-subpoena-former-trump-officials-over-border-policy-n2542239">Dems (and a Couple Republicans) Subpoena Trump Officials Over Border Policy</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/tipsheet/cortneyobrien/2019/02/26/nbcs-peter-alexander-faced-some-suppression-in-vietnam-too-n2542214"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="NBC&#39;s Peter Alexander Faced Some Suppression in Vietnam Too" data-src="//media.townhall.com/townhall/reu/b/2019/57/c2fd272f-2674-437c-a012-b7877b7f3f35.png" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/tipsheet/cortneyobrien/2019/02/26/nbcs-peter-alexander-faced-some-suppression-in-vietnam-too-n2542214">NBC&#39;s Peter Alexander Faced Some Suppression in Vietnam Too</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/tipsheet/leahbarkoukis/2019/02/26/senate-dems-block-born-alive-bill-n2542212"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Senate Dems Block Born-Alive Bill in &#39;One of the Most Shocking Votes in the History of Congress&#39;" data-src="//media.townhall.com/townhall/reu/b/2017/360/4160497f-09d8-482d-a985-49c9651b6188.jpg" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/tipsheet/leahbarkoukis/2019/02/26/senate-dems-block-born-alive-bill-n2542212">Senate Dems Block Born-Alive Bill in &#39;One of the Most Shocking Votes in the History of Congress&#39;</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/tipsheet/cortneyobrien/2019/02/26/some-of-the-questions-republicans-asked-their-dem-colleagues-after-voting-down-pr-n2542213"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill" data-src="//media.townhall.com/townhall/reu/b/2018/116/20f6f867-dae9-4056-8f88-5889ba69a23d.jpg" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/tipsheet/cortneyobrien/2019/02/26/some-of-the-questions-republicans-asked-their-dem-colleagues-after-voting-down-pr-n2542213">Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/tipsheet/leahbarkoukis/2019/02/26/thom-tillis-will-vote-against-trumps-emergency-declaration-n2542197"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="This GOP Senator Will Support a Resolution Blocking Trump&#39;s Emergency Declaration" data-src="//media.townhall.com/townhall/reu/b/2015/321/058dc090-8664-4863-9a6f-b8cf68dff73a.jpg" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/tipsheet/leahbarkoukis/2019/02/26/thom-tillis-will-vote-against-trumps-emergency-declaration-n2542197">This GOP Senator Will Support a Resolution Blocking Trump&#39;s Emergency Declaration</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/columnists/dennisprager/2019/02/26/why-do-blacks-and-leftists-wish-the-attack-on-smollett-happened-n2542201"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Why Do Blacks and Leftists Wish the Attack on Smollett Happened?" data-src="//media.townhall.com/townhall/reu/b/2019/50/fc132021-2448-48e4-ab84-e8e3fbc113b9.png" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/columnists/dennisprager/2019/02/26/why-do-blacks-and-leftists-wish-the-attack-on-smollett-happened-n2542201">Why Do Blacks and Leftists Wish the Attack on Smollett Happened?</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/columnists/repchrispringle/2019/02/26/a-plan-to-bring-transparency-to-alabamas-licensing-boards-n2542203"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="A Plan To Bring Transparency to Alabama’s Licensing Boards" data-src="//media.townhall.com/townhall/reu/b/2012/165/945f586d-3d8c-4d43-96cc-1e150023b88b@news.ap.org.jpg" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/columnists/repchrispringle/2019/02/26/a-plan-to-bring-transparency-to-alabamas-licensing-boards-n2542203">A Plan To Bring Transparency to Alabama’s Licensing Boards</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/tipsheet/mattvespa/2019/02/25/colorado-governor-will-sign-bill-altering-how-state-allocates-its-electoral-colle-n2542155"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Colorado Governor Will Sign Bill Altering How State Allocates Its Electoral College Votes" data-src="//media.townhall.com/townhall/reu/b/2016/354/a411a49b-3234-4c17-8021-8566082874d6.jpg" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/tipsheet/mattvespa/2019/02/25/colorado-governor-will-sign-bill-altering-how-state-allocates-its-electoral-colle-n2542155">Colorado Governor Will Sign Bill Altering How State Allocates Its Electoral College Votes</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/columnists/kurtschlichter/2019/02/25/thats-a-hard-pass-on-socialism-millennial-suckers-n2542107"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="That’s A Hard Pass On Socialism, Millennial Suckers" data-src="//media.townhall.com/townhall/reu/b/2019/50/5b8496df-aad4-496c-8ec6-cd27dff391d4.png" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/columnists/kurtschlichter/2019/02/25/thats-a-hard-pass-on-socialism-millennial-suckers-n2542107">That’s A Hard Pass On Socialism, Millennial Suckers</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/tipsheet/mattvespa/2019/02/25/yeah-this-is-why-supporters-of-the-new-green-deal-dont-want-to-talk-about-the-p-n2542169"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Yeah, This Is Why Supporters Of The New Green Deal Don&#39;t Want To Talk About The Price Tag" data-src="//media.townhall.com/townhall/reu/b/2019/23/c15f8261-ddfd-4615-bcca-be5931ad98a8.png" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/tipsheet/mattvespa/2019/02/25/yeah-this-is-why-supporters-of-the-new-green-deal-dont-want-to-talk-about-the-p-n2542169">Yeah, This Is Why Supporters Of The New Green Deal Don&#39;t Want To Talk About The Price Tag</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/tipsheet/leahbarkoukis/2019/02/25/aoc-gnd-were-all-going-to-die-n2542132"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="AOC: &#39;We&#39;re All Screwed&#39; on Climate Change and &#39;Are Dying Now&#39;" data-src="//media.townhall.com/townhall/reu/b/2019/9/38e306cd-ae5e-4cd4-8450-a1b80da2ab78.png" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/tipsheet/leahbarkoukis/2019/02/25/aoc-gnd-were-all-going-to-die-n2542132">AOC: &#39;We&#39;re All Screwed&#39; on Climate Change and &#39;Are Dying Now&#39;</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/tipsheet/cortneyobrien/2019/02/25/neomi-raos-nomination-in-trouble-again-n2542157"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Conservative Judicial Experts Push Back at Sen. Hawley for Questioning Neomi Rao&#39;s Nomination" data-src="//media.townhall.com/townhall/reu/b/2018/310/c3773247-b04d-4029-b5ae-418def0dbea5.jpg" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/tipsheet/cortneyobrien/2019/02/25/neomi-raos-nomination-in-trouble-again-n2542157">Conservative Judicial Experts Push Back at Sen. Hawley for Questioning Neomi Rao&#39;s Nomination</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/tipsheet/cortneyobrien/2019/02/25/jon-stewart-helps-introduce-legislation-for-september-11-first-responders-n2542172"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Jon Stewart Sounds Off on Capitol Hill: It&#39;s &#39;Bulls***&#39; We Have to Drag 9/11 First Responders Here " data-src="//media.townhall.com/townhall/reu/b/2017/144/93a452c6-481d-4dfd-9376-0fa0dc12e505.jpg" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/tipsheet/cortneyobrien/2019/02/25/jon-stewart-helps-introduce-legislation-for-september-11-first-responders-n2542172">Jon Stewart Sounds Off on Capitol Hill: It&#39;s &#39;Bulls***&#39; We Have to Drag 9/11 First Responders Here </a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/tipsheet/cortneyobrien/2019/02/25/murkowski-likely-to-vote-to-block-trumps-national-emergency-n2542143"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Murkowski Joins Republicans Who Are &#39;Likely&#39; to Vote to Block Trump&#39;s National Emergency" data-src="//media.townhall.com/townhall/reu/b/2018/278/b6fc7d9b-038a-4556-b5a4-fe0e3ee6ba31.jpg" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/tipsheet/cortneyobrien/2019/02/25/murkowski-likely-to-vote-to-block-trumps-national-emergency-n2542143">Murkowski Joins Republicans Who Are &#39;Likely&#39; to Vote to Block Trump&#39;s National Emergency</a>
+</div>
+</div>
+<div class="item">
+<div class="thm-carousel__img">
+<a href="/tipsheet/leahbarkoukis/2019/02/25/poll-bernie-takes-early-lead-in-nh-dem-primary-n2542123"><img class="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Poll: Bernie Takes Early Lead in NH Dem Primary" data-src="//media.townhall.com/townhall/reu/b/2018/362/09e0d60b-fba1-4175-b0f0-bbc1d90fce37.png" /></a>
+</div>
+<div class="thm-carousel__caption">
+<a href="/tipsheet/leahbarkoukis/2019/02/25/poll-bernie-takes-early-lead-in-nh-dem-primary-n2542123">Poll: Bernie Takes Early Lead in NH Dem Primary</a>
+</div>
+</div>
+</div>
+</div></nav>
+</header>
+<div>
+<div class="container">
+<div class="row">
+<div class="col-xs-10">
+<ul class="breadcrumb">
+<li><a href="/">Townhall</a></li>
+<li><a href="/tipsheet/" class="text-capitalize">tipsheet</a></li>
+<li class="active">
+<a href="/tipsheet/iansnively/">Ian Snively</a>
+</li>
+</ul>
+</div>
+<div class="col-xs-2">
+<a href="/tags/donald-trump" class="btn btn-default btn-article-supertag pull-right">Donald Trump</a>
+</div>
+</div>
+<article class="with-rail">
+<div class="row">
+<div class="col-xs-12">
+<section id="article-header">
+<h1 class="headline">Bloomberg Will Spend $500 Million Against Trump- Unsure if He&#39;ll Run in 2020</h1>
+<div class="row">
+<div class="col-xs-12">
+<div class="contributor-img pull-left">
+<a href="/tipsheet/iansnively">
+<img alt="Ian  Snively" class="img-thumbnail" src="https://media.townhall.com/townhall/reu/contributor-sm/authorimages//4fdaecbf-c2e5-4d10-bf18-188ad26d224c.jpg" />
+</a>
+</div>
+<div class="contributor pull-left">
+<a href="/tipsheet/iansnively">Ian Snively</a>
+</div>
+<div class="contributor pull-left">|</div>
+<div class="contributor pull-left">Posted: Feb 13, 2019 10:15 AM</div>
+<div class="sc header-share">
+<a class="btn btn-facebook-lg sc-fb"><i class="fa fa-facebook-official"></i>&nbsp; Share <span class="fb-count"></span></a>
+<a class="btn btn-twitter-lg sc-tw" data-dc="2613"><i class="fa fa-twitter"></i>&nbsp; Tweet <span class="tw-count"></span></a>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="gpt-header">
+<div id="div-gpt-728x90_1" class="gpt-ad">
+<script type="text/javascript">
+                    googletag.cmd.push(function () {
+                        googletag.display("div-gpt-728x90_1");
+                        //googletag.pubads().refresh([gptAdSlot["div-gpt-728x90_1"]])
+                    });
+                </script>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-8">
+<section id="article-media-object">
+<img class="article-main-image img-responsive" wibbitz="embed-main-image" src="https://media.townhall.com/townhall/reu/ha/2018/298/92a61346-f7a0-44d0-9797-ba15710c4764.jpg" alt="Bloomberg Will Spend $500 Million Against Trump- Unsure if He&#39;ll Run in 2020" />
+<p class="main-image-source muted"><small><em>Source: AP Photo/Cheryl Senter</em></small></p>
+</section>
+<section id="article-body">
+<aside id="aside1" class="left">
+<div class="article-aside-ad">
+<div id="div-gpt-300x250_2" class="gpt-ad">
+<script type="text/javascript">
+                    googletag.cmd.push(function () {
+                        googletag.display("div-gpt-300x250_2");
+                        //googletag.pubads().refresh([gptAdSlot["div-gpt-300x250_2"]])
+                    });
+                </script>
+</div>
+</div>
+</aside>
+<p>Financial giant Michael Bloomberg plans to allocate $500 million to either his own 2020 campaign or to the Democrat who wins the primaries.</p><p>If Bloomberg decides not to join the presidential race, he will allocate his funds to run a “data-heavy campaign designed to operate as a shadow political party for the eventual Democratic nominee,” according to <em><a href="https://www.politico.com/story/2019/02/13/michael-bloomberg-trump-2020-1167159">Politico</a></em>.</p><p>Bloomberg’s political team assembled these two plans since November of last year. They met together regularly at Bloomberg Philanthropies to find ways to stop President Donald Trump from winning the next election.</p><p>Kevin Sheekey, Bloomberg’s top adviser during his time as New York City mayor, told <em>Politico&nbsp;</em>that $500 million should be enough funds to get through the first few months. If Bloomberg runs and wins the primaries, he’ll spend more on his campaign.&nbsp;</p><div class='nlbox ' id='lightbox-inline-form-2511e4d8-16e3-4067-a542-b0e63d4337b1'></div><p>Bloomberg plans to run as a Democrat, and not as an independent like he considered in the past. Former Starbucks CEO Howard Schultz announced that if he were to run as president, he would run as an independent; a decision that garnered him tons of criticism from Democrats.</p><p>“Mike spent $100 million in his last New York City election. And you can do the math as you think more broadly but New York City is 3 percent of the national population,” Sheekey said. “I’m not suggesting it’s straight math. But I’m suggesting that when Mike Bloomberg is committed to making a difference and seeing something though, generally speaking he’s pretty unabashed in doing so.”</p> <div class="mpw-inline">
+<div>
+<div class="mpw-inline-col__rail"><a title="Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill - 158" href="/tipsheet/cortneyobrien/2019/02/26/some-of-the-questions-republicans-asked-their-dem-colleagues-after-voting-down-pr-n2542213?utm_campaign=inarticle"><img class="img-responsive" src="https://media.townhall.com/townhall/reu/s124x68/2018/116/20f6f867-dae9-4056-8f88-5889ba69a23d.jpg" /></a></div>
+<div class="mpw-inline-col__content">
+<div class="mpw-inline-col__title">Recommended</div>
+<a title="Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill - 158" href="/tipsheet/cortneyobrien/2019/02/26/some-of-the-questions-republicans-asked-their-dem-colleagues-after-voting-down-pr-n2542213?utm_campaign=inarticle">
+<span class="mpw-inline-col__story">Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill</span>
+</a>
+<div class="mpw-inline-col__muted">
+Cortney O'Brien
+</div>
+</div>
+</div>
+</div>
+<p>On Feb. 8, Bloomberg told the <em>Associated Press&nbsp;</em>that he would make a <a href="https://www.miamiherald.com/news/article225979725.html">decision</a> in three more weeks whether or not he will run for president.</p>
+</section>
+<section id="article-footer">
+<div class="article-actions-footer sc">
+<div class="row">
+<div class="col-xs-12">
+<a class="btn btn-facebook-lg btn-block sc-fb"><i class="fa fa-facebook-official"></i>&nbsp; Share this on Facebook <span class="fb-count"></span></a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-6"><a class="btn btn-block btn-twitter-lg sc-tw" data-dc="2613"><i class="fa fa-twitter"></i>&nbsp; Tweet <span class="tw-count"></span></a></div>
+<div class="col-xs-2"><a href="mailto:?subject=Bloomberg Will Spend $500 Million Against Trump- Unsure if He&#39;ll Run in 2020&amp;body=https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416" class="btn btn-block btn-default btn-article-email"><i class="fa fa-envelope"></i></a></div>
+<div class="col-xs-2"><button data-url="https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416/print" class="btn btn-block btn-default btn-article-print"><i class="fa fa-print"></i></button></div>
+<div class="col-xs-2"><a href="#article-comment-bookmark" class="btn btn-block btn-default btn-article-comment"><i class="fa fa-comment"></i></a></div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div id='lightbox-inline-form-3f53e73d-fddd-4a51-b526-5f64c3cbe757'></div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div id="rcjsload_ffe38c"></div>
+<script type="text/javascript">
+        (function () {
+            function ad_block_test(e, o) { if ("undefined" != typeof document.body) { var t = "0.1.2-dev", o = o ? o : "sponsorText", n = document.createElement("DIV"); n.id = o, n.style.position = "absolute", n.style.left = "-999px", n.appendChild(document.createTextNode("&nbsp;")), document.body.appendChild(n), setTimeout(function () { if (n) { var o = 0 == n.clientHeight; try { } catch (d) { console && console.log && console.log("ad-block-test error", d) } e(o, t), document.body.removeChild(n) } }, 175) } }
+            ad_block_test(function (is_blocked) {
+                var widget_id = 102403;
+                if (is_blocked === true) {
+                    widget_id = 102452;
+                }
+                var referer = ""; try { if (referer = document.referrer, "undefined" == typeof referer) throw "undefined" } catch (exception) { referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL) } referer = referer.substr(0, 700);
+                var rcel = document.createElement("script");
+                rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+                rcel.type = 'text/javascript';
+                rcel.src = "//trends.revcontent.com/serve.js.php?w=" + widget_id + "&t=" + rcel.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer + '&is_blocked=' + is_blocked;
+                rcel.async = true;
+                var rcds = document.getElementById("rcjsload_ffe38c"); rcds.appendChild(rcel);
+            });
+        })();
+    </script>
+<div class="thm-bluec"></div>
+<div wibbitz="embed-player-widget"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<ul class="list-unstyled list-inline article-topics clearfix">
+<li>Tags: </li>
+<li><a class="btn btn-default btn-topic" data-tagid="499" href="/tags/donald-trump">Donald Trump</a></li>
+<li><a class="btn btn-default btn-topic" data-tagid="1657" href="/tags/michael-bloomberg">Michael Bloomberg</a></li>
+<li><a class="btn btn-default btn-topic" data-tagid="5185" href="/tags/president">President</a></li>
+<li><a class="btn btn-default btn-topic" data-tagid="5884" href="/tags/presidency">presidency</a></li>
+<li><a class="btn btn-default btn-topic" data-tagid="6671" href="/tags/new-york-city-mayor">New York City Mayor</a></li>
+<li><a class="btn btn-default btn-topic" data-tagid="12568" href="/tags/2020-election">2020 Election</a></li>
+<li><a class="btn btn-default btn-topic" data-tagid="15299" href="/tags/2020-presidential-election">2020 presidential election</a></li>
+</ul>
+<script>
+    var rndnum = Math.floor(Math.random() * 50000);
+    var submitScript = document.createElement('script');
+    submitScript.src = 'https://townhall.com/wservices/handlers/tagcount.ashx?tid=499,1657,5185,5884,6671,12568,15299&tnd=' + rndnum;
+    document.body.appendChild(submitScript);
+
+</script>
+</div>
+</div>
+<section id="grid-1">
+<div class="row">
+<div class="col-xs-4">
+<div id="div-gpt-townhall_sub_article" class="gpt-ad">
+<script type="text/javascript">
+                    googletag.cmd.push(function () {
+                        googletag.display("div-gpt-townhall_sub_article");
+                        //googletag.pubads().refresh([gptAdSlot["div-gpt-townhall_sub_article"]])
+                    });
+                </script>
+</div>
+</div>
+<div class="col-xs-4">
+<div class="story">
+<div class="story__img">
+<a class="thm-inc lazy" title="&lt;p&gt;Superb: Watch Ed Gillespie&#39;s Response When Asked About His Former Opponent&#39;s &#39;Blackface&#39; Scandal&lt;/p&gt;" data-src="https://media.townhall.com/townhall/reu/ha/images/2019/56/8f57c124-da33-4427-be35-004d9bd26c8f.png" href="https://townhall.com/tipsheet/guybenson/2019/02/26/watch-ed-gillespies-amazing-response-to-his-former-opponents-black-face-scandal-n2542127"></a>
+</div>
+<div class="story__flavor"></div>
+<div class="story__flavor"></div>
+<div class="story__text">
+<a class="thm-inc" title="&lt;p&gt;Superb: Watch Ed Gillespie&#39;s Response When Asked About His Former Opponent&#39;s &#39;Blackface&#39; Scandal&lt;/p&gt;" href="https://townhall.com/tipsheet/guybenson/2019/02/26/watch-ed-gillespies-amazing-response-to-his-former-opponents-black-face-scandal-n2542127"><p>Superb: Watch Ed Gillespie's Response When Asked About His Former Opponent's 'Blackface' Scandal</p></a>
+</div>
+<div class="story__author">
+Guy Benson <span class="wall">|</span>
+<div class="social">
+<a href="https://townhall.com/tipsheet/guybenson/2019/02/26/watch-ed-gillespies-amazing-response-to-his-former-opponents-black-face-scandal-n2542127" data-title="&lt;p&gt;Superb: Watch Ed Gillespie&#39;s Response When Asked About His Former Opponent&#39;s &#39;Blackface&#39; Scandal&lt;/p&gt;" rel="nofollow" onclick="ga('send', 'event', 'Article', 'Share', 'Facebook', {'nonInteraction': 1, transport: 'beacon'});" class="sc-fb social-slider fb">
+<i class="fa fa-facebook-official"></i>
+</a>
+<a href="https://townhall.com/tipsheet/guybenson/2019/02/26/watch-ed-gillespies-amazing-response-to-his-former-opponents-black-face-scandal-n2542127" data-title="&lt;p&gt;Superb: Watch Ed Gillespie&#39;s Response When Asked About His Former Opponent&#39;s &#39;Blackface&#39; Scandal&lt;/p&gt;" rel="nofollow" onclick="ga('send', 'event', 'Article', 'Share', 'Twitter', { 'nonInteraction': 1, transport: 'beacon' });" class="sc-tw social-slider tw">
+<i class="fa fa-twitter"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-4">
+<div class="story">
+<div class="story__img">
+<a class="thm-inc lazy" title="Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill" data-src="https://media.townhall.com/townhall/reu/ha/2018/116/20f6f867-dae9-4056-8f88-5889ba69a23d.jpg" href="https://townhall.com/tipsheet/cortneyobrien/2019/02/26/some-of-the-questions-republicans-asked-their-dem-colleagues-after-voting-down-pr-n2542213"></a>
+</div>
+<div class="story__flavor"></div>
+<div class="story__flavor"></div>
+<div class="story__text">
+<a class="thm-inc" title="Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill" href="https://townhall.com/tipsheet/cortneyobrien/2019/02/26/some-of-the-questions-republicans-asked-their-dem-colleagues-after-voting-down-pr-n2542213">Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill</a>
+</div>
+<div class="story__author">
+Cortney O&#39;Brien <span class="wall">|</span>
+<div class="social">
+<a href="https://townhall.com/tipsheet/cortneyobrien/2019/02/26/some-of-the-questions-republicans-asked-their-dem-colleagues-after-voting-down-pr-n2542213" data-title="Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill" rel="nofollow" onclick="ga('send', 'event', 'Article', 'Share', 'Facebook', {'nonInteraction': 1, transport: 'beacon'});" class="sc-fb social-slider fb">
+<i class="fa fa-facebook-official"></i>
+</a>
+<a href="https://townhall.com/tipsheet/cortneyobrien/2019/02/26/some-of-the-questions-republicans-asked-their-dem-colleagues-after-voting-down-pr-n2542213" data-title="Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill" rel="nofollow" onclick="ga('send', 'event', 'Article', 'Share', 'Twitter', { 'nonInteraction': 1, transport: 'beacon' });" class="sc-tw social-slider tw">
+<i class="fa fa-twitter"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div><div class="row">
+<div class="col-xs-4">
+<div class="story">
+<div class="story__img">
+<a class="thm-inc lazy" title="Bernie Sanders Thinks He Can Win Over Trump Supporters in 2020" data-src="https://media.townhall.com/townhall/reu/ha/2019/50/39e93109-9d81-4365-9b18-8bdc8a9fc3a4.png" href="https://townhall.com/tipsheet/iansnively/2019/02/26/bernie-sanders-speaks-about-trump-supporters-n2542230"></a>
+</div>
+<div class="story__flavor"></div>
+<div class="story__flavor"></div>
+<div class="story__text">
+<a class="thm-inc" title="Bernie Sanders Thinks He Can Win Over Trump Supporters in 2020" href="https://townhall.com/tipsheet/iansnively/2019/02/26/bernie-sanders-speaks-about-trump-supporters-n2542230">Bernie Sanders Thinks He Can Win Over Trump Supporters in 2020</a>
+</div>
+<div class="story__author">
+Ian Snively <span class="wall">|</span>
+<div class="social">
+<a href="https://townhall.com/tipsheet/iansnively/2019/02/26/bernie-sanders-speaks-about-trump-supporters-n2542230" data-title="Bernie Sanders Thinks He Can Win Over Trump Supporters in 2020" rel="nofollow" onclick="ga('send', 'event', 'Article', 'Share', 'Facebook', {'nonInteraction': 1, transport: 'beacon'});" class="sc-fb social-slider fb">
+<i class="fa fa-facebook-official"></i>
+</a>
+<a href="https://townhall.com/tipsheet/iansnively/2019/02/26/bernie-sanders-speaks-about-trump-supporters-n2542230" data-title="Bernie Sanders Thinks He Can Win Over Trump Supporters in 2020" rel="nofollow" onclick="ga('send', 'event', 'Article', 'Share', 'Twitter', { 'nonInteraction': 1, transport: 'beacon' });" class="sc-tw social-slider tw">
+<i class="fa fa-twitter"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-4">
+<div class="story">
+<div class="story__img">
+<a class="thm-inc lazy" title="&lt;p&gt;After Ramos&#39;s Venezuela Incident, NBC&#39;s Peter Alexander Faced Some Suppression in Vietnam Too&lt;/p&gt;" data-src="https://media.townhall.com/townhall/reu/ha/2019/57/c2fd272f-2674-437c-a012-b7877b7f3f35.png" href="https://townhall.com/tipsheet/cortneyobrien/2019/02/26/nbcs-peter-alexander-faced-some-suppression-in-vietnam-too-n2542214"></a>
+</div>
+<div class="story__flavor"></div>
+<div class="story__flavor"></div>
+<div class="story__text">
+<a class="thm-inc" title="&lt;p&gt;After Ramos&#39;s Venezuela Incident, NBC&#39;s Peter Alexander Faced Some Suppression in Vietnam Too&lt;/p&gt;" href="https://townhall.com/tipsheet/cortneyobrien/2019/02/26/nbcs-peter-alexander-faced-some-suppression-in-vietnam-too-n2542214"><p>After Ramos's Venezuela Incident, NBC's Peter Alexander Faced Some Suppression in Vietnam Too</p></a>
+</div>
+<div class="story__author">
+Cortney O&#39;Brien <span class="wall">|</span>
+<div class="social">
+<a href="https://townhall.com/tipsheet/cortneyobrien/2019/02/26/nbcs-peter-alexander-faced-some-suppression-in-vietnam-too-n2542214" data-title="&lt;p&gt;After Ramos&#39;s Venezuela Incident, NBC&#39;s Peter Alexander Faced Some Suppression in Vietnam Too&lt;/p&gt;" rel="nofollow" onclick="ga('send', 'event', 'Article', 'Share', 'Facebook', {'nonInteraction': 1, transport: 'beacon'});" class="sc-fb social-slider fb">
+<i class="fa fa-facebook-official"></i>
+</a>
+<a href="https://townhall.com/tipsheet/cortneyobrien/2019/02/26/nbcs-peter-alexander-faced-some-suppression-in-vietnam-too-n2542214" data-title="&lt;p&gt;After Ramos&#39;s Venezuela Incident, NBC&#39;s Peter Alexander Faced Some Suppression in Vietnam Too&lt;/p&gt;" rel="nofollow" onclick="ga('send', 'event', 'Article', 'Share', 'Twitter', { 'nonInteraction': 1, transport: 'beacon' });" class="sc-tw social-slider tw">
+<i class="fa fa-twitter"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-4">
+<div class="story">
+<div class="story__img">
+<a class="thm-inc lazy" title="&lt;p&gt;This GOP Senator Will Support a Resolution Blocking Trump&#39;s Emergency Declaration&lt;/p&gt;" data-src="https://media.townhall.com/townhall/reu/ha/2019/21/67a0ef0a-1f50-40c8-87e6-73caf4584e75.png" href="https://townhall.com/tipsheet/leahbarkoukis/2019/02/26/thom-tillis-will-vote-against-trumps-emergency-declaration-n2542197"></a>
+</div>
+<div class="story__flavor"></div>
+<div class="story__flavor"></div>
+<div class="story__text">
+<a class="thm-inc" title="&lt;p&gt;This GOP Senator Will Support a Resolution Blocking Trump&#39;s Emergency Declaration&lt;/p&gt;" href="https://townhall.com/tipsheet/leahbarkoukis/2019/02/26/thom-tillis-will-vote-against-trumps-emergency-declaration-n2542197"><p>This GOP Senator Will Support a Resolution Blocking Trump's Emergency Declaration</p></a>
+</div>
+<div class="story__author">
+Leah Barkoukis <span class="wall">|</span>
+<div class="social">
+<a href="https://townhall.com/tipsheet/leahbarkoukis/2019/02/26/thom-tillis-will-vote-against-trumps-emergency-declaration-n2542197" data-title="&lt;p&gt;This GOP Senator Will Support a Resolution Blocking Trump&#39;s Emergency Declaration&lt;/p&gt;" rel="nofollow" onclick="ga('send', 'event', 'Article', 'Share', 'Facebook', {'nonInteraction': 1, transport: 'beacon'});" class="sc-fb social-slider fb">
+<i class="fa fa-facebook-official"></i>
+</a>
+<a href="https://townhall.com/tipsheet/leahbarkoukis/2019/02/26/thom-tillis-will-vote-against-trumps-emergency-declaration-n2542197" data-title="&lt;p&gt;This GOP Senator Will Support a Resolution Blocking Trump&#39;s Emergency Declaration&lt;/p&gt;" rel="nofollow" onclick="ga('send', 'event', 'Article', 'Share', 'Twitter', { 'nonInteraction': 1, transport: 'beacon' });" class="sc-tw social-slider tw">
+<i class="fa fa-twitter"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div><div class="row">
+</div>
+</section>
+</section>
+<div id="article-comment-bookmark"></div>
+<section id="article-comments" name="article-comments">
+<button class="show-comments btn btn-lg btn-block btn-primary" style="margin:0 0 15px 0;" data-disqus-url="https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416">SHOW COMMENTS</button>
+<div id="disqus_thread"></div>
+<script>
+      var disqus_config = function () {
+            this.page.url = "https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416";
+          this.page.identifier = "https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416";
+      };
+    $('.show-comments').on('click', function () {
+        $.ajax({
+            type: "GET",
+            url: "//townhallcom.disqus.com/embed.js",
+            dataType: "script",
+            cache: true
+        });
+        $(this).hide();
+    });
+</script>
+</section>
+</div>
+<div class="col-xs-4 article-rail">
+<div class="ad">
+<div id="div-gpt-300x250_1" class="gpt-ad">
+<script type="text/javascript">
+                    googletag.cmd.push(function () {
+                        googletag.display("div-gpt-300x250_1");
+                        //googletag.pubads().refresh([gptAdSlot["div-gpt-300x250_1"]])
+                    });
+                </script>
+</div>
+</div>
+<div class="article-actions">
+<a href="mailto:?subject=Bloomberg Will Spend $500 Million Against Trump- Unsure if He&#39;ll Run in 2020&amp;body=https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416" class="btn btn-default btn-article-email"><i class="fa fa-envelope"></i></a>
+<button data-url="https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416/print" class="btn btn-default btn-article-print"><i class="fa fa-print"></i></button>
+<a href="#article-comment-bookmark" class="btn btn-default btn-article-comment"><i class="fa fa-comment"></i></a>
+</div>
+<div class="ad" style="margin-top:10px">
+<div id="div-gpt-300x250_3" class="gpt-ad">
+<script type="text/javascript">
+                    googletag.cmd.push(function () {
+                        googletag.display("div-gpt-300x250_3");
+                        //googletag.pubads().refresh([gptAdSlot["div-gpt-300x250_3"]])
+                    });
+                </script>
+</div>
+</div>
+<div class="cartoon-widget">
+<div class="cartoon-widget__title"><a href="/political-cartoons">CARTOONS</a>&nbsp;|&nbsp;<a href="/political-cartoons/afbranco/">AF Branco</a></div>
+<a class="cartoon-widget__img" href="/political-cartoons/2019/02/26/163684" style="background-image:url('//media.townhall.com/Townhall/Car/b/afb022619dAPR20190226054533.jpg');"></a>
+<div class="cartoon-widget__button"><a href="/political-cartoons/2019/02/26/163684"> View Cartoon <i class="fa fa-arrow-circle-right"></i></a></div>
+</div>
+<div class="sticky-reference">
+<div class="sticky" data-offset-top="55">
+<div class="mpw">
+<div class="mpw__title">Most Popular</div>
+<ul class="list-unstyled mpw__divide">
+<li>
+<div class="row">
+ <div class="col-xs-4">
+<a title="Superb: Watch Ed Gillespie's Response When Asked About His Former Opponent's 'Blackface' Scandal - 473" href="/tipsheet/guybenson/2019/02/26/watch-ed-gillespies-amazing-response-to-his-former-opponents-black-face-scandal-n2542127"><img class="img-responsive lazy side-image" data-src="https://media.townhall.com/townhall/reu/s100x70/images/2019/56/8f57c124-da33-4427-be35-004d9bd26c8f.png" /></a>
+</div>
+<div class="col-xs-8 no-gutter">
+<a title="Superb: Watch Ed Gillespie's Response When Asked About His Former Opponent's 'Blackface' Scandal - 473" href="/tipsheet/guybenson/2019/02/26/watch-ed-gillespies-amazing-response-to-his-former-opponents-black-face-scandal-n2542127">
+<span class="mpw__story">Superb: Watch Ed Gillespie's Response When Asked About His Former Opponent's 'Blackface' Scandal</span>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="row">
+<div class="col-xs-4">
+<a title="Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill - 185" href="/tipsheet/cortneyobrien/2019/02/26/some-of-the-questions-republicans-asked-their-dem-colleagues-after-voting-down-pr-n2542213"><img class="img-responsive lazy side-image" data-src="https://media.townhall.com/townhall/reu/s100x70/2018/116/20f6f867-dae9-4056-8f88-5889ba69a23d.jpg" /></a>
+</div>
+<div class="col-xs-8 no-gutter">
+<a title="Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill - 185" href="/tipsheet/cortneyobrien/2019/02/26/some-of-the-questions-republicans-asked-their-dem-colleagues-after-voting-down-pr-n2542213">
+<span class="mpw__story">Some of the Questions Republicans Asked Their Dem Colleagues After Voting Down Pro-life Bill</span>
+</a>
+</div>
+</div>
+</li>
+<li>
+<div class="row">
+<div class="col-xs-4">
+<a title="Why Do Blacks and Leftists Wish the Attack on Smollett Happened? - 177" href="/columnists/dennisprager/2019/02/26/why-do-blacks-and-leftists-wish-the-attack-on-smollett-happened-n2542201"><img class="img-responsive lazy side-image" data-src="https://media.townhall.com/townhall/reu/s100x70/2019/50/fc132021-2448-48e4-ab84-e8e3fbc113b9.png" /></a>
+</div>
+<div class="col-xs-8 no-gutter">
+<a title="Why Do Blacks and Leftists Wish the Attack on Smollett Happened? - 177" href="/columnists/dennisprager/2019/02/26/why-do-blacks-and-leftists-wish-the-attack-on-smollett-happened-n2542201">
+<span class="mpw__story">Why Do Blacks and Leftists Wish the Attack on Smollett Happened?</span>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="ad">
+<div id="div-gpt-300x250_sticky" class="gpt-ad">
+<script type="text/javascript">
+                    googletag.cmd.push(function () {
+                        googletag.display("div-gpt-300x250_sticky");
+                        //googletag.pubads().refresh([gptAdSlot["div-gpt-300x250_sticky"]])
+                    });
+                </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<div class="row sticky-stopper">
+<div class="col-xs-12">
+<div class="article-ad-970x90">
+<div id="div-gpt-728x90_3" class="gpt-ad">
+<script type="text/javascript">
+                    googletag.cmd.push(function () {
+                        googletag.display("div-gpt-728x90_3");
+                        //googletag.pubads().refresh([gptAdSlot["div-gpt-728x90_3"]])
+                    });
+                </script>
+</div>
+</div>
+</div>
+</div>
+<section id="trending-on-thm" class="trending">
+<h1 class="trending__title">Trending on Townhall Media</h1>
+<div class="row">
+<div class="col-xs-4">
+<div class="mpw-bordered">
+<div class="mpw">
+<ul class="list-unstyled">
+<li>
+<a title="Cuomo Signs New York Particularly Problematic Red Flag Bill - 190" href="https://bearingarms.com/tom-k/2019/02/26/cuomo-signs-new-york-red-flag-bill/">
+<span class="mpw__story">Cuomo Signs New York Particularly Problematic Red Flag Bill</span>
+</a>
+<div class="mpw__domain" style="color:#ADADAD;">
+Bearing Arms
+</div>
+</li>
+<li>
+<a title="Amidst Global Warming Hysteria, NASA Expects Global Cooling - 15" href="https://finance.townhall.com/columnists/mikeshedlock/2019/01/30/amidst-global-warming-hysteria-nasa-expects-global-cooling-n2540500">
+<span class="mpw__story">Amidst Global Warming Hysteria, NASA Expects Global Cooling</span>
+</a>
+<div class="mpw__domain" style="color:#56782F;">
+Townhall Finance
+</div>
+</li>
+<li>
+<a title="&#039;Good Lord, what a clown&#039;! NBC News&#039; Mark Murray just sprained his brain to get Obama off the hook on Russia - 335" href="https://twitchy.com/sarahd-313035/2019/02/26/good-lord-what-a-clown-nbc-news-mark-murray-just-sprained-his-brain-to-get-obama-off-the-hook-on-russia/">
+<span class="mpw__story">&#039;Good Lord, what a clown&#039;! NBC News&#039; Mark Murray just sprained his brain to get Obama off the hook on Russia</span>
+</a>
+<div class="mpw__domain" style="color:#F27B21;">
+Twitchy
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-xs-8">
+<div class="row">
+<div class="col-xs-12">
+<div class="xl-story">
+<div class="xl-story__img">
+<a target="_top" class="lazy" href="https://townhall.com/tipsheet/guybenson/2019/02/26/watch-ed-gillespies-amazing-response-to-his-former-opponents-black-face-scandal-n2542127" data-src="https://media.townhall.com/townhall/reu/ha/images/2019/56/8f57c124-da33-4427-be35-004d9bd26c8f.png">
+&nbsp;
+</a>
+</div>
+<div class="xl-story__summary">
+<h1>
+<a title="Superb: Watch Ed Gillespie&#39;s Response When Asked About His Former Opponent&#39;s &#39;Blackface&#39; Scandal" href="https://townhall.com/tipsheet/guybenson/2019/02/26/watch-ed-gillespies-amazing-response-to-his-former-opponents-black-face-scandal-n2542127">Superb: Watch Ed Gillespie's Response When Asked About His Former Opponent's 'Blackface' Scandal</a>
+</h1>
+<h5 style="color:#ba224b">Townhall</h5>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-6">
+<div class="sm-story">
+<div class="sm-story__text">
+<a title="AOC Embarrassingly Demonstrates That She Doesn&amp;#039;t Understand How Comparisons Work" href="https://www.redstate.com/brandon_morse/2019/02/26/aoc-embarrassingly-demonstrates-doesnt-understand-comparisons-work/">AOC Embarrassingly Demonstrates That She Doesn&#039;t Understand How Comparisons Work</a>
+</div>
+<div class="sm-story__flavor" style="color:#CB0809">Redstate</div>
+</div>
+</div>
+<div class="col-xs-6">
+<div class="sm-story">
+<div class="sm-story__text">
+<a title="Seattle&amp;#039;s homeless, &amp;#039;prolific offenders&amp;#039; responsible for thousands of criminal cases" href="https://hotair.com/archives/2019/02/26/seattles-homeless-prolific-offenders-responsible-thousands-criminal-cases/">Seattle&#039;s homeless, &#039;prolific offenders&#039; responsible for thousands of criminal cases</a>
+</div>
+<div class="sm-story__flavor" style="color:#CD2628">Hotair</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div id="ntjjod"></div>
+</div>
+</div>
+<footer class="sticky-stopper">
+<section class="footer-brands">
+<div class="container">
+<ul class="list-inline list-unstyled">
+<li><a href="https://townhall.com"><img src="//media.townhall.com/thm/th_logo1.png" alt="" /></a></li>
+<li><a href="http://hotair.com"><img src="//media.townhall.com/thm/ha_logo1.png" alt="" /></a></li>
+<li><a href="http://bearingarms.com"><img src="//media.townhall.com/thm/ba_logo1.png" alt="" /></a> </li>
+<li><a href="http://twitchy.com"><img src="//media.townhall.com/thm/tw_logo1.png" alt="" /></a></li>
+<li><a href="http://redstate.com"><img src="//media.townhall.com/thm/rs_logo1.png" alt="" /></a></li>
+<li><a href="http://humanevents.com"><img src="//media.townhall.com/thm/he_logo1.png" alt="" /></a></li>
+</ul>
+</div>
+</section>
+<section class="footer-links">
+<div class="container">
+<ul class="list-inline list-unstyled">
+<li><a title="Conservative Columnists" href="/columnists">Columnists</a></li>
+<li><a href="/political-cartoons">Political Cartoons</a></li>
+<li><a href="/tipsheet">Tipsheet</a> </li>
+<li><a href="/election">Election Results</a></li>
+<li><a title="Conservative News" href="/news">Radio News</a></li>
+<li><a title="Conservative Video" href="/video">Video</a></li>
+<li><a title="Conservative Entertainment" href="/entertainment">Entertainment</a></li>
+<li><a title="Conservative health" href="/health">Health</a></li>
+<li><a title="Conservative Capitol Voices" href="/capitol-voices">Capitol Voices</a></li>
+<li><a href="/slideshows">Slideshows</a></li>
+<li><a href="/tags/">Tags</a></li>
+<li><a href="http://finance.townhall.com">Finance</a></li>
+<li><a href="#" onclick="javascript:window.open('http://saleminteractivemedia.com/ListenLive/Player/TOWNIR','TOWNIR','width=800,height=710');">Townhall Radio</a></li>
+</ul>
+<ul class="list-inline list-unstyled">
+<li><a href="/aboutus">About Townhall</a></li>
+<li><a href="http://townhallmedia.com/">Advertise</a></li>
+<li><a href="https://townhall.com/tags/gift-guides/">Gift Guides</a></li>
+<li><a href="//media.townhall.com/townhall/privacypolicy/privacypolicy.htm">Privacy Policy</a></li>
+<li><a href="//media.townhall.com/townhall/privacypolicy/TermsofUse.htm">Terms of Use</a></li>
+<li><a target="_blank" href="http://www.conservativeradio.com/">Radio Stations</a></li>
+<li><a href="/sitemap.htm">Sitemap</a></li>
+<li><a href="/pages/townhall_jobs">Jobs </a></li>
+<li><a href="/contact-us/">Contact Us</a></li>
+<li><a href="/newslettersignup/">Newsletters</a></li>
+<li><a id="switch-to-mobile" href="http://m.townhall.com/">Townhall Mobile</a></li>
+<li><a href="/mobile-apps">iPhone/Android Apps</a></li>
+</ul>
+</div>
+</section>
+<section class="under-footer">
+<div class="container">
+<div class="row">
+<hr>
+<div class="col-xs-4">
+<a href="/">
+<img alt="Townhall.com" src="https://media.townhall.com/_townhall/resources/images/thmplus.png">
+<img style="width: 155px;height:auto;" alt="Townhall.com" src="https://media.townhall.com/_townhall/resources/images/TownhallLogo.png">
+</a>
+</div>
+<div class="col-xs-8">
+<p class="copyright" style="margin-top:12px;">
+Townhall.com is the leading source for conservative news and political commentary and analysis.<br>
+Copyright &copy; Townhall.com/Salem Media. All Rights Reserved. <a href="https://media.townhall.com/townhall/privacypolicy/TermsofUse.htm" target="_blank">Terms</a> under which this service
+is provided to you
+</p>
+</div>
+</div>
+</div>
+</section>
+<div id="div-gpt-oop" class="gpt-ad">
+<script type="text/javascript">
+                    googletag.cmd.push(function () {
+                        googletag.display("div-gpt-oop");
+                        //googletag.pubads().refresh([gptAdSlot["div-gpt-oop"]])
+                    });
+                </script>
+</div>
+</footer>
+<script src="/resources/dist/js/site.min.js"></script>
+<script async type='text/javascript' src='//www.lightboxcdn.com/vendor/8ec455a5-e85f-4613-9ba5-d11ccb0b50ed/lightbox_inline.js'></script>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script type="text/javascript">
+        var _sf_async_config = {};
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 14482;
+        _sf_async_config.domain = 'townhall.com';
+        _sf_async_config.sections = 'tipsheet';
+        _sf_async_config.authors = 'Ian  Snively';
+        _sf_async_config.useCanonical = true;
+        /** CONFIGURATION END **/
+        (function () {
+            function loadChartbeat() {
+                window._sf_endpt = (new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src',
+                           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+                           'js/chartbeat.js');
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function () { oldonload(); loadChartbeat(); };
+        })();
+
+</script>
+<script type="text/javascript">
+        console.info("The End: ", window.performance.now());
+        console.info("Device: ", "Desktop");
+    </script>
+</body>
+</html>

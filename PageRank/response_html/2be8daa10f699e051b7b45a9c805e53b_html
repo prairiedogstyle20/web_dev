@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js not-logged-in client-root">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>
+The Daily Show on Instagram: “What we learned today”
+</title>
+
+        
+        <meta name="robots" content="noimageindex, noarchive">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="theme-color" content="#000000">
+        <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover">
+        <link rel="manifest" href="/data/manifest.json">
+
+        <link rel="preload" href="/static/bundles/metro/Vendor.js/b9b00b19edc2.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/metro/en_US.js/5d7afa9f6291.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/metro/ConsumerCommons.js/7b4f47a43ea6.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/metro/Consumer.js/778e65cdc3ce.js" as="script" type="text/javascript" crossorigin="anonymous" />
+<link rel="preload" href="/static/bundles/metro/PostPageContainer.js/60e093e29c8c.js" as="script" type="text/javascript" crossorigin="anonymous" />
+        
+        
+
+        <script type="text/javascript">
+        (function() {
+  var docElement = document.documentElement;
+  var classRE = new RegExp('(^|\\s)no-js(\\s|$)');
+  var className = docElement.className;
+  docElement.className = className.replace(classRE, '$1js$2');
+})();
+</script>
+        <script type="text/javascript">
+(function() {
+  if ('PerformanceObserver' in window && 'PerformancePaintTiming' in window) {
+    window.__bufferedPerformance = [];
+    var ob = new PerformanceObserver(function(e) {
+      window.__bufferedPerformance.push.apply(window.__bufferedPerformance,e.getEntries());
+    });
+    ob.observe({entryTypes:['paint']});
+  }
+
+  window.__bufferedErrors = [];
+  window.onerror = function(message, url, line, column, error) {
+    window.__bufferedErrors.push({
+      message: message,
+      url: url,
+      line: line,
+      column: column,
+      error: error
+    });
+    return false;
+  };
+  window.__initialData = {
+    pending: true,
+    waiting: []
+  };
+  function asyncFetchSharedData(extra) {
+    var sharedDataReq = new XMLHttpRequest();
+    sharedDataReq.onreadystatechange = function() {
+          if (sharedDataReq.readyState === 4) {
+            if(sharedDataReq.status === 200){
+              var sharedData = JSON.parse(sharedDataReq.responseText);
+              window.__initialDataLoaded(sharedData, extra);
+            }
+          }
+        }
+    sharedDataReq.open('GET', '/data/shared_data/', true);
+    sharedDataReq.send(null);
+  }
+  window.__initialDataLoadFromCache = function(sharedData) {
+    var extra = { entry_data: sharedData.entry_data };
+    if (!localStorage) {
+      return asyncFetchSharedData(extra);
+    }
+    var cachedSharedData = localStorage.getItem("ig_sdc");
+    if (!cachedSharedData) {
+      return asyncFetchSharedData(extra);
+    }
+    try {
+      cachedSharedData = JSON.parse(cachedSharedData);
+    } catch (ex) {
+      return asyncFetchSharedData(extra);
+    }
+    if (cachedSharedData.expiry < Date.now() || cachedSharedData.schemaVersion != sharedData.cache_schema_version) {
+      return asyncFetchSharedData(extra);
+    }
+    window.__initialDataLoaded(sharedData, cachedSharedData.data);
+  };
+
+  function notifyLoaded(item, data) {
+    item.pending = false;
+    item.data = data;
+    for (var i = 0;i < item.waiting.length; ++i) {
+      item.waiting[i].resolve(item.data);
+    }
+    item.waiting = [];
+  }
+  function notifyError(item, msg) {
+    item.pending = false;
+    item.error = new Error(msg);
+    for (var i = 0;i < item.waiting.length; ++i) {
+      item.waiting[i].reject(item.error);
+    }
+    item.waiting = [];
+  }
+  window.__initialDataLoaded = function(initialData, extraData) {
+    for (var key in extraData) {
+      initialData[key] = extraData[key];
+    }
+    notifyLoaded(window.__initialData, initialData);
+  };
+  window.__initialDataError = function(msg) {
+    notifyError(window.__initialData, msg);
+  };
+  window.__additionalData = {};
+  window.__pendingAdditionalData = function(paths) {
+    for (var i = 0;i < paths.length; ++i) {
+      window.__additionalData[paths[i]] = {
+        pending: true,
+        waiting: []
+      };
+    }
+  };
+  window.__additionalDataLoaded = function(path, data) {
+    if (path in window.__additionalData) {
+      notifyLoaded(window.__additionalData[path], data);
+    } else {
+      console.error('Unexpected additional data loaded "' + path + '"');
+    }
+  };
+  window.__additionalDataError = function(path, msg) {
+    if (path in window.__additionalData) {
+      notifyError(window.__additionalData[path], msg);
+    } else {
+      console.error('Unexpected additional data encountered an error "' + path + '": ' + msg);
+    }
+  };
+  
+})();
+</script><script type="text/javascript">
+
+/*
+ Copyright 2018 Google Inc. All Rights Reserved.
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+*/
+
+(function(){function g(a,c){b||(b=a,f=c,h.forEach(function(a){removeEventListener(a,l,e)}),m())}function m(){b&&f&&0<d.length&&(d.forEach(function(a){a(b,f)}),d=[])}function n(a,c){function k(){g(a,c);d()}function b(){d()}function d(){removeEventListener("pointerup",k,e);removeEventListener("pointercancel",b,e)}addEventListener("pointerup",k,e);addEventListener("pointercancel",b,e)}function l(a){if(a.cancelable){var c=performance.now(),b=a.timeStamp;b>c&&(c=+new Date);c-=b;"pointerdown"==a.type?n(c,
+a):g(c,a)}}var e={passive:!0,capture:!0},h=["click","mousedown","keydown","touchstart","pointerdown"],b,f,d=[];h.forEach(function(a){addEventListener(a,l,e)});window.perfMetrics=window.perfMetrics||{};window.perfMetrics.onFirstInputDelay=function(a){d.push(a);m()}})();
+</script>
+    
+                <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/images/ico/apple-touch-icon-76x76-precomposed.png/4272e394f5ad.png">
+                <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/images/ico/apple-touch-icon-120x120-precomposed.png/02ba5abf9861.png">
+                <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/images/ico/apple-touch-icon-152x152-precomposed.png/419a6f9c7454.png">
+                <link rel="apple-touch-icon-precomposed" sizes="167x167" href="/static/images/ico/apple-touch-icon-167x167-precomposed.png/a24e58112f06.png">
+                <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/static/images/ico/apple-touch-icon-180x180-precomposed.png/85a358fb3b7d.png">
+                
+                    <link rel="icon" sizes="192x192" href="/static/images/ico/favicon-192.png/68d99ba29cc8.png">
+                
+            
+            
+                    <link rel="mask-icon" href="/static/images/ico/favicon.svg/fc72dd4bfde8.svg" color="#262626">
+                  
+                  <link rel="shortcut icon" type="image/x-icon" href="/static/images/ico/favicon.ico/36b3ee2d91ed.ico">
+                
+            
+            
+            
+    
+    <link rel="canonical" href="https://www.instagram.com/thedailyshow/p/Btwn4NCF2bg/" />
+    <meta content="24.1k Likes, 1,059 Comments - The Daily Show (@thedailyshow) on Instagram: “What we learned today”" name="description" />
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="The Daily Show on Instagram: “What we learned today”" />
+    <meta property="og:image" content="https://scontent-iad3-1.cdninstagram.com/vp/eedd51bae9effb6919a96115f23633ca/5C78203A/t51.2885-15/e15/50615110_386842085219548_1083090253302633887_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com" />
+    <meta property="og:description" content="24.1k Likes, 1,059 Comments - The Daily Show (@thedailyshow) on Instagram: “What we learned today”" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="https://www.instagram.com/p/Btwn4NCF2bg/" />
+    <meta property="instapp:owner_user_id" content="1176128384" />
+    <meta property="al:ios:app_name" content="Instagram" />
+    <meta property="al:ios:app_store_id" content="389801252" />
+    <meta property="al:ios:url" content="instagram://media?id=1977255622514009824" />
+    <meta property="al:android:app_name" content="Instagram" />
+    <meta property="al:android:package" content="com.instagram.android" />
+    <meta property="al:android:url" content="https://www.instagram.com/p/Btwn4NCF2bg/" />
+    
+    <meta name="medium" content="video" />
+    <meta property="og:type" content="video" />
+    <meta property="og:video" content="https://scontent-iad3-1.cdninstagram.com/vp/211c329a70fd7505bacef569072e5575/5C7802C3/t50.2886-16/52415738_382380062339938_2123395671812734976_n.mp4?_nc_ht=scontent-iad3-1.cdninstagram.com" />
+    <meta property="og:video:secure_url" content="https://scontent-iad3-1.cdninstagram.com/vp/211c329a70fd7505bacef569072e5575/5C7802C3/t50.2886-16/52415738_382380062339938_2123395671812734976_n.mp4?_nc_ht=scontent-iad3-1.cdninstagram.com" />
+    <meta property="og:video:type" content="video/mp4" />
+    <meta property="og:video:width" content="640" />
+    <meta property="og:video:height" content="360" />
+    
+
+    <link rel="alternate" href="android-app://com.instagram.android/https/instagram.com/p/Btwn4NCF2bg/" />
+    
+            <script type="application/ld+json">
+                {"@context":"http:\/\/schema.org","@type":"VideoObject","caption":"What we learned today","uploadDate":"2019-02-11T23:21:07","author":{"@type":"Person","alternateName":"@thedailyshow","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/thedailyshow\/"}},"comment":[{"@type":"Comment","text":"Lol he&#x27;s speaking to the immigrants who can&#x27;t speak English lol. It&#x27;s like those white people I used to come across and tell them I&#x27;m from Africa and they immediately start shouting at me speaking slowly so I could understand them.","author":{"@type":"Person","alternateName":"@kueibestie","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/kueibestie\/"}}},{"@type":"Comment","text":"@aavalovescados","author":{"@type":"Person","alternateName":"@evan_starr","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/evan_starr\/"}}},{"@type":"Comment","text":"Yeah he\u2019s talking to his base. No surprise here \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f","author":{"@type":"Person","alternateName":"@sdintsch","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/sdintsch\/"}}},{"@type":"Comment","text":"@gett_jaded I watched this so many times. Still hilarious every time \ud83e\udd23","author":{"@type":"Person","alternateName":"@ayyybailay","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/ayyybailay\/"}}},{"@type":"Comment","text":"@fat2fitcurvygirl \ud83d\ude02","author":{"@type":"Person","alternateName":"@ashleyhaisler","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/ashleyhaisler\/"}}},{"@type":"Comment","text":"Loser...that means you #45","author":{"@type":"Person","alternateName":"@luvlife1280","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/luvlife1280\/"}}},{"@type":"Comment","text":"THAT WAS THE FUNNIEST 5 SECONDS OF MY LIFE \ud83d\ude02\ud83d\ude02","author":{"@type":"Person","alternateName":"@momo_mommabear_86","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/momo_mommabear_86\/"}}},{"@type":"Comment","text":"Homicide is not murder","author":{"@type":"Person","alternateName":"@toxikr","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/toxikr\/"}}},{"@type":"Comment","text":"It wasnt ment for the comunity, it was only for Don to see and understand what he was talking about","author":{"@type":"Person","alternateName":"@thoressonliselott","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/thoressonliselott\/"}}},{"@type":"Comment","text":"@tattooedprincess40 he never reads his own speach. The writer probably wrote murder. after homocide so hevshould know what it means","author":{"@type":"Person","alternateName":"@thoressonliselott","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/thoressonliselott\/"}}},{"@type":"Comment","text":"@skywalker11mlaba \ud83d\ude02\ud83d\ude02\ud83d\ude02impintshi yakho mara","author":{"@type":"Person","alternateName":"@ondelaziqu","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/ondelaziqu\/"}}},{"@type":"Comment","text":"@ondelaziqu hay anginato impintsi enjena mina","author":{"@type":"Person","alternateName":"@skywalker11mlaba","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/skywalker11mlaba\/"}}},{"@type":"Comment","text":"@skywalker11mlaba \ud83d\ude02\ud83d\ude02\ud83d\ude02","author":{"@type":"Person","alternateName":"@ondelaziqu","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/ondelaziqu\/"}}},{"@type":"Comment","text":"\ud83e\udd23\ud83e\udd23\ud83e\udd23","author":{"@type":"Person","alternateName":"@mobearr20","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/mobearr20\/"}}},{"@type":"Comment","text":"@derek.k now I know!","author":{"@type":"Person","alternateName":"@marikabo304","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/marikabo304\/"}}},{"@type":"Comment","text":"@marikabo304 \ud83d\ude02","author":{"@type":"Person","alternateName":"@derek.k","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/derek.k\/"}}},{"@type":"Comment","text":"HOLD UP-","author":{"@type":"Person","alternateName":"@thebrownintrovert","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/thebrownintrovert\/"}}},{"@type":"Comment","text":"@over10 \ud83d\ude29","author":{"@type":"Person","alternateName":"@tatummayumi","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/tatummayumi\/"}}},{"@type":"Comment","text":"\ud83d\ude02\ud83d\ude02","author":{"@type":"Person","alternateName":"@gabbyhartgerink","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/gabbyhartgerink\/"}}},{"@type":"Comment","text":"More than anybody learns from watching your trash","author":{"@type":"Person","alternateName":"@the_stickiest_of_the_icky","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/the_stickiest_of_the_icky\/"}}},{"@type":"Comment","text":"@marksincl \ud83d\ude02\ud83d\ude02\ud83d\ude02","author":{"@type":"Person","alternateName":"@nikkimends","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/nikkimends\/"}}},{"@type":"Comment","text":"Is that clarification for his or for his stupid supporters benefit?","author":{"@type":"Person","alternateName":"@gissyb","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/gissyb\/"}}},{"@type":"Comment","text":"@djerrera","author":{"@type":"Person","alternateName":"@katielynners","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/katielynners\/"}}},{"@type":"Comment","text":"@johnny__dow","author":{"@type":"Person","alternateName":"@shareeas","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/shareeas\/"}}},{"@type":"Comment","text":"This guy \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f","author":{"@type":"Person","alternateName":"@_iam_desire","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/_iam_desire\/"}}},{"@type":"Comment","text":"@flyshida \ud83d\ude02\ud83d\ude02\ud83d\ude02 facts!","author":{"@type":"Person","alternateName":"@sapiosexual4.0","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/sapiosexual4.0\/"}}},{"@type":"Comment","text":"\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02","author":{"@type":"Person","alternateName":"@saraosk09","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/saraosk09\/"}}},{"@type":"Comment","text":"Hahahahahahahahahahahahahahahahahahahahahahahahahahahaha \ud83d\ude06","author":{"@type":"Person","alternateName":"@derekfetti","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/derekfetti\/"}}},{"@type":"Comment","text":"Hollering \ud83d\ude02\ud83d\ude02\ud83d\ude02","author":{"@type":"Person","alternateName":"@shaleneweddle","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/shaleneweddle\/"}}},{"@type":"Comment","text":"@fishersbabble great point","author":{"@type":"Person","alternateName":"@shaleneweddle","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/shaleneweddle\/"}}},{"@type":"Comment","text":"\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02","author":{"@type":"Person","alternateName":"@omgitsrettastyle","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/omgitsrettastyle\/"}}},{"@type":"Comment","text":"@p_sakach","author":{"@type":"Person","alternateName":"@crazyyoyogirl23","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/crazyyoyogirl23\/"}}},{"@type":"Comment","text":"@crazyyoyogirl23 countdown to the next election. I am voting twice","author":{"@type":"Person","alternateName":"@p_sakach","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/p_sakach\/"}}},{"@type":"Comment","text":"\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02","author":{"@type":"Person","alternateName":"@mciseixas","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/mciseixas\/"}}},{"@type":"Comment","text":"Wow lol","author":{"@type":"Person","alternateName":"@goddess_merci","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/goddess_merci\/"}}},{"@type":"Comment","text":"I just busted out laughing lmaol \ud83d\ude29\ud83d\udc80\ud83d\ude2d","author":{"@type":"Person","alternateName":"@hotboiront","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/hotboiront\/"}}},{"@type":"Comment","text":"@aye__jj \ud83d\ude02\ud83c\udf93","author":{"@type":"Person","alternateName":"@dmoney_bennett","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/dmoney_bennett\/"}}},{"@type":"Comment","text":"@dmoney_bennett \ud83d\ude02","author":{"@type":"Person","alternateName":"@aye__jj","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/aye__jj\/"}}},{"@type":"Comment","text":"@fishersbabble \ud83d\ude02\ud83d\ude02\ud83d\ude02","author":{"@type":"Person","alternateName":"@jessyflower420","mainEntityofPage":{"@type":"ProfilePage","@id":"https:\/\/www.instagram.com\/jessyflower420\/"}}}],"commentCount":"1059","interactionStatistic":{"@type":"InteractionCounter","interactionType":{"@type":"WatchAction"},"userInteractionCount":"313918"},"mainEntityofPage":{"@type":"ItemPage","@id":"https:\/\/www.instagram.com\/p\/Btwn4NCF2bg\/?utm_source=ig_share_sheet&igshid=bcl43vqg15tl"},"description":"24.1k Likes, 1,059 Comments - The Daily Show (@thedailyshow) on Instagram: \u201cWhat we learned today\u201d","name":"The Daily Show on Instagram: \u201cWhat we learned today\u201d","thumbnailUrl":"https:\/\/scontent-iad3-1.cdninstagram.com\/vp\/0606d0096d5d4a7f96e7ddedf914e7ec\/5C77E339\/t51.2885-15\/e15\/c157.0.405.405\/50615110_386842085219548_1083090253302633887_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com"}
+            </script>
+        
+    <link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl" hreflang="x-default" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=en" hreflang="en" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=fr" hreflang="fr" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=it" hreflang="it" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=de" hreflang="de" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es" hreflang="es" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=zh-cn" hreflang="zh-cn" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=zh-tw" hreflang="zh-tw" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=ja" hreflang="ja" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=ko" hreflang="ko" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=pt" hreflang="pt" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=pt-br" hreflang="pt-br" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=af" hreflang="af" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=cs" hreflang="cs" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=da" hreflang="da" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=el" hreflang="el" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=fi" hreflang="fi" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=hr" hreflang="hr" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=hu" hreflang="hu" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=id" hreflang="id" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=ms" hreflang="ms" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=nb" hreflang="nb" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=nl" hreflang="nl" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=pl" hreflang="pl" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=ru" hreflang="ru" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=sk" hreflang="sk" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=sv" hreflang="sv" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=th" hreflang="th" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=tl" hreflang="tl" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=tr" hreflang="tr" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=hi" hreflang="hi" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=bn" hreflang="bn" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=gu" hreflang="gu" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=kn" hreflang="kn" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=ml" hreflang="ml" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=mr" hreflang="mr" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=pa" hreflang="pa" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=ta" hreflang="ta" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=te" hreflang="te" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=ne" hreflang="ne" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=si" hreflang="si" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=ur" hreflang="ur" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=vi" hreflang="vi" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=bg" hreflang="bg" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=fr-ca" hreflang="fr-ca" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=ro" hreflang="ro" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=sr" hreflang="sr" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=uk" hreflang="uk" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=zh-hk" hreflang="zh-hk" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-py" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-pa" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-cu" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-mx" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-co" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-gt" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-ar" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-do" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-pr" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-pe" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-ve" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-bo" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-cr" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-hn" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-ec" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-ni" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-sv" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-uy" />
+<link rel="alternate" href="https://www.instagram.com/p/Btwn4NCF2bg/?utm_source=ig_share_sheet&amp;igshid=bcl43vqg15tl&amp;hl=es-la" hreflang="es-cl" />
+</head>
+    <body class="">
+        
+    <span id="react-root"><svg width="50" height="50" viewBox="0 0 50 50" style="position:absolute;top:50%;left:50%;margin:-25px 0 0 -25px;fill:#c7c7c7"><path d="M25 1c-6.52 0-7.34.03-9.9.14-2.55.12-4.3.53-5.82 1.12a11.76 11.76 0 0 0-4.25 2.77 11.76 11.76 0 0 0-2.77 4.25c-.6 1.52-1 3.27-1.12 5.82C1.03 17.66 1 18.48 1 25c0 6.5.03 7.33.14 9.88.12 2.56.53 4.3 1.12 5.83a11.76 11.76 0 0 0 2.77 4.25 11.76 11.76 0 0 0 4.25 2.77c1.52.59 3.27 1 5.82 1.11 2.56.12 3.38.14 9.9.14 6.5 0 7.33-.02 9.88-.14 2.56-.12 4.3-.52 5.83-1.11a11.76 11.76 0 0 0 4.25-2.77 11.76 11.76 0 0 0 2.77-4.25c.59-1.53 1-3.27 1.11-5.83.12-2.55.14-3.37.14-9.89 0-6.51-.02-7.33-.14-9.89-.12-2.55-.52-4.3-1.11-5.82a11.76 11.76 0 0 0-2.77-4.25 11.76 11.76 0 0 0-4.25-2.77c-1.53-.6-3.27-1-5.83-1.12A170.2 170.2 0 0 0 25 1zm0 4.32c6.4 0 7.16.03 9.69.14 2.34.11 3.6.5 4.45.83 1.12.43 1.92.95 2.76 1.8a7.43 7.43 0 0 1 1.8 2.75c.32.85.72 2.12.82 4.46.12 2.53.14 3.29.14 9.7 0 6.4-.02 7.16-.14 9.69-.1 2.34-.5 3.6-.82 4.45a7.43 7.43 0 0 1-1.8 2.76 7.43 7.43 0 0 1-2.76 1.8c-.84.32-2.11.72-4.45.82-2.53.12-3.3.14-9.7.14-6.4 0-7.16-.02-9.7-.14-2.33-.1-3.6-.5-4.45-.82a7.43 7.43 0 0 1-2.76-1.8 7.43 7.43 0 0 1-1.8-2.76c-.32-.84-.71-2.11-.82-4.45a166.5 166.5 0 0 1-.14-9.7c0-6.4.03-7.16.14-9.7.11-2.33.5-3.6.83-4.45a7.43 7.43 0 0 1 1.8-2.76 7.43 7.43 0 0 1 2.75-1.8c.85-.32 2.12-.71 4.46-.82 2.53-.11 3.29-.14 9.7-.14zm0 7.35a12.32 12.32 0 1 0 0 24.64 12.32 12.32 0 0 0 0-24.64zM25 33a8 8 0 1 1 0-16 8 8 0 0 1 0 16zm15.68-20.8a2.88 2.88 0 1 0-5.76 0 2.88 2.88 0 0 0 5.76 0z"/></svg></span>
+
+        
+
+
+        
+            <script type="text/javascript">window._sharedData = {"config":{"csrf_token":"sqE9r31QRfHisvxu8Y2Aw6m9CcGp5wNy","viewer":null,"viewerId":null},"supports_es6":false,"country_code":"US","language_code":"en","locale":"en_US","entry_data":{"PostPage":[{"graphql":{"shortcode_media":{"__typename":"GraphVideo","id":"1977255622514009824","shortcode":"Btwn4NCF2bg","dimensions":{"height":421,"width":750},"gating_info":null,"media_preview":"ACoX1mYqu8k4Udv51mS3gMgJJC7cHvjOfzrOe8kYbA3y4HHr7euPaqruW5PU1FjS6RqqVyMNkeo/r6fjUsQMz7QMbeSQQfpWbZksSn8LA5/Ij+tD5t8LGx5O7cOMEcY4/wD1VVulwvs/63Ne+uCw2oxXB+YDg/n6eorNGo3I4Egx2ztz+PHWoJbguOep6n3qtSS7kt9jTt3gVQWQMwzkHPP1OOamkmt2/wCWSqfb/wDZooqhXt0/P/MPOt8bcAA9QF4zTd9ueAq5+mP6UUUWFfy/P/MlWa2A/wBUh+uSf/QKwTnPFFFAXuf/2Q==","display_url":"https://scontent-iad3-1.cdninstagram.com/vp/eedd51bae9effb6919a96115f23633ca/5C78203A/t51.2885-15/e15/50615110_386842085219548_1083090253302633887_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","display_resources":[{"src":"https://scontent-iad3-1.cdninstagram.com/vp/b92c74a5d683eb77e34d265d94743a7e/5C781DC4/t51.2885-15/e15/s640x640/50615110_386842085219548_1083090253302633887_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","config_width":640,"config_height":360},{"src":"https://scontent-iad3-1.cdninstagram.com/vp/eedd51bae9effb6919a96115f23633ca/5C78203A/t51.2885-15/e15/50615110_386842085219548_1083090253302633887_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","config_width":750,"config_height":421},{"src":"https://scontent-iad3-1.cdninstagram.com/vp/eedd51bae9effb6919a96115f23633ca/5C78203A/t51.2885-15/e15/50615110_386842085219548_1083090253302633887_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","config_width":1080,"config_height":607}],"dash_info":{"is_dash_eligible":false,"video_dash_manifest":null,"number_of_qualities":0},"video_url":"https://scontent-iad3-1.cdninstagram.com/vp/211c329a70fd7505bacef569072e5575/5C7802C3/t50.2886-16/52415738_382380062339938_2123395671812734976_n.mp4?_nc_ht=scontent-iad3-1.cdninstagram.com","video_view_count":313918,"is_video":true,"should_log_client_event":false,"tracking_token":"eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZDc2ZGI4ZDllODRlNGMwZjk1Njc4NWQ4MjhjZDExOGUxOTc3MjU1NjIyNTE0MDA5ODI0In0sInNpZ25hdHVyZSI6IiJ9","edge_media_to_tagged_user":{"edges":[]},"edge_media_to_caption":{"edges":[{"node":{"text":"What we learned today"}}]},"caption_is_edited":false,"has_ranked_comments":false,"edge_media_to_comment":{"count":1059,"page_info":{"has_next_page":true,"end_cursor":"QVFBVFZaX2FTQkdhQTFSLTR0aUYtSk1aMFRDSjFhTFA5NmF0UGdzWjZMZV9GLXlSYnhwajFoQ0ZGUFh4TG9OY1R6Q0Y4dVlTQ1Bfa25JUVBoQjcyVmJXYQ=="},"edges":[{"node":{"id":"17846813524362241","text":"Lol he's speaking to the immigrants who can't speak English lol. It's like those white people I used to come across and tell them I'm from Africa and they immediately start shouting at me speaking slowly so I could understand them.","created_at":1550101867,"did_report_as_spam":false,"owner":{"id":"2273953700","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/d0b23f809304f41820005a0319ef33c7/5D0E0491/t51.2885-19/s150x150/47290855_631785943891187_2754121111108059136_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"kueibestie"},"viewer_has_liked":false,"edge_liked_by":{"count":1}}},{"node":{"id":"18017360539097457","text":"@aavalovescados","created_at":1550103281,"did_report_as_spam":false,"owner":{"id":"230087531","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/94189dd43318a99d34c4367437208fbc/5D1DB467/t51.2885-19/s150x150/42339983_2257735774510476_7681467206948880384_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"evan_starr"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17971576420203451","text":"Yeah he\u2019s talking to his base. No surprise here \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f","created_at":1550104707,"did_report_as_spam":false,"owner":{"id":"177871245","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/ca93649aaa34e16b748b24efcccd171c/5D21200B/t51.2885-19/s150x150/31981974_234526513970261_5510223610888847360_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"sdintsch"},"viewer_has_liked":false,"edge_liked_by":{"count":1}}},{"node":{"id":"17859698542334572","text":"@gett_jaded I watched this so many times. Still hilarious every time \ud83e\udd23","created_at":1550106902,"did_report_as_spam":false,"owner":{"id":"179931198","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/883b3fe483cc56d7ba795cf07019962f/5D022C48/t51.2885-19/s150x150/19985888_139509243295425_2005600472823496704_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"ayyybailay"},"viewer_has_liked":false,"edge_liked_by":{"count":1}}},{"node":{"id":"17854119634345323","text":"@fat2fitcurvygirl \ud83d\ude02","created_at":1550109994,"did_report_as_spam":false,"owner":{"id":"536650241","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/7781ae7f0ad14974396ba569db5bd7a6/5D06BBE9/t51.2885-19/s150x150/50668291_1120063048169418_2071092092657991680_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"ashleyhaisler"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"18029041021070273","text":"Loser...that means you #45","created_at":1550110531,"did_report_as_spam":false,"owner":{"id":"9517048999","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/bc3bec4b5076facafd5e11e34b968292/5D07561D/t51.2885-19/s150x150/45605083_2247734302139285_7150283767951654912_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"luvlife1280"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"18031349221023342","text":"THAT WAS THE FUNNIEST 5 SECONDS OF MY LIFE \ud83d\ude02\ud83d\ude02","created_at":1550112546,"did_report_as_spam":false,"owner":{"id":"3881988191","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/97f45f7818865752e19b164d09a5fa24/5D204E8F/t51.2885-19/s150x150/47693935_1104186149762263_6136911853940375552_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"momo_mommabear_86"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"18033718837032417","text":"Homicide is not murder","created_at":1550115642,"did_report_as_spam":false,"owner":{"id":"5589283614","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/4344ca65251cd8313b3a09ff84d64c8e/5D03E80C/t51.2885-19/s150x150/36498608_203963320309181_7756214897918083072_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"toxikr"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17864372383325252","text":"It wasnt ment for the comunity, it was only for Don to see and understand what he was talking about","created_at":1550125055,"did_report_as_spam":false,"owner":{"id":"3012040276","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/b62312eec5eb497a96a0ba1c349fba76/5D24D2AD/t51.2885-19/s150x150/21296324_1945488745690383_1463631804010332160_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"thoressonliselott"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17940531691259342","text":"@tattooedprincess40 he never reads his own speach. The writer probably wrote murder. after homocide so hevshould know what it means","created_at":1550125252,"did_report_as_spam":false,"owner":{"id":"3012040276","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/b62312eec5eb497a96a0ba1c349fba76/5D24D2AD/t51.2885-19/s150x150/21296324_1945488745690383_1463631804010332160_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"thoressonliselott"},"viewer_has_liked":false,"edge_liked_by":{"count":2}}},{"node":{"id":"17969592145215038","text":"@skywalker11mlaba \ud83d\ude02\ud83d\ude02\ud83d\ude02impintshi yakho mara","created_at":1550125680,"did_report_as_spam":false,"owner":{"id":"3030374622","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/f2dee88de12c7eade9137d4635578ae6/5D08FB50/t51.2885-19/s150x150/15034970_133741083775318_6734604811431313408_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"ondelaziqu"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"18034626172008720","text":"@ondelaziqu hay anginato impintsi enjena mina","created_at":1550131885,"did_report_as_spam":false,"owner":{"id":"987498835","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/f152d870a3793de0f0e4d5b283aa75e2/5D08197C/t51.2885-19/10852810_1410157989292735_479639820_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"skywalker11mlaba"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17991482857199706","text":"@skywalker11mlaba \ud83d\ude02\ud83d\ude02\ud83d\ude02","created_at":1550136424,"did_report_as_spam":false,"owner":{"id":"3030374622","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/f2dee88de12c7eade9137d4635578ae6/5D08FB50/t51.2885-19/s150x150/15034970_133741083775318_6734604811431313408_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"ondelaziqu"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17971756399207921","text":"\ud83e\udd23\ud83e\udd23\ud83e\udd23","created_at":1550142049,"did_report_as_spam":false,"owner":{"id":"1557494082","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/76bc53ed6e91fc4cc33e7b7058fe2248/5D27A785/t51.2885-19/s150x150/51632824_2167476070233958_1041754148824940544_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"mobearr20"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"18006889603186341","text":"@derek.k now I know!","created_at":1550155128,"did_report_as_spam":false,"owner":{"id":"1040347834","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/8f238d2b60edde0e977b89e0686dda88/5D0E4719/t51.2885-19/10617115_1461714657430820_900084240_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"marikabo304"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"18032950429041617","text":"@marikabo304 \ud83d\ude02","created_at":1550155288,"did_report_as_spam":false,"owner":{"id":"1397478864","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/a0b85b3763c1c95bb7a543be8fcc5a12/5D1D5551/t51.2885-19/s150x150/22352366_1958742244384809_6136564670259003392_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"derek.k"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"18006993934141303","text":"HOLD UP-","created_at":1550166693,"did_report_as_spam":false,"owner":{"id":"4913773699","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/e809a942016d05e519d270ab43e8c42e/5D0367D8/t51.2885-19/s150x150/37862566_1674323669343509_4937085818947764224_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"thebrownintrovert"},"viewer_has_liked":false,"edge_liked_by":{"count":1}}},{"node":{"id":"17942722864251491","text":"@over10 \ud83d\ude29","created_at":1550168404,"did_report_as_spam":false,"owner":{"id":"32852621","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/d152d52a6fda64d5d366c5618fb68765/5D10D728/t51.2885-19/s150x150/50964891_287816221903138_5904388242999869440_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"tatummayumi"},"viewer_has_liked":false,"edge_liked_by":{"count":1}}},{"node":{"id":"18018254455129269","text":"\ud83d\ude02\ud83d\ude02","created_at":1550171432,"did_report_as_spam":false,"owner":{"id":"10460950912","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/6e17f61ace089e49a302416c8a00e587/5D036C97/t51.2885-19/s150x150/50734739_2101203836569205_3163548686894497792_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"gabbyhartgerink"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17941565329256097","text":"More than anybody learns from watching your trash","created_at":1550196719,"did_report_as_spam":false,"owner":{"id":"334844717","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/951f8634e8c72a910fc4f7648a5498d3/5D28E9DC/t51.2885-19/11909099_990795357609500_663773914_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"the_stickiest_of_the_icky"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17852404027353486","text":"@marksincl \ud83d\ude02\ud83d\ude02\ud83d\ude02","created_at":1550199036,"did_report_as_spam":false,"owner":{"id":"276567729","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/34e549c956e812390b23a1a00795a61c/5D244D79/t51.2885-19/s150x150/21879311_132894590667792_7224637271117398016_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"nikkimends"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"18018795115109075","text":"Is that clarification for his or for his stupid supporters benefit?","created_at":1550202447,"did_report_as_spam":false,"owner":{"id":"41684979","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/e9b75be244db29f91e2720d5f8f4d4b7/5D0E4FC4/t51.2885-19/11821768_1009992262374200_541870756_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"gissyb"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17867293465317734","text":"@djerrera","created_at":1550204476,"did_report_as_spam":false,"owner":{"id":"2277188556","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/c4bab1b5ffd56d48fdeedbc2a6eb1dd5/5D024185/t51.2885-19/s150x150/47482368_530207570830360_1959356856300208128_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"katielynners"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17968610047217365","text":"@johnny__dow","created_at":1550219771,"did_report_as_spam":false,"owner":{"id":"20461816","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/75080c3b30bd8f25e072c71de5596beb/5D08F1CD/t51.2885-19/s150x150/49748600_2267392546626764_4035543286977396736_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"shareeas"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17916474931281915","text":"This guy \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f","created_at":1550236593,"did_report_as_spam":false,"owner":{"id":"6447028","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/631c612618b7c8c9ddfd07e4a45b0928/5D1E4852/t51.2885-19/s150x150/44771554_1894660910630247_8607718818917122048_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"_iam_desire"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17969427955220959","text":"@flyshida \ud83d\ude02\ud83d\ude02\ud83d\ude02 facts!","created_at":1550282014,"did_report_as_spam":false,"owner":{"id":"38917713","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/168e6894d90133c699e8492c0bd6a03e/5D094853/t51.2885-19/s150x150/50259631_2144578362519517_4003557660501737472_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"sapiosexual4.0"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17995654807175944","text":"\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02","created_at":1550304567,"did_report_as_spam":false,"owner":{"id":"393826562","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/6394ba3333c8375c6db1f202c9fd219e/5D060659/t51.2885-19/s150x150/26863394_149587615760508_3125678847849136128_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"saraosk09"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17860584238330515","text":"Hahahahahahahahahahahahahahahahahahahahahahahahahahahaha \ud83d\ude06","created_at":1550314591,"did_report_as_spam":false,"owner":{"id":"1546435164","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/17663495f47cfea1951475beaef0815e/5D204084/t51.2885-19/s150x150/13413458_1787940718094648_1151946574_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"derekfetti"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"18002170708154033","text":"Hollering \ud83d\ude02\ud83d\ude02\ud83d\ude02","created_at":1550324611,"did_report_as_spam":false,"owner":{"id":"6007560859","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/65022dbd9f4c0f3e011cabcef7a1f483/5D1082E7/t51.2885-19/s150x150/23967439_139219383334933_2921096516019945472_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"shaleneweddle"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17934218377268994","text":"@fishersbabble great point","created_at":1550324629,"did_report_as_spam":false,"owner":{"id":"6007560859","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/65022dbd9f4c0f3e011cabcef7a1f483/5D1082E7/t51.2885-19/s150x150/23967439_139219383334933_2921096516019945472_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"shaleneweddle"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"18018925558108404","text":"\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02","created_at":1550342592,"did_report_as_spam":false,"owner":{"id":"2260242066","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/5e942933671faf20105787ac9c970daa/5D1A96D7/t51.2885-19/s150x150/50223154_323452334948386_1783573920868204544_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"omgitsrettastyle"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"18025670590074811","text":"@p_sakach","created_at":1550359841,"did_report_as_spam":false,"owner":{"id":"285835428","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/574e253d2369141c0b477a36c0aa4b80/5CECD760/t51.2885-19/s150x150/13092363_1561259780834588_861999259_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"crazyyoyogirl23"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17868025114319051","text":"@crazyyoyogirl23 countdown to the next election. I am voting twice","created_at":1550415326,"did_report_as_spam":false,"owner":{"id":"9307474276","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/71ea772a5063d8b1f04be0db48cd7642/5D20D834/t51.2885-19/s150x150/44773053_1154648314693587_5029179053169442816_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"p_sakach"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17861090512334798","text":"\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02","created_at":1550452496,"did_report_as_spam":false,"owner":{"id":"269950419","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/10dfa0b7e2b0a49358a0ddeeae8ed94e/5D0C37A7/t51.2885-19/s150x150/33118475_193431961304325_1931991936030212096_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"mciseixas"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17846157007367878","text":"Wow lol","created_at":1550478112,"did_report_as_spam":false,"owner":{"id":"2230955966","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/d9fb03e6a4ac6983fe470c80f87fbf60/5D21BDA6/t51.2885-19/s150x150/12362232_1676784015937158_662785902_a.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"goddess_merci"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17944920259247177","text":"I just busted out laughing lmaol \ud83d\ude29\ud83d\udc80\ud83d\ude2d","created_at":1550561349,"did_report_as_spam":false,"owner":{"id":"18182017","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/c1f287ad7ca17f36de2d605533ad9478/5D1872AD/t51.2885-19/s150x150/45802677_2231199237204228_1275779177252913152_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"hotboiront"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"18038087536029477","text":"@aye__jj \ud83d\ude02\ud83c\udf93","created_at":1551135261,"did_report_as_spam":false,"owner":{"id":"643389089","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/5d1fec26d58ee0c4684235f6e01ef8bb/5D027AD8/t51.2885-19/s150x150/30890565_364985140660610_1089351517565091840_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"dmoney_bennett"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17905856215295101","text":"@dmoney_bennett \ud83d\ude02","created_at":1551139937,"did_report_as_spam":false,"owner":{"id":"191106081","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/28051f5e216122e1ba6ca94fd1bcf068/5D28A261/t51.2885-19/s150x150/22499698_352267428560284_5523222703072346112_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"aye__jj"},"viewer_has_liked":false,"edge_liked_by":{"count":0}}},{"node":{"id":"17930312869273847","text":"@fishersbabble \ud83d\ude02\ud83d\ude02\ud83d\ude02","created_at":1551205075,"did_report_as_spam":false,"owner":{"id":"200332092","is_verified":false,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/b354e14d61116815dac18330de029f20/5D1ADF5B/t51.2885-19/s150x150/43107547_665906567136757_4922406694471860224_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"jessyflower420"},"viewer_has_liked":false,"edge_liked_by":{"count":1}}}]},"comments_disabled":false,"taken_at_timestamp":1549927267,"edge_media_preview_like":{"count":24199,"edges":[]},"edge_media_to_sponsor_user":{"edges":[]},"location":null,"viewer_has_liked":false,"viewer_has_saved":false,"viewer_has_saved_to_collection":false,"viewer_in_photo_of_you":false,"viewer_can_reshare":true,"owner":{"id":"1176128384","is_verified":true,"profile_pic_url":"https://scontent-iad3-1.cdninstagram.com/vp/ce2fc02abfe3f5eb82c254f8b793a5db/5D276CB3/t51.2885-19/s150x150/46378114_596848727411536_8468083913091186688_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com","username":"thedailyshow","blocked_by_viewer":false,"followed_by_viewer":false,"full_name":"The Daily Show","has_blocked_viewer":false,"is_private":false,"is_unpublished":false,"requested_by_viewer":false},"is_ad":false,"edge_web_media_to_related_media":{"edges":[]},"encoding_status":null,"is_published":true,"product_type":"feed","title":"","video_duration":12.21,"thumbnail_src":"https://scontent-iad3-1.cdninstagram.com/vp/0606d0096d5d4a7f96e7ddedf914e7ec/5C77E339/t51.2885-15/e15/c157.0.405.405/50615110_386842085219548_1083090253302633887_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com"}}}]},"gatekeepers":{"sw":true,"seo":true,"seoht":true,"phone_qp":true,"nt":true,"rp":true,"oba":true,"hpi":true},"knobs":{"acct:ntb":0,"cb":0,"captcha":0,"fr":0},"qe":{"sdc":{"g":"","p":{}},"fsu_count":{"g":"","p":{}},"iab":{"g":"test","p":{"has_open_app_ios":"true"}},"app_upsell":{"g":"","p":{}},"igl_app_upsell":{"g":"","p":{}},"profile_header_name":{"g":"","p":{}},"bc3l":{"g":"","p":{}},"direct_conversation_reporting":{"g":"","p":{}},"frx_reporting":{"g":"","p":{}},"general_reporting":{"g":"","p":{}},"reporting":{"g":"","p":{}},"acc_recovery_link":{"g":"","p":{}},"notif":{"g":"","p":{}},"mobile_stories_doodling":{"g":"","p":{}},"show_copy_link":{"g":"","p":{}},"p_edit":{"g":"","p":{}},"404_as_react":{"g":"","p":{}},"acc_recovery":{"g":"","p":{}},"bundle":{"g":"","p":{}},"collections":{"g":"","p":{}},"dir":{"g":"","p":{}},"comment_ta":{"g":"","p":{}},"su":{"g":"","p":{}},"ebd_ul":{"g":"","p":{}},"ebdsim_li":{"g":"","p":{}},"ebdsim_lo":{"g":"","p":{}},"empty_feed":{"g":"","p":{}},"appsell":{"g":"","p":{}},"heart_tab":{"g":"","p":{}},"follow_button":{"g":"","p":{}},"log_cont":{"g":"","p":{}},"msisdn":{"g":"","p":{}},"onetaplogin":{"g":"","p":{}},"onetap":{"g":"","p":{}},"profile_tabs":{"g":"","p":{}},"multireg_iter":{"g":"control_11_29","p":{"has_prioritized_phone":"false"}},"reg_vp":{"g":"test_group_2","p":{"hide_value_prop":"true"}},"report_media":{"g":"","p":{}},"report_profile":{"g":"","p":{}},"sidecar_swipe":{"g":"","p":{}},"su_universe":{"g":"","p":{}},"stale":{"g":"","p":{}},"tp_pblshr":{"g":"","p":{}},"video":{"g":"","p":{}},"felix":{"g":"","p":{}},"felix_clear_fb_cookie":{"g":"","p":{}},"felix_creation_duration_limits":{"g":"","p":{}},"felix_creation_enabled":{"g":"","p":{}},"felix_creation_fb_crossposting":{"g":"","p":{}},"felix_creation_fb_crossposting_v2":{"g":"","p":{}},"felix_creation_validation":{"g":"","p":{}},"felix_creation_video_upload":{"g":"","p":{}},"felix_early_onboarding":{"g":"","p":{}},"profile_enhance_li":{"g":"","p":{}},"profile_enhance_lo":{"g":"","p":{}},"comment_enhance":{"g":"","p":{}},"mweb_topical_explore":{"g":"","p":{}},"follow_all_fb":{"g":"","p":{}},"lite_direct_upsell":{"g":"","p":{}},"web_loggedout_noop":{"g":"","p":{}},"a2hs_heuristic_uc":{"g":"","p":{}},"a2hs_heuristic_non_uc":{"g":"","p":{}},"web_hashtag":{"g":"","p":{}},"web_hashtag_logged_out":{"g":"","p":{}},"header_scroll":{"g":"","p":{}},"rout":{"g":"","p":{}},"web_lo_follow":{"g":"","p":{}},"web_share":{"g":"","p":{}},"lite_rating":{"g":"","p":{}},"web_embeds_share":{"g":"","p":{}},"web_share_lo":{"g":"","p":{}},"web_embeds_logged_out":{"g":"control","p":{"video_show_watch_on_ig":"false"}},"web_datasaver_mode":{"g":"","p":{}},"lite_datasaver_mode":{"g":"","p":{}},"post_options":{"g":"","p":{}},"igtv_creation_feed_preview":{"g":"","p":{}},"igtv_public_viewing":{"g":"","p":{}},"caching":{"g":"","p":{}},"nux":{"g":"","p":{}},"hpi":{"g":"","p":{}},"iglmsr":{"g":"multi_step_reg_with_prefill","p":{"has_prefill":"true","has_multi_step_registration":"true"}},"igwsvl":{"g":"","p":{}},"iglcp":{"g":"has_prefill","p":{"has_login_prefill":"true"}},"lite_story_video_upload":{"g":"","p":{}},"iglscioi":{"g":"","p":{}},"ws2":{"g":"","p":{}},"wpn":{"g":"","p":{}},"hc":{"g":"","p":{}},"lite_user_tag_creation":{"g":"","p":{}},"iglcius":{"g":"","p":{}},"wfvu":{"g":"","p":{}},"iglsa":{"g":"","p":{}},"igwllre":{"g":"","p":{}},"wss2":{"g":"","p":{}},"igwlspe":{"g":"","p":{}},"creatives_assets":{"g":"","p":{}},"qex":{"g":"","p":{}},"1":{"p":{"0":false},"qex":true}},"hostname":"www.instagram.com","deployment_stage":"c2","platform":"web","rhx_gis":"89615b5080aed089c31ca8142151be45","nonce":"gV+AxRV7FAwebfrv6nZTsA==","mid_pct":2.40031,"server_checks":{},"zero_data":{},"probably_has_app":false,"cache_schema_version":1,"to_cache":{},"rollout_hash":"8702209c9af9","bundle_variant":"metro","is_canary":true};</script>
+<script type="text/javascript">window.__initialDataLoaded(window._sharedData);</script>
+<script type="text/javascript">var __DEV__=false,__BUNDLE_START_TIME__=this.nativePerformanceNow?nativePerformanceNow():Date.now(),process=this.process||{};process.env=process.env||{};process.env.NODE_ENV="production";!(function(r){"use strict";function e(){return f="number"==typeof __NUM_MODULES__?Array(0|__NUM_MODULES__):Object.create(null)}function t(r){var e=r,t=f[e];return t&&t.isInitialized?t.publicModule.exports:o(e,t)}function n(r){var e=r;if(f[e]&&f[e].importedDefault!==c)return f[e].importedDefault;var n=t(e),i=n&&n.__esModule?n.default:n;return f[e].importedDefault=i}function i(r){var e=r;if(f[e]&&f[e].importedAll!==c)return f[e].importedAll;var n,i=t(e);if(i&&i.__esModule)n=i;else{if(n={},i)for(var o in i)p.call(i,o)&&(n[o]=i[o]);n.default=i}return f[e].importedAll=n}function o(e,t){if(!s&&r.ErrorUtils){s=!0;var n;try{n=l(e,t)}catch(e){r.ErrorUtils.reportFatalError(e)}return s=!1,n}return l(e,t)}function u(r){return{segmentId:r>>>_,localId:r&v}}function l(e,o){!o&&r.__defineModule&&(r.__defineModule(e),o=f[e]);var l=r.nativeRequire;if(!o&&l){var c=u(e),p=c.segmentId;l(c.localId,p),o=f[e]}if(!o)throw a(e);if(o.hasError)throw d(e,o.error);o.isInitialized=!0;var s=o,_=s.factory,v=s.dependencyMap;try{var M=o.publicModule;if(M.id=e,h.length>0)for(var m=0;m<h.length;++m)h[m].cb(e,M);return _(r,t,n,i,M,M.exports,v),o.factory=void 0,o.dependencyMap=void 0,M.exports}catch(r){throw o.hasError=!0,o.error=r,o.isInitialized=!1,o.publicModule.exports=void 0,r}}function a(r){var e='Requiring unknown module "'+r+'".';return Error(e)}function d(r,e){var t=r;return Error('Requiring module "'+t+'", which threw an exception: '+e)}r.__r=t,r.__d=function(r,e,t){null==f[e]&&(f[e]={dependencyMap:t,factory:r,hasError:!1,importedAll:c,importedDefault:c,isInitialized:!1,publicModule:{exports:{}}})},r.__c=e;var f=e(),c={},p={}.hasOwnProperty;t.importDefault=n,t.importAll=i;var s=!1,_=16,v=65535;t.unpackModuleId=u,t.packModuleId=function(r){return(r.segmentId<<_)+r.localId};var h=[];t.registerHook=function(r){var e={cb:r};return h.push(e),{release:function(){for(var r=0;r<h.length;++r)if(h[r]===e){h.splice(r,1);break}}}}})('undefined'!=typeof global?global:'undefined'!=typeof window?window:this);
+__s={"15":"/static/bundles/metro/NotificationLandingPage.js/15f9c8a00582.js","16":"/static/bundles/metro/Challenge.js/113fdeff29e7.js","17":"/static/bundles/metro/Consumer.js/778e65cdc3ce.js","19":"/static/bundles/metro/DebugInfoNub.js/78e51123acba.js","20":"/static/bundles/metro/NametagLandingPage.js/a600b1e5529d.js","21":"/static/bundles/metro/OneTapUpsell.js/0b4d45c8d827.js","22":"/static/bundles/metro/MobileDirectPage.js/9003dc999820.js","23":"/static/bundles/metro/OAuthPermissionsPage.js/076c455ba0d6.js","24":"/static/bundles/metro/IGTVVideoUploadPageContainer.js/9edba53c468f.js","25":"/static/bundles/metro/IGTVVideoDraftsPageContainer.js/5b5f84eb8527.js","26":"/static/bundles/metro/HttpErrorPage.js/0e2622dd99a1.js","27":"/static/bundles/metro/ProfilePageContainer.js/130d8d58b833.js","28":"/static/bundles/metro/PhoneConfirmPage.js/99779ddde85a.js","29":"/static/bundles/metro/TagPageContainer.js/9e108a52f6d1.js","30":"/static/bundles/metro/DesktopStoriesPage.js/bf6b37b18d11.js","31":"/static/bundles/metro/MobileStoriesPage.js/ec6c1a7da21b.js","32":"/static/bundles/metro/DesktopStoriesLoginPage.js/0e1c9c4f4fbd.js","33":"/static/bundles/metro/MobileStoriesLoginPage.js/6b928fe6b451.js","34":"/static/bundles/metro/SuggestedDirectoryLandingPage.js/2ee09f7e1c15.js","35":"/static/bundles/metro/HashtagsDirectoryLandingPage.js/03be9bf22ab1.js","36":"/static/bundles/metro/ProfilesDirectoryLandingPage.js/1ee91157f85d.js","37":"/static/bundles/metro/PostPageContainer.js/60e093e29c8c.js","38":"/static/bundles/metro/MediaChainingPageContainer.js/d68fd1230fc2.js","39":"/static/bundles/metro/MobileAllCommentsPage.js/f905b3075955.js","40":"/static/bundles/metro/ResetPasswordPageContainer.js/a64f1e185ea4.js","41":"/static/bundles/metro/LoginAndSignupPage.js/a6faeeaccc5b.js","42":"/static/bundles/metro/LocationsDirectoryLandingPage.js/14f119b89f65.js","43":"/static/bundles/metro/LocationPageContainer.js/1c2bd560181e.js","44":"/static/bundles/metro/LocationsDirectoryCityPage.js/5348f17fd4b0.js","45":"/static/bundles/metro/LocationsDirectoryCountryPage.js/0339098d447b.js","46":"/static/bundles/metro/LandingPage.js/d9a4791444d5.js","47":"/static/bundles/metro/SimilarAccountsPage.js/3a03c21d851c.js","48":"/static/bundles/metro/SimilarAccountsModal.js/16ff6ef340c3.js","49":"/static/bundles/metro/FollowListPage.js/e70b3baf4d71.js","50":"/static/bundles/metro/FollowListModal.js/a6abe1d00c11.js","51":"/static/bundles/metro/FeedPageContainer.js/ab72d46fa0de.js","52":"/static/bundles/metro/MultiStepSignupPage.js/e7ace3193528.js","53":"/static/bundles/metro/NewUserInterstitial.js/8f9e2300116f.js","54":"/static/bundles/metro/FBSignupPage.js/76017ef58a57.js","55":"/static/bundles/metro/EmailConfirmationPage.js/4da55f231d61.js","56":"/static/bundles/metro/UserCollectionMediaPageContainer.js/4051c728d333.js","57":"/static/bundles/metro/UserCollectionsPageContainer.js/a53bc54ca664.js","58":"/static/bundles/metro/DiscoverEmbedsPageContainer.js/aaae46d0bad6.js","59":"/static/bundles/metro/DiscoverPeoplePageContainer.js/a286c232ad98.js","60":"/static/bundles/metro/DiscoverMediaPageContainer.js/b71d771064a5.js","61":"/static/bundles/metro/CommentLikedByListContainer.js/35df785a0057.js","62":"/static/bundles/metro/LikedByListContainer.js/05bb0d3a0195.js","63":"/static/bundles/metro/DirectNewThread.js/a3292e02bced.js","64":"/static/bundles/metro/ExploreMediaPageContainer.js/6684bab6dbe4.js","65":"/static/bundles/metro/StoryCreationPage.js/01990c090b7b.js","66":"/static/bundles/metro/CreationModules.js/1f062eb8536c.js","67":"/static/bundles/metro/ContactInvitesOptOutStatusPage.js/946ab482090e.js","68":"/static/bundles/metro/NewTermsConfirmPage.js/3a276d9b9515.js","69":"/static/bundles/metro/TermsUnblockPage.js/807d59f3a6c5.js","70":"/static/bundles/metro/TermsAcceptPage.js/09a64507b7da.js","71":"/static/bundles/metro/ParentalConsentNotParentPage.js/5cfb2f6703bb.js","72":"/static/bundles/metro/ParentalConsentPage.js/efa35e4703d1.js","73":"/static/bundles/metro/ContactInvitesOptOutPage.js/0508686a9e5b.js","74":"/static/bundles/metro/AccountRecoveryLandingPage.js/83239266c450.js","75":"/static/bundles/metro/CheckpointUnderageAppealPage.js/d2e5a5a48395.js","76":"/static/bundles/metro/DataDownloadRequestConfirmPage.js/929f4c5a7546.js","77":"/static/bundles/metro/DataDownloadRequestPage.js/ddcedef07199.js","78":"/static/bundles/metro/DataControlsSupportPage.js/45f4c051e232.js","79":"/static/bundles/metro/AndroidBetaPrivacyBugPage.js/50c0b18a44d9.js","80":"/static/bundles/metro/BlockedAccountsBugPage.js/d4b49ca25fbe.js","81":"/static/bundles/metro/PublicAccountNotMadePrivateBugPage.js/d232378632f7.js","82":"/static/bundles/metro/PrivateAccountMadePublicBugPage.js/31afd6b3edcd.js","83":"/static/bundles/metro/PlaintextPasswordBugPage.js/9d50e6dd639b.js","84":"/static/bundles/metro/AccountPrivacyBugPage.js/44ca65113ed3.js","85":"/static/bundles/metro/AccessToolViewAllPage.js/896ccc8aaed6.js","86":"/static/bundles/metro/AccessToolPage.js/b3717c8bb4ae.js","87":"/static/bundles/metro/ContactHistoryPage.js/722dd21b68f6.js","88":"/static/bundles/metro/SettingsModules.js/40f0b97830c1.js","89":"/static/bundles/metro/CameraPage.js/a49c45a12d41.js","90":"/static/bundles/metro/AdsSettingsPage.js/fea836fae0fd.js","91":"/static/bundles/metro/ActivityFeedPage.js/e76ce507bdeb.js","92":"/static/bundles/metro/DirectMQTT.js/bc48a4fc1e77.js","97":"/static/bundles/metro/EmbedRich.js/6db85d39b3dc.js","98":"/static/bundles/metro/EmbedAsyncLogger.js/1b75141ad06f.js"}</script>
+<script type="text/javascript" src="/static/bundles/metro/Polyfills.js/9521fbf63067.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/metro/Vendor.js/b9b00b19edc2.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/metro/en_US.js/5d7afa9f6291.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/metro/ConsumerCommons.js/7b4f47a43ea6.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/metro/Consumer.js/778e65cdc3ce.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/static/bundles/metro/PostPageContainer.js/60e093e29c8c.js" crossorigin="anonymous" charset="utf-8" async=""></script>
+
+            
+        
+
+        <script type="text/javascript">
+(function(){
+  function normalizeError(err) {
+    var errorInfo = err.error || {};
+    var getConfigProp = function(propName, defaultValueIfNotTruthy) {
+      var propValue = window._sharedData && window._sharedData[propName];
+      return propValue ? propValue : defaultValueIfNotTruthy;
+    };
+    return {
+      line: err.line || errorInfo.message || 0,
+      column: err.column || 0,
+      name: 'InitError',
+      message: err.message || errorInfo.message || '',
+      script: errorInfo.script || '',
+      stack: errorInfo.stackTrace || errorInfo.stack || '',
+      timestamp: Date.now(),
+      ref: window.location.href,
+      deployment_stage: getConfigProp('deployment_stage', ''),
+      is_canary: getConfigProp('is_canary', false),
+      rollout_hash: getConfigProp('rollout_hash', ''),
+      is_prerelease: window.__PRERELEASE__ || false,
+      bundle_variant: getConfigProp('bundle_variant', null),
+      request_url: err.url || window.location.href,
+      response_status_code: errorInfo.statusCode || 0
+    }
+  }
+  window.addEventListener('load', function(){
+    if (window.__bufferedErrors && window.__bufferedErrors.length) {
+      if (window.caches && window.caches.keys && window.caches.delete) {
+        window.caches.keys().then(function(keys) {
+          keys.forEach(function(key) {
+            window.caches.delete(key)
+          })
+        })
+      }
+      window.__bufferedErrors.map(function(error) {
+        return normalizeError(error)
+      }).forEach(function(normalizedError) {
+        var request = new XMLHttpRequest();
+        request.open('POST', '/client_error/', true);
+        request.setRequestHeader('Content-Type', 'application/json; charset=utf-8');
+        request.send(JSON.stringify(normalizedError));
+      })
+    }
+  })
+}());
+</script>
+    </body>
+</html>

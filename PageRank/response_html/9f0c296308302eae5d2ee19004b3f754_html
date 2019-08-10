@@ -1,0 +1,896 @@
+﻿ 
+<!DOCTYPE html>
+
+<html>
+<head>
+	<!-- /eltiempolatino/base.html -->
+	<script src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/common/scripts/cookieControl.js"></script>
+<script>
+var mobileOptOut = getCookie('mobileOptOut');
+var deviceWidth = window.screen.width;
+var deviceType = '';
+var domainURL = document.domain;
+var currentDomain = '';
+
+if (deviceWidth >= 768) 		{ deviceType = 'desktop' }
+else 							{ deviceType = 'mobile'; }
+
+if (domainURL.indexOf('m.') == 0) 		{ currentDomain = 'mobile'; }
+else 									{ currentDomain = 'desktop'; }
+
+if (currentDomain == 'desktop') {
+	if (mobileOptOut == null || mobileOptOut == "") {
+		if (deviceType == 'mobile') {
+			window.location = 'http://m.eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/';
+		}
+	}
+}
+
+function viewFullSite() {
+	setCookie('mobileOptOut', 'true', '365', '/', '.eltiempolatino.com', '' );
+	window.location = 'http://eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/';
+}
+</script>
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="msvalidate.01" content="ED540F9D73DCA1D4EE74802D83584794" />
+    <title>Trump abre la puerta a alargar negociaciones con China |  El Tiempo Latino | Noticias de Washington DC</title>
+    <meta name="google-site-verification" content="uER4zE15QSdaGESdzDIwLB_OaMlyLUf6BprgOeQVtS0" />
+    <meta name="description" content="El Tiempo Latino es el principal periódico en español y una fuente de noticias en línea en el área metropolitana de Washington, que ofrece la comunidad de Maryland, Virginia y DC noticias e información de calidad sobre la totalidad Comunidad hispana." />
+	<meta name="keywords" content="el tiempo, Washington DC, noticias, locales, nacionales, Americas, mundo, immigracíon, deportes, futbol, beisbol, boxeo, basquetbol, show, negocios, salud y familia, estilo de vida, classificados, Elección Presidencial 2016" />
+    <link rel="stylesheet" href="http://epmghispanic.media.clients.ellingtoncms.com/static-3/epmg/stylesheets/common.css" type="text/css" media="screen" charset="utf-8">
+<link rel="stylesheet" href="http://epmghispanic.media.clients.ellingtoncms.com/static-3/epmg/stylesheets/all.css" type="text/css" media="screen" charset="utf-8">
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans|Paytone+One' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="http://epmghispanic.media.clients.ellingtoncms.com/static-3/epmg/stylesheets/jquery.fancybox-1.3.4.css" media="all">
+<link rel="stylesheet" href="http://epmghispanic.media.clients.ellingtoncms.com/static-3/epmg/stylesheets/anythingslider.css">
+<link rel="stylesheet" href="http://epmghispanic.media.clients.ellingtoncms.com/static-3/_global/_css/galleria.classic.min.css">
+<!--<link rel="stylesheet" href="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/2.3.0/min.css" type="text/css" media="screen">-->
+
+
+<!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" href="css/lt7.css" />
+    <script type="text/javascript" src="js/ie-hover.js"></script>
+<![endif]-->
+	<link rel="stylesheet" href="http://epmghispanic.media.clients.ellingtoncms.com/static-3/eltiempolatino/styles/eltiempolatino.css?v=29" type="text/css" media="screen" charset="utf-8">
+	<link href="http://cdn.onescreen.net/os/static/widgets/assets/css/widgets.css" rel="stylesheet" type="text/css">
+	<link rel="shortcut icon" href="http://epmghispanic.media.clients.ellingtoncms.com/static-3/eltiempolatino/images/favicon.ico" />
+    
+    <link href="http://epmghispanic.media.clients.ellingtoncms.com/static-3/common/css/print.css" rel="stylesheet" media="print">
+
+    
+    
+    
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/jquery.ui.js"></script>
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/jquery.media.js"></script>
+
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/jquery.carousel.js"></script>
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/jquery.defaults.js"></script>
+<!--<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/2.3.0/min.js"></script>-->
+
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/lib/data.js"></script>
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/lib/shapes.js"></script>
+
+
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/swfobject.js"></script>
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/flash.js"></script>
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/audioplayer.js"></script>
+
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/wmd/showdown.js"></script>
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/wmd/wmd.js"></script>
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/oembed_preview.js"></script>
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/wmd/embed_toolbar.js"></script>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/_global/_js/galleria-1.2.5.min.js"></script>
+
+<script>
+// AdTech adgroupid header
+var curDateTime = new Date();
+var offset = -(curDateTime.getTimezoneOffset());
+if (offset > 0) { offset = "+" + offset; }
+window.adgroupid = Math.round(Math.random() * 1000);
+
+// AdTech dynamic ad tagging
+var adtech_kw = [];
+var adtech_kw_unique = [];
+var adtech_kw_unique_tl = [];
+var adtech_key = '';
+var adtech_str = '';
+
+var adtech_kw_str = '';
+var adtech_kw_str_log = '';
+var adtech_pg_type = '';
+var http_host = 'eltiempolatino.com';
+var current_url = '/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/';
+var site_domain = 'eltiempolatino.com';
+
+
+
+	
+		adtech_pg_type = "Story";
+		
+		
+			adtech_kw[0] = 'noticias';
+		
+		
+		
+			adtech_kw[1] = 'noticias/mundo';
+			
+			
+			
+		
+	
+
+
+// Filter out duplicates		//adtech_kw_unique = adtech_kw.slice(0);
+adtech_kw_unique = adtech_kw.filter(function(elem, pos) {
+    return adtech_kw.indexOf(elem) == pos;
+});
+
+
+// Cat array elements into one string
+for (i = 0; adtech_kw_unique.length > i; i++) {
+	adtech_kw_unique_tl[i] = adtech_kw_unique[i].replace(/\/.*/, '');
+	adtech_kw_unique[i] = adtech_kw_unique[i].replace(/.*\//g, '');
+	adtech_kw_str += '+' + adtech_kw_unique[i];
+}
+
+// Filter out duplicates		//adtech_kw_unique = adtech_kw.slice(0);
+adtech_kw_unique = adtech_kw_unique.filter(function(elem, pos) {
+    return adtech_kw_unique.indexOf(elem) == pos;
+});
+
+adtech_kw_str = adtech_kw_str.substr(1);
+adtech_kw_str_log = adtech_kw_str.replace(/\+/g, ', ');
+
+
+
+
+	
+		adtech_key = 'noticias';
+	
+
+
+if (adtech_key.length == 0) { 
+	adtech_key = "ros";
+}
+
+// reconstruct adtech_str to look like: {"comunidad":"lhdlatino.com"}
+adtech_str = '{"' + adtech_key + '":"' + adtech_key + '"}';
+
+
+
+if (window.console) {
+	console.log('AdTech Page Type: ' + adtech_pg_type);
+	console.log('AdTech Keywords: ' + adtech_kw_str);
+	console.log('AdTech Key/Val (mobile): ' + adtech_key);
+	//console.log('AdTech Keywords [display]: ' + adtech_kw_str_log);
+	console.log('AdTech Keywords[TL]: ' + adtech_kw_unique_tl);
+}
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-HTKJ5NTRWkG1u",
+labels:"Hispanic"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-HTKJ5NTRWkG1u.gif?labels=Hispanic" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+
+
+
+
+
+    <!-- GLOBAL_SCRIPTS -->
+
+
+	<!-- AA Platform -->
+	
+	
+	<!-- Hispanic Platform -->
+	
+	<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53471c202596d019"></script>
+	
+	
+	<!-- Senior Platform -->
+	
+
+
+
+
+
+
+	<script src="http://a.postrelease.com/serve/load.js?async=true"></script>
+	<!-- Pinterest Widget -->
+	<script type="text/javascript" async defer  data-pin-height="28" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
+	<script>
+	$(document).ready(function() {
+		$('._blank').each(function() {
+			$(this).attr('target','_blank');
+		})
+	})
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/swfobject.js"></script>
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/flash.js"></script>
+<script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/javascript/audioplayer.js"></script>
+
+
+
+
+	<!-- HISPANIC GLOBAL -->
+	
+		<script> (function() { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://play.nglmedia.com/player/player-javascript.php?player_id=61'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); })(); </script>
+	
+
+
+
+<!--
+Exelate:
+AA:			ADEEF5A
+Hispanic:	AD77E80
+Senior:		ADD8198
+-->
+
+<script>
+var EllingtonPlatform = "";
+var ExelatePlatformID = "";
+var ExelateImgStr = "";
+
+
+	EllingtonPlatform = "epmghispanic";
+	ExelatePlatformID = "ADEEF5A";
+
+
+ExelateImgStr = '<img src="http://loadus.exelator.com/load/?lb=' + ExelatePlatformID + '&j=0" style="height:0;width:0;display:inline;box-shadow:none!important;border:none!important">';
+
+$(document).ready(function() {
+	$('#lhd_footer').before(ExelateImgStr);
+})
+</script>
+
+
+
+
+
+
+
+    
+	<!-- GA PUB ID -->
+	<script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-34722202-1']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+    
+<!-- ga_universal v3 -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-42581983-10', 'auto');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+
+
+ga('create', 'UA-43200412-1', 'auto', {'name': 'masterProfile'});
+ga('masterProfile.require', 'displayfeatures');
+ga('masterProfile.send', 'pageview');
+
+
+
+
+
+
+
+	
+
+
+</script>
+
+    
+    <!-- Begin Get Clicky Tag -->
+    <script src="//static.getclicky.com/js" type="text/javascript"></script>
+    <script type="text/javascript">try{ clicky.init(66641432); }catch(e){}</script>
+
+    <!-- Begin comScore Tag --> <script> var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "14446176" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })(); </script> <noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=14446176&cv=2.0&cj=1" /> </noscript> <!-- End comScore Tag -->    
+    
+	<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+	 
+	<script type='text/javascript'>
+	  googletag.cmd.push(function() {
+	    googletag.defineSlot('/9341622/230x90_Box', [230, 90], 'div-gpt-ad-1466007324671-0').addService(googletag.pubads());
+		googletag.defineSlot('/9341622/300x250_Box_A-ROS', [300, 250], 'div-gpt-ad-1490066649512-0').addService(googletag.pubads())
+	    googletag.defineSlot('/9341622/300x250_Box_B-ROS', [300, 250], 'div-gpt-ad-1466007324671-2').addService(googletag.pubads());
+	    googletag.defineSlot('/9341622/728x90_Leaderboard_Top-ROS', [728, 90], 'div-gpt-ad-1466007324671-3').addService(googletag.pubads());
+	    googletag.defineSlot('/9341622/728x90_Leasderboard_Bottom-ROS', [728, 90], 'div-gpt-ad-1466007324671-4').addService(googletag.pubads());
+	    googletag.defineSlot('/9341622/ETL_300x600_HalfPage', [300, 600], 'div-gpt-ad-1491317946837-0').addService(googletag.pubads());
+        googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+	  });
+	</script>
+    <script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/epmg/javascript/ui_tabber.js"></script>
+    
+	
+	
+	
+	<script>
+	$(document).ready(function() {
+	$("a.zoom").fancybox();
+	});
+	</script>
+
+    
+    
+    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    
+    <!--feedtest--><link type="application/rss+xml" rel="alternate" href="/rss/headlines/">
+
+    <!--start Share This Widget script-->
+    <script type="text/javascript">var switchTo5x=true;</script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+    <script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+
+</head>
+
+<body class="" id="">
+
+       
+
+	<div id="adblock_1x1_ad_1">
+		<div id="adblock_1x1_ad_1_inner">
+			
+			
+		</div>
+	</div>
+	
+
+    
+    
+	<div id="container">
+		
+        <header>
+        	<div class="ad-box left">
+				<div id="adblock_header_ad_1">
+					<div id="adblock_header_ad_1_inner">
+						
+					 	<!-- /9341622/728x90_Leaderboard_Top-ROS -->
+						<div id='div-gpt-ad-1466007324671-3' style='height:90px; width:728px;'>
+						<script type='text/javascript'>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466007324671-3'); });
+						</script>
+						</div>
+						
+					</div>
+				</div>
+            </div>
+            <div class="ad-box-right right">
+				<div id="adblock_header_ad_2">
+					<div id="adblock_header_ad_2_inner">
+						
+					 	<!-- /9341622/230x90_Box -->
+						<div id='div-gpt-ad-1466007324671-0' style='height:90px; width:230px;'>
+						<script type='text/javascript'>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466007324671-0'); });
+						</script>
+						</div>
+						
+					</div>
+				</div>
+            </div>
+
+            <div class="clear"></div>
+
+        	<div class="header-section marT10">
+                <div class="left">
+                	<a href="/"><img src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/eltiempolatino/images/logo.png?v=2" alt="El Tiempo Latino" border="0"></a>
+                </div>
+                <div class="masthead">
+                    
+                </div>
+            	<div class="header-box">
+                	
+
+                    
+					    <div class="right marT20">
+						<div class="left first-menu">
+					            <ul class="login-box left">
+					                <li><a href="http://eltiempolatino.com/daily/">Ingresar</a></li>
+					                <li class="last"><a href="http://eltiempolatino.com/daily/">Registro</a></li>
+					            </ul>
+					            <div class="clear"></div>
+
+					            <div class="right marT5">
+					                <div class=" left marR20">
+
+					                    <form action="/search/" class="search">
+					                    <fieldset>
+					                    <legend class="hidden">Search form</legend>
+					                    <div class="text">
+					                    <input type="text" name="q" value="">
+					                    </div>
+					                    <input type="submit" value="Búsqueda" class="hidden">
+					                    </fieldset>
+					                    </form>
+
+					                </div>
+						    </div>
+
+					        </div>
+						<div class="left second-menu">
+				  		   <ul class="social-networks left">
+						      <li><a href="https://www.youtube.com/user/eltiempolatino13" target="_blank"><img src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/eltiempolatino/images/youtube.png"  width="40px"/></a></li>
+						      <li><a href="http://www.facebook.com/pages/El-Tiempo-Latino/214061167976" target="_blank"><img src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/eltiempolatino/images/facebook.png"  width="40px"/></a></li>
+						      <li><a href="http://twitter.com/eltiempolatino" target="_blank"><img src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/eltiempolatino/images/twitter.png?v=2"  width="40px"/></a></li>
+						      <li><a href="/rss/headlines/"><img src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/eltiempolatino/images/rss.png"  width="40px"/></a></li>
+				                   </ul>
+						</div>
+						<div class="left third-menu">
+					            <div class="date-weather left">
+					                
+					                1:28 p.m. |
+					                
+					                49&deg; 
+							<!--49&deg; <img src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/ellington_defaults/images/weather/small/partly_cloudy.gif" height="20" width="20" /> -->
+					                2/26/2019 
+					                
+					                
+					            </div>
+
+					            <div class="clear"></div>
+						    <div class="right">
+							    <img src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/eltiempolatino/images/ad.png" />
+						    </div>
+					        </div>
+					    </div>
+
+
+					    
+					    
+
+					
+               	</div>
+                <div class="clear"></div>
+            </div>
+		</header>
+        
+        <div class="clear"></div>
+        
+            
+            <nav>
+		        <ul class="left">
+		            <li><a href="/" >Portada</a></li>
+		            <li><a href="/news/noticias/" >Noticias</a> </li>
+		            <li><a href="/news/deportes/" >Deportes</a></li>
+		            <li class="subnav_advertisement"><a href="http://mundial.eltiempolatino.com/">Mundial</a></li>
+		            <li><a href="/news/show/" >Show</a></li>
+		 			<li><a href="/news/negocios/" >Negocios</a> </li>
+		         	<li><a href="/news/salud-y-familia/" >Salud y Familia</a></li>
+		          	<li><a href="/news/estilo-de-vida/" >Estilo de Vida</a></li>
+		            <li><a href="/contactos/" >Contactos</a></li>
+		            <li><a href="http://local.eltiempolatino.com">Clasificados</a></li>
+		            <li class="subnav_custom"><a href="/news/opinion/">Opinión</a></li>
+		            <li class="subnav_custom"><a href="/news/powermeter-2017/">Powermeter</a></li>
+		            <li class="subnav_advertisement"><a href="/advertising/">Advertising</a></li>
+		             
+
+		        </ul>
+
+		        <div class="clear"></div>
+			</nav>
+        
+        <div class="clear"></div>
+        
+		<div id="adblock_1x1_ad_2">
+			<div id="adblock_1x1_ad_2_inner">
+				
+						
+			</div>
+		</div>
+		
+		
+        <!-- sliding_billboard_950x30 NULL -->
+        
+        <div class="clear"></div>
+   		
+   		
+   		<div id="container_inner">
+   		
+	        <section>
+	            <div id="content" class="left">
+	            	
+	            	
+    <div class="article">
+
+        <div class="content-holder">
+            <h2>Trump abre la puerta a alargar negociaciones con China</h2>
+            <br><h4>&quot;Si llegamos a un punto en el que estamos cerca de un acuerdo real y podemos lograrlo, veo posible que deje pasar la fecha límite durante un poco más. Pero en general no me inclino a hacerlo&quot;, dijo.</h4>
+            <h6>Redacción El Tiempo Latino |  2/12/2019, 6:14 p.m.</h6>
+            
+            
+            
+            
+            <div class="lead-photo marB20 left">
+                <a href="http://epmghispanic.media.clients.ellingtoncms.com/img/photos/2019/02/12/EEUU_Y_CHINA_t750x550.jpg?d885fc46c41745b3b5de550c70336c1b382931d2" class="zoom"><img src="http://epmghispanic.media.clients.ellingtoncms.com/img/photos/2019/02/12/EEUU_Y_CHINA_t670x470.jpg?23a6cf1936a4889561e6226c97c290c4239edcb5" alt="Trump abre la puerta a alargar negociaciones con China" class="center"></a>
+
+                
+                <div class="photocaption">
+                    ACUERDOS. Tras su reunión de diciembre con Xi en Buenos Aires, Trump aseguró que, si no alcanzaba un acuerdo con China antes del 1 de marzo, elevaría del 10 % actual al 25 % los aranceles que aplica a las importaciones chinas por valor de 200.000 millones de dólares. |
+
+                    <span class="photocredit">
+                    
+                        EFE
+                   
+                   </span>
+                </div>
+                
+
+            </div>
+            <div class="clear"></div>
+            
+            <div class="addthis_sharing_toolbox" data-url="http://eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/"></div>
+            
+            <div>
+                <div class="content-area left">
+                	<p>El presidente de Estados Unidos, Donald Trump, abrió la puerta a alargar las negociaciones comerciales con China más allá de la fecha límite del 1 de marzo, y aseguró que aún espera reunirse con su homólogo chino, Xi Jinping, "en algún momento", probablemente después de esa fecha.</p>
+
+<p>"Si llegamos a un punto en el que estamos cerca de un acuerdo real y podemos lograrlo, veo posible que deje pasar la fecha límite durante un poco más. Pero en general no me inclino a hacerlo", dijo.</p>
+
+<p>EE.UU. y China celebrarán esta semana en Pekín una nueva ronda de negociaciones para tratar de contener la guerra comercial en la que se implicaron el año pasado como consecuencia de la agenda proteccionista de Trump, quien ha criticado duramente las políticas comerciales del gigante asiático.</p>
+
+<p>Tras su reunión de diciembre con Xi en Buenos Aires, Trump aseguró que, si no alcanzaba un acuerdo con China antes del 1 de marzo, elevaría del 10 % actual al 25 % los aranceles que aplica a las importaciones chinas por valor de 200.000 millones de dólares.</p>
+
+<p>De acuerdo a lo publicado por la agencia de noticias EFE, se esperaba que las negociaciones se cerrarán en una nueva reunión entre Trump y Xi, pero el mandatario estadounidense descartó la semana pasada la posibilidad de verse con su homólogo chino antes de la fecha límite del 1 de marzo.</p>
+                     
+                </div>
+            </div>
+        </div>
+
+        <div class="clear"></div>
+        
+        <div>
+        	
+            
+            
+            
+            	<!-- no related_content -->
+            
+        </div>
+	<div class="OUTBRAIN" data-widget-id= "TF_6" data-src = "" data-ob-template="eltiempolatino.com" ></div>
+
+        <div class="marT20">
+            <div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=275575972490903";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="fb-comments" data-href="http://eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/" data-num-posts="10" data-width="670"></div>
+
+        </div>
+		
+		<div class="clear"></div>
+
+        
+    </div>
+	
+
+	            </div>
+	        </section>
+	        
+	        <section id="sidebar" class="right">
+	        
+		
+		<div class="clear"></div>
+		<!-- BEGIN: Constant Contact Email List Form Button --><div align="center"><a href="https://visitor.r20.constantcontact.com/d.jsp?llr=7j4z4ozab&amp;p=oi&amp;m=1126858292540&amp;sit=8n5woyflb&amp;f=688ac948-d095-4894-9428-f3478ce53551" class="button" style="background-color: rgb(186, 4, 4); border: 1px solid rgb(91, 91, 91); color: rgb(255, 255, 255); display: inline-block; padding: 8px 10px; text-shadow: none; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-bottom-left-radius: 20px;">El Tiempo Latino Daily</a><!-- BEGIN: Email Marketing you can trust --><div id="ctct_button_footer" align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;margin-top: 10px;">Para las últimas noticias en directo.</div></div>
+      <div class="clear"></div>      
+		
+	
+				<div class="clear"></div>
+
+			<iframe scrolling="no" frameborder="0" width="300" height="250" src="http://local.eltiempolatino.com/places/widget/widget:59/type:300x250" style="padding:0;margin:0 auto 10px;"></iframe>
+<div class="clear"></div>
+                   <aside class="ad1">
+					<div id="adblock_sidebar_ad_1">
+						<div id="adblock_sidebar_ad_1_inner">
+							
+						 	<!-- /9341622/300x250_Box_A-ROS -->
+							<div id='div-gpt-ad-1490066649512-0' style='height:250px; width:300px;'>
+							<script type= 'text/javascript'>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1490066649512-0'); });
+							</script>
+							</div>
+							
+						</div>
+					</div>
+	            </aside>
+                
+				
+			    <div class="clear"></div>
+ <aside class="ad1">
+					<div id="adblock_sidebar_ad_2">
+						<div id="adblock_sidebar_ad_2_inner">
+							
+						 	<!-- /9341622/300x250_Box_B-ROS -->
+							<div id='div-gpt-ad-1466007324671-2' style='height:250px; width:300px;'>
+							<script type='text/javascript'>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466007324671-2'); });
+							</script>
+							</div>
+							
+						</div>
+					</div>
+	            </aside>
+                
+				
+			    <div class="clear"></div>
+				
+                
+	                <div class="marT20">
+                	<a href="http://npaper-wehaa.com/el-tiempo-latino/" target="_blank" class="marT20">
+                    	<img src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/eltiempolatino/images/Lea-ETL-01.png"></a>
+                        </div>
+	            
+	            
+	            <div class="clear"></div>
+                <div id="adblock_sidebar_ad_3">
+                    <div id="adblock_sidebar_ad_3_inner">
+            <!-- /9341622/ETL_300x600_HalfPage -->
+<div id='div-gpt-ad-1491317946837-0' style='height:600px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491317946837-0'); });
+</script>
+</div>                    </div>
+                </div>
+	
+	            
+					    <article class="marT20">
+					        <ul class="tabs">
+					            <li><a href="#tab1">Twitter</a></li>
+					            <li><a href="#tab2">Facebook</a></li>
+					        </ul>
+					        <div class="tab_container marB20">
+					            <div id="tab1" class="tab_content">
+					                <!-- TwitterWidget -->
+					             <a class="twitter-timeline" data-height="600" href="https://twitter.com/eltiempolatino">Tweets by eltiempolatino</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+					            </div>
+					            <div id="tab2" class="tab_content">
+					               <div id="fb-root"></div>
+					                <script>(function(d, s, id) {
+					                  var js, fjs = d.getElementsByTagName(s)[0];
+					                  if (d.getElementById(id)) return;
+					                  js = d.createElement(s); js.id = id;
+					                  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=275575972490903";
+					                  fjs.parentNode.insertBefore(js, fjs);
+					                }(document, 'script', 'facebook-jssdk'));</script>
+					                <div class="fb-like-box" data-href="https://www.facebook.com/pages/El-Tiempo-Latino/214061167976" data-width="290" data-show-faces="true" data-stream="true" data-header="true"></div>
+					            </div>
+					        </div>
+					    </article>
+		<div class="OUTBRAIN" data-widget-id= "TS_1" data-src = "" data-ob-template="eltiempolatino.com" ></div>
+
+	
+	        
+	
+	
+	        </section>
+
+	        
+	    	<div class="clear"></div>
+	
+	        <div class="footer_ad">
+				<div id="adblock_footer_ad_1">
+					<div id="adblock_footer_ad_1_inner">
+						
+					 	<!-- /9341622/728x90_Leasderboard_Bottom-ROS -->
+						<div id='div-gpt-ad-1466007324671-4' style='height:90px; width:728px;'>
+						<script type='text/javascript'>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466007324671-4'); });
+						</script>
+						</div>
+						
+					</div>
+				</div>
+	        </div>
+	
+	    </div>
+	</div>
+	    
+
+<footer>
+    <div class="col990 marT20 marB20 center">
+       <div class="col316 left marR20 footer_links">
+            <h2 class="content-title"><span><a href="#">Secciones</a></span></h2>
+            
+            <ul>
+				<li><a href="/">Portada</a></li>
+				<li><a href="/news/noticias/">Noticias</a></li>
+				<li><a href="/news/deportes/">Deportes</a></li>
+				<li><a href="/news/show/">Show</a></li>
+				<li><a href="/news/negocios/">Negocios</a></li>
+				<li><a href="/news/salud-y-familia/">Salud y Familia</a></li>
+				<li><a href="/contactos/">Contactos</a></li>
+				<li><a href="#">Media Kit</a></li>
+				<li><a href="/privacy-policy/">Privacy Policy</a></li>
+			</ul>
+            
+        </div>
+
+        <div class="col316 left marR20">
+            
+            <h2 class="content-title"><span><a href="/photos/">Fotos</a></span></h2>
+            
+            <ul>
+                
+                <li class="footer-photos"><a href="/photos/2019/feb/26/396100/"><img src="http://epmghispanic.media.clients.ellingtoncms.com/img/photos/2019/02/26/Dz4uZXTWsAAIzHR_r100x90.jpg?48e03c31cd04ed53eb072955d420de86046e91a6" alt="" title="COLOMBIA. Foto de archivo de Marta Lucía Ramírez, ..."></a></li>
+                
+                <li class="footer-photos"><a href="/photos/2019/feb/26/396099/"><img src="http://epmghispanic.media.clients.ellingtoncms.com/img/photos/2019/02/26/636867986569710028_r100x90.jpg?48e03c31cd04ed53eb072955d420de86046e91a6" alt="" title="CARACAS. Fotografía cedida por el equipo de Univisión ..."></a></li>
+                
+                <li class="footer-photos"><a href="/photos/2019/feb/26/396098/"><img src="http://epmghispanic.media.clients.ellingtoncms.com/img/photos/2019/02/26/636866710884694305w_r100x90.jpg?48e03c31cd04ed53eb072955d420de86046e91a6" alt="" title="HOLLYWOOD. El director mexicano Alfonso Cuarón (c) y ..."></a></li>
+                
+                <li class="footer-photos"><a href="/photos/2019/feb/26/396097/"><img src="http://epmghispanic.media.clients.ellingtoncms.com/img/photos/2019/02/26/636867219406698464w_r100x90.jpg?48e03c31cd04ed53eb072955d420de86046e91a6" alt="" title="BOGOTÁ. El mandatario interino de Venezuela, Juan Guaidó ..."></a></li>
+                
+                <li class="footer-photos"><a href="/photos/2019/feb/26/396096/"><img src="http://epmghispanic.media.clients.ellingtoncms.com/img/photos/2019/02/26/socorristas_r100x90.jpg?48e03c31cd04ed53eb072955d420de86046e91a6" alt="" title="SUCESOS. En casi 5 mil casos en que ..."></a></li>
+                
+                <li class="footer-photos"><a href="/photos/2019/feb/26/396095/"><img src="http://epmghispanic.media.clients.ellingtoncms.com/img/photos/2019/02/26/636867220106862363w_r100x90.jpg?48e03c31cd04ed53eb072955d420de86046e91a6" alt="" title="POLÍTICA. El vicepresidente de EE.UU., Mike Pence, participa ..."></a></li>
+                
+                <li class="footer-photos"><a href="/photos/2019/feb/26/396093/"><img src="http://epmghispanic.media.clients.ellingtoncms.com/img/photos/2019/02/26/D0VZ9HHX4AECgjB_r100x90.jpg?48e03c31cd04ed53eb072955d420de86046e91a6" alt="" title="MAIQUETÍA. Jorge Ramos y sus periodistas esperan en ..."></a></li>
+                
+                <li class="footer-photos"><a href="/photos/2019/feb/25/396092/"><img src="http://epmghispanic.media.clients.ellingtoncms.com/img/photos/2019/02/25/Yalitza_Aparicio_r100x90.jpg?48e03c31cd04ed53eb072955d420de86046e91a6" alt="" title="CINE. Yalitza Aparicio, actriz del exitoso film &quot;Roma&quot;"></a></li>
+                
+                <li class="footer-photos"><a href="/photos/2019/feb/25/396091/"><img src="http://epmghispanic.media.clients.ellingtoncms.com/img/photos/2019/02/25/Jorge_Ramos_r100x90.jpg?48e03c31cd04ed53eb072955d420de86046e91a6" alt="" title="AMÉRICA. Jorge Ramos, periodista mexicano"></a></li>
+                
+            </ul>
+            
+        </div>
+
+        <div class="col316 left">
+            
+                <h2 class="content-title"><span><a href="/videos/">Videos</a></span></h2>
+                
+                 <ul>
+
+                    
+                    <li class="footer-videos">
+                        <div class="description-box">
+                            <a href="/videos/2018/dec/17/4194/"><img class="alignleft" src="http://epmghispanic.media.clients.ellingtoncms.com/img/videothumbs/2018/12/17/Screen_Shot_2018-12-17_at_1.12.22_PM_r150x100.png?8822068621ece2df77037f3661d4f836e603bccc" alt="La historia de el comienzo y impacto de Bolsas de Amor para familias de Washington, DC."></a>
+                            <p><a href="/videos/2018/dec/17/4194/">Bolsas De Amor</a></p>
+                        </div>
+                    </li>
+                    
+                    <li class="footer-videos">
+                        <div class="description-box">
+                            <a href="/videos/2018/dec/17/4195/"><img class="alignleft" src="http://epmghispanic.media.clients.ellingtoncms.com/img/videothumbs/2018/12/26/Screen_Shot_2018-12-26_at_11.21.39_AM_r150x100.png?8822068621ece2df77037f3661d4f836e603bccc" alt="The story of the birth and impact of Bags of Love for Washington, DC families."></a>
+                            <p><a href="/videos/2018/dec/17/4195/">Bags of Love</a></p>
+                        </div>
+                    </li>
+                    
+                    <li class="footer-videos">
+                        <div class="description-box">
+                            <a href="/videos/2018/sep/26/4189/"><img class="alignleft" src="http://epmghispanic.media.clients.ellingtoncms.com/img/videothumbs/2018/09/26/Screen_Shot_2018-09-26_at_10.13.46_PM_r150x100.png?8822068621ece2df77037f3661d4f836e603bccc" alt=""></a>
+                            <p><a href="/videos/2018/sep/26/4189/">Puerto Rico: Hope in the Dark</a></p>
+                        </div>
+                    </li>
+                    
+                    <li class="footer-videos">
+                        <div class="description-box">
+                            <a href="/videos/2018/aug/28/4185/"><img class="alignleft" src="http://epmghispanic.media.clients.ellingtoncms.com/img/videothumbs/2018/08/28/102_Stills_Museo_web_r150x100.jpg?8822068621ece2df77037f3661d4f836e603bccc" alt=""></a>
+                            <p><a href="/videos/2018/aug/28/4185/">Museo</a></p>
+                        </div>
+                    </li>
+                    
+                </ul>
+            
+        </div>
+        <div class="clear"></div>
+    </div>
+
+    <div class="clear"></div>
+
+    <div id="lhd_footer">
+	<!--
+	<div id="lhd_footer_server">
+		
+	</div>
+
+	
+		<div id="lhd_footer_inner">
+			<div id="lhd_footer_left">
+				<span>&copy; 2019 El Tiempo Latino</span>
+			</div>
+
+			<div id="lhd_footer_center">
+				Impulsado por <a href="http://www.lionheartdigital.com/" target="_blank"><img src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/_global/_images/lionheart_logo_footer.png"></a>
+			</div>
+
+			<div id="lhd_footer_right">
+				
+					<a href="/privacy-policy/">Pol&iacute;tica de Privacidad</a>
+				
+			</div>
+		</div>
+	
+-->
+</div>
+ 
+
+    <div class="clear"></div>
+</footer>
+
+
+    <script type="text/javascript" src="http://epmghispanic.media.clients.ellingtoncms.com/static-3/epmg/javascript/jquery.main.js"></script>
+    
+    
+    
+    
+    
+   
+   
+
+
+
+<script type="text/javascript">var ssaUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'pixel.oonimedia.com/iap/2ed6ddd625d01451';new Image().src = ssaUrl;</script>
+
+</body>
+</html>

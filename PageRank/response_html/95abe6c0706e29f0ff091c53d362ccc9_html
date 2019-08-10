@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <style id='chartbeat-flicker-control-style' type='text/css'>
+        body {
+        visibility: hidden !important;
+        }
+    </style>
+    <script type='text/javascript'>
+        var _sf_async_config = _sf_async_config || {};
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 59941;
+        _sf_async_config.domain = 'cjr.org';
+        _sf_async_config.useCanonical = true;
+        /** CONFIGURATION END **/
+        var _sf_startpt = (new Date()).getTime();
+        // Set a timeout event for 1 second that will remove the body hiding
+        // tag from the document if it has not already been removed. This
+        // gives the Headline Tester script a total of 1 second to load and run to limit
+        // the potential for flicker of headlines.
+        // The one second time limit can be adjusted to client preferences.
+        window.setTimeout(function() {
+            var hider = document.getElementById('chartbeat-flicker-control-style');
+            if (hider) {
+                hider.parentNode.removeChild(hider);
+            }
+        }, 1000);
+    </script>
+    <script async src = "//static.chartbeat.com/js/chartbeat_mab.js"></script>
+    
+	
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#f9f0e1">
+	<link rel="apple-touch-icon-precomposed" href="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/img/favicon-152.png">
+	<meta name="msapplication-TileColor" content="#f9f0e1">
+	<meta name="msapplication-TileImage" content="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/img/favicon-144.png">  
+    <link rel="shortcut icon" href="https://cdn.cjr.org/wp-content/themes/cjr2017/cjr-icon-2.ico">  
+    <meta name="google-site-verification" content="Fu4CypYBPmzQ9gLIFYah2sCib3rLWiqCkG5PLwZwdEY" />
+    
+	<title>Matt Gertz tracks how Fox News manipulates Trump - Columbia Journalism Review</title>
+  
+	
+	<!-- Facebook share code -->
+    <meta property="fb:pages"content="33800584090" />
+	<meta property="og:title" content="Matt Gertz tracks how Fox News manipulates Trump" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.cjr.org/covering_trump/matt-gertz-trump-tweets.php" />  
+     	<meta property="og:image" content="https://cdn.cjr.org/wp-content/uploads/2019/02/GettyImages-122892112-800x419.jpg" />
+        <meta property="og:site_name" content="Columbia Journalism Review" />
+    <meta property="og:description" content="<p>“There’s a saying in politics that personnel is policy,” Matt Gertz, a senior fellow at Media Matters, said on a recent afternoon. “The people who surround principals in the political world can have a lot of influence.” Gertz, thirty-four and petite in a suit jacket, is best known for tracking Donald Trump’s Twitter account for [&hellip;]</p>
+" /> 
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:creator" content="cjr">
+    <meta name="twitter:description" content="<p>“There’s a saying in politics that personnel is policy,” Matt Gertz, a senior fellow at Media Matters, said on a recent afternoon. “The people who surround principals in the political world can have a lot of influence.” Gertz, thirty-four and petite in a suit jacket, is best known for tracking Donald Trump’s Twitter account for [&hellip;]</p>
+">
+    <meta name="twitter:domain" content="Columbia Journalism Review">
+     	<meta name="twitter:image" content="https://cdn.cjr.org/wp-content/uploads/2019/02/GettyImages-122892112-800x419.jpg" />
+        <meta name="twitter:site" content="cjr">
+    <meta name="twitter:title" content="Matt Gertz tracks how Fox News manipulates Trump">
+    
+    <meta itemprop="name" content="Matt Gertz tracks how Fox News manipulates Trump">
+    <meta itemprop="description" content="<p>“There’s a saying in politics that personnel is policy,” Matt Gertz, a senior fellow at Media Matters, said on a recent afternoon. “The people who surround principals in the political world can have a lot of influence.” Gertz, thirty-four and petite in a suit jacket, is best known for tracking Donald Trump’s Twitter account for [&hellip;]</p>
+">
+     	<meta itemprop="image" content="https://cdn.cjr.org/wp-content/uploads/2019/02/GettyImages-122892112-800x419.jpg" />
+    
+
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/css/bootstrap.css">
+    <link rel="stylesheet" href="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/css/cjrcorestyles-818.css">
+    <link rel="stylesheet" href="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/css/cjrnavstyles.css">
+    <link rel="stylesheet" href="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/css/cjrnavstyles_add_on.css"> 
+    <link rel="stylesheet" href="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2017/css/main-mixed.css?v=3"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/fonts/commercial-type-1502-AFHEEU-web/1502-AFHEEU-local.css"> 
+    <link rel="stylesheet" type="text/css" href="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/css/interstitial_full_sail_center.css" />
+     
+    
+    <style>
+	#mc_embed_signup { background: #f24c2f;	margin: 40px 0px 40px 0px;}
+	#mc_embed_signup form {	display: block;	position: relative;	padding: 10px 0px 0px 0px;}
+	#mc_embed_signup .button {clear:both; background-color: #aaa; border: 0 none; border-radius:4px; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: bold; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding:0; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
+	.form-title-embed {	display: block;	font-family: 'Stag Web', 'American Typewriter', 'Helvetica Neue', Helvetica, sans-serif;	font-weight: 200; font-size: 32px; line-height: 32px; letter-spacing: 1px; color: #ffffff; margin: 0px 20px 0px 20px; padding: 12px 0px 2px 0px;}
+	.cjr-bold {	font-weight: 600;}
+	#mc_embed_signup input.email { padding: 2px 0; margin: 0px 0px 20px 10px; font-style: normal; text-indent: 10px; border: 0 none; border-radius: 4px; width: 60%;}
+	#mc_embed_signup input.button { min-width:114px; padding: 1px 0px 0px 0px; margin: 0px 10px 20px 10px; background-color: #b4b2b4 !important; font-family: 'Stag Web', 'American Typewriter', 'Helvetica Neue', Helvetica, sans-serif;	font-size: 16px; font-style: normal;	font-weight: 500; letter-spacing: 1px;}
+	#mc_embed_signup .button:hover { background-color: #000 !important;}
+        
+    
+        
+    @media screen
+    {      
+        #print-header {display: none;}    
+    }
+    
+    @media print
+    {   
+                
+        #print-header
+        {
+            display: block !important; 
+            width: 50% !important; 
+            margin: 0px 0px 0px 40px !important;
+        }
+        
+        .col-sm-8 {
+            width: 100% !important;
+        }
+        
+        h1, h1 em {
+            font-family: Georgia !important;
+            font-weight: 700 !important;
+            font-size: 36px !important;
+            line-height: 1.2 !important;
+            margin: 0px 0px 0px -4px !important;
+            color: #000000 !important;
+            display: inline !important;
+        }
+        
+        p:first-of-type {
+            font-size: 18px !important;
+        }
+        
+        p {
+            font-family: Georgia !important;
+        }
+        
+        article header {
+            margin-bottom: 0px;
+        }
+        
+        p.quote, p.pullquote-2015, p.pullquote_full, p.pullquote_left {
+            font-family: Georgia;
+            font-size: 24px;
+            font-style: italic;
+            border: none;
+            padding: 0px;
+            margin-top: -4px !important;
+            line-height: 1.5;
+            color: #000;
+            margin-bottom: 16px;
+            background: none;
+            background-size: 0px;
+        }
+        
+    }      
+	</style>
+    
+    <!-- xml   -->  
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/index.xml" />
+    
+    <!-- Javascripts -->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    
+    <script type="text/javascript">
+		$(function () {
+
+			var isMobile = (/android|webos|iphone|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()));
+		
+			$("#module-recent-popular-stories .module-head-toggle a").click(
+				function () {
+					if ($(this).is(".recent")) {
+						$("#module-recent-popular-stories .module-head-toggle a.recent").removeClass("inactive").addClass("active");
+						$("#module-recent-popular-stories .module-head-toggle a.popular").removeClass("active").addClass("inactive");
+						$("#module-recent-popular-stories .stories.recent").removeClass("inactive").addClass("active");
+						$("#module-recent-popular-stories .stories.popular").removeClass("active").addClass("inactive");
+					} else {
+						$("#module-recent-popular-stories .module-head-toggle a.popular").removeClass("inactive").addClass("active");
+						$("#module-recent-popular-stories .module-head-toggle a.recent").removeClass("active").addClass("inactive");
+						$("#module-recent-popular-stories .stories.popular").removeClass("inactive").addClass("active");
+						$("#module-recent-popular-stories .stories.recent").removeClass("active").addClass("inactive");
+					};
+					
+					return false;
+				}
+			);
+			
+			$("#nav-mobile-hamburger").click(
+				function () {
+					$("#nav-mobile .menu").toggle();
+				}
+			);
+		});
+	</script>
+    
+  
+    
+    <!-- mailchimp -->
+    <script type="text/javascript">
+		var $mcGoal = {'settings':{'uuid':'a23440a018c7ba0619c6f01e6','dc':'us3'}};
+		(function() {
+			 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
+			sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
+		})(); 
+	</script>
+    
+    <!-- Facebook page ownership-->
+    <meta property="fb:pages"content="33800584090" />
+    
+    <!-- Facebook Pixel Code -->
+	<script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window,document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+       fbq('init', '1790101097907703'); 
+       fbq('track', 'PageView');
+    </script>
+    <noscript>
+     <img height="1" width="1" src="https://www.facebook.com/tr?id=1790101097907703&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+    
+	<!-- Ads -->
+	    
+    <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+    <script>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+    </script>
+    
+    <script>
+	  var gptAdSlots = [];
+      googletag.cmd.push(function() {
+		  
+		var mapping = googletag.sizeMapping().
+   		addSize([730, 480], [728, 90]).
+  		addSize([0, 0], [300, 250]).build();
+        
+        googletag.defineSlot('/3562084/cjr_multi_ad_slot', [[300, 250], [728, 90]], 'div-gpt-ad-1502835476121-0').
+    	defineSizeMapping(mapping).
+    	addService(googletag.pubads());
+        
+		googletag.defineSlot('/3562084/cjr_17_square', [300, 250], 'div-gpt-ad-1502833214477-0').addService(googletag.pubads());
+		
+		googletag.pubads().enableSingleRequest();
+        googletag.pubads().setTargeting('cjr_2017_ad_slots', ['covering_trump']);
+        googletag.enableServices();
+      });
+    </script>
+    
+        
+      <script type='text/javascript'>
+      googletag.cmd.push(function() {
+      googletag.defineSlot('/3562084/CJR_700x500_TEST', [700, 500], 'div-gpt-ad-1374535322548-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+      });
+      </script>
+      <script type="text/javascript" src="https://cdn.cjr.org/wp-content/themes/cjr2017/interstitial_full_sail_2.js"></script> 
+      
+   
+   
+  <link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cjr.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='slb_core-css'  href='https://cdn.cjr.org/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.7.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://cdn.cjr.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://cdn.cjr.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var toplytics = {"json_url":"https:\/\/www.cjr.org\/toplytics.json"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.cjr.org/wp-content/plugins/toplytics/js/toplytics.js?ver=4.8.8'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cjr.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn.cjr.org/wp-includes/wlwmanifest.xml" /> 
+<link rel="canonical" href="https://www.cjr.org/covering_trump/matt-gertz-trump-tweets.php" />
+<link rel='shortlink' href='https://www.cjr.org/?p=78130' />
+<link rel="alternate" type="application/json+oembed" href="https://www.cjr.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cjr.org%2Fcovering_trump%2Fmatt-gertz-trump-tweets.php" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.cjr.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cjr.org%2Fcovering_trump%2Fmatt-gertz-trump-tweets.php&#038;format=xml" />
+  
+     
+</head>
+
+
+<body>
+
+	<aside id="bottom-sharing" class="navbar-fixed-bottom">
+		<a href="http://twitter.com/share?url=https://www.cjr.org/covering_trump/matt-gertz-trump-tweets.php&amp;text=Matt+Gertz+tracks+how+Fox+News+manipulates+Trump&amp;via=cjr" class="twitter" title="Share on Twitter" target="_blank"><span class="socicon">a</span></a>
+		<a href="http://www.facebook.com/sharer/sharer.php?u=" onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=', 'facebook', 'status=0,height=370,width=640'); return false"><span class="socicon">b</span></a>
+		<a href="javascript:mailpage()"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>
+	</aside>
+	    
+<!-- START new header -->
+
+
+	<div id="container" class="hidden-print">
+		<div id="search-container">
+			<div id="nav-mobile">
+				<a href="#" id="nav-mobile-hamburger" class="fa fa-bars"></a>
+				<div class="menu">
+					<ul class="main">
+						<li><a href="/search-mobile">Search</a></li>
+						<li><a href="/local_news/">Local News</a></li>
+						<li><a href="/covering-trump/">Covering Trump</a></li>
+						<li><a href="/business_of_news/">Business of Journalism</a></li>
+						<li><a href="/innovations/">Innovation</a></li>
+					</ul>
+					<ul class="sub">
+						<li><a href="/about_us/mission_statement.php">About</a></li>
+						<li><a href="/about_us/donate.php">Donate</a></li>
+						<li><a href="/join/membership.php" onclick="ga('send', 'event', 'MemberSignUp', 'HeaderLink', '');">Membership</a></li>
+						<li><a href="/tag/winter-2019">Magazine</a></li>
+						<li><a href="/about_us/advertise.php">Advertise</a></li>
+						<li><a href="/about_us/contact.php">Contact</a></li>
+					</ul>
+				</div>
+			</div>
+			<form id="search" action="/search">
+            	<input type="hidden" name="cx" value="002110349687880336610:9r4jniuv6ko" />
+                <input type="hidden" name="cof" value="FORID:11" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                
+				<input type="text" class="text" defaultvalue=" " name="q" value=" Search" onFocus="if (this.value==' Search') this.value='';" style="height: 22px;" />
+				<button>&#9740;</button>
+			</form>
+		</div>
+		<div id="header">
+			<a href="/"><img src="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2017/images/cjr-logo-2x-b.png" alt="Columbia Journalism Review" id="logo"/></a>
+            <a href="/"><img src="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2017/images/cjr-logo-mobile-2x.png" alt="Columbia Journalism Review" id="logo-mobile"/></a>
+			<div id="tagline">
+				<p>The voice of journalism</p>
+				<a href="/join/membership.php">Join Us</a>
+			</div>
+			<ul id="nav-highlights">
+				<li><a href="/local_news/">Local News</a></li>
+                <li><a href="/covering-trump/">Covering Trump</a></li>
+                <li><a href="/business_of_news/">Business of Journalism</a></li>
+                <li><a href="/innovations/">Innovation</a></li>
+			</ul>
+			<ul id="nav-meta">
+				<li><a href="/about_us/mission_statement.php">About</a></li>
+                <li><a href="/about_us/donate.php">Donate</a></li>
+                <li><a href="/join/membership.php" onclick="ga('send', 'event', 'MemberSignUp', 'HeaderLink', '');">Membership</a></li>
+                <li><a href="/tag/winter-2019">Magazine</a></li>
+                <li><a href="/about_us/advertise.php">Advertise</a></li>
+                <li><a href="/about_us/contact.php">Contact</a></li>
+			</ul>
+		</div>
+        
+        <div class="module-row hidden-print">
+			<div class="module" id="breaking">
+				
+			</div>
+		</div>
+        
+    </div>
+    
+    <div id="print-header">
+        <img class="print-header-logo" src="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2017/images/cjr-logo-2x-b.png" />
+    </div>
+
+<!-- END new header --> 
+
+
+
+<div class="container-fluid">
+             
+        <!-- 728x90 ad -->
+    	<div class="row banner-ad-dynamic hidden-print">
+            
+            <center>
+           	<!-- /3562084/cjr_multi_ad_slot -->
+            <div id='div-gpt-ad-1502835476121-0'>
+            <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1502835476121-0'); });
+            </script>
+            </div>
+        	</center>
+        
+    	</div>
+                   
+
+              
+
+	        
+		<article id="article" class="article-big-img">
+        
+			<div class="row hidden-print">   
+            					
+				<script type="text/javascript">
+				var imageSizeHero = function() {
+				  var windowWidth = $(window).width();
+					  if ( windowWidth < 481 ) {
+						$('#image-hero').attr('src','https://cdn.cjr.org/wp-content/uploads/2019/02/GettyImages-122892112-686x371.jpg');
+					  } if ( windowWidth > 480 ) {
+						$('#image-hero').attr('src','https://cdn.cjr.org/wp-content/uploads/2019/02/GettyImages-122892112-1300x500.jpg');
+					  } 
+				};
+				// call it on DOM ready, and if it makes sense, when the window resizes
+				$(document).ready(imageSizeHero);
+				$(window).resize(imageSizeHero); 
+				</script> 
+            	<img class="col-xs-12" id="image-hero" src="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2017/images/1x1.gif" />
+			</div>
+            
+            <section class="row article-big-img-headline">
+				<div class="col-sm-2 category center-block text-center hidden-print">
+					                	
+                                  
+              			<a href="https://www.cjr.org/./covering_trump">                    
+              		                    
+                    
+                                        	<img class="category-circle-img" src="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/img/category_circles/circle_covering_trump.png" /> 
+                                        	       
+                    <small id="small-category">
+					    
+                        Covering Trump                        
+                    </small></a>
+                    
+				</div>
+          
+                <header class="col-sm-8">
+
+					<h1>Matt Gertz tracks how Fox News manipulates Trump</h1>
+                    				</header>
+				
+			</section>
+            
+	 
+           
+				<section class="row">
+                
+					<aside id="sharing" class="col-sm-2 text-center sticky hidden-print">
+						<section id="story-info">
+                            
+                                                                                    
+                            <h2><a href="https://www.cjr.org/author/anna-altman">By Anna Altman</a></h2>
+                            
+							<small>
+                        
+                                                        
+                                            
+                            February 13, 2019                
+                                                       
+                            </small>
+                         
+                        </section>
+                        
+                        <div class="sharing-buttons">
+                            
+                            <section>  
+                            
+                                                
+							  
+                              
+                            
+                             
+		
+                            </section>
+                            
+                            <section>
+                                <a href="http://twitter.com/share?url=https://www.cjr.org/covering_trump/matt-gertz-trump-tweets.php&amp;text=Matt+Gertz+tracks+how+Fox+News+manipulates+Trump&amp;via=cjr" class="twitter" title="Share on Twitter" target="_blank"><span class="socicon">a</span>
+                                <small>Share<br>on Twitter</small></a>
+                            </section>
+                            <section>
+                                <a href="http://www.facebook.com/sharer/sharer.php?u=https://www.cjr.org/covering_trump/matt-gertz-trump-tweets.php" onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=https://www.cjr.org/covering_trump/matt-gertz-trump-tweets.php', 'facebook', 'status=0,height=370,width=640'); return false"><span class="socicon">b</span>
+                                <small>Share<br>on Facebook</small></a>
+                            </section>
+                            <section>
+                                <a href="javascript:mailpage()"><span class="glyphicon glyphicon-envelope"></span>
+                                <small>Email<br>this story</small></a>
+                            </section>
+                        
+                        </div>
+                        
+					</aside>
+                    
+                    
+					<div class="col-sm-10 col-md-6 body-text-all" id="article-content">
+                    	
+                                            	<span class="caption-top hidden-print">Donald Trump visits "FOX and Friends" in 2011.  (Photo by Slaven Vlasic/Getty Images)</span>
+						                    	
+                                                
+                                       	<p><span style="font-weight: 400;"><strong>“There’s a saying in politics</strong> that personnel is policy,” Matt Gertz, a senior fellow at Media Matters, said on a recent afternoon. “The people who surround principals in the political world can have a lot of influence.” Gertz, thirty-four and petite in a suit jacket, is best known for tracking Donald Trump’s Twitter account for clues about his well-reported habit of watching </span><a href="https://www.nytimes.com/2017/12/12/arts/television/trump-isnt-watching-too-much-tv-hes-watching-the-wrong-kind.html"><span style="font-weight: 400;">Fox News</span></a><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">On Twitter and via a Media Matters video archive, Gertz flags when Trump’s posts seem tied directly to programming—on </span><i><span style="font-weight: 400;">Fox &amp; Friends</span></i><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">Hannity</span></i><span style="font-weight: 400;">, and </span><i><span style="font-weight: 400;">Lou Dobbs Tonight</span></i><span style="font-weight: 400;">. “You can see him bringing in information from these particular programs and then sending out public communications into the world, making particular decisions based on that information.” Trump’s most valuable personnel, Gertz has observed, are the ones Trump sees on TV. “I think what we’re seeing,” he said, “is how the president can be influenced in real time—and the consequences that can have.”</span></p>
+<p><strong>ICYMI: <a href="https://www.cjr.org/the_new_gatekeepers/i-was-plagiarized-by-jill-abramson.php">I was plagiarized by Jill Abramson</a></strong></p>
+<p><span style="font-weight: 400;">Gertz has been tracking Trump since the beginning of his presidency, but only began his dive into the president’s Twitter habits in October 2017. He’s had to adapt his life to Trump’s TV watching habits. He gets into the office around 7:30 am, to get a jump on the president’s predictable morning tweetstorms. “I moved my entire schedule forward,” he said. “Generally his daily schedule doesn’t start until 11 when he has his daily briefing, so before that it’s ‘executive time’ when he’s watching television and tweeting about it.” (“Executive time” consists, basically, of the president’s unstructured hours—last week, when </span><a href="https://www.axios.com/read-trumps-private-leaked-executive-time-schedules-00e9313a-3066-4988-a6dc-711a47de661e.html"><span style="font-weight: 400;">Axios released copies of Trump’s daily schedules</span></a><span style="font-weight: 400;">, it was found to constitute 60 percent of his workday.) </span></p>
+<p><span style="font-weight: 400;">Gertz has observed that Trump’s Fox live-tweeting is less frequent during the middle of the day, when he is more likely to be in meetings (though it still happens). Fox live-tweets tend to surge on holidays and weekends, when Trump is in the residence of the White House or at his golf club in New Jersey or at Mar-a-Lago, in Florida. </span></p>
+<p><span style="font-weight: 400;">“I have an eight-month old,” Gertz told me. “Sometimes the baby is taking a nap and then I can look back and say, ‘Oh wow, the president has done like six tweets this morning, let’s pull up the video archive and see what’s going on here.”</span></p>
+<div id="attachment_78131" style="width: 491px" class="wp-caption alignnone"><img class="size-medium wp-image-78131" src="https://cdn.cjr.org/wp-content/uploads/2019/02/Gertz-Headshot_cropped-1-481x600.jpg" alt="" width="481" height="600" srcset="https://cdn.cjr.org/wp-content/uploads/2019/02/Gertz-Headshot_cropped-1-481x600.jpg 481w, https://cdn.cjr.org/wp-content/uploads/2019/02/Gertz-Headshot_cropped-1-821x1024.jpg 821w" sizes="(max-width: 481px) 100vw, 481px" /><p class="wp-caption-text">Matt Gertz, a senior fellow at Media Matters. Courtesy Media Matters.</p></div>
+<div id="mc_embed_signup" class="hidden-print"><center><span class="form-title-embed">Sign up for <span class="cjr-bold">CJR</span>'s <nobr>daily email</nobr></span><form action="//cjr.us3.list-manage.com/subscribe/post?u=a23440a018c7ba0619c6f01e6&amp;id=9c93f57676" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required=""><input type="submit" value="SUBSCRIBE" name="subscribe" id="mc-embedded-subscribe" class="button"><div style="position: absolute; left: -5000px;"><input type="text" name="b_a23440a018c7ba0619c6f01e6_c6de9a59ea" value=""></div></form></center></div><p><span style="font-weight: 400;">Gertz’s attention to detail follows Trump’s Twitter behavior down to the moment. For example, Gertz pointed to </span><a href="https://www.washingtonpost.com/news/politics/wp/2017/10/18/twitter-please-give-trump-280-characters-so-he-can-spend-more-time-working/?utm_term=.56f8f0f3cc2e"><span style="font-weight: 400;">Philip Bump’s reporting in </span><i><span style="font-weight: 400;">The Washington Post</span></i></a><span style="font-weight: 400;"> that Trump takes six minutes on average to send a tweet. (Tweets with videos or images, he believes, </span><a href="https://www.vox.com/2018/12/8/18132087/trump-tweet-john-kelly-resign-fire-replace"><span style="font-weight: 400;">based on accumulated White House reporting</span></a><span style="font-weight: 400;">, are likely sent by a Trump staffer, not by the president himself.) When there’s a big gap in time between tweets that exceeds the time between relevant Fox segments, Gertz can only speculate about what’s going on—and it can get personal. On the day we met, Gertz guessed about one such break: “I think he paused and maybe took a shower or something?”</span></p>
+<p><span style="font-weight: 400;">There were other clues to follow. Trump</span> <span style="font-weight: 400;">had started that day by </span><a href="https://twitter.com/realdonaldtrump/status/1088399969038594048"><span style="font-weight: 400;">tweeting</span></a><span style="font-weight: 400;">, “A great new book out, ‘Game of Thorns’ by Doug Wead, Presidential Historian and best selling author. The book covers the campaign of 2016, and what could be more exciting than that?” </span></p>
+<p><span style="font-weight: 400;">Gertz was skeptical. Aside from the fact that the book wasn’t so new (it came out in 2017), the name drop, he said, “was a pretty good tell that it was something coming from </span><i><span style="font-weight: 400;">Fox &amp; Friends</span></i><span style="font-weight: 400;">, because the president doesn’t really read books.” Other giveaways to which Gertz has become alert: statistics or figures, an obscure source (who, it turns out, may also have been a Fox guest), topics of little relevance to the news cycle. “If it’s about something hyper specific and weird that no one else is talking about, chances are it’s coming from Fox,” he said. </span></p>
+<p><span style="font-weight: 400;">The impact of Gertz’s analysis may lie in its immediacy—following him on Twitter is like following an annotated Trump—but his accumulated knowledge of Fox programming and its impact on the president has allowed him to make arguments and predictions about Fox’s long-range impact. He had been forecasting a “Fox News shutdown” since as early as </span><a href="https://www.mediamatters.org/blog/2018/03/23/executive-time-are-we-about-have-fox-news-shutdown/219715"><span style="font-weight: 400;">last March</span></a><span style="font-weight: 400;">, by observing a “</span><a href="https://www.mediamatters.org/blog/2019/01/02/fox-news-shutdown-here-and-trump-tweeting-through-it/222395"><span style="font-weight: 400;">tug of war</span></a><span style="font-weight: 400;">” between right-wing media, whose presenters wanted Trump to use a government shutdown to extract concessions on immigration policy, and Congressional Republicans, who would have preferred that he not.</span></p>
+<p><strong>ICYMI: <a href="https://www.cjr.org/analysis/roger-stone-attack.php">A reporter was harassed by Roger Stone for years. It ended in a violent confrontation.</a></strong></p>
+<p><span style="font-weight: 400;">Fox knows that Trump is watching, and the network steers coverage to speak to him directly. By December, Fox’s “infotainers,” as Gertz likes to call them, won out, and urged the president to “</span><a href="https://www.mediamatters.org/blog/2019/01/03/trump-s-fox-cabinet-returns-vacation-urges-him-stay-strong-shutdown/222406"><span style="font-weight: 400;">stay strong</span></a><span style="font-weight: 400;">,” feeding him </span><a href="https://www.mediamatters.org/blog/2019/01/15/trump-s-fox-advisers-keep-telling-him-he-s-winning-shutdown-which-why-it-wont-end-any-time-soon/222527"><span style="font-weight: 400;">cherry-picked poll stats</span></a><span style="font-weight: 400;"> that showed he was “winning” the shutdown. Today, Gertz feels confident that Trump will declare a national emergency to build his border wall, because that’s what Fox has been repeatedly telling him to do. </span></p>
+<p><span style="font-weight: 400;">When discussing Trump, Gertz’s tone can be sarcastic, veering on snide. Other times it’s </span><a href="https://twitter.com/MattGertz/status/1088858206728843265"><span style="font-weight: 400;">outraged</span></a><span style="font-weight: 400;">. He told me that this comes from deep concern.</span> <span style="font-weight: 400;">“The president of the United States—with access to any expert he wants, all of the information that the federal government has—frequently begins his day by watching this nonsensical propagandistic show about how great he is and then tweeting about its segments in real time,” he said. “Then he goes to work as president and then finishes and watches the nightly Fox News lineup and tweets about </span><i><span style="font-weight: 400;">that</span></i><span style="font-weight: 400;"> in real time. This is very bizarre. And I think unhealthy.” </span></p>
+<p><span style="font-weight: 400;">Choosing Fox over the public is bad governance, Gertz added, since he’s answering not to the American people, ultimately, but to a </span><a href="https://www.washingtonpost.com/opinions/2019/02/06/wheres-fact-check-fox-news/?utm_term=.8d05997608f7"><span style="font-weight: 400;">news channel that has dubious fact-checking standards</span></a><span style="font-weight: 400;">. Late last month, before the president acceded to demands that ended the shutdown, Trump worried how the pundits would respond: “The White House reporting on this is that the president is worrying about losing Ann Coulter and Sean Hannity,” Gertz told me. “I mean, if that’s your goal, to placate people whose incentive structure is to be as implacable as possible, you’re not actually going to be able to negotiate with Democrats.”</span></p>
+<p><span style="font-weight: 400;">Gertz figures he’s doing his part to hold Trump accountable for the Fox News feedback loop—and to show how eagerly other outlets pick up the story of whatever Trump posts. “I think it has value, in knowing why the president is saying the things that he says and sometimes doing the things that he does,” Gertz told me. “I think certainly the president’s Twitter habits will be part of the story of his administration,” he added. “And it’s all out there if you look for it.”</span></p>
+<p><strong>ICYMI: <a href="https://www.cjr.org/business_of_news/mcclatchy-upgrades-ceo-forman-housing-stipend-35k-month-buyouts.php">Newspaper chain upgrades CEO’s housing stipend to $35K a month amid buyouts</a></strong></p>
+				         
+                       
+                       
+						                      	<p>                        
+                        <center><div id="post-survey-box" class="hidden-print">
+                        <em>Has America ever needed a media watchdog more than now? Help us by <a href="https://ssl.palmcoastd.com/18801/apps/MEMBER1?ikey=5**M02" onclick="ga('send', 'event', 'MemberSignUp', 'ArticleBoxLink', '');" target="_blank">joining CJR today</a>.</em>
+                        </div></center>
+                        </p>                        
+                       
+                           
+                        	<small class="bio-overline"><strong>Anna Altman is a writer and editor in Washington, DC.</strong></small>
+                        	
+						               
+                     
+                                          
+                                  
+					</div>
+                    
+ 
+           
+                    <div class="nocontent">
+                    
+					<aside id="sidebar" class="nocontent col-sm-offset-2 col-md-4 col-md-offset-0 trending-stories hidden-print">
+             
+                    	<div class="sidebar-ad">    
+                        
+                            <!-- /3562084/cjr_17_square -->
+                            <div id='div-gpt-ad-1502833214477-0' style='height:250px; width:300px;'>
+                            <script>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1502833214477-0'); });
+                            </script>
+                            </div>
+                    
+                     	</div>
+
+
+                        <h3>Most Popular</h3>
+                           
+                                                    
+                            <li id="toplytics-widget-2" class="widget toplytics_widget"><script type="text/javascript">toplytics_args = {widget_id : 'toplytics-widget-2-inner',period : 'week',numberposts : 5,showviews : 0,before_title : '<h2 class="widgettitle">',title : '',after_title : '</h2>',}</script><div id='toplytics-widget-2-inner'></div><ol class="gtc-list">		<li>
+		<a class="gtc-link" href="https://www.cjr.org/the_feature/esquire-bryan-singer-the-atlantic.php" title="How &lt;i&gt;Esquire&lt;/i&gt; lost the Bryan Singer story">How <i>Esquire</i> lost the Bryan Singer story</a>
+		</li>		<li>
+		<a class="gtc-link" href="https://www.cjr.org/tow_center/jason-leopold-buzzfeed-cohen.php" title="Despite backlash, Jason Leopold stands by his story">Despite backlash, Jason Leopold stands by his story</a>
+		</li>		<li>
+		<a class="gtc-link" href="https://www.cjr.org/business_of_news/the-associated-press-foreign-reporting.php" title="Rethinking foreign reporting at the AP">Rethinking foreign reporting at the AP</a>
+		</li>		<li>
+		<a class="gtc-link" href="https://www.cjr.org/the_media_today/cnn_sarah_isgur_flores.php" title="CNN reporters ‘up in arms’ over GOP operative hire">CNN reporters ‘up in arms’ over GOP operative hire</a>
+		</li>		<li>
+		<a class="gtc-link" href="https://www.cjr.org/the_profile/tucker-carlson.php" title="The mystery of Tucker Carlson">The mystery of Tucker Carlson</a>
+		</li></ol></li>                         
+							</aside>                
+                        </div>
+                        
+					</aside>
+				</section>
+		</article>
+	</div>
+
+
+	<div class="nocontent">
+
+
+    
+	
+			
+		
+			
+    
+    
+    
+     
+     
+		 
+        
+        
+          
+            
+            
+                        
+                                    
+                      
+    
+    <section id="perspective-top" class="nocontent hidden-print">
+		<div class="nocontent container-fluid">
+			<div class="text-center">
+				<img class="center-block perspective-icon" src="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/img/cjr-icon.gif" />
+				<h3>Featured</h3>
+			</div>
+			<div class="row">
+            	
+                <article class="col-sm-8 col-sm-offset-2 lead">
+					<section>
+                    	<a href="https://www.cjr.org/special_report/getting-over-ourselves.php/" style="z-index:1 !important;"><span class="link-spanner-top"></span></a>
+						<a href="http://twitter.com/share?url=https://www.cjr.org/special_report/getting-over-ourselves.php/&amp;text=Getting Over Ourselves&amp;via=cjr" class="twitter" title="Share on Twitter" target="_blank"><span class="socicon homepage-twitter-button">a</span></a>
+						<a href="https://www.cjr.org/special_report/getting-over-ourselves.php/"><small>Monday, Feb 25th, 2019</small>
+						<h1>Getting Over Ourselves</h1>
+                        <h2>By Kyle Pope, <strong>CJR</strong></h2></a>
+                                                                        <p>In late January, over the course of a week, a lousy journalism job market became truly awful. About 1,000 journalists learned they were being laid off, at BuzzFeed, HuffPost, and Gannett, marking a grim record for an industry that has...</p>
+						<a href="https://www.cjr.org/special_report/getting-over-ourselves.php/" style="z-index:1 !important;"><span class="link-spanner-middle"></span></a>
+					</section>
+				</article>
+                        
+			                
+                    
+			</div>        
+		</div>
+	</section>
+    
+	<section id="perspective-bottom" class="nocontent hidden-print">
+		<div class="nocontent container-fluid">
+
+
+   
+		    
+            
+                        
+                                      	
+             	
+             
+                    <article class="secondary-box secondary-box-img" style="background-image: url(https://cdn.cjr.org/wp-content/uploads/2019/02/Screen-Shot-2019-02-22-at-4.08.30-PM-400x255.jpg);">
+                	<a href="https://www.cjr.org/the_feature/esquire-bryan-singer-the-atlantic.php" style="z-index:1 !important;"><span class="link-spanner-top"></span></a>
+					<div class="secondary-box-interior secondary-box-interior-img">
+                    <div class="secondary-box-interior-img-2">
+						<a class="tweet-bird" href="http://twitter.com/share?url=https://www.cjr.org/the_feature/esquire-bryan-singer-the-atlantic.php&amp;text=How Esquire lost the Bryan Singer story&amp;via=cjr" class="twitter" title="Share on Twitter" target="_blank"><span class="socicon homepage-twitter-button tweet-bird">a</span></a>
+						<a href="https://www.cjr.org/the_feature/esquire-bryan-singer-the-atlantic.php"><small>Friday, Feb 22nd, 2019</small>
+						<h4>How <i>Esquire</i> lost the Bryan Singer story</h4>
+						<h2>By Elon Green</h2></a>
+					</div>
+                    </div>
+                    <a href="https://www.cjr.org/the_feature/esquire-bryan-singer-the-atlantic.php" style="z-index:1 !important;"><span class="link-spanner"></span></a>
+					</article>
+                 
+			            
+			                
+            
+            
+                        
+                                      	
+             	
+             
+                    <article class="secondary-box secondary-box-img" style="background-image: url(https://cdn.cjr.org/wp-content/uploads/2019/02/Robert-Gauthier-Molly-400x255.jpeg);">
+                	<a href="https://www.cjr.org/united_states_project/mexico-border-latimes-nytimes.php" style="z-index:1 !important;"><span class="link-spanner-top"></span></a>
+					<div class="secondary-box-interior secondary-box-interior-img">
+                    <div class="secondary-box-interior-img-2">
+						<a class="tweet-bird" href="http://twitter.com/share?url=https://www.cjr.org/united_states_project/mexico-border-latimes-nytimes.php&amp;text=One way to improve coverage of the US-Mexico border? Move there.&amp;via=cjr" class="twitter" title="Share on Twitter" target="_blank"><span class="socicon homepage-twitter-button tweet-bird">a</span></a>
+						<a href="https://www.cjr.org/united_states_project/mexico-border-latimes-nytimes.php"><small>Monday, Feb 25th, 2019</small>
+						<h4>One way to improve coverage of the US-Mexico border? Move there.</h4>
+						<h2>By Tiffany Stevens</h2></a>
+					</div>
+                    </div>
+                    <a href="https://www.cjr.org/united_states_project/mexico-border-latimes-nytimes.php" style="z-index:1 !important;"><span class="link-spanner"></span></a>
+					</article>
+                 
+			            
+			                
+            
+    
+    
+ 
+		    
+            
+                        
+                                        
+            
+            
+                        
+                                        
+               
+
+                       
+            
+            
+                        
+                                      	
+             	             
+                    <article class="secondary-box secondary-box-img-third" style="background-image: url(https://cdn.cjr.org/wp-content/uploads/2019/02/AdobeStock_60441389-1-400x255.jpeg);">
+                	<a href="https://www.cjr.org/local_news/virginia-blackface-scandal-journalists.php" style="z-index:1 !important;"><span class="link-spanner-top"></span></a>
+					<div class="secondary-box-interior secondary-box-interior-img">
+                    <div class="secondary-box-interior-img-2">
+						<a class="tweet-bird" href="http://twitter.com/share?url=https://www.cjr.org/local_news/virginia-blackface-scandal-journalists.php&amp;text=Virginia blackface scandal: Journalists share their experiences&amp;via=cjr" class="twitter" title="Share on Twitter" target="_blank"><span class="socicon homepage-twitter-button tweet-bird">a</span></a>
+						<a href="https://www.cjr.org/local_news/virginia-blackface-scandal-journalists.php"><small>Friday, Feb 22nd, 2019</small>
+						<h4>Virginia blackface scandal: Journalists share their experiences</h4>
+						<h2>By The Editors, <strong>CJR</strong></h2></a>
+					</div>
+                    </div>
+                    <a href="https://www.cjr.org/local_news/virginia-blackface-scandal-journalists.php" style="z-index:1 !important;"><span class="link-spanner"></span></a>
+					</article>
+            
+                        
+			                
+                     
+			         
+		</div>
+	</section>
+            
+            
+          		
+		<!-- <p>This data from the top footer transient</p> -->
+    	
+		    
+
+
+
+
+   
+    </div>
+
+
+
+	<footer class="nocontent hidden-print">
+		<section id="newsletter">
+			<div class="nocontent container-fluid">
+				<div class="row">
+					<h3 class="invert text-center">Weekly highlights</h3>
+					<h5 class="invert text-center">Subscribe to the best of CJR, compiled by the editors every Thursday.</h5>
+				</div>
+				<form class="col-sm-4 col-sm-offset-4" id="email-new" action="//cjr.us3.list-manage.com/subscribe/post?u=a23440a018c7ba0619c6f01e6&amp;id=c6de9a59ea" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" novalidate>
+                
+				  <div class="form-group">                    
+                    <input type="email" class="form-control" name="EMAIL" id="mce-EMAIL" placeholder="Enter email" />
+				  </div>
+				  <a type="submit" class="btn invert form-btn center-block" onclick="document.getElementById('email-new').submit(); return false;">Sign up</a>                               
+				</form>
+			</div>
+		</section>
+		<section id="footer-items">
+			<div class="nocontent container-fluid">
+				<div class="row">
+					<div class="col-sm-3">
+						<a href="/about_us/mission_statement.php"><small><strong>About us</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="/about_us/contact.php"><li>Contact us</li></a>
+							<a href="/about_us/mission_statement.php"><li>About Columbia Journalism Review</li></a>
+							<a href="/about_us/masthead.php"><li>Masthead</li></a>
+							<a href="/about_us/privacy_policy.php"><li>Privacy policy</li></a>
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<small><strong>Subscribe &amp; donate</strong></small>
+						<ul class="list-unstyled">
+							<a href="/join/membership.php" onclick="ga('send', 'event', 'MemberSignUp', 'FooterLink', '');"><li>Subscribe to Columbia Journalism Review</li></a>
+							<a href="/about_us/donate.php"><li>Donate to support CJR&rsquo;s mission</li></a>
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<a href="/about_us/advertise.php"><small><strong>Advertise</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="/about_us/advertise.php"><li>Contact us for more information</li></a>							
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<a href="/resources/"><small><strong>Resources</strong></small></a>
+						<ul class="list-unstyled">
+                        	<a href="http://tow.cjr.org/platform-timeline/" target="_blank"><li>Platforms and Publishers: Timeline</li></a>
+							<a href="/resources/"><li>Who owns what?</li></a>
+							<a href="/the_delacorte_lectures"><li>Delacorte Lectures on Magazine Journalism</li></a>
+							<a href="https://www.cjr.org/news_startups_guide/"><li>Guide to online news startups</li></a>
+							<a href="http://archives2.cjr.org/resources/magazines_and_their_websites/"><li>Magazines and their websites: A CJR survey and report</li></a>
+							<a href="http://archives2.cjr.org/supportreporting/"><li>Support reporting</li></a>
+							<a href="http://archives2.cjr.org/resources/studyguides/index.php"><li>Study guides</li></a>
+						</ul>
+					</div>
+				</div>
+				<div class="row text-center">
+					<ul class="col-sm-12 list-unstyled">
+						<li>&copy; Copyright 2019 Columbia Journalism Review</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+	</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2442246-6', 'auto');
+  ga('send', 'pageview');
+
+</script> 
+
+<script type='text/javascript' src='https://cdn.cjr.org/wp-includes/js/wp-embed.min.js?ver=4.8.8'></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+
+    <script type='text/javascript'>
+      var _sf_async_config = _sf_async_config || {};
+      /** CONFIGURATION START **/
+      _sf_async_config.sections = 'Change this to your Section name'; //CHANGE THIS
+      _sf_async_config.authors = 'Change this to your Author name'; //CHANGE THIS      
+      
+      /** CONFIGURATION END **/
+      (function() {
+          function loadChartbeat() {
+              window._sf_endpt = (new Date()).getTime();
+              var e = document.createElement('script');
+              e.setAttribute('language', 'javascript');
+              e.setAttribute('type', 'text/javascript');
+              e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+              
+              document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function() {
+                  oldonload();
+                  loadChartbeat();
+              };
+          
+          })();
+      </script>
+
+</body>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/js/nav.js"></script>
+<script src="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/js/new-window.js"></script>
+<script src="https://cdn.cjr.org/wp-content/themes/cjr2017/_resources2015/js/mailpage.js"></script>
+
+
+<script type="text/javascript">
+
+ if ($(window).width() > 886) {
+	  document.write("\x3Cscript src='/wp-content/themes/cjr2017/_resources2015/js/stickyfill.min.js'>\x3C/script>\x3Cscript>$('.sticky').Stickyfill();\x3C/script>");
+	}
+
+</script>
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<style> .cc-link, .cc-revoke:hover {text-decoration: underline !important;} 
+        .cc-banner .cc-btn:last-child {margin: 0px 0px 0px 20px;}</style>
+
+<script src="https://ssl.geoplugin.net/extras/cookielaw.js?k=532a8b36396deef9" type="text/javascript"></script>
+    
+<script type="text/javascript">if ( geop1ugin_cookieConsent () ) { jQuery.getScript("//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js", function(){});} </script>
+    
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#eeeeee"
+    },
+    "button": {
+      "background": "#ec502e"
+    }
+  },
+   "content": {
+    "message": "This website uses cookies as well as similar tools and technologies to understand visitors' experiences. By continuing to use this website, you consent to Columbia University's usage of cookies and similar technologies, in accordance with the ",
+    "dismiss": "DISMISS",
+    "link": "Columbia University Website Cookie Policy.",
+    "href": "https://cuit.columbia.edu/content/columbia-university-website-cookie-notice"
+  }
+})});
+</script>
+
+</html>	   

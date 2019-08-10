@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <style>
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+.node text {
+  pointer-events: none;
+  font: 10px sans-serif;
+}
+</style>
+    <title>D3 Test</title>
+    <script src="https://d3js.org/d3.v5.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  </head>
+  <body>
+    <svg width="960" height="600"></svg>
+    <button type="button" id="First" onclick="">Load After Split</button>
+    <script type="text/javascript">
+
+      var loadEnd = document.getElementById("First");
+      First.onclick = function(){
+
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.src = "D3_javascript_karate_end.js";
+        document.getElementsByTagName("head")[0].appendChild(script);
+        return false;
+      }
+    </script>
+    <script  src="D3_javascript_karate.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1241 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta name="content-language" content="ja" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="format-detection" content="telephone=no">
+<meta name="twitter:widgets:csp" content="on">
+<meta name="application-name" content="診断メーカー" />
+<meta name="inmobi-site-verification" content="3f6fe1a75171a7913172b6f0698ecd64">
+<link rel="stylesheet" type="text/css" href="https://d1br91wyosz8a9.cloudfront.net/t/bootstrap/css/bootstrap.min.css?v=7849ccf0">
+<link rel="stylesheet" href="https://d1br91wyosz8a9.cloudfront.net/t/font/fontawesome-pro-5.6.3-web/css/all.min.css?v=7849ccf0">
+<link rel="stylesheet" type="text/css" href="https://d1br91wyosz8a9.cloudfront.net/css2/mq.css?v=7849ccf0">
+<link rel="stylesheet" type="text/css" href="https://d1br91wyosz8a9.cloudfront.net/t/slick/slick.css?v=7849ccf0">
+
+<link rel="stylesheet" href="https://d1br91wyosz8a9.cloudfront.net/css2/im_if_pc.css?v=7849ccf0" type="text/css">
+<!--[if lt IE 9]>
+<link href="https://d1br91wyosz8a9.cloudfront.net/css2/pc.css?v=7849ccf0"type="text/css" media="all" />
+<![endif]-->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({video:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/shindanmaker-english/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<title>あっ･･･貴方のことが！</title>
+<meta name="keywords" content="あっ･･･貴方のことが！,占い,診断">
+<meta name="description" content="あっ･･･貴方のことが！す///す/// - 診断メーカー">
+<link rel="canonical" href="https://shindanmaker.com/849023">
+<meta property="fb:app_id" content="147796168636285">
+<style type="text/css">
+#imobile_adspotdiv1 {
+      padding: 0 !important;
+}
+
+.share_btn_table td {
+  padding: 4px 4px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.share_btn_block{
+  padding: 5px 3px;
+  height: 55px;
+  display: inline-block;
+  white-space: nowrap;
+  line-height: 100%;
+  vertical-align: top !important;
+}
+
+.share_btn{
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: normal;
+  height: 40px;
+  text-align: center;
+  white-space: nowrap;
+  padding: 5px;
+  line-height: 100%;
+}
+
+.share_facebook {
+  padding-top: 8px;
+  font-size: 24px;  
+  width: 40px;
+  background-color: rgba(59,89,152,0.9);
+  color: white;
+}
+.share_facebook:hover, .share_facebook:active{
+  background-color: rgba(59,89,152,1);
+}
+
+
+.share_googleplus{
+  width: 40px;
+  padding-top: 12px;
+  width: 40px;
+  font-size: 18px;  
+  background-color: rgba(221,75,57,0.8);;
+  color: white;
+}
+.share_googleplus:hover, .share_googleplus:active{
+  color: white;
+  background-color: rgba(221,75,57,1);;
+}
+
+.share_btn:hover{
+  color: white;
+}
+
+.shindan_title_toggle_btn_block{
+  text-align: right;
+  line-height:10px;
+  padding-right: 5px;
+}
+
+.shindan_title_toggle_btn{
+  font-size: 10pt;
+  color: #BBB;
+  cursor: pointer;
+}
+.shindanform {
+  border: 8px #0080A4 solid !important;
+  border-radius: 12px !important;
+  background-color: #F8F8F8 !important;
+}
+.shindanform_label{
+  margin-bottom: 5px !important;
+  color: #000 !important;
+}
+
+.share_twitter {
+  padding: 12px;
+  font-size: 16px;
+  font-weight: bold;  
+  background-color: #1b95e0;
+  border-color: #1b95e0;
+  color: white;
+}
+
+.share_twitter:hover{
+  background-color: #0c7abf;
+  border-color: #0c7abf;
+}
+
+.share_twitter_o {
+  padding: 12px;
+  font-size: 16px;
+  font-weight: bold;  
+  background-color: #F4F4F4;
+  color: #1b95e0;
+  border: #DDD 1px solid !important;
+}
+
+.share_twitter_o:hover{
+  color: #1b95e0;
+  background-color: #DDD;
+  border-color: #AAA;
+}
+
+
+.share_mixi{
+  width: 40px;
+  padding-top: 12px;
+  width: 40px;
+  font-size: 15px;  
+  background-color: rgba(209,173,90,0.8);
+  color: white;
+  font-family: sans-serif;
+}
+
+.share_mixi:hover, .share_mixi:active{
+  color: white;
+  background-color: rgba(209,173,90,1);
+}
+
+.share_tweetat{
+  padding: 14px 5px 0 5px;
+  font-size: 12px;
+  background-color: #EFEFEF;
+  border: 1px #BBB solid;
+  color: #555;
+  font-family: sans-serif;
+}
+.share_tweetat:hover,.share_tweetat:active{
+  color: #000;
+  background-color: #DDDDDD;
+}
+
+.share_tweetat_pc{
+  padding-top: 14px;
+  font-size: 10px;
+  background-color: #EFEFEF;
+  border: 1px #BBB solid;
+  color: #555;
+  font-family: sans-serif;
+}
+.share_tweetat_pc:hover,.share_tweetat_pc:active{
+  color: #000;
+  background-color: #DDDDDD;
+}
+
+.share_otherbtn{
+  padding-top: 12px;
+  font-size: 15px;  
+  background-color: #FEFEFE;
+  border: 1px #DDD solid;
+  color: #777;
+  width: 40px;  
+}
+.share_otherbtn:hover,.share_tweetat:active{
+  color: #000;
+  background-color: #DDDDDD;
+}
+
+
+.share_haiku{
+  width: 40px;
+  padding-top: 15px;
+  width: 40px;
+  font-size: 11px;  
+  background-color: rgba(186,105,103,0.8);
+  color: white;
+  font-family: sans-serif;
+}
+.share_haiku:hover, .share_haiku:active{
+  color: white;
+  background-color: rgba(186,105,103,1);
+}
+
+.share_ameba{
+  width: 40px;
+  padding-top: 16px;
+  width: 40px;
+  font-size: 10px;  
+  background-color: rgba(30,165,254,0.7);
+  color: white;
+}
+
+.share_ameba:hover,.share_ameba:active{
+  background-color: rgba(30,165,254,1);
+}
+  
+.share_mastodon{
+  border-radius: 4px;
+  padding: 4px;
+  cursor: pointer;
+  display: inline-block;
+  height: 40px;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 100%;
+  border: 1px solid #189efc;
+  background-color: #FEFEFE;
+}
+
+#share_fixed_block{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #FFF;
+    height: 50px;
+    text-align: center;
+}
+.shindanstats_table{
+  width: 100%;
+}
+.shindanstats_table_tr1{
+  padding-bottom: 0;
+}
+.shindanstats_table_tr1_left{
+  text-align: left;
+}
+.shindanstats_table_tr1_right{
+  text-align: right;
+  font-size: 10pt; 
+}
+.shindanstats_donenumber{
+  font-weight: bold;
+  color: #111;
+  font-size: 12pt; 
+}
+.shindanstats_table_tr2{
+  padding-top: 5px;
+  text-align: left;
+  word-break:break-all;
+}
+.modaltweet-countblock{
+  padding: 5px;
+  margin-right: 5px;
+  text-align: right;
+  color:#66757f;
+}
+.tweet-textarea{
+  font-size: 1.1em;
+}
+.tweetmodal-count-ng{
+  color:red !important;
+  font-weight: bold;
+}
+.tweetmodal-sharebtn-disable{
+    filter:alpha(opacity=50);
+    -moz-opacity: 0.5;
+    opacity: 0.5;
+}
+.tweetmodal-externallink {
+  color: #999;
+  font-weight: normal;
+}
+.body-fixed {
+    position: fixed;
+    width: 100%;
+}
+.under_shindantitle_block{
+  padding-top: 1px;
+}
+.result2_title{
+  margin-top: 9px !important;
+}
+.special_ver_label_block{
+  text-align: right;
+  padding: 10px 5px 0 0;
+  font-size: 0.8em;
+}
+</style>
+<style>
+.pr_label_block{
+  padding: 10px;
+  text-align: left;
+}
+.pr_label{
+  border-radius: 4px;
+  background-color: #f8b500;
+  display: inline-block;
+  padding: 3px 5px;
+  color: #f7f7f7;
+  font-weight: normal;
+  cursor: pointer;
+  font-size: 0.9em;
+}
+.pr_label_name{
+  color: #FFF;
+  font-weight: bold;
+}  
+</style>
+<meta http-equiv="Content-script-Type" content="text/javascript">
+<meta name="google-site-verification" content="X99m3OnReUiPifbvdXGQSFZzLdsUzvoOLRoRz86PuzQ">
+<meta name="globalsign-domain-verification" content="fIcp0hJ3oOp4Zbd3UW7b10RfNsy7QvhqoS5g89DbQi" />
+<link rel="shortcut icon" href="https://d22xqp4igu9v8d.cloudfront.net/img/favicon.ico">
+<link rel="alternate" media="handheld" href="https://shindanmaker.com/849023">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-19089743-3','shindanmaker.com');
+ga('send', 'pageview');
+ga('create', 'UA-19089743-2', 'shindanmaker.com', {
+      'name': 'SecondTracker'
+      });
+ga('SecondTracker.send', 'pageview');
+</script>
+
+
+
+
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type='text/javascript'>
+var Slot_sm_pc_head_728x90, Slot_sm_pc_foot_728x90, Slot_sm_pc_foot_left_336x280, Slot_sm_pc_foot_right_336x280, Slot_sm_pc_mid_af_728x90;
+googletag.cmd.push(function() {
+var mapping = googletag.sizeMapping().
+addSize([980, 690], ['fluid',[728, 90],[336,280],[300,250]]).
+addSize([336,280], ['fluid',[336,280],[300,250]]).
+addSize([0,0],[[300,250],'fluid']).
+build();
+Slot_sm_pc_head_728x90 = googletag.defineSlot('/5794834/sm_pc_head_728x90', [728, 90], 'div-gpt-ad-1352514192773-6').addService(googletag.pubads());
+Slot_sm_pc_foot_728x90 = googletag.defineSlot('/5794834/sm_pc_foot_728x90', [728, 90], 'div-gpt-ad-1352514192773-0').addService(googletag.pubads());
+Slot_sm_pc_foot_left_336x280 = googletag.defineSlot('/5794834/sm_pc_foot_left_336x280', [336, 280], 'div-gpt-ad-1352514192773-2').addService(googletag.pubads());
+Slot_sm_pc_foot_right_336x280 = googletag.defineSlot('/5794834/sm_pc_foot_right_336x280', [336, 280], 'div-gpt-ad-1352514192773-4').addService(googletag.pubads());
+Slot_sm_pc_mid_af_728x90 = googletag.defineSlot('/5794834/sm_pc_mid_af_728x90', ['fluid',[728, 90],[336,280]], 'div-gpt-ad-1352514192773-12').defineSizeMapping(mapping).addService(googletag.pubads());
+googletag.pubads().disableInitialLoad();
+googletag.pubads().setTargeting('abtest',[String(Math.floor(Math.random() * 10))]);
+googletag.enableServices();
+});
+</script>
+
+<style>
+</style>
+
+</head>
+<body>
+
+
+<div id="header_menu">
+<div class="container">
+
+  <div class="pull-left">
+  <a href="/"><img class="header_menu_logo" style="width: 128px" src="https://d1br91wyosz8a9.cloudfront.net/img/logo_head.png" alt="診断メーカー"></a>
+  </div>
+      
+  <div class="pull-right">
+    <ul class="header_menu_menulist">
+    <li class="header_menu_menulist_menu header_menu_text"><a title="つくる" class="header_menu_menulink" href="/c/make"><span class="menu-icon"><i class="fas fa-edit"></i></span><span class="menu-text">つくる</span></a></li>
+    <li class="header_menu_menulist_menu header_menu_text"><a title="人気診断" class="header_menu_menulink" href="/c/list?mode=hot"><span class="menu-icon"><i class="fas fa-list-ul"></i></span><span class="menu-text">人気診断</span></a></li>
+    <li class="header_menu_menulist_menu header_menu_text"><a title="作者" class="header_menu_menulink" href="/c/authorslist?mode=hot"><span class="menu-icon"><i class="fas fa-user"></i></span><span class="menu-text">作者</span></a></li>
+    <li class="header_menu_menulist_menu header_menu_text"><a title="つぶやき" class="header_menu_menulink" href="/c/timeline"><span class="menu-icon"><i class="fas fa-comments"></i></span><span class="menu-text">つぶやき</span></a></li>
+            <li class="header_menu_menulist_menu header_menu_text"><a title="ログイン" href="/c/login" class="header_menu_menulink" ><span class="menu-icon"><i class="fas fa-sign-in-alt"></i></span><span class="menu-text">ログイン</span></a></li>
+    	    </ul>
+    </div>
+    </div>
+</div>
+	
+
+
+
+<div class="container">
+
+<div class="wrap1">
+<div class="wrap2">
+<!-- google_ad_section_start --> 
+<div class="main1">
+<div class="main2">
+<div id="sm_pc_head_728x90_bl" style="height: 100px; padding-top: 10px; margin-bottom: 10px; text-align: center;">
+<!-- sm_pc_head_728x90 --><div id='div-gpt-ad-1352514192773-6_box'><div id='div-gpt-ad-1352514192773-6' >
+  <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1352514192773-6');
+googletag.pubads().refresh([Slot_sm_pc_head_728x90]);
+});
+  </script>
+  </div>
+  </div>
+  </div>
+
+
+
+<div class="shindantitle_block">
+  <div class="title_description_block">
+  <div class="title_description_block_above">
+      </div>
+
+
+
+
+  
+
+  
+  
+
+
+  
+	<div class="shindantitle2">
+  	      	<h1><a href="/849023">あっ･･･貴方のことが！</a></h1>
+  	  	</div>
+	
+  	
+    
+  <div class="shindandescription" style="text-align: center;word-break: break-all;">
+	<span>あっ･･･貴方のことが！
+す///す///</span>
+  
+    	
+	</div>
+  </div>	<div class="shindanstats">
+  <div id="useraction_result_test_374935413" style="text-align: left;"></div>
+  <table class="shindanstats_table">
+    <tr>
+      <td style="width: 36px; padding-right: 8px;">
+              <span onClick="ShowUserActionModal('374935413','black_xxxx2')"><img class="img-circle" style="width: 32px; height: 32px; cursor: pointer;" src="https://pbs.twimg.com/profile_images/1092759146611396608/sBy4b-BF_normal.jpg" alt=""></span>
+            </td>
+      <td style="min-width: 10px; max-width: 30%; text-align: left;">
+            <span class="a author_link" style="display: inline-block; margin-bottom: 0;margin-right: 2px; cursor: pointer;" href="#" onClick="ShowUserActionModal('374935413','black_xxxx2')">@black_xxxx2</span><span class="UserActionStatus_374935413"><span style="margin-left: 3px;" onClick="ShowUserActionModal('374935413','black_xxxx2')"></span>        </span>
+              </td>
+      <td style="padding-left: 1em; max-width: 45%; text-align: right;" class="shindanstats_table_tr1 shindanstats_table_tr1_right">
+        <span class="shindanstats_donenumber">238,972</span> 人が診断 
+      </td>
+    </tr>
+        <tr>
+      <td colspan="3" class="shindanstats_table_tr2 shindaninfo">
+      <span id="favlabel_container_849023"><span class="shindanlabel"><span class="favlabel0 shindanlabel_a" onClick="FavoriteAction(1,849023);"><span class="favmark0"><i class="fal fa-star"></i></span>28</span></span></span>
+      <span class="shindanlabel"><a class="themelabel" href="/c/list?mode=tag&tag=%E5%8D%92%E6%A5%AD"><i class="fa fa-tag themeicon" aria-hidden="true"></i>卒業</a></span>
+            <span class="shindanlabel"><a class="themelabel" href="/c/list?mode=tag&tag=%E4%BA%BA%E7%94%9F"><i class="fa fa-tag themeicon" aria-hidden="true"></i>人生</a></span>
+            <span class="shindanlabel"><a class="themelabel" href="/c/list?mode=tag&tag=%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3"><i class="fa fa-tag themeicon" aria-hidden="true"></i>バレンタイン</a></span>
+            <span class="shindanlabel"><a class="hashtaglabel" href="/c/timeline?sw=%23%E8%B2%B4%E6%96%B9%E3%81%AE%E3%81%93%E3%81%A8%E3%81%8C%E3%81%99_">#貴方のことがす_</a></span>
+        <span class="shindanlabel" ><a title="みんなの診断結果（Twitter）" href="/849023/timeline" class="themelabel"><i class="fas fa-comments"></i> みんなの診断結果</a></span>
+      <span class="shindanstats_label" id="result_pattern0" style="
+
+">結果パターン <b>43</b> 通り (日替わり)</span>
+
+      </td>
+    </tr>
+      </table>
+  </div>  
+</div>
+<div class="under_shindantitle_block">
+
+
+
+
+
+
+  
+	
+  
+<div class="shindanform_block">
+<div class="shindanform">
+<div class="shindanform_label">診断したい名前を入れて下さい</div><form id="form" name="enter" method="post" action="/849023" enctype="multipart/form-data"><input class="input-lg shindanuser" type="text" autocomplete="off" name="u" maxlength="255" value="" placeholder="名無しのM">
+<input id="shindan_submit" type="submit" class="btn btn-primary btn-lg" value="診断する">
+</form>
+</div>
+</div>
+	
+
+
+<div id="sm_pc_mid_af_728x90_bl" style="text-align: center; margin-bottom: 10px;">
+<!-- sm_pc_mid_af_728x90 --><div id='div-gpt-ad-1352514192773-12_box'><div id='div-gpt-ad-1352514192773-12' >
+  <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1352514192773-12');
+googletag.pubads().refresh([Slot_sm_pc_mid_af_728x90]);
+});
+  </script>
+  </div>
+  </div>
+  </div>
+
+<div class="shindan_list_container">
+<div class="async_preblock" style="height: 550px;"></div>
+
+<div id="async_hot"></div>
+<div id="async_pickup"></div>
+  
+<div class="async_preblock" style="height: 600px;"></div>
+<div id="async_author"></div>
+<div id="async_recommend"></div>
+<div id="async_theme"></div>
+
+
+
+
+<div id="async_pic"></div>
+<div id="async_mov"></div>
+<div id="async_chart"></div>
+<div id="async_new"></div>
+
+  
+
+    <div class="normal_main">
+      <div style="margin: 0 auto; text-align: center; max-width: 728px;">
+        <div class="row">
+          <div class="col-sm-6">
+          <div style="padding: 0 10px; text-align: center;"><!-- sm_pc_foot_left_336x280 --><div id='div-gpt-ad-1352514192773-2_box'><div id='div-gpt-ad-1352514192773-2' >
+  <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1352514192773-2');
+});
+  </script>
+  </div>
+  </div>
+  </div></div>
+    <div class="col-sm-6">
+          <div style="padding: 0 10px; text-align: center;"><div><!-- sm_pc_foot_right_336x280 --><div id='div-gpt-ad-1352514192773-4_box'><div id='div-gpt-ad-1352514192773-4' >
+  <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1352514192773-4');
+});
+  </script>
+  </div>
+  </div>
+  </div></div>
+          </div></div>
+        </div>
+      </div><div id="async_ranking"></div>
+<div id="async_favhot"></div>
+</div>
+
+
+
+
+<div id="favoriteModal" class="modal fade" tabindex="-1" role="dialog" style="top:5%; ">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title"><i class="fas fa-star"></i> <span id="favorite_modal-title">お気に入り</span></h4>
+      </div>
+      <div id="favorite_modal-body" class="modal-body">
+        
+      </div>
+      <div id="favorite_modal-footer" class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">閉じる</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal --><!-- Modal -->
+<div class="modal fade" id="Modal-Useraction" tabindex="-1" role="dialog" aria-labelledby="Modal-UseractionLabel" style="top:5%;">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div id="Modal-Useraction-header" style="padding: 15px 0 0 0;">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div><div id="alert_box"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="alert alert-info normal_block">
+<div class="infomation"><div><i class="fas fa-info-circle"></i> <a target="_blank" class="alert-link" href="http://shindanmaker.blogspot.com/2018/08/blog-post.html">診断を修正・更新した時にフォロワー・お気に入りユーザーにお知らせする事ができるようになりました <i class="fal fa-external-link-alt"></i></a></div><div><i class="fas fa-info-circle"></i> <a target="_blank" class="alert-link" href="https://shindanmaker.blogspot.com/2018/07/blog-post.html">【重要】診断メーカーで作成されたハッシュタグを利用して他の類似サイトへ誘導するスパムツイートにご注意ください <i class="fal fa-external-link-alt"></i></a></div><div><i class="fas fa-info-circle"></i> <a target="_blank" class="alert-link" href="https://shindanmaker.blogspot.com/2018/06/blog-post.html">「フォロー」「ミュート」機能を公開しました <i class="fal fa-external-link-alt"></i></a></div><div><i class="fas fa-info-circle"></i> <a target="_blank" class="alert-link" href="https://shindanmaker.blogspot.com/2018/05/blog-post.html">「ツイート機能の無いログイン」を廃止しました <i class="fal fa-external-link-alt"></i></a></div><div><i class="fas fa-info-circle"></i> <a target="_blank" class="alert-link" href="/c/aboutapp">【重要】当サイトを装った、偽のアプリ連携にご注意下さい。 <i class="fal fa-external-link-alt"></i></a></div>
+</div>
+</div>
+
+<div class="make">
+<a href="/c/make" class="btn btn-lg btn-primary"><i class="fas fa-edit"></i> 診断を作る</a>
+　あなたのオリジナル診断をつくろう！</div>
+</div></div>
+
+
+
+</div></div></div>
+<div class="foot">
+
+
+
+
+
+
+<div class="footmenu">
+
+<div id="sm_pc_foot_728x90_bl" style="text-align: center; margin: -10px auto 20px auto;">
+<!-- sm_pc_foot_728x90 --><div id='div-gpt-ad-1352514192773-0_box'><div id='div-gpt-ad-1352514192773-0' >
+  <script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1352514192773-0');
+});
+  </script>
+  </div>
+  </div>
+  </div>
+
+
+
+
+<div class="row" style="margin:0;">
+<div class="col-sm-4"><div class="footmenu_col">
+
+
+
+<h4>MENU</h4>
+<ul>
+<li><a href="/">診断メーカーTOP</a></li>
+<li><a href="/c/make">診断を作る</a></li>
+<li><a href="/c/timeline">みんなのつぶやき</a></li>
+<li><a href="/c/about">サイトについて(Q&amp;A)</a></li>
+<li><a href="/c/ads">広告掲載について</a></li><li><a href="/c/secure">セキュア(SSL/TLS)通信について</a></li><li><a href="/c/aboutapp">アプリ連携について/スパム一覧</a></li>
+<li><a href="/c/timeline?pagemode=app&sw=%40">ツイートアプリ（連携アプリ）確認ツール</a></li>
+<li><a href="/c/trends">Twitterトレンド</a></li>
+<li><a href="https://shindanmaker.blogspot.com/" target="_blank">お知らせブログ</a> <i class="fa fa-external-link" aria-hidden="true"></i></li>
+<li><a href="/c/login">ログイン</a></li>
+</ul>
+
+
+
+<div class="clearfix"></div>
+</div></div>
+<div class="col-sm-4"><div class="footmenu_col">
+<h4>診断一覧</h4>
+<ul>
+<li><a href="/c/list">新着</a></li>
+<li><a href="/c/list?mode=hot">HOT診断</a></li>
+<li><a href="/c/list?mode=pickup">PICKUP診断</a></li>
+<li><a href="/c/list?mode=daily">日別ランキング</a></li>
+<li><a href="/c/list?mode=monthly">月別ランキング</a></li>
+<li><a href="/c/list?mode=favhot">お気に入りHOT</a></li>
+<li><a href="/c/list?mode=fav">お気に入り</a></li>
+<li><a href="/c/list?mode=chart">チャート系診断</a></li>
+<li><a href="/c/list?mode=pic">画像系診断</a></li>
+<li><a href="/c/list?mode=mov">動画系診断</a></li>
+<li><a href="/c/list?mode=1">総合ランキング</a></li>
+<li><a href="/c/theme">人気のテーマ</a></li>
+</ul>
+
+<div class="clearfix"></div>
+
+
+</div></div>
+
+<div class="col-sm-4"><div class="footmenu_col">
+<h4>診断検索</h4>
+<form action="/c/list" method="GET">
+<table>
+<tr>
+<td>
+<input type="hidden" name="mode" value="search">
+<input class="form-control" type="text" maxlength="60" id="q" name="q" placeholder="キーワード">
+</td>
+<td>
+<input type="submit" class="btn btn-default btn-sm" value="検索">
+</td>
+</tr>
+</table>
+</form>
+</div></div>
+
+<div class="col-sm-4">
+<div class="footmenu_col">
+<h4>作者</h4>
+<ul>
+<li><a href="/c/authorslist?mode=hot">HOT</a></li>
+<li><a href="/c/authorslist?mode=daily">日別</a></li>
+<li><a href="/c/authorslist">総合ランキング</a></li>
+</ul>
+</div>
+<div class="clearfix"></div>
+<div style="margin-bottom: 10px;"></div>
+<div class="footmenu_col"><h4>SNSアカウント</h4>
+<ul>
+    <li><a href="https://twitter.com/shindanmaker" target="_blank">Twitter</a></li>
+    <li><a href="https://www.facebook.com/shindanmaker" target="_blank">Facebook</a></li>
+    <li><a href="http://page.mixi.jp/view_page.pl?page_id=199693" target="_blank">mixi</a></li>
+</ul>
+</div>
+<div class="clearfix"></div>
+<div style="margin-bottom: 10px;"></div>
+
+
+
+</div>
+</div>
+</div>
+
+
+
+  
+
+
+
+
+	<div style="text-align: center; margin: 10px 0;">
+	
+	<a class="btn btn-sm btn-info" href="https://twitter.com/intent/follow?screen_name=shindanmaker"><i class="fab fa-twitter"></i> @shindanmakerをフォロー</a>
+	<a href="https://line.me/R/ti/p/%40jrl1503r"><img height="30" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a>	
+			</div>
+
+
+<script src="https://d1br91wyosz8a9.cloudfront.net/t/jquery-1.11.3.min.js?v=7849ccf0"></script>
+<script src="https://d1br91wyosz8a9.cloudfront.net/t/bootstrap/js/bootstrap.min.js?v=7849ccf0"></script>
+<script type="text/javascript" src="https://d1br91wyosz8a9.cloudfront.net/t/slick/slick.min.js"></script>
+<script src="https://d1br91wyosz8a9.cloudfront.net/t/twitter-text/js/pkg/twitter-text-2.0.0.min.js" charset="utf-8"></script><script>
+$(function() {
+  $('#btn-gototop').click(function() {
+    // スクロール
+    $('html,body').animate({scrollTop: 0}, 500, 'swing');
+  });
+});
+
+$(document).ready(function(){
+  $('.infomation').slick({
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 5000,
+    arrows: false,
+    mobileFirst: true,
+  });
+});
+</script>
+
+
+<div class="container">
+<div style="text-align: right; padding: 5px 10px 10px 0; font-weight: bold;">
+<button id="btn-gototop" class="btn btn-default btn-xs">
+<i class="fa fa-arrow-circle-up" aria-hidden="true"></i> 上へ戻る</button>
+<span style="cursor: pointer; color: #666;"></span>
+</div>
+</div>
+
+<div class="foot2">
+<ul style="padding:0;"><li>日本語</li><li><a href="//en.shindanmaker.com" rel="nofollow">English</a></li><li><a href="//cn.shindanmaker.com" rel="nofollow">中文</a></li><li><a href="//kr.shindanmaker.com" rel="nofollow">한국의</a></li><li><a href="//o.shindanmaker.com" rel="nofollow">Other</a></li></ul></div>
+<div class="foot3" style="padding-bottom: 65px;"><i class="far fa-copyright"></i> 2019 診断メーカー<i class="fal fa-registered"></i> All Rights Reserved.
+
+</div>
+
+
+
+
+
+<!-- google_ad_section_end --> 
+
+</div>
+
+
+
+<script>
+var FirstAsyncFlag = false;
+$(function(){
+    setTimeout(function(){
+    if (!FirstAsyncFlag) {
+  	  FirstAsyncFlag = true;
+  	  var async_target = [];
+  	  async_target.push('recommend');
+  	  async_target.push('pickup');  	  async_target.push('hot');
+  	  async_target.push('author');  	  async_target.push('theme');  	  async_target.push('new');
+  	  async_target.push('ranking');
+  	    	    	    	  async_target.push('favhot');
+  	  GetAsync(async_target);
+    }
+    },50);
+});
+
+function GetAsync(async_target){
+    //$('#async_'+m).html('<div style="text-align: center; margin-bottom: 20px; color: #CCC;"><i class="fas fa-spinner fa-spin fa-2x"></i></div>');
+	$.ajax({
+    type: 'GET',
+    url: '/c/shindan_async',
+    dataType: 'json',
+      data: {
+      shindan_id: '849023',
+      async_target: async_target,
+      author: 'black_xxxx2',
+      author_id: '374935413',
+      ac:'0',
+      ac_f:'0',
+      ac_m:'0',
+      favorite:'28',
+      theme:'%E5%8D%92%E6%A5%AD%0A%E4%BA%BA%E7%94%9F%0A%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3',
+      pickuprank:'0',
+      hotrank:'0',
+      piccheck:'0',
+      movcheck:'0',
+      chart_flag:'0',
+      },
+    success: function(data ,datatype){
+      $(".async_preblock").remove();
+      $.each( data, function( key, value ) {
+        $(value).prependTo('#async_'+key).css("display","none").fadeIn('slow');
+      });
+			UpdateOffsetTop();
+      GetUserDataActionButtons('374935413','black_xxxx2');
+
+    },
+	});
+}
+
+function PrLink(u,l,p){
+  ga('send', 'event', 'PR_CLICK', u, p, { nonInteraction: true });
+  window.open(l);
+}
+
+</script>
+<script src="/js/bootbox.min.js"></script>
+<script type="text/javascript">
+
+$('#favoriteModal').on('click', '.favaction_mytag', function(){
+    tag = $(this).text();
+    tag_id = $(this).attr('id');  
+    SetFavoriteTag(tag,tag_id);
+});
+
+$(function () {	
+	tm = [];
+  $('#favoriteModal').on('keyup keydown','#form-favorite-tag',function(){
+		tm.push(1);
+		setTimeout(function(){
+
+      tm.pop();
+      if(tm.length == 0){
+        CheckFavoriteMytags();
+      }
+
+		},1000);
+  });
+});
+
+function FavoriteDelete(shindan_id){
+  $("#alert_box").hide();
+  bootbox.confirm("お気に入りから削除してよろしいですか？", function(result) {
+    if (result) {
+      FavoriteAction(3,shindan_id);
+    }
+  });
+}
+
+function FavoriteAction(mode, shindan_id){
+
+  switch (mode){
+  case 1:
+    m = "check";
+    break;
+  case 2:
+    m = "save";
+    break;
+  case 3:
+    m = "delete";
+    break;
+  }
+  
+  
+  if(m == "check"){
+    $("#alert_box").hide();
+    $('#favorite_modal-body').empty().html('<div class="loading"><div style="text-align: center; margin-bottom: 20px; color: #CCC;"><i class="fas fa-spinner fa-spin fa-2x"></i></div></div>');
+    $('#favoriteModal').modal('show');
+  }
+  
+  
+  if(m == "save" || m == "delete"){
+    $('#favoriteModal').modal('hide');
+  }
+  
+  var tag = $("#form-favorite-tag").val();
+  var private = $("[name=form-favorite-private]").prop("checked");
+	$.ajax({
+    type: 'POST',
+    url: '/c/shindan_favorite',
+    dataType: 'json',
+       data: {
+       shindan_id: shindan_id,
+       m: m,
+       tag: tag,
+       private: private,
+    },
+    success: function(data) {
+      if(m == "check"){
+        $('#favorite_modal-title').html(data.title);
+        $('#favorite_modal-body').html(data.text);
+        $('#favorite_modal-footer').html(data.footer);
+        mytags = data.mytags;
+      }
+      if(m == "save" || m == "delete" ){
+        $('.favactionbutton').html(data.favactionbutton);
+        $('#favtest').html(data.text);
+        $('#favlabel_container_'+shindan_id).html(data.favlabel);
+        
+        var html = '<div class="alert alert-'+data.msg_alert+' alert_text">' + data.msg+ '<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>';
+
+                $("#alert_box").html(html).hide().fadeIn();
+        setTimeout(function() {
+            $('#alert_box').fadeOut(5000);
+        }, 4000);
+        
+      }
+
+    },
+	});
+}
+
+function SetFavoriteTag(tag,tag_id){
+  form_tag_val = $("#form-favorite-tag").val().replace(/　/g, " ");
+  form_tag = form_tag_val.split(" ");
+  tag_flg = jQuery.inArray(tag,form_tag);
+  
+  if(tag_flg >= 0) {
+    var form_tag = form_tag.filter(function(a) {
+      return a !== tag;
+    });
+
+  } else {
+    form_tag.push(tag);
+  }
+
+  form_tag = form_tag.join(" ");
+  $("#form-favorite-tag").val(form_tag+" ");
+  $("#" + tag_id).toggleClass("favaction_mytag_selected");
+}
+
+function CheckFavoriteMytags(){
+  form_tag_val = $("#form-favorite-tag").val().replace(/　/g, " ");
+  form_tag = form_tag_val.split(" ");
+  console.log(form_tag);
+  var mytag_node = $(".favaction_mytag_selected");
+  mytag_node.each(function(){
+      $(this).removeClass("favaction_mytag_selected");
+  });
+  $.each(form_tag, function(i, val) {
+    mytag_place = jQuery.inArray(val,mytags);
+    if( mytag_place >= 0 ){
+      $("#mytag_"+mytag_place).addClass("favaction_mytag_selected");
+    }
+
+  });
+}
+</script><script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+    });
+</script>
+
+
+
+
+<!-- Google Code for &#35386;&#26029;&#12513;&#12540;&#12459;&#12540; &#12471;&#12455;&#12450;&#12508;&#12479;&#12531; Conversion Page
+In your html page, add the snippet and call
+goog_report_conversion when someone clicks on the
+chosen link or button. -->
+<script type="text/javascript">
+  /* <![CDATA[ */
+  goog_snippet_vars = function() {
+    var w = window;
+    w.google_conversion_id = 1040948785;
+    w.google_conversion_label = "5uuRCPGu0XAQsbyu8AM";
+    w.google_remarketing_only = false;
+  }
+  // DO NOT CHANGE THE CODE BELOW.
+  goog_report_conversion = function(url) {
+    goog_snippet_vars();
+    window.google_conversion_format = "3";
+    var opt = new Object();
+    opt.onload_callback = function() {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  }
+  var conv_handler = window['google_trackConversion'];
+  if (typeof(conv_handler) == 'function') {
+    conv_handler(opt);
+  }
+}
+/* ]]> */
+</script>
+<script type="text/javascript"
+  src="//www.googleadservices.com/pagead/conversion_async.js">
+</script>
+
+
+<script type="text/javascript">
+$(window).bind("unload",function(){});
+function toggle(id){
+  $("#"+id).toggle("fast");
+}
+function toggle2(id){
+  $("#"+id).toggle();
+}
+function toggle3(target){
+  $(target).toggle("fast");
+}
+
+
+window.twtter = (function (d,s,id) {
+  var t, js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+  js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+  return window.twtter || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+}(document, "script", "twitter-wjs"));
+
+twtter.ready(function (twtter) {
+  twtter.events.bind('tweet',function(){
+    ga('send', 'event', 'View', 'Share', '');
+    ga('send', 'event', 'Share', 'Twitter','');
+  });
+});
+
+$("[data-toggle=popover]").popover();
+$("[data-toggle=tooltip]").tooltip();
+
+function UpdateOffsetTop(){ 
+        Slot_sm_pc_foot_728x90_topOffset =  $("#div-gpt-ad-1352514192773-0_box").offset().top;
+        Slot_sm_pc_foot_728x90_adAlmostVisibleScrollValue = Slot_sm_pc_foot_728x90_topOffset - $(window).height();
+        
+        Slot_sm_pc_foot_left_336x280_topOffset =  $("#div-gpt-ad-1352514192773-2_box").offset().top;
+        Slot_sm_pc_foot_left_336x280_adAlmostVisibleScrollValue = Slot_sm_pc_foot_left_336x280_topOffset - $(window).height();
+        
+        Slot_sm_pc_foot_right_336x280_topOffset =  $("#div-gpt-ad-1352514192773-4_box").offset().top;
+        Slot_sm_pc_foot_right_336x280_adAlmostVisibleScrollValue = Slot_sm_pc_foot_right_336x280_topOffset - $(window).height();
+        
+}
+
+      
+          Slot_sm_pc_foot_728x90_refreshed = false;
+          Slot_sm_pc_foot_728x90_topOffset =  $("#div-gpt-ad-1352514192773-0_box").offset().top;
+          Slot_sm_pc_foot_728x90_listener = function() {
+            if (window.scrollY >= (Slot_sm_pc_foot_728x90_topOffset - $(window).height() - 10) && !Slot_sm_pc_foot_728x90_refreshed) {
+              googletag.cmd.push(function() {
+              googletag.pubads().refresh([Slot_sm_pc_foot_728x90]);
+              });
+              Slot_sm_pc_foot_728x90_refreshed = true;window.removeEventListener('scroll', Slot_sm_pc_foot_728x90_listener);
+  						UpdateOffsetTop();
+            }
+
+          }
+          window.addEventListener('scroll', Slot_sm_pc_foot_728x90_listener);
+
+          Slot_sm_pc_foot_left_336x280_refreshed = false;
+          Slot_sm_pc_foot_left_336x280_topOffset =  $("#div-gpt-ad-1352514192773-2_box").offset().top;
+          Slot_sm_pc_foot_left_336x280_listener = function() {
+            if (window.scrollY >= (Slot_sm_pc_foot_left_336x280_topOffset - $(window).height() - 10) && !Slot_sm_pc_foot_left_336x280_refreshed) {
+              googletag.cmd.push(function() {
+              googletag.pubads().refresh([Slot_sm_pc_foot_left_336x280]);
+              });
+              Slot_sm_pc_foot_left_336x280_refreshed = true;window.removeEventListener('scroll', Slot_sm_pc_foot_left_336x280_listener);
+  						UpdateOffsetTop();
+            }
+
+          }
+          window.addEventListener('scroll', Slot_sm_pc_foot_left_336x280_listener);
+
+          Slot_sm_pc_foot_right_336x280_refreshed = false;
+          Slot_sm_pc_foot_right_336x280_topOffset =  $("#div-gpt-ad-1352514192773-4_box").offset().top;
+          Slot_sm_pc_foot_right_336x280_listener = function() {
+            if (window.scrollY >= (Slot_sm_pc_foot_right_336x280_topOffset - $(window).height() - 10) && !Slot_sm_pc_foot_right_336x280_refreshed) {
+              googletag.cmd.push(function() {
+              googletag.pubads().refresh([Slot_sm_pc_foot_right_336x280]);
+              });
+              Slot_sm_pc_foot_right_336x280_refreshed = true;window.removeEventListener('scroll', Slot_sm_pc_foot_right_336x280_listener);
+  						UpdateOffsetTop();
+            }
+
+          }
+          window.addEventListener('scroll', Slot_sm_pc_foot_right_336x280_listener);
+
+window.onload = function() {
+  UpdateOffsetTop();
+}
+
+$(document).ready(function(){
+
+
+});
+
+
+
+
+
+function SendEventGa(eventCategory,eventAction,eventLabel){
+  
+  if(eventAction === undefined){
+    eventAction = "";
+  }
+
+  if(eventLabel === undefined){
+    eventLabel = "";
+  }
+
+  if(eventCategory !== undefined) {
+    ga('send', 'event', eventCategory, eventAction, eventLabel);
+  }
+}
+
+
+</script>
+
+
+
+
+<script>
+function ShowUserActionModal(user_id,user_screen_name){
+  $('#Modal-Useraction').modal('show');
+  GetUserDataForModal(user_id,user_screen_name);
+}
+function UserAction(action,del,user_id,user_screen_name){
+  $(".UserActionStatus_"+user_id).html('<span style="margin-left: 3px;"><i class="fas fa-spinner fa-spin"></i></span>');
+  $(".userdata-"+user_id+"-useraction").html('<div class="useractionbuttons_block" style="padding-left: 30px;"><i class="fas fa-spinner fa-spin"></i></div>');
+  $('#Modal-Useraction').modal('hide');
+  var date_obj = new Date();
+  var milliseconds = date_obj.getTime();
+  var alert_box_id = 'alert_box_'+milliseconds;
+  $("#alert_box").empty();
+  
+  setTimeout(function(){
+    $.ajax({
+      type: 'POST',
+      url: '/c/useraction_update',
+      dataType: 'json',
+        data: {
+        action: action,
+        del: del,
+        user_id: user_id,
+        user_screen_name: user_screen_name,
+        },
+      success: function(data) {
+        $(".UserActionStatus_"+user_id).empty();
+        $(".userdata-"+user_id+"-useraction").empty();
+        $(".UserActionStatus_"+user_id).html(data.UserActionStatus).hide().fadeIn();
+        $(".userdata-"+user_id+"-useraction").html(data.UserActionButtons).hide().fadeIn();
+        
+
+        var alert_msg = '<div id="'+alert_box_id+'" class="alert alert-'+data.msg_alert+' alert_text">' + data.msg+ '<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>';
+        $("#alert_box").html(alert_msg).hide().fadeIn();
+          setTimeout(function() {
+              $('#'+alert_box_id).fadeOut(5000);
+        }, 4000);
+    
+      },
+    });
+  },1000);
+}
+function GetUserDataForModal(user_id,user_screen_name){
+    $("#Modal-Useraction-header").html('<div style="padding: 30px; text-align: center;"><i class="fas fa-spinner fa-spin fa-2x"></i></div>');
+    $.ajax({
+      type: 'POST',
+      url: '/c/useraction_getuserdata',
+      dataType: 'json',
+        data: {
+        user_id: user_id,
+        user_screen_name: user_screen_name,
+        dataflag: 1,
+        buttonsflag: 1,
+        },
+      success: function(data) {
+        $("#Modal-Useraction-header").html(data.userdata);
+        $(".userdata-"+user_id+"-useraction").html(data.UserActionButtons);
+      },
+    });
+}
+function GetUserDataActionButtons(user_id,user_screen_name){
+    $(".userdata-"+user_id+"-useraction").html('<div class="useractionbuttons_block" style="padding-left: 30px;"><i class="fas fa-spinner fa-spin"></i></div>');
+    $.ajax({
+      type: 'POST',
+      url: '/c/useraction_getuserdata',
+      dataType: 'json',
+        data: {
+        user_id: user_id,
+        user_screen_name: user_screen_name,
+        buttonsflag: 1,
+        },
+      success: function(data) {
+        $(".userdata-"+user_id+"-useraction").html(data.UserActionButtons);
+      },
+    });
+}
+</script>
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+</body>
+</html>

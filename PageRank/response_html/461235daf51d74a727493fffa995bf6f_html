@@ -1,0 +1,2116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="alternate" href="/android-app://com.rappler.RapplerMobile/http/www.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<base href="https://www.rappler.com/" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQYOVl5ACwUGVlRXBAE="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="keywords" content="Georgia Peregrina, Akiko Thompson, Filipino swimmers" />
+<meta name="rights" content="All rights reserved by Rappler, Inc.   " />
+<meta name="news_keywords" content="Georgia Peregrina, Akiko Thompson, Filipino swimmers" />
+<meta name="description" content="Georgia Peregrina smashes the national women's senior 200m backstroke record Olympian Akiko Thomson held for 26 years" />
+<title>Fil-Australian teen swimmer breaks Akiko Thomson's record</title>
+<link rel="stylesheet" href="https://static.rappler.com/cache/assets/1541506733-b362bbd95c0fa31420ff40c9035cb62a.css" type="text/css" />
+<script src="https://www.googletagservices.com/tag/js/gpt.js" type="text/javascript">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+<script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js" type="text/javascript"></script>
+<script src="https://static.rappler.com/cache/assets/1531905295-d42e171172ff949812e4bfb6f8ab1e9c.js" type="text/javascript"></script>
+<link href="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F92100519DA2409397C5E72EED4DFC8C/georgia-peregrina-copy.jpg" rel="image_src" />
+<link href="https://static.rappler.com/templates/rappler3_default/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="http://feeds.feedburner.com/rappler/" rel="alternate" type="application/rss+xml" title="RAPPLER" />
+<meta property="fb:admins" content="659407145" />
+<meta property="fb:app_id" content="129650183806730" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.rappler.com//sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record" />
+<meta property="article:publisher" content="https://www.facebook.com/rapplerdotcom"/>
+<meta property="og:title" content="Fil-Australian teen swimmer breaks Akiko Thomson&#039;s record" />
+<meta name="cXenseParse:recs:articleid" content="223373"/>
+<meta name="cXenseParse:pageclass" content="article" />
+<meta name="cXenseParse:recs:publishtime" content="2019-02-13T04:43:55+0000"/>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:app:country" content="PH">
+<meta name="twitter:site" content="@rapplerdotcom">
+<meta name="twitter:app:id:iphone" content="600797927" />
+<meta name="twitter:app:id:ipad" content="600797927" />
+<meta name="twitter:app:id:googleplay" content="com.rappler.RapplerMobile" />
+<meta name="twitter:app:url:googleplay" content="rappler://sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record" />
+<meta property="al:android:url" content="fb129650183806730://sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record">
+<link rel="canonical" href="https://www.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record" />
+<meta property="og:image" content="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F92100519DA2409397C5E72EED4DFC8C/georgia-peregrina-copy.jpg" />
+<meta name="twitter:image" content="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F92100519DA2409397C5E72EED4DFC8C/georgia-peregrina-copy.jpg" />
+<meta property="og:description" content="Georgia Peregrina smashes the national women's senior 200m backstroke record Olympian Akiko Thomson held for 26 years" />
+<meta name="twitter:description" content="Georgia Peregrina smashes the national women's senior 200m backstroke record Olympian Akiko Thomson held for 26 years" />
+<meta property="og:site_name" content="Rappler" />
+<meta name="cXenseParse:recs:image" content="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/35776997FB4D40EAB7CA56E31C64BAE2/georgia-peregrina-copy_35776997FB4D40EAB7CA56E31C64BAE2.jpg"/>
+<meta property="Content-Security-Policy" content="upgrade-insecure-requests" />
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+<link rel="amphtml" href="https://amp.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record">
+<script>
+var articleMeta = {
+categories:  "sports",
+articleId: "223373",
+keywords: ['Georgia Peregrina','Akiko Thompson','Filipino swimmers']
+};
+var cp = Cookies.get('cookiePolicy');
+// console.log('test cookie 1: ' + cp);
+if(cp !== "true"){
+// console.log('type of cookie');
+// console.log(typeof(cp));
+cp = "false";
+}
+// console.log('test cookie 2: ' + cp);
+function wrapDFPWithCxsense(adSlot, adUnitName) {
+var adUnit = adSlot;
+if (adUnitName) {
+adUnit = adUnitName;
+}
+cX.callQueue.push(["invoke", function() {
+googletag.cmd.push(function() {
+googletag.display(adSlot);
+googletag.pubads().refresh([adUnitSlot[adUnit]]);
+});
+}]);
+}
+var articleMeta = {
+categories: "sports",
+articleId: "223373",
+keywords: ['Georgia Peregrina','Akiko Thompson','Filipino swimmers']
+};
+var googleNotYeDisplayedSlots = [];
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+var TopMrecMap = googletag.sizeMapping().addSize([1024, 300], [
+[320, 50],
+[300, 250],
+[336, 280]
+]).addSize([900, 300], [
+[300, 250],
+[336, 280]
+]).addSize([768, 300], [728, 90]).addSize([0, 0], [
+[300, 250],
+[336, 280]
+]).build();
+var MidMrecMap = googletag.sizeMapping().addSize([1024, 300], [
+[300, 250],
+[336, 280]
+]).addSize([900, 300], [
+[300, 250],
+[336, 280]
+]).addSize([768, 300], [728, 90]).addSize([0, 0], [
+[300, 250],
+[336, 280]
+]).build();
+var crowdfundingInline = googletag.sizeMapping()
+.addSize([0, 0], "fluid")
+.build();
+var crowdfundingFluid = googletag.sizeMapping()
+.addSize([0, 0], "fluid")
+.build();
+var MidMrecMap = googletag.sizeMapping().addSize([1024, 300], [
+[300, 250],
+[336, 280]
+]).addSize([900, 300], [
+[300, 250],
+[336, 280]
+]).addSize([768, 300], [728, 90]).addSize([0, 0], [
+[300, 250],
+[336, 280]
+]).build();
+var leaderboardMap = googletag.sizeMapping()
+.addSize([1024, 300], [728, 90])
+.addSize([768, 300], [728, 90])
+.addSize([640, 300], [468, 60])
+.addSize([0, 0], [300, 250])
+.build();
+var cX = cX || {};
+adUnitSlot = {};
+cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(["invoke", function() {
+googletag.cmd.push(function() {
+googleSlot1 = googletag.defineSlot("/15125093/Rappler_Top", [
+[300, 250],
+[336, 280],
+[728, 90],
+[300, 100],
+[320, 50],
+[300, 600],
+], "Rappler_Top")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords)
+.defineSizeMapping(TopMrecMap);
+adUnitSlot["Rappler_Top"] = googleSlot1;
+//if (deviceType !== "desktop") {
+googleSlot2 = googletag.defineSlot("/15125093/Rappler_Mid", [
+[468, 60],
+[728, 90],
+[320, 50],
+[336, 280],
+[300, 250]
+], "Rappler_Mid")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords)
+.defineSizeMapping(MidMrecMap);
+adUnitSlot["Rappler_Mid"] = googleSlot2;
+//}
+googleSlot3 = googletag.defineSlot("/15125093/Rappler_Bottom", [
+[728, 90],
+[468, 60],
+[970, 250],
+[336, 280],
+[320, 50],
+[300, 250]
+], "Rappler_Bottom")
+.addService(googletag.pubads().disableInitialLoad())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords)
+.defineSizeMapping(leaderboardMap);
+adUnitSlot["Rappler_Bottom"] = googleSlot3;
+googleSlot4 = googletag.defineSlot("/15125093/Rappler_Scripts", [1, 1], "Rappler_Scripts")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["Rappler_Scripts"] = googleSlot4;
+googleSlot5 = googletag.defineSlot("/15125093/Rappler_Moods", [
+[300, 250],
+[336, 280]
+], "Rappler_Moods")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["Rappler_Moods"] = googleSlot5;
+googleSlot6 = googletag.defineSlot("/15125093/Rappler_FirstImpressions", [1, 1], "Rappler_FirstImpressions")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["Rappler_FirstImpressions"] = googleSlot6;
+googleSlot7 = googletag.defineSlot("/15125093/Rappler_Top_Business", [
+[800, 120],
+[728, 90],
+[300, 250]
+], "Rappler_Top_Business")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["Rappler_Top_Business"] = googleSlot7;
+// insert premium inventory
+googleSlot8 = googletag.defineSlot("/15125093/premium_billboard", [
+[970, 250],
+[970, 90]
+], "premium_billboard")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["premium_billboard"] = googleSlot8;
+googleSlot9 = googletag.defineSlot("/15125093/premium_large_rectangle", [
+[300, 600]
+], "premium_large_rectangle")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["premium_large_rectangle"] = googleSlot9;
+googleSlot10 = googletag.defineSlot("/15125093/premium_portrait", [
+[300, 1050],
+[160, 600]
+], "premium_portrait")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["premium_portrait"] = googleSlot10;
+googleSlot11 = googletag.defineSlot("/15125093/premium_skyscraper", [
+[160, 600]
+], "premium_skyscraper")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["premium_skyscraper"] = googleSlot11;
+googleSlot12 = googletag.defineSlot("/15125093/premium_leaderboard_top", [
+[728, 90],
+[970, 90]
+], "premium_leaderboard_top")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["premium_leaderboard_top"] = googleSlot12;
+googleSlot13 = googletag.defineSlot("/15125093/premium_leaderboard_bottom", [
+[728, 90],
+[970, 90]
+], "premium_leaderboard_bottom")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["premium_leaderboard_bottom"] = googleSlot13;
+googleSlot14 = googletag.defineSlot("/15125093/Rappler_Crowdfunding", [
+"fluid"
+], "Rappler_Crowdfunding")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords)
+.defineSizeMapping(crowdfundingInline);
+adUnitSlot["Rappler_Crowdfunding"] = googleSlot14;
+googleSlot15 = googletag.defineSlot("/15125093/Rappler_Crowdfunding/Rappler_Crowdfunding_Mood", [
+"fluid"
+], "Rappler_Crowdfunding_Mood")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords)
+.defineSizeMapping(crowdfundingFluid);
+adUnitSlot["Rappler_Crowdfunding_Mood"] = googleSlot15;
+googleSlot16 = googletag.defineSlot("/15125093/Rappler_Crowdfunding/Rappler_Crowdfunding_Sticky", [
+"fluid",[1,1]
+], "Rappler_Crowdfunding_Sticky")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords)
+.setTargeting("cookiePolicy", cp);
+adUnitSlot["Rappler_Crowdfunding_Sticky"] = googleSlot16;
+googleSlot17 = googletag.defineSlot("/15125093/Rappler_Breaker1", [
+[320, 100], 
+[300, 250], 
+[336, 280]
+], "Rappler_Breaker1")
+.addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["Rappler_Breaker1"] = googleSlot17;
+googleSlot18 = googletag.defineSlot("/15125093/Rappler_Breaker2", [
+[320, 100], 
+[300, 250], 
+[336, 280]
+], "Rappler_Breaker2").addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["Rappler_Breaker2"] = googleSlot18;
+googleSlot19 = googletag.defineSlot("/15125093/Rappler_Footer", [
+[320, 100], 
+[300, 250], 
+[336, 280]
+], "Rappler_Footer").addService(googletag.pubads())
+.setTargeting("category", articleMeta.categories)
+.setTargeting("articleId", articleMeta.articleId)
+.setTargeting("keywords", articleMeta.keywords);
+adUnitSlot["Rappler_Footer"] = googleSlot19;
+googletag.pubads().setCentering(true);
+googletag.pubads().enableAsyncRendering();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().setTargeting("CxSegments", cX.getUserSegmentIds({
+persistedQueryId: "82ef547962d8ecd598da83a1543cb91a6670175e"
+}));
+googletag.enableServices();
+});
+}]);
+</script>
+<script type="text/javascript" src="https://static.rappler.com/components/com_rappler/js/oc-react.js"></script>
+<meta name="alexaVerifyID" content="boi3S3jgq4MUulG4x97ZaZ1dpDQ" />  <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-26553497-1', 'auto'); </script>  
+</head>
+<body>
+<script> window.dataLayer = window.dataLayer || []; var pubDate = new Date('2019-02-13 04:43:55'); pubDate = new Date(Date.UTC(pubDate.getFullYear(), pubDate.getMonth(), pubDate.getDate(), pubDate.getHours(), pubDate.getMinutes(), pubDate.getSeconds())); var timeDiff = Math.abs(new Date().getTime() - pubDate); var diffDays = Math.ceil(timeDiff / (1000 * 3600 * 24)) - 1; dataLayer.push({ AuthorName: "Beatrice Go", PublishedDt: '2019-02-13 04:43:55', RevisedDt: '2019-02-13 04:51:32', AuthorTags: "Georgia Peregrina, Akiko Thompson, Filipino swimmers", ArticleId: '223373', ArticleTitle: "Fil-Australian teen swimmer breaks Akiko Thomson's record", ArticleAge: diffDays });</script> <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-LCSN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-LCSN');</script>  <noscript><img src="https://static.rappler.com/plugins/system/lazyload/blank.png" data-original="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Jv+uf1agkf00Of" style="display:none" height="1" width="1" alt="" /></noscript><div id='Rappler_Scripts' style='height:1px; width:1px;'>
+</div>
+<div id='Rappler_FirstImpressions' style='height:1px; width:1px;'>
+</div>
+<div id="page" style="overflow: hidden;">
+<div style="display: none;"> HELLO FEATURE MARKUP VAL: </div>
+<div id="askedition" style="background-color:#000;color:#fff;font-size:14px;padding:10px 10px 10px 10px;display:none">
+Welcome to Rappler, please select your default country:&nbsp;&nbsp;
+<a id="editionPhilippines" href="javascript:void(0)" style="font-weight:normal;padding:10px">Philippines</a>&nbsp;&nbsp;
+<a id="editionIndonesia" href="javascript:void(0)" style="font-weight:normal;padding:10px">Indonesia</a>
+</div>
+<div id="masthead" class="navbar hidden-lg box-shadow-2" style="padding:0px;">
+<div class="form-inline" style="margin-bottom:0px; padding:8px 10px;">
+<div class="form-addon padding right text-left">
+<div class="form-inline" style="margin: 0;">
+<div class="form-addon padding right">
+<a href="#menu" id="mobile-menu-trigger"><i class="fa fa-bars fa-fw light"></i></a>
+</div>
+<div class="form-input">
+<a href="/"><img src="https://static.rappler.com/templates/rappler3_default/img/rapplerlogosvg.svg" style="width:100px!important; max-width:none!important;"></a>
+</div>
+</div>
+</div>
+<div class="dropdown mobile-search-dropdown form-input text-right">
+<a href="/plus" class="white link padding left" id="support-button">
+<button class="support-button">
+Be a Rappler PLUS Member
+</button>
+</a>
+<a role="button" data-toggle="dropdown" data-target="#" href="#" class="padding left"><i class="fa fa-search fa-fw light"></i></a>
+<ul class="side-nav no-padding dropdown-menu menu-dropdown col-xs-12 rappler-light-gray">
+<li class="row">
+<div class="col-xs-12 col-sm-12 col-md-12">
+<form class="form-inline" role="search" method="GET" action="/">
+<div class="form-input padding right">
+<input type="hidden" name="option" value="com_rappler">
+<input type="hidden" name="task" value="search">
+<input type="hidden" name="language" value="english">
+<input type="text" name="q" placeholder="Search">
+</div>
+<div class="form-addon">
+<button class="rappler-orange bg" type="submit" >Go!</button>
+</div>
+</form>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div> 
+<div class="menu-trigger nav-full">
+<header class="navbar navbar-rappler-top visible-lg" role="banner">
+<a class="navbar-brand-top" href="/"><img src="https://static.rappler.com/templates/rappler3_default/img/rappler-basic-logo.svg"></a>
+<div class="mdd-wrapper">
+<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+<ul class="nav navbar-nav navbar-left">
+<li>
+<a href="/?mdd=1" id="menuPhilippines" style="display:inline-block;">Philippines</a><a id="menuIndonesia"  style="display:inline-block;" href="/indonesia/" class="padding left">Indonesia</a>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li>
+<a href="http://coupons.rappler.com" target="_blank">
+Coupons                                </a>
+</li>
+<li>
+<a href="https://www.lazada.com.ph/rapplerxchange/" target="_blank">
+<i class="fa fa-shopping-cart"></i>&nbsp;&nbsp;Rappler Shop</a>
+</li>
+<li><a href="https://www.facebook.com/rapplerdotcom" target="_blank"><i class="fa fa-facebook padding left"></i></a></li>
+<li><a href="http://twitter.com/rapplerdotcom" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a href="http://instagram.com/rappler" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<li><a href="http://feeds.feedburner.com/rappler/" target="_blank"><i class="fa fa-rss padding right"></i></a></li>
+<li>
+<a id="rpl_auth_container" href="javascript:void(0)" data-toggle="popover">
+<i id="login_user_icon" class="fa fa-user margin right"></i><span id="login_user_firstname" class="caption">Login to Rappler</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="login-content hide">
+<label class="clickover-txt caption no-margin" style="line-height: 1.25">Login to Rappler using your social account:</label>
+<div id="pop_loginui" style="width:200px;">
+<button class="facebook bg block text-left" style="margin-bottom: 8px; margin-top: 8px;" onClick="javascript:fbSignIn()">
+<i class="fa fa-facebook-square white" aria-hidden="true" style="padding-right: 4px;"></i> Login with Facebook
+</button>
+<button class="twitter bg block text-left" style="margin-bottom: 8px;" onClick="javascript:twitterSignIn()">
+<i class="fa fa-twitter white" aria-hidden="true" style="padding-right: 4px;"></i> Login with Twitter
+</button>
+<button class="bg block text-left" style="margin-bottom: 8px; border: 1px solid #eee;" style="background-color: #d34836" onClick="javascript:googleSignIn()">
+<img src="https://assets.rappler.com/44B63D44C5B9471D8162729F56BAB766/img/84C6CF9CA34C4631BD2723B89AF3E45F/google-icon.png" style="padding-right: 0px; width: 25px; margin-left: -4px;" class="nolazy"> Login with Google
+</button>
+</div>
+<label class="clickover-txt caption no-margin" style="line-height: 1.25; margin-top: 8px;">
+Already have a Rappler Account?
+<a href="javascript:emailLogIn();$('.login-content').find('.close').click();"><b>Login</b></a>
+or <a href="javascript:fnRegister(null);$('.login-content').find('.close').click();"><b>Register</b></a> to create one.
+</label>
+</div>
+</header>
+<nav id="menu" class="mm-menu">
+<ul>
+<li class="selected"><a href="/">Home</a></li>
+<li class="item-5260 parent" deeper><a href="/news"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:News"  >News</a><ul><li><li class="item-5261"><a href="/nation"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Philippines"  >Philippines</a></li><li class="item-5873"><a href="/nation/politics/elections/2019"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#PHvote 2019"  >#PHvote 2019</a></li><li class="item-5262 parent"><a href="/world"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:World"  >World</a></li><li class="item-5272"><a href="/move-ph/balikbayan"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#BalikBayan"  >#BalikBayan</a></li><li class="item-5273 parent"><a href="/science-nature"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Science &amp; Nature"  >Science &amp; Nature</a></li></ul></li><li class="item-5282 parent" deeper><a href="/video"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Video"  >Video</a><ul><li><li class="item-5283"><a href="/video/newscast"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Newscast"  >Newscast</a></li><li class="item-5285"><a href="/video/shows"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Shows"  >Shows</a></li><li class="item-5286"><a href="/video/reports"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Reports"  >Reports</a></li><li class="item-5287"><a href="/video/documentary"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Documentary"  >Documentary</a></li><li class="item-5288"><a href="/video/specials"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Specials"  >Specials</a></li></ul></li><li class="item-5289 parent" deeper><a href="/business"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Business"  >Business</a><ul><li><li class="item-5290"><a href="/business/economy-watch"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Economy"  >Economy</a></li><li class="item-5433"><a href="/brandrap/brighter-life"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Brighter Life"  >Brighter Life</a></li><li class="item-5291"><a href="/business/industries"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Industries"  >Industries</a></li><li class="item-5292"><a href="/business/personal-finance"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Money"  >Money</a></li><li class="item-5294"><a href="/business/features"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Features"  >Features</a></li><li class="item-5295"><a href="/business/infographics"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Specials"  >Specials</a></li></ul></li><li class="item-5296 parent" deeper><a href="/newsbreak"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Newsbreak"  >Newsbreak</a><ul><li><li class="item-5298"><a href="/newsbreak/investigative"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Investigative"  >Investigative</a></li><li class="item-5492"><a href="/newsbreak/in-depth"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:In-depth"  >In-depth</a></li><li class="item-5299"><a href="/newsbreak/iq"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rappler IQ"  >Rappler IQ</a></li><li class="item-5300"><a href="/newsbreak/inside-track"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Inside Track"  >Inside Track</a></li><li class="item-5301"><a href="/newsbreak/fact-check"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Fact Check"  >Fact Check</a></li><li class="item-5523"><a href="/newsbreak/rich-media"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rich Media"  >Rich Media</a></li></ul></li><li class="item-5341 parent" deeper><a href="/move-ph"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:MovePH"  >MovePH</a><ul><li><li class="item-5343"><a href="/move-ph/issues"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Issues"  >Issues</a></li><li class="item-5342"><a href="/move-ph/issues/disasters"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#Agos"  >#Agos</a></li><li class="item-5344"><a href="/move-ph/issues/budget-watch"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#BudgetWatch"  >#BudgetWatch</a></li><li class="item-5345"><a href="/move-ph/issues/hunger"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#HungerProject"  >#HungerProject</a></li><li class="item-5346"><a href="/bulletin-board"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Community"  >Community</a></li><li class="item-5520"><a href="/views/imho"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:IMHO"  >IMHO</a></li></ul></li><li class="item-5303 parent" deeper><a href="/views"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Views"  >Views</a><ul><li><li class="item-5304"><a href="/thought-leaders"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Thought Leaders"  >Thought Leaders</a></li><li class="item-5305"><a href="/move-ph/ispeak"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:iSpeak"  >iSpeak</a></li><li class="item-5434"><a href="/rappler-blogs"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rappler Blogs"  >Rappler Blogs</a></li><li class="item-5455"><a href="/views/animated"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#AnimatED"  >#AnimatED</a></li></ul></li><li class="item-5306 parent" deeper><a href="/life-and-style"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Life &amp; Style"  >Life &amp; Style</a><ul><li><li class="item-5307"><a href="/life-and-style/best-eats"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Food"  >Food</a></li><li class="item-5308"><a href="/life-and-style/career"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Career"  >Career</a></li><li class="item-5309"><a href="/life-and-style/travel"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Travel"  >Travel</a></li><li class="item-5310"><a href="/life-and-style/specials"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Specials"  >Specials</a></li><li class="item-5311"><a href="/pugad-baboy"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#PugadBaboy"  >#PugadBaboy</a></li></ul></li><li class="item-5312 parent" deeper><a href="/entertainment"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Entertainment"  >Entertainment</a><ul><li><li class="item-5314"><a href="/entertainment/news"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Entertainment News"  >Entertainment News</a></li><li class="item-5855"><a href="/entertainment/tv"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:TV"  >TV</a></li><li class="item-5315"><a href="/entertainment/movies"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Movies"  >Movies</a></li><li class="item-5316"><a href="/entertainment/music"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Music"  >Music</a></li><li class="item-5317"><a href="/entertainment/specials"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Special Coverage"  >Special Coverage</a></li></ul></li><li class="item-5318 alias-parent-active parent" deeper><a href="/sports"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Sports"  >Sports</a><ul><li><li class="item-5320"><a href="/sports/by-sport/basketball"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Basketball"  >Basketball</a></li><li class="item-5861"><a href="/sports/by-sport/volleyball"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Volleyball"  >Volleyball</a></li><li class="item-5319"><a href="/sports/by-sport/boxing-mma"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Boxing"  >Boxing</a></li><li class="item-5321"><a href="/sports/by-sport/football"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Football"  >Football</a></li><li class="item-5322 active"><a href="/sports/by-sport/other-sports"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Other Sports"  >Other Sports</a></li><li class="item-5323"><a href="/sports/university"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:University Sports"  >University Sports</a></li></ul></li><li class="item-5325 parent" deeper><a href="/technology"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Tech"  >Tech</a><ul><li><li class="item-5326"><a href="/technology/news"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:News"  >News</a></li><li class="item-5327"><a href="/technology/features"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Features"  >Features</a></li><li class="item-5328"><a href="/technology/reviews"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Reviews"  >Reviews</a></li><li class="item-5329"><a href="/technology/video/hands-on"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Hands on"  >Hands on</a></li><li class="item-5331"><a href="/technology/social-media"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Social Media"  >Social Media</a></li></ul></li><li class="item-5335 parent" deeper><a href="/brandrap"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:BrandRap"  >BrandRap</a><ul><li><li class="item-5347"><a href="/brandrap/finance-and-industries"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Finance &amp; Industries"  >Finance &amp; Industries</a></li><li class="item-5336"><a href="/brandrap/health-and-self"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Health &amp; Self"  >Health &amp; Self</a></li><li class="item-5337"><a href="/brandrap/travel-food-and-lifestyle"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Lifestyle"  >Lifestyle</a></li><li class="item-5338"><a href="/brandrap/tech-and-innovation"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Tech &amp; Innovation"  >Tech &amp; Innovation</a></li><li class="item-5741"><a href="http://www.rappler.com/advertise"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Advertise"  >Advertise</a></li></ul></li><li class="item-5652 parent" deeper><a href="/x"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:X"  >X</a><ul><li><li class="item-5833"><a href="/x/shareph"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#SharePH"  >#SharePH</a></li></ul></li>                <li class="selected"><a href="http://jobs.rappler.com">Jobs</a></li>
+<li class="selected"><a href="http://coupons.rappler.com">Coupons</a></li>
+<li class="selected"><a href="http://ho.lazada.com.ph/SHcknN?web_url=https%253A%252F%252Fwww.lazada.com.ph%252Frapplerxchange%252F&deeplink=lazada%3A%2F%2Fph%2Fpage%3Furl_key%3Drapplerxchange">Rappler Shop</a></li>
+</ul>
+</nav>
+</div>
+<div class="header-menu">
+<div class="menu-trigger Xheader nav-mini">
+<header class="navbar navbar-rappler visible-lg" role="banner">
+<div class="mdd-wrapper box-shadow-2">
+<div class="navbar-header">
+<a href="/"><img src="https://static.rappler.com/templates/rappler3_default/img/Rappler-Logo-SVG.svg" id="logo-rappler"></a>
+</div>
+<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+<ul class="menu nav navbar-nav">
+<li class="mdd-item item-5260 parent" deeper><a href="/news"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:News"  >News</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5261"><a href="/nation"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Philippines"  >Philippines</a></li><li class="mdd-item item-5873"><a href="/nation/politics/elections/2019"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#PHvote 2019"  >#PHvote 2019</a></li><li class="mdd-item item-5262 parent"><a href="/world"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:World"  >World</a></li><li class="mdd-item item-5272"><a href="/move-ph/balikbayan"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#BalikBayan"  >#BalikBayan</a></li><li class="mdd-item item-5273 parent"><a href="/science-nature"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Science &amp; Nature"  >Science &amp; Nature</a></li>
+</ul></li><li class="mdd-item item-5282 parent" deeper><a href="/video"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Video"  >Video</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5283"><a href="/video/newscast"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Newscast"  >Newscast</a></li><li class="mdd-item item-5285"><a href="/video/shows"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Shows"  >Shows</a></li><li class="mdd-item item-5286"><a href="/video/reports"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Reports"  >Reports</a></li><li class="mdd-item item-5287"><a href="/video/documentary"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Documentary"  >Documentary</a></li><li class="mdd-item item-5288"><a href="/video/specials"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Specials"  >Specials</a></li>
+</ul></li><li class="mdd-item item-5289 parent" deeper><a href="/business"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Business"  >Business</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5290"><a href="/business/economy-watch"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Economy"  >Economy</a></li><li class="mdd-item item-5433"><a href="/brandrap/brighter-life"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Brighter Life"  >Brighter Life</a></li><li class="mdd-item item-5291"><a href="/business/industries"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Industries"  >Industries</a></li><li class="mdd-item item-5292"><a href="/business/personal-finance"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Money"  >Money</a></li><li class="mdd-item item-5294"><a href="/business/features"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Features"  >Features</a></li><li class="mdd-item item-5295"><a href="/business/infographics"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Specials"  >Specials</a></li>
+</ul></li><li class="mdd-item item-5296 parent" deeper><a href="/newsbreak"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Newsbreak"  >Newsbreak</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5298"><a href="/newsbreak/investigative"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Investigative"  >Investigative</a></li><li class="mdd-item item-5492"><a href="/newsbreak/in-depth"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:In-depth"  >In-depth</a></li><li class="mdd-item item-5299"><a href="/newsbreak/iq"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rappler IQ"  >Rappler IQ</a></li><li class="mdd-item item-5300"><a href="/newsbreak/inside-track"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Inside Track"  >Inside Track</a></li><li class="mdd-item item-5301"><a href="/newsbreak/fact-check"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Fact Check"  >Fact Check</a></li><li class="mdd-item item-5523"><a href="/newsbreak/rich-media"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rich Media"  >Rich Media</a></li>
+</ul></li><li class="mdd-item item-5341 parent" deeper><a href="/move-ph"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:MovePH"  >MovePH</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5343"><a href="/move-ph/issues"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Issues"  >Issues</a></li><li class="mdd-item item-5342"><a href="/move-ph/issues/disasters"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#Agos"  >#Agos</a></li><li class="mdd-item item-5344"><a href="/move-ph/issues/budget-watch"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#BudgetWatch"  >#BudgetWatch</a></li><li class="mdd-item item-5345"><a href="/move-ph/issues/hunger"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#HungerProject"  >#HungerProject</a></li><li class="mdd-item item-5346"><a href="/bulletin-board"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Community"  >Community</a></li><li class="mdd-item item-5520"><a href="/views/imho"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:IMHO"  >IMHO</a></li>
+</ul></li><li class="mdd-item item-5303 parent" deeper><a href="/views"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Views"  >Views</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5304"><a href="/thought-leaders"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Thought Leaders"  >Thought Leaders</a></li><li class="mdd-item item-5305"><a href="/move-ph/ispeak"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:iSpeak"  >iSpeak</a></li><li class="mdd-item item-5434"><a href="/rappler-blogs"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Rappler Blogs"  >Rappler Blogs</a></li><li class="mdd-item item-5455"><a href="/views/animated"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#AnimatED"  >#AnimatED</a></li>
+</ul></li><li class="mdd-item item-5306 parent" deeper><a href="/life-and-style"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Life &amp; Style"  >Life &amp; Style</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5307"><a href="/life-and-style/best-eats"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Food"  >Food</a></li><li class="mdd-item item-5308"><a href="/life-and-style/career"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Career"  >Career</a></li><li class="mdd-item item-5309"><a href="/life-and-style/travel"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Travel"  >Travel</a></li><li class="mdd-item item-5310"><a href="/life-and-style/specials"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Specials"  >Specials</a></li><li class="mdd-item item-5311"><a href="/pugad-baboy"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#PugadBaboy"  >#PugadBaboy</a></li>
+</ul></li><li class="mdd-item item-5312 parent" deeper><a href="/entertainment"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Entertainment"  >Entertainment</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5314"><a href="/entertainment/news"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Entertainment News"  >Entertainment News</a></li><li class="mdd-item item-5855"><a href="/entertainment/tv"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:TV"  >TV</a></li><li class="mdd-item item-5315"><a href="/entertainment/movies"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Movies"  >Movies</a></li><li class="mdd-item item-5316"><a href="/entertainment/music"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Music"  >Music</a></li><li class="mdd-item item-5317"><a href="/entertainment/specials"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Special Coverage"  >Special Coverage</a></li>
+</ul></li><li class="mdd-item item-5318 alias-parent-active parent" deeper><a href="/sports"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Sports"  >Sports</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5320"><a href="/sports/by-sport/basketball"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Basketball"  >Basketball</a></li><li class="mdd-item item-5861"><a href="/sports/by-sport/volleyball"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Volleyball"  >Volleyball</a></li><li class="mdd-item item-5319"><a href="/sports/by-sport/boxing-mma"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Boxing"  >Boxing</a></li><li class="mdd-item item-5321"><a href="/sports/by-sport/football"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Football"  >Football</a></li><li class="mdd-item item-5322 active"><a href="/sports/by-sport/other-sports"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Other Sports"  >Other Sports</a></li><li class="mdd-item item-5323"><a href="/sports/university"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:University Sports"  >University Sports</a></li>
+</ul></li><li class="mdd-item item-5325 parent" deeper><a href="/technology"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Tech"  >Tech</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5326"><a href="/technology/news"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:News"  >News</a></li><li class="mdd-item item-5327"><a href="/technology/features"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Features"  >Features</a></li><li class="mdd-item item-5328"><a href="/technology/reviews"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Reviews"  >Reviews</a></li><li class="mdd-item item-5329"><a href="/technology/video/hands-on"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Hands on"  >Hands on</a></li><li class="mdd-item item-5331"><a href="/technology/social-media"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Social Media"  >Social Media</a></li>
+</ul></li><li class="mdd-item item-5335 parent" deeper><a href="/brandrap"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:BrandRap"  >BrandRap</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5347"><a href="/brandrap/finance-and-industries"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Finance &amp; Industries"  >Finance &amp; Industries</a></li><li class="mdd-item item-5336"><a href="/brandrap/health-and-self"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Health &amp; Self"  >Health &amp; Self</a></li><li class="mdd-item item-5337"><a href="/brandrap/travel-food-and-lifestyle"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Lifestyle"  >Lifestyle</a></li><li class="mdd-item item-5338"><a href="/brandrap/tech-and-innovation"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Tech &amp; Innovation"  >Tech &amp; Innovation</a></li><li class="mdd-item item-5741"><a href="http://www.rappler.com/advertise"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:Advertise"  >Advertise</a></li>
+</ul></li><li class="mdd-item item-5652 parent" deeper><a href="/x"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:X"  >X</a>
+<ul class="side-nav min-height menu-dropdown box-shadow-2">
+<li class="thumb-story row">
+<li class="mdd-item item-5833"><a href="/x/shareph"  data-event-category="UX" data-event-action="Navigational Feature Click" data-event-label="Main Menu:#SharePH"  >#SharePH</a></li>
+</ul></li>                        </ul>
+<ul class="menu nav navbar-nav navbar-right">
+<style>
+.support-button {
+padding: 2px 8px !important;
+height: auto !important;
+background-color: #ff9900 !important;
+color: #FFF;
+font-weight: 700;
+display: none;
+}
+.support-link {
+padding: 6px 10px !important;
+}
+</style>
+<li class="visible-lg">
+<a href="/plus" class="support-link">
+<button class="support-button box-shadow-1">
+Be a Rappler PLUS Member
+</button>
+</a>
+</li>                            
+<li class="mdd-info"><a href="#"><i class="fa fa-info-circle"></i></a>
+<ul class="side-nav no-padding menu-dropdown">
+<li>
+<div class="main-wrapper">
+<div class="custom"  >
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="label-wrapper">
+<div class="float-rappler-label rappler-dark-gray bg">ABOUT RAPPLER</div>
+</div>
+<p class="caption">Welcome to Rappler, a social news network where stories inspire community engagement and digitally fuelled actions for social change. Rappler comes from the root words "rap" (to discuss) + "ripple" (to make waves).</p>
+<p class="caption"><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/385-about-rappler">Read more</a></p>
+<div class="row">
+<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+<div class="caption">
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/197192-rappler-2018-board-directors">Rappler's 2018 Board</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/10941-rappler-privacy-statement">Privacy Statement</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-us/1557-contact-us">Contact Us</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/6677-the-people-behind-rappler">Rappler's Founding Board</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/19840-rappler-community-and-site-use-rules">Terms of Use</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/21739-advertise-with-us">Advertise With Us</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+<div class="caption">
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/21743-rappler-team">Rappler Team</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/indonesia/tentang-kami">Rappler Indonesia Team</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/about-rappler/about-us/27506-comment-moderation-policy">Comment Moderation Policy<br /></a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/topics">Rappler Index of Topics</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/previous-articles">Archives</a></div>
+<div><a class="rappler-paragraph link" href="https://www.rappler.com/bulletin-board/30113-job-openings-rappler">Job Openings</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+<div class="label-wrapper">
+<div class="float-rappler-label rappler-orange bg"><a class="bg-rappler-orange">OTHER CONTENT</a></div>
+</div>
+<div class="caption"> <a href="https://www.rappler.com/views/animated">Rappler editorials</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/nation/special-coverage/weather-alert">Weather Forecast Philippines</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/newsbreak/investigative">Rappler Investigative stories</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/newsbreak/investigative/beginning-war-on-drugs-philippines">War on drugs</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/move-ph/issues/disasters">Project Agos for disaster preparedness</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/entertainment/live-jam/">Rappler Live Jam</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/newsbreak/in-depth/190522-filipinos-beauty-pageants-series-part-1">Beauty pageant series</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/world/201354-press-freedom-day-2018">World Press Freedom Day 2018</a> <a class="rappler-paragraph link" href="https://www.rappler.com/move-ph/issues/disasters/response"></a><span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/move-ph/166425-virtual-visita-iglesia-360-degrees-video">Virtual Visita Iglesia</a> <span class="h-spacer" style="opacity: 0.2!important;"></span><span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/?option=com_rappler&amp;task=search&amp;language=english&amp;q=Facebook+data+scandal">Facebook data scandal</a> <span class="h-spacer" style="opacity: 0.2!important;">•</span> <a href="https://www.rappler.com/move-ph/263-rappler-internship-program-careers">Rappler Internships</a>  <span class="h-spacer" style="opacity: 0.2!important;">• </span> <a class="rappler-paragraph link" href="http://phvote.rappler.com"><br /></a></div>
+</div></div>                                        </div>
+</li>
+</ul>
+</li>
+<li class="mdd-search">
+<a href="#"><i class="fa fa-search"></i></a>
+<ul class="side-nav no-padding menu-dropdown">
+<li id="search-dropdown">
+<div class="main-wrapper">
+<div class="row">
+<div class="col-xs-12 col-sm-4 pull-right">
+<form class="form-inline" role="search" method="GET" action="/">
+<div class="form-input padding right">
+<input type="hidden" name="option" value="com_rappler">
+<input type="hidden" name="task" value="search">
+<input type="hidden" name="language" value="english">
+<input type="text" name="q" placeholder="Search">
+</div>
+<div class="form-addon">
+<button class="rappler-orange bg" type="submit" >Go!</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+</div>
+</div>
+<div class="jt-code">
+</div>
+<div class="wrapper mega-menu-offset header-news-slider">
+<div class="rappler-light-gray bg">
+<div class="main-wrapper">
+<div class="latest-header-slider">
+<div class="controls-container">
+<a class="details rappler-headline link hidden-xs track-header-slider" href="/previous-articles" class="link">LATEST NEWS</a>
+<div class="left-nav-arrow"></div>
+<div class="right-nav-arrow"></div>
+</div>
+<div class="thumbs-container">
+<div id="common-header-slider">
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/nation/224456-calida-blocks-petition-seeking-increase-nurses-salary" title="Calida blocks petition seeking to increase nurses' salary"><img class="lazyOwl" data-src="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/7A51EDE6520E47FD894B010BE7D25AA7/new-year-eve-2016_7A51EDE6520E47FD894B010BE7D25AA7.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/nation/224456-calida-blocks-petition-seeking-increase-nurses-salary" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Calida blocks petition seeking to increase nurses' salary">
+Calida blocks petition seeking to increase nurses' salary</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/nation" class="rappler-paragraph link track-header-slider">
+Philippines                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/nation/politics/elections/2019/224463-duterte-bong-go-handled-millions-money-aide" title="Duterte says Bong Go 'handled millions of money' as aide"><img class="lazyOwl" data-src="https://assets.rappler.com/517FE530D08640EABE8F61B3DCF0CD86/img/77E5201ED64A46F4A2D55F04DAA00898/duterte-mmrtf-hq-february-13-2019-002_77E5201ED64A46F4A2D55F04DAA00898.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/nation/politics/elections/2019/224463-duterte-bong-go-handled-millions-money-aide" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Duterte says Bong Go 'handled millions of money' as aide">
+Duterte says Bong Go 'handled millions of money' as aide</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/nation/politics/elections/2019" class="rappler-paragraph link track-header-slider">
+2019                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/nation/224462-duterte-last-half-term-most-dangerous-drug-suspects" title="Duterte says last half of his term 'most dangerous' for drug suspects"><img class="lazyOwl" data-src="https://assets.rappler.com/2909BB8B0EA74E7AA7E123A9097FC0E6/img/2CFC42513BB24253AFE4441872417A32/CELI2_2CFC42513BB24253AFE4441872417A32.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/nation/224462-duterte-last-half-term-most-dangerous-drug-suspects" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Duterte says last half of his term 'most dangerous' for drug suspects">
+Duterte says last half of his term 'most dangerous' for drug suspects</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/nation" class="rappler-paragraph link track-header-slider">
+Philippines                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/entertainment/news/224465-despacito-breaks-youtube-record-six-billion-views" title="Hit song 'Despacito' breaks YouTube record with 6 billion views"><img class="lazyOwl" data-src="https://assets.rappler.com/C44F724C43B24251A8D254505645120F/img/CA957736FD0D423CBF97EFEE54D63CC5/despacitonew_CA957736FD0D423CBF97EFEE54D63CC5.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/entertainment/news/224465-despacito-breaks-youtube-record-six-billion-views" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Hit song 'Despacito' breaks YouTube record with 6 billion views">
+Hit song 'Despacito' breaks YouTube record with 6 billion views</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/entertainment/news" class="rappler-paragraph link track-header-slider">
+Entertainment News                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/sports/by-sport/boxing-mma/224464-vic-saludar-keeps-wbo-world-title-masataka-taniguchi" title="Saludar keeps WBO world title over Taniguchi"><img class="lazyOwl" data-src="https://assets.rappler.com/9CDFB1FE221944A09CB57E5228E3EC92/img/3F3FEC16C5504A8EA139EDAA0AEA5362/Vic-Saludar-february-26-2019_3F3FEC16C5504A8EA139EDAA0AEA5362.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/sports/by-sport/boxing-mma/224464-vic-saludar-keeps-wbo-world-title-masataka-taniguchi" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Saludar keeps WBO world title over Taniguchi">
+Saludar keeps WBO world title over Taniguchi</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/sports/by-sport/boxing-mma" class="rappler-paragraph link track-header-slider">
+Boxing                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/nation/224458-duterte-trillanes-subpoena-mother" title="Duterte to Trillanes: I will subpoena your mother"><img class="lazyOwl" data-src="https://assets.rappler.com/9CB3CC9FB9D84F7DAFA56C3810039757/img/E4BF532E1D2C4E9D83170249F3D32A7A/Senate-hearing_3rd-Telco-Trillanes-January-24-2019-2_E4BF532E1D2C4E9D83170249F3D32A7A.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/nation/224458-duterte-trillanes-subpoena-mother" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Duterte to Trillanes: I will subpoena your mother">
+Duterte to Trillanes: I will subpoena your mother</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/nation" class="rappler-paragraph link track-header-slider">
+Philippines                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/sports/by-sport/football/224461-afc-cup-game-results-ceres-shan-united-february-26-2019" title="Ceres slips past Shan United's threat for opening game win"><img class="lazyOwl" data-src="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/300865D0A285497CAACD7BE575F6963E/photo_2019-02-26_21-23-06_300865D0A285497CAACD7BE575F6963E.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/sports/by-sport/football/224461-afc-cup-game-results-ceres-shan-united-february-26-2019" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Ceres slips past Shan United's threat for opening game win">
+Ceres slips past Shan United's threat for opening game win</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/sports/by-sport/football" class="rappler-paragraph link track-header-slider">
+Football                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/world/regions/asia-pacific/224460-trump-arrival-hanoi-north-korea-nuclear-summit-february-2019" title="Kim, Trump arrive in Hanoi ahead of nuclear summit"><img class="lazyOwl" data-src="https://assets.rappler.com/2D00ADD26EE04CA780CF43C66193E3AF/img/2C762BCB583C4FD2ADD415164D7B7A1F/afp-20190226-trump-kim-summit-vietnam_2C762BCB583C4FD2ADD415164D7B7A1F.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/world/regions/asia-pacific/224460-trump-arrival-hanoi-north-korea-nuclear-summit-february-2019" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Kim, Trump arrive in Hanoi ahead of nuclear summit">
+Kim, Trump arrive in Hanoi ahead of nuclear summit</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/world/regions/asia-pacific" class="rappler-paragraph link track-header-slider">
+Asia Pacific                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/technology/news/224459-austria-uncovers-online-trading-scam" title="Austria uncovers 100-million euro online trading scam"><img class="lazyOwl" data-src="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/B44D8145276E49B4BA7F28FEA9DAA58E/austria-online-trading-scam-february-26-2019_B44D8145276E49B4BA7F28FEA9DAA58E.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/technology/news/224459-austria-uncovers-online-trading-scam" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Austria uncovers 100-million euro online trading scam">
+Austria uncovers 100-million euro online trading scam</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/technology/news" class="rappler-paragraph link track-header-slider">
+Tech News                                        </a>
+</span>
+</div>
+</div>
+<div class="owl-parent">
+<div class="col-xs-4 img-container">
+<div class="flex-video square"><a class="track-header-slider" href="/entertainment/news/224447-meet-idol-philippines-judges" title="Meet the judges of 'Idol Philippines'"><img class="lazyOwl" data-src="https://assets.rappler.com/6046A09880E44A8AB1ECA164867E663F/img/86DFC131E6094DA79A5D6929F1DFFE0B/reid-ganda-regine-moira_86DFC131E6094DA79A5D6929F1DFFE0B.jpg"></a></div>
+</div>
+<div class="col-xs-8" style="padding-left:0px;">
+<h6 class="no-margin small">
+<a href="/entertainment/news/224447-meet-idol-philippines-judges" class="rappler-headline link ellipsis track-header-slider" style="word-wrap: break-word;" title="Meet the judges of 'Idol Philippines'">
+Meet the judges of 'Idol Philippines'</a>
+</h6>
+<span class="details" style="text-transform: uppercase;">
+<a href="/entertainment/news" class="rappler-paragraph link track-header-slider">
+Entertainment News                                        </a>
+</span>
+</div>
+</div>
+<div style="display: table;">
+<div style="display:table-cell; vertical-align:middle;">
+<h6 class="no-margin small">
+<a href="/previous-articles/" class="rappler-headline link track-header-slider">
+<i class="fa fa-fw fa-arrow-circle-right"></i>View more stories
+</a>
+</h6>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="content" class="main-wrapper">
+<div class="text-center" style="margin: 0 auto;" id="rappler3-common-desktop-premium-billboard">
+<div id='premium_billboard' class="wrapper">
+</div>
+</div>
+<div class="row">
+<div id="infinite-container" class="col-xs-12 col-sm-8 col-md-8 col-lg-8 infinite-container waypoint print-main-area">
+<div class="infinite-item" id="item-223373">
+<div class="wrapper">
+<span id="count" style="display: none;">1</span><span id="match-ogimg" style="display:none;">MATCH URL: https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F92100519DA2409397C5E72EED4DFC8C/georgia-peregrina-copy.jpg</span>
+<div id="story-area-223373" class="story-area cXenseParse"
+data-article_categories="195,26"
+data-article_url="http://www.rappler.com//sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record"
+data-article_via=""
+data-article_pubdate="2019-02-13 04:43:55"
+data-article_modifieddate="2019-02-13 04:51:32"
+data-article_authors="Beatrice Go"
+data-article_parenttitle="By Sport"
+data-article_cattitle="Other Sports"
+data-article_metakey="Georgia Peregrina, Akiko Thompson, Filipino swimmers"
+data-article_title="Fil-Australian teen swimmer breaks Akiko Thomson's record">
+<div class="form-inline select-cat-tooltip" style="width:100%;">
+<div class="form-addon text-left margin padding right">
+<div class="label-wrapper">
+<div class="float-rappler-label rappler-dark-gray bg" style="text-transform:uppercase">
+<a href="/sports/by-sport/other-sports" class="white link" style="white-space: nowrap;text-overflow: ellipsis;">
+Other Sports                    </a>
+</div>
+</div>
+</div>
+</div>
+<h1 class="select-headline">Fil-Australian teen swimmer breaks Akiko Thomson's record</h1>
+<p class="select-metadesc">
+Georgia Peregrina smashes the national women's senior 200m backstroke record Olympian Akiko Thomson held for 26 years    </p>
+<div class="storypage-divider desktop">
+<div class="author-box">
+<div class="flex-reverse wrapper">
+<div class="flex-child">
+</div>
+<div class="flex-child">
+<div class="flex-reverse byline-container">
+<div class="flex-child">
+<h6 class="byline">
+<a class="rappler-headline link">
+Beatrice Go                                    </a>
+</h6> 
+</div>
+<div class="flex-child">
+</div>
+</div>
+<div style="width:auto;">
+<div>
+<div class="published">
+Published 12:43 PM, February 13, 2019                                    </div>
+<div class="updated">
+Updated 12:51 PM, February 13, 2019                                                                             </div>
+</div>
+</div>                       
+</div>                        
+</div>
+<div class="storypage-share" id="storypageShare-223373"></div>
+<div class="text-center" style="margin: 0 auto;" id="rappler3-common-desktop-premium_skyscraper">
+<div id='premium_skyscraper' class="wrapper">
+</div>
+</div>
+</div>
+<p id="ext-gen25340"><img id="F92100519DA2409397C5E72EED4DFC8C"     src="https://static.rappler.com/plugins/system/lazyload/blank.png" data-original="https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/85CBEEC1FD3F4817AE25CAACF4DD209E/georgia-peregrina-copy_85CBEEC1FD3F4817AE25CAACF4DD209E.jpg" class="rappler_asset"   alt="NEW ERA. Georgia Peregrina breaks the last of Olympian Akiko Thomson's records. Photo from Georgia Peregrina's Facebook  " data-parentid=""   /><p class="caption">NEW ERA. Georgia Peregrina breaks the last of Olympian Akiko Thomson's records. Photo from Georgia Peregrina's Facebook  </p></p>
+<p>MANILA, Philippines – Filipino-Australian Georgia Peregrina smashed the Philippine record in the women's senior 200m backstroke record, eclipsing the feat set by Olympian Akiko Thomson in 1992. </p>
+<p>Peregrina, 17, clocked two minutes, 16 seconds and 33 miliseconds to clinch<span> the gold </span><span>at the NSW Senior State Age Championships in Sydney, Australia last December 19, 2018.</span></p>
+<p><span>The Australia-based swimmer also reset the j<span>unior national record in the 16-18 age group previously set by <span>Chloe Kennedy Anne Isleta (2:17.19) in 2015.</span></span></span></p>
+<p><span>Philippine Swimming Inc (PSI) president Lani Velasco confirmed to Rappler on Tuesday, February 12 that Peregrina has registered with the national swimming federation, which also validates her time as a Philippine record.</span></p>
+<p><span>The 26-year-old mark (2:16.44) set by Thomson in the 1992 Olympics in Barcelona, Spain was the last of her Philippine records that was broken. </span></p>
+<p><span>Peregrina's registration with PSI also recognizes her <span>2:17.09 clocking in the </span>200m butterfly event in the State Age championships as the junior national record in the 16-18 age group. </span></p>
+<p><span>She surpassed Nicole Oliva's <span>2:18.15 record that was set in July 2018. </span></span></p>
+<p><span><span>Peregrina's father is from Marikina, while her mother is Australian. </span></span></p>
+<p><span>The Filipino-Australian is qualified to vie for a slot in the <a href="https://www.rappler.com/sports/specials/sea-games/222602-2019-swimming-serve-olympic-qualifier" target="_blank">2019 Southeast Asian Games</a> to be hosted in New Clark City that will serve as a Tokyo 2020 Olympic qualifying meet as well. <strong>– Rappler.com</strong></span></p>
+<p> </p>
+<p> </p>    </div>
+<div class="wrapper" style="text-align:center">
+</div>
+<div class="custom"  >
+<div id='Rappler_Crowdfunding'> 
+</div> 
+</div>
+</div>
+<div id="taboola-below-article-thumbnails-223373"></div>
+<div id="story-ad-bottom-223373"></div>
+<div id="metakeyword_content-223373" style="display:none"><div class="rappler3-metakey"><b>Filed under:</b><a href="/previous-articles?filterMeta=Akiko%20Thompson" title="Akiko Thompson">Akiko Thompson</a><span class="bullet-list">&#8226;</span><a href="/previous-articles?filterMeta=Filipino%20swimmers" title="Filipino swimmers">Filipino swimmers</a><span class="bullet-list">&#8226;</span><a href="/previous-articles?filterMeta=Georgia%20Peregrina" title="Georgia Peregrina">Georgia Peregrina</a></div></div>
+</div>
+<div id="comments-tag-area-223373" class="wrapper">
+<div class="form-block">
+<div class="form-input">
+<div class="visible-lg">
+<div id="rappler3-metakey-wrapper-223373"></div>
+</div>
+</div>
+<div class="form-button">
+<button id="countbtn" style="min-width:180px" class="rappler-orange bg block" type="button" data-toggle="collapse" data-target="#comments-container_223373" aria-expanded="false" aria-controls="comments-container">
+Leave a comment <i class="fa-angle-down fa"></i>
+<span id="contcount_223373"></span>
+</button>
+</div>
+</div>
+<div class="collapse" id="comments-container_223373">
+<div id="article_comments_223373" class="collapse" style="margin-top:16px;"></div>
+</div>
+</div>
+<div class="wrapper">
+<div class="custom"  >
+<style>
+.slider-popup-cf {
+width: 100%;
+position: fixed;
+left: 0;
+right: 0;
+bottom: -700px;
+background-color: #475764;
+z-index: 99999;
+}
+.sticky-close-button {
+width: 30px;
+height: 30px;
+background-color: #b70002;
+border-radius: 15px;
+display: flex;
+align-items: center;
+justify-content: center;
+font-family: Roboto;
+color: #fff;
+top: 10px;
+right: 10px;
+cursor: pointer;
+position: absolute;
+z-index: 100000;
+font-size: 15px;
+font-weight: 700;
+}
+#Rappler_Crowdfunding_Sticky>iframe {
+height: 100%;
+}
+</style>
+<div class="slider-popup-cf">
+<div class="sticky-close-button">
+X
+</div>
+<div>
+<div id='Rappler_Crowdfunding_Sticky'>
+</div>
+</div>
+</div>
+<script>
+googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+// add code so if slot is rendered, show the slide up.
+if (googleSlot16 == event.slot) {
+//console.log(event)
+$('.slider-popup-cf').animate({
+bottom: '-25px',
+}, 250, function() {
+// Animation complete.
+//console.log('Animation Done');
+});
+}
+});
+$('.sticky-close-button').click(function() {
+//console.log('clicked')
+$('.slider-popup-cf').animate({
+bottom: '-800px',
+}, 250, function() {
+// Animation complete.
+//console.log('Animation Done');
+});
+});
+</script> 
+</div>
+</div>
+<div id="story-separator-ads" class="wrapper" style="text-align:center;">
+<div class="text-center wrapper" style="min-height:50px; max-height:100px; min-width:320px; width: 100%;" id="rappler3-common-desktop-tablet-bottom-ad">
+<div id='Rappler_Bottom_1'>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 print-invisible" style="position: relative;">
+<div id="sidebar-upper">
+<div class="text-center wrapper" style="min-height:200px; min-width:320px;" id="rappler3-common-desktop-top-ad">
+<div id='Rappler_Top'>
+</div>
+</div>
+<div class="wrapper text-center">
+</div>
+</div>
+<div style="position:relative; width: 100%;">
+<div id="sidebar-others" style="width:100% !important;">
+<div class="flip-container">
+<div class="flipper">
+<div class="front">
+<div class="rappler-light-gray bg box-shadow-1 wrapper">
+<div class="mm-new wrapper" data-article_id="223373">
+<div id="mood-meter-title" class="rappler-label rappler-orange bg" style="text-transform:uppercase;">
+HOW DOES THIS STORY MAKE YOU FEEL?</div>
+<div id="mood-clicked" style="display:none;"></div>
+<div class="text-center mm-circle-container padding all" style="max-width: 360px; margin: 0 auto;">
+<div style="margin: 0 auto;" id="dot-mm">
+<div class="dot_mmm_circle happy bg active" rel="1" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Happy:http://www.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record">
+<br><strong class="happy bg"></strong>
+<br>Happy</div>
+<div class="dot_mmm_circle sad bg active" rel="2" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Sad:http://www.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record">
+<br><strong class="sad bg"></strong>
+<br>Sad</div>
+<div class="dot_mmm_circle angry bg active" rel="3" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Angry:http://www.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record">
+<br><strong class="angry bg"></strong>
+<br>Angry</div>
+<div class="dot_mmm_circle dontcare bg active" rel="4" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="DontCare:http://www.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record">
+<br><strong class="dontcare bg"></strong>
+<br>Don't Care</div>
+<div class="dot_mmm_circle inspired bg active" rel="5" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Inspired:http://www.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record">
+<br><strong class="inspired bg"></strong>
+<br>Inspired</div>
+<div class="dot_mmm_circle afraid bg active" rel="6" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Afraid:http://www.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record">
+<br><strong class="afraid bg"></strong>
+<br>Afraid</div>
+<div class="dot_mmm_circle amused bg active" rel="7" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Amused:http://www.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record">
+<br><strong class="amused bg"></strong>
+<br>Amused</div>
+<div class="dot_mmm_circle annoyed bg active" rel="8" data-event-category="Reader Intel" data-event-action="Mood Meter Vote" data-event-label="Annoyed:http://www.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record">
+<br><strong class="annoyed bg"></strong>
+<br>Annoyed</div>
+</div>
+<div id='mood-all' style='width:336px; margin:16px auto 0 auto;' class="mm-preloader">
+<div id='Rappler_Moods' style='height:280px; width:336px;'>
+</div>
+</div>
+</div>
+<div id="mood-meter-dominant" class="rappler-label-top bg" style="text-transform:uppercase;display:block;">
+</div>
+</div>
+</div>
+<div class="wrapper">
+<div class="custom"  >
+<div id='Rappler_Crowdfunding_Mood'> 
+</div> 
+</div>
+</div>
+</div>
+<div class="back">
+<div class="rappler-light-gray bg box-shadow-1 padding all">
+<div class="form-inline" style="width:100%;">
+<div class="form-addon padding right">
+<button class="rappler-dark-gray bg" id="mood-back">
+<i class="fa fa-angle-left"></i> Back
+</button>
+</div>
+<div id="voteshare" class="form-addon" style="float:right;"></div>
+</div>
+<hr>
+<div>
+<p style="font-size:18px;" class="no-margin">
+These stories made other people <b id="mood-clicked-after"></b>
+</p>
+<label>Check them out!</label>
+</div>
+<div class="padding all mm-preloader" id="mood-sponsorship" style="display: none;">
+</div>
+<span id="latestmoodstories"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="mmm_popup_thanks" class="text-left modal fade" tabindex="-1" role="dialog" aria-labelledby="popupmodal" aria-hidden="true">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<br>
+<h4 id="mmm_thankyou_title" class="modal-title" style="text-align:center"></h4>
+<h6 style="text-align:center">Would you like to share your vote?</h6>
+</div>
+<div class="modal-body" style="padding-left:0; padding-right:0; padding-bottom:16px;">
+<div id="mmm_thankyou_share" style="margin:0 auto 16px auto;width:155px;"></div>
+<div id="mobile-mood-sponsorship" class="mm-preloader" style="margin: 0 auto 0 auto; display: none;"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-wrapper" class="wrapper footer padding print-invisible">
+<div class="main-wrapper">
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="custom"  >
+<div class="label-wrapper">
+<div class="float-rappler-label rappler-orange bg"><a class="white link" href="#">ABOUT RAPPLER</a></div>
+</div>
+<p class="caption light">Welcome to Rappler, a social news network where stories inspire community engagement and digitally fuelled actions for social change. Rappler comes from the root words "rap" (to discuss) + "ripple" (to make waves).</p>
+<p class="caption light"><a class="white link" href="https://www.rappler.com/about-rappler/about-us/385-about-rappler">Read more</a></p>
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<ul class="caption light side-nav2">
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/6677-the-people-behind-rappler">Rappler's Founding Board</a></li>
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/197192-rappler-2018-board-directors">Rappler's 2017-2018 Board</a></li>
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/21743-rappler-team">Rappler Team</a></li>
+<li><a class="white link" href="https://www.rappler.com/indonesia/tentang-kami">Rappler Indonesia Team</a></li>
+<li><a class="white link" href="https://www.rappler.com/topics">Rappler Index of Topics</a></li>
+<li><a class="white link" href="https://www.rappler.com/previous-articles">Archives</a></li>
+<li><a class="white link" href="https://x.rappler.com">X</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<ul class="caption light side-nav2">
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/10941-rappler-privacy-statement">Privacy statement</a></li>
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/19840-rappler-community-and-site-use-rules">Terms of Use</a></li>
+<li><a class="white link" href="https://www.rappler.com/about-rappler/about-us/27506-comment-moderation-policy">Comment moderation Policy</a></li>
+<li><a class="white link" href="https://www.rappler.com/bulletin-board/30113-job-openings-rappler">Job Openings</a></li>
+<li><a class="white link" href="https://www.rappler.com/advertise">Advertise With Us</a></li>
+<li><a class="white link" href="https://www.rappler.com/about-us/1557-contact-us">Contact Us</a></li>
+</ul>
+</div>
+</div></div>
+<div class="custom"  >
+<style type="text/css">
+.cp-slider-popup {
+position: fixed;
+width: 100%;
+left: 0;
+right: 0;
+bottom: 0;
+z-index: 99999;
+}
+.cp-wrapper {
+position: relative;
+}
+.close-button {
+color: #fff;
+cursor: pointer;
+font-size: 30px;
+width: 35px;
+height: 35px;
+position: absolute;
+top: 5px;
+right: 5px;
+z-index: 100000;
+}
+</style>
+<div class="cp-slider-popup">
+<div class="cp-wrapper">
+<div class="close-button">
+<i class="fa fa-times-circle"></i>
+</div>
+<div>
+<div id="cookie-popup-rappler"></div>
+</div>
+</div>
+</div>
+<div id="emailPopupDiv" style="position: fixed;"></div> 
+</div>
+<div class="custom"  >
+<div> 
+<IMG SRC="https://ad.doubleclick.net/ddm/trackimp/N186801.1915385RAPPLER1/B21975308.233584330;dc_trk_aid=431335536;dc_trk_cid=100061672;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?" BORDER="0" HEIGHT="1" WIDTH="1" ALT="Advertisement"> 
+<IMG SRC="https://ad.doubleclick.net/ddm/trackimp/N186801.1915385RAPPLER/B22021840.235006653;dc_trk_aid=432468630;dc_trk_cid=100061672;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?" BORDER="0" HEIGHT="1" WIDTH="1" ALT="Advertisement"> 
+<IMG SRC="https://ad.doubleclick.net/ddm/trackimp/N186801.1915385RAPPLER/B22021840.235006653;dc_trk_aid=432468630;dc_trk_cid=100061672;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?" BORDER="0" HEIGHT="1" WIDTH="1" ALT="Advertisement"> 
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="custom"  >
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 hidden-xs">
+<div class="label-wrapper">
+<div class="float-rappler-label rappler-orange bg"><a class="white link">SECTIONS</a></div>
+</div>
+<ul class="caption light side-nav2">
+<li><a class="white link" href="https://www.rappler.com/news">News</a></li>
+<li><a class="white link" href="https://www.rappler.com/video">Video</a></li>
+<li><a class="white link" href="https://www.rappler.com/business">Business</a></li>
+<li><a class="white link" href="https://www.rappler.com/newsbreak">Newsbreak</a></li>
+<li><a class="white link" href="https://www.rappler.com/move-ph">MovePH</a></li>
+<li><a class="white link" href="https://www.rappler.com/views">Views</a></li>
+<li><a class="white link" href="https://www.rappler.com/life-and-style">Life &amp; Style </a></li>
+<li><a class="white link" href="https://www.rappler.com/entertainment">Entertainment</a></li>
+<li><a class="white link" href="https://www.rappler.com/sports">Sports</a></li>
+<li><a class="white link" href="https://www.rappler.com/technology">Tech</a></li>
+<li><a class="white link" href="https://live.rappler.com">Live</a></li>
+<li><a class="white link" href="https://www.rappler.com/brandrap">BrandRap</a></li>
+<li><a class="white link" href="https://www.rappler.com/nation/special-coverage/weather-alert" target="_blank"><span>Weather in the Philippines</span></a></li>
+<li><a class="white link" href="https://www.rappler.com/move-ph/issues/disasters" target="_blank">Disasters</a></li>
+<li><a class="white link" href="https://www.rappler.com/life-and-style/travel" target="_blank">Travel destinations</a></li>
+<li><a class="white link" href="https://coupons.rappler.com" target="_blank" rel="nofollow">Coupons</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 hidden-xs">
+<div class="label-wrapper">
+<div class="float-rappler-label rappler-orange bg"><a class="white link">COMMUNITY</a></div>
+</div>
+<ul class="caption light side-nav2">
+<li><a class="white link" href="https://www.facebook.com/rapplerdotcom">Facebook</a></li>
+<li><a class="white link" href="https://twitter.com/rapplerdotcom">Twitter</a></li>
+<li><a class="white link" href="https://plus.google.com/+Rappler/posts">Google+</a></li>
+<li><a class="white link" href="https://www.youtube.com/rappler">Youtube</a></li>
+<li><a class="white link" href="https://instagram.com/rappler">Instagram</a></li>
+<li><a class="white link" href="https://play.google.com/store/apps/details?id=com.rappler.RapplerMobile">Android</a></li>
+<li><a class="white link" href="https://itunes.apple.com/ph/app/rappler/id600797927?mt=8&amp;ign-mpt=uo%3D4">iOS</a></li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div> 
+<style>
+#userlogin_modal .form-addon {
+width:15% !important;
+text-align: right;
+padding-right: 4px;
+}
+#userupd_modal .form-addon,
+#userreg_modal .form-addon {
+width:17% !important;
+text-align: right;
+padding-right: 4px;
+}
+#userreg_modal .subscription_chk .form-addon,
+#userreg_modal .terms_chk .form-addon {
+width:100px !important;
+}
+.form-inline {
+margin-bottom: 12px;
+}
+</style>
+<div id="usererror_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="login" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<h3 id="usererror_modal_header" class="thin-margin">Error</h3>
+</div>
+<div id="usererror_modal_body" class="modal-body">
+An unknonw error has occurred. Please try again later.
+</div>
+<div class="modal-footer">
+<button class="rappler-red bg" data-dismiss="modal" aria-hidden="true">Ok</button>
+</div>
+</div>
+</div>
+</div>
+<div id="userlogin_modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="login" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<h3 id="userlogin_modal_header" class="thin-margin">Login</h3>
+</div>
+<div class="modal-body">
+<div id="frm_login_error" class="alert alert-danger hide" style="text-align:center;color:red"></div>
+<form id="frm_login" role="form">
+<br/>
+<fieldset>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Email:</p>
+</div>
+<div class="form-input" style="margin-bottom: 12px;">
+<input type="text" id="login_id" class="usr_text" name="login_id" value="" placeholder="me@rappler.com" required="required" autocomplete="on">
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Password:</p>
+</div>
+<div class="form-input">
+<input type="password" id="login_password" class="usr_text" name="login_password" value="" placeholder="******" required="required" autocomplete="on" />
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+<div class="modal-footer">
+<img id="frm_login_loader" src="https://static.rappler.com/templates/rappler3_default/img/AjaxLoader.gif" class="hide nolazyload" style="margin: 0 auto; text-align: center;">
+<div style="margin: 0 15%;">
+<button id="btn_login_submit" class="rappler-orange bg" type="button" style="width: 49%;">Login</button>
+<button id="btn_login_cancel" class="rappler-neutral bg" data-dismiss="modal" style="width: 49%;">Cancel</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="userreg_modal" class="fade modal" tabindex="-1" role="dialog" aria-labelledby="registration" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<span id="userreg_modal_header_container">
+<h3 id="userreg_modal_header" class="thin-margin">Register for a RAPPLER Account</h3>
+</span>
+</div>
+<div class="modal-body" style="padding-top:10px; padding-bottom: 0px;">
+<div id="reg_thankyou" class="hero-unit hide" style="text-align:center">
+<p>Thank You.
+<span id="reg_custommsg"></span>
+<br>View your profile page
+<a href="/index.php?option=com_rappler&task=userprofile&layout=userprofile">here</a> OR
+<br>Click close to continue.
+</p>
+</div>
+<form id="frm_register" role="form">
+<fieldset>
+<p class="details">Fields with <b>*</b> are required.</p>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Email*:</p>
+</div>
+<div class="form-input">
+<input type="email" id="reg_email" class="usr_text" name="email" value="" placeholder="email@rappler.com*" required="required" autocomplete="on">
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Password*:</p>
+</div>
+<div class="form-input">
+<input type="password" id="reg_password" class="usr_text" name="password" value="" placeholder="*******" required="required" autocomplete="off" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">First Name:</p>
+</div>
+<div class="form-input">
+<input type="text" id="reg_first_name" class="usr_text" name="first_name" value="" placeholder="Juan" autocomplete="on" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Last Name:</p>
+</div>
+<div class="form-input">
+<input type="text" id="reg_last_name" class="usr_text" name="last_name" value="" placeholder="dela Cruz" autocomplete="on" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Birthday:</p>
+</div>
+<div class="form-input">
+<input type="text" id="reg_birthdate" class="usr_text" name="birthdate" value="" autocomplete="off" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+<p class="no-margin caption">Gender:</p>
+</div>
+<div class="form-input">
+<select id="reg_gender" name="gender" class="usr_select" style="width:100%;">
+<option value="select">Select gender</option>
+<option value="male">Male</option>
+<option value="female">Female</option>
+</select>
+</div>
+</div>
+<div class="terms_chk" style="border-top: 1px solid #f4f4f4; margin-top: 30px; padding-top: 30px;">
+<div class="form-inline">
+<div class="form-addon">
+<input type="checkbox" name="agree" id="agree" value="YES" />
+</div>
+<div id="reg_agree_text" class="form-input" style="padding-left: 4px;">
+<p class="no-margin caption">I've read the Rappler <a href="http://www.rappler.com/about-rappler/about-us/10941-rappler-privacy-statement">privacy statement</a>, <a href="http://www.rappler.com/about-rappler/about-us/19840-rappler-community-and-site-use-rules">site use policy</a>, <a href="http://www.rappler.com/about-rappler/about-us/27506-comment-moderation-policy">comment moderation policy</a></p>
+</div>
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+<div class="modal-footer">
+<div id="frm_register_error" class="alert alert-error hide" style="padding:10px;color:red"></div>
+<img id="frm_register_loader" src="https://static.rappler.com/templates/rappler3_default/img/AjaxLoader.gif" class="hide" class="nolazyload">
+<div style="margin: 0 17%;">
+<button id="btn_usr_submit" class="rappler-orange bg" type="button" style="width: 49%;">Submit</button>
+<button id="btn_usr_cancel" class="rappler-neutral bg" data-dismiss="modal" aria-hidden="true" style="width: 49%;">Cancel</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="userupd_modal" class="rappler_bmodal modal" tabindex="-1" role="dialog" aria-labelledby="registration" data-backdrop="static" data-keyboard="false" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span></button>
+<span id="userupd_modal_header_container">
+<h3 id="userupd_modal_header" class="thin-margin">Update your information</h3>
+<p id="userupd_modal_subheader" class="details"> Fields with <b>*</b> are required. </p>
+</span>
+</div>
+<div class="modal-body">
+<div id="upd_thankyou" class="jumbotron hide" style="text-align:center">
+<p>Thank You.<br>You have successfully updated your account.</p>
+</div>
+<form id="frm_update">
+<input type="hidden" id="upd_sendconfirm" name="sendconfirmation" value="0" />
+<div id="frm_update_error" style="color:red;margin:10px" class="alert alert-error hide"></div>
+<fieldset>
+<div class="form-inline">
+<div class="form-addon">
+First Name:
+</div>
+<div class="form-input">
+<input type="text" id="upd_first_name" class="usr_text" name="first_name" value="" placeholder="Enter First Name*" required="required" autocomplete="off" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+Last Name:
+</div>
+<div class="form-input">
+<input type="text" id="upd_last_name" class="usr_text" name="last_name" value="" placeholder="Enter Last Name" required="required" autocomplete="off" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+Email:
+</div>
+<div class="form-input">
+<input type="email" id="upd_email" class="usr_text" name="email" value="" placeholder="Enter Email*" required="required" autocomplete="off" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+Birthday: <br>(YYYY-MM-DD)
+</div>
+<div class="form-input">
+<input type="text" id="upd_birthdate" class="usr_text" name="birthdate" value="" autocomplete="off" />
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+City/Municipality:
+</div>
+<div class="form-input">
+<input type="text" id="upd_city" class="usr_text" name="city" value="" autocomplete="off">
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+Province:
+</div>
+<div class="form-input">
+<input type="text" id="upd_province" class="usr_text" name="province" value="" autocomplete="off">
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+Gender:
+</div>
+<div class="form-input">
+<select id="upd_gender" name="gender" class="usr_select" style="width:100%;">
+<option value="select">Select gender</option>
+<option value="male">Male</option>
+<option value="female">Female</option>
+</select>
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+Contact Number:
+</div>
+<div class="form-input">
+<input type="text" id="upd_contactno" class="usr_text" name="contactno" value="">
+</div>
+</div>
+<div class="form-inline">
+<div class="form-addon">
+School/Work:
+</div>
+<div class="form-input">
+<input type="text" id="upd_org" class="usr_text" name="org" value="" autocomplete="off">
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+<div class="modal-footer">
+<img id="frm_update_loader" src="https://static.rappler.com/templates/rappler3_default/img/AjaxLoader.gif" class="hide nolazyload">
+<button id="btn_usrupd_cancel" class="rappler-red bg" data-dismiss="modal" aria-hidden="true">Cancel</button>
+<button id="btn_usrupd_submit" class="rappler-orange bg" type="button">Submit</button>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+var mm_server = 'https://mm.rappler.com';
+var fbkey='129650183806730';
+var userServiceUrl = 'https://i.rappler.com/prod';
+var isSharingImageTextEnabled = false; 
+WebFont.load({
+google: {
+families: ['Roboto: 300,400,700', 'Roboto Condensed: 300,400,700']
+}
+});
+(function() {
+var css = document.createElement('link');
+css.href = 'https://assets.rappler.com/75896611AEC64769BABA100A7D0AC04C/doc/8203A77706A24CC7948038F87356B4D9/font-awesome.min.css';
+css.rel = 'stylesheet';
+css.type = 'text/css';
+document.getElementsByTagName('head')[0].appendChild(css);
+})();
+</script>
+<script> firebase.initializeApp({"apiKey":"AIzaSyD76aY5bs3I63Uu-yXfxlh_e7shH7bdePU","authDomain":"rapplerprod.firebaseapp.com","databaseURL":"https://rapplerprod.firebaseio.com","projectId":"rapplerprod","storageBucket":"rapplerprod.appspot.com","messagingSenderId":"324930496467"}); </script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/16.4.2/umd/react.production.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.4.2/umd/react-dom.production.min.js" type="text/javascript"></script>
+<script src="https://assets.rappler.com/widgets/CookiePopup.js" type="text/javascript"></script>
+<script src="https://assets.rappler.com/widgets/EmailPopup.js" type="text/javascript"> 
+</script>
+<script src="https://cdn.innity.net/zone.js" type="text/javascript"></script>
+<script src="https://static.rappler.com/cache/assets/1550587016-420b9f52da7bd6c903c8f34f21999b03.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() { if(typeof(setInitialContentId)=='function'&&typeof(initContentId)=='undefined') { setInitialContentId( '223373', "http://www.rappler.com//sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record", "Fil-Australian teen swimmer breaks Akiko Thomson's record", "Georgia Peregrina smashes the national women's senior 200m backstroke record Olympian Akiko Thomson held for 26 years"); }});$(document).ready(function(a) {
+setTimeout(function(b) {
+$(window.location.hash).modal("show");
+},2000);
+});
+$(document).ready(function() {
+if($("div.js-megamenu img").length>0) {
+$("div.js-megamenu img").lazyload({event:"megamenu"});
+}
+if($("#latest-news-carousel img").length>0) {
+$("#latest-news-carousel img").lazyload({event:"latestnewscarousel"});
+}
+if($("#rappler3-related-carousel img").length>0) {
+$("#rappler3-related-carousel img").lazyload({event:"relatedcarousel"});
+}
+$("img").lazyload({effect:"fadeIn",skip_invisible:false,failure_limit:50});
+});
+!function (e, f, u) {   e.async = 1; e.src = u; f.parentNode.insertBefore(e, f);}(document.createElement('script'), document.getElementsByTagName('script')[0], '//cdn.taboola.com/libtrc/rappler-rappler/loader.js');
+var gigya = null;
+var fbkey="129650183806730"
+var gbl_iscomponent       = false;
+var user_agent            = 'Amazon CloudFront';
+var isAndroid = user_agent.toLowerCase().indexOf('android') > -1;
+//gamification
+var gm_view = 'article';
+var published_state = '1';
+var enable_state = '1';
+var enableInlineRecomendations = 1;
+var deviceType = 'desktop';
+var adInlineWordCount = '400';
+_atrk_opts = { atrk_acct:"Jv+uf1agkf00Of", domain:"rappler.com",dynamic: true}; (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+wrapDFPWithCxsense('Rappler_Scripts');
+wrapDFPWithCxsense('Rappler_FirstImpressions');
+$(document).ready(function() {
+var userAgent = window.navigator.userAgent.toLowerCase(),
+safari = /safari/.test( userAgent ),
+ios = /iphone|ipod|ipad/.test( userAgent );
+if( ios ) {
+if ( safari ) {
+//browser
+$('.support-button').css('display','inline-block');
+} else if ( !safari ) {
+//webview
+};
+} else {
+$('.support-button').css('display','inline-block');
+};                
+});
+$(document).ready(function() {
+var owl = $("#common-header-slider");
+owl.owlCarousel({
+items : 5,
+itemsDesktop : [1400,4],
+itemsDesktopSmall : [1100,3],
+itemsTablet: [768,2],
+itemsMobile : [480,1],
+lazyLoad : true,
+rewindNav : false
+});
+// Custom Navigation Events
+$(".right-nav-arrow").click(function(){
+owl.trigger('owl.next');
+})
+$(".left-nav-arrow").click(function(){
+owl.trigger('owl.prev');
+})
+});
+wrapDFPWithCxsense('premium_billboard');
+wrapDFPWithCxsense('premium_skyscraper');
+wrapDFPWithCxsense('Rappler_Crowdfunding');
+window._taboola = window._taboola || [];
+//   _taboola.push({
+//     mode: 'thumbnails-b',
+//     container: 'taboola-below-article-thumbnails-223373',
+//     placement: 'Below Article Thumbnails',
+//     target_type: 'mix'
+//   });
+//var _ain = {};
+$(document).ready(function () {
+var orentation = 'desktop' === 'mobile' ? 'horizontal' : 'vertical';
+// Render sharebars
+rapplerCreateSharebar({
+title      : 'Fil-Australian teen swimmer breaks Akiko Thomson\'s record',
+url        : 'http://www.rappler.com//sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record',
+showpin    : 'https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F92100519DA2409397C5E72EED4DFC8C/georgia-peregrina-copy.jpg',
+container  : 'storypageShare-223373',
+providers  : ['facebook', 'twitter', 'reddit', 'email'],
+orientation: orentation,
+showcount  : 'top',
+via        : ''
+}, true, true, 223373)
+rapplerCreateSharebar({
+title      : 'Fil-Australian teen swimmer breaks Akiko Thomson\'s record',
+url        : 'http://www.rappler.com//sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record',
+showpin    : 'https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F92100519DA2409397C5E72EED4DFC8C/georgia-peregrina-copy.jpg',
+container  : 'gysharebarh-2-223373',
+orientation: 'horizontal',
+showcount  : 'top',
+via        : ''
+}, true, true, 223373)
+rapplerCreateSharebar({
+title      : 'Fil-Australian teen swimmer breaks Akiko Thomson\'s record',
+url        : 'http://www.rappler.com//sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record',
+showpin    : 'https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/F92100519DA2409397C5E72EED4DFC8C/georgia-peregrina-copy.jpg',
+container  : 'gysharebarh-223373',
+orientation: 'horizontal',
+showcount  : 'none',
+via        : ''
+}, true)
+// metakeys
+$('#rappler3-metakey-wrapper-223373').empty().html($('#metakeyword_content-223373').html());
+// - show comments
+showComments('http://www.rappler.com//sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record', 223373, 'Fil-Australian teen swimmer breaks Akiko Thomson\'s record');
+// - add the comment button with number of shares
+// var fn = function(r) {
+/* CONFIGURATION START */
+// _ain = {
+//     id: "1258",
+//     postid: "223373",
+//     url: "http://www.rappler.com//sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record",
+//     title: "Fil-Australian teen swimmer breaks Akiko Thomson\'s record",
+//     pubdate: "2019-02-13 04:43:55",
+//     authors: "Beatrice Go",
+//     sections: "",
+//     tags: "Georgia Peregrina, Akiko Thompson, Filipino swimmers",
+//     comments: r.streamInfo.commentCount.toString()
+// };
+/* CONFIGURATION END */
+// (function (d, s) {
+//     var sf = d.createElement(s);
+//     sf.type = 'text/javascript'; sf.async = true;
+//     sf.src = (('https:' == d.location.protocol) ? 'https://d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com' : 'http://t.contentinsights.com')+'/stf.js';
+//     var t = d.getElementsByTagName(s)[0];
+//     t.parentNode.insertBefore(sf, t);
+// })(document, 'script');
+//}
+//getCommentCount('223373',fn);
+});
+wrapDFPWithCxsense('Rappler_Crowdfunding_Sticky');
+wrapDFPWithCxsense('Rappler_Top');
+wrapDFPWithCxsense('Rappler_Moods');
+wrapDFPWithCxsense('Rappler_Crowdfunding_Mood');
+$(document).ready(function(a) {
+// console.log('Doc ready')
+let mmMaxWidth = $('#sidebar-upper').width();
+$('.flip-container').css('max-width',mmMaxWidth);
+});
+// auto executed when the article loads for the first time
+function setInitialContentId(id, url, title, description) {
+setMoods(id);
+}
+// reset mm to before user voted
+function resetMM() {
+$('#mood-meter-title').html("HOW DOES THIS STORY MAKE YOU FEEL?").attr('class','rappler-label bg rappler-orange');
+$('#mobile-mood-meter-title').html("HOW DOES THIS STORY MAKE YOU FEEL?").attr('class','rappler-label bg rappler-orange');
+$('#mood-clicked').html("");
+}
+// callback function after share is done
+function gyShareCallback(e) {
+}
+//sets the mood values given the id
+function setMoods(item_id, noreset) {
+$('.mm-new').attr('data-article_id', item_id);
+$.get('https://mm.rappler.com/moodmeter/ranking?rsort=1&content_id=' + item_id, {}, function (data) {
+var mood_el = $('#dot-mm'),
+mobile_mood_el = $('#dot-mobile-mm-' + item_id);
+if (mood_el.length > 0) {
+$('.mm-new').css('opacity', 0);
+mood_el.find('strong.happy').html(data.moods.happy + '%');
+mood_el.find('strong.sad').html(data.moods.sad + '%');
+mood_el.find('strong.angry').html(data.moods.angry + '%');
+mood_el.find('strong.dontcare').html(data.moods.dont_care + '%');
+mood_el.find('strong.inspired').html(data.moods.inspired + '%');
+mood_el.find('strong.afraid').html(data.moods.afraid + '%');
+mood_el.find('strong.amused').html(data.moods.amused + '%');
+mood_el.find('strong.annoyed').html(data.moods.annoyed + '%');
+window.setTimeout(function () {
+$('.mm-new').css('opacity', 1);
+}, 100);
+}
+if (mobile_mood_el.length > 0) {
+mobile_mood_el.find('strong.happy').html(data.moods.happy + '%');
+mobile_mood_el.find('strong.sad').html(data.moods.sad + '%');
+mobile_mood_el.find('strong.angry').html(data.moods.angry + '%');
+mobile_mood_el.find('strong.dontcare').html(data.moods.dont_care + '%');
+mobile_mood_el.find('strong.inspired').html(data.moods.inspired + '%');
+mobile_mood_el.find('strong.afraid').html(data.moods.afraid + '%');
+mobile_mood_el.find('strong.amused').html(data.moods.amused + '%');
+mobile_mood_el.find('strong.annoyed').html(data.moods.annoyed + '%');
+}
+// console.log(data);
+var topmood,
+largest = 0,
+cls = 'rappler-orange',
+txt = 'People are divided on this issue';
+for(var i in data.moods) {
+if(data.moods[i] > largest) {
+topmood = i;
+largest = data.moods[i];
+}
+}
+var storymakespeople = 'THIS STORY MAKES PEOPLE';
+switch (topmood) {
+case 'afraid':
+txt = storymakespeople + ' Afraid';
+break;
+case 'amused':
+txt = storymakespeople + ' Amused';
+break;
+case 'annoyed':
+txt = storymakespeople + ' Annoyed';
+break;
+case 'angry':
+txt = storymakespeople + ' Angry';
+break;
+case 'dont_care':
+txt = "People do not care about this story";
+break;
+case 'happy':
+txt = storymakespeople + ' Happy';
+break;
+case 'inspired':
+txt = storymakespeople + ' Inspired';
+break;
+case 'sad':
+txt = storymakespeople + ' Sad';
+break;
+}
+if(topmood == 'dont_care') {
+cls = 'dontcare'
+} else {
+if(typeof(topmood)!='undefined') {
+cls = topmood;
+}
+}
+resetMM();
+$('#mood-meter-dominant').attr('class','');
+$('#mood-meter-dominant').addClass('rappler-label-top bg '+cls);
+$('#mood-meter-dominant').html(txt)
+$('#mobile-mood-meter-dominant').attr('class','');
+$('#mobile-mood-meter-dominant').addClass('rappler-label-top bg '+cls);
+$('#mobile-mood-meter-dominant').html(txt)
+});
+}
+//set moodmeter language
+function setMoodMeterLanguage(url){
+if((url.indexOf('/world/regions/asia-pacific/indonesia') > -1 || url.indexOf('/indonesia') > -1) && url.indexOf('/englishedition') == -1){
+} else{
+}
+$(".happy .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Happy";
+});
+$(".sad .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Sad";
+});
+$(".angry .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Angry";
+});
+$(".dontcare .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Don't Care";
+});
+$(".inspired .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Inspired";
+});
+$(".afraid .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Afraid";
+});
+$(".amused .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Amused";
+});
+$(".annoyed .bg").each(function() {
+$(this).nextAll("br").get(0).nextSibling.nodeValue = "Annoyed";
+});
+}
+// execute this once a new story is added to the page
+function initStoryItem(id, url, title, pubdate, authors, sections, tags, previousUrl) {
+// reset moodmeter
+$('.flip-container').removeClass('hover');
+// do we have an x module ?
+// initialize if we do
+if($('#item-'+id).find('.x_stories_module').length>0) {
+var m = $('#item-'+id).find('.x_stories_module')[0];
+m_id = $(m).attr('data-module_id');
+head.js("https://static.rappler.com/modules/mod_rappler3_x_stories/assets/js/mod_rappler3_x_stories.js", function () {
+if(typeof(getXStories)!=='undefined') {
+getXStories(m_id);
+createXLink(m_id);
+}
+});
+}
+// do we have a scrolly slider (aka owl carousel) ?
+if($('#item-'+id).find('.rappler-scrolly-slider').length>0) {
+head.load("https://static.rappler.com/templates/rappler3_default/js/owl-carousel/owl.carousel.css",
+"https://static.rappler.com/templates/rappler3_default/js/owl-carousel/owl.theme.css",
+"https://static.rappler.com/templates/rappler3_default/js/owl-carousel/owl.transitions.css",
+"https://static.rappler.com/templates/rappler3_default/css/scrollyslider.css",
+"https://static.rappler.com/templates/rappler3_default/js/owl-carousel/owl.carousel.js",
+"https://static.rappler.com/templates/rappler3_default/js/scrollyslider.js", function () {
+if(typeof(initOwlSlider)!=='undefined') {
+initOwlSlider($('#item-'+id).find('.rappler-scrolly-slider'));
+}
+});
+}
+// resetMM();
+// fetch moods
+setMoods(id);
+// create sharebar for new story
+rapplerCreateSharebar({
+title: title,
+url: url,
+showpin: 1,
+container: 'storypageShare-' + id,
+orientation: 'vertical',
+showcount: 'top',
+via: '@rapplerdotcom'
+}, true, true, id)
+// - meta keywords
+$('#rappler3-metakey-wrapper-' + id).empty().html($('#metakeyword_content-' + id).html());
+// - show comments
+showComments(url, id, title);
+// - add the comment button with number of shares
+getCommentCount(id);
+// NOTE : updating of the url needs to be done in initScrolly inside storypage.php
+//  because that's where we detect the direction of the scroll
+//  detecting the direction is crucial so we know when
+//  to update the url and moodmeter
+// - load twitter again
+twttr.widgets.load()
+// HAM : content insights after we get comments
+// var fn = function(r) {
+// _ain.id = "1258";
+// _ain.postid = id;
+// _ain.url = url;
+// _ain.title = title;
+// _ain.pubdate = pubdate;
+// _ain.authors = authors;
+// _ain.sections = sections;
+// _ain.tags = tags;
+// _ain.maincontent = "#story-area-" + id;
+// _ain.comments = r.streamInfo.commentCount.toString();
+// _ain.track();
+// }
+// rapplerGetCommentcount(id,fn);
+// TODO : only execute if this article is brandrap
+}
+// listen to mood votes
+head.js("https://static.rappler.com/components/com_rappler/js/jquery.cookie.min.js",
+"https://static.rappler.com/modules/mod_rappler3_moods/js/moodmeter.min.js",
+"https://static.rappler.com/modules/mod_rappler3_moods/js/moodmeter_client.min.js", function () {
+moodMeterClient = new MoodMeterClient({domain: "https://mm.rappler.com"});
+moodMeterClient.initClient(function (isExists, hash) {
+// listen to vote clicks
+$(document).click(function (e) {
+if ($(e.target).hasClass('dot_mmm_circle')) {
+var mood_type_id = $(e.target).attr('rel'),
+mood = '',
+moodClicked = '',
+moodText = '',
+moodClass = $('#mood-clicked').attr('class'),
+contentId = $(e.target).parents('div.mm-new').attr('data-article_id'),
+mobile_parent = $(e.target).parents('#dot-mobile-mm-' + contentId);
+// console.log(contentId);
+// console.log(mood);
+// console.log(mood_type_id);
+if ($(e.target).hasClass('happy')) {
+mood = "Happy";
+moodText = 'Happy';
+}
+if ($(e.target).hasClass('sad')) {
+mood = "Sad";
+moodText = 'Sad';
+}
+if ($(e.target).hasClass('angry')) {
+mood = "Angry";
+moodText = 'Angry';
+}
+if ($(e.target).hasClass('inspired')) {
+mood = "Inspired";
+moodText = 'Inspired';
+}
+if ($(e.target).hasClass('afraid')) {
+mood = "Afraid";
+moodText = 'Afraid';
+}
+if ($(e.target).hasClass('amused')) {
+mood = "Amused";
+moodText = 'Amused';
+}
+if ($(e.target).hasClass('dontcare')) {
+mood = "Don't Care";
+moodText = "Don't Care";
+}
+if ($(e.target).hasClass('annoyed')) {
+mood = "Annoyed";
+moodText = 'Annoyed';
+}
+moodClicked = mood.toLowerCase()
+if (moodClicked == "don't care") {
+mood = 'dontcare';
+moodText = "Don't Care";
+}
+var prefix = "I am";
+if (mood_type_id == 4) {
+prefix = "I";
+}
+//printMoodSponsorship(mood);
+// record the vote
+$.post('https://mm.rappler.com/moodmeter/vote', {
+hash: hash,
+mood_type_id: mood_type_id,
+mood_type_name: mood,
+content_id: contentId,
+cookies_enabled: 1
+}, function (data) {
+var moodTypeId = 0;
+if (!data.content_mood_id) {
+if (mobile_parent.length == 1) {
+// voting on mobile
+$('#mmm_thankyou_title').html('You have already voted <span class="' + moodClicked + '">' + moodText + '</span>')
+$('#mmm_popup_thanks').modal('show');
+rapplerCreateSharebar({
+title: prefix + ' ' + mood + ' - ' + document.title,
+url: window.location.href,
+showpin: 0,
+container: 'mmm_thankyou_share',
+orientation: 'horizontal',
+showcount: 'none',
+via: 'rapplerdotcom'
+}, false, false, contentId)
+} else {
+// update share this vote
+rapplerCreateSharebar({
+title: prefix + ' ' + mood + ' - ' + document.title,
+url: window.location.href,
+showpin: 0,
+container: 'voteshare',
+orientation: 'horizontal',
+showcount: 'none',
+via: 'rapplerdotcom'
+}, false, false, contentId)
+// update the mood counts
+setMoods(contentId);
+// do the flip
+$('.flip-container').toggleClass('hover');
+// update the flip panel text
+$('#mood-meter-title').html('You already voted ' + moodText).attr('class','rappler-label bg '+ moodClicked);
+$('#mobile-mood-meter-title').html('You already voted ' + moodText).attr('class','rappler-label bg '+ moodClicked);
+$("#mood-clicked").html(moodText).attr('class','').addClass(moodClicked);
+$("#mood-clicked-after").html(moodText).attr('class','').addClass(moodClicked);
+var oldMoodClicked = moodClicked;
+$( "#mood-back" ).one( "click", function() {
+switch(data.mood_type_slug) {
+case 'happy':
+moodClicked = 'Happy';
+moodText = 'Happy';
+break;
+case 'sad':
+moodClicked = 'Sad';
+moodText = 'Sad';
+break;
+case 'angry':
+moodClicked = 'Angry';
+moodText = 'Angry';
+break;
+case 'dontcare':
+moodClicked = "Don't Care";
+moodText = "Don't Care";
+break;
+case 'amused':
+moodClicked = 'Amused';
+moodText = 'Amused';
+break;
+case 'afraid':
+moodClicked = 'Afraid';
+moodText = 'Afraid';
+break;
+case 'annoyed':
+moodClicked = 'Annoyed';
+moodText = 'Annoyed';
+break;
+}
+$('#mood-meter-title').html('You already voted ' + moodText).attr('class','rappler-label bg '+ data.mood_type_slug);
+$('#mobile-mood-meter-title').html('You already voted ' + moodText).attr('class','rappler-label bg '+ data.mood_type_slug);
+$("#mood-clicked").html(moodText).attr('class','').addClass(data.mood_type_slug);
+$("#mood-clicked-after").html(moodText).attr('class','').addClass(data.mood_type_slug);
+//$("#mood-sponsorship").html('');
+});
+var relatedmood = "";
+if (moodClicked == "Don't Care") {
+relatedmood = 'Dont+care';
+} else {
+relatedmood = moodClicked;
+}
+$.getJSON('https://mm.rappler.com/api/votes/voted-top-in-moods', {type: relatedmood}, function (data) {
+$('#latestmoodstories').html('');
+$.each(data.results, function (index, entry) {
+if (index < 5) {
+var b = '1px solid #eaeaea';
+if (index == (data.length - 1)) {
+b = '';
+}
+$('#latestmoodstories').append(
+$('<div>').append(
+$('<h6>').append(
+$('<a>').addClass('rappler-headline link').attr('href', '/?option=com_rappler&task=mobileapi.rdir&id=' + entry.contentId).html(entry.title)
+)
+)
+).append('<hr>');
+}
+});
+});
+}
+} else {
+if (mobile_parent.length == 1) {
+$('#mmm_thankyou_title').html('Thank you for voting <span class="' + moodClicked + '">' + moodText + '</span>')
+$('#mmm_popup_thanks').modal('show');
+rapplerCreateSharebar({
+title: prefix + ' ' + mood + ' - ' + document.title,
+url: window.location.href,
+showpin: 0,
+container: 'mmm_thankyou_share',
+orientation: 'horizontal',
+showcount: 'none',
+via: 'rapplerdotcom'
+}, false, false, contentId)
+} else {
+// update share this vote
+rapplerCreateSharebar({
+title: prefix + ' ' + mood + ' - ' + document.title,
+url: window.location.href,
+showpin: 0,
+container: 'voteshare',
+orientation: 'horizontal',
+showcount: 'none',
+via: 'rapplerdotcom'
+}, false, false, contentId)
+// update the mood counts
+setMoods(contentId);
+// do the flip
+$('.flip-container').toggleClass('hover');
+// update the flip panel text
+window.setTimeout(function () {
+$("#mood-clicked-after").html(moodText).attr('class','').addClass(moodClicked);
+}, 100);
+$('#mood-meter-title').html('<? echo $mood_name["youalreadyvoted"]; ?> ' + moodText).attr('class','rappler-label bg '+ moodClicked);
+$('#mobile-mood-meter-title').html('<? echo $mood_name["youalreadyvoted"]; ?> ' + moodText).attr('class','rappler-label bg '+ moodClicked);
+// fetch related news
+var relatedmood = "";
+if (moodClicked == "Don't Care") {
+relatedmood = 'Dont+care';
+} else {
+relatedmood = moodClicked;
+}
+$.getJSON('https://mm.rappler.com/api/votes/voted-top-in-moods', {type: relatedmood}, function (data) {
+$('#latestmoodstories').html('');
+$.each(data.results, function (index, entry) {
+if (index < 5) {
+var b = '1px solid #eaeaea';
+if (index == (data.length - 1)) {
+b = '';
+}
+$('#latestmoodstories').append(
+$('<div>').addClass('stats').append(
+$('<h6>').addClass('top-in-moods-title').append(
+$('<a>').addClass('rappler-headline link').attr('href', '/?option=com_rappler&task=mobileapi.rdir&id=' + entry.contentId).html(entry.title)
+)
+)
+).append('<hr>');
+}
+});
+});
+}
+recordGigAction('mood_vote',{
+content_id:contentId,
+mood_type_id:mood_type_id,
+mood_type_name:mood
+});
+recordCommunityAction('mood_vote', {
+content_id:contentId,
+mood_type_id:mood_type_id,
+mood_type_name:mood
+});
+}
+})
+}
+})
+})
+})
+$('#mood-back').click(function () {
+$('.flip-container').removeClass('hover');
+});
+var id = 223373;
+var title = $("#story-area-" + id).attr("data-article_title");
+CookiePopup.init({
+selector: 'cookie-popup-rappler',
+});
+$('.close-button *').click(function() {
+$('.cp-slider-popup').animate({
+bottom: '-700px',
+}, 500, function() {
+console.log('Animation Done');
+});
+});
+//EmailPopup.init({ 
+//selector: 'emailPopupDiv', 
+//});
+new innity_premiumZone("82713", {"origin": "PH"});
+new innity_premiumZone("82714", {"origin": "PH"});
+new innity_premiumZone("82927", {"origin": "PH"});
+WebFont.load({
+google: {
+families: ['PT Serif: 400,700', 'Oswald: 300,400']
+}
+});
+window._taboola = window._taboola || [];
+_taboola.push({flush: true});
+var readerCountry = 'INTL';
+// var is_uiwebview = /(iPhone|iPod|iPad).*AppleWebKit(?!.*Version)/i.test(navigator.userAgent);
+ga('set', 'dimension17', readerCountry);
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"77a19f2746","applicationID":"36625530","transactionName":"ZVdWNhZWDUFWU0EPXFwddQEQXgxcGHNaCEdXXEAhC1kXQFhcWQNBHVZdERRbAks=","queueTime":0,"applicationTime":1247,"atts":"SRBVQF5MHk8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
