@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.seattletimes.com/sports/pac-12/think-the-pac-12-are-struggling-with-audience-and-revenue-the-reality-might-be-worse-than-you-imagined/?utm_source=twitter&utm_medium=social&utm_campaign=article_left_1.1",
+  "uri": "https://www.seattletimes.com/sports/pac-12/think-the-pac-12-are-struggling-with-audience-and-revenue-the-reality-might-be-worse-than-you-imagined/?utm_source=twitter&utm_medium=social&utm_campaign=article_left_1.1",
+  "estimated-creation-date": "2019-02-13T10:31:10",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T10:31:10"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:27:01"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

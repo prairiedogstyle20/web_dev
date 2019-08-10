@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/",
+  "self": "http://localhost:1208/timemap/json/https://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-04T20:03:51Z",
+        "uri": "http://web.archive.org/web/20190204200351/https://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/"
+      },
+      {
+        "datetime": "2019-02-09T01:18:55Z",
+        "uri": "http://web.archive.org/web/20190209011855/https://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/"
+      },
+      {
+        "datetime": "2019-02-12T19:26:06Z",
+        "uri": "http://web.archive.org/web/20190212192606/https://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/"
+      },
+      {
+        "datetime": "2019-02-13T06:37:20Z",
+        "uri": "http://web.archive.org/web/20190213063720/http://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/"
+      },
+      {
+        "datetime": "2019-02-13T06:42:21Z",
+        "uri": "http://web.archive.org/web/20190213064221/https://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-04T20:03:51Z",
+      "uri": "http://web.archive.org/web/20190204200351/https://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/"
+    },
+    "last": {
+      "datetime": "2019-02-13T06:42:21Z",
+      "uri": "http://web.archive.org/web/20190213064221/https://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/",
+    "json_format": "http://localhost:1208/timemap/json/https://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://johnpavlovitz.com/2019/02/04/when-someone-you-love-joins-a-cult/"
+}

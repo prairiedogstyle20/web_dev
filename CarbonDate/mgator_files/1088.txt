@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.palmerreport.com/analysis/impeachment-genius-house-trump/15940/",
+  "self": "http://localhost:1208/timemap/json/https://www.palmerreport.com/analysis/impeachment-genius-house-trump/15940/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T11:06:15Z",
+        "uri": "http://web.archive.org/web/20190213110615/https://www.palmerreport.com/analysis/impeachment-genius-house-trump/15940/"
+      },
+      {
+        "datetime": "2019-02-13T13:22:24Z",
+        "uri": "http://web.archive.org/web/20190213132224/https://www.palmerreport.com/analysis/impeachment-genius-house-trump/15940/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T11:06:15Z",
+      "uri": "http://web.archive.org/web/20190213110615/https://www.palmerreport.com/analysis/impeachment-genius-house-trump/15940/"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:22:24Z",
+      "uri": "http://web.archive.org/web/20190213132224/https://www.palmerreport.com/analysis/impeachment-genius-house-trump/15940/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.palmerreport.com/analysis/impeachment-genius-house-trump/15940/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.palmerreport.com/analysis/impeachment-genius-house-trump/15940/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.palmerreport.com/analysis/impeachment-genius-house-trump/15940/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.palmerreport.com/analysis/impeachment-genius-house-trump/15940/"
+}

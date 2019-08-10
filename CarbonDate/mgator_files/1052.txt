@@ -1,0 +1,51 @@
+7
+{
+  "original_uri": "https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/",
+  "self": "http://localhost:1208/timemap/json/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T07:52:30Z",
+        "uri": "http://web.archive.org/web/20190212075230/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/"
+      },
+      {
+        "datetime": "2019-02-12T07:58:50Z",
+        "uri": "http://web.archive.org/web/20190212075850/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/"
+      },
+      {
+        "datetime": "2019-02-12T10:50:04Z",
+        "uri": "http://web.archive.org/web/20190212105004/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/"
+      },
+      {
+        "datetime": "2019-02-12T10:50:05Z",
+        "uri": "http://web.archive.org/web/20190212105005/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/"
+      },
+      {
+        "datetime": "2019-02-12T12:02:46Z",
+        "uri": "http://web.archive.org/web/20190212120246/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/"
+      },
+      {
+        "datetime": "2019-02-12T22:25:53Z",
+        "uri": "http://web.archive.org/web/20190212222553/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/"
+      },
+      {
+        "datetime": "2019-02-12T23:18:50Z",
+        "uri": "http://web.archive.org/web/20190212231850/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T07:52:30Z",
+      "uri": "http://web.archive.org/web/20190212075230/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/"
+    },
+    "last": {
+      "datetime": "2019-02-12T23:18:50Z",
+      "uri": "http://web.archive.org/web/20190212231850/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.breitbart.com/politics/2019/02/11/trump-2nd-come-take-it/"
+}

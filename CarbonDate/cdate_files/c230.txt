@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html",
+  "uri": "https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html",
+  "estimated-creation-date": "2019-02-13T20:38:41",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T21:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214011543/http://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html",
+      "memento-datetime": "2019-02-14T01:15:43",
+      "memento-pubdate": "2019-02-13T21:00:00",
+      "earliest": "2019-02-13T21:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:38:41"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

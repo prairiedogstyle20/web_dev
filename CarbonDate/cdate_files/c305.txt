@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.witn.com/content/sports/Roy-stops-by-South-Central-East-Duplin-tops-James-Kenan-505756861.html",
+  "uri": "https://www.witn.com/content/sports/Roy-stops-by-South-Central-East-Duplin-tops-James-Kenan-505756861.html",
+  "estimated-creation-date": "2019-02-13T05:02:08",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T05:02:08"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://www.foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house",
+  "self": "http://localhost:1208/timemap/json/https://www.foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T18:14:22Z",
+        "uri": "http://web.archive.org/web/20190213181422/https://www.foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house"
+      },
+      {
+        "datetime": "2019-02-13T18:24:08Z",
+        "uri": "http://web.archive.org/web/20190213182408/https://www.foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house"
+      },
+      {
+        "datetime": "2019-02-13T19:41:56Z",
+        "uri": "http://web.archive.org/web/20190213194156/https://www.foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house"
+      },
+      {
+        "datetime": "2019-02-14T01:06:18Z",
+        "uri": "http://web.archive.org/web/20190214010618/https://www.foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house"
+      },
+      {
+        "datetime": "2019-02-14T01:06:18Z",
+        "uri": "http://web.archive.org/web/20190214010618/http://foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T18:14:22Z",
+      "uri": "http://web.archive.org/web/20190213181422/https://www.foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house"
+    },
+    "last": {
+      "datetime": "2019-02-14T01:06:18Z",
+      "uri": "http://web.archive.org/web/20190214010618/http://foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house",
+    "json_format": "http://localhost:1208/timemap/json/https://www.foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.foxnews.com/politics/trump-reportedly-paid-50k-to-install-golf-simulator-at-white-house"
+}

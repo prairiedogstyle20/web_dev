@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria",
+  "uri": "https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria",
+  "estimated-creation-date": "2019-02-13T20:30:03",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214084500/https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria",
+      "memento-datetime": "2019-02-14T08:45:00",
+      "memento-pubdate": "",
+      "earliest": "2019-02-14T08:45:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "http://www.dailykos.com/stories/2019/2/12/1833740/-What-s-actually-in-the-Green-New-Deal",
+  "self": "http://localhost:1208/timemap/json/http://www.dailykos.com/stories/2019/2/12/1833740/-What-s-actually-in-the-Green-New-Deal",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T23:56:22Z",
+        "uri": "http://web.archive.org/web/20190212235622/https://www.dailykos.com/stories/2019/2/12/1833740/-What-s-actually-in-the-Green-New-Deal"
+      },
+      {
+        "datetime": "2019-02-13T10:18:47Z",
+        "uri": "http://web.archive.org/web/20190213101847/http://www.dailykos.com/stories/2019/2/12/1833740/-What-s-actually-in-the-Green-New-Deal"
+      },
+      {
+        "datetime": "2019-02-13T15:14:21Z",
+        "uri": "http://web.archive.org/web/20190213151421/http://www.dailykos.com/stories/2019/2/12/1833740/-What-s-actually-in-the-Green-New-Deal"
+      },
+      {
+        "datetime": "2019-02-13T17:30:56Z",
+        "uri": "http://web.archive.org/web/20190213173056/https://www.dailykos.com/stories/2019/2/12/1833740/-What-s-actually-in-the-Green-New-Deal"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T23:56:22Z",
+      "uri": "http://web.archive.org/web/20190212235622/https://www.dailykos.com/stories/2019/2/12/1833740/-What-s-actually-in-the-Green-New-Deal"
+    },
+    "last": {
+      "datetime": "2019-02-13T17:30:56Z",
+      "uri": "http://web.archive.org/web/20190213173056/https://www.dailykos.com/stories/2019/2/12/1833740/-What-s-actually-in-the-Green-New-Deal"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.dailykos.com/stories/2019/2/12/1833740/-What-s-actually-in-the-Green-New-Deal",
+    "json_format": "http://localhost:1208/timemap/json/http://www.dailykos.com/stories/2019/2/12/1833740/-What-s-actually-in-the-Green-New-Deal",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.dailykos.com/stories/2019/2/12/1833740/-What-s-actually-in-the-Green-New-Deal"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.dailykos.com/stories/2019/2/12/1833740/-What-s-actually-in-the-Green-New-Deal"
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.huffingtonpost.com/entry/twitter-donald-trump-jr-beto-orourke-el-paso-texas_us_5c634e69e4b03de94296981b",
+  "self": "http://localhost:1208/timemap/json/https://www.huffingtonpost.com/entry/twitter-donald-trump-jr-beto-orourke-el-paso-texas_us_5c634e69e4b03de94296981b",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T07:06:11Z",
+        "uri": "http://web.archive.org/web/20190213070611/https://www.huffingtonpost.com/entry/twitter-donald-trump-jr-beto-orourke-el-paso-texas_us_5c634e69e4b03de94296981b"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T07:06:11Z",
+      "uri": "http://web.archive.org/web/20190213070611/https://www.huffingtonpost.com/entry/twitter-donald-trump-jr-beto-orourke-el-paso-texas_us_5c634e69e4b03de94296981b"
+    },
+    "last": {
+      "datetime": "2019-02-13T07:06:11Z",
+      "uri": "http://web.archive.org/web/20190213070611/https://www.huffingtonpost.com/entry/twitter-donald-trump-jr-beto-orourke-el-paso-texas_us_5c634e69e4b03de94296981b"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.huffingtonpost.com/entry/twitter-donald-trump-jr-beto-orourke-el-paso-texas_us_5c634e69e4b03de94296981b",
+    "json_format": "http://localhost:1208/timemap/json/https://www.huffingtonpost.com/entry/twitter-donald-trump-jr-beto-orourke-el-paso-texas_us_5c634e69e4b03de94296981b",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.huffingtonpost.com/entry/twitter-donald-trump-jr-beto-orourke-el-paso-texas_us_5c634e69e4b03de94296981b"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.huffingtonpost.com/entry/twitter-donald-trump-jr-beto-orourke-el-paso-texas_us_5c634e69e4b03de94296981b"
+}

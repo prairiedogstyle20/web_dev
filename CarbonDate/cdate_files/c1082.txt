@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/hilltv/what-americas-thinking/429840-poll-voters-strongly-want-trump-to-approve-border-compromise",
+  "uri": "https://thehill.com/hilltv/what-americas-thinking/429840-poll-voters-strongly-want-trump-to-approve-border-compromise",
+  "estimated-creation-date": "2019-02-13T15:00:43",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T15:00:43"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214025515/https://thehill.com/hilltv/what-americas-thinking/429840-poll-voters-strongly-want-trump-to-approve-border-compromise",
+      "memento-datetime": "2019-02-14T02:55:15",
+      "memento-pubdate": "2019-02-13T15:00:43",
+      "earliest": "2019-02-13T15:00:43"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:39:35"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

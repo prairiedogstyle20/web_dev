@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.washingtonexaminer.com/opinion/green-new-deal-has-paved-the-way-for-trump-to-cave-on-border-wall-funding-at-lower-political-cost",
+  "uri": "https://www.washingtonexaminer.com/opinion/green-new-deal-has-paved-the-way-for-trump-to-cave-on-border-wall-funding-at-lower-political-cost",
+  "estimated-creation-date": "2019-02-13T19:34:09",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:34:09"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214005203/https://www.washingtonexaminer.com/opinion/green-new-deal-has-paved-the-way-for-trump-to-cave-on-border-wall-funding-at-lower-political-cost",
+      "memento-datetime": "2019-02-14T00:52:03",
+      "memento-pubdate": "2019-02-13T19:34:09",
+      "earliest": "2019-02-13T19:34:09"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:35:50"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

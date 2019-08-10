@@ -1,0 +1,83 @@
+15
+{
+  "original_uri": "https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing",
+  "self": "http://localhost:1208/timemap/json/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-01-24T18:33:49Z",
+        "uri": "http://wayback.archive-it.org/all/20190124183349/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-01-24T18:33:49Z",
+        "uri": "http://web.archive.org/web/20190124183349/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-01-24T18:54:06Z",
+        "uri": "http://wayback.archive-it.org/all/20190124185406/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-01-24T18:54:06Z",
+        "uri": "http://web.archive.org/web/20190124185406/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-01-24T19:09:15Z",
+        "uri": "http://wayback.archive-it.org/all/20190124190915/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-01-24T19:09:15Z",
+        "uri": "http://web.archive.org/web/20190124190915/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-01-25T00:19:10Z",
+        "uri": "http://wayback.archive-it.org/all/20190125001910/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-01-25T00:19:10Z",
+        "uri": "http://web.archive.org/web/20190125001910/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-01-26T23:57:31Z",
+        "uri": "http://web.archive.org/web/20190126235731/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-01-27T09:04:33Z",
+        "uri": "http://wayback.archive-it.org/all/20190127090433/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-01-27T09:04:33Z",
+        "uri": "http://web.archive.org/web/20190127090433/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-02-01T23:59:49Z",
+        "uri": "http://web.archive.org/web/20190201235949/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-02-02T23:52:09Z",
+        "uri": "http://web.archive.org/web/20190202235209/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-02-03T07:56:46Z",
+        "uri": "http://web.archive.org/web/20190203075646/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      },
+      {
+        "datetime": "2019-02-10T02:12:36Z",
+        "uri": "http://web.archive.org/web/20190210021236/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+      }
+    ],
+    "first": {
+      "datetime": "2019-01-24T18:33:49Z",
+      "uri": "http://wayback.archive-it.org/all/20190124183349/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+    },
+    "last": {
+      "datetime": "2019-02-10T02:12:36Z",
+      "uri": "http://web.archive.org/web/20190210021236/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing",
+    "json_format": "http://localhost:1208/timemap/json/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.newyorker.com/news/our-columnists/trumps-transgender-military-ban-and-lessons-from-a-lifetime-of-gender-policing"
+}

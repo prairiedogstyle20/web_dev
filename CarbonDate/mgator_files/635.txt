@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.pulzo.com/mundo/trump-confirma-que-podria-enviar-tropas-colombia-PP642297",
+  "self": "http://localhost:1208/timemap/json/https://www.pulzo.com/mundo/trump-confirma-que-podria-enviar-tropas-colombia-PP642297",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T22:14:26Z",
+        "uri": "http://web.archive.org/web/20190213221426/https://www.pulzo.com/mundo/trump-confirma-que-podria-enviar-tropas-colombia-PP642297"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T22:14:26Z",
+      "uri": "http://web.archive.org/web/20190213221426/https://www.pulzo.com/mundo/trump-confirma-que-podria-enviar-tropas-colombia-PP642297"
+    },
+    "last": {
+      "datetime": "2019-02-13T22:14:26Z",
+      "uri": "http://web.archive.org/web/20190213221426/https://www.pulzo.com/mundo/trump-confirma-que-podria-enviar-tropas-colombia-PP642297"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.pulzo.com/mundo/trump-confirma-que-podria-enviar-tropas-colombia-PP642297",
+    "json_format": "http://localhost:1208/timemap/json/https://www.pulzo.com/mundo/trump-confirma-que-podria-enviar-tropas-colombia-PP642297",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.pulzo.com/mundo/trump-confirma-que-podria-enviar-tropas-colombia-PP642297"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.pulzo.com/mundo/trump-confirma-que-podria-enviar-tropas-colombia-PP642297"
+}

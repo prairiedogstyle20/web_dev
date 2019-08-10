@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic",
+  "uri": "https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic",
+  "estimated-creation-date": "2019-02-12T12:29:39",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T12:29:39"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212182013/https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic",
+      "memento-datetime": "2019-02-12T18:20:13",
+      "memento-pubdate": "2019-02-12T12:29:39",
+      "earliest": "2019-02-12T12:29:39"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T22:49:29"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

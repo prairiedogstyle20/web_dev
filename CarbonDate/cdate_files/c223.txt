@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.redjournalists.com/trumps-approval-rating-soars-to-his-best-in-23-months-at-52/",
+  "uri": "https://www.redjournalists.com/trumps-approval-rating-soars-to-his-best-in-23-months-at-52/",
+  "estimated-creation-date": "2019-02-11T18:37:54",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-11T18:37:54"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-11T18:39:35"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

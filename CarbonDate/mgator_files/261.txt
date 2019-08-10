@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://newsthump.com/2017/02/06/trump-signs-executive-order-to-review-the-ten-commandments/",
+  "self": "http://localhost:1208/timemap/json/http://newsthump.com/2017/02/06/trump-signs-executive-order-to-review-the-ten-commandments/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-02-06T17:42:07Z",
+        "uri": "http://web.archive.org/web/20170206174207/http://newsthump.com/2017/02/06/trump-signs-executive-order-to-review-the-ten-commandments/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-02-06T17:42:07Z",
+      "uri": "http://web.archive.org/web/20170206174207/http://newsthump.com/2017/02/06/trump-signs-executive-order-to-review-the-ten-commandments/"
+    },
+    "last": {
+      "datetime": "2017-02-06T17:42:07Z",
+      "uri": "http://web.archive.org/web/20170206174207/http://newsthump.com/2017/02/06/trump-signs-executive-order-to-review-the-ten-commandments/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://newsthump.com/2017/02/06/trump-signs-executive-order-to-review-the-ten-commandments/",
+    "json_format": "http://localhost:1208/timemap/json/http://newsthump.com/2017/02/06/trump-signs-executive-order-to-review-the-ten-commandments/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://newsthump.com/2017/02/06/trump-signs-executive-order-to-review-the-ten-commandments/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://newsthump.com/2017/02/06/trump-signs-executive-order-to-review-the-ten-commandments/"
+}

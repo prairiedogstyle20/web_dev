@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.google.com/url?q=https://www.washingtonpost.com/amphtml/world/national-security/as-trump-rallied-for-border-wall-monday-migrant-families-arrived-in-record-numbers/2019/02/12/67d77566-2f07-11e9-8ad3-9a5b113ecd3c_st",
+  "uri": "https://www.google.com/url?q=https://www.washingtonpost.com/amphtml/world/national-security/as-trump-rallied-for-border-wall-monday-migrant-families-arrived-in-record-numbers/2019/02/12/67d77566-2f07-11e9-8ad3-9a5b113ecd3c_st",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

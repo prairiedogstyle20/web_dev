@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.washingtonpost.com/politics/2019/02/12/bbc-cameraman-was-violently-pushed-shoved-by-man-maga-hat-trump-rally/?tid=ss_tw&utm_term=.d61bee26c949",
+  "uri": "https://www.washingtonpost.com/politics/2019/02/12/bbc-cameraman-was-violently-pushed-shoved-by-man-maga-hat-trump-rally/?tid=ss_tw&utm_term=.d61bee26c949",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:52:20"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

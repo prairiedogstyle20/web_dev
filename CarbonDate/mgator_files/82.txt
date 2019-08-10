@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://es.investing.com/news/stock-market-news/futuros-europeos-al-alza-trump-y-powell-motores-de-la-subida-735720",
+  "self": "http://localhost:1208/timemap/json/https://es.investing.com/news/stock-market-news/futuros-europeos-al-alza-trump-y-powell-motores-de-la-subida-735720",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T15:03:01Z",
+        "uri": "http://web.archive.org/web/20190213150301/https://es.investing.com/news/stock-market-news/futuros-europeos-al-alza-trump-y-powell-motores-de-la-subida-735720"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T15:03:01Z",
+      "uri": "http://web.archive.org/web/20190213150301/https://es.investing.com/news/stock-market-news/futuros-europeos-al-alza-trump-y-powell-motores-de-la-subida-735720"
+    },
+    "last": {
+      "datetime": "2019-02-13T15:03:01Z",
+      "uri": "http://web.archive.org/web/20190213150301/https://es.investing.com/news/stock-market-news/futuros-europeos-al-alza-trump-y-powell-motores-de-la-subida-735720"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://es.investing.com/news/stock-market-news/futuros-europeos-al-alza-trump-y-powell-motores-de-la-subida-735720",
+    "json_format": "http://localhost:1208/timemap/json/https://es.investing.com/news/stock-market-news/futuros-europeos-al-alza-trump-y-powell-motores-de-la-subida-735720",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://es.investing.com/news/stock-market-news/futuros-europeos-al-alza-trump-y-powell-motores-de-la-subida-735720"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://es.investing.com/news/stock-market-news/futuros-europeos-al-alza-trump-y-powell-motores-de-la-subida-735720"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://addup.sierraclub.org/campaigns/prevent-trumps-usda-from-kicking-755000-off-food-assistance?promoid=7010Z000001qqjuQAA&utm_medium=recruit&utm_source=twitter&utm_campaign=addup&tc=false",
+  "uri": "https://addup.sierraclub.org/campaigns/prevent-trumps-usda-from-kicking-755000-off-food-assistance?promoid=7010Z000001qqjuQAA&utm_medium=recruit&utm_source=twitter&utm_campaign=addup&tc=false",
+  "estimated-creation-date": "2019-02-14T21:18:30",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-14T21:18:30"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

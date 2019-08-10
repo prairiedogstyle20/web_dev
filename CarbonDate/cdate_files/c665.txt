@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://golem13.fr/trump-carnaval-de-viareggio-warhammer/",
+  "uri": "http://golem13.fr/trump-carnaval-de-viareggio-warhammer/",
+  "estimated-creation-date": "2019-02-11T14:05:59",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-11T15:03:58"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-11T14:05:59"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

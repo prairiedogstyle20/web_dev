@@ -1,0 +1,71 @@
+12
+{
+  "original_uri": "https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape",
+  "self": "http://localhost:1208/timemap/json/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-01-10T01:32:45Z",
+        "uri": "http://web.archive.org/web/20190110013245/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+      },
+      {
+        "datetime": "2019-01-10T19:10:52Z",
+        "uri": "http://web.archive.org/web/20190110191052/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+      },
+      {
+        "datetime": "2019-01-10T20:05:15Z",
+        "uri": "http://web.archive.org/web/20190110200515/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+      },
+      {
+        "datetime": "2019-01-10T21:06:59Z",
+        "uri": "http://web.archive.org/web/20190110210659/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+      },
+      {
+        "datetime": "2019-01-10T22:03:17Z",
+        "uri": "http://web.archive.org/web/20190110220317/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+      },
+      {
+        "datetime": "2019-01-10T22:54:58Z",
+        "uri": "http://web.archive.org/web/20190110225458/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+      },
+      {
+        "datetime": "2019-01-10T23:38:03Z",
+        "uri": "http://web.archive.org/web/20190110233803/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+      },
+      {
+        "datetime": "2019-01-11T00:19:33Z",
+        "uri": "http://web.archive.org/web/20190111001933/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+      },
+      {
+        "datetime": "2019-01-11T01:03:05Z",
+        "uri": "http://web.archive.org/web/20190111010305/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+      },
+      {
+        "datetime": "2019-01-11T01:46:28Z",
+        "uri": "http://web.archive.org/web/20190111014628/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+      },
+      {
+        "datetime": "2019-01-11T02:28:03Z",
+        "uri": "http://web.archive.org/web/20190111022803/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+      },
+      {
+        "datetime": "2019-02-02T20:45:25Z",
+        "uri": "http://web.archive.org/web/20190202204525/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-01-10T01:32:45Z",
+      "uri": "http://web.archive.org/web/20190110013245/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+    },
+    "last": {
+      "datetime": "2019-02-02T20:45:25Z",
+      "uri": "http://web.archive.org/web/20190202204525/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape",
+    "json_format": "http://localhost:1208/timemap/json/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.texasobserver.org/trumps-border-wall-is-a-vortex-of-stupidity-that-trump-and-the-gop-cant-escape"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thegatewaypundit.com/2019/02/boom-trump-approval-hits-52-9-point-jump-in-10-days-and-one-sotu-address/",
+  "uri": "https://www.thegatewaypundit.com/2019/02/boom-trump-approval-hits-52-9-point-jump-in-10-days-and-one-sotu-address/",
+  "estimated-creation-date": "2019-02-11T15:09:35",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-11T15:09:35"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

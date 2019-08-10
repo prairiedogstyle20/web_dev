@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.commondreams.org/news/2019/02/12/nearly-15000-counter-trump-event-el-paso-rally-reject-hatred-and-bigotry?cd-origin=rss",
+  "uri": "https://www.commondreams.org/news/2019/02/12/nearly-15000-counter-trump-event-el-paso-rally-reject-hatred-and-bigotry?cd-origin=rss",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:02:01"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

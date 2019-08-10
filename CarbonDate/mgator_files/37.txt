@@ -1,0 +1,127 @@
+26
+{
+  "original_uri": "https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-10-27T03:59:53Z",
+        "uri": "http://webarchive.loc.gov/all/20161027035953/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2016-11-03T16:03:26Z",
+        "uri": "http://webarchive.loc.gov/all/20161103160326/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-06-15T08:39:29Z",
+        "uri": "http://web.archive.org/web/20170615083929/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-08-19T14:44:52Z",
+        "uri": "http://web.archive.org/web/20170819144452/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-08-19T14:46:05Z",
+        "uri": "http://archive.md/20170819144605/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-17T12:20:36Z",
+        "uri": "http://wayback.archive-it.org/all/20171117122036/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-17T12:20:36Z",
+        "uri": "http://web.archive.org/web/20171117122036/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-18T11:57:11Z",
+        "uri": "http://wayback.archive-it.org/all/20171118115711/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-18T11:57:11Z",
+        "uri": "http://web.archive.org/web/20171118115711/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-18T16:45:34Z",
+        "uri": "http://wayback.archive-it.org/all/20171118164534/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-18T16:45:34Z",
+        "uri": "http://web.archive.org/web/20171118164534/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-18T21:02:27Z",
+        "uri": "http://wayback.archive-it.org/all/20171118210227/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-18T21:02:27Z",
+        "uri": "http://web.archive.org/web/20171118210227/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-23T05:54:31Z",
+        "uri": "http://wayback.archive-it.org/all/20171123055431/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-23T05:54:31Z",
+        "uri": "http://web.archive.org/web/20171123055431/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-24T16:19:51Z",
+        "uri": "http://wayback.archive-it.org/all/20171124161951/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-24T16:19:51Z",
+        "uri": "http://web.archive.org/web/20171124161951/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-30T07:44:18Z",
+        "uri": "http://wayback.archive-it.org/all/20171130074418/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-11-30T07:44:18Z",
+        "uri": "http://web.archive.org/web/20171130074418/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-12-01T21:42:22Z",
+        "uri": "http://wayback.archive-it.org/all/20171201214222/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2017-12-01T21:42:22Z",
+        "uri": "http://web.archive.org/web/20171201214222/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2018-01-07T08:35:40Z",
+        "uri": "http://wayback.archive-it.org/all/20180107083540/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2018-01-07T08:35:40Z",
+        "uri": "http://web.archive.org/web/20180107083540/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2018-02-08T00:44:06Z",
+        "uri": "http://web.archive.org/web/20180208004406/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2018-04-13T19:03:30Z",
+        "uri": "http://web.archive.org/web/20180413190330/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      },
+      {
+        "datetime": "2019-01-05T04:10:01Z",
+        "uri": "http://web.archive.org/web/20190105041001/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+      }
+    ],
+    "first": {
+      "datetime": "2016-10-27T03:59:53Z",
+      "uri": "http://webarchive.loc.gov/all/20161027035953/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+    },
+    "last": {
+      "datetime": "2019-01-05T04:10:01Z",
+      "uri": "http://web.archive.org/web/20190105041001/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be"
+}

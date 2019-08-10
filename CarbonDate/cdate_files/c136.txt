@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/http://www.rasmussenreports.com/public_content/politics/trump_administration/prez_track_feb14",
+  "uri": "http://www.rasmussenreports.com/public_content/politics/trump_administration/prez_track_feb14",
+  "estimated-creation-date": "2017-02-14T16:48:37",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:25:23"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170214165329/http://www.rasmussenreports.com/public_content/politics/trump_administration/prez_track_feb14",
+      "memento-datetime": "2017-02-14T16:48:37",
+      "memento-pubdate": "",
+      "earliest": "2017-02-14T16:48:37"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20170214180648/http://www.rasmussenreports.com/public_content/politics/trump_administration/prez_track_feb14",
+      "memento-datetime": "2017-02-14T18:06:48",
+      "memento-pubdate": "",
+      "earliest": "2017-02-14T18:06:48"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

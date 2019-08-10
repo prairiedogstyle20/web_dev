@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.usatoday.com/story/news/politics/onpolitics/2019/02/13/siena-presidential-ranking-survey/2857075002/",
+  "self": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/news/politics/onpolitics/2019/02/13/siena-presidential-ranking-survey/2857075002/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T20:04:31Z",
+        "uri": "http://web.archive.org/web/20190213200431/https://www.usatoday.com/story/news/politics/onpolitics/2019/02/13/siena-presidential-ranking-survey/2857075002/"
+      },
+      {
+        "datetime": "2019-02-14T08:23:37Z",
+        "uri": "http://web.archive.org/web/20190214082337/https://www.usatoday.com/story/news/politics/onpolitics/2019/02/13/siena-presidential-ranking-survey/2857075002/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T20:04:31Z",
+      "uri": "http://web.archive.org/web/20190213200431/https://www.usatoday.com/story/news/politics/onpolitics/2019/02/13/siena-presidential-ranking-survey/2857075002/"
+    },
+    "last": {
+      "datetime": "2019-02-14T08:23:37Z",
+      "uri": "http://web.archive.org/web/20190214082337/https://www.usatoday.com/story/news/politics/onpolitics/2019/02/13/siena-presidential-ranking-survey/2857075002/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.usatoday.com/story/news/politics/onpolitics/2019/02/13/siena-presidential-ranking-survey/2857075002/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/news/politics/onpolitics/2019/02/13/siena-presidential-ranking-survey/2857075002/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.usatoday.com/story/news/politics/onpolitics/2019/02/13/siena-presidential-ranking-survey/2857075002/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.usatoday.com/story/news/politics/onpolitics/2019/02/13/siena-presidential-ranking-survey/2857075002/"
+}

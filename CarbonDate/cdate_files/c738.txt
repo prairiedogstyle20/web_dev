@@ -1,0 +1,39 @@
+{
+  "self": "http://localhost:8888/cd/https://www.inforum.com/sports/969394-WATCH-Central-cruises-past-Grafton-Park-River",
+  "uri": "https://www.inforum.com/sports/969394-WATCH-Central-cruises-past-Grafton-Park-River",
+  "estimated-creation-date": "2019-02-13T05:05:51",
+  "earliest-sources": [
+    "last-modified",
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-13T05:05:51"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T05:05:51"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214131638/https://www.inforum.com/sports/969394-WATCH-Central-cruises-past-Grafton-Park-River",
+      "memento-datetime": "2019-02-13T05:05:51",
+      "memento-pubdate": "2019-02-13T05:05:51",
+      "earliest": "2019-02-13T05:05:51"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T05:09:49"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

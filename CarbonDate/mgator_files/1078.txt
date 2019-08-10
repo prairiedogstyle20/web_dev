@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.vanityfair.com/news/2019/02/ilhan-omar-israel-donald-trump",
+  "self": "http://localhost:1208/timemap/json/https://www.vanityfair.com/news/2019/02/ilhan-omar-israel-donald-trump",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T01:07:29Z",
+        "uri": "http://web.archive.org/web/20190214010729/https://www.vanityfair.com/news/2019/02/ilhan-omar-israel-donald-trump"
+      },
+      {
+        "datetime": "2019-02-14T12:36:14Z",
+        "uri": "http://web.archive.org/web/20190214123614/https://www.vanityfair.com/news/2019/02/ilhan-omar-israel-donald-trump"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T01:07:29Z",
+      "uri": "http://web.archive.org/web/20190214010729/https://www.vanityfair.com/news/2019/02/ilhan-omar-israel-donald-trump"
+    },
+    "last": {
+      "datetime": "2019-02-14T12:36:14Z",
+      "uri": "http://web.archive.org/web/20190214123614/https://www.vanityfair.com/news/2019/02/ilhan-omar-israel-donald-trump"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.vanityfair.com/news/2019/02/ilhan-omar-israel-donald-trump",
+    "json_format": "http://localhost:1208/timemap/json/https://www.vanityfair.com/news/2019/02/ilhan-omar-israel-donald-trump",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vanityfair.com/news/2019/02/ilhan-omar-israel-donald-trump"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.vanityfair.com/news/2019/02/ilhan-omar-israel-donald-trump"
+}

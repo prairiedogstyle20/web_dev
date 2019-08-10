@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://noticiasvenezuela.co/2019/02/13/trump-maduro-comete-un-terrible-error-al-bloquear-la-ayuda-humanitaria/",
+  "uri": "https://noticiasvenezuela.co/2019/02/13/trump-maduro-comete-un-terrible-error-al-bloquear-la-ayuda-humanitaria/",
+  "estimated-creation-date": "2019-02-13T18:31:23",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T18:31:23"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T18:31:37"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

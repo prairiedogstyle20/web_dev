@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://gellerreport.com/2019/02/trump-tells-omar-resign.html/",
+  "self": "http://localhost:1208/timemap/json/https://gellerreport.com/2019/02/trump-tells-omar-resign.html/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:23:49Z",
+        "uri": "http://web.archive.org/web/20190213122349/https://gellerreport.com/2019/02/trump-tells-omar-resign.html/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:23:49Z",
+      "uri": "http://web.archive.org/web/20190213122349/https://gellerreport.com/2019/02/trump-tells-omar-resign.html/"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:23:49Z",
+      "uri": "http://web.archive.org/web/20190213122349/https://gellerreport.com/2019/02/trump-tells-omar-resign.html/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://gellerreport.com/2019/02/trump-tells-omar-resign.html/",
+    "json_format": "http://localhost:1208/timemap/json/https://gellerreport.com/2019/02/trump-tells-omar-resign.html/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gellerreport.com/2019/02/trump-tells-omar-resign.html/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://gellerreport.com/2019/02/trump-tells-omar-resign.html/"
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.news18.com/news/politics/caste-sub-caste-twitter-congress-plan-2019-explores-new-poll-arenas-to-trump-rivals-2035109.html",
+  "uri": "https://www.news18.com/news/politics/caste-sub-caste-twitter-congress-plan-2019-explores-new-poll-arenas-to-trump-rivals-2035109.html",
+  "estimated-creation-date": "2019-02-13T08:57:20",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214131900/https://www.news18.com/news/politics/caste-sub-caste-twitter-congress-plan-2019-explores-new-poll-arenas-to-trump-rivals-2035109.html",
+      "memento-datetime": "2019-02-14T13:19:00",
+      "memento-pubdate": "",
+      "earliest": "2019-02-14T13:19:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T08:57:20"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

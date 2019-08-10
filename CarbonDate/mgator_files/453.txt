@@ -1,0 +1,67 @@
+11
+{
+  "original_uri": "https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments",
+  "self": "http://localhost:1208/timemap/json/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T02:40:39Z",
+        "uri": "http://web.archive.org/web/20190213024039/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+      },
+      {
+        "datetime": "2019-02-13T03:01:49Z",
+        "uri": "http://web.archive.org/web/20190213030149/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+      },
+      {
+        "datetime": "2019-02-13T03:13:05Z",
+        "uri": "http://web.archive.org/web/20190213031305/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+      },
+      {
+        "datetime": "2019-02-13T04:58:05Z",
+        "uri": "http://web.archive.org/web/20190213045805/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+      },
+      {
+        "datetime": "2019-02-13T07:21:07Z",
+        "uri": "http://web.archive.org/web/20190213072107/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+      },
+      {
+        "datetime": "2019-02-13T07:57:48Z",
+        "uri": "http://web.archive.org/web/20190213075748/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+      },
+      {
+        "datetime": "2019-02-13T07:57:49Z",
+        "uri": "http://web.archive.org/web/20190213075749/http://foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+      },
+      {
+        "datetime": "2019-02-13T08:25:32Z",
+        "uri": "http://web.archive.org/web/20190213082532/http://foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+      },
+      {
+        "datetime": "2019-02-14T03:04:07Z",
+        "uri": "http://web.archive.org/web/20190214030407/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+      },
+      {
+        "datetime": "2019-02-14T03:04:08Z",
+        "uri": "http://web.archive.org/web/20190214030408/http://foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+      },
+      {
+        "datetime": "2019-02-14T08:32:03Z",
+        "uri": "http://web.archive.org/web/20190214083203/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T02:40:39Z",
+      "uri": "http://web.archive.org/web/20190213024039/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+    },
+    "last": {
+      "datetime": "2019-02-14T08:32:03Z",
+      "uri": "http://web.archive.org/web/20190214083203/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments",
+    "json_format": "http://localhost:1208/timemap/json/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.foxnews.com/entertainment/republican-official-fights-cnn-panel-trying-to-equate-trump-omar-comments"
+}

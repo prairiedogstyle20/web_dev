@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.efe.com/efe/america/politica/trump-sobre-el-envio-de-5-000-tropas-a-colombia-para-venezuela-ya-veremos/20000035-3896823",
+  "self": "http://localhost:1208/timemap/json/https://www.efe.com/efe/america/politica/trump-sobre-el-envio-de-5-000-tropas-a-colombia-para-venezuela-ya-veremos/20000035-3896823",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T02:06:26Z",
+        "uri": "http://web.archive.org/web/20190214020626/https://www.efe.com/efe/america/politica/trump-sobre-el-envio-de-5-000-tropas-a-colombia-para-venezuela-ya-veremos/20000035-3896823"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T02:06:26Z",
+      "uri": "http://web.archive.org/web/20190214020626/https://www.efe.com/efe/america/politica/trump-sobre-el-envio-de-5-000-tropas-a-colombia-para-venezuela-ya-veremos/20000035-3896823"
+    },
+    "last": {
+      "datetime": "2019-02-14T02:06:26Z",
+      "uri": "http://web.archive.org/web/20190214020626/https://www.efe.com/efe/america/politica/trump-sobre-el-envio-de-5-000-tropas-a-colombia-para-venezuela-ya-veremos/20000035-3896823"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.efe.com/efe/america/politica/trump-sobre-el-envio-de-5-000-tropas-a-colombia-para-venezuela-ya-veremos/20000035-3896823",
+    "json_format": "http://localhost:1208/timemap/json/https://www.efe.com/efe/america/politica/trump-sobre-el-envio-de-5-000-tropas-a-colombia-para-venezuela-ya-veremos/20000035-3896823",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.efe.com/efe/america/politica/trump-sobre-el-envio-de-5-000-tropas-a-colombia-para-venezuela-ya-veremos/20000035-3896823"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.efe.com/efe/america/politica/trump-sobre-el-envio-de-5-000-tropas-a-colombia-para-venezuela-ya-veremos/20000035-3896823"
+}

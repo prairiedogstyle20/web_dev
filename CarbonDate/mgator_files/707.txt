@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "http://epphany.com/site/post/439?utm_source=m",
+  "self": "http://localhost:1208/timemap/json/http://epphany.com/site/post/439?utm_source=m",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-11-20T03:20:08Z",
+        "uri": "http://web.archive.org/web/20171120032008/http://epphany.com/site/post/439?utm_source=m"
+      },
+      {
+        "datetime": "2018-02-04T09:12:58Z",
+        "uri": "http://web.archive.org/web/20180204091258/http://epphany.com/site/post/439?utm_source=m"
+      }
+    ],
+    "first": {
+      "datetime": "2017-11-20T03:20:08Z",
+      "uri": "http://web.archive.org/web/20171120032008/http://epphany.com/site/post/439?utm_source=m"
+    },
+    "last": {
+      "datetime": "2018-02-04T09:12:58Z",
+      "uri": "http://web.archive.org/web/20180204091258/http://epphany.com/site/post/439?utm_source=m"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://epphany.com/site/post/439?utm_source=m",
+    "json_format": "http://localhost:1208/timemap/json/http://epphany.com/site/post/439?utm_source=m",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://epphany.com/site/post/439?utm_source=m"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://epphany.com/site/post/439?utm_source=m"
+}

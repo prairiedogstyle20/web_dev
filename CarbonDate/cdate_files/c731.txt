@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.salon.com/2019/02/12/the-best-way-to-resist-trump-beto-and-el-paso-show-us-how-its-done/",
+  "uri": "https://www.salon.com/2019/02/12/the-best-way-to-resist-trump-beto-and-el-paso-show-us-how-its-done/",
+  "estimated-creation-date": "2019-02-12T15:55:12",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T15:55:12"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212223021/https://www.salon.com/2019/02/12/the-best-way-to-resist-trump-beto-and-el-paso-show-us-how-its-done/",
+      "memento-datetime": "2019-02-12T22:30:21",
+      "memento-pubdate": "2019-02-12T15:55:12",
+      "earliest": "2019-02-12T15:55:12"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T22:00:25"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

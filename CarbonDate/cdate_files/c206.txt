@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/",
+  "uri": "https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/",
+  "estimated-creation-date": "2019-02-11T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-11T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212024752/https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/",
+      "memento-datetime": "2019-02-12T02:47:52",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T02:47:52"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-11T23:18:20"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

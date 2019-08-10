@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://slate.com/news-and-politics/2019/02/trump-border-wall-nogales-arizona-razor-wire.html",
+  "self": "http://localhost:1208/timemap/json/https://slate.com/news-and-politics/2019/02/trump-border-wall-nogales-arizona-razor-wire.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T01:32:33Z",
+        "uri": "http://web.archive.org/web/20190213013233/https://slate.com/news-and-politics/2019/02/trump-border-wall-nogales-arizona-razor-wire.html"
+      },
+      {
+        "datetime": "2019-02-13T03:13:11Z",
+        "uri": "http://web.archive.org/web/20190213031311/https://slate.com/news-and-politics/2019/02/trump-border-wall-nogales-arizona-razor-wire.html"
+      },
+      {
+        "datetime": "2019-02-13T07:25:41Z",
+        "uri": "http://web.archive.org/web/20190213072541/https://slate.com/news-and-politics/2019/02/trump-border-wall-nogales-arizona-razor-wire.html"
+      },
+      {
+        "datetime": "2019-02-14T04:41:59Z",
+        "uri": "http://web.archive.org/web/20190214044159/https://slate.com/news-and-politics/2019/02/trump-border-wall-nogales-arizona-razor-wire.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T01:32:33Z",
+      "uri": "http://web.archive.org/web/20190213013233/https://slate.com/news-and-politics/2019/02/trump-border-wall-nogales-arizona-razor-wire.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T04:41:59Z",
+      "uri": "http://web.archive.org/web/20190214044159/https://slate.com/news-and-politics/2019/02/trump-border-wall-nogales-arizona-razor-wire.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://slate.com/news-and-politics/2019/02/trump-border-wall-nogales-arizona-razor-wire.html",
+    "json_format": "http://localhost:1208/timemap/json/https://slate.com/news-and-politics/2019/02/trump-border-wall-nogales-arizona-razor-wire.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://slate.com/news-and-politics/2019/02/trump-border-wall-nogales-arizona-razor-wire.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://slate.com/news-and-politics/2019/02/trump-border-wall-nogales-arizona-razor-wire.html"
+}

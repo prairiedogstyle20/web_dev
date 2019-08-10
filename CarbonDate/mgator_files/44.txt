@@ -1,0 +1,667 @@
+161
+{
+  "original_uri": "http://projects.thestar.com/donald-trump-fact-check/",
+  "self": "http://localhost:1208/timemap/json/http://projects.thestar.com/donald-trump-fact-check/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-12-23T01:19:49Z",
+        "uri": "http://web.archive.org/web/20171223011949/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2017-12-23T07:24:57Z",
+        "uri": "http://web.archive.org/web/20171223072457/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2017-12-25T08:38:55Z",
+        "uri": "http://web.archive.org/web/20171225083855/http://projects.thestar.com:80/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2017-12-25T08:38:55Z",
+        "uri": "http://web.archive.org/web/20171225083855/http://projects.thestar.com:80/donald-trump-fact-check"
+      },
+      {
+        "datetime": "2018-01-03T02:25:57Z",
+        "uri": "http://web.archive.org/web/20180103022557/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-01-04T23:18:14Z",
+        "uri": "http://web.archive.org/web/20180104231814/http://projects.thestar.com:80/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-01-16T14:49:48Z",
+        "uri": "http://web.archive.org/web/20180116144948/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-01-19T11:07:47Z",
+        "uri": "http://web.archive.org/web/20180119110747/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-01-21T01:54:36Z",
+        "uri": "http://web.archive.org/web/20180121015436/http://projects.thestar.com:80/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-01-21T01:54:36Z",
+        "uri": "http://web.archive.org/web/20180121015436/http://projects.thestar.com:80/donald-trump-fact-check"
+      },
+      {
+        "datetime": "2018-01-24T22:06:28Z",
+        "uri": "http://wayback.archive-it.org/all/20180124220628/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-01-24T22:06:28Z",
+        "uri": "http://web.archive.org/web/20180124220628/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-01-24T23:27:14Z",
+        "uri": "http://wayback.archive-it.org/all/20180124232714/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-01-24T23:27:14Z",
+        "uri": "http://web.archive.org/web/20180124232714/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-01-25T01:29:35Z",
+        "uri": "http://wayback.archive-it.org/all/20180125012935/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-01-25T01:29:35Z",
+        "uri": "http://web.archive.org/web/20180125012935/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-01-25T01:40:02Z",
+        "uri": "http://wayback.archive-it.org/all/20180125014002/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-01-25T01:40:02Z",
+        "uri": "http://web.archive.org/web/20180125014002/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-02-03T14:21:59Z",
+        "uri": "http://web.archive.org/web/20180203142159/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-02-07T00:24:54Z",
+        "uri": "http://web.archive.org/web/20180207002454/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-02-21T10:21:48Z",
+        "uri": "http://web.archive.org/web/20180221102148/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-02-21T20:13:56Z",
+        "uri": "http://web.archive.org/web/20180221201356/http://projects.thestar.com:80/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-02-21T20:13:56Z",
+        "uri": "http://web.archive.org/web/20180221201356/http://projects.thestar.com:80/donald-trump-fact-check"
+      },
+      {
+        "datetime": "2018-03-18T01:33:37Z",
+        "uri": "http://wayback.archive-it.org/all/20180318013337/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-03-18T01:33:37Z",
+        "uri": "http://web.archive.org/web/20180318013337/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-03-30T04:49:49Z",
+        "uri": "http://web.archive.org/web/20180330044949/http://projects.thestar.com:80/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-03-30T04:49:49Z",
+        "uri": "http://web.archive.org/web/20180330044949/http://projects.thestar.com:80/donald-trump-fact-check"
+      },
+      {
+        "datetime": "2018-03-31T06:44:53Z",
+        "uri": "http://web.archive.org/web/20180331064453/http://projects.thestar.com:80/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-03-31T06:44:53Z",
+        "uri": "http://web.archive.org/web/20180331064453/http://projects.thestar.com:80/donald-trump-fact-check"
+      },
+      {
+        "datetime": "2018-04-27T11:37:51Z",
+        "uri": "http://wayback.archive-it.org/all/20180427113751/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-04-27T11:37:51Z",
+        "uri": "http://web.archive.org/web/20180427113751/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-05-03T01:52:09Z",
+        "uri": "http://web.archive.org/web/20180503015209/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-05-03T06:54:01Z",
+        "uri": "http://web.archive.org/web/20180503065401/http://projects.thestar.com:80/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-05-03T06:54:01Z",
+        "uri": "http://web.archive.org/web/20180503065401/http://projects.thestar.com:80/donald-trump-fact-check"
+      },
+      {
+        "datetime": "2018-05-27T16:19:09Z",
+        "uri": "http://web.archive.org/web/20180527161909/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-05-27T16:40:28Z",
+        "uri": "http://web.archive.org/web/20180527164028/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-05-27T18:21:31Z",
+        "uri": "http://web.archive.org/web/20180527182131/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-05-31T09:59:24Z",
+        "uri": "http://web.archive.org/web/20180531095924/http://projects.thestar.com:80/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-05-31T09:59:24Z",
+        "uri": "http://web.archive.org/web/20180531095924/http://projects.thestar.com:80/donald-trump-fact-check"
+      },
+      {
+        "datetime": "2018-06-08T16:08:34Z",
+        "uri": "http://web.archive.org/web/20180608160834/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-11T06:03:18Z",
+        "uri": "http://web.archive.org/web/20180611060318/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-11T19:46:32Z",
+        "uri": "http://wayback.archive-it.org/all/20180611194632/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-11T19:46:32Z",
+        "uri": "http://web.archive.org/web/20180611194632/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-11T22:18:25Z",
+        "uri": "http://web.archive.org/web/20180611221825/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-12T08:48:50Z",
+        "uri": "http://web.archive.org/web/20180612084850/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-13T19:14:02Z",
+        "uri": "http://web.archive.org/web/20180613191402/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-14T00:20:27Z",
+        "uri": "http://web.archive.org/web/20180614002027/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-14T03:45:32Z",
+        "uri": "http://web.archive.org/web/20180614034532/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-14T13:38:54Z",
+        "uri": "http://web.archive.org/web/20180614133854/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-15T03:21:12Z",
+        "uri": "http://web.archive.org/web/20180615032112/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-16T00:47:30Z",
+        "uri": "http://web.archive.org/web/20180616004730/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-17T00:53:41Z",
+        "uri": "http://web.archive.org/web/20180617005341/http://projects.thestar.com:80/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-17T00:53:41Z",
+        "uri": "http://web.archive.org/web/20180617005341/http://projects.thestar.com:80/donald-trump-fact-check"
+      },
+      {
+        "datetime": "2018-06-26T19:42:26Z",
+        "uri": "http://wayback.archive-it.org/all/20180626194226/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-26T19:42:26Z",
+        "uri": "http://web.archive.org/web/20180626194226/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-06-27T19:55:56Z",
+        "uri": "http://web.archive.org/web/20180627195556/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-07-03T06:05:36Z",
+        "uri": "http://web.archive.org/web/20180703060536/http://projects.thestar.com:80/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-07-03T06:05:36Z",
+        "uri": "http://web.archive.org/web/20180703060536/http://projects.thestar.com:80/donald-trump-fact-check"
+      },
+      {
+        "datetime": "2018-07-07T23:45:22Z",
+        "uri": "http://archive.md/20180707234522/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-07-16T02:30:04Z",
+        "uri": "http://web.archive.org/web/20180716023004/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-07-19T07:45:57Z",
+        "uri": "http://web.archive.org/web/20180719074557/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-07-22T19:23:58Z",
+        "uri": "http://web.archive.org/web/20180722192358/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-07-23T11:53:04Z",
+        "uri": "http://web.archive.org/web/20180723115304/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-07-24T21:53:59Z",
+        "uri": "http://web.archive.org/web/20180724215359/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-07-26T18:22:58Z",
+        "uri": "http://web.archive.org/web/20180726182258/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-07-31T04:08:24Z",
+        "uri": "http://wayback.archive-it.org/all/20180731040824/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-07-31T04:08:24Z",
+        "uri": "http://web.archive.org/web/20180731040824/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-01T05:02:52Z",
+        "uri": "http://wayback.archive-it.org/all/20180801050252/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-01T05:02:52Z",
+        "uri": "http://web.archive.org/web/20180801050252/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-02T08:26:38Z",
+        "uri": "http://wayback.archive-it.org/all/20180802082638/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-02T08:26:38Z",
+        "uri": "http://web.archive.org/web/20180802082638/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-03T05:05:00Z",
+        "uri": "http://wayback.archive-it.org/all/20180803050500/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-03T05:05:00Z",
+        "uri": "http://web.archive.org/web/20180803050500/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-03T18:18:29Z",
+        "uri": "http://web.archive.org/web/20180803181829/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-04T03:12:48Z",
+        "uri": "http://wayback.archive-it.org/all/20180804031248/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-04T03:12:48Z",
+        "uri": "http://web.archive.org/web/20180804031248/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-05T01:47:11Z",
+        "uri": "http://wayback.archive-it.org/all/20180805014711/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-05T01:47:11Z",
+        "uri": "http://web.archive.org/web/20180805014711/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-06T00:40:58Z",
+        "uri": "http://wayback.archive-it.org/all/20180806004058/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-06T00:40:58Z",
+        "uri": "http://web.archive.org/web/20180806004058/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-06T14:13:31Z",
+        "uri": "http://web.archive.org/web/20180806141331/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-07T02:29:31Z",
+        "uri": "http://wayback.archive-it.org/all/20180807022931/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-07T02:29:31Z",
+        "uri": "http://web.archive.org/web/20180807022931/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-08T13:03:35Z",
+        "uri": "http://wayback.archive-it.org/all/20180808130335/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-08T13:03:35Z",
+        "uri": "http://web.archive.org/web/20180808130335/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-09T11:36:55Z",
+        "uri": "http://wayback.archive-it.org/all/20180809113655/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-09T11:36:55Z",
+        "uri": "http://web.archive.org/web/20180809113655/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-10T03:19:41Z",
+        "uri": "http://wayback.archive-it.org/all/20180810031941/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-10T03:19:41Z",
+        "uri": "http://web.archive.org/web/20180810031941/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-08-15T21:32:45Z",
+        "uri": "http://web.archive.org/web/20180815213245/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-02T00:27:42Z",
+        "uri": "http://web.archive.org/web/20180902002742/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-03T02:23:49Z",
+        "uri": "http://web.archive.org/web/20180903022349/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-04T05:04:29Z",
+        "uri": "http://web.archive.org/web/20180904050429/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-05T06:49:27Z",
+        "uri": "http://web.archive.org/web/20180905064927/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-06T07:25:11Z",
+        "uri": "http://web.archive.org/web/20180906072511/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-07T08:47:52Z",
+        "uri": "http://web.archive.org/web/20180907084752/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-08T09:26:23Z",
+        "uri": "http://web.archive.org/web/20180908092623/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-09T10:31:33Z",
+        "uri": "http://web.archive.org/web/20180909103133/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-10T14:56:06Z",
+        "uri": "http://web.archive.org/web/20180910145606/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-11T17:32:01Z",
+        "uri": "http://web.archive.org/web/20180911173201/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-13T00:28:48Z",
+        "uri": "http://web.archive.org/web/20180913002848/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-14T00:55:02Z",
+        "uri": "http://web.archive.org/web/20180914005502/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-15T01:13:25Z",
+        "uri": "http://web.archive.org/web/20180915011325/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-15T21:06:35Z",
+        "uri": "http://web.archive.org/web/20180915210635/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-16T20:20:53Z",
+        "uri": "http://web.archive.org/web/20180916202053/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-17T17:10:15Z",
+        "uri": "http://web.archive.org/web/20180917171015/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-18T22:28:33Z",
+        "uri": "http://web.archive.org/web/20180918222833/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-20T03:47:42Z",
+        "uri": "http://web.archive.org/web/20180920034742/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-20T23:14:02Z",
+        "uri": "http://web.archive.org/web/20180920231402/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-21T23:23:27Z",
+        "uri": "http://web.archive.org/web/20180921232327/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-22T20:06:18Z",
+        "uri": "http://web.archive.org/web/20180922200618/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-23T23:57:17Z",
+        "uri": "http://web.archive.org/web/20180923235717/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-25T01:11:21Z",
+        "uri": "http://web.archive.org/web/20180925011121/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-25T22:53:13Z",
+        "uri": "http://web.archive.org/web/20180925225313/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-27T01:39:47Z",
+        "uri": "http://web.archive.org/web/20180927013947/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-28T06:57:03Z",
+        "uri": "http://web.archive.org/web/20180928065703/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-29T10:41:43Z",
+        "uri": "http://web.archive.org/web/20180929104143/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-09-30T12:41:21Z",
+        "uri": "http://web.archive.org/web/20180930124121/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-10-01T12:12:45Z",
+        "uri": "http://web.archive.org/web/20181001121245/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-10-02T13:34:24Z",
+        "uri": "http://web.archive.org/web/20181002133424/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-10-16T17:30:55Z",
+        "uri": "http://web.archive.org/web/20181016173055/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-10-21T11:56:57Z",
+        "uri": "http://web.archive.org/web/20181021115657/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-10-25T09:23:32Z",
+        "uri": "http://web.archive.org/web/20181025092332/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-10-27T21:59:49Z",
+        "uri": "http://web.archive.org/web/20181027215949/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-11-04T13:17:46Z",
+        "uri": "http://web.archive.org/web/20181104131746/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-11-21T23:39:55Z",
+        "uri": "http://wayback.archive-it.org/all/20181121233955/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-11-21T23:39:55Z",
+        "uri": "http://web.archive.org/web/20181121233955/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-11-27T13:02:25Z",
+        "uri": "http://web.archive.org/web/20181127130225/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-04T11:25:25Z",
+        "uri": "http://web.archive.org/web/20181204112525/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-05T07:17:14Z",
+        "uri": "http://web.archive.org/web/20181205071714/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-05T12:25:38Z",
+        "uri": "http://web.archive.org/web/20181205122538/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-06T13:05:58Z",
+        "uri": "http://web.archive.org/web/20181206130558/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-06T18:34:00Z",
+        "uri": "http://web.archive.org/web/20181206183400/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-07T13:50:35Z",
+        "uri": "http://web.archive.org/web/20181207135035/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-08T19:13:36Z",
+        "uri": "http://web.archive.org/web/20181208191336/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-09T19:50:42Z",
+        "uri": "http://web.archive.org/web/20181209195042/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-10T20:17:50Z",
+        "uri": "http://web.archive.org/web/20181210201750/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-11T21:18:23Z",
+        "uri": "http://web.archive.org/web/20181211211823/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-12T20:59:36Z",
+        "uri": "http://web.archive.org/web/20181212205936/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-13T21:42:30Z",
+        "uri": "http://web.archive.org/web/20181213214230/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-14T22:25:57Z",
+        "uri": "http://web.archive.org/web/20181214222557/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-15T23:10:10Z",
+        "uri": "http://web.archive.org/web/20181215231010/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-17T18:07:42Z",
+        "uri": "http://web.archive.org/web/20181217180742/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-21T07:34:22Z",
+        "uri": "http://wayback.archive-it.org/all/20181221073422/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-21T07:34:22Z",
+        "uri": "http://web.archive.org/web/20181221073422/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-21T22:51:50Z",
+        "uri": "http://web.archive.org/web/20181221225150/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-23T08:03:01Z",
+        "uri": "http://web.archive.org/web/20181223080301/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-23T08:04:06Z",
+        "uri": "http://archive.md/20181223080406/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-29T21:47:56Z",
+        "uri": "http://web.archive.org/web/20181229214756/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-30T05:39:33Z",
+        "uri": "http://wayback.archive-it.org/all/20181230053933/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-30T05:39:33Z",
+        "uri": "http://web.archive.org/web/20181230053933/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-30T11:50:25Z",
+        "uri": "http://web.archive.org/web/20181230115025/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2018-12-30T12:08:54Z",
+        "uri": "http://web.archive.org/web/20181230120854/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2019-01-01T04:18:17Z",
+        "uri": "http://web.archive.org/web/20190101041817/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2019-01-03T07:21:43Z",
+        "uri": "http://web.archive.org/web/20190103072143/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2019-01-03T13:24:11Z",
+        "uri": "http://web.archive.org/web/20190103132411/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2019-01-06T01:04:08Z",
+        "uri": "http://web.archive.org/web/20190106010408/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2019-01-06T12:28:39Z",
+        "uri": "http://web.archive.org/web/20190106122839/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2019-01-09T10:58:03Z",
+        "uri": "http://web.archive.org/web/20190109105803/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2019-02-10T10:11:15Z",
+        "uri": "http://web.archive.org/web/20190210101115/http://projects.thestar.com/donald-trump-fact-check/"
+      },
+      {
+        "datetime": "2019-02-11T00:04:27Z",
+        "uri": "http://web.archive.org/web/20190211000427/http://projects.thestar.com/donald-trump-fact-check/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-12-23T01:19:49Z",
+      "uri": "http://web.archive.org/web/20171223011949/http://projects.thestar.com/donald-trump-fact-check/"
+    },
+    "last": {
+      "datetime": "2019-02-11T00:04:27Z",
+      "uri": "http://web.archive.org/web/20190211000427/http://projects.thestar.com/donald-trump-fact-check/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://projects.thestar.com/donald-trump-fact-check/",
+    "json_format": "http://localhost:1208/timemap/json/http://projects.thestar.com/donald-trump-fact-check/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://projects.thestar.com/donald-trump-fact-check/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://projects.thestar.com/donald-trump-fact-check/"
+}

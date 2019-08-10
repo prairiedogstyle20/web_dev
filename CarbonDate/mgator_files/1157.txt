@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.militarytimes.com/off-duty/military-culture/2019/02/10/meal-ready-to-trump-mre-package-bears-striking-resemblance-to-president-and-kanye/",
+  "self": "http://localhost:1208/timemap/json/https://www.militarytimes.com/off-duty/military-culture/2019/02/10/meal-ready-to-trump-mre-package-bears-striking-resemblance-to-president-and-kanye/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-10T16:49:20Z",
+        "uri": "http://web.archive.org/web/20190210164920/https://www.militarytimes.com/off-duty/military-culture/2019/02/10/meal-ready-to-trump-mre-package-bears-striking-resemblance-to-president-and-kanye/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-10T16:49:20Z",
+      "uri": "http://web.archive.org/web/20190210164920/https://www.militarytimes.com/off-duty/military-culture/2019/02/10/meal-ready-to-trump-mre-package-bears-striking-resemblance-to-president-and-kanye/"
+    },
+    "last": {
+      "datetime": "2019-02-10T16:49:20Z",
+      "uri": "http://web.archive.org/web/20190210164920/https://www.militarytimes.com/off-duty/military-culture/2019/02/10/meal-ready-to-trump-mre-package-bears-striking-resemblance-to-president-and-kanye/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.militarytimes.com/off-duty/military-culture/2019/02/10/meal-ready-to-trump-mre-package-bears-striking-resemblance-to-president-and-kanye/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.militarytimes.com/off-duty/military-culture/2019/02/10/meal-ready-to-trump-mre-package-bears-striking-resemblance-to-president-and-kanye/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.militarytimes.com/off-duty/military-culture/2019/02/10/meal-ready-to-trump-mre-package-bears-striking-resemblance-to-president-and-kanye/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.militarytimes.com/off-duty/military-culture/2019/02/10/meal-ready-to-trump-mre-package-bears-striking-resemblance-to-president-and-kanye/"
+}

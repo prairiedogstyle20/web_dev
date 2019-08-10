@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html",
+  "uri": "https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html",
+  "estimated-creation-date": "2019-02-12T23:16:42",
+  "earliest-sources": [
+    "pubdate",
+    "wayback.archive-it.org",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:18:37"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T23:16:42"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190212232619/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html",
+      "memento-datetime": "2019-02-12T23:26:19",
+      "memento-pubdate": "2019-02-12T23:26:19",
+      "earliest": "2019-02-12T23:26:19"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190213012814/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html",
+      "memento-datetime": "2019-02-13T01:14:55",
+      "memento-pubdate": "2019-02-12T23:16:42",
+      "earliest": "2019-02-12T23:16:42"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213012814/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html",
+      "memento-datetime": "2019-02-13T01:14:55",
+      "memento-pubdate": "2019-02-12T23:16:42",
+      "earliest": "2019-02-12T23:16:42"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T23:27:14"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

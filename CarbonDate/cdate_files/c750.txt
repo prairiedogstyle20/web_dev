@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.bolsamania.com/noticias/politica/trump-estudia-posponer-la-fecha-limite-del-1-de-marzo-para-los-aranceles-chinos--3740448.html",
+  "uri": "https://www.bolsamania.com/noticias/politica/trump-estudia-posponer-la-fecha-limite-del-1-de-marzo-para-los-aranceles-chinos--3740448.html",
+  "estimated-creation-date": "2019-02-13T07:48:03",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T09:50:51"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:48:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

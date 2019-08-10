@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://aflam4you.tv/beinsports-hd-2-live_2.html",
+  "uri": "https://aflam4you.tv/beinsports-hd-2-live_2.html",
+  "estimated-creation-date": "2019-02-13T20:28:10",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:28:10"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

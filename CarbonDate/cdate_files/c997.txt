@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://haber.sol.org.tr/dunya/abd-baskanlarinin-konusmalari-incelendi-trumpa-en-cok-benzeyen-obama-256547",
+  "uri": "http://haber.sol.org.tr/dunya/abd-baskanlarinin-konusmalari-incelendi-trumpa-en-cok-benzeyen-obama-256547",
+  "estimated-creation-date": "2019-02-13T08:00:05",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T18:12:19"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T10:59:44"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213144429/http://haber.sol.org.tr/dunya/abd-baskanlarinin-konusmalari-incelendi-trumpa-en-cok-benzeyen-obama-256547",
+      "memento-datetime": "2019-02-13T14:10:48",
+      "memento-pubdate": "2019-02-13T10:59:44",
+      "earliest": "2019-02-13T10:59:44"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T08:00:05"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,367 @@
+86
+{
+  "original_uri": "https://www.rotosurance.com/",
+  "self": "http://localhost:1208/timemap/json/https://www.rotosurance.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-08-14T19:48:48Z",
+        "uri": "http://web.archive.org/web/20170814194848/http://www.rotosurance.com:80/"
+      },
+      {
+        "datetime": "2017-09-29T03:23:43Z",
+        "uri": "http://web.archive.org/web/20170929032343/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2017-09-29T05:43:54Z",
+        "uri": "http://web.archive.org/web/20170929054354/http://rotosurance.com/"
+      },
+      {
+        "datetime": "2017-09-30T13:03:19Z",
+        "uri": "http://web.archive.org/web/20170930130319/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2017-09-30T17:02:49Z",
+        "uri": "http://web.archive.org/web/20170930170249/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2017-10-30T18:57:27Z",
+        "uri": "http://web.archive.org/web/20171030185727/http://rotosurance.com/"
+      },
+      {
+        "datetime": "2017-11-19T22:07:16Z",
+        "uri": "http://web.archive.org/web/20171119220716/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-01-21T11:44:53Z",
+        "uri": "http://web.archive.org/web/20180121114453/http://rotosurance.com/"
+      },
+      {
+        "datetime": "2018-01-21T12:37:47Z",
+        "uri": "http://web.archive.org/web/20180121123747/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-01-23T12:23:09Z",
+        "uri": "http://web.archive.org/web/20180123122309/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-08T15:18:41Z",
+        "uri": "http://web.archive.org/web/20180308151841/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-10T12:11:53Z",
+        "uri": "http://web.archive.org/web/20180310121153/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-12T08:09:47Z",
+        "uri": "http://web.archive.org/web/20180312080947/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-17T13:34:48Z",
+        "uri": "http://web.archive.org/web/20180317133448/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-18T03:22:02Z",
+        "uri": "http://web.archive.org/web/20180318032202/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-19T11:48:28Z",
+        "uri": "http://web.archive.org/web/20180319114828/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-23T03:17:27Z",
+        "uri": "http://web.archive.org/web/20180323031727/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-03-26T14:49:33Z",
+        "uri": "http://web.archive.org/web/20180326144933/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-04-02T14:44:50Z",
+        "uri": "http://web.archive.org/web/20180402144450/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-04-09T14:32:06Z",
+        "uri": "http://web.archive.org/web/20180409143206/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-04-16T14:59:24Z",
+        "uri": "http://web.archive.org/web/20180416145924/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-04-23T14:54:30Z",
+        "uri": "http://web.archive.org/web/20180423145430/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-04-30T17:21:44Z",
+        "uri": "http://web.archive.org/web/20180430172144/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-05-07T13:18:28Z",
+        "uri": "http://web.archive.org/web/20180507131828/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-05-14T19:48:09Z",
+        "uri": "http://web.archive.org/web/20180514194809/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-05-22T03:35:17Z",
+        "uri": "http://web.archive.org/web/20180522033517/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-05-28T21:30:41Z",
+        "uri": "http://web.archive.org/web/20180528213041/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-06-04T17:12:45Z",
+        "uri": "http://web.archive.org/web/20180604171245/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-06-18T11:42:30Z",
+        "uri": "http://web.archive.org/web/20180618114230/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-06-25T12:06:33Z",
+        "uri": "http://web.archive.org/web/20180625120633/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-07-02T13:56:06Z",
+        "uri": "http://web.archive.org/web/20180702135606/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-07-09T14:40:58Z",
+        "uri": "http://web.archive.org/web/20180709144058/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-07-20T19:30:46Z",
+        "uri": "http://web.archive.org/web/20180720193046/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-07-23T11:46:01Z",
+        "uri": "http://web.archive.org/web/20180723114601/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-07-30T14:40:35Z",
+        "uri": "http://web.archive.org/web/20180730144035/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-08-06T14:13:37Z",
+        "uri": "http://web.archive.org/web/20180806141337/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-08-06T22:33:20Z",
+        "uri": "http://web.archive.org/web/20180806223320/http://rotosurance.com/"
+      },
+      {
+        "datetime": "2018-08-13T14:17:56Z",
+        "uri": "http://web.archive.org/web/20180813141756/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-08-20T02:05:01Z",
+        "uri": "http://web.archive.org/web/20180820020501/http://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-08-20T16:11:12Z",
+        "uri": "http://web.archive.org/web/20180820161112/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-08-25T01:13:42Z",
+        "uri": "http://web.archive.org/web/20180825011342/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-08-27T14:49:09Z",
+        "uri": "http://web.archive.org/web/20180827144909/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-09-03T15:22:23Z",
+        "uri": "http://web.archive.org/web/20180903152223/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-09-10T14:16:51Z",
+        "uri": "http://web.archive.org/web/20180910141651/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-09-17T12:26:50Z",
+        "uri": "http://web.archive.org/web/20180917122650/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-09-25T07:31:28Z",
+        "uri": "http://web.archive.org/web/20180925073128/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-10-02T11:41:17Z",
+        "uri": "http://web.archive.org/web/20181002114117/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-10-08T12:47:47Z",
+        "uri": "http://web.archive.org/web/20181008124747/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-10-15T13:04:01Z",
+        "uri": "http://web.archive.org/web/20181015130401/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-10-22T12:25:58Z",
+        "uri": "http://web.archive.org/web/20181022122558/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-10-29T13:11:46Z",
+        "uri": "http://web.archive.org/web/20181029131146/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-11-05T18:10:35Z",
+        "uri": "http://web.archive.org/web/20181105181035/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-11-08T22:19:06Z",
+        "uri": "http://web.archive.org/web/20181108221906/http://rotosurance.com/"
+      },
+      {
+        "datetime": "2018-11-12T14:41:46Z",
+        "uri": "http://web.archive.org/web/20181112144146/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-11-19T10:16:22Z",
+        "uri": "http://web.archive.org/web/20181119101622/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-11-26T12:24:14Z",
+        "uri": "http://web.archive.org/web/20181126122414/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-11-28T00:09:50Z",
+        "uri": "http://web.archive.org/web/20181128000950/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-12-03T12:56:16Z",
+        "uri": "http://web.archive.org/web/20181203125616/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-12-10T13:29:29Z",
+        "uri": "http://web.archive.org/web/20181210132929/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-12-14T13:38:28Z",
+        "uri": "http://web.archive.org/web/20181214133828/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-12-17T09:56:18Z",
+        "uri": "http://web.archive.org/web/20181217095618/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-12-25T20:47:41Z",
+        "uri": "http://web.archive.org/web/20181225204741/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2018-12-31T11:34:20Z",
+        "uri": "http://web.archive.org/web/20181231113420/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2019-01-05T06:45:55Z",
+        "uri": "http://web.archive.org/web/20190105064555/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2019-01-07T10:27:54Z",
+        "uri": "http://web.archive.org/web/20190107102754/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2019-01-14T12:39:07Z",
+        "uri": "http://web.archive.org/web/20190114123907/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2019-01-22T16:08:07Z",
+        "uri": "http://web.archive.org/web/20190122160807/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2019-01-28T12:18:51Z",
+        "uri": "http://web.archive.org/web/20190128121851/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2019-02-02T01:26:57Z",
+        "uri": "http://web.archive.org/web/20190202012657/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2019-02-04T10:29:08Z",
+        "uri": "http://web.archive.org/web/20190204102908/https://www.rotosurance.com/"
+      },
+      {
+        "datetime": "2019-02-11T13:11:16Z",
+        "uri": "http://web.archive.org/web/20190211131116/https://www.rotosurance.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-08-14T19:48:48Z",
+      "uri": "http://web.archive.org/web/20170814194848/http://www.rotosurance.com:80/"
+    },
+    "last": {
+      "datetime": "2019-02-11T13:11:16Z",
+      "uri": "http://web.archive.org/web/20190211131116/https://www.rotosurance.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.rotosurance.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.rotosurance.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.rotosurance.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.rotosurance.com/"
+}

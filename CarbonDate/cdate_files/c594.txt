@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.stltoday.com/sports/baseball/professional/cards-gregerson-expects-to-pitch-this-spring/article_6edabfc4-804a-56a2-af4e-e544d28d82e3.html",
+  "uri": "https://www.stltoday.com/sports/baseball/professional/cards-gregerson-expects-to-pitch-this-spring/article_6edabfc4-804a-56a2-af4e-e544d28d82e3.html",
+  "estimated-creation-date": "2019-02-13T05:11:03",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-13T23:11:03"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T12:15:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T05:11:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

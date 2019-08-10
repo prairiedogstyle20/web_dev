@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://brobible.com/sports/article/chris-bosh-kevin-garnett-story-trash-talking-momma-boy-get-on-head/",
+  "self": "http://localhost:1208/timemap/json/https://brobible.com/sports/article/chris-bosh-kevin-garnett-story-trash-talking-momma-boy-get-on-head/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T05:49:28Z",
+        "uri": "http://web.archive.org/web/20190213054928/https://brobible.com/sports/article/chris-bosh-kevin-garnett-story-trash-talking-momma-boy-get-on-head/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T05:49:28Z",
+      "uri": "http://web.archive.org/web/20190213054928/https://brobible.com/sports/article/chris-bosh-kevin-garnett-story-trash-talking-momma-boy-get-on-head/"
+    },
+    "last": {
+      "datetime": "2019-02-13T05:49:28Z",
+      "uri": "http://web.archive.org/web/20190213054928/https://brobible.com/sports/article/chris-bosh-kevin-garnett-story-trash-talking-momma-boy-get-on-head/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://brobible.com/sports/article/chris-bosh-kevin-garnett-story-trash-talking-momma-boy-get-on-head/",
+    "json_format": "http://localhost:1208/timemap/json/https://brobible.com/sports/article/chris-bosh-kevin-garnett-story-trash-talking-momma-boy-get-on-head/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://brobible.com/sports/article/chris-bosh-kevin-garnett-story-trash-talking-momma-boy-get-on-head/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://brobible.com/sports/article/chris-bosh-kevin-garnett-story-trash-talking-momma-boy-get-on-head/"
+}

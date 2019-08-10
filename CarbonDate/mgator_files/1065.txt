@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.newsbusters.org/blogs/nb/james-d-agresti/2019/02/12/washpost-repeatedly-botches-fact-check-trumps-state-union",
+  "self": "http://localhost:1208/timemap/json/https://www.newsbusters.org/blogs/nb/james-d-agresti/2019/02/12/washpost-repeatedly-botches-fact-check-trumps-state-union",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T05:11:00Z",
+        "uri": "http://web.archive.org/web/20190213051100/https://www.newsbusters.org/blogs/nb/james-d-agresti/2019/02/12/washpost-repeatedly-botches-fact-check-trumps-state-union"
+      },
+      {
+        "datetime": "2019-02-13T12:36:38Z",
+        "uri": "http://web.archive.org/web/20190213123638/https://www.newsbusters.org/blogs/nb/james-d-agresti/2019/02/12/washpost-repeatedly-botches-fact-check-trumps-state-union"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T05:11:00Z",
+      "uri": "http://web.archive.org/web/20190213051100/https://www.newsbusters.org/blogs/nb/james-d-agresti/2019/02/12/washpost-repeatedly-botches-fact-check-trumps-state-union"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:36:38Z",
+      "uri": "http://web.archive.org/web/20190213123638/https://www.newsbusters.org/blogs/nb/james-d-agresti/2019/02/12/washpost-repeatedly-botches-fact-check-trumps-state-union"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.newsbusters.org/blogs/nb/james-d-agresti/2019/02/12/washpost-repeatedly-botches-fact-check-trumps-state-union",
+    "json_format": "http://localhost:1208/timemap/json/https://www.newsbusters.org/blogs/nb/james-d-agresti/2019/02/12/washpost-repeatedly-botches-fact-check-trumps-state-union",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.newsbusters.org/blogs/nb/james-d-agresti/2019/02/12/washpost-repeatedly-botches-fact-check-trumps-state-union"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.newsbusters.org/blogs/nb/james-d-agresti/2019/02/12/washpost-repeatedly-botches-fact-check-trumps-state-union"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://news.biglobe.ne.jp/sports/0213/sph_190213_9074595223.html",
+  "uri": "https://news.biglobe.ne.jp/sports/0213/sph_190213_9074595223.html",
+  "estimated-creation-date": "2019-02-13T05:21:43",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T05:21:43"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

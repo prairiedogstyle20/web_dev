@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://canadafreepress.com/article/pope-sings-lullabies-president-trump-confronts-abortion-advocates",
+  "self": "http://localhost:1208/timemap/json/https://canadafreepress.com/article/pope-sings-lullabies-president-trump-confronts-abortion-advocates",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-06T23:32:10Z",
+        "uri": "http://web.archive.org/web/20190206233210/https://canadafreepress.com/article/pope-sings-lullabies-president-trump-confronts-abortion-advocates"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-06T23:32:10Z",
+      "uri": "http://web.archive.org/web/20190206233210/https://canadafreepress.com/article/pope-sings-lullabies-president-trump-confronts-abortion-advocates"
+    },
+    "last": {
+      "datetime": "2019-02-06T23:32:10Z",
+      "uri": "http://web.archive.org/web/20190206233210/https://canadafreepress.com/article/pope-sings-lullabies-president-trump-confronts-abortion-advocates"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://canadafreepress.com/article/pope-sings-lullabies-president-trump-confronts-abortion-advocates",
+    "json_format": "http://localhost:1208/timemap/json/https://canadafreepress.com/article/pope-sings-lullabies-president-trump-confronts-abortion-advocates",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://canadafreepress.com/article/pope-sings-lullabies-president-trump-confronts-abortion-advocates"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://canadafreepress.com/article/pope-sings-lullabies-president-trump-confronts-abortion-advocates"
+}

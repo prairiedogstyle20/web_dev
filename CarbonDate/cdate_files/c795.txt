@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://trendnewsworld.com/2019/02/13/b-r-live-watch-live-sports-online-14/",
+  "uri": "https://trendnewsworld.com/2019/02/13/b-r-live-watch-live-sports-online-14/",
+  "estimated-creation-date": "2019-02-13T20:27:36",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T20:27:36"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:28:30"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

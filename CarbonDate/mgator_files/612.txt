@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://slate.com/news-and-politics/2019/02/donald-trump-golf-simulator-white-house.html",
+  "self": "http://localhost:1208/timemap/json/https://slate.com/news-and-politics/2019/02/donald-trump-golf-simulator-white-house.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T01:42:45Z",
+        "uri": "http://web.archive.org/web/20190214014245/https://slate.com/news-and-politics/2019/02/donald-trump-golf-simulator-white-house.html"
+      },
+      {
+        "datetime": "2019-02-14T10:52:10Z",
+        "uri": "http://web.archive.org/web/20190214105210/https://slate.com/news-and-politics/2019/02/donald-trump-golf-simulator-white-house.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T01:42:45Z",
+      "uri": "http://web.archive.org/web/20190214014245/https://slate.com/news-and-politics/2019/02/donald-trump-golf-simulator-white-house.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T10:52:10Z",
+      "uri": "http://web.archive.org/web/20190214105210/https://slate.com/news-and-politics/2019/02/donald-trump-golf-simulator-white-house.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://slate.com/news-and-politics/2019/02/donald-trump-golf-simulator-white-house.html",
+    "json_format": "http://localhost:1208/timemap/json/https://slate.com/news-and-politics/2019/02/donald-trump-golf-simulator-white-house.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://slate.com/news-and-politics/2019/02/donald-trump-golf-simulator-white-house.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://slate.com/news-and-politics/2019/02/donald-trump-golf-simulator-white-house.html"
+}

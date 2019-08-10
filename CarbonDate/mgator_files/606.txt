@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.infowars.com/trump-suggests-increasing-legal-immigration-at-expense-of-u-s-workers/",
+  "self": "http://localhost:1208/timemap/json/https://www.infowars.com/trump-suggests-increasing-legal-immigration-at-expense-of-u-s-workers/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T16:55:23Z",
+        "uri": "http://web.archive.org/web/20190213165523/https://www.infowars.com/trump-suggests-increasing-legal-immigration-at-expense-of-u-s-workers/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T16:55:23Z",
+      "uri": "http://web.archive.org/web/20190213165523/https://www.infowars.com/trump-suggests-increasing-legal-immigration-at-expense-of-u-s-workers/"
+    },
+    "last": {
+      "datetime": "2019-02-13T16:55:23Z",
+      "uri": "http://web.archive.org/web/20190213165523/https://www.infowars.com/trump-suggests-increasing-legal-immigration-at-expense-of-u-s-workers/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.infowars.com/trump-suggests-increasing-legal-immigration-at-expense-of-u-s-workers/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.infowars.com/trump-suggests-increasing-legal-immigration-at-expense-of-u-s-workers/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.infowars.com/trump-suggests-increasing-legal-immigration-at-expense-of-u-s-workers/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.infowars.com/trump-suggests-increasing-legal-immigration-at-expense-of-u-s-workers/"
+}

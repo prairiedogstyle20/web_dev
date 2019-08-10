@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/2019/02/12/world/middleeast/yalda-moayeri-photo-trump-.html?partner=rss&emc=rss",
+  "uri": "https://www.nytimes.com/2019/02/12/world/middleeast/yalda-moayeri-photo-trump-.html?partner=rss&emc=rss",
+  "estimated-creation-date": "2019-02-12T23:00:10",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:00:18"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T23:00:10"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214142123/https://www.nytimes.com/2019/02/12/world/middleeast/yalda-moayeri-photo-trump-.html?partner=rss&emc=rss",
+      "memento-datetime": "2019-02-14T14:00:46",
+      "memento-pubdate": "2019-02-12T23:00:10",
+      "earliest": "2019-02-12T23:00:10"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T23:28:12"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

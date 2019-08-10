@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://trofire.com/2019/02/13/photographer-shows-trump-without-fake-tan-and-fake-hair-and-its-hilarious/",
+  "self": "http://localhost:1208/timemap/json/https://trofire.com/2019/02/13/photographer-shows-trump-without-fake-tan-and-fake-hair-and-its-hilarious/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T12:32:28Z",
+        "uri": "http://web.archive.org/web/20190214123228/https://trofire.com/2019/02/13/photographer-shows-trump-without-fake-tan-and-fake-hair-and-its-hilarious/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T12:32:28Z",
+      "uri": "http://web.archive.org/web/20190214123228/https://trofire.com/2019/02/13/photographer-shows-trump-without-fake-tan-and-fake-hair-and-its-hilarious/"
+    },
+    "last": {
+      "datetime": "2019-02-14T12:32:28Z",
+      "uri": "http://web.archive.org/web/20190214123228/https://trofire.com/2019/02/13/photographer-shows-trump-without-fake-tan-and-fake-hair-and-its-hilarious/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://trofire.com/2019/02/13/photographer-shows-trump-without-fake-tan-and-fake-hair-and-its-hilarious/",
+    "json_format": "http://localhost:1208/timemap/json/https://trofire.com/2019/02/13/photographer-shows-trump-without-fake-tan-and-fake-hair-and-its-hilarious/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://trofire.com/2019/02/13/photographer-shows-trump-without-fake-tan-and-fake-hair-and-its-hilarious/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://trofire.com/2019/02/13/photographer-shows-trump-without-fake-tan-and-fake-hair-and-its-hilarious/"
+}

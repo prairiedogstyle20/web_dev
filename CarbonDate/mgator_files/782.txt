@@ -1,0 +1,59 @@
+9
+{
+  "original_uri": "https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas",
+  "self": "http://localhost:1208/timemap/json/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T04:45:42Z",
+        "uri": "http://web.archive.org/web/20190213044542/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+      },
+      {
+        "datetime": "2019-02-13T13:09:21Z",
+        "uri": "http://web.archive.org/web/20190213130921/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+      },
+      {
+        "datetime": "2019-02-13T13:09:21Z",
+        "uri": "http://web.archive.org/web/20190213130921/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+      },
+      {
+        "datetime": "2019-02-13T16:37:41Z",
+        "uri": "http://archive.md/20190213163741/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+      },
+      {
+        "datetime": "2019-02-13T20:55:40Z",
+        "uri": "http://web.archive.org/web/20190213205540/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+      },
+      {
+        "datetime": "2019-02-13T23:29:16Z",
+        "uri": "http://web.archive.org/web/20190213232916/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+      },
+      {
+        "datetime": "2019-02-13T23:29:16Z",
+        "uri": "http://web.archive.org/web/20190213232916/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+      },
+      {
+        "datetime": "2019-02-14T01:13:00Z",
+        "uri": "http://web.archive.org/web/20190214011300/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+      },
+      {
+        "datetime": "2019-02-14T02:07:26Z",
+        "uri": "http://archive.md/20190214020726/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T04:45:42Z",
+      "uri": "http://web.archive.org/web/20190213044542/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+    },
+    "last": {
+      "datetime": "2019-02-14T02:07:26Z",
+      "uri": "http://archive.md/20190214020726/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas",
+    "json_format": "http://localhost:1208/timemap/json/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.washingtonexaminer.com/opinion/its-true-trump-really-did-start-building-more-wall-in-texas"
+}

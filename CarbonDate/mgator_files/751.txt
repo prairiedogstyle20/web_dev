@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://apnews.com/3b11a45554514225ad70aad6d5bad462",
+  "self": "http://localhost:1208/timemap/json/https://apnews.com/3b11a45554514225ad70aad6d5bad462",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T17:10:15Z",
+        "uri": "http://web.archive.org/web/20190212171015/https://apnews.com/3b11a45554514225ad70aad6d5bad462"
+      },
+      {
+        "datetime": "2019-02-13T01:20:33Z",
+        "uri": "http://web.archive.org/web/20190213012033/https://apnews.com/3b11a45554514225ad70aad6d5bad462"
+      },
+      {
+        "datetime": "2019-02-13T04:42:51Z",
+        "uri": "http://web.archive.org/web/20190213044251/https://apnews.com/3b11a45554514225ad70aad6d5bad462"
+      },
+      {
+        "datetime": "2019-02-13T13:59:29Z",
+        "uri": "http://web.archive.org/web/20190213135929/https://apnews.com/3b11a45554514225ad70aad6d5bad462"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T17:10:15Z",
+      "uri": "http://web.archive.org/web/20190212171015/https://apnews.com/3b11a45554514225ad70aad6d5bad462"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:59:29Z",
+      "uri": "http://web.archive.org/web/20190213135929/https://apnews.com/3b11a45554514225ad70aad6d5bad462"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://apnews.com/3b11a45554514225ad70aad6d5bad462",
+    "json_format": "http://localhost:1208/timemap/json/https://apnews.com/3b11a45554514225ad70aad6d5bad462",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://apnews.com/3b11a45554514225ad70aad6d5bad462"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://apnews.com/3b11a45554514225ad70aad6d5bad462"
+}

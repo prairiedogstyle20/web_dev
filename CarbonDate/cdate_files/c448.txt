@@ -1,0 +1,56 @@
+{
+  "self": "http://localhost:8888/cd/https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure/",
+  "uri": "https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure/",
+  "estimated-creation-date": "2017-12-19T12:43:06",
+  "earliest-sources": [
+    "wayback.archive-it.org",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20171219124306/https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure/",
+      "memento-datetime": "2017-12-19T12:43:06",
+      "memento-pubdate": "",
+      "earliest": "2017-12-19T12:43:06"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20171219124306/https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure/",
+      "memento-datetime": "2017-12-19T12:43:06",
+      "memento-pubdate": "",
+      "earliest": "2017-12-19T12:43:06"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20180807200750/https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure/",
+      "memento-datetime": "2018-08-07T20:07:50",
+      "memento-pubdate": "2018-08-07T20:07:50",
+      "earliest": "2018-08-07T20:07:50"
+    },
+    "perma-archives.org": {
+      "uri-m": "https://perma-archives.org/warc/20180922161233/https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure/",
+      "memento-datetime": "2018-09-22T16:12:33",
+      "memento-pubdate": "",
+      "earliest": "2018-09-22T16:12:33"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T03:37:08"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

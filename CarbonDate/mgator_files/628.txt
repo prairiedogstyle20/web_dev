@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://niezalezna.pl/258309-trump-niczym-stalin-niesmaczny-zart-agnieszki-holland-w-berlinie",
+  "self": "http://localhost:1208/timemap/json/https://niezalezna.pl/258309-trump-niczym-stalin-niesmaczny-zart-agnieszki-holland-w-berlinie",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-11T04:05:21Z",
+        "uri": "http://web.archive.org/web/20190211040521/https://niezalezna.pl/258309-trump-niczym-stalin-niesmaczny-zart-agnieszki-holland-w-berlinie"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-11T04:05:21Z",
+      "uri": "http://web.archive.org/web/20190211040521/https://niezalezna.pl/258309-trump-niczym-stalin-niesmaczny-zart-agnieszki-holland-w-berlinie"
+    },
+    "last": {
+      "datetime": "2019-02-11T04:05:21Z",
+      "uri": "http://web.archive.org/web/20190211040521/https://niezalezna.pl/258309-trump-niczym-stalin-niesmaczny-zart-agnieszki-holland-w-berlinie"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://niezalezna.pl/258309-trump-niczym-stalin-niesmaczny-zart-agnieszki-holland-w-berlinie",
+    "json_format": "http://localhost:1208/timemap/json/https://niezalezna.pl/258309-trump-niczym-stalin-niesmaczny-zart-agnieszki-holland-w-berlinie",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://niezalezna.pl/258309-trump-niczym-stalin-niesmaczny-zart-agnieszki-holland-w-berlinie"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://niezalezna.pl/258309-trump-niczym-stalin-niesmaczny-zart-agnieszki-holland-w-berlinie"
+}

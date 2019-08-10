@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/homenews/media/429569-trump-rips-fact-checkers-some-of-the-most-dishonest-people-in-media",
+  "uri": "https://thehill.com/homenews/media/429569-trump-rips-fact-checkers-some-of-the-most-dishonest-people-in-media",
+  "estimated-creation-date": "2019-02-12T09:46:37",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T09:46:37"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212190037/https://thehill.com/homenews/media/429569-trump-rips-fact-checkers-some-of-the-most-dishonest-people-in-media",
+      "memento-datetime": "2019-02-12T19:00:37",
+      "memento-pubdate": "2019-02-12T09:46:37",
+      "earliest": "2019-02-12T09:46:37"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T14:49:04"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

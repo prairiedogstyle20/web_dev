@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://patriotnewsdaily.com/tds-cartoonist-sneaks-profane-anti-trump-message-into-newspapers/",
+  "self": "http://localhost:1208/timemap/json/http://patriotnewsdaily.com/tds-cartoonist-sneaks-profane-anti-trump-message-into-newspapers/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T17:28:30Z",
+        "uri": "http://web.archive.org/web/20190212172830/http://patriotnewsdaily.com/tds-cartoonist-sneaks-profane-anti-trump-message-into-newspapers/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T17:28:30Z",
+      "uri": "http://web.archive.org/web/20190212172830/http://patriotnewsdaily.com/tds-cartoonist-sneaks-profane-anti-trump-message-into-newspapers/"
+    },
+    "last": {
+      "datetime": "2019-02-12T17:28:30Z",
+      "uri": "http://web.archive.org/web/20190212172830/http://patriotnewsdaily.com/tds-cartoonist-sneaks-profane-anti-trump-message-into-newspapers/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://patriotnewsdaily.com/tds-cartoonist-sneaks-profane-anti-trump-message-into-newspapers/",
+    "json_format": "http://localhost:1208/timemap/json/http://patriotnewsdaily.com/tds-cartoonist-sneaks-profane-anti-trump-message-into-newspapers/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://patriotnewsdaily.com/tds-cartoonist-sneaks-profane-anti-trump-message-into-newspapers/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://patriotnewsdaily.com/tds-cartoonist-sneaks-profane-anti-trump-message-into-newspapers/"
+}

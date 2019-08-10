@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "http://www.msnbc.com/rachel-maddow-show/trump-intervenes-support-coal-plant-owned-major-donor",
+  "self": "http://localhost:1208/timemap/json/http://www.msnbc.com/rachel-maddow-show/trump-intervenes-support-coal-plant-owned-major-donor",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T22:14:47Z",
+        "uri": "http://web.archive.org/web/20190212221447/http://www.msnbc.com/rachel-maddow-show/trump-intervenes-support-coal-plant-owned-major-donor"
+      },
+      {
+        "datetime": "2019-02-13T07:41:21Z",
+        "uri": "http://web.archive.org/web/20190213074121/http://www.msnbc.com/rachel-maddow-show/trump-intervenes-support-coal-plant-owned-major-donor"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T22:14:47Z",
+      "uri": "http://web.archive.org/web/20190212221447/http://www.msnbc.com/rachel-maddow-show/trump-intervenes-support-coal-plant-owned-major-donor"
+    },
+    "last": {
+      "datetime": "2019-02-13T07:41:21Z",
+      "uri": "http://web.archive.org/web/20190213074121/http://www.msnbc.com/rachel-maddow-show/trump-intervenes-support-coal-plant-owned-major-donor"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.msnbc.com/rachel-maddow-show/trump-intervenes-support-coal-plant-owned-major-donor",
+    "json_format": "http://localhost:1208/timemap/json/http://www.msnbc.com/rachel-maddow-show/trump-intervenes-support-coal-plant-owned-major-donor",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.msnbc.com/rachel-maddow-show/trump-intervenes-support-coal-plant-owned-major-donor"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.msnbc.com/rachel-maddow-show/trump-intervenes-support-coal-plant-owned-major-donor"
+}

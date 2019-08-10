@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thestar.com/news/world/analysis/2019/02/13/trump-made-16-false-claims-in-the-state-of-the-union.html?utm_source=Facebook&utm_medium=SocialMedia&utm_campaign=300pm&utm_campaign_id=World_News&utm_content=TrumpMade16FalseClaims",
+  "uri": "https://www.thestar.com/news/world/analysis/2019/02/13/trump-made-16-false-claims-in-the-state-of-the-union.html?utm_source=Facebook&utm_medium=SocialMedia&utm_campaign=300pm&utm_campaign_id=World_News&utm_content=TrumpMade16FalseClaims",
+  "estimated-creation-date": "2019-02-13T20:27:12",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:27:12"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

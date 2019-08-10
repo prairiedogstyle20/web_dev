@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.ecfr.eu/article/commentary_russian_mercenaries_on_the_march_next_stop_venezuela",
+  "uri": "https://www.ecfr.eu/article/commentary_russian_mercenaries_on_the_march_next_stop_venezuela",
+  "estimated-creation-date": "2019-02-01T18:58:54",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190201185854/https://www.ecfr.eu/article/commentary_russian_mercenaries_on_the_march_next_stop_venezuela",
+      "memento-datetime": "2019-02-01T18:58:54",
+      "memento-pubdate": "",
+      "earliest": "2019-02-01T18:58:54"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T09:18:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

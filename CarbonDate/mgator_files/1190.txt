@@ -1,0 +1,55 @@
+8
+{
+  "original_uri": "https://www.youtube.com/watch?v=pdXkOxgcvpc",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=pdXkOxgcvpc",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T08:41:51Z",
+        "uri": "http://web.archive.org/web/20190213084151/http://www.youtube.com/watch?v=pdXkOxgcvpc"
+      },
+      {
+        "datetime": "2019-02-13T08:42:25Z",
+        "uri": "http://web.archive.org/web/20190213084225/https://www.youtube.com/watch?v=pdXkOxgcvpc"
+      },
+      {
+        "datetime": "2019-02-13T14:19:44Z",
+        "uri": "http://web.archive.org/web/20190213141944/https://www.youtube.com/watch?v=pdXkOxgcvpc&list=PLEb3ThbkPrFbfrOWtCNhSmBRc-u4jT3Ks"
+      },
+      {
+        "datetime": "2019-02-13T14:19:49Z",
+        "uri": "http://web.archive.org/web/20190213141949/https://www.youtube.com/watch?v=pdXkOxgcvpc&list=PLEb3ThbkPrFbfrOWtCNhSmBRc-u4jT3Ks&feature=applinks"
+      },
+      {
+        "datetime": "2019-02-13T14:20:04Z",
+        "uri": "http://web.archive.org/web/20190213142004/https://www.youtube.com/watch?v=pdXkOxgcvpc&app=desktop"
+      },
+      {
+        "datetime": "2019-02-13T21:07:55Z",
+        "uri": "http://web.archive.org/web/20190213210755/https://www.youtube.com/watch?v=pdXkOxgcvpc&gl=US&hl=en"
+      },
+      {
+        "datetime": "2019-02-13T23:51:32Z",
+        "uri": "http://web.archive.org/web/20190213235132/http://www.youtube.com/watch?v=pdXkOxgcvpc"
+      },
+      {
+        "datetime": "2019-02-13T23:54:54Z",
+        "uri": "http://web.archive.org/web/20190213235454/https://www.youtube.com/watch?v=pdXkOxgcvpc"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T08:41:51Z",
+      "uri": "http://web.archive.org/web/20190213084151/http://www.youtube.com/watch?v=pdXkOxgcvpc"
+    },
+    "last": {
+      "datetime": "2019-02-13T23:54:54Z",
+      "uri": "http://web.archive.org/web/20190213235454/https://www.youtube.com/watch?v=pdXkOxgcvpc"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/watch?v=pdXkOxgcvpc",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=pdXkOxgcvpc",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/watch?v=pdXkOxgcvpc"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/watch?v=pdXkOxgcvpc"
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.democracynow.org/2019/2/12/headlines/trump_and_beto_orourke_hold_rival_rallies_in_el_paso",
+  "self": "http://localhost:1208/timemap/json/https://www.democracynow.org/2019/2/12/headlines/trump_and_beto_orourke_hold_rival_rallies_in_el_paso",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T18:55:51Z",
+        "uri": "http://web.archive.org/web/20190212185551/https://www.democracynow.org/2019/2/12/headlines/trump_and_beto_orourke_hold_rival_rallies_in_el_paso"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T18:55:51Z",
+      "uri": "http://web.archive.org/web/20190212185551/https://www.democracynow.org/2019/2/12/headlines/trump_and_beto_orourke_hold_rival_rallies_in_el_paso"
+    },
+    "last": {
+      "datetime": "2019-02-12T18:55:51Z",
+      "uri": "http://web.archive.org/web/20190212185551/https://www.democracynow.org/2019/2/12/headlines/trump_and_beto_orourke_hold_rival_rallies_in_el_paso"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.democracynow.org/2019/2/12/headlines/trump_and_beto_orourke_hold_rival_rallies_in_el_paso",
+    "json_format": "http://localhost:1208/timemap/json/https://www.democracynow.org/2019/2/12/headlines/trump_and_beto_orourke_hold_rival_rallies_in_el_paso",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.democracynow.org/2019/2/12/headlines/trump_and_beto_orourke_hold_rival_rallies_in_el_paso"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.democracynow.org/2019/2/12/headlines/trump_and_beto_orourke_hold_rival_rallies_in_el_paso"
+}

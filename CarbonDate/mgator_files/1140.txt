@@ -1,0 +1,859 @@
+209
+{
+  "original_uri": "https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/",
+  "self": "http://localhost:1208/timemap/json/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-10-27T03:05:22Z",
+        "uri": "http://web.archive.org/web/20171027030522/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-10-28T09:26:55Z",
+        "uri": "http://web.archive.org/web/20171028092655/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-10-29T02:24:28Z",
+        "uri": "http://web.archive.org/web/20171029022428/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-10-29T06:35:53Z",
+        "uri": "http://web.archive.org/web/20171029063553/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-10-30T09:54:34Z",
+        "uri": "http://web.archive.org/web/20171030095434/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-10-30T15:49:48Z",
+        "uri": "http://web.archive.org/web/20171030154948/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/?"
+      },
+      {
+        "datetime": "2017-10-31T01:45:40Z",
+        "uri": "http://web.archive.org/web/20171031014540/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-10-31T01:45:40Z",
+        "uri": "http://web.archive.org/web/20171031014540/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-"
+      },
+      {
+        "datetime": "2017-10-31T07:52:51Z",
+        "uri": "http://web.archive.org/web/20171031075251/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-01T08:18:11Z",
+        "uri": "http://web.archive.org/web/20171101081811/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-01T20:52:57Z",
+        "uri": "http://web.archive.org/web/20171101205257/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-02T09:32:07Z",
+        "uri": "http://web.archive.org/web/20171102093207/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-02T20:14:34Z",
+        "uri": "http://web.archive.org/web/20171102201434/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-02T20:56:10Z",
+        "uri": "http://web.archive.org/web/20171102205610/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-03T12:53:34Z",
+        "uri": "http://web.archive.org/web/20171103125334/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-03T21:05:15Z",
+        "uri": "http://web.archive.org/web/20171103210515/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-03T21:35:38Z",
+        "uri": "http://web.archive.org/web/20171103213538/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-04T15:53:32Z",
+        "uri": "http://web.archive.org/web/20171104155332/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-04T22:23:24Z",
+        "uri": "http://web.archive.org/web/20171104222324/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-05T17:23:23Z",
+        "uri": "http://web.archive.org/web/20171105172323/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-05T23:18:21Z",
+        "uri": "http://web.archive.org/web/20171105231821/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-06T19:45:57Z",
+        "uri": "http://web.archive.org/web/20171106194557/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-06T23:50:49Z",
+        "uri": "http://web.archive.org/web/20171106235049/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-07T00:49:26Z",
+        "uri": "http://web.archive.org/web/20171107004926/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-08T01:17:30Z",
+        "uri": "http://web.archive.org/web/20171108011730/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-08T06:55:41Z",
+        "uri": "http://web.archive.org/web/20171108065541/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-09T01:49:31Z",
+        "uri": "http://web.archive.org/web/20171109014931/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-09T01:49:33Z",
+        "uri": "http://web.archive.org/web/20171109014933/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-10T08:49:40Z",
+        "uri": "http://web.archive.org/web/20171110084940/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-10T08:49:42Z",
+        "uri": "http://web.archive.org/web/20171110084942/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-10T21:36:07Z",
+        "uri": "http://web.archive.org/web/20171110213607/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-"
+      },
+      {
+        "datetime": "2017-11-11T01:56:48Z",
+        "uri": "http://web.archive.org/web/20171111015648/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-11T01:56:50Z",
+        "uri": "http://web.archive.org/web/20171111015650/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-12T02:26:47Z",
+        "uri": "http://web.archive.org/web/20171112022647/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-12T02:26:48Z",
+        "uri": "http://web.archive.org/web/20171112022648/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-13T03:07:01Z",
+        "uri": "http://web.archive.org/web/20171113030701/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-13T06:48:13Z",
+        "uri": "http://web.archive.org/web/20171113064813/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-14T03:48:21Z",
+        "uri": "http://web.archive.org/web/20171114034821/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-14T08:01:47Z",
+        "uri": "http://web.archive.org/web/20171114080147/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-15T04:41:48Z",
+        "uri": "http://web.archive.org/web/20171115044148/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-15T04:41:49Z",
+        "uri": "http://web.archive.org/web/20171115044149/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T04:34:56Z",
+        "uri": "http://wayback.archive-it.org/all/20171116043456/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T04:34:56Z",
+        "uri": "http://web.archive.org/web/20171116043456/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T04:34:58Z",
+        "uri": "http://wayback.archive-it.org/all/20171116043458/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T04:34:58Z",
+        "uri": "http://web.archive.org/web/20171116043458/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T04:50:51Z",
+        "uri": "http://web.archive.org/web/20171116045051/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T04:50:52Z",
+        "uri": "http://web.archive.org/web/20171116045052/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T08:08:28Z",
+        "uri": "http://wayback.archive-it.org/all/20171116080828/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T08:08:28Z",
+        "uri": "http://web.archive.org/web/20171116080828/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T08:08:30Z",
+        "uri": "http://wayback.archive-it.org/all/20171116080830/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T08:08:30Z",
+        "uri": "http://web.archive.org/web/20171116080830/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T12:00:09Z",
+        "uri": "http://wayback.archive-it.org/all/20171116120009/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T12:00:09Z",
+        "uri": "http://web.archive.org/web/20171116120009/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T12:00:17Z",
+        "uri": "http://wayback.archive-it.org/all/20171116120017/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-16T12:00:17Z",
+        "uri": "http://web.archive.org/web/20171116120017/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-17T09:41:50Z",
+        "uri": "http://web.archive.org/web/20171117094150/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-17T12:10:14Z",
+        "uri": "http://web.archive.org/web/20171117121014/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-18T13:07:10Z",
+        "uri": "http://web.archive.org/web/20171118130710/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-18T13:13:08Z",
+        "uri": "http://web.archive.org/web/20171118131308/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-19T06:31:30Z",
+        "uri": "http://web.archive.org/web/20171119063130/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-19T10:30:16Z",
+        "uri": "http://web.archive.org/web/20171119103016/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-20T06:47:43Z",
+        "uri": "http://web.archive.org/web/20171120064743/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-20T10:35:23Z",
+        "uri": "http://web.archive.org/web/20171120103523/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-21T11:20:45Z",
+        "uri": "http://web.archive.org/web/20171121112045/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-21T11:20:46Z",
+        "uri": "http://web.archive.org/web/20171121112046/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-22T14:53:43Z",
+        "uri": "http://web.archive.org/web/20171122145343/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-22T14:53:45Z",
+        "uri": "http://web.archive.org/web/20171122145345/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-23T12:18:27Z",
+        "uri": "http://web.archive.org/web/20171123121827/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-23T12:18:28Z",
+        "uri": "http://web.archive.org/web/20171123121828/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-24T14:30:42Z",
+        "uri": "http://web.archive.org/web/20171124143042/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-24T14:30:44Z",
+        "uri": "http://web.archive.org/web/20171124143044/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-25T02:48:53Z",
+        "uri": "http://web.archive.org/web/20171125024853/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-"
+      },
+      {
+        "datetime": "2017-11-25T12:44:32Z",
+        "uri": "http://web.archive.org/web/20171125124432/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-25T12:44:33Z",
+        "uri": "http://web.archive.org/web/20171125124433/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-26T13:20:08Z",
+        "uri": "http://web.archive.org/web/20171126132008/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-26T13:20:10Z",
+        "uri": "http://web.archive.org/web/20171126132010/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-27T13:34:04Z",
+        "uri": "http://web.archive.org/web/20171127133404/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-27T13:34:06Z",
+        "uri": "http://web.archive.org/web/20171127133406/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-29T02:16:04Z",
+        "uri": "http://web.archive.org/web/20171129021604/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-29T02:16:07Z",
+        "uri": "http://web.archive.org/web/20171129021607/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-30T02:42:05Z",
+        "uri": "http://web.archive.org/web/20171130024205/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-11-30T02:42:08Z",
+        "uri": "http://web.archive.org/web/20171130024208/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-01T02:18:15Z",
+        "uri": "http://web.archive.org/web/20171201021815/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-01T02:18:18Z",
+        "uri": "http://web.archive.org/web/20171201021818/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-02T03:59:45Z",
+        "uri": "http://web.archive.org/web/20171202035945/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-02T03:59:47Z",
+        "uri": "http://web.archive.org/web/20171202035947/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-03T02:21:50Z",
+        "uri": "http://web.archive.org/web/20171203022150/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-03T02:21:52Z",
+        "uri": "http://web.archive.org/web/20171203022152/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-04T02:35:20Z",
+        "uri": "http://web.archive.org/web/20171204023520/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-04T02:35:23Z",
+        "uri": "http://web.archive.org/web/20171204023523/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-05T02:59:34Z",
+        "uri": "http://web.archive.org/web/20171205025934/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-05T02:59:37Z",
+        "uri": "http://web.archive.org/web/20171205025937/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-06T06:54:53Z",
+        "uri": "http://web.archive.org/web/20171206065453/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-06T06:54:56Z",
+        "uri": "http://web.archive.org/web/20171206065456/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-07T07:24:27Z",
+        "uri": "http://web.archive.org/web/20171207072427/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-07T07:24:30Z",
+        "uri": "http://web.archive.org/web/20171207072430/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-07T10:12:10Z",
+        "uri": "http://web.archive.org/web/20171207101210/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/?"
+      },
+      {
+        "datetime": "2017-12-08T07:36:58Z",
+        "uri": "http://web.archive.org/web/20171208073658/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-08T07:37:00Z",
+        "uri": "http://web.archive.org/web/20171208073700/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-09T08:42:48Z",
+        "uri": "http://web.archive.org/web/20171209084248/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-09T08:42:50Z",
+        "uri": "http://web.archive.org/web/20171209084250/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-10T09:16:11Z",
+        "uri": "http://web.archive.org/web/20171210091611/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-10T09:16:14Z",
+        "uri": "http://web.archive.org/web/20171210091614/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-11T10:18:58Z",
+        "uri": "http://web.archive.org/web/20171211101858/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-11T10:19:01Z",
+        "uri": "http://web.archive.org/web/20171211101901/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-12T10:48:38Z",
+        "uri": "http://web.archive.org/web/20171212104838/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-12T10:48:40Z",
+        "uri": "http://web.archive.org/web/20171212104840/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-13T11:15:26Z",
+        "uri": "http://web.archive.org/web/20171213111526/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-13T11:15:29Z",
+        "uri": "http://web.archive.org/web/20171213111529/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-14T11:50:49Z",
+        "uri": "http://web.archive.org/web/20171214115049/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-14T11:50:51Z",
+        "uri": "http://web.archive.org/web/20171214115051/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-15T11:57:43Z",
+        "uri": "http://web.archive.org/web/20171215115743/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-15T11:57:46Z",
+        "uri": "http://web.archive.org/web/20171215115746/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-19T04:05:48Z",
+        "uri": "http://web.archive.org/web/20171219040548/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-19T04:05:50Z",
+        "uri": "http://web.archive.org/web/20171219040550/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-20T06:45:02Z",
+        "uri": "http://web.archive.org/web/20171220064502/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-20T06:45:04Z",
+        "uri": "http://web.archive.org/web/20171220064504/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-22T06:55:36Z",
+        "uri": "http://web.archive.org/web/20171222065536/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-22T06:55:39Z",
+        "uri": "http://web.archive.org/web/20171222065539/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-22T16:27:54Z",
+        "uri": "http://web.archive.org/web/20171222162754/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-"
+      },
+      {
+        "datetime": "2017-12-24T07:20:27Z",
+        "uri": "http://web.archive.org/web/20171224072027/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-24T07:20:31Z",
+        "uri": "http://web.archive.org/web/20171224072031/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-25T08:16:33Z",
+        "uri": "http://web.archive.org/web/20171225081633/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-25T08:16:35Z",
+        "uri": "http://web.archive.org/web/20171225081635/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-26T00:43:05Z",
+        "uri": "http://web.archive.org/web/20171226004305/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-26T02:41:19Z",
+        "uri": "http://web.archive.org/web/20171226024119/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-26T09:11:00Z",
+        "uri": "http://web.archive.org/web/20171226091100/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-26T09:11:03Z",
+        "uri": "http://web.archive.org/web/20171226091103/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-27T08:41:20Z",
+        "uri": "http://web.archive.org/web/20171227084120/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-27T08:41:23Z",
+        "uri": "http://web.archive.org/web/20171227084123/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-27T20:09:08Z",
+        "uri": "http://web.archive.org/web/20171227200908/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-29T10:00:37Z",
+        "uri": "http://web.archive.org/web/20171229100037/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2017-12-29T10:00:40Z",
+        "uri": "http://web.archive.org/web/20171229100040/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-04T14:39:11Z",
+        "uri": "http://web.archive.org/web/20180104143911/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-04T14:39:14Z",
+        "uri": "http://web.archive.org/web/20180104143914/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-05T13:16:32Z",
+        "uri": "http://web.archive.org/web/20180105131632/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-05T13:16:34Z",
+        "uri": "http://web.archive.org/web/20180105131634/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-06T13:55:29Z",
+        "uri": "http://web.archive.org/web/20180106135529/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-06T13:55:32Z",
+        "uri": "http://web.archive.org/web/20180106135532/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-07T15:18:26Z",
+        "uri": "http://web.archive.org/web/20180107151826/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-07T15:18:29Z",
+        "uri": "http://web.archive.org/web/20180107151829/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-08T14:45:31Z",
+        "uri": "http://web.archive.org/web/20180108144531/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-08T14:45:34Z",
+        "uri": "http://web.archive.org/web/20180108144534/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-09T07:47:45Z",
+        "uri": "http://web.archive.org/web/20180109074745/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/?"
+      },
+      {
+        "datetime": "2018-01-11T13:57:31Z",
+        "uri": "http://web.archive.org/web/20180111135731/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-11T13:57:33Z",
+        "uri": "http://web.archive.org/web/20180111135733/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-12T15:43:54Z",
+        "uri": "http://web.archive.org/web/20180112154354/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-12T15:43:56Z",
+        "uri": "http://web.archive.org/web/20180112154356/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-13T21:09:39Z",
+        "uri": "http://web.archive.org/web/20180113210939/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-13T21:09:42Z",
+        "uri": "http://web.archive.org/web/20180113210942/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-14T15:46:46Z",
+        "uri": "http://web.archive.org/web/20180114154646/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-14T15:46:49Z",
+        "uri": "http://web.archive.org/web/20180114154649/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-15T16:33:15Z",
+        "uri": "http://web.archive.org/web/20180115163315/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-15T16:33:17Z",
+        "uri": "http://web.archive.org/web/20180115163317/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-17T18:15:11Z",
+        "uri": "http://web.archive.org/web/20180117181511/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-17T18:15:13Z",
+        "uri": "http://web.archive.org/web/20180117181513/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-23T09:33:11Z",
+        "uri": "http://web.archive.org/web/20180123093311/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-"
+      },
+      {
+        "datetime": "2018-01-30T00:24:34Z",
+        "uri": "http://web.archive.org/web/20180130002434/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-30T00:24:36Z",
+        "uri": "http://web.archive.org/web/20180130002436/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-01-30T20:51:23Z",
+        "uri": "http://web.archive.org/web/20180130205123/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-01T00:51:58Z",
+        "uri": "http://web.archive.org/web/20180201005158/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-01T00:52:00Z",
+        "uri": "http://web.archive.org/web/20180201005200/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-03T19:30:16Z",
+        "uri": "http://web.archive.org/web/20180203193016/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-03T19:30:17Z",
+        "uri": "http://web.archive.org/web/20180203193017/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-04T20:31:06Z",
+        "uri": "http://web.archive.org/web/20180204203106/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-04T20:31:08Z",
+        "uri": "http://web.archive.org/web/20180204203108/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-05T20:29:59Z",
+        "uri": "http://web.archive.org/web/20180205202959/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-05T20:30:01Z",
+        "uri": "http://web.archive.org/web/20180205203001/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-07T22:22:47Z",
+        "uri": "http://web.archive.org/web/20180207222247/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-07T22:22:49Z",
+        "uri": "http://web.archive.org/web/20180207222249/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-08T23:27:37Z",
+        "uri": "http://web.archive.org/web/20180208232737/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-08T23:27:38Z",
+        "uri": "http://web.archive.org/web/20180208232738/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-09T05:17:13Z",
+        "uri": "http://web.archive.org/web/20180209051713/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/?"
+      },
+      {
+        "datetime": "2018-02-10T23:36:40Z",
+        "uri": "http://web.archive.org/web/20180210233640/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-10T23:36:42Z",
+        "uri": "http://web.archive.org/web/20180210233642/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-12T00:36:02Z",
+        "uri": "http://web.archive.org/web/20180212003602/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-12T00:36:03Z",
+        "uri": "http://web.archive.org/web/20180212003603/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-14T00:19:22Z",
+        "uri": "http://web.archive.org/web/20180214001922/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-14T07:41:31Z",
+        "uri": "http://web.archive.org/web/20180214074131/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-15T00:21:19Z",
+        "uri": "http://web.archive.org/web/20180215002119/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-16T01:12:23Z",
+        "uri": "http://web.archive.org/web/20180216011223/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-17T15:00:39Z",
+        "uri": "http://web.archive.org/web/20180217150039/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-21T04:44:08Z",
+        "uri": "http://web.archive.org/web/20180221044408/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-23T06:51:56Z",
+        "uri": "http://web.archive.org/web/20180223065156/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-23T14:16:58Z",
+        "uri": "http://web.archive.org/web/20180223141658/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-"
+      },
+      {
+        "datetime": "2018-02-26T08:11:10Z",
+        "uri": "http://web.archive.org/web/20180226081110/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-26T15:28:24Z",
+        "uri": "http://web.archive.org/web/20180226152824/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-27T08:59:32Z",
+        "uri": "http://web.archive.org/web/20180227085932/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-27T20:31:56Z",
+        "uri": "http://web.archive.org/web/20180227203156/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-02-28T09:51:16Z",
+        "uri": "http://web.archive.org/web/20180228095116/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-03-01T11:08:35Z",
+        "uri": "http://web.archive.org/web/20180301110835/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-03-05T12:55:05Z",
+        "uri": "http://web.archive.org/web/20180305125505/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-03-07T13:55:14Z",
+        "uri": "http://web.archive.org/web/20180307135514/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-03-10T15:27:15Z",
+        "uri": "http://web.archive.org/web/20180310152715/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-03-11T16:04:52Z",
+        "uri": "http://web.archive.org/web/20180311160452/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-03-12T16:05:23Z",
+        "uri": "http://web.archive.org/web/20180312160523/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-03-13T18:31:22Z",
+        "uri": "http://web.archive.org/web/20180313183122/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-03-15T07:30:25Z",
+        "uri": "http://web.archive.org/web/20180315073025/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/?"
+      },
+      {
+        "datetime": "2018-03-27T23:06:36Z",
+        "uri": "http://web.archive.org/web/20180327230636/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-"
+      },
+      {
+        "datetime": "2018-04-21T20:24:30Z",
+        "uri": "http://web.archive.org/web/20180421202430/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/?"
+      },
+      {
+        "datetime": "2018-04-28T22:04:16Z",
+        "uri": "http://web.archive.org/web/20180428220416/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-"
+      },
+      {
+        "datetime": "2018-05-30T04:03:27Z",
+        "uri": "http://web.archive.org/web/20180530040327/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-"
+      },
+      {
+        "datetime": "2018-06-23T22:02:49Z",
+        "uri": "http://web.archive.org/web/20180623220249/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/?"
+      },
+      {
+        "datetime": "2018-06-29T20:18:09Z",
+        "uri": "http://web.archive.org/web/20180629201809/http://www.washingtontimes.com:80/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-"
+      },
+      {
+        "datetime": "2018-08-01T02:34:38Z",
+        "uri": "http://web.archive.org/web/20180801023438/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-08-17T03:13:08Z",
+        "uri": "http://web.archive.org/web/20180817031308/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2018-10-11T12:27:18Z",
+        "uri": "http://web.archive.org/web/20181011122718/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2019-02-13T12:15:49Z",
+        "uri": "http://web.archive.org/web/20190213121549/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      },
+      {
+        "datetime": "2019-02-13T12:15:50Z",
+        "uri": "http://web.archive.org/web/20190213121550/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-10-27T03:05:22Z",
+      "uri": "http://web.archive.org/web/20171027030522/http://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:15:50Z",
+      "uri": "http://web.archive.org/web/20190213121550/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.washingtontimes.com/news/2017/oct/26/dossier-shows-democrat-russian-collusion-no-proof-/"
+}

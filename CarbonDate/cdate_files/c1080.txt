@@ -1,0 +1,55 @@
+{
+  "self": "http://localhost:8888/cd/https://tw.sports.yahoo.com/",
+  "uri": "https://tw.sports.yahoo.com/",
+  "estimated-creation-date": "2001-04-20T18:06:50",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20010420180650/http://tw.sports.yahoo.com:80/",
+      "memento-datetime": "2001-04-20T18:06:50",
+      "memento-pubdate": "",
+      "earliest": "2001-04-20T18:06:50"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20080723113253/http://tw.sports.yahoo.com/",
+      "memento-datetime": "2008-07-23T11:32:53",
+      "memento-pubdate": "2008-07-23T11:32:53",
+      "earliest": "2008-07-23T11:32:53"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20110125101435/http://tw.sports.yahoo.com/",
+      "memento-datetime": "2011-01-25T10:14:35",
+      "memento-pubdate": "",
+      "earliest": "2011-01-25T10:14:35"
+    },
+    "wayback.vefsafn.is": {
+      "uri-m": "http://wayback.vefsafn.is/wayback/20151222113131/https://tw.sports.yahoo.com/",
+      "memento-datetime": "2015-12-22T11:31:31",
+      "memento-pubdate": "",
+      "earliest": "2015-12-22T11:31:31"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

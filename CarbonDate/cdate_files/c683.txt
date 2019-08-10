@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://ilovemyfreedom.org/watch-hannity-points-out-whats-missing-in-the-wall-deal-offers-trump-critical-piece-of-advice/",
+  "uri": "https://ilovemyfreedom.org/watch-hannity-points-out-whats-missing-in-the-wall-deal-offers-trump-critical-piece-of-advice/",
+  "estimated-creation-date": "2019-02-12T09:36:50",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T09:36:50"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213130912/https://ilovemyfreedom.org/watch-hannity-points-out-whats-missing-in-the-wall-deal-offers-trump-critical-piece-of-advice/",
+      "memento-datetime": "2019-02-13T13:09:12",
+      "memento-pubdate": "2019-02-12T09:36:50",
+      "earliest": "2019-02-12T09:36:50"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T16:32:15"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

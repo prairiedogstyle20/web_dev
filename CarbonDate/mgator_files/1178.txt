@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "http://www.el-nacional.com/noticias/mundo/duque-donald-trump-comparte-mismo-objetivo-liberar-venezuela_270727",
+  "self": "http://localhost:1208/timemap/json/http://www.el-nacional.com/noticias/mundo/duque-donald-trump-comparte-mismo-objetivo-liberar-venezuela_270727",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T02:22:37Z",
+        "uri": "http://web.archive.org/web/20190214022237/http://www.el-nacional.com/noticias/mundo/duque-donald-trump-comparte-mismo-objetivo-liberar-venezuela_270727"
+      },
+      {
+        "datetime": "2019-02-14T10:49:46Z",
+        "uri": "http://web.archive.org/web/20190214104946/http://www.el-nacional.com/noticias/mundo/duque-donald-trump-comparte-mismo-objetivo-liberar-venezuela_270727"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T02:22:37Z",
+      "uri": "http://web.archive.org/web/20190214022237/http://www.el-nacional.com/noticias/mundo/duque-donald-trump-comparte-mismo-objetivo-liberar-venezuela_270727"
+    },
+    "last": {
+      "datetime": "2019-02-14T10:49:46Z",
+      "uri": "http://web.archive.org/web/20190214104946/http://www.el-nacional.com/noticias/mundo/duque-donald-trump-comparte-mismo-objetivo-liberar-venezuela_270727"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.el-nacional.com/noticias/mundo/duque-donald-trump-comparte-mismo-objetivo-liberar-venezuela_270727",
+    "json_format": "http://localhost:1208/timemap/json/http://www.el-nacional.com/noticias/mundo/duque-donald-trump-comparte-mismo-objetivo-liberar-venezuela_270727",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.el-nacional.com/noticias/mundo/duque-donald-trump-comparte-mismo-objetivo-liberar-venezuela_270727"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.el-nacional.com/noticias/mundo/duque-donald-trump-comparte-mismo-objetivo-liberar-venezuela_270727"
+}

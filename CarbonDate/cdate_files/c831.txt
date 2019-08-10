@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723",
+  "uri": "https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723",
+  "estimated-creation-date": "2019-02-13T14:02:15",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:02:15"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213223446/https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723",
+      "memento-datetime": "2019-02-13T22:34:46",
+      "memento-pubdate": "2019-02-13T14:02:15",
+      "earliest": "2019-02-13T14:02:15"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T21:15:13"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

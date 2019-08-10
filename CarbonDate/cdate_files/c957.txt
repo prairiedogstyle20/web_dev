@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.motherjones.com/politics/2016/08/donald-trump-model-management-illegal-immigration/",
+  "uri": "https://www.motherjones.com/politics/2016/08/donald-trump-model-management-illegal-immigration/",
+  "estimated-creation-date": "2016-08-30T16:07:39",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2016-08-30T16:07:39"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20160830183804/http://www.motherjones.com/politics/2016/08/donald-trump-model-management-illegal-immigration",
+      "memento-datetime": "2016-08-30T18:38:04",
+      "memento-pubdate": "",
+      "earliest": "2016-08-30T18:38:04"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20160901080931/http://www.motherjones.com/politics/2016/08/donald-trump-model-management-illegal-immigration",
+      "memento-datetime": "2016-09-01T08:09:31",
+      "memento-pubdate": "",
+      "earliest": "2016-09-01T08:09:31"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20170716064610/http://www.motherjones.com/politics/2016/08/donald-trump-model-management-illegal-immigration/",
+      "memento-datetime": "2017-07-16T06:46:10",
+      "memento-pubdate": "2017-07-16T06:46:10",
+      "earliest": "2017-07-16T06:46:10"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T02:42:38"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

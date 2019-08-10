@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.waynedupree.com/trump-says-walls-work-hes-got-one/",
+  "uri": "https://www.waynedupree.com/trump-says-walls-work-hes-got-one/",
+  "estimated-creation-date": "2019-02-12T16:56:45",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T16:56:45"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213123512/https://www.waynedupree.com/trump-says-walls-work-hes-got-one/",
+      "memento-datetime": "2019-02-13T12:35:12",
+      "memento-pubdate": "2019-02-12T16:56:45",
+      "earliest": "2019-02-12T16:56:45"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T16:57:27"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

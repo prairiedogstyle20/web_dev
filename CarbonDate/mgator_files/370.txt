@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://rpp.pe/mundo/latinoamerica/el-presidente-de-colombia-viaja-a-eeuu-para-hablar-sobre-venezuela-con-donald-trump-noticia-1180550",
+  "self": "http://localhost:1208/timemap/json/https://rpp.pe/mundo/latinoamerica/el-presidente-de-colombia-viaja-a-eeuu-para-hablar-sobre-venezuela-con-donald-trump-noticia-1180550",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:26:05Z",
+        "uri": "http://web.archive.org/web/20190213122605/https://rpp.pe/mundo/latinoamerica/el-presidente-de-colombia-viaja-a-eeuu-para-hablar-sobre-venezuela-con-donald-trump-noticia-1180550"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:26:05Z",
+      "uri": "http://web.archive.org/web/20190213122605/https://rpp.pe/mundo/latinoamerica/el-presidente-de-colombia-viaja-a-eeuu-para-hablar-sobre-venezuela-con-donald-trump-noticia-1180550"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:26:05Z",
+      "uri": "http://web.archive.org/web/20190213122605/https://rpp.pe/mundo/latinoamerica/el-presidente-de-colombia-viaja-a-eeuu-para-hablar-sobre-venezuela-con-donald-trump-noticia-1180550"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://rpp.pe/mundo/latinoamerica/el-presidente-de-colombia-viaja-a-eeuu-para-hablar-sobre-venezuela-con-donald-trump-noticia-1180550",
+    "json_format": "http://localhost:1208/timemap/json/https://rpp.pe/mundo/latinoamerica/el-presidente-de-colombia-viaja-a-eeuu-para-hablar-sobre-venezuela-con-donald-trump-noticia-1180550",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://rpp.pe/mundo/latinoamerica/el-presidente-de-colombia-viaja-a-eeuu-para-hablar-sobre-venezuela-con-donald-trump-noticia-1180550"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://rpp.pe/mundo/latinoamerica/el-presidente-de-colombia-viaja-a-eeuu-para-hablar-sobre-venezuela-con-donald-trump-noticia-1180550"
+}

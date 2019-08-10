@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.freep.com/story/money/personal-finance/susan-tompor/2019/02/13/irs-tax-refunds-trump/2836068002/",
+  "self": "http://localhost:1208/timemap/json/https://www.freep.com/story/money/personal-finance/susan-tompor/2019/02/13/irs-tax-refunds-trump/2836068002/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T23:05:47Z",
+        "uri": "http://web.archive.org/web/20190213230547/https://www.freep.com/story/money/personal-finance/susan-tompor/2019/02/13/irs-tax-refunds-trump/2836068002/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T23:05:47Z",
+      "uri": "http://web.archive.org/web/20190213230547/https://www.freep.com/story/money/personal-finance/susan-tompor/2019/02/13/irs-tax-refunds-trump/2836068002/"
+    },
+    "last": {
+      "datetime": "2019-02-13T23:05:47Z",
+      "uri": "http://web.archive.org/web/20190213230547/https://www.freep.com/story/money/personal-finance/susan-tompor/2019/02/13/irs-tax-refunds-trump/2836068002/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.freep.com/story/money/personal-finance/susan-tompor/2019/02/13/irs-tax-refunds-trump/2836068002/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.freep.com/story/money/personal-finance/susan-tompor/2019/02/13/irs-tax-refunds-trump/2836068002/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.freep.com/story/money/personal-finance/susan-tompor/2019/02/13/irs-tax-refunds-trump/2836068002/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.freep.com/story/money/personal-finance/susan-tompor/2019/02/13/irs-tax-refunds-trump/2836068002/"
+}

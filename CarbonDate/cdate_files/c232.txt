@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://www.bendthearc.us/trump_should_resign_not_ilhan_omar",
+  "uri": "https://www.bendthearc.us/trump_should_resign_not_ilhan_omar",
+  "estimated-creation-date": "2019-02-13T03:33:03",
+  "earliest-sources": [
+    "web.archive.org",
+    "wayback.archive-it.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213033303/https://www.bendthearc.us/trump_should_resign_not_ilhan_omar",
+      "memento-datetime": "2019-02-13T03:33:03",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T03:33:03"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190213033303/https://www.bendthearc.us/trump_should_resign_not_ilhan_omar",
+      "memento-datetime": "2019-02-13T03:33:03",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T03:33:03"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

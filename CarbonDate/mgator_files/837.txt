@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.latimes.com/socal/glendale-news-press/sports/tn-gnp-sp-sfhoops-20190213-story.html",
+  "self": "http://localhost:1208/timemap/json/https://www.latimes.com/socal/glendale-news-press/sports/tn-gnp-sp-sfhoops-20190213-story.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T20:07:06Z",
+        "uri": "http://web.archive.org/web/20190213200706/https://www.latimes.com/socal/glendale-news-press/sports/tn-gnp-sp-sfhoops-20190213-story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T20:07:06Z",
+      "uri": "http://web.archive.org/web/20190213200706/https://www.latimes.com/socal/glendale-news-press/sports/tn-gnp-sp-sfhoops-20190213-story.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T20:07:06Z",
+      "uri": "http://web.archive.org/web/20190213200706/https://www.latimes.com/socal/glendale-news-press/sports/tn-gnp-sp-sfhoops-20190213-story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.latimes.com/socal/glendale-news-press/sports/tn-gnp-sp-sfhoops-20190213-story.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.latimes.com/socal/glendale-news-press/sports/tn-gnp-sp-sfhoops-20190213-story.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.latimes.com/socal/glendale-news-press/sports/tn-gnp-sp-sfhoops-20190213-story.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.latimes.com/socal/glendale-news-press/sports/tn-gnp-sp-sfhoops-20190213-story.html"
+}

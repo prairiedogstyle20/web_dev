@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://hillreporter.com/trump-expected-to-declare-national-emergency-according-to-lindsey-graham-24273",
+  "uri": "https://hillreporter.com/trump-expected-to-declare-national-emergency-according-to-lindsey-graham-24273",
+  "estimated-creation-date": "2019-02-12T21:17:28",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:45:36"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T21:17:28"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212215110/https://hillreporter.com/trump-expected-to-declare-national-emergency-according-to-lindsey-graham-24273",
+      "memento-datetime": "2019-02-12T21:50:07",
+      "memento-pubdate": "2019-02-12T21:17:28",
+      "earliest": "2019-02-12T21:17:28"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T22:01:50"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

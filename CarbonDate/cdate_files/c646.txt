@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://apnews.com/3b11a45554514225ad70aad6d5bad462",
+  "uri": "https://apnews.com/3b11a45554514225ad70aad6d5bad462",
+  "estimated-creation-date": "2019-02-12T16:54:16",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:14:51"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:29:22"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212171015/https://apnews.com/3b11a45554514225ad70aad6d5bad462",
+      "memento-datetime": "2019-02-12T17:10:12",
+      "memento-pubdate": "2019-02-12T16:54:16",
+      "earliest": "2019-02-12T16:54:16"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T17:27:02"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

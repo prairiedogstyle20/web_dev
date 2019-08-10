@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.washingtonpost.com/opinions/2019/02/12/whats-up-with-trump-dogs/?utm_term=.e8e978b4a852&tid=sm_tw",
+  "uri": "https://www.washingtonpost.com/opinions/2019/02/12/whats-up-with-trump-dogs/?utm_term=.e8e978b4a852&tid=sm_tw",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

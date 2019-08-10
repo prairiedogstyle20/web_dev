@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.wsj.com/articles/trump-preparing-plan-to-boost-ai-5g-technology-11549474459?redirect=amp",
+  "uri": "https://www.wsj.com/articles/trump-preparing-plan-to-boost-ai-5g-technology-11549474459?redirect=amp",
+  "estimated-creation-date": "2019-02-06T17:34:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-06T17:34:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T14:18:51"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.ebay.com/n/error?statuscode=500",
+  "uri": "https://www.ebay.com/n/error?statuscode=500",
+  "estimated-creation-date": "2019-01-25T21:10:27",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190125211027/https://www.ebay.com/n/error?statuscode=500",
+      "memento-datetime": "2019-01-25T21:10:27",
+      "memento-pubdate": "",
+      "earliest": "2019-01-25T21:10:27"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190125234214/https://www.ebay.com/n/error?statuscode=500",
+      "memento-datetime": "2019-01-25T23:42:14",
+      "memento-pubdate": "",
+      "earliest": "2019-01-25T23:42:14"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T12:22:42"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

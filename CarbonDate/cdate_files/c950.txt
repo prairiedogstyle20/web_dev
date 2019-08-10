@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/",
+  "uri": "https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/",
+  "estimated-creation-date": "2019-02-12T23:50:23",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T23:50:23"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214112524/https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/",
+      "memento-datetime": "2019-02-14T11:25:24",
+      "memento-pubdate": "2019-02-12T23:50:23",
+      "earliest": "2019-02-12T23:50:23"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T16:23:04"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://video.foxnews.com/v/6001470532001/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+foxnews%252Fmost-popular+%2528Internal+-+Most+Popular+Content%2529",
+  "uri": "https://video.foxnews.com/v/6001470532001/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+foxnews%252Fmost-popular+%2528Internal+-+Most+Popular+Content%2529",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

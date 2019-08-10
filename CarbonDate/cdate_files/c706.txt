@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.dailykos.com/stories/2017/10/15/1706226/-America-may-be-galloping-toward-authoritarian-neo-fascism",
+  "uri": "https://www.dailykos.com/stories/2017/10/15/1706226/-America-may-be-galloping-toward-authoritarian-neo-fascism",
+  "estimated-creation-date": "2017-10-15T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2017-10-15T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20171120062214/http://www.dailykos.com/stories/2017/10/15/1706226/-America-may-be-galloping-toward-authoritarian-neo-fascism",
+      "memento-datetime": "2017-11-20T06:22:14",
+      "memento-pubdate": "",
+      "earliest": "2017-11-20T06:22:14"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

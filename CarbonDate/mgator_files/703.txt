@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria",
+  "self": "http://localhost:1208/timemap/json/https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T08:45:00Z",
+        "uri": "http://web.archive.org/web/20190214084500/https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T08:45:00Z",
+      "uri": "http://web.archive.org/web/20190214084500/https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria"
+    },
+    "last": {
+      "datetime": "2019-02-14T08:45:00Z",
+      "uri": "http://web.archive.org/web/20190214084500/https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria",
+    "json_format": "http://localhost:1208/timemap/json/https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://elfinanciero.com.mx/mundo/trump-califica-de-terrible-error-rechazo-de-maduro-a-ayuda-humanitaria"
+}

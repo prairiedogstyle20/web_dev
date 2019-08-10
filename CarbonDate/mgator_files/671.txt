@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://neonnettle.com/news/6493-ocasio-cortez-blasts-trump-after-he-mocks-her-high-school-green-new-deal",
+  "self": "http://localhost:1208/timemap/json/https://neonnettle.com/news/6493-ocasio-cortez-blasts-trump-after-he-mocks-her-high-school-green-new-deal",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:09:16Z",
+        "uri": "http://web.archive.org/web/20190213030916/https://neonnettle.com/news/6493-ocasio-cortez-blasts-trump-after-he-mocks-her-high-school-green-new-deal"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:09:16Z",
+      "uri": "http://web.archive.org/web/20190213030916/https://neonnettle.com/news/6493-ocasio-cortez-blasts-trump-after-he-mocks-her-high-school-green-new-deal"
+    },
+    "last": {
+      "datetime": "2019-02-13T03:09:16Z",
+      "uri": "http://web.archive.org/web/20190213030916/https://neonnettle.com/news/6493-ocasio-cortez-blasts-trump-after-he-mocks-her-high-school-green-new-deal"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://neonnettle.com/news/6493-ocasio-cortez-blasts-trump-after-he-mocks-her-high-school-green-new-deal",
+    "json_format": "http://localhost:1208/timemap/json/https://neonnettle.com/news/6493-ocasio-cortez-blasts-trump-after-he-mocks-her-high-school-green-new-deal",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://neonnettle.com/news/6493-ocasio-cortez-blasts-trump-after-he-mocks-her-high-school-green-new-deal"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://neonnettle.com/news/6493-ocasio-cortez-blasts-trump-after-he-mocks-her-high-school-green-new-deal"
+}

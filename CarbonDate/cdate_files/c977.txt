@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/http://nymag.com/intelligencer/2019/02/republicans-trump-taxe-returns-hide-congress.html",
+  "uri": "http://nymag.com/intelligencer/2019/02/republicans-trump-taxe-returns-hide-congress.html",
+  "estimated-creation-date": "2019-02-13T12:00:12",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T12:00:12"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213134350/http://nymag.com/intelligencer/2019/02/republicans-trump-taxe-returns-hide-congress.html",
+      "memento-datetime": "2019-02-13T13:43:50",
+      "memento-pubdate": "2019-02-13T12:00:12",
+      "earliest": "2019-02-13T12:00:12"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190213173118/http://nymag.com/intelligencer/2019/02/republicans-trump-taxe-returns-hide-congress.html",
+      "memento-datetime": "2019-02-13T17:31:18",
+      "memento-pubdate": "2019-02-13T17:31:18",
+      "earliest": "2019-02-13T17:31:18"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:19:26"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

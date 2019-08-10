@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://qz.com/1547766/border-towns-fight-trumps-plan-to-put-razor-wire-in-their-backyards/",
+  "uri": "https://qz.com/1547766/border-towns-fight-trumps-plan-to-put-razor-wire-in-their-backyards/",
+  "estimated-creation-date": "2019-02-11T23:56:28",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212031907/https://qz.com/1547766/border-towns-fight-trumps-plan-to-put-razor-wire-in-their-backyards/",
+      "memento-datetime": "2019-02-12T03:19:07",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T03:19:07"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-11T23:56:28"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

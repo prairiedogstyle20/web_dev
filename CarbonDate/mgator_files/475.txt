@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://www.usatoday.com/story/sports/nhl/predators/2019/02/12/lindsey-vonn-pk-subban-olympics-skiing-predators/2851005002/",
+  "self": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/sports/nhl/predators/2019/02/12/lindsey-vonn-pk-subban-olympics-skiing-predators/2851005002/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T04:35:15Z",
+        "uri": "http://web.archive.org/web/20190213043515/https://www.usatoday.com/story/sports/nhl/predators/2019/02/12/lindsey-vonn-pk-subban-olympics-skiing-predators/2851005002/"
+      },
+      {
+        "datetime": "2019-02-13T05:01:38Z",
+        "uri": "http://web.archive.org/web/20190213050138/https://www.usatoday.com/story/sports/nhl/predators/2019/02/12/lindsey-vonn-pk-subban-olympics-skiing-predators/2851005002/"
+      },
+      {
+        "datetime": "2019-02-14T07:14:07Z",
+        "uri": "http://web.archive.org/web/20190214071407/https://www.usatoday.com/story/sports/nhl/predators/2019/02/12/lindsey-vonn-pk-subban-olympics-skiing-predators/2851005002/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T04:35:15Z",
+      "uri": "http://web.archive.org/web/20190213043515/https://www.usatoday.com/story/sports/nhl/predators/2019/02/12/lindsey-vonn-pk-subban-olympics-skiing-predators/2851005002/"
+    },
+    "last": {
+      "datetime": "2019-02-14T07:14:07Z",
+      "uri": "http://web.archive.org/web/20190214071407/https://www.usatoday.com/story/sports/nhl/predators/2019/02/12/lindsey-vonn-pk-subban-olympics-skiing-predators/2851005002/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.usatoday.com/story/sports/nhl/predators/2019/02/12/lindsey-vonn-pk-subban-olympics-skiing-predators/2851005002/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/sports/nhl/predators/2019/02/12/lindsey-vonn-pk-subban-olympics-skiing-predators/2851005002/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.usatoday.com/story/sports/nhl/predators/2019/02/12/lindsey-vonn-pk-subban-olympics-skiing-predators/2851005002/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.usatoday.com/story/sports/nhl/predators/2019/02/12/lindsey-vonn-pk-subban-olympics-skiing-predators/2851005002/"
+}

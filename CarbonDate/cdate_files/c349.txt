@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.jamaicaobserver.com/latestnews/Maduro_makes_terrible_mistake_in_blocking_Venezuela_aid_%26%238212;_Trump",
+  "uri": "http://www.jamaicaobserver.com/latestnews/Maduro_makes_terrible_mistake_in_blocking_Venezuela_aid_%26%238212;_Trump",
+  "estimated-creation-date": "2019-02-15T16:08:50",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:08:50"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

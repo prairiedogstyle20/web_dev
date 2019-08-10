@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.wowow.co.jp/sports/liga/",
+  "uri": "https://www.wowow.co.jp/sports/liga/",
+  "estimated-creation-date": "2010-08-20T16:54:33",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20100820165433/http://www.wowow.co.jp:80/sports/liga/?",
+      "memento-datetime": "2010-08-20T16:54:33",
+      "memento-pubdate": "",
+      "earliest": "2010-08-20T16:54:33"
+    },
+    "wayback.vefsafn.is": {
+      "uri-m": "http://wayback.vefsafn.is/wayback/20131103112229/http://www.wowow.co.jp/sports/liga/",
+      "memento-datetime": "2013-11-03T11:22:29",
+      "memento-pubdate": "",
+      "earliest": "2013-11-03T11:22:29"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180320182657/http://www.wowow.co.jp/sports/liga/",
+      "memento-datetime": "2018-03-20T13:29:35",
+      "memento-pubdate": "",
+      "earliest": "2018-03-20T13:29:35"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-08T23:18:08"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

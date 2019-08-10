@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.businessinsider.com/cliff-sims-sues-trump-accusing-him-of-trying-to-silence-critics-2019-2",
+  "uri": "https://www.businessinsider.com/cliff-sims-sues-trump-accusing-him-of-trying-to-silence-critics-2019-2",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212121913/https://www.businessinsider.com/cliff-sims-sues-trump-accusing-him-of-trying-to-silence-critics-2019-2",
+      "memento-datetime": "2019-02-12T12:19:13",
+      "memento-pubdate": "2019-02-12T23:59:59",
+      "earliest": "2019-02-12T12:19:13"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T00:10:22"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

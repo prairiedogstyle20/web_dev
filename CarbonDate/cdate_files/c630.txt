@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.morgenpost.de/politik/ausland/article216428819/Attacke-auf-Journalisten-bei-Trump-Auftritt.html?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter",
+  "uri": "https://www.morgenpost.de/politik/ausland/article216428819/Attacke-auf-Journalisten-bei-Trump-Auftritt.html?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter",
+  "estimated-creation-date": "2019-02-13T07:11:15",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T07:11:15"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

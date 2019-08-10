@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.npr.org/2016/06/07/481140881/who-is-judge-gonzalo-curiel-the-man-trump-attacked-for-his-mexican-ancestry",
+  "uri": "https://www.npr.org/2016/06/07/481140881/who-is-judge-gonzalo-curiel-the-man-trump-attacked-for-his-mexican-ancestry",
+  "estimated-creation-date": "2016-06-07T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2016-06-07T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20160608121106/http://www.npr.org/2016/06/07/481140881/who-is-judge-gonzalo-curiel-the-man-trump-attacked-for-his-mexican-ancestry",
+      "memento-datetime": "2016-06-08T12:11:06",
+      "memento-pubdate": "2016-06-07T23:59:59",
+      "earliest": "2016-06-07T23:59:59"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20161226191632/http://www.npr.org/2016/06/07/481140881/who-is-judge-gonzalo-curiel-the-man-trump-attacked-for-his-mexican-ancestry",
+      "memento-datetime": "2016-12-26T19:16:32",
+      "memento-pubdate": "2016-12-26T19:16:32",
+      "earliest": "2016-12-26T19:16:32"
+    },
+    "perma-archives.org": {
+      "uri-m": "https://perma-archives.org/warc/20181008150355/https://www.npr.org/2016/06/07/481140881/who-is-judge-gonzalo-curiel-the-man-trump-attacked-for-his-mexican-ancestry",
+      "memento-datetime": "2018-10-08T15:03:55",
+      "memento-pubdate": "2016-06-07T23:59:59",
+      "earliest": "2016-06-07T23:59:59"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T07:30:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

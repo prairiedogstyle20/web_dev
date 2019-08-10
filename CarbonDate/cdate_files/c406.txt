@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.bbc.com/news/world-us-canada-47218625?ns_campaign=bbcnews&ns_source=twitter&ocid=socialflow_twitter&ns_mchannel=social",
+  "uri": "https://www.bbc.com/news/world-us-canada-47218625?ns_campaign=bbcnews&ns_source=twitter&ocid=socialflow_twitter&ns_mchannel=social",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

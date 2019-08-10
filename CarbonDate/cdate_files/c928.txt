@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.tribtoday.com/sports/high-school-sports/2019/02/bristol-grinds-out-win-over-garfield/",
+  "uri": "http://www.tribtoday.com/sports/high-school-sports/2019/02/bristol-grinds-out-win-over-garfield/",
+  "estimated-creation-date": "2019-02-13T07:58:28",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:58:28"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

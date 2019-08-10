@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.rawstory.com/2019/02/not-failed-hes-made-laughingstock-trump-biographer-chuckles-wall-failure/",
+  "uri": "https://www.rawstory.com/2019/02/not-failed-hes-made-laughingstock-trump-biographer-chuckles-wall-failure/",
+  "estimated-creation-date": "2019-02-13T00:00:13",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:13"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T13:01:37"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

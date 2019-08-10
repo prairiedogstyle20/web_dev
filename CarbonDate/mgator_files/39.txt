@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.rt.com/usa/451387-trump-jaguar-twitter-hunting/",
+  "self": "http://localhost:1208/timemap/json/https://www.rt.com/usa/451387-trump-jaguar-twitter-hunting/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T16:21:39Z",
+        "uri": "http://web.archive.org/web/20190213162139/https://www.rt.com/usa/451387-trump-jaguar-twitter-hunting/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T16:21:39Z",
+      "uri": "http://web.archive.org/web/20190213162139/https://www.rt.com/usa/451387-trump-jaguar-twitter-hunting/"
+    },
+    "last": {
+      "datetime": "2019-02-13T16:21:39Z",
+      "uri": "http://web.archive.org/web/20190213162139/https://www.rt.com/usa/451387-trump-jaguar-twitter-hunting/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.rt.com/usa/451387-trump-jaguar-twitter-hunting/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.rt.com/usa/451387-trump-jaguar-twitter-hunting/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.rt.com/usa/451387-trump-jaguar-twitter-hunting/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.rt.com/usa/451387-trump-jaguar-twitter-hunting/"
+}

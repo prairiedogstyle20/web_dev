@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.thenews.com.pk/print/431282-lee-delays-cancer-comeback-until-april",
+  "self": "http://localhost:1208/timemap/json/https://www.thenews.com.pk/print/431282-lee-delays-cancer-comeback-until-april",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:18:20Z",
+        "uri": "http://web.archive.org/web/20190213031820/https://www.thenews.com.pk/print/431282-lee-delays-cancer-comeback-until-april"
+      },
+      {
+        "datetime": "2019-02-14T04:30:21Z",
+        "uri": "http://web.archive.org/web/20190214043021/https://www.thenews.com.pk/print/431282-lee-delays-cancer-comeback-until-april"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:18:20Z",
+      "uri": "http://web.archive.org/web/20190213031820/https://www.thenews.com.pk/print/431282-lee-delays-cancer-comeback-until-april"
+    },
+    "last": {
+      "datetime": "2019-02-14T04:30:21Z",
+      "uri": "http://web.archive.org/web/20190214043021/https://www.thenews.com.pk/print/431282-lee-delays-cancer-comeback-until-april"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.thenews.com.pk/print/431282-lee-delays-cancer-comeback-until-april",
+    "json_format": "http://localhost:1208/timemap/json/https://www.thenews.com.pk/print/431282-lee-delays-cancer-comeback-until-april",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.thenews.com.pk/print/431282-lee-delays-cancer-comeback-until-april"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.thenews.com.pk/print/431282-lee-delays-cancer-comeback-until-april"
+}

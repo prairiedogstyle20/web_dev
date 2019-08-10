@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://degette.house.gov/media-center/press-releases/oversight-panel-investigating-trump-s-family-separation-policy-to-hold",
+  "uri": "https://degette.house.gov/media-center/press-releases/oversight-panel-investigating-trump-s-family-separation-policy-to-hold",
+  "estimated-creation-date": "2019-01-31T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:45:12"
+    },
+    "pubdate": {
+      "earliest": "2019-01-31T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T02:49:31"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

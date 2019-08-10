@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://dctribune.org/art-of-the-deal-trump-backs-down-may-abandon-border-wall-demands-over-fears-hell-hurt-presidency/",
+  "uri": "http://dctribune.org/art-of-the-deal-trump-backs-down-may-abandon-border-wall-demands-over-fears-hell-hurt-presidency/",
+  "estimated-creation-date": "2019-02-13T20:11:46",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T20:11:46"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:11:47"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.bbc.com/news/science-environment-46988399",
+  "uri": "https://www.bbc.com/news/science-environment-46988399",
+  "estimated-creation-date": "2019-01-24T20:46:09",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190124204609/https://www.bbc.com/news/science-environment-46988399",
+      "memento-datetime": "2019-01-24T20:46:09",
+      "memento-pubdate": "",
+      "earliest": "2019-01-24T20:46:09"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-08T04:00:36"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.dailymail.co.uk/news/article-5947635/Elite-armed-masked-Met-police-officers-arsenal-protect-Trump.html",
+  "uri": "https://www.dailymail.co.uk/news/article-5947635/Elite-armed-masked-Met-police-officers-arsenal-protect-Trump.html",
+  "estimated-creation-date": "2018-07-12T18:09:46",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-07-12T18:09:46"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180910192714/http://www.dailymail.co.uk/news/article-5947635/Elite-armed-masked-Met-police-officers-arsenal-protect-Trump.html",
+      "memento-datetime": "2018-09-10T19:27:14",
+      "memento-pubdate": "",
+      "earliest": "2018-09-10T19:27:14"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:31:07"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://insider.foxnews.com/2019/02/13/charlie-kirk-blasts-alexandria-ocasio-cortez-green-new-deal-calls-it-gift-donald-trump",
+  "self": "http://localhost:1208/timemap/json/https://insider.foxnews.com/2019/02/13/charlie-kirk-blasts-alexandria-ocasio-cortez-green-new-deal-calls-it-gift-donald-trump",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T16:50:00Z",
+        "uri": "http://web.archive.org/web/20190213165000/https://insider.foxnews.com/2019/02/13/charlie-kirk-blasts-alexandria-ocasio-cortez-green-new-deal-calls-it-gift-donald-trump"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T16:50:00Z",
+      "uri": "http://web.archive.org/web/20190213165000/https://insider.foxnews.com/2019/02/13/charlie-kirk-blasts-alexandria-ocasio-cortez-green-new-deal-calls-it-gift-donald-trump"
+    },
+    "last": {
+      "datetime": "2019-02-13T16:50:00Z",
+      "uri": "http://web.archive.org/web/20190213165000/https://insider.foxnews.com/2019/02/13/charlie-kirk-blasts-alexandria-ocasio-cortez-green-new-deal-calls-it-gift-donald-trump"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://insider.foxnews.com/2019/02/13/charlie-kirk-blasts-alexandria-ocasio-cortez-green-new-deal-calls-it-gift-donald-trump",
+    "json_format": "http://localhost:1208/timemap/json/https://insider.foxnews.com/2019/02/13/charlie-kirk-blasts-alexandria-ocasio-cortez-green-new-deal-calls-it-gift-donald-trump",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://insider.foxnews.com/2019/02/13/charlie-kirk-blasts-alexandria-ocasio-cortez-green-new-deal-calls-it-gift-donald-trump"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://insider.foxnews.com/2019/02/13/charlie-kirk-blasts-alexandria-ocasio-cortez-green-new-deal-calls-it-gift-donald-trump"
+}

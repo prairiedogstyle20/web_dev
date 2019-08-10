@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.register-herald.com/sports/tech-takes-a-break-from-rsc-tonight/article_80b4e221-0899-51dc-a819-e44d2a8668b9.html",
+  "uri": "https://www.register-herald.com/sports/tech-takes-a-break-from-rsc-tonight/article_80b4e221-0899-51dc-a819-e44d2a8668b9.html",
+  "estimated-creation-date": "2019-02-13T03:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-13T13:22:31"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T03:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T13:22:31"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

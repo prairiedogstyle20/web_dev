@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.youtube.com/watch?v=1lspIdVSH2k",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=1lspIdVSH2k",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-02-09T13:02:22Z",
+        "uri": "http://web.archive.org/web/20170209130222/https://www.youtube.com/watch?v=1lspIdVSH2k&gl=US&hl=en"
+      }
+    ],
+    "first": {
+      "datetime": "2017-02-09T13:02:22Z",
+      "uri": "http://web.archive.org/web/20170209130222/https://www.youtube.com/watch?v=1lspIdVSH2k&gl=US&hl=en"
+    },
+    "last": {
+      "datetime": "2017-02-09T13:02:22Z",
+      "uri": "http://web.archive.org/web/20170209130222/https://www.youtube.com/watch?v=1lspIdVSH2k&gl=US&hl=en"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/watch?v=1lspIdVSH2k",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=1lspIdVSH2k",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/watch?v=1lspIdVSH2k"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/watch?v=1lspIdVSH2k"
+}

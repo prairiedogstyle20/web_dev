@@ -1,0 +1,50 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thegatewaypundit.com/2019/02/65-people-line-up-for-beto-orourke-22000-line-up-to-see-trump-in-texas-video/",
+  "uri": "https://www.thegatewaypundit.com/2019/02/65-people-line-up-for-beto-orourke-22000-line-up-to-see-trump-in-texas-video/",
+  "estimated-creation-date": "2019-02-12T00:37:43",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:37:43"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190212083639/https://www.thegatewaypundit.com/2019/02/65-people-line-up-for-beto-orourke-22000-line-up-to-see-trump-in-texas-video/",
+      "memento-datetime": "2019-02-12T08:36:39",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T08:36:39"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212083639/https://www.thegatewaypundit.com/2019/02/65-people-line-up-for-beto-orourke-22000-line-up-to-see-trump-in-texas-video/",
+      "memento-datetime": "2019-02-12T08:36:39",
+      "memento-pubdate": "2019-02-12T00:37:43",
+      "earliest": "2019-02-12T00:37:43"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190212100858/https://www.thegatewaypundit.com/2019/02/65-people-line-up-for-beto-orourke-22000-line-up-to-see-trump-in-texas-video/",
+      "memento-datetime": "2019-02-12T10:08:58",
+      "memento-pubdate": "2019-02-12T10:08:58",
+      "earliest": "2019-02-12T10:08:58"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T17:56:24"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

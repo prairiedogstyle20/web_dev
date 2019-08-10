@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.efe.com/efe/america/politica/trump-sobre-el-envio-de-5-000-tropas-a-colombia-para-venezuela-ya-veremos/20000035-3896823",
+  "uri": "https://www.efe.com/efe/america/politica/trump-sobre-el-envio-de-5-000-tropas-a-colombia-para-venezuela-ya-veremos/20000035-3896823",
+  "estimated-creation-date": "2019-02-13T17:51:28",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-14T00:10:37"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214020626/https://www.efe.com/efe/america/politica/trump-sobre-el-envio-de-5-000-tropas-a-colombia-para-venezuela-ya-veremos/20000035-3896823",
+      "memento-datetime": "2019-02-14T02:06:26",
+      "memento-pubdate": "2019-02-14T00:10:37",
+      "earliest": "2019-02-14T00:10:37"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T17:51:28"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

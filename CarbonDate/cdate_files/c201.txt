@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://theconservativetreehouse.com/2019/02/12/dowd-nails-it-former-trump-attorney-outlines-insufferable-behavior-of-mueller-and-rosenstein-in-perpetrating-political-russia-hoax/",
+  "uri": "https://theconservativetreehouse.com/2019/02/12/dowd-nails-it-former-trump-attorney-outlines-insufferable-behavior-of-mueller-and-rosenstein-in-perpetrating-political-russia-hoax/",
+  "estimated-creation-date": "2019-02-12T21:51:35",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T21:51:35"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212225041/https://theconservativetreehouse.com/2019/02/12/dowd-nails-it-former-trump-attorney-outlines-insufferable-behavior-of-mueller-and-rosenstein-in-perpetrating-political-russia-hoax/",
+      "memento-datetime": "2019-02-12T22:47:17",
+      "memento-pubdate": "2019-02-12T21:51:35",
+      "earliest": "2019-02-12T21:51:35"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190212233929/https://theconservativetreehouse.com/2019/02/12/dowd-nails-it-former-trump-attorney-outlines-insufferable-behavior-of-mueller-and-rosenstein-in-perpetrating-political-russia-hoax/",
+      "memento-datetime": "2019-02-12T23:39:29",
+      "memento-pubdate": "2019-02-12T23:39:29",
+      "earliest": "2019-02-12T23:39:29"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T22:34:04"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

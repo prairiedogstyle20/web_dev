@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/reuters/2019/02/13/sports/rugby/13reuters-rugby-union-super-rebels.html?partner=IFTTT",
+  "uri": "https://www.nytimes.com/reuters/2019/02/13/sports/rugby/13reuters-rugby-union-super-rebels.html?partner=IFTTT",
+  "estimated-creation-date": "2019-02-13T07:52:41",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:49:11"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T07:52:41"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:53:16"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

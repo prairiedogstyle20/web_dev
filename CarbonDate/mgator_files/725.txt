@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like",
+  "self": "http://localhost:1208/timemap/json/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T19:13:41Z",
+        "uri": "http://web.archive.org/web/20190213191341/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like"
+      },
+      {
+        "datetime": "2019-02-13T20:38:00Z",
+        "uri": "http://web.archive.org/web/20190213203800/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like"
+      },
+      {
+        "datetime": "2019-02-13T21:44:36Z",
+        "uri": "http://web.archive.org/web/20190213214436/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like"
+      },
+      {
+        "datetime": "2019-02-14T01:18:59Z",
+        "uri": "http://web.archive.org/web/20190214011859/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like"
+      },
+      {
+        "datetime": "2019-02-14T01:25:16Z",
+        "uri": "http://web.archive.org/web/20190214012516/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like"
+      },
+      {
+        "datetime": "2019-02-14T06:03:46Z",
+        "uri": "http://web.archive.org/web/20190214060346/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T19:13:41Z",
+      "uri": "http://web.archive.org/web/20190213191341/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like"
+    },
+    "last": {
+      "datetime": "2019-02-14T06:03:46Z",
+      "uri": "http://web.archive.org/web/20190214060346/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like",
+    "json_format": "http://localhost:1208/timemap/json/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.newyorker.com/news/our-columnists/the-border-deal-is-what-a-defeat-for-donald-trump-looks-like"
+}

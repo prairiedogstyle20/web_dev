@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.amazon.com/dp/B079BX6KB7/ref=cm_sw_r_tw_dp_U_x_C-0DAbBH7EHTS",
+  "uri": "https://www.amazon.com/dp/B079BX6KB7/ref=cm_sw_r_tw_dp_U_x_C-0DAbBH7EHTS",
+  "estimated-creation-date": "2019-02-06T08:00:16",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T08:00:16"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

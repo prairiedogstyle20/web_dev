@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.dailywire.com/news/43366/watch-trump-calls-anti-semite-ilhan-omar-resign-ryan-saavedra",
+  "self": "http://localhost:1208/timemap/json/https://www.dailywire.com/news/43366/watch-trump-calls-anti-semite-ilhan-omar-resign-ryan-saavedra",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:44:15Z",
+        "uri": "http://web.archive.org/web/20190213124415/https://www.dailywire.com/news/43366/watch-trump-calls-anti-semite-ilhan-omar-resign-ryan-saavedra"
+      },
+      {
+        "datetime": "2019-02-14T08:14:56Z",
+        "uri": "http://web.archive.org/web/20190214081456/https://www.dailywire.com/news/43366/watch-trump-calls-anti-semite-ilhan-omar-resign-ryan-saavedra"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:44:15Z",
+      "uri": "http://web.archive.org/web/20190213124415/https://www.dailywire.com/news/43366/watch-trump-calls-anti-semite-ilhan-omar-resign-ryan-saavedra"
+    },
+    "last": {
+      "datetime": "2019-02-14T08:14:56Z",
+      "uri": "http://web.archive.org/web/20190214081456/https://www.dailywire.com/news/43366/watch-trump-calls-anti-semite-ilhan-omar-resign-ryan-saavedra"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.dailywire.com/news/43366/watch-trump-calls-anti-semite-ilhan-omar-resign-ryan-saavedra",
+    "json_format": "http://localhost:1208/timemap/json/https://www.dailywire.com/news/43366/watch-trump-calls-anti-semite-ilhan-omar-resign-ryan-saavedra",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.dailywire.com/news/43366/watch-trump-calls-anti-semite-ilhan-omar-resign-ryan-saavedra"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.dailywire.com/news/43366/watch-trump-calls-anti-semite-ilhan-omar-resign-ryan-saavedra"
+}

@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://g1.globo.com/politica/noticia/2019/02/12/desembargador-nega-revogar-pedido-de-prisao-de-ex-socio-do-extinto-trump-hotel.ghtml",
+  "self": "http://localhost:1208/timemap/json/https://g1.globo.com/politica/noticia/2019/02/12/desembargador-nega-revogar-pedido-de-prisao-de-ex-socio-do-extinto-trump-hotel.ghtml",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T00:05:56Z",
+        "uri": "http://web.archive.org/web/20190213000556/https://g1.globo.com/politica/noticia/2019/02/12/desembargador-nega-revogar-pedido-de-prisao-de-ex-socio-do-extinto-trump-hotel.ghtml"
+      },
+      {
+        "datetime": "2019-02-13T13:35:50Z",
+        "uri": "http://web.archive.org/web/20190213133550/https://g1.globo.com/politica/noticia/2019/02/12/desembargador-nega-revogar-pedido-de-prisao-de-ex-socio-do-extinto-trump-hotel.ghtml"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T00:05:56Z",
+      "uri": "http://web.archive.org/web/20190213000556/https://g1.globo.com/politica/noticia/2019/02/12/desembargador-nega-revogar-pedido-de-prisao-de-ex-socio-do-extinto-trump-hotel.ghtml"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:35:50Z",
+      "uri": "http://web.archive.org/web/20190213133550/https://g1.globo.com/politica/noticia/2019/02/12/desembargador-nega-revogar-pedido-de-prisao-de-ex-socio-do-extinto-trump-hotel.ghtml"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://g1.globo.com/politica/noticia/2019/02/12/desembargador-nega-revogar-pedido-de-prisao-de-ex-socio-do-extinto-trump-hotel.ghtml",
+    "json_format": "http://localhost:1208/timemap/json/https://g1.globo.com/politica/noticia/2019/02/12/desembargador-nega-revogar-pedido-de-prisao-de-ex-socio-do-extinto-trump-hotel.ghtml",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://g1.globo.com/politica/noticia/2019/02/12/desembargador-nega-revogar-pedido-de-prisao-de-ex-socio-do-extinto-trump-hotel.ghtml"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://g1.globo.com/politica/noticia/2019/02/12/desembargador-nega-revogar-pedido-de-prisao-de-ex-socio-do-extinto-trump-hotel.ghtml"
+}

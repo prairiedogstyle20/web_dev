@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nbcnews.com/politics/donald-trump/fact-check-trump-claims-wall-made-el-paso-safe-data-n969506",
+  "uri": "https://www.nbcnews.com/politics/donald-trump/fact-check-trump-claims-wall-made-el-paso-safe-data-n969506",
+  "estimated-creation-date": "2019-02-11T22:38:27",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212005402/https://www.nbcnews.com/politics/donald-trump/fact-check-trump-claims-wall-made-el-paso-safe-data-n969506",
+      "memento-datetime": "2019-02-12T00:54:02",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T00:54:02"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190212105744/https://www.nbcnews.com/politics/donald-trump/fact-check-trump-claims-wall-made-el-paso-safe-data-n969506",
+      "memento-datetime": "2019-02-12T10:57:44",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T10:57:44"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-11T22:38:27"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

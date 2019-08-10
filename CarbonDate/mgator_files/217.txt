@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711",
+  "self": "http://localhost:1208/timemap/json/http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T22:09:52Z",
+        "uri": "http://web.archive.org/web/20190213220952/http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711"
+      },
+      {
+        "datetime": "2019-02-14T03:34:28Z",
+        "uri": "http://web.archive.org/web/20190214033428/http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T22:09:52Z",
+      "uri": "http://web.archive.org/web/20190213220952/http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711"
+    },
+    "last": {
+      "datetime": "2019-02-14T03:34:28Z",
+      "uri": "http://web.archive.org/web/20190214033428/http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711",
+    "json_format": "http://localhost:1208/timemap/json/http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711"
+}

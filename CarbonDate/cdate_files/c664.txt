@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html",
+  "uri": "https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html",
+  "estimated-creation-date": "2019-02-12T02:32:22",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212082833/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html",
+      "memento-datetime": "2019-02-12T08:28:33",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T08:28:33"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T02:32:22"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

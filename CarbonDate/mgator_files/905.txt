@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic",
+  "self": "http://localhost:1208/timemap/json/https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T18:20:13Z",
+        "uri": "http://web.archive.org/web/20190212182013/https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic"
+      },
+      {
+        "datetime": "2019-02-13T12:45:36Z",
+        "uri": "http://web.archive.org/web/20190213124536/https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic"
+      },
+      {
+        "datetime": "2019-02-13T22:12:05Z",
+        "uri": "http://web.archive.org/web/20190213221205/https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T18:20:13Z",
+      "uri": "http://web.archive.org/web/20190212182013/https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic"
+    },
+    "last": {
+      "datetime": "2019-02-13T22:12:05Z",
+      "uri": "http://web.archive.org/web/20190213221205/https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic",
+    "json_format": "http://localhost:1208/timemap/json/https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://thehill.com/homenews/administration/429609-trump-calls-on-omar-to-resign-over-remarks-condemned-as-anti-semitic"
+}

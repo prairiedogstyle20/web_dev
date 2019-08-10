@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.hochi.co.jp/sports/feature/hakone/20190129-OHT1T50216.html?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "https://www.hochi.co.jp/sports/feature/hakone/20190129-OHT1T50216.html?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "2019-01-29T20:22:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-01-29T20:22:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

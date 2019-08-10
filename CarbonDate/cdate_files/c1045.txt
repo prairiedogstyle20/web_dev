@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.football.london/tottenham-hotspur-fc/news/sky-sports-pundit-gives-prediction-15822477",
+  "uri": "https://www.football.london/tottenham-hotspur-fc/news/sky-sports-pundit-gives-prediction-15822477",
+  "estimated-creation-date": "2019-02-13T07:47:45",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T07:47:45"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:55:56"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

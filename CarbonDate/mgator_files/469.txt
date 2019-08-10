@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.infowars.com/menendez-attacks-trump-for-classifying-drunk-driving-illegals-as-criminal/",
+  "self": "http://localhost:1208/timemap/json/https://www.infowars.com/menendez-attacks-trump-for-classifying-drunk-driving-illegals-as-criminal/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T07:45:31Z",
+        "uri": "http://web.archive.org/web/20190213074531/https://www.infowars.com/menendez-attacks-trump-for-classifying-drunk-driving-illegals-as-criminal/"
+      },
+      {
+        "datetime": "2019-02-13T13:09:46Z",
+        "uri": "http://web.archive.org/web/20190213130946/https://www.infowars.com/menendez-attacks-trump-for-classifying-drunk-driving-illegals-as-criminal/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T07:45:31Z",
+      "uri": "http://web.archive.org/web/20190213074531/https://www.infowars.com/menendez-attacks-trump-for-classifying-drunk-driving-illegals-as-criminal/"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:09:46Z",
+      "uri": "http://web.archive.org/web/20190213130946/https://www.infowars.com/menendez-attacks-trump-for-classifying-drunk-driving-illegals-as-criminal/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.infowars.com/menendez-attacks-trump-for-classifying-drunk-driving-illegals-as-criminal/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.infowars.com/menendez-attacks-trump-for-classifying-drunk-driving-illegals-as-criminal/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.infowars.com/menendez-attacks-trump-for-classifying-drunk-driving-illegals-as-criminal/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.infowars.com/menendez-attacks-trump-for-classifying-drunk-driving-illegals-as-criminal/"
+}

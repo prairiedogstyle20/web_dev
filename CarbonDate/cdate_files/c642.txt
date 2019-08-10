@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://ussanews.com/News1/2019/02/12/bill-gates-issues-huge-warning-for-all-americans-president-trump-was-right/",
+  "uri": "https://ussanews.com/News1/2019/02/12/bill-gates-issues-huge-warning-for-all-americans-president-trump-was-right/",
+  "estimated-creation-date": "2019-02-12T07:39:51",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T07:39:51"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T15:10:58"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/https://nypost.com/2017/11/07/firm-behind-trump-dossier-met-with-russian-lawyer-involved-in-trump-jr-meeting/",
+  "uri": "https://nypost.com/2017/11/07/firm-behind-trump-dossier-met-with-russian-lawyer-involved-in-trump-jr-meeting/",
+  "estimated-creation-date": "2017-11-07T20:53:58",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org",
+    "wayback.archive-it.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2017-11-07T20:53:58"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20171108002148/http://nypost.com/2017/11/07/firm-behind-trump-dossier-met-with-russian-lawyer-involved-in-trump-jr-meeting/",
+      "memento-datetime": "2017-11-08T00:21:48",
+      "memento-pubdate": "2017-11-07T20:53:58",
+      "earliest": "2017-11-07T20:53:58"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20180209180627/https://nypost.com/2017/11/07/firm-behind-trump-dossier-met-with-russian-lawyer-involved-in-trump-jr-meeting/",
+      "memento-datetime": "2018-02-09T18:06:27",
+      "memento-pubdate": "2018-02-09T18:06:27",
+      "earliest": "2018-02-09T18:06:27"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180905023751/http://nypost.com/2017/11/07/firm-behind-trump-dossier-met-with-russian-lawyer-involved-in-trump-jr-meeting/",
+      "memento-datetime": "2018-09-05T02:37:52",
+      "memento-pubdate": "2017-11-07T20:53:58",
+      "earliest": "2017-11-07T20:53:58"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:28:08"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

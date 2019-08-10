@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and",
+  "self": "http://localhost:1208/timemap/json/https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T04:56:19Z",
+        "uri": "http://web.archive.org/web/20190213045619/https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and"
+      },
+      {
+        "datetime": "2019-02-13T12:27:52Z",
+        "uri": "http://web.archive.org/web/20190213122752/https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T04:56:19Z",
+      "uri": "http://web.archive.org/web/20190213045619/https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:27:52Z",
+      "uri": "http://web.archive.org/web/20190213122752/https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and"
+}

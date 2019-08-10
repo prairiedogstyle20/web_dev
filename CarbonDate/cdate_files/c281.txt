@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://soranews24.com/2019/02/13/snowy-japanese-sports-car-shows-what-happens-when-car-senpai-notices-you%e3%80%90video%e3%80%91/",
+  "uri": "https://soranews24.com/2019/02/13/snowy-japanese-sports-car-shows-what-happens-when-car-senpai-notices-you%e3%80%90video%e3%80%91/",
+  "estimated-creation-date": "2019-02-12T17:30:50",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T17:30:50"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T20:58:29"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gosanangelo.com/story/money/2019/02/13/donald-trump-george-washington-net-worth-us-presidents/39011559/",
+  "uri": "https://www.gosanangelo.com/story/money/2019/02/13/donald-trump-george-washington-net-worth-us-presidents/39011559/",
+  "estimated-creation-date": "2019-02-13T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:30:25"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:01"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

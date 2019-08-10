@@ -1,0 +1,1555 @@
+383
+{
+  "original_uri": "http://www.ojjpac.org/memorial.asp",
+  "self": "http://localhost:1208/timemap/json/http://www.ojjpac.org/memorial.asp",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2007-01-03T06:37:23Z",
+        "uri": "http://web.archive.org/web/20070103063723/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-01-07T20:42:17Z",
+        "uri": "http://web.archive.org/web/20070107204217/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-01-12T16:58:23Z",
+        "uri": "http://web.archive.org/web/20070112165823/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-01-17T14:18:33Z",
+        "uri": "http://web.archive.org/web/20070117141833/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-01-22T09:21:37Z",
+        "uri": "http://web.archive.org/web/20070122092137/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-01-27T17:46:13Z",
+        "uri": "http://web.archive.org/web/20070127174613/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-02-02T01:13:56Z",
+        "uri": "http://web.archive.org/web/20070202011356/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-02-09T23:44:50Z",
+        "uri": "http://web.archive.org/web/20070209234450/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-02-17T12:57:34Z",
+        "uri": "http://web.archive.org/web/20070217125734/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-03-07T13:49:29Z",
+        "uri": "http://web.archive.org/web/20070307134929/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-05-24T10:58:22Z",
+        "uri": "http://web.archive.org/web/20070524105822/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-06-23T23:20:42Z",
+        "uri": "http://web.archive.org/web/20070623232042/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-08-24T02:47:28Z",
+        "uri": "http://web.archive.org/web/20070824024728/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-10-02T10:50:20Z",
+        "uri": "http://web.archive.org/web/20071002105020/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-10-05T05:18:30Z",
+        "uri": "http://web.archive.org/web/20071005051830/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-10-06T16:29:33Z",
+        "uri": "http://web.archive.org/web/20071006162933/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-10-07T21:12:21Z",
+        "uri": "http://web.archive.org/web/20071007211221/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-10-08T21:20:12Z",
+        "uri": "http://web.archive.org/web/20071008212012/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-10-16T22:54:04Z",
+        "uri": "http://web.archive.org/web/20071016225404/http://ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2007-12-16T18:02:32Z",
+        "uri": "http://web.archive.org/web/20071216180232/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2008-02-26T09:42:52Z",
+        "uri": "http://web.archive.org/web/20080226094252/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2008-05-16T21:06:46Z",
+        "uri": "http://web.archive.org/web/20080516210646/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2008-12-05T01:01:05Z",
+        "uri": "http://web.archive.org/web/20081205010105/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2008-12-20T08:16:59Z",
+        "uri": "http://web.archive.org/web/20081220081659/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2009-02-14T21:20:04Z",
+        "uri": "http://webarchive.loc.gov/all/20090214212004/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-02-14T21:20:04Z",
+        "uri": "http://web.archive.org/web/20090214212004/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-02-14T21:20:04Z",
+        "uri": "http://web.archive.org/web/20090214212004/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-02-14T21:20:04Z",
+        "uri": "http://web.archive.org/web/20090214212004/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-02-14T21:20:04Z",
+        "uri": "http://web.archive.org/web/20090214212004/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-02-28T07:52:12Z",
+        "uri": "http://web.archive.org/web/20090228075212/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2009-03-07T06:28:53Z",
+        "uri": "http://webarchive.loc.gov/all/20090307062853/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-03-07T06:28:53Z",
+        "uri": "http://web.archive.org/web/20090307062853/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-03-07T06:28:53Z",
+        "uri": "http://web.archive.org/web/20090307062853/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-03-07T06:28:53Z",
+        "uri": "http://web.archive.org/web/20090307062853/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-03-07T06:28:53Z",
+        "uri": "http://web.archive.org/web/20090307062853/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-07-20T03:30:09Z",
+        "uri": "http://web.archive.org/web/20090720033009/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2009-09-12T18:11:48Z",
+        "uri": "http://web.archive.org/web/20090912181148/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-09-20T06:41:20Z",
+        "uri": "http://web.archive.org/web/20090920064120/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-09-20T06:41:20Z",
+        "uri": "http://web.archive.org/web/20090920064120/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-09-20T06:41:20Z",
+        "uri": "http://web.archive.org/web/20090920064120/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2009-09-20T06:41:20Z",
+        "uri": "http://web.archive.org/web/20090920064120/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2010-07-22T00:26:56Z",
+        "uri": "http://web.archive.org/web/20100722002656/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2010-09-27T22:43:47Z",
+        "uri": "http://web.archive.org/web/20100927224347/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2010-10-29T01:37:09Z",
+        "uri": "http://web.archive.org/web/20101029013709/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2010-11-29T06:51:04Z",
+        "uri": "http://web.archive.org/web/20101129065104/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2010-12-30T18:30:56Z",
+        "uri": "http://web.archive.org/web/20101230183056/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2011-01-10T18:58:05Z",
+        "uri": "http://wayback.archive-it.org/all/20110110185805/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2011-01-10T18:58:05Z",
+        "uri": "http://web.archive.org/web/20110110185805/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2011-02-25T16:12:13Z",
+        "uri": "http://webarchive.loc.gov/all/20110225161213/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2011-02-25T16:12:13Z",
+        "uri": "http://web.archive.org/web/20110225161213/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2011-03-29T00:13:17Z",
+        "uri": "http://webarchive.loc.gov/all/20110329001317/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2011-03-29T00:13:17Z",
+        "uri": "http://web.archive.org/web/20110329001317/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2011-05-01T00:59:19Z",
+        "uri": "http://web.archive.org/web/20110501005919/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2011-07-27T14:20:54Z",
+        "uri": "http://web.archive.org/web/20110727142054/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2011-09-02T07:09:28Z",
+        "uri": "http://web.archive.org/web/20110902070928/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2011-10-08T22:47:09Z",
+        "uri": "http://web.archive.org/web/20111008224709/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2012-01-01T08:24:45Z",
+        "uri": "http://web.archive.org/web/20120101082445/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2012-03-12T20:36:52Z",
+        "uri": "http://web.archive.org/web/20120312203652/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2012-04-19T16:28:06Z",
+        "uri": "http://web.archive.org/web/20120419162806/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2012-05-23T02:57:12Z",
+        "uri": "http://web.archive.org/web/20120523025712/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2012-06-29T21:46:58Z",
+        "uri": "http://web.archive.org/web/20120629214658/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2012-08-14T07:36:47Z",
+        "uri": "http://web.archive.org/web/20120814073647/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2012-10-31T09:59:58Z",
+        "uri": "http://web.archive.org/web/20121031095958/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2012-11-02T17:41:29Z",
+        "uri": "http://web.archive.org/web/20121102174129/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2012-12-14T03:00:40Z",
+        "uri": "http://web.archive.org/web/20121214030040/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2013-01-16T15:07:02Z",
+        "uri": "http://web.archive.org/web/20130116150702/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2013-03-30T10:12:33Z",
+        "uri": "http://web.archive.org/web/20130330101233/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2013-05-11T04:50:44Z",
+        "uri": "http://web.archive.org/web/20130511045044/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2013-05-14T05:10:03Z",
+        "uri": "http://web.archive.org/web/20130514051003/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-05-30T02:18:33Z",
+        "uri": "http://web.archive.org/web/20130530021833/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-07-13T22:37:46Z",
+        "uri": "http://wayback.archive-it.org/all/20130713223746/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-07-13T22:37:46Z",
+        "uri": "http://web.archive.org/web/20130713223746/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-08-11T23:59:13Z",
+        "uri": "http://web.archive.org/web/20130811235913/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-09-08T01:12:06Z",
+        "uri": "http://web.archive.org/web/20130908011206/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-09-21T20:56:21Z",
+        "uri": "http://webarchive.loc.gov/all/20130921205621/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-11-19T00:42:12Z",
+        "uri": "http://web.archive.org/web/20131119004212/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-11-22T05:42:04Z",
+        "uri": "http://wayback.archive-it.org/all/20131122054204/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-11-22T05:42:04Z",
+        "uri": "http://web.archive.org/web/20131122054204/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-11-29T02:47:48Z",
+        "uri": "http://wayback.archive-it.org/all/20131129024748/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-11-29T02:47:48Z",
+        "uri": "http://web.archive.org/web/20131129024748/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-12-05T03:58:10Z",
+        "uri": "http://web.archive.org/web/20131205035810/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-12-06T02:06:40Z",
+        "uri": "http://wayback.archive-it.org/all/20131206020640/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-12-06T02:06:40Z",
+        "uri": "http://web.archive.org/web/20131206020640/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-12-07T12:29:35Z",
+        "uri": "http://webarchive.loc.gov/all/20131207122935/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-12-14T05:06:55Z",
+        "uri": "http://webarchive.loc.gov/all/20131214050655/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-12-21T05:44:48Z",
+        "uri": "http://webarchive.loc.gov/all/20131221054448/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2013-12-27T17:33:17Z",
+        "uri": "http://webarchive.loc.gov/all/20131227173317/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-02-02T20:17:28Z",
+        "uri": "http://webarchive.loc.gov/all/20140202201728/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-02-09T00:17:31Z",
+        "uri": "http://web.archive.org/web/20140209001731/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-02-16T22:13:05Z",
+        "uri": "http://webarchive.loc.gov/all/20140216221305/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-02-22T02:18:39Z",
+        "uri": "http://archive.md/20140222021839/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-02-25T23:17:28Z",
+        "uri": "http://web.archive.org/web/20140225231728/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-03-01T09:23:02Z",
+        "uri": "http://web.archive.org/web/20140301092302/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2014-03-11T22:00:00Z",
+        "uri": "http://wayback.archive-it.org/all/20140311220000/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-03-11T22:00:00Z",
+        "uri": "http://web.archive.org/web/20140311220000/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-04-07T19:09:09Z",
+        "uri": "http://webarchive.loc.gov/all/20140407190909/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-04-15T02:53:34Z",
+        "uri": "http://webarchive.loc.gov/all/20140415025334/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-05-04T17:33:32Z",
+        "uri": "http://webarchive.loc.gov/all/20140504173332/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-05-12T22:51:25Z",
+        "uri": "http://webarchive.loc.gov/all/20140512225125/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-06-02T04:47:23Z",
+        "uri": "http://wayback.archive-it.org/all/20140602044723/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-06-02T04:47:23Z",
+        "uri": "http://web.archive.org/web/20140602044723/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-06-24T19:15:09Z",
+        "uri": "http://archive.md/20140624191509/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-08-13T04:36:26Z",
+        "uri": "http://web.archive.org/web/20140813043626/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-08-22T22:23:33Z",
+        "uri": "http://wayback.archive-it.org/all/20140822222333/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-08-22T22:23:33Z",
+        "uri": "http://wayback.archive-it.org/all/20140822222333/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-08-22T22:23:33Z",
+        "uri": "http://web.archive.org/web/20140822222333/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-08-23T21:43:37Z",
+        "uri": "http://web.archive.org/web/20140823214337/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-10-30T10:13:19Z",
+        "uri": "http://wayback.archive-it.org/all/20141030101319/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-10-30T10:13:19Z",
+        "uri": "http://wayback.archive-it.org/all/20141030101319/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-10-30T10:13:19Z",
+        "uri": "http://web.archive.org/web/20141030101319/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-11-01T13:49:47Z",
+        "uri": "http://wayback.archive-it.org/all/20141101134947/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-11-01T13:49:47Z",
+        "uri": "http://wayback.archive-it.org/all/20141101134947/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-11-01T13:49:47Z",
+        "uri": "http://web.archive.org/web/20141101134947/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-11-02T10:13:17Z",
+        "uri": "http://wayback.archive-it.org/all/20141102101317/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-11-02T10:13:17Z",
+        "uri": "http://wayback.archive-it.org/all/20141102101317/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-11-02T10:13:17Z",
+        "uri": "http://web.archive.org/web/20141102101317/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-11-03T09:49:53Z",
+        "uri": "http://wayback.archive-it.org/all/20141103094953/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-11-03T09:49:53Z",
+        "uri": "http://wayback.archive-it.org/all/20141103094953/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-11-03T09:49:53Z",
+        "uri": "http://web.archive.org/web/20141103094953/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-11-21T10:54:38Z",
+        "uri": "http://wayback.archive-it.org/all/20141121105438/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-11-21T10:54:38Z",
+        "uri": "http://wayback.archive-it.org/all/20141121105438/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-11-21T10:54:38Z",
+        "uri": "http://web.archive.org/web/20141121105438/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-12-02T06:37:58Z",
+        "uri": "http://web.archive.org/web/20141202063758/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-12-02T17:32:09Z",
+        "uri": "http://wayback.archive-it.org/all/20141202173209/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-12-02T17:32:09Z",
+        "uri": "http://wayback.archive-it.org/all/20141202173209/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-12-02T17:32:09Z",
+        "uri": "http://web.archive.org/web/20141202173209/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-12-15T02:03:07Z",
+        "uri": "http://web.archive.org/web/20141215020307/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2014-12-17T11:27:03Z",
+        "uri": "http://wayback.archive-it.org/all/20141217112703/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-12-17T11:27:03Z",
+        "uri": "http://wayback.archive-it.org/all/20141217112703/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-12-17T11:27:03Z",
+        "uri": "http://web.archive.org/web/20141217112703/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-12-17T11:48:26Z",
+        "uri": "http://wayback.archive-it.org/all/20141217114826/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-12-17T11:48:26Z",
+        "uri": "http://wayback.archive-it.org/all/20141217114826/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2014-12-17T11:48:26Z",
+        "uri": "http://web.archive.org/web/20141217114826/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-01-01T18:08:11Z",
+        "uri": "http://web.archive.org/web/20150101180811/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2015-01-20T05:45:32Z",
+        "uri": "http://web.archive.org/web/20150120054532/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-02-02T23:58:40Z",
+        "uri": "http://web.archive.org/web/20150202235840/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-02-14T07:38:45Z",
+        "uri": "http://web.archive.org/web/20150214073845/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2015-02-18T00:22:21Z",
+        "uri": "http://web.archive.org/web/20150218002221/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-02-19T18:49:44Z",
+        "uri": "http://web.archive.org/web/20150219184944/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2015-02-28T19:16:03Z",
+        "uri": "http://wayback.archive-it.org/all/20150228191603/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-02-28T19:16:03Z",
+        "uri": "http://wayback.archive-it.org/all/20150228191603/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-02-28T19:16:03Z",
+        "uri": "http://web.archive.org/web/20150228191603/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-03-01T19:29:01Z",
+        "uri": "http://web.archive.org/web/20150301192901/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-03-13T20:06:09Z",
+        "uri": "http://web.archive.org/web/20150313200609/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2015-03-15T07:37:42Z",
+        "uri": "http://web.archive.org/web/20150315073742/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-03-20T10:42:21Z",
+        "uri": "http://web.archive.org/web/20150320104221/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-03-25T12:40:03Z",
+        "uri": "http://web.archive.org/web/20150325124003/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-04-17T19:27:36Z",
+        "uri": "http://web.archive.org/web/20150417192736/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-05-03T04:38:39Z",
+        "uri": "http://web.archive.org/web/20150503043839/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2015-05-06T16:28:44Z",
+        "uri": "http://webarchive.loc.gov/all/20150506162844/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-06-28T16:04:32Z",
+        "uri": "http://web.archive.org/web/20150628160432/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2015-06-29T21:59:33Z",
+        "uri": "http://web.archive.org/web/20150629215933/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-07-08T03:18:15Z",
+        "uri": "http://webarchive.loc.gov/all/20150708031815/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-07-11T04:47:28Z",
+        "uri": "http://web.archive.org/web/20150711044728/http://www.ojjpac.org:80/Memorial.asp"
+      },
+      {
+        "datetime": "2015-07-14T03:58:53Z",
+        "uri": "http://web.archive.org/web/20150714035853/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-07-15T02:16:59Z",
+        "uri": "http://webarchive.loc.gov/all/20150715021659/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-07-18T18:05:50Z",
+        "uri": "http://webarchive.loc.gov/all/20150718180550/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-07-22T23:48:54Z",
+        "uri": "http://webarchive.loc.gov/all/20150722234854/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-07-24T16:32:56Z",
+        "uri": "http://webarchive.loc.gov/all/20150724163256/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-07-28T07:00:31Z",
+        "uri": "http://web.archive.org/web/20150728070031/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2015-08-11T03:10:33Z",
+        "uri": "http://web.archive.org/web/20150811031033/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2015-08-11T16:24:52Z",
+        "uri": "http://web.archive.org/web/20150811162452/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-08-29T05:00:15Z",
+        "uri": "http://web.archive.org/web/20150829050015/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2015-08-30T01:54:35Z",
+        "uri": "http://webarchive.loc.gov/all/20150830015435/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-09-03T23:26:44Z",
+        "uri": "http://webarchive.loc.gov/all/20150903232644/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-09-05T07:55:51Z",
+        "uri": "http://web.archive.org/web/20150905075551/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-09-11T11:30:25Z",
+        "uri": "http://webarchive.loc.gov/all/20150911113025/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-09-15T06:54:26Z",
+        "uri": "http://web.archive.org/web/20150915065426/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2015-09-18T14:17:03Z",
+        "uri": "http://webarchive.loc.gov/all/20150918141703/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-09-19T22:11:02Z",
+        "uri": "http://web.archive.org/web/20150919221102/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-09-26T19:21:09Z",
+        "uri": "http://web.archive.org/web/20150926192109/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-09-27T16:14:25Z",
+        "uri": "http://web.archive.org/web/20150927161425/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-10-16T04:07:15Z",
+        "uri": "http://webarchive.loc.gov/all/20151016040715/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-10-22T08:40:15Z",
+        "uri": "http://web.archive.org/web/20151022084015/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2015-11-27T20:25:48Z",
+        "uri": "http://web.archive.org/web/20151127202548/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2015-12-02T17:54:34Z",
+        "uri": "http://web.archive.org/web/20151202175434/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-12-19T09:16:38Z",
+        "uri": "http://web.archive.org/web/20151219091638/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-12-24T16:46:30Z",
+        "uri": "http://web.archive.org/web/20151224164630/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2015-12-30T12:15:05Z",
+        "uri": "http://web.archive.org/web/20151230121505/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-01-13T07:17:49Z",
+        "uri": "http://web.archive.org/web/20160113071749/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-01-31T16:45:38Z",
+        "uri": "http://web.archive.org/web/20160131164538/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-02-07T03:08:12Z",
+        "uri": "http://web.archive.org/web/20160207030812/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-02-07T17:48:04Z",
+        "uri": "http://web.archive.org/web/20160207174804/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-03-03T03:06:55Z",
+        "uri": "http://web.archive.org/web/20160303030655/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-03-06T07:05:59Z",
+        "uri": "http://webarchive.loc.gov/all/20160306070559/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-03-09T19:39:55Z",
+        "uri": "http://web.archive.org/web/20160309193955/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-03-10T21:23:47Z",
+        "uri": "http://web.archive.org/web/20160310212347/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-03-15T18:34:48Z",
+        "uri": "http://webarchive.loc.gov/all/20160315183448/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-03-18T13:27:15Z",
+        "uri": "http://web.archive.org/web/20160318132715/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-03-23T22:33:06Z",
+        "uri": "http://web.archive.org/web/20160323223306/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-03-28T17:56:52Z",
+        "uri": "http://webarchive.loc.gov/all/20160328175652/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-03-31T18:22:33Z",
+        "uri": "http://web.archive.org/web/20160331182233/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-04-01T04:30:32Z",
+        "uri": "http://webarchive.loc.gov/all/20160401043032/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-04-02T22:43:40Z",
+        "uri": "http://webarchive.loc.gov/all/20160402224340/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-04-06T19:32:59Z",
+        "uri": "http://webarchive.loc.gov/all/20160406193259/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-04-12T02:27:27Z",
+        "uri": "http://webarchive.loc.gov/all/20160412022727/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-04-13T16:25:20Z",
+        "uri": "http://web.archive.org/web/20160413162520/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-04-15T05:38:40Z",
+        "uri": "http://webarchive.loc.gov/all/20160415053840/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-04-15T15:47:15Z",
+        "uri": "http://web.archive.org/web/20160415154715/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-04-19T00:42:57Z",
+        "uri": "http://webarchive.loc.gov/all/20160419004257/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-04-26T09:23:38Z",
+        "uri": "http://webarchive.loc.gov/all/20160426092338/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-04-30T12:39:15Z",
+        "uri": "http://webarchive.loc.gov/all/20160430123915/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-01T12:55:30Z",
+        "uri": "http://webarchive.loc.gov/all/20160501125530/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-04T04:56:07Z",
+        "uri": "http://webarchive.loc.gov/all/20160504045607/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-06T16:24:55Z",
+        "uri": "http://web.archive.org/web/20160506162455/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-07T21:42:02Z",
+        "uri": "http://web.archive.org/web/20160507214202/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-08T14:06:14Z",
+        "uri": "http://webarchive.loc.gov/all/20160508140614/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-11T18:32:43Z",
+        "uri": "http://webarchive.loc.gov/all/20160511183243/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-12T20:00:19Z",
+        "uri": "http://web.archive.org/web/20160512200019/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-15T15:30:49Z",
+        "uri": "http://webarchive.loc.gov/all/20160515153049/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-18T05:51:41Z",
+        "uri": "https://arquivo.pt/wayback/20160518055141/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-18T19:54:56Z",
+        "uri": "http://webarchive.loc.gov/all/20160518195456/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-22T23:26:30Z",
+        "uri": "http://webarchive.loc.gov/all/20160522232630/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-26T08:45:11Z",
+        "uri": "http://webarchive.loc.gov/all/20160526084511/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-05-27T09:46:18Z",
+        "uri": "http://webarchive.loc.gov/all/20160527094618/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-06-02T09:08:31Z",
+        "uri": "http://webarchive.loc.gov/all/20160602090831/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-06-02T13:40:56Z",
+        "uri": "http://webarchive.loc.gov/all/20160602134056/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-06-05T08:38:05Z",
+        "uri": "http://web.archive.org/web/20160605083805/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-06-06T13:17:23Z",
+        "uri": "http://web.archive.org/web/20160606131723/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-06-09T14:30:10Z",
+        "uri": "http://webarchive.loc.gov/all/20160609143010/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-06-12T12:31:27Z",
+        "uri": "http://webarchive.loc.gov/all/20160612123127/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-06-16T06:30:41Z",
+        "uri": "http://webarchive.loc.gov/all/20160616063041/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-06-16T23:19:35Z",
+        "uri": "http://webarchive.loc.gov/all/20160616231935/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-06-23T05:51:03Z",
+        "uri": "http://webarchive.loc.gov/all/20160623055103/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-06-30T08:55:32Z",
+        "uri": "http://web.archive.org/web/20160630085532/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-06-30T14:37:55Z",
+        "uri": "http://webarchive.loc.gov/all/20160630143755/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-07-05T00:21:39Z",
+        "uri": "http://webarchive.loc.gov/all/20160705002139/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-07-09T23:16:07Z",
+        "uri": "http://webarchive.loc.gov/all/20160709231607/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-07-10T08:06:14Z",
+        "uri": "http://webarchive.loc.gov/all/20160710080614/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-07-17T13:50:20Z",
+        "uri": "http://webarchive.loc.gov/all/20160717135020/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-07-20T16:50:56Z",
+        "uri": "http://web.archive.org/web/20160720165056/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-07-27T12:42:57Z",
+        "uri": "http://web.archive.org/web/20160727124257/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-07-31T16:08:33Z",
+        "uri": "http://webarchive.loc.gov/all/20160731160833/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-07-31T22:23:12Z",
+        "uri": "http://webarchive.loc.gov/all/20160731222312/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-08-06T01:04:24Z",
+        "uri": "http://webarchive.loc.gov/all/20160806010424/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-08-16T13:00:20Z",
+        "uri": "http://web.archive.org/web/20160816130020/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-08-19T22:42:50Z",
+        "uri": "http://webarchive.loc.gov/all/20160819224250/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-09-06T01:24:41Z",
+        "uri": "http://web.archive.org/web/20160906012441/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-09-17T00:04:38Z",
+        "uri": "http://web.archive.org/web/20160917000438/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-09-23T03:08:50Z",
+        "uri": "http://webarchive.loc.gov/all/20160923030850/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-10-02T23:47:12Z",
+        "uri": "http://web.archive.org/web/20161002234712/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-10-12T22:21:38Z",
+        "uri": "http://webarchive.loc.gov/all/20161012222138/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-10-27T11:43:28Z",
+        "uri": "http://web.archive.org/web/20161027114328/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-10-29T01:02:10Z",
+        "uri": "http://web.archive.org/web/20161029010210/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-11-01T17:44:21Z",
+        "uri": "http://webarchive.loc.gov/all/20161101174421/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-11-03T00:13:47Z",
+        "uri": "http://webarchive.loc.gov/all/20161103001347/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-11-13T21:51:36Z",
+        "uri": "http://web.archive.org/web/20161113215136/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-11-19T14:55:21Z",
+        "uri": "http://webarchive.loc.gov/all/20161119145521/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-11-21T03:40:10Z",
+        "uri": "http://web.archive.org/web/20161121034010/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-11-27T07:35:29Z",
+        "uri": "http://webarchive.loc.gov/all/20161127073529/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-12-03T01:42:50Z",
+        "uri": "http://webarchive.loc.gov/all/20161203014250/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-12-03T13:47:42Z",
+        "uri": "http://web.archive.org/web/20161203134742/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-12-06T16:05:26Z",
+        "uri": "http://web.archive.org/web/20161206160526/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2016-12-12T23:54:17Z",
+        "uri": "http://webarchive.loc.gov/all/20161212235417/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-12-27T00:22:37Z",
+        "uri": "http://wayback.archive-it.org/all/20161227002237/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2016-12-27T00:22:37Z",
+        "uri": "http://web.archive.org/web/20161227002237/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-01-07T01:44:56Z",
+        "uri": "http://web.archive.org/web/20170107014456/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-01-07T08:45:41Z",
+        "uri": "http://web.archive.org/web/20170107084541/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-01-07T14:35:12Z",
+        "uri": "http://web.archive.org/web/20170107143512/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-01-11T02:44:13Z",
+        "uri": "http://web.archive.org/web/20170111024413/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-01-11T13:55:26Z",
+        "uri": "http://web.archive.org/web/20170111135526/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-01-17T02:05:04Z",
+        "uri": "http://web.archive.org/web/20170117020504/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-01-26T23:30:18Z",
+        "uri": "http://web.archive.org/web/20170126233018/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-01-28T22:57:33Z",
+        "uri": "http://web.archive.org/web/20170128225733/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-01-28T22:57:35Z",
+        "uri": "http://web.archive.org/web/20170128225735/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-01-31T11:55:14Z",
+        "uri": "http://web.archive.org/web/20170131115514/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-01T03:17:22Z",
+        "uri": "http://web.archive.org/web/20170201031722/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-01T13:52:18Z",
+        "uri": "http://web.archive.org/web/20170201135218/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-02T20:02:29Z",
+        "uri": "http://web.archive.org/web/20170202200229/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-03T04:38:05Z",
+        "uri": "http://web.archive.org/web/20170203043805/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-04T02:09:53Z",
+        "uri": "http://web.archive.org/web/20170204020953/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-04T02:14:09Z",
+        "uri": "http://web.archive.org/web/20170204021409/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-04T06:09:57Z",
+        "uri": "http://web.archive.org/web/20170204060957/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-05T15:29:34Z",
+        "uri": "http://web.archive.org/web/20170205152934/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-06T09:37:20Z",
+        "uri": "http://web.archive.org/web/20170206093720/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-08T02:45:17Z",
+        "uri": "http://web.archive.org/web/20170208024517/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-08T21:02:05Z",
+        "uri": "http://web.archive.org/web/20170208210205/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-08T21:02:40Z",
+        "uri": "http://web.archive.org/web/20170208210240/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-08T22:47:02Z",
+        "uri": "http://web.archive.org/web/20170208224702/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-16T07:25:20Z",
+        "uri": "http://web.archive.org/web/20170216072520/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-17T01:21:20Z",
+        "uri": "http://web.archive.org/web/20170217012120/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-17T22:54:35Z",
+        "uri": "http://web.archive.org/web/20170217225435/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-18T00:59:32Z",
+        "uri": "http://web.archive.org/web/20170218005932/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-18T11:08:58Z",
+        "uri": "http://web.archive.org/web/20170218110858/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-20T07:25:02Z",
+        "uri": "http://web.archive.org/web/20170220072502/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-23T15:47:13Z",
+        "uri": "http://web.archive.org/web/20170223154713/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-23T20:37:29Z",
+        "uri": "http://web.archive.org/web/20170223203729/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-24T19:36:14Z",
+        "uri": "http://web.archive.org/web/20170224193614/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-02-27T08:00:30Z",
+        "uri": "http://web.archive.org/web/20170227080030/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-03-07T10:12:46Z",
+        "uri": "http://web.archive.org/web/20170307101246/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-03-07T13:02:14Z",
+        "uri": "http://web.archive.org/web/20170307130214/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-03-08T22:33:57Z",
+        "uri": "http://web.archive.org/web/20170308223357/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-03-10T16:12:21Z",
+        "uri": "http://web.archive.org/web/20170310161221/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-03-25T12:36:00Z",
+        "uri": "http://web.archive.org/web/20170325123600/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-03-26T03:22:52Z",
+        "uri": "http://web.archive.org/web/20170326032252/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-04-09T03:41:11Z",
+        "uri": "http://web.archive.org/web/20170409034111/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-04-10T13:35:14Z",
+        "uri": "http://web.archive.org/web/20170410133514/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-04-19T07:03:25Z",
+        "uri": "http://web.archive.org/web/20170419070325/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-04-23T15:31:07Z",
+        "uri": "http://web.archive.org/web/20170423153107/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-05-11T23:51:28Z",
+        "uri": "http://archive.md/20170511235128/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-05-13T05:39:01Z",
+        "uri": "http://web.archive.org/web/20170513053901/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-05-18T02:12:13Z",
+        "uri": "http://web.archive.org/web/20170518021213/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-06-06T11:49:53Z",
+        "uri": "http://web.archive.org/web/20170606114953/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2017-06-09T21:34:33Z",
+        "uri": "http://web.archive.org/web/20170609213433/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-06-10T23:29:16Z",
+        "uri": "http://web.archive.org/web/20170610232916/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-06-13T07:19:11Z",
+        "uri": "http://web.archive.org/web/20170613071911/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-06-19T23:58:48Z",
+        "uri": "http://web.archive.org/web/20170619235848/http://ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2017-07-07T14:10:30Z",
+        "uri": "http://web.archive.org/web/20170707141030/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2017-07-19T21:00:06Z",
+        "uri": "http://wayback.archive-it.org/all/20170719210006/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-07-19T21:00:06Z",
+        "uri": "http://web.archive.org/web/20170719210006/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-08-08T20:38:05Z",
+        "uri": "http://web.archive.org/web/20170808203805/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2017-08-17T03:48:26Z",
+        "uri": "http://web.archive.org/web/20170817034826/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-08-30T00:14:53Z",
+        "uri": "http://web.archive.org/web/20170830001453/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-09-05T06:10:11Z",
+        "uri": "http://web.archive.org/web/20170905061011/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-09-08T20:18:59Z",
+        "uri": "http://web.archive.org/web/20170908201859/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2017-09-16T17:52:46Z",
+        "uri": "http://web.archive.org/web/20170916175246/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-09-23T11:02:15Z",
+        "uri": "http://web.archive.org/web/20170923110215/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-09-25T14:06:05Z",
+        "uri": "http://web.archive.org/web/20170925140605/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-10-04T04:21:37Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20171004042137/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-10-09T11:59:40Z",
+        "uri": "http://web.archive.org/web/20171009115940/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2017-11-03T01:23:14Z",
+        "uri": "http://web.archive.org/web/20171103012314/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2017-11-08T00:35:39Z",
+        "uri": "http://web.archive.org/web/20171108003539/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-11-14T00:34:53Z",
+        "uri": "http://web.archive.org/web/20171114003453/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-11-27T04:52:20Z",
+        "uri": "http://web.archive.org/web/20171127045220/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-12-12T01:21:15Z",
+        "uri": "http://web.archive.org/web/20171212012115/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2017-12-20T17:27:59Z",
+        "uri": "http://webarchive.loc.gov/all/20171220172759/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2017-12-29T04:57:34Z",
+        "uri": "http://web.archive.org/web/20171229045734/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-09T08:51:00Z",
+        "uri": "http://webarchive.loc.gov/all/20180109085100/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-16T19:17:27Z",
+        "uri": "http://webarchive.loc.gov/all/20180116191727/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-19T21:18:56Z",
+        "uri": "http://web.archive.org/web/20180119211856/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-23T16:39:54Z",
+        "uri": "http://webarchive.loc.gov/all/20180123163954/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-24T21:50:30Z",
+        "uri": "http://wayback.archive-it.org/all/20180124215030/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-24T21:50:30Z",
+        "uri": "http://web.archive.org/web/20180124215030/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-24T23:12:13Z",
+        "uri": "http://wayback.archive-it.org/all/20180124231213/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-24T23:12:13Z",
+        "uri": "http://web.archive.org/web/20180124231213/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-25T00:22:57Z",
+        "uri": "http://wayback.archive-it.org/all/20180125002257/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-25T00:22:57Z",
+        "uri": "http://web.archive.org/web/20180125002257/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-25T01:43:46Z",
+        "uri": "http://wayback.archive-it.org/all/20180125014346/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-25T01:43:46Z",
+        "uri": "http://web.archive.org/web/20180125014346/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-25T01:53:20Z",
+        "uri": "http://wayback.archive-it.org/all/20180125015320/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-25T01:53:20Z",
+        "uri": "http://web.archive.org/web/20180125015320/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-25T14:12:24Z",
+        "uri": "http://wayback.archive-it.org/all/20180125141224/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-01-25T14:12:24Z",
+        "uri": "http://web.archive.org/web/20180125141224/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-02-02T08:43:47Z",
+        "uri": "http://web.archive.org/web/20180202084347/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-02-25T01:42:45Z",
+        "uri": "http://web.archive.org/web/20180225014245/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2018-02-27T04:49:50Z",
+        "uri": "http://wayback.archive-it.org/all/20180227044950/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-02-27T04:49:50Z",
+        "uri": "http://web.archive.org/web/20180227044950/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-03-13T03:42:13Z",
+        "uri": "http://web.archive.org/web/20180313034213/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-03-28T02:39:05Z",
+        "uri": "http://web.archive.org/web/20180328023905/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2018-04-28T08:46:38Z",
+        "uri": "http://web.archive.org/web/20180428084638/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2018-05-30T14:53:28Z",
+        "uri": "http://web.archive.org/web/20180530145328/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2018-06-16T03:03:01Z",
+        "uri": "http://web.archive.org/web/20180616030301/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-06-16T03:03:55Z",
+        "uri": "http://web.archive.org/web/20180616030355/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-06-16T03:07:11Z",
+        "uri": "http://archive.md/20180616030711/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-06-20T21:29:33Z",
+        "uri": "http://wayback.archive-it.org/all/20180620212933/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-06-20T21:29:33Z",
+        "uri": "http://web.archive.org/web/20180620212933/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-06-25T13:42:47Z",
+        "uri": "http://web.archive.org/web/20180625134247/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2018-06-27T03:23:21Z",
+        "uri": "http://web.archive.org/web/20180627032321/http://www.ojjpac.org:80/memorial.asp"
+      },
+      {
+        "datetime": "2018-07-20T02:13:55Z",
+        "uri": "http://web.archive.org/web/20180720021355/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-08-13T22:38:52Z",
+        "uri": "http://web.archive.org/web/20180813223852/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-08-26T21:39:21Z",
+        "uri": "http://web.archive.org/web/20180826213921/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-08-31T12:28:22Z",
+        "uri": "http://web.archive.org/web/20180831122822/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-09-21T20:55:21Z",
+        "uri": "http://web.archive.org/web/20180921205521/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-10-06T06:18:13Z",
+        "uri": "http://web.archive.org/web/20181006061813/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-10-28T05:43:13Z",
+        "uri": "http://wayback.archive-it.org/all/20181028054313/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-10-28T05:43:13Z",
+        "uri": "http://web.archive.org/web/20181028054313/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-12-24T18:38:09Z",
+        "uri": "http://web.archive.org/web/20181224183809/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-12-29T07:58:44Z",
+        "uri": "http://web.archive.org/web/20181229075844/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2018-12-30T21:10:02Z",
+        "uri": "http://web.archive.org/web/20181230211002/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-01-05T18:41:55Z",
+        "uri": "http://web.archive.org/web/20190105184155/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-01-11T17:49:54Z",
+        "uri": "http://archive.md/20190111174954/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-01-17T22:41:16Z",
+        "uri": "http://web.archive.org/web/20190117224116/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-01-18T19:05:04Z",
+        "uri": "http://wayback.archive-it.org/all/20190118190504/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-01-18T19:05:04Z",
+        "uri": "http://web.archive.org/web/20190118190504/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-01-19T15:08:09Z",
+        "uri": "http://wayback.archive-it.org/all/20190119150809/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-01-19T15:08:09Z",
+        "uri": "http://web.archive.org/web/20190119150809/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-01-22T20:23:27Z",
+        "uri": "http://wayback.archive-it.org/all/20190122202327/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-01-22T20:23:27Z",
+        "uri": "http://web.archive.org/web/20190122202327/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-01-24T02:56:02Z",
+        "uri": "http://web.archive.org/web/20190124025602/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-01-30T13:28:50Z",
+        "uri": "http://web.archive.org/web/20190130132850/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-01-30T16:16:59Z",
+        "uri": "http://web.archive.org/web/20190130161659/http://www.ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-02-04T08:26:30Z",
+        "uri": "http://wayback.archive-it.org/all/20190204082630/http://ojjpac.org/memorial.asp"
+      },
+      {
+        "datetime": "2019-02-04T08:26:30Z",
+        "uri": "http://web.archive.org/web/20190204082630/http://ojjpac.org/memorial.asp"
+      }
+    ],
+    "first": {
+      "datetime": "2007-01-03T06:37:23Z",
+      "uri": "http://web.archive.org/web/20070103063723/http://www.ojjpac.org:80/memorial.asp"
+    },
+    "last": {
+      "datetime": "2019-02-04T08:26:30Z",
+      "uri": "http://web.archive.org/web/20190204082630/http://ojjpac.org/memorial.asp"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.ojjpac.org/memorial.asp",
+    "json_format": "http://localhost:1208/timemap/json/http://www.ojjpac.org/memorial.asp",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.ojjpac.org/memorial.asp"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.ojjpac.org/memorial.asp"
+}

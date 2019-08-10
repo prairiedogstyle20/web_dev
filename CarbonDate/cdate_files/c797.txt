@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.salon.com/2019/02/13/fox-news-blames-americans-for-diminished-tax-refunds-under-trump/",
+  "uri": "https://www.salon.com/2019/02/13/fox-news-blames-americans-for-diminished-tax-refunds-under-trump/",
+  "estimated-creation-date": "2019-02-13T14:51:02",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:51:02"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213231955/https://www.salon.com/2019/02/13/fox-news-blames-americans-for-diminished-tax-refunds-under-trump/",
+      "memento-datetime": "2019-02-13T23:19:55",
+      "memento-pubdate": "2019-02-13T14:51:02",
+      "earliest": "2019-02-13T14:51:02"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:52:20"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

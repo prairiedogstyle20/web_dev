@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://townhall.com/tipsheet/katiepavlich/2019/02/13/graham-president-trump-will-likely-sign-the-border-deal-and-might-also-declare-a-national-emergency-n2541440",
+  "self": "http://localhost:1208/timemap/json/https://townhall.com/tipsheet/katiepavlich/2019/02/13/graham-president-trump-will-likely-sign-the-border-deal-and-might-also-declare-a-national-emergency-n2541440",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T02:52:38Z",
+        "uri": "http://web.archive.org/web/20190214025238/https://townhall.com/tipsheet/katiepavlich/2019/02/13/graham-president-trump-will-likely-sign-the-border-deal-and-might-also-declare-a-national-emergency-n2541440"
+      },
+      {
+        "datetime": "2019-02-14T12:30:47Z",
+        "uri": "http://web.archive.org/web/20190214123047/https://townhall.com/tipsheet/katiepavlich/2019/02/13/graham-president-trump-will-likely-sign-the-border-deal-and-might-also-declare-a-national-emergency-n2541440"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T02:52:38Z",
+      "uri": "http://web.archive.org/web/20190214025238/https://townhall.com/tipsheet/katiepavlich/2019/02/13/graham-president-trump-will-likely-sign-the-border-deal-and-might-also-declare-a-national-emergency-n2541440"
+    },
+    "last": {
+      "datetime": "2019-02-14T12:30:47Z",
+      "uri": "http://web.archive.org/web/20190214123047/https://townhall.com/tipsheet/katiepavlich/2019/02/13/graham-president-trump-will-likely-sign-the-border-deal-and-might-also-declare-a-national-emergency-n2541440"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://townhall.com/tipsheet/katiepavlich/2019/02/13/graham-president-trump-will-likely-sign-the-border-deal-and-might-also-declare-a-national-emergency-n2541440",
+    "json_format": "http://localhost:1208/timemap/json/https://townhall.com/tipsheet/katiepavlich/2019/02/13/graham-president-trump-will-likely-sign-the-border-deal-and-might-also-declare-a-national-emergency-n2541440",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://townhall.com/tipsheet/katiepavlich/2019/02/13/graham-president-trump-will-likely-sign-the-border-deal-and-might-also-declare-a-national-emergency-n2541440"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://townhall.com/tipsheet/katiepavlich/2019/02/13/graham-president-trump-will-likely-sign-the-border-deal-and-might-also-declare-a-national-emergency-n2541440"
+}

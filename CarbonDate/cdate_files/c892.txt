@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.trackpersia.com/trump-pushes-iraq-stop-buying-energy-iran/",
+  "uri": "https://www.trackpersia.com/trump-pushes-iraq-stop-buying-energy-iran/",
+  "estimated-creation-date": "2019-02-12T20:00:17",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T20:00:17"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T20:00:31"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

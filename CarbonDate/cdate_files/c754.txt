@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.buzzfeednews.com/article/juliareinstein/trump-69-nice-joke-meme-white-house-tweet?bftwnews&utm_term=4ldqpgc",
+  "uri": "https://www.buzzfeednews.com/article/juliareinstein/trump-69-nice-joke-meme-white-house-tweet?bftwnews&utm_term=4ldqpgc",
+  "estimated-creation-date": "2019-02-13T19:23:33",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213192333/https://www.buzzfeednews.com/article/juliareinstein/trump-69-nice-joke-meme-white-house-tweet?bftwnews&utm_term=4ldqpgc",
+      "memento-datetime": "2019-02-13T19:23:33",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T19:23:33"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

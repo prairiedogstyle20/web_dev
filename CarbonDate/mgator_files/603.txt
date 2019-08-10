@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416",
+  "self": "http://localhost:1208/timemap/json/https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T21:39:15Z",
+        "uri": "http://web.archive.org/web/20190213213915/https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T21:39:15Z",
+      "uri": "http://web.archive.org/web/20190213213915/https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416"
+    },
+    "last": {
+      "datetime": "2019-02-13T21:39:15Z",
+      "uri": "http://web.archive.org/web/20190213213915/https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416",
+    "json_format": "http://localhost:1208/timemap/json/https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://townhall.com/tipsheet/iansnively/2019/02/13/untitled-n2541416"
+}

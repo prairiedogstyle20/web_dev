@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://www.rt.com/usa/451315-clinton-trump-stronger-together/",
+  "self": "http://localhost:1208/timemap/json/https://www.rt.com/usa/451315-clinton-trump-stronger-together/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T21:09:18Z",
+        "uri": "http://web.archive.org/web/20190212210918/https://www.rt.com/usa/451315-clinton-trump-stronger-together/"
+      },
+      {
+        "datetime": "2019-02-12T22:10:42Z",
+        "uri": "http://web.archive.org/web/20190212221042/https://www.rt.com/usa/451315-clinton-trump-stronger-together/"
+      },
+      {
+        "datetime": "2019-02-13T18:09:28Z",
+        "uri": "http://web.archive.org/web/20190213180928/https://www.rt.com/usa/451315-clinton-trump-stronger-together/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T21:09:18Z",
+      "uri": "http://web.archive.org/web/20190212210918/https://www.rt.com/usa/451315-clinton-trump-stronger-together/"
+    },
+    "last": {
+      "datetime": "2019-02-13T18:09:28Z",
+      "uri": "http://web.archive.org/web/20190213180928/https://www.rt.com/usa/451315-clinton-trump-stronger-together/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.rt.com/usa/451315-clinton-trump-stronger-together/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.rt.com/usa/451315-clinton-trump-stronger-together/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.rt.com/usa/451315-clinton-trump-stronger-together/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.rt.com/usa/451315-clinton-trump-stronger-together/"
+}

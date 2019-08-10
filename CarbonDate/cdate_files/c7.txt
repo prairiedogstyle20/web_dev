@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian",
+  "uri": "https://www.envirobuild.com/blogs/articles/donald-trump-amphibian",
+  "estimated-creation-date": "2018-12-18T19:39:06",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20181218193906/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian",
+      "memento-datetime": "2018-12-18T19:39:06",
+      "memento-pubdate": "",
+      "earliest": "2018-12-18T19:39:06"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20181220080200/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian",
+      "memento-datetime": "2018-12-20T08:02:00",
+      "memento-pubdate": "",
+      "earliest": "2018-12-20T08:02:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:55"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

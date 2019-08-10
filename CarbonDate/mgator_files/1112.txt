@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.dailydot.com/layer8/trump-tax-cut-twitter/",
+  "self": "http://localhost:1208/timemap/json/https://www.dailydot.com/layer8/trump-tax-cut-twitter/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-06T22:56:32Z",
+        "uri": "http://web.archive.org/web/20190206225632/https://www.dailydot.com/layer8/trump-tax-cut-twitter/"
+      },
+      {
+        "datetime": "2019-02-07T14:02:16Z",
+        "uri": "http://web.archive.org/web/20190207140216/https://www.dailydot.com/layer8/trump-tax-cut-twitter/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-06T22:56:32Z",
+      "uri": "http://web.archive.org/web/20190206225632/https://www.dailydot.com/layer8/trump-tax-cut-twitter/"
+    },
+    "last": {
+      "datetime": "2019-02-07T14:02:16Z",
+      "uri": "http://web.archive.org/web/20190207140216/https://www.dailydot.com/layer8/trump-tax-cut-twitter/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.dailydot.com/layer8/trump-tax-cut-twitter/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.dailydot.com/layer8/trump-tax-cut-twitter/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.dailydot.com/layer8/trump-tax-cut-twitter/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.dailydot.com/layer8/trump-tax-cut-twitter/"
+}

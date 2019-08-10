@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.tctelevision.com/noticias/trump-esta-dispuesto-a-firmar-acuerdo-para-evitar-shutdown-segun-medios",
+  "self": "http://localhost:1208/timemap/json/https://www.tctelevision.com/noticias/trump-esta-dispuesto-a-firmar-acuerdo-para-evitar-shutdown-segun-medios",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T21:44:20Z",
+        "uri": "http://web.archive.org/web/20190213214420/https://www.tctelevision.com/noticias/trump-esta-dispuesto-a-firmar-acuerdo-para-evitar-shutdown-segun-medios"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T21:44:20Z",
+      "uri": "http://web.archive.org/web/20190213214420/https://www.tctelevision.com/noticias/trump-esta-dispuesto-a-firmar-acuerdo-para-evitar-shutdown-segun-medios"
+    },
+    "last": {
+      "datetime": "2019-02-13T21:44:20Z",
+      "uri": "http://web.archive.org/web/20190213214420/https://www.tctelevision.com/noticias/trump-esta-dispuesto-a-firmar-acuerdo-para-evitar-shutdown-segun-medios"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.tctelevision.com/noticias/trump-esta-dispuesto-a-firmar-acuerdo-para-evitar-shutdown-segun-medios",
+    "json_format": "http://localhost:1208/timemap/json/https://www.tctelevision.com/noticias/trump-esta-dispuesto-a-firmar-acuerdo-para-evitar-shutdown-segun-medios",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tctelevision.com/noticias/trump-esta-dispuesto-a-firmar-acuerdo-para-evitar-shutdown-segun-medios"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.tctelevision.com/noticias/trump-esta-dispuesto-a-firmar-acuerdo-para-evitar-shutdown-segun-medios"
+}

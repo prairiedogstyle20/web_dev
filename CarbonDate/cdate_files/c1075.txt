@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://bigleaguepolitics.com/emails-reveal-obama-admins-push-to-create-russia-scandal-hours-before-trumps-inauguration/",
+  "uri": "https://bigleaguepolitics.com/emails-reveal-obama-admins-push-to-create-russia-scandal-hours-before-trumps-inauguration/",
+  "estimated-creation-date": "2018-12-16T07:08:10",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-12-16T07:08:10"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20181216090811/https://bigleaguepolitics.com/emails-reveal-obama-admins-push-to-create-russia-scandal-hours-before-trumps-inauguration/",
+      "memento-datetime": "2018-12-16T09:08:11",
+      "memento-pubdate": "2018-12-16T09:08:11",
+      "earliest": "2018-12-16T09:08:11"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20181216130047/https://bigleaguepolitics.com/emails-reveal-obama-admins-push-to-create-russia-scandal-hours-before-trumps-inauguration/",
+      "memento-datetime": "2018-12-16T13:00:47",
+      "memento-pubdate": "2018-12-16T07:08:10",
+      "earliest": "2018-12-16T07:08:10"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T20:20:06"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

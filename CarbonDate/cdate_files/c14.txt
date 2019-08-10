@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://theblacksphere.net/2019/02/trump-government-exposes-muellers-history-of-fisa-abuse/",
+  "uri": "https://theblacksphere.net/2019/02/trump-government-exposes-muellers-history-of-fisa-abuse/",
+  "estimated-creation-date": "2019-02-12T20:30:04",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T20:30:04"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213122536/https://theblacksphere.net/2019/02/trump-government-exposes-muellers-history-of-fisa-abuse/",
+      "memento-datetime": "2019-02-13T12:25:36",
+      "memento-pubdate": "2019-02-12T20:30:04",
+      "earliest": "2019-02-12T20:30:04"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

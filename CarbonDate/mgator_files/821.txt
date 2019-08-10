@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://insideclimatenews.org/news/12022019/kigali-amendment-trump-ratify-hfcs-short-lived-climate-pollutant-republican-business-support-montreal-protocol",
+  "self": "http://localhost:1208/timemap/json/https://insideclimatenews.org/news/12022019/kigali-amendment-trump-ratify-hfcs-short-lived-climate-pollutant-republican-business-support-montreal-protocol",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T17:12:17Z",
+        "uri": "http://web.archive.org/web/20190212171217/https://insideclimatenews.org/news/12022019/kigali-amendment-trump-ratify-hfcs-short-lived-climate-pollutant-republican-business-support-montreal-protocol"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T17:12:17Z",
+      "uri": "http://web.archive.org/web/20190212171217/https://insideclimatenews.org/news/12022019/kigali-amendment-trump-ratify-hfcs-short-lived-climate-pollutant-republican-business-support-montreal-protocol"
+    },
+    "last": {
+      "datetime": "2019-02-12T17:12:17Z",
+      "uri": "http://web.archive.org/web/20190212171217/https://insideclimatenews.org/news/12022019/kigali-amendment-trump-ratify-hfcs-short-lived-climate-pollutant-republican-business-support-montreal-protocol"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://insideclimatenews.org/news/12022019/kigali-amendment-trump-ratify-hfcs-short-lived-climate-pollutant-republican-business-support-montreal-protocol",
+    "json_format": "http://localhost:1208/timemap/json/https://insideclimatenews.org/news/12022019/kigali-amendment-trump-ratify-hfcs-short-lived-climate-pollutant-republican-business-support-montreal-protocol",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://insideclimatenews.org/news/12022019/kigali-amendment-trump-ratify-hfcs-short-lived-climate-pollutant-republican-business-support-montreal-protocol"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://insideclimatenews.org/news/12022019/kigali-amendment-trump-ratify-hfcs-short-lived-climate-pollutant-republican-business-support-montreal-protocol"
+}

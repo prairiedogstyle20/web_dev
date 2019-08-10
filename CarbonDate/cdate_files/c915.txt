@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.npr.org/2019/02/12/693824163/trump-supporter-violently-shoves-bbc-cameraman-at-el-paso-rally?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "https://www.npr.org/2019/02/12/693824163/trump-supporter-violently-shoves-bbc-cameraman-at-el-paso-rally?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T14:44:17"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

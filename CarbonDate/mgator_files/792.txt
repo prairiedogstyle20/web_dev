@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://ilovemyfreedom.org/watch-hannity-points-out-whats-missing-in-the-wall-deal-offers-trump-critical-piece-of-advice/",
+  "self": "http://localhost:1208/timemap/json/https://ilovemyfreedom.org/watch-hannity-points-out-whats-missing-in-the-wall-deal-offers-trump-critical-piece-of-advice/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T13:09:12Z",
+        "uri": "http://web.archive.org/web/20190213130912/https://ilovemyfreedom.org/watch-hannity-points-out-whats-missing-in-the-wall-deal-offers-trump-critical-piece-of-advice/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T13:09:12Z",
+      "uri": "http://web.archive.org/web/20190213130912/https://ilovemyfreedom.org/watch-hannity-points-out-whats-missing-in-the-wall-deal-offers-trump-critical-piece-of-advice/"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:09:12Z",
+      "uri": "http://web.archive.org/web/20190213130912/https://ilovemyfreedom.org/watch-hannity-points-out-whats-missing-in-the-wall-deal-offers-trump-critical-piece-of-advice/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ilovemyfreedom.org/watch-hannity-points-out-whats-missing-in-the-wall-deal-offers-trump-critical-piece-of-advice/",
+    "json_format": "http://localhost:1208/timemap/json/https://ilovemyfreedom.org/watch-hannity-points-out-whats-missing-in-the-wall-deal-offers-trump-critical-piece-of-advice/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ilovemyfreedom.org/watch-hannity-points-out-whats-missing-in-the-wall-deal-offers-trump-critical-piece-of-advice/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ilovemyfreedom.org/watch-hannity-points-out-whats-missing-in-the-wall-deal-offers-trump-critical-piece-of-advice/"
+}

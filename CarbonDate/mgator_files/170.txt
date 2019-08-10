@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/",
+  "self": "http://localhost:1208/timemap/json/https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T06:28:59Z",
+        "uri": "http://web.archive.org/web/20190214062859/https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/"
+      },
+      {
+        "datetime": "2019-02-14T06:28:59Z",
+        "uri": "http://web.archive.org/web/20190214062859/https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T06:28:59Z",
+      "uri": "http://web.archive.org/web/20190214062859/https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/"
+    },
+    "last": {
+      "datetime": "2019-02-14T06:28:59Z",
+      "uri": "http://web.archive.org/web/20190214062859/https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/"
+}

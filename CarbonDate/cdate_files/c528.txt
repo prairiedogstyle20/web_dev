@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.justplainpolitics.com/showthread.php?112966-Crickets!!!!-Crickets-I-say-Nothing-But-Crickets!!!!-Donald-Trump-is-the-Biggest",
+  "uri": "https://www.justplainpolitics.com/showthread.php?112966-Crickets!!!!-Crickets-I-say-Nothing-But-Crickets!!!!-Donald-Trump-is-the-Biggest",
+  "estimated-creation-date": "2019-02-13T20:29:02",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:29:02"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

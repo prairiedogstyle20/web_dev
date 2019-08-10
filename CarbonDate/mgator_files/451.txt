@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://www.dailymail.co.uk/news/article-6698669/Ted-Cruz-ups-campaign-make-El-Chapo-finance-Trumps-border-wall.html",
+  "self": "http://localhost:1208/timemap/json/https://www.dailymail.co.uk/news/article-6698669/Ted-Cruz-ups-campaign-make-El-Chapo-finance-Trumps-border-wall.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T06:07:31Z",
+        "uri": "http://web.archive.org/web/20190213060731/https://www.dailymail.co.uk/news/article-6698669/Ted-Cruz-ups-campaign-make-El-Chapo-finance-Trumps-border-wall.html"
+      },
+      {
+        "datetime": "2019-02-13T11:25:52Z",
+        "uri": "http://web.archive.org/web/20190213112552/https://www.dailymail.co.uk/news/article-6698669/Ted-Cruz-ups-campaign-make-El-Chapo-finance-Trumps-border-wall.html"
+      },
+      {
+        "datetime": "2019-02-13T11:43:14Z",
+        "uri": "http://web.archive.org/web/20190213114314/https://www.dailymail.co.uk/news/article-6698669/Ted-Cruz-ups-campaign-make-El-Chapo-finance-Trumps-border-wall.html"
+      },
+      {
+        "datetime": "2019-02-13T12:48:53Z",
+        "uri": "http://web.archive.org/web/20190213124853/https://www.dailymail.co.uk/news/article-6698669/Ted-Cruz-ups-campaign-make-El-Chapo-finance-Trumps-border-wall.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T06:07:31Z",
+      "uri": "http://web.archive.org/web/20190213060731/https://www.dailymail.co.uk/news/article-6698669/Ted-Cruz-ups-campaign-make-El-Chapo-finance-Trumps-border-wall.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:48:53Z",
+      "uri": "http://web.archive.org/web/20190213124853/https://www.dailymail.co.uk/news/article-6698669/Ted-Cruz-ups-campaign-make-El-Chapo-finance-Trumps-border-wall.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.dailymail.co.uk/news/article-6698669/Ted-Cruz-ups-campaign-make-El-Chapo-finance-Trumps-border-wall.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.dailymail.co.uk/news/article-6698669/Ted-Cruz-ups-campaign-make-El-Chapo-finance-Trumps-border-wall.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.dailymail.co.uk/news/article-6698669/Ted-Cruz-ups-campaign-make-El-Chapo-finance-Trumps-border-wall.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.dailymail.co.uk/news/article-6698669/Ted-Cruz-ups-campaign-make-El-Chapo-finance-Trumps-border-wall.html"
+}

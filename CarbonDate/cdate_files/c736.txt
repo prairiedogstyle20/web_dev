@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/",
+  "uri": "https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/",
+  "estimated-creation-date": "2019-02-13T05:20:47",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T05:20:47"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213100619/https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/",
+      "memento-datetime": "2019-02-13T10:06:19",
+      "memento-pubdate": "2019-02-13T05:20:47",
+      "earliest": "2019-02-13T05:20:47"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T05:47:28"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

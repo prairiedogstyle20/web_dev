@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.sourcepolitics.com/el-paso-fire-dept-the-president-isnt-telling-the-truth-about-his-rally-building-only-holds-6-500/",
+  "uri": "https://www.sourcepolitics.com/el-paso-fire-dept-the-president-isnt-telling-the-truth-about-his-rally-building-only-holds-6-500/",
+  "estimated-creation-date": "2019-02-12T03:39:53",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T03:39:53"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T11:36:14"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

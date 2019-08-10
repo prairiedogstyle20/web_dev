@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.bloomberg.com/tosv2.html?vid=&uuid=3ddddbc0-3069-11e9-890a-b14011ba1e10&url=L2FtcC9uZXdzL2FydGljbGVzLzIwMTktMDItMDYvYmFua3MtcmVhcGluZy0yMS1iaWxsaW9uLXRheC13aW5kZmFsbC1jdXQtc3RhZmYtZWFzZS1vZmYtbG9hbnM/X190d2l0dGVyX2ltcHJlc3Npb249dHJ1ZSZmYmNsaWQ9SXdBUjAyREtwelZTd0JFVmpyTERUSWV0ZTBmVDVjZ3FrMi1NbWFyd01DcGJfbUJrenZlQ3ltQS1CaTdqMA==",
+  "uri": "https://www.bloomberg.com/tosv2.html?vid=&uuid=3ddddbc0-3069-11e9-890a-b14011ba1e10&url=L2FtcC9uZXdzL2FydGljbGVzLzIwMTktMDItMDYvYmFua3MtcmVhcGluZy0yMS1iaWxsaW9uLXRheC13aW5kZmFsbC1jdXQtc3RhZmYtZWFzZS1vZmYtbG9hbnM/X190d2l0dGVyX2ltcHJlc3Npb249dHJ1ZSZmYmNsaWQ9SXdBUjAyREtwelZTd0JFVmpyTERUSWV0ZTBmVDVjZ3FrMi1NbWFyd01DcGJfbUJrenZlQ3ltQS1CaTdqMA==",
+  "estimated-creation-date": "2019-02-15T10:16:04",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T10:16:04"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

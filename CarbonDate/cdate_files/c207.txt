@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711",
+  "uri": "http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711",
+  "estimated-creation-date": "2019-02-13T14:01:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:01:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213220952/http://www.el-nacional.com/noticias/mundo/trump-afirmo-que-tiene-varios-planes-caso-que-maduro-siga-poder_270711",
+      "memento-datetime": "2019-02-13T22:09:52",
+      "memento-pubdate": "2019-02-13T14:01:00",
+      "earliest": "2019-02-13T14:01:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.trinidadexpress.com/sports/local/badal-sisters-shine/article_2af9a9ac-2f20-11e9-a663-3b86994db147.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+  "uri": "https://www.trinidadexpress.com/sports/local/badal-sisters-shine/article_2af9a9ac-2f20-11e9-a663-3b86994db147.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+  "estimated-creation-date": "2019-02-12T19:44:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-12T23:51:59"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T19:44:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:29:52"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

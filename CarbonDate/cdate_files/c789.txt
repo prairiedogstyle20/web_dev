@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://sports.yahoo.com/simone-biles-officially-decorated-gymnast-world-history-172105469.html",
+  "uri": "https://sports.yahoo.com/simone-biles-officially-decorated-gymnast-world-history-172105469.html",
+  "estimated-creation-date": "2018-11-03T13:24:33",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20181103132433/https://sports.yahoo.com/simone-biles-officially-decorated-gymnast-world-history-172105469.html",
+      "memento-datetime": "2018-11-03T13:24:33",
+      "memento-pubdate": "",
+      "earliest": "2018-11-03T13:24:33"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T05:41:42"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

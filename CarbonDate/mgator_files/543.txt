@@ -1,0 +1,55 @@
+8
+{
+  "original_uri": "https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html",
+  "self": "http://localhost:1208/timemap/json/https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T04:38:18Z",
+        "uri": "http://web.archive.org/web/20190213043818/https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T07:48:12Z",
+        "uri": "http://web.archive.org/web/20190213074812/http://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T08:09:05Z",
+        "uri": "http://web.archive.org/web/20190213080905/https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T10:00:31Z",
+        "uri": "http://web.archive.org/web/20190213100031/https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T12:44:18Z",
+        "uri": "http://web.archive.org/web/20190213124418/http://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T13:34:38Z",
+        "uri": "http://web.archive.org/web/20190213133438/http://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T14:33:47Z",
+        "uri": "http://web.archive.org/web/20190213143347/https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-14T10:08:28Z",
+        "uri": "http://web.archive.org/web/20190214100828/https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T04:38:18Z",
+      "uri": "http://web.archive.org/web/20190213043818/https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T10:08:28Z",
+      "uri": "http://web.archive.org/web/20190214100828/https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.latimes.com/sports/la-sp-lebron-james-lakers-plaschke-20190212-story.html"
+}

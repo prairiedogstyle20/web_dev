@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.bbc.com/news/world-middle-east-47214083",
+  "self": "http://localhost:1208/timemap/json/https://www.bbc.com/news/world-middle-east-47214083",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:34:28Z",
+        "uri": "http://web.archive.org/web/20190213033428/https://www.bbc.com/news/world-middle-east-47214083"
+      },
+      {
+        "datetime": "2019-02-14T07:18:59Z",
+        "uri": "http://web.archive.org/web/20190214071859/https://www.bbc.com/news/world-middle-east-47214083"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:34:28Z",
+      "uri": "http://web.archive.org/web/20190213033428/https://www.bbc.com/news/world-middle-east-47214083"
+    },
+    "last": {
+      "datetime": "2019-02-14T07:18:59Z",
+      "uri": "http://web.archive.org/web/20190214071859/https://www.bbc.com/news/world-middle-east-47214083"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.bbc.com/news/world-middle-east-47214083",
+    "json_format": "http://localhost:1208/timemap/json/https://www.bbc.com/news/world-middle-east-47214083",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bbc.com/news/world-middle-east-47214083"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.bbc.com/news/world-middle-east-47214083"
+}

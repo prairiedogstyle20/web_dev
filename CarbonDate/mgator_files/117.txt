@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://thefederalist.com/2019/02/13/trumps-executive-time-twitter-makes-successful/",
+  "self": "http://localhost:1208/timemap/json/http://thefederalist.com/2019/02/13/trumps-executive-time-twitter-makes-successful/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T16:57:30Z",
+        "uri": "http://web.archive.org/web/20190213165730/http://thefederalist.com/2019/02/13/trumps-executive-time-twitter-makes-successful/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T16:57:30Z",
+      "uri": "http://web.archive.org/web/20190213165730/http://thefederalist.com/2019/02/13/trumps-executive-time-twitter-makes-successful/"
+    },
+    "last": {
+      "datetime": "2019-02-13T16:57:30Z",
+      "uri": "http://web.archive.org/web/20190213165730/http://thefederalist.com/2019/02/13/trumps-executive-time-twitter-makes-successful/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://thefederalist.com/2019/02/13/trumps-executive-time-twitter-makes-successful/",
+    "json_format": "http://localhost:1208/timemap/json/http://thefederalist.com/2019/02/13/trumps-executive-time-twitter-makes-successful/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://thefederalist.com/2019/02/13/trumps-executive-time-twitter-makes-successful/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://thefederalist.com/2019/02/13/trumps-executive-time-twitter-makes-successful/"
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.investors.com/politics/editorials/middle-class-revival-trump/",
+  "self": "http://localhost:1208/timemap/json/https://www.investors.com/politics/editorials/middle-class-revival-trump/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T05:06:31Z",
+        "uri": "http://web.archive.org/web/20190213050631/https://www.investors.com/politics/editorials/middle-class-revival-trump/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T05:06:31Z",
+      "uri": "http://web.archive.org/web/20190213050631/https://www.investors.com/politics/editorials/middle-class-revival-trump/"
+    },
+    "last": {
+      "datetime": "2019-02-13T05:06:31Z",
+      "uri": "http://web.archive.org/web/20190213050631/https://www.investors.com/politics/editorials/middle-class-revival-trump/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.investors.com/politics/editorials/middle-class-revival-trump/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.investors.com/politics/editorials/middle-class-revival-trump/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.investors.com/politics/editorials/middle-class-revival-trump/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.investors.com/politics/editorials/middle-class-revival-trump/"
+}

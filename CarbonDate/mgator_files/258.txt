@@ -1,0 +1,55 @@
+8
+{
+  "original_uri": "https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664",
+  "self": "http://localhost:1208/timemap/json/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T15:48:54Z",
+        "uri": "http://web.archive.org/web/20190212154854/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664"
+      },
+      {
+        "datetime": "2019-02-12T19:04:02Z",
+        "uri": "http://web.archive.org/web/20190212190402/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664"
+      },
+      {
+        "datetime": "2019-02-12T19:04:14Z",
+        "uri": "http://web.archive.org/web/20190212190414/http://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664"
+      },
+      {
+        "datetime": "2019-02-12T21:13:26Z",
+        "uri": "http://web.archive.org/web/20190212211326/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664"
+      },
+      {
+        "datetime": "2019-02-13T01:31:50Z",
+        "uri": "http://web.archive.org/web/20190213013150/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664"
+      },
+      {
+        "datetime": "2019-02-13T01:42:00Z",
+        "uri": "http://web.archive.org/web/20190213014200/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664"
+      },
+      {
+        "datetime": "2019-02-13T21:27:35Z",
+        "uri": "http://web.archive.org/web/20190213212735/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664"
+      },
+      {
+        "datetime": "2019-02-14T01:47:13Z",
+        "uri": "http://web.archive.org/web/20190214014713/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T15:48:54Z",
+      "uri": "http://web.archive.org/web/20190212154854/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664"
+    },
+    "last": {
+      "datetime": "2019-02-14T01:47:13Z",
+      "uri": "http://web.archive.org/web/20190214014713/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664",
+    "json_format": "http://localhost:1208/timemap/json/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.msnbc.com/hallie-jackson/watch/senate-has-found-no-direct-evidence-of-trump-russia-collusion-1441263171664"
+}

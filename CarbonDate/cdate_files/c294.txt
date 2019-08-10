@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.huffingtonpost.com/entry/stephen-colbert-trump-budget-deal_us_5c63790fe4b03de94296b5d0",
+  "uri": "https://www.huffingtonpost.com/entry/stephen-colbert-trump-budget-deal_us_5c63790fe4b03de94296b5d0",
+  "estimated-creation-date": "2019-02-13T00:33:39",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:33:39"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213193549/https://www.huffingtonpost.com/entry/stephen-colbert-trump-budget-deal_us_5c63790fe4b03de94296b5d0",
+      "memento-datetime": "2019-02-13T19:31:17",
+      "memento-pubdate": "2019-02-13T00:33:39",
+      "earliest": "2019-02-13T00:33:39"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T06:41:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

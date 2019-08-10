@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.cbsnews.com/news/ted-cruz-wants-drug-kingpin-el-chapo-to-fund-trumps-border-wall/",
+  "self": "http://localhost:1208/timemap/json/https://www.cbsnews.com/news/ted-cruz-wants-drug-kingpin-el-chapo-to-fund-trumps-border-wall/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T17:05:56Z",
+        "uri": "http://web.archive.org/web/20190213170556/https://www.cbsnews.com/news/ted-cruz-wants-drug-kingpin-el-chapo-to-fund-trumps-border-wall/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T17:05:56Z",
+      "uri": "http://web.archive.org/web/20190213170556/https://www.cbsnews.com/news/ted-cruz-wants-drug-kingpin-el-chapo-to-fund-trumps-border-wall/"
+    },
+    "last": {
+      "datetime": "2019-02-13T17:05:56Z",
+      "uri": "http://web.archive.org/web/20190213170556/https://www.cbsnews.com/news/ted-cruz-wants-drug-kingpin-el-chapo-to-fund-trumps-border-wall/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cbsnews.com/news/ted-cruz-wants-drug-kingpin-el-chapo-to-fund-trumps-border-wall/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cbsnews.com/news/ted-cruz-wants-drug-kingpin-el-chapo-to-fund-trumps-border-wall/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cbsnews.com/news/ted-cruz-wants-drug-kingpin-el-chapo-to-fund-trumps-border-wall/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cbsnews.com/news/ted-cruz-wants-drug-kingpin-el-chapo-to-fund-trumps-border-wall/"
+}

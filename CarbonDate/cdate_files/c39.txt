@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.bloomberg.com/tosv2.html?vid=&uuid=a60697a0-3069-11e9-9ca2-c597855d9b0c&url=L25ld3MvYXJ0aWNsZXMvMjAxOS0wMi0xMi90cnVtcC1vcGVuLXRvLWxldHRpbmctbWFyY2gtMS1kZWFkbGluZS1mb3ItY2hpbmEtdGFyaWZmcy1zbGlkZS1qczIxYjdweQ==",
+  "uri": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a60697a0-3069-11e9-9ca2-c597855d9b0c&url=L25ld3MvYXJ0aWNsZXMvMjAxOS0wMi0xMi90cnVtcC1vcGVuLXRvLWxldHRpbmctbWFyY2gtMS1kZWFkbGluZS1mb3ItY2hpbmEtdGFyaWZmcy1zbGlkZS1qczIxYjdweQ==",
+  "estimated-creation-date": "2019-02-15T10:16:04",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T10:16:04"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

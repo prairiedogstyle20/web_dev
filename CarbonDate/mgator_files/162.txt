@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop",
+  "self": "http://localhost:1208/timemap/json/https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T17:45:28Z",
+        "uri": "http://web.archive.org/web/20190213174528/https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop"
+      },
+      {
+        "datetime": "2019-02-13T17:55:07Z",
+        "uri": "http://web.archive.org/web/20190213175507/https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop"
+      },
+      {
+        "datetime": "2019-02-13T21:55:55Z",
+        "uri": "http://web.archive.org/web/20190213215555/https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop"
+      },
+      {
+        "datetime": "2019-02-13T23:55:26Z",
+        "uri": "http://web.archive.org/web/20190213235526/https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop"
+      },
+      {
+        "datetime": "2019-02-13T23:55:26Z",
+        "uri": "http://web.archive.org/web/20190213235526/http://foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop"
+      },
+      {
+        "datetime": "2019-02-14T10:52:15Z",
+        "uri": "http://web.archive.org/web/20190214105215/https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T17:45:28Z",
+      "uri": "http://web.archive.org/web/20190213174528/https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop"
+    },
+    "last": {
+      "datetime": "2019-02-14T10:52:15Z",
+      "uri": "http://web.archive.org/web/20190214105215/https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop",
+    "json_format": "http://localhost:1208/timemap/json/https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.foxnews.com/entertainment/cnn-uses-ilhan-omars-anti-semitism-controversy-to-attack-trump-gop"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.reforma.com/libre/acceso/accesofb.htm?urlredirect=/aplicaciones/articulo/default.aspx?id=1608202",
+  "uri": "https://www.reforma.com/libre/acceso/accesofb.htm?urlredirect=/aplicaciones/articulo/default.aspx?id=1608202",
+  "estimated-creation-date": "2018-11-14T23:48:12",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-11-14T23:48:12"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

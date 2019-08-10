@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.rt.com/usa/451324-trump-wall-23-billion/",
+  "uri": "https://www.rt.com/usa/451324-trump-wall-23-billion/",
+  "estimated-creation-date": "2019-02-13T01:09:54",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213010954/https://www.rt.com/usa/451324-trump-wall-23-billion/",
+      "memento-datetime": "2019-02-13T01:09:54",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T01:09:54"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190213020238/https://www.rt.com/usa/451324-trump-wall-23-billion/",
+      "memento-datetime": "2019-02-13T02:02:38",
+      "memento-pubdate": "2019-02-13T02:02:38",
+      "earliest": "2019-02-13T02:02:38"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T10:47:09"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

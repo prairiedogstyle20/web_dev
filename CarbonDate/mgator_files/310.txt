@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.cincinnati.com/story/sports/soccer/fc-cincinnati/2019/02/12/making-fc-cincinnatis-first-primary-mls-kit/2844535002/",
+  "self": "http://localhost:1208/timemap/json/https://www.cincinnati.com/story/sports/soccer/fc-cincinnati/2019/02/12/making-fc-cincinnatis-first-primary-mls-kit/2844535002/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T14:45:18Z",
+        "uri": "http://web.archive.org/web/20190213144518/https://www.cincinnati.com/story/sports/soccer/fc-cincinnati/2019/02/12/making-fc-cincinnatis-first-primary-mls-kit/2844535002/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T14:45:18Z",
+      "uri": "http://web.archive.org/web/20190213144518/https://www.cincinnati.com/story/sports/soccer/fc-cincinnati/2019/02/12/making-fc-cincinnatis-first-primary-mls-kit/2844535002/"
+    },
+    "last": {
+      "datetime": "2019-02-13T14:45:18Z",
+      "uri": "http://web.archive.org/web/20190213144518/https://www.cincinnati.com/story/sports/soccer/fc-cincinnati/2019/02/12/making-fc-cincinnatis-first-primary-mls-kit/2844535002/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cincinnati.com/story/sports/soccer/fc-cincinnati/2019/02/12/making-fc-cincinnatis-first-primary-mls-kit/2844535002/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cincinnati.com/story/sports/soccer/fc-cincinnati/2019/02/12/making-fc-cincinnatis-first-primary-mls-kit/2844535002/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cincinnati.com/story/sports/soccer/fc-cincinnati/2019/02/12/making-fc-cincinnatis-first-primary-mls-kit/2844535002/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cincinnati.com/story/sports/soccer/fc-cincinnati/2019/02/12/making-fc-cincinnatis-first-primary-mls-kit/2844535002/"
+}

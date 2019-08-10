@@ -1,0 +1,71 @@
+12
+{
+  "original_uri": "https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T01:16:08Z",
+        "uri": "http://web.archive.org/web/20190214011608/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+      },
+      {
+        "datetime": "2019-02-14T01:16:08Z",
+        "uri": "http://web.archive.org/web/20190214011608/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+      },
+      {
+        "datetime": "2019-02-14T01:31:20Z",
+        "uri": "http://web.archive.org/web/20190214013120/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+      },
+      {
+        "datetime": "2019-02-14T01:31:20Z",
+        "uri": "http://web.archive.org/web/20190214013120/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+      },
+      {
+        "datetime": "2019-02-14T01:46:32Z",
+        "uri": "http://web.archive.org/web/20190214014632/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+      },
+      {
+        "datetime": "2019-02-14T01:46:32Z",
+        "uri": "http://web.archive.org/web/20190214014632/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+      },
+      {
+        "datetime": "2019-02-14T01:47:28Z",
+        "uri": "http://web.archive.org/web/20190214014728/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+      },
+      {
+        "datetime": "2019-02-14T02:01:44Z",
+        "uri": "http://web.archive.org/web/20190214020144/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+      },
+      {
+        "datetime": "2019-02-14T02:01:44Z",
+        "uri": "http://web.archive.org/web/20190214020144/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+      },
+      {
+        "datetime": "2019-02-14T11:35:06Z",
+        "uri": "http://web.archive.org/web/20190214113506/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+      },
+      {
+        "datetime": "2019-02-14T15:01:10Z",
+        "uri": "http://web.archive.org/web/20190214150110/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+      },
+      {
+        "datetime": "2019-02-14T15:16:58Z",
+        "uri": "http://web.archive.org/web/20190214151658/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T01:16:08Z",
+      "uri": "http://web.archive.org/web/20190214011608/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T15:16:58Z",
+      "uri": "http://web.archive.org/web/20190214151658/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2019/02/13/sports/sean-forman-sports-reference.html"
+}

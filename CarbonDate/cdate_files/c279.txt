@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://nationalpost.com/pmn/news-pmn/trump-official-touts-oil-and-gas-lease-sales-in-new-mexico",
+  "uri": "https://nationalpost.com/pmn/news-pmn/trump-official-touts-oil-and-gas-lease-sales-in-new-mexico",
+  "estimated-creation-date": "2019-02-07T01:33:45",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-07T01:33:45"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:29:54"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

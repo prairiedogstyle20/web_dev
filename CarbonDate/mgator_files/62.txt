@@ -1,0 +1,51 @@
+7
+{
+  "original_uri": "https://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/",
+  "self": "http://localhost:1208/timemap/json/https://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-03-15T04:25:08Z",
+        "uri": "http://web.archive.org/web/20170315042508/http://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/"
+      },
+      {
+        "datetime": "2017-03-15T05:27:29Z",
+        "uri": "http://web.archive.org/web/20170315052729/https://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/"
+      },
+      {
+        "datetime": "2017-04-05T02:32:04Z",
+        "uri": "http://web.archive.org/web/20170405023204/https://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/"
+      },
+      {
+        "datetime": "2017-05-16T19:30:47Z",
+        "uri": "http://web.archive.org/web/20170516193047/http://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/"
+      },
+      {
+        "datetime": "2018-01-18T22:56:36Z",
+        "uri": "http://web.archive.org/web/20180118225636/https://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/"
+      },
+      {
+        "datetime": "2018-01-22T10:22:47Z",
+        "uri": "http://web.archive.org/web/20180122102247/https://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/"
+      },
+      {
+        "datetime": "2018-10-20T13:10:10Z",
+        "uri": "http://web.archive.org/web/20181020131010/https://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-03-15T04:25:08Z",
+      "uri": "http://web.archive.org/web/20170315042508/http://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/"
+    },
+    "last": {
+      "datetime": "2018-10-20T13:10:10Z",
+      "uri": "http://web.archive.org/web/20181020131010/https://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.forbes.com/sites/maddieberg/2017/03/14/rachel-maddow-releases-trump-tax-returns/"
+}

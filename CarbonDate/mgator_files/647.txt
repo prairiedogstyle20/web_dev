@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.dailymail.co.uk/news/article-5947635/Elite-armed-masked-Met-police-officers-arsenal-protect-Trump.html",
+  "self": "http://localhost:1208/timemap/json/https://www.dailymail.co.uk/news/article-5947635/Elite-armed-masked-Met-police-officers-arsenal-protect-Trump.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-09-10T19:27:14Z",
+        "uri": "http://web.archive.org/web/20180910192714/http://www.dailymail.co.uk/news/article-5947635/Elite-armed-masked-Met-police-officers-arsenal-protect-Trump.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-09-10T19:27:14Z",
+      "uri": "http://web.archive.org/web/20180910192714/http://www.dailymail.co.uk/news/article-5947635/Elite-armed-masked-Met-police-officers-arsenal-protect-Trump.html"
+    },
+    "last": {
+      "datetime": "2018-09-10T19:27:14Z",
+      "uri": "http://web.archive.org/web/20180910192714/http://www.dailymail.co.uk/news/article-5947635/Elite-armed-masked-Met-police-officers-arsenal-protect-Trump.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.dailymail.co.uk/news/article-5947635/Elite-armed-masked-Met-police-officers-arsenal-protect-Trump.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.dailymail.co.uk/news/article-5947635/Elite-armed-masked-Met-police-officers-arsenal-protect-Trump.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.dailymail.co.uk/news/article-5947635/Elite-armed-masked-Met-police-officers-arsenal-protect-Trump.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.dailymail.co.uk/news/article-5947635/Elite-armed-masked-Met-police-officers-arsenal-protect-Trump.html"
+}

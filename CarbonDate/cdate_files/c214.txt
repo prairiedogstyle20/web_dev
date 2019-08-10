@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.sfgate.com/news/article/Trump-criticizes-bipartisan-border-deal-to-avert-13610404.php",
+  "uri": "https://www.sfgate.com/news/article/Trump-criticizes-bipartisan-border-deal-to-avert-13610404.php",
+  "estimated-creation-date": "2019-02-12T18:10:04",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T03:06:59"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212221839/https://www.sfgate.com/news/article/Trump-criticizes-bipartisan-border-deal-to-avert-13610404.php",
+      "memento-datetime": "2019-02-12T22:18:39",
+      "memento-pubdate": "2019-02-12T18:43:45",
+      "earliest": "2019-02-12T18:43:45"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T18:10:04"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

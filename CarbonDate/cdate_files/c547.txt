@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.alternet.org/2019/02/robert-reich-trump-wants-socialism-for-the-rich-and-harsh-capitalism-for-the-rest/",
+  "uri": "https://www.alternet.org/2019/02/robert-reich-trump-wants-socialism-for-the-rich-and-harsh-capitalism-for-the-rest/",
+  "estimated-creation-date": "2019-02-12T15:04:41",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T15:04:41"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T17:59:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

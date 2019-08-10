@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record",
+  "uri": "https://www.rappler.com/sports/by-sport/other-sports/223373-swimmer-georgia-peregrina-breaks-akiko-thomson-record",
+  "estimated-creation-date": "2019-02-13T04:43:55",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T04:43:55"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T04:53:31"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

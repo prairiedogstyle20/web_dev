@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://hillreporter.com/asylum-seekers-allegedly-being-coerced-by-the-trump-administration-24295",
+  "uri": "https://hillreporter.com/asylum-seekers-allegedly-being-coerced-by-the-trump-administration-24295",
+  "estimated-creation-date": "2019-02-13T13:14:42",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T14:22:01"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T13:14:42"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T13:19:33"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

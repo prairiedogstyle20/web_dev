@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://hillreporter.com/an-expensive-golf-simulator-was-installed-in-trumps-white-house-quarters-24379",
+  "uri": "https://hillreporter.com/an-expensive-golf-simulator-was-installed-in-trumps-white-house-quarters-24379",
+  "estimated-creation-date": "2019-02-13T17:28:45",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:09:56"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T17:28:45"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T17:32:04"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

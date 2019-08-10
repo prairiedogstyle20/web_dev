@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://time.com/5527814/president-trump-ilhan-omar-apology-israel/?xid=tcoshare",
+  "self": "http://localhost:1208/timemap/json/http://time.com/5527814/president-trump-ilhan-omar-apology-israel/?xid=tcoshare",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T04:15:01Z",
+        "uri": "http://web.archive.org/web/20190214041501/http://time.com/5527814/president-trump-ilhan-omar-apology-israel/?xid=tcoshare"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T04:15:01Z",
+      "uri": "http://web.archive.org/web/20190214041501/http://time.com/5527814/president-trump-ilhan-omar-apology-israel/?xid=tcoshare"
+    },
+    "last": {
+      "datetime": "2019-02-14T04:15:01Z",
+      "uri": "http://web.archive.org/web/20190214041501/http://time.com/5527814/president-trump-ilhan-omar-apology-israel/?xid=tcoshare"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://time.com/5527814/president-trump-ilhan-omar-apology-israel/?xid=tcoshare",
+    "json_format": "http://localhost:1208/timemap/json/http://time.com/5527814/president-trump-ilhan-omar-apology-israel/?xid=tcoshare",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://time.com/5527814/president-trump-ilhan-omar-apology-israel/?xid=tcoshare"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://time.com/5527814/president-trump-ilhan-omar-apology-israel/?xid=tcoshare"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.theconservativebrief.com/trump-prepares-to-give-in-insists-he-can-get-border-funding-from-other-sources/",
+  "uri": "https://www.theconservativebrief.com/trump-prepares-to-give-in-insists-he-can-get-border-funding-from-other-sources/",
+  "estimated-creation-date": "2019-02-13T14:53:48",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:53:48"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:31:17"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

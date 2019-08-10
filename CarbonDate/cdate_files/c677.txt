@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://medicinehatnews.com/sports/local-sports/2019/02/13/cubs-win-first-game-of-playoffs/",
+  "uri": "https://medicinehatnews.com/sports/local-sports/2019/02/13/cubs-win-first-game-of-playoffs/",
+  "estimated-creation-date": "2019-02-13T11:05:04",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T11:05:04"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214154342/https://medicinehatnews.com/sports/local-sports/2019/02/13/cubs-win-first-game-of-playoffs/",
+      "memento-datetime": "2019-02-14T15:43:42",
+      "memento-pubdate": "2019-02-13T11:05:04",
+      "earliest": "2019-02-13T11:05:04"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T18:16:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

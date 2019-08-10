@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://sport.aegisreport.com/2019/volleyball-positions/jasmine-nabor-open-to-returning-for-nu-in-season-82/",
+  "uri": "https://sport.aegisreport.com/2019/volleyball-positions/jasmine-nabor-open-to-returning-for-nu-in-season-82/",
+  "estimated-creation-date": "2019-02-13T11:32:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T11:32:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

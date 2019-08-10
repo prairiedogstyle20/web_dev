@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/homenews/administration/429819-trump-installs-new-virtual-golf-simulator-at-white-house-report",
+  "uri": "https://thehill.com/homenews/administration/429819-trump-installs-new-virtual-golf-simulator-at-white-house-report",
+  "estimated-creation-date": "2019-02-13T12:04:18",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T12:04:18"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214144959/https://thehill.com/homenews/administration/429819-trump-installs-new-virtual-golf-simulator-at-white-house-report",
+      "memento-datetime": "2019-02-14T14:49:59",
+      "memento-pubdate": "2019-02-13T12:04:18",
+      "earliest": "2019-02-13T12:04:18"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:47:27"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

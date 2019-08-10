@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://thefreeportnews.com/sports/sports-letters/",
+  "self": "http://localhost:1208/timemap/json/http://thefreeportnews.com/sports/sports-letters/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T12:36:11Z",
+        "uri": "http://web.archive.org/web/20190214123611/http://thefreeportnews.com/sports/sports-letters/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T12:36:11Z",
+      "uri": "http://web.archive.org/web/20190214123611/http://thefreeportnews.com/sports/sports-letters/"
+    },
+    "last": {
+      "datetime": "2019-02-14T12:36:11Z",
+      "uri": "http://web.archive.org/web/20190214123611/http://thefreeportnews.com/sports/sports-letters/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://thefreeportnews.com/sports/sports-letters/",
+    "json_format": "http://localhost:1208/timemap/json/http://thefreeportnews.com/sports/sports-letters/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://thefreeportnews.com/sports/sports-letters/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://thefreeportnews.com/sports/sports-letters/"
+}

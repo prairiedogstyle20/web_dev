@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.chicksonright.com/blog/2019/02/12/el-paso-fire-department-releases-numbers-on-trumps-rally-libs-pounce/",
+  "self": "http://localhost:1208/timemap/json/https://www.chicksonright.com/blog/2019/02/12/el-paso-fire-department-releases-numbers-on-trumps-rally-libs-pounce/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T13:23:44Z",
+        "uri": "http://web.archive.org/web/20190213132344/https://www.chicksonright.com/blog/2019/02/12/el-paso-fire-department-releases-numbers-on-trumps-rally-libs-pounce/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T13:23:44Z",
+      "uri": "http://web.archive.org/web/20190213132344/https://www.chicksonright.com/blog/2019/02/12/el-paso-fire-department-releases-numbers-on-trumps-rally-libs-pounce/"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:23:44Z",
+      "uri": "http://web.archive.org/web/20190213132344/https://www.chicksonright.com/blog/2019/02/12/el-paso-fire-department-releases-numbers-on-trumps-rally-libs-pounce/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.chicksonright.com/blog/2019/02/12/el-paso-fire-department-releases-numbers-on-trumps-rally-libs-pounce/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.chicksonright.com/blog/2019/02/12/el-paso-fire-department-releases-numbers-on-trumps-rally-libs-pounce/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.chicksonright.com/blog/2019/02/12/el-paso-fire-department-releases-numbers-on-trumps-rally-libs-pounce/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.chicksonright.com/blog/2019/02/12/el-paso-fire-department-releases-numbers-on-trumps-rally-libs-pounce/"
+}

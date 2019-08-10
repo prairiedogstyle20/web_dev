@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://spectator.us/dog-donald-trump-dogphobia/",
+  "uri": "https://spectator.us/dog-donald-trump-dogphobia/",
+  "estimated-creation-date": "2019-02-12T14:34:53",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T14:34:53"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T19:41:54"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

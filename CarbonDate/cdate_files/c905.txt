@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://news3lv.com/news/nation-world/live-president-trump-and-first-lady-welcome-colombian-president",
+  "uri": "https://news3lv.com/news/nation-world/live-president-trump-and-first-lady-welcome-colombian-president",
+  "estimated-creation-date": "2019-02-13T11:23:59",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T11:23:59"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

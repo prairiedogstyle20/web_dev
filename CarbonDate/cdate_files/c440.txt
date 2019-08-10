@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/2019/02/12/us/politics/china-tariffs-american-spirits.html",
+  "uri": "https://www.nytimes.com/2019/02/12/us/politics/china-tariffs-american-spirits.html",
+  "estimated-creation-date": "2019-02-13T00:22:19",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:13:15"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:22:19"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213032057/https://www.nytimes.com/2019/02/12/us/politics/china-tariffs-american-spirits.html",
+      "memento-datetime": "2019-02-13T03:05:50",
+      "memento-pubdate": "2019-02-13T00:22:19",
+      "earliest": "2019-02-13T00:22:19"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852",
+  "uri": "https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852",
+  "estimated-creation-date": "2019-02-12T13:46:52",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T13:46:52"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212220156/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852",
+      "memento-datetime": "2019-02-12T21:39:53",
+      "memento-pubdate": "2019-02-12T13:46:52",
+      "earliest": "2019-02-12T13:46:52"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T21:18:15"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

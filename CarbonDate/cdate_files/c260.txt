@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cnn.com/2019/02/13/politics/donald-trump-golf/index.html?utm_medium=social&utm_source=twCNN&utm_content=2019-02-13T19%3A40%3A09&utm_term=image",
+  "uri": "https://www.cnn.com/2019/02/13/politics/donald-trump-golf/index.html?utm_medium=social&utm_source=twCNN&utm_content=2019-02-13T19%3A40%3A09&utm_term=image",
+  "estimated-creation-date": "2019-02-13T19:15:34",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:15:34"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

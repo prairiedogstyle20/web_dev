@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.sports.ru/tribuna/blogs/psevdoanalitika/2347888.html",
+  "uri": "https://www.sports.ru/tribuna/blogs/psevdoanalitika/2347888.html",
+  "estimated-creation-date": "2019-02-13T20:30:37",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:37"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

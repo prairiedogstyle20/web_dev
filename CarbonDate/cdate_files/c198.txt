@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.wsj.com/articles/trump-calls-for-congresswomans-resignation-11549994968?mod=flipboard",
+  "uri": "https://www.wsj.com/articles/trump-calls-for-congresswomans-resignation-11549994968?mod=flipboard",
+  "estimated-creation-date": "2019-02-12T18:09:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T18:09:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T01:44:46"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

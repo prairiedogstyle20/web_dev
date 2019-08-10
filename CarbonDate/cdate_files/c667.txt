@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.foxnews.com/politics/ted-cruz-wants-el-chapo-and-drug-lords-to-pay-for-border-wall",
+  "uri": "https://www.foxnews.com/politics/ted-cruz-wants-el-chapo-and-drug-lords-to-pay-for-border-wall",
+  "estimated-creation-date": "2019-02-13T07:58:20",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213075820/https://www.foxnews.com/politics/ted-cruz-wants-el-chapo-and-drug-lords-to-pay-for-border-wall",
+      "memento-datetime": "2019-02-13T07:58:20",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T07:58:20"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

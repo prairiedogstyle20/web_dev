@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.inforum.com/sports/football/969585-Trump-will-meet-Bison-football-team-March-4-in-White-House-Rose-Garden",
+  "uri": "https://www.inforum.com/sports/football/969585-Trump-will-meet-Bison-football-team-March-4-in-White-House-Rose-Garden",
+  "estimated-creation-date": "2019-02-13T20:21:16",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-14T04:49:50"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T20:21:16"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214144552/https://www.inforum.com/sports/football/969585-Trump-will-meet-Bison-football-team-March-4-in-White-House-Rose-Garden",
+      "memento-datetime": "2019-02-14T04:49:50",
+      "memento-pubdate": "2019-02-13T20:21:16",
+      "earliest": "2019-02-13T20:21:16"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:23:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

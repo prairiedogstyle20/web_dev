@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/",
+  "self": "http://localhost:1208/timemap/json/https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T11:18:13Z",
+        "uri": "http://web.archive.org/web/20190213111813/https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/"
+      },
+      {
+        "datetime": "2019-02-13T23:43:00Z",
+        "uri": "http://web.archive.org/web/20190213234300/https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/"
+      },
+      {
+        "datetime": "2019-02-13T23:43:00Z",
+        "uri": "http://web.archive.org/web/20190213234300/https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T11:18:13Z",
+      "uri": "http://web.archive.org/web/20190213111813/https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/"
+    },
+    "last": {
+      "datetime": "2019-02-13T23:43:00Z",
+      "uri": "http://web.archive.org/web/20190213234300/https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/",
+    "json_format": "http://localhost:1208/timemap/json/https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/"
+}

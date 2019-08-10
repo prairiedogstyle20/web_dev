@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gamingtoday.com/race_sports/horse_racing/article/80938-Kentucky_sports_betting_bill_debated",
+  "uri": "https://www.gamingtoday.com/race_sports/horse_racing/article/80938-Kentucky_sports_betting_bill_debated",
+  "estimated-creation-date": "2019-02-13T20:30:15",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:15"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,167 @@
+36
+{
+  "original_uri": "https://www.youtube.com/watch?v=dN3fT6evRgU",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=dN3fT6evRgU",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T13:20:46Z",
+        "uri": "http://web.archive.org/web/20190213132046/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T13:20:56Z",
+        "uri": "http://web.archive.org/web/20190213132056/https://www.youtube.com/watch?v=dN3fT6evRgU&app=desktop"
+      },
+      {
+        "datetime": "2019-02-13T13:20:58Z",
+        "uri": "http://web.archive.org/web/20190213132058/https://www.youtube.com/watch?v=dN3fT6evRgU&feature=youtu.be"
+      },
+      {
+        "datetime": "2019-02-13T13:21:09Z",
+        "uri": "http://web.archive.org/web/20190213132109/https://www.youtube.com/watch?v=dN3fT6evRgU&feature=applinks"
+      },
+      {
+        "datetime": "2019-02-13T18:42:15Z",
+        "uri": "http://web.archive.org/web/20190213184215/http://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T18:42:16Z",
+        "uri": "http://web.archive.org/web/20190213184216/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T18:42:18Z",
+        "uri": "http://web.archive.org/web/20190213184218/https://www.youtube.com/watch?v=dN3fT6evRgU&app=desktop"
+      },
+      {
+        "datetime": "2019-02-13T20:16:39Z",
+        "uri": "http://web.archive.org/web/20190213201639/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T20:16:39Z",
+        "uri": "http://web.archive.org/web/20190213201639/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T20:38:00Z",
+        "uri": "http://web.archive.org/web/20190213203800/https://www.youtube.com/watch?v=dN3fT6evRgU&gl=US&hl=en"
+      },
+      {
+        "datetime": "2019-02-13T20:55:54Z",
+        "uri": "http://web.archive.org/web/20190213205554/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T20:55:54Z",
+        "uri": "http://web.archive.org/web/20190213205554/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T21:35:20Z",
+        "uri": "http://web.archive.org/web/20190213213520/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T21:35:20Z",
+        "uri": "http://web.archive.org/web/20190213213520/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T22:14:17Z",
+        "uri": "http://web.archive.org/web/20190213221417/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T22:14:17Z",
+        "uri": "http://web.archive.org/web/20190213221417/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T22:52:51Z",
+        "uri": "http://web.archive.org/web/20190213225251/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T22:52:51Z",
+        "uri": "http://web.archive.org/web/20190213225251/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T23:31:33Z",
+        "uri": "http://web.archive.org/web/20190213233133/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-13T23:31:33Z",
+        "uri": "http://web.archive.org/web/20190213233133/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T00:10:15Z",
+        "uri": "http://web.archive.org/web/20190214001015/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T00:10:15Z",
+        "uri": "http://web.archive.org/web/20190214001015/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T00:38:16Z",
+        "uri": "http://web.archive.org/web/20190214003816/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T00:38:16Z",
+        "uri": "http://web.archive.org/web/20190214003816/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T01:16:55Z",
+        "uri": "http://web.archive.org/web/20190214011655/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T01:16:55Z",
+        "uri": "http://web.archive.org/web/20190214011655/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T01:55:20Z",
+        "uri": "http://web.archive.org/web/20190214015520/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T01:55:20Z",
+        "uri": "http://web.archive.org/web/20190214015520/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T02:33:58Z",
+        "uri": "http://web.archive.org/web/20190214023358/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T02:33:58Z",
+        "uri": "http://web.archive.org/web/20190214023358/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T03:12:28Z",
+        "uri": "http://web.archive.org/web/20190214031228/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T03:12:28Z",
+        "uri": "http://web.archive.org/web/20190214031228/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T03:50:28Z",
+        "uri": "http://web.archive.org/web/20190214035028/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T03:50:28Z",
+        "uri": "http://web.archive.org/web/20190214035028/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T04:28:48Z",
+        "uri": "http://web.archive.org/web/20190214042848/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      },
+      {
+        "datetime": "2019-02-14T04:28:48Z",
+        "uri": "http://web.archive.org/web/20190214042848/https://www.youtube.com/watch?v=dN3fT6evRgU"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T13:20:46Z",
+      "uri": "http://web.archive.org/web/20190213132046/https://www.youtube.com/watch?v=dN3fT6evRgU"
+    },
+    "last": {
+      "datetime": "2019-02-14T04:28:48Z",
+      "uri": "http://web.archive.org/web/20190214042848/https://www.youtube.com/watch?v=dN3fT6evRgU"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/watch?v=dN3fT6evRgU",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=dN3fT6evRgU",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/watch?v=dN3fT6evRgU"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/watch?v=dN3fT6evRgU"
+}

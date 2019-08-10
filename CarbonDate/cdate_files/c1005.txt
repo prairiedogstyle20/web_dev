@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://sports-people.info/sports/",
+  "uri": "http://sports-people.info/sports/",
+  "estimated-creation-date": "2017-09-01T05:47:22",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170901054722/http://sports-people.info/sports/",
+      "memento-datetime": "2017-09-01T05:47:22",
+      "memento-pubdate": "",
+      "earliest": "2017-09-01T05:47:22"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

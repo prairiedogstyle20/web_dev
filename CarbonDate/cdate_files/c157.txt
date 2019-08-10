@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.yeniakit.com.tr/haber/ambargo-trump-yonetimini-zengin-ediyor-609227.html",
+  "uri": "https://www.yeniakit.com.tr/haber/ambargo-trump-yonetimini-zengin-ediyor-609227.html",
+  "estimated-creation-date": "2019-02-13T07:15:20",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213123546/https://www.yeniakit.com.tr/haber/ambargo-trump-yonetimini-zengin-ediyor-609227.html",
+      "memento-datetime": "2019-02-13T12:35:46",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T12:35:46"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:15:20"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

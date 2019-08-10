@@ -1,0 +1,91 @@
+17
+{
+  "original_uri": "https://sakurada-yoshitaka.jp/?page_id=23",
+  "self": "http://localhost:1208/timemap/json/https://sakurada-yoshitaka.jp/?page_id=23",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-06-12T07:59:55Z",
+        "uri": "http://web.archive.org/web/20130612075955/http://sakurada-yoshitaka.jp:80/?page_id=23"
+      },
+      {
+        "datetime": "2013-09-29T17:15:06Z",
+        "uri": "http://web.archive.org/web/20130929171506/http://sakurada-yoshitaka.jp/?page_id=23"
+      },
+      {
+        "datetime": "2014-08-13T23:40:01Z",
+        "uri": "http://web.archive.org/web/20140813234001/http://sakurada-yoshitaka.jp/?page_id=23"
+      },
+      {
+        "datetime": "2014-10-25T15:38:30Z",
+        "uri": "http://web.archive.org/web/20141025153830/http://sakurada-yoshitaka.jp:80/?page_id=23"
+      },
+      {
+        "datetime": "2015-02-19T21:47:24Z",
+        "uri": "http://web.archive.org/web/20150219214724/http://sakurada-yoshitaka.jp:80/?page_id=23"
+      },
+      {
+        "datetime": "2015-04-03T07:05:05Z",
+        "uri": "http://web.archive.org/web/20150403070505/http://sakurada-yoshitaka.jp/?page_id=23"
+      },
+      {
+        "datetime": "2015-05-08T12:21:10Z",
+        "uri": "http://web.archive.org/web/20150508122110/http://sakurada-yoshitaka.jp/?page_id=23"
+      },
+      {
+        "datetime": "2015-08-21T08:14:46Z",
+        "uri": "http://web.archive.org/web/20150821081446/http://sakurada-yoshitaka.jp:80/?page_id=23"
+      },
+      {
+        "datetime": "2016-01-29T10:36:00Z",
+        "uri": "http://web.archive.org/web/20160129103600/http://sakurada-yoshitaka.jp/?page_id=23"
+      },
+      {
+        "datetime": "2016-03-07T18:26:28Z",
+        "uri": "http://web.archive.org/web/20160307182628/http://sakurada-yoshitaka.jp/?page_id=23"
+      },
+      {
+        "datetime": "2016-03-17T13:16:49Z",
+        "uri": "http://web.archive.org/web/20160317131649/http://sakurada-yoshitaka.jp/?page_id=23"
+      },
+      {
+        "datetime": "2016-07-19T19:47:47Z",
+        "uri": "http://web.archive.org/web/20160719194747/http://sakurada-yoshitaka.jp:80/?page_id=23"
+      },
+      {
+        "datetime": "2016-10-27T10:19:31Z",
+        "uri": "http://web.archive.org/web/20161027101931/http://sakurada-yoshitaka.jp/?page_id=23"
+      },
+      {
+        "datetime": "2017-10-28T04:31:49Z",
+        "uri": "http://web.archive.org/web/20171028043149/http://sakurada-yoshitaka.jp/?page_id=23"
+      },
+      {
+        "datetime": "2018-08-27T18:55:50Z",
+        "uri": "http://web.archive.org/web/20180827185550/http://sakurada-yoshitaka.jp/?page_id=23"
+      },
+      {
+        "datetime": "2018-11-16T08:57:54Z",
+        "uri": "http://web.archive.org/web/20181116085754/http://sakurada-yoshitaka.jp/?page_id=23"
+      },
+      {
+        "datetime": "2019-02-04T06:57:50Z",
+        "uri": "http://web.archive.org/web/20190204065750/https://sakurada-yoshitaka.jp/?page_id=23"
+      }
+    ],
+    "first": {
+      "datetime": "2013-06-12T07:59:55Z",
+      "uri": "http://web.archive.org/web/20130612075955/http://sakurada-yoshitaka.jp:80/?page_id=23"
+    },
+    "last": {
+      "datetime": "2019-02-04T06:57:50Z",
+      "uri": "http://web.archive.org/web/20190204065750/https://sakurada-yoshitaka.jp/?page_id=23"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://sakurada-yoshitaka.jp/?page_id=23",
+    "json_format": "http://localhost:1208/timemap/json/https://sakurada-yoshitaka.jp/?page_id=23",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://sakurada-yoshitaka.jp/?page_id=23"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://sakurada-yoshitaka.jp/?page_id=23"
+}

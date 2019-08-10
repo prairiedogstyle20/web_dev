@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://www.usatoday.com/story/news/politics/2019/02/13/border-wall-deal-trump/2856991002/",
+  "self": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/news/politics/2019/02/13/border-wall-deal-trump/2856991002/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T20:29:54Z",
+        "uri": "http://web.archive.org/web/20190213202954/https://www.usatoday.com/story/news/politics/2019/02/13/border-wall-deal-trump/2856991002/"
+      },
+      {
+        "datetime": "2019-02-14T02:24:12Z",
+        "uri": "http://web.archive.org/web/20190214022412/https://www.usatoday.com/story/news/politics/2019/02/13/border-wall-deal-trump/2856991002/"
+      },
+      {
+        "datetime": "2019-02-14T08:21:25Z",
+        "uri": "http://web.archive.org/web/20190214082125/https://www.usatoday.com/story/news/politics/2019/02/13/border-wall-deal-trump/2856991002/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T20:29:54Z",
+      "uri": "http://web.archive.org/web/20190213202954/https://www.usatoday.com/story/news/politics/2019/02/13/border-wall-deal-trump/2856991002/"
+    },
+    "last": {
+      "datetime": "2019-02-14T08:21:25Z",
+      "uri": "http://web.archive.org/web/20190214082125/https://www.usatoday.com/story/news/politics/2019/02/13/border-wall-deal-trump/2856991002/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.usatoday.com/story/news/politics/2019/02/13/border-wall-deal-trump/2856991002/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/news/politics/2019/02/13/border-wall-deal-trump/2856991002/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.usatoday.com/story/news/politics/2019/02/13/border-wall-deal-trump/2856991002/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.usatoday.com/story/news/politics/2019/02/13/border-wall-deal-trump/2856991002/"
+}

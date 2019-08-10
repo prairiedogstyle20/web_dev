@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://nymag.com/intelligencer/2019/01/donald-trump-never-vetted-investigation-mueller.html?utm_source=tw",
+  "self": "http://localhost:1208/timemap/json/http://nymag.com/intelligencer/2019/01/donald-trump-never-vetted-investigation-mueller.html?utm_source=tw",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-01-07T11:19:07Z",
+        "uri": "http://web.archive.org/web/20190107111907/http://nymag.com/intelligencer/2019/01/donald-trump-never-vetted-investigation-mueller.html?utm_source=tw"
+      }
+    ],
+    "first": {
+      "datetime": "2019-01-07T11:19:07Z",
+      "uri": "http://web.archive.org/web/20190107111907/http://nymag.com/intelligencer/2019/01/donald-trump-never-vetted-investigation-mueller.html?utm_source=tw"
+    },
+    "last": {
+      "datetime": "2019-01-07T11:19:07Z",
+      "uri": "http://web.archive.org/web/20190107111907/http://nymag.com/intelligencer/2019/01/donald-trump-never-vetted-investigation-mueller.html?utm_source=tw"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://nymag.com/intelligencer/2019/01/donald-trump-never-vetted-investigation-mueller.html?utm_source=tw",
+    "json_format": "http://localhost:1208/timemap/json/http://nymag.com/intelligencer/2019/01/donald-trump-never-vetted-investigation-mueller.html?utm_source=tw",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://nymag.com/intelligencer/2019/01/donald-trump-never-vetted-investigation-mueller.html?utm_source=tw"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://nymag.com/intelligencer/2019/01/donald-trump-never-vetted-investigation-mueller.html?utm_source=tw"
+}

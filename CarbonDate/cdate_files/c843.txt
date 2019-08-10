@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://blfriars.org/sports/wrest/2018-19/releases/20190213n9oz1o",
+  "uri": "http://blfriars.org/sports/wrest/2018-19/releases/20190213n9oz1o",
+  "estimated-creation-date": "2019-02-13T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:31:17"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

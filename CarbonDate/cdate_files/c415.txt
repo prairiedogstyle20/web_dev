@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.amersports.com/2019/01/sustainable-winter-sports-equipment-in-the-age-of-global-warming/",
+  "uri": "https://www.amersports.com/2019/01/sustainable-winter-sports-equipment-in-the-age-of-global-warming/",
+  "estimated-creation-date": "2019-01-22T14:14:06",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-01-22T14:14:06"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:53:05"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

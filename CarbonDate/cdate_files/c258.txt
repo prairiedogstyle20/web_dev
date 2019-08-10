@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.rawstory.com/2019/02/rachel-maddow-cracks-trump-thinking-hes-now-going-invent-fourth-july/",
+  "uri": "https://www.rawstory.com/2019/02/rachel-maddow-cracks-trump-thinking-hes-now-going-invent-fourth-july/",
+  "estimated-creation-date": "2019-02-12T21:28:55",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T21:28:55"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T09:28:42"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

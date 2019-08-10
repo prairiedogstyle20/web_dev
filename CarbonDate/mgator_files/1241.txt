@@ -1,0 +1,123 @@
+25
+{
+  "original_uri": "https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852",
+  "self": "http://localhost:1208/timemap/json/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:21:26Z",
+        "uri": "http://web.archive.org/web/20190213032126/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T04:44:56Z",
+        "uri": "http://web.archive.org/web/20190213044456/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T05:23:37Z",
+        "uri": "http://web.archive.org/web/20190213052337/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T06:02:10Z",
+        "uri": "http://web.archive.org/web/20190213060210/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T06:41:02Z",
+        "uri": "http://web.archive.org/web/20190213064102/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T07:19:18Z",
+        "uri": "http://web.archive.org/web/20190213071918/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T07:21:02Z",
+        "uri": "http://web.archive.org/web/20190213072102/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T07:57:50Z",
+        "uri": "http://web.archive.org/web/20190213075750/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T08:36:06Z",
+        "uri": "http://web.archive.org/web/20190213083606/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T09:14:36Z",
+        "uri": "http://web.archive.org/web/20190213091436/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T09:52:52Z",
+        "uri": "http://web.archive.org/web/20190213095252/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T10:31:11Z",
+        "uri": "http://web.archive.org/web/20190213103111/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T11:09:28Z",
+        "uri": "http://web.archive.org/web/20190213110928/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T11:48:11Z",
+        "uri": "http://web.archive.org/web/20190213114811/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T12:26:25Z",
+        "uri": "http://web.archive.org/web/20190213122625/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T13:04:42Z",
+        "uri": "http://web.archive.org/web/20190213130442/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T13:43:43Z",
+        "uri": "http://web.archive.org/web/20190213134343/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T14:04:48Z",
+        "uri": "http://web.archive.org/web/20190213140448/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T14:22:24Z",
+        "uri": "http://web.archive.org/web/20190213142224/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T15:01:13Z",
+        "uri": "http://web.archive.org/web/20190213150113/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T15:40:34Z",
+        "uri": "http://web.archive.org/web/20190213154034/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T16:20:26Z",
+        "uri": "http://web.archive.org/web/20190213162026/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T16:59:37Z",
+        "uri": "http://web.archive.org/web/20190213165937/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-13T17:38:53Z",
+        "uri": "http://web.archive.org/web/20190213173853/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      },
+      {
+        "datetime": "2019-02-14T05:13:33Z",
+        "uri": "http://web.archive.org/web/20190214051333/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:21:26Z",
+      "uri": "http://web.archive.org/web/20190213032126/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+    },
+    "last": {
+      "datetime": "2019-02-14T05:13:33Z",
+      "uri": "http://web.archive.org/web/20190214051333/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852",
+    "json_format": "http://localhost:1208/timemap/json/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.newsweek.com/donald-trump-physical-exam-white-house-health-1328852"
+}

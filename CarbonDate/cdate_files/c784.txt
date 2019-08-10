@@ -1,0 +1,45 @@
+{
+  "self": "http://localhost:8888/cd/https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/",
+  "uri": "https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/",
+  "estimated-creation-date": "2019-02-12T22:08:03",
+  "earliest-sources": [
+    "pubdate",
+    "wayback.archive-it.org",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T22:08:03"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190213090849/https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/",
+      "memento-datetime": "2019-02-13T09:08:49",
+      "memento-pubdate": "2019-02-12T22:08:03",
+      "earliest": "2019-02-12T22:08:03"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213090849/https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/",
+      "memento-datetime": "2019-02-13T09:08:49",
+      "memento-pubdate": "2019-02-12T22:08:03",
+      "earliest": "2019-02-12T22:08:03"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:51:46"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar",
+  "self": "http://localhost:1208/timemap/json/https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T20:25:45Z",
+        "uri": "http://web.archive.org/web/20190213202545/https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar"
+      },
+      {
+        "datetime": "2019-02-13T23:53:24Z",
+        "uri": "http://web.archive.org/web/20190213235324/https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar"
+      },
+      {
+        "datetime": "2019-02-13T23:53:24Z",
+        "uri": "http://web.archive.org/web/20190213235324/http://foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar"
+      },
+      {
+        "datetime": "2019-02-14T00:56:14Z",
+        "uri": "http://web.archive.org/web/20190214005614/https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar"
+      },
+      {
+        "datetime": "2019-02-14T01:28:05Z",
+        "uri": "http://web.archive.org/web/20190214012805/https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar"
+      },
+      {
+        "datetime": "2019-02-14T10:48:33Z",
+        "uri": "http://web.archive.org/web/20190214104833/https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T20:25:45Z",
+      "uri": "http://web.archive.org/web/20190213202545/https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar"
+    },
+    "last": {
+      "datetime": "2019-02-14T10:48:33Z",
+      "uri": "http://web.archive.org/web/20190214104833/https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar",
+    "json_format": "http://localhost:1208/timemap/json/https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.foxnews.com/politics/us-special-envoy-for-venezuela-clashes-with-rep-omar"
+}

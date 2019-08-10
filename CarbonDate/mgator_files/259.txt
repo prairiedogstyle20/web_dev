@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php",
+  "self": "http://localhost:1208/timemap/json/https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T07:57:24Z",
+        "uri": "http://web.archive.org/web/20190213075724/https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+      },
+      {
+        "datetime": "2019-02-13T07:57:24Z",
+        "uri": "http://web.archive.org/web/20190213075724/https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+      },
+      {
+        "datetime": "2019-02-13T14:14:34Z",
+        "uri": "http://web.archive.org/web/20190213141434/https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+      },
+      {
+        "datetime": "2019-02-14T03:04:55Z",
+        "uri": "http://web.archive.org/web/20190214030455/https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+      },
+      {
+        "datetime": "2019-02-14T03:04:55Z",
+        "uri": "http://web.archive.org/web/20190214030455/https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T07:57:24Z",
+      "uri": "http://web.archive.org/web/20190213075724/https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+    },
+    "last": {
+      "datetime": "2019-02-14T03:04:55Z",
+      "uri": "http://web.archive.org/web/20190214030455/https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php",
+    "json_format": "http://localhost:1208/timemap/json/https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.lapresse.ca/affaires/201902/12/01-5214499-stade-de-baseball-bronfman-sollicite-laide-de-quebec.php"
+}

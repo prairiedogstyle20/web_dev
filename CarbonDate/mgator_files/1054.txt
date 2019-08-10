@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.eltiempo.com/historias-el-tiempo/ropa-de-duque-y-primera-dama-maria-juliana-ruiz-en-visita-a-trump-326380",
+  "self": "http://localhost:1208/timemap/json/https://www.eltiempo.com/historias-el-tiempo/ropa-de-duque-y-primera-dama-maria-juliana-ruiz-en-visita-a-trump-326380",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T14:45:08Z",
+        "uri": "http://web.archive.org/web/20190214144508/https://www.eltiempo.com/historias-el-tiempo/ropa-de-duque-y-primera-dama-maria-juliana-ruiz-en-visita-a-trump-326380"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T14:45:08Z",
+      "uri": "http://web.archive.org/web/20190214144508/https://www.eltiempo.com/historias-el-tiempo/ropa-de-duque-y-primera-dama-maria-juliana-ruiz-en-visita-a-trump-326380"
+    },
+    "last": {
+      "datetime": "2019-02-14T14:45:08Z",
+      "uri": "http://web.archive.org/web/20190214144508/https://www.eltiempo.com/historias-el-tiempo/ropa-de-duque-y-primera-dama-maria-juliana-ruiz-en-visita-a-trump-326380"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.eltiempo.com/historias-el-tiempo/ropa-de-duque-y-primera-dama-maria-juliana-ruiz-en-visita-a-trump-326380",
+    "json_format": "http://localhost:1208/timemap/json/https://www.eltiempo.com/historias-el-tiempo/ropa-de-duque-y-primera-dama-maria-juliana-ruiz-en-visita-a-trump-326380",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.eltiempo.com/historias-el-tiempo/ropa-de-duque-y-primera-dama-maria-juliana-ruiz-en-visita-a-trump-326380"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.eltiempo.com/historias-el-tiempo/ropa-de-duque-y-primera-dama-maria-juliana-ruiz-en-visita-a-trump-326380"
+}

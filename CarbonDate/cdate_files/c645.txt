@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.franceinter.fr/emissions/geopolitique/geopolitique-13-fevrier-2019?utm_medium=Social&utm_source=Twitter",
+  "uri": "https://www.franceinter.fr/emissions/geopolitique/geopolitique-13-fevrier-2019?utm_medium=Social&utm_source=Twitter",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

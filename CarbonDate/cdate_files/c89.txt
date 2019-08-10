@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://sports-usa.net/2019/02/13/bellator-mma-staredowns-daley-ignores-mvp-nelson-plays-nice-with-cro-cop-video/",
+  "uri": "http://sports-usa.net/2019/02/13/bellator-mma-staredowns-daley-ignores-mvp-nelson-plays-nice-with-cro-cop-video/",
+  "estimated-creation-date": "2019-02-13T21:26:52",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T21:26:52"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://globalcomment.com/the-story-of-the-xfl-is-how-donald-trump-is-really-just-vince-mcmahon-with-worse-hair/",
+  "self": "http://localhost:1208/timemap/json/http://globalcomment.com/the-story-of-the-xfl-is-how-donald-trump-is-really-just-vince-mcmahon-with-worse-hair/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T13:32:23Z",
+        "uri": "http://web.archive.org/web/20190213133223/http://globalcomment.com/the-story-of-the-xfl-is-how-donald-trump-is-really-just-vince-mcmahon-with-worse-hair/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T13:32:23Z",
+      "uri": "http://web.archive.org/web/20190213133223/http://globalcomment.com/the-story-of-the-xfl-is-how-donald-trump-is-really-just-vince-mcmahon-with-worse-hair/"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:32:23Z",
+      "uri": "http://web.archive.org/web/20190213133223/http://globalcomment.com/the-story-of-the-xfl-is-how-donald-trump-is-really-just-vince-mcmahon-with-worse-hair/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://globalcomment.com/the-story-of-the-xfl-is-how-donald-trump-is-really-just-vince-mcmahon-with-worse-hair/",
+    "json_format": "http://localhost:1208/timemap/json/http://globalcomment.com/the-story-of-the-xfl-is-how-donald-trump-is-really-just-vince-mcmahon-with-worse-hair/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://globalcomment.com/the-story-of-the-xfl-is-how-donald-trump-is-really-just-vince-mcmahon-with-worse-hair/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://globalcomment.com/the-story-of-the-xfl-is-how-donald-trump-is-really-just-vince-mcmahon-with-worse-hair/"
+}

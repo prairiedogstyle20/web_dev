@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.sankei.com/sports/news/190212/spo1902120026-n1.html",
+  "uri": "https://www.sankei.com/sports/news/190212/spo1902120026-n1.html",
+  "estimated-creation-date": "2019-02-12T08:13:33",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-12T11:03:45"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T16:57:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T08:13:33"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,111 @@
+22
+{
+  "original_uri": "https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-11T19:14:35Z",
+        "uri": "http://web.archive.org/web/20190211191435/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-11T19:16:47Z",
+        "uri": "http://web.archive.org/web/20190211191647/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-11T19:32:07Z",
+        "uri": "http://web.archive.org/web/20190211193207/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-11T19:47:08Z",
+        "uri": "http://web.archive.org/web/20190211194708/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-11T20:33:54Z",
+        "uri": "http://web.archive.org/web/20190211203354/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-12T01:30:07Z",
+        "uri": "http://wayback.archive-it.org/all/20190212013007/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-12T01:30:07Z",
+        "uri": "http://web.archive.org/web/20190212013007/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-12T05:08:39Z",
+        "uri": "http://web.archive.org/web/20190212050839/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-12T07:18:44Z",
+        "uri": "http://web.archive.org/web/20190212071844/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-12T07:24:39Z",
+        "uri": "http://web.archive.org/web/20190212072439/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-12T20:32:00Z",
+        "uri": "http://web.archive.org/web/20190212203200/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-12T20:46:22Z",
+        "uri": "http://web.archive.org/web/20190212204622/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-12T21:01:37Z",
+        "uri": "http://web.archive.org/web/20190212210137/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-13T08:19:17Z",
+        "uri": "http://web.archive.org/web/20190213081917/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-13T15:31:22Z",
+        "uri": "http://web.archive.org/web/20190213153122/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-13T15:46:38Z",
+        "uri": "http://web.archive.org/web/20190213154638/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-13T17:28:44Z",
+        "uri": "http://web.archive.org/web/20190213172844/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-13T17:29:02Z",
+        "uri": "http://web.archive.org/web/20190213172902/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-13T18:17:22Z",
+        "uri": "http://web.archive.org/web/20190213181722/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-14T00:20:42Z",
+        "uri": "http://web.archive.org/web/20190214002042/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-14T03:34:09Z",
+        "uri": "http://web.archive.org/web/20190214033409/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      },
+      {
+        "datetime": "2019-02-14T13:26:57Z",
+        "uri": "http://web.archive.org/web/20190214132657/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-11T19:14:35Z",
+      "uri": "http://web.archive.org/web/20190211191435/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T13:26:57Z",
+      "uri": "http://web.archive.org/web/20190214132657/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html"
+}

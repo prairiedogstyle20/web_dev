@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/homenews/administration/429634-us-conference-of-mayors-defends-el-paso-mayor-after-trump-said-he-was",
+  "uri": "https://thehill.com/homenews/administration/429634-us-conference-of-mayors-defends-el-paso-mayor-after-trump-said-he-was",
+  "estimated-creation-date": "2019-02-12T14:27:10",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T14:27:10"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212235414/https://thehill.com/homenews/administration/429634-us-conference-of-mayors-defends-el-paso-mayor-after-trump-said-he-was",
+      "memento-datetime": "2019-02-12T23:54:14",
+      "memento-pubdate": "2019-02-12T14:27:10",
+      "earliest": "2019-02-12T14:27:10"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T19:33:24"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://abc3340.com/news/nation-world/live-president-trump-speaks-to-major-city-and-county-law-enforcement-at-joint-conference",
+  "self": "http://localhost:1208/timemap/json/https://abc3340.com/news/nation-world/live-president-trump-speaks-to-major-city-and-county-law-enforcement-at-joint-conference",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T06:16:36Z",
+        "uri": "http://web.archive.org/web/20190214061636/http://abc3340.com/news/nation-world/live-president-trump-speaks-to-major-city-and-county-law-enforcement-at-joint-conference"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T06:16:36Z",
+      "uri": "http://web.archive.org/web/20190214061636/http://abc3340.com/news/nation-world/live-president-trump-speaks-to-major-city-and-county-law-enforcement-at-joint-conference"
+    },
+    "last": {
+      "datetime": "2019-02-14T06:16:36Z",
+      "uri": "http://web.archive.org/web/20190214061636/http://abc3340.com/news/nation-world/live-president-trump-speaks-to-major-city-and-county-law-enforcement-at-joint-conference"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://abc3340.com/news/nation-world/live-president-trump-speaks-to-major-city-and-county-law-enforcement-at-joint-conference",
+    "json_format": "http://localhost:1208/timemap/json/https://abc3340.com/news/nation-world/live-president-trump-speaks-to-major-city-and-county-law-enforcement-at-joint-conference",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://abc3340.com/news/nation-world/live-president-trump-speaks-to-major-city-and-county-law-enforcement-at-joint-conference"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://abc3340.com/news/nation-world/live-president-trump-speaks-to-major-city-and-county-law-enforcement-at-joint-conference"
+}

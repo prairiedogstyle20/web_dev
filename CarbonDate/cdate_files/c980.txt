@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://teespring.com/trump-s-official-signature",
+  "uri": "https://teespring.com/trump-s-official-signature",
+  "estimated-creation-date": "2019-02-15T17:00:00",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:00:00"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

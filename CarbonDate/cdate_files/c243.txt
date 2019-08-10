@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&",
+  "uri": "http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&",
+  "estimated-creation-date": "2018-02-01T22:48:15",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-05T01:53:50"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180203164119/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&",
+      "memento-datetime": "2018-02-01T22:48:15",
+      "memento-pubdate": "",
+      "earliest": "2018-02-01T22:48:15"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20181106004128/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&",
+      "memento-datetime": "2018-10-27T04:21:24",
+      "memento-pubdate": "",
+      "earliest": "2018-10-27T04:21:24"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

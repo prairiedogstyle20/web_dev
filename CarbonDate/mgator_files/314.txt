@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://newrepublic.com/article/153107/destructive-nihilism-trump-gop",
+  "self": "http://localhost:1208/timemap/json/https://newrepublic.com/article/153107/destructive-nihilism-trump-gop",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T05:36:21Z",
+        "uri": "http://web.archive.org/web/20190214053621/https://newrepublic.com/article/153107/destructive-nihilism-trump-gop"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T05:36:21Z",
+      "uri": "http://web.archive.org/web/20190214053621/https://newrepublic.com/article/153107/destructive-nihilism-trump-gop"
+    },
+    "last": {
+      "datetime": "2019-02-14T05:36:21Z",
+      "uri": "http://web.archive.org/web/20190214053621/https://newrepublic.com/article/153107/destructive-nihilism-trump-gop"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://newrepublic.com/article/153107/destructive-nihilism-trump-gop",
+    "json_format": "http://localhost:1208/timemap/json/https://newrepublic.com/article/153107/destructive-nihilism-trump-gop",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://newrepublic.com/article/153107/destructive-nihilism-trump-gop"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://newrepublic.com/article/153107/destructive-nihilism-trump-gop"
+}

@@ -1,0 +1,55 @@
+{
+  "self": "http://localhost:8888/cd/https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/",
+  "uri": "https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/",
+  "estimated-creation-date": "2017-06-06T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2017-06-06T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170606170930/https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/",
+      "memento-datetime": "2017-06-06T17:09:30",
+      "memento-pubdate": "2017-06-06T23:59:59",
+      "earliest": "2017-06-06T17:09:30"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20170606171157/https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/",
+      "memento-datetime": "2017-06-06T17:11:57",
+      "memento-pubdate": "2017-06-06T17:11:57",
+      "earliest": "2017-06-06T17:11:57"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20170606190015/https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/",
+      "memento-datetime": "2017-06-06T19:00:15",
+      "memento-pubdate": "2017-06-06T23:59:59",
+      "earliest": "2017-06-06T19:00:15"
+    },
+    "perma-archives.org": {
+      "uri-m": "https://perma-archives.org/warc/20170608001544/https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/",
+      "memento-datetime": "2017-06-08T00:15:44",
+      "memento-pubdate": "2017-06-06T23:59:59",
+      "earliest": "2017-06-06T23:59:59"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T20:18:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

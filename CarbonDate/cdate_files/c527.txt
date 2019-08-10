@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thesudburystar.com/sports/local-sports/personal-best-five-things-to-know-about-the-laurentians-basketball-voyageurs",
+  "uri": "https://www.thesudburystar.com/sports/local-sports/personal-best-five-things-to-know-about-the-laurentians-basketball-voyageurs",
+  "estimated-creation-date": "2019-02-12T15:56:09",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T15:56:09"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213144225/https://www.thesudburystar.com/sports/local-sports/personal-best-five-things-to-know-about-the-laurentians-basketball-voyageurs",
+      "memento-datetime": "2019-02-13T14:42:25",
+      "memento-pubdate": "2019-02-12T15:56:09",
+      "earliest": "2019-02-12T15:56:09"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T20:57:15"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

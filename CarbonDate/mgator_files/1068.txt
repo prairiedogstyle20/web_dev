@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/",
+  "self": "http://localhost:1208/timemap/json/https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T11:25:24Z",
+        "uri": "http://web.archive.org/web/20190214112524/https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/"
+      },
+      {
+        "datetime": "2019-02-14T11:25:24Z",
+        "uri": "http://web.archive.org/web/20190214112524/https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/"
+      },
+      {
+        "datetime": "2019-02-14T14:13:59Z",
+        "uri": "http://web.archive.org/web/20190214141359/https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T11:25:24Z",
+      "uri": "http://web.archive.org/web/20190214112524/https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/"
+    },
+    "last": {
+      "datetime": "2019-02-14T14:13:59Z",
+      "uri": "http://web.archive.org/web/20190214141359/https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.palmerreport.com/analysis/remaining-supporters-new-low/15936/"
+}

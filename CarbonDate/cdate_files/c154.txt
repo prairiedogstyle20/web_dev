@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cnn.com/videos/politics/2019/02/13/john-garamendi-trump-wall-money-coast-guard-nr-vpx.cnn",
+  "uri": "https://www.cnn.com/videos/politics/2019/02/13/john-garamendi-trump-wall-money-coast-guard-nr-vpx.cnn",
+  "estimated-creation-date": "2019-02-13T20:20:38",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T20:20:38"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213220909/https://www.cnn.com/videos/politics/2019/02/13/john-garamendi-trump-wall-money-coast-guard-nr-vpx.cnn",
+      "memento-datetime": "2019-02-13T22:09:09",
+      "memento-pubdate": "2019-02-13T20:20:38",
+      "earliest": "2019-02-13T20:20:38"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T21:14:57"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

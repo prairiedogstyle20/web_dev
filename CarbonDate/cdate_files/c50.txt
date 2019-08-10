@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/http://trumpit.chat/",
+  "uri": "http://trumpit.chat/",
+  "estimated-creation-date": "2018-08-04T03:18:38",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180804031838/http://trumpit.chat/",
+      "memento-datetime": "2018-08-04T03:18:38",
+      "memento-pubdate": "",
+      "earliest": "2018-08-04T03:18:38"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190124023824/http://trumpit.chat/",
+      "memento-datetime": "2019-01-24T02:38:24",
+      "memento-pubdate": "2019-01-24T02:38:24",
+      "earliest": "2019-01-24T02:38:24"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-05T23:58:39"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

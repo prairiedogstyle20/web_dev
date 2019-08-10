@@ -1,0 +1,63 @@
+10
+{
+  "original_uri": "https://www.youtube.com/watch?v=jdjWXFD02Ag",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=jdjWXFD02Ag",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T23:04:55Z",
+        "uri": "http://web.archive.org/web/20190212230455/https://www.youtube.com/watch?v=jdjWXFD02Ag"
+      },
+      {
+        "datetime": "2019-02-12T23:43:48Z",
+        "uri": "http://web.archive.org/web/20190212234348/http://www.youtube.com/watch?v=jdjWXFD02Ag"
+      },
+      {
+        "datetime": "2019-02-12T23:45:09Z",
+        "uri": "http://web.archive.org/web/20190212234509/https://www.youtube.com/watch?v=jdjWXFD02Ag"
+      },
+      {
+        "datetime": "2019-02-13T00:03:26Z",
+        "uri": "http://web.archive.org/web/20190213000326/https://www.youtube.com/watch?v=jdjWXFD02Ag&gl=US&hl=en"
+      },
+      {
+        "datetime": "2019-02-13T01:05:26Z",
+        "uri": "http://web.archive.org/web/20190213010526/http://www.youtube.com/watch?v=jdjWXFD02Ag"
+      },
+      {
+        "datetime": "2019-02-13T01:06:59Z",
+        "uri": "http://web.archive.org/web/20190213010659/https://www.youtube.com/watch?v=jdjWXFD02Ag"
+      },
+      {
+        "datetime": "2019-02-13T08:42:05Z",
+        "uri": "http://web.archive.org/web/20190213084205/http://www.youtube.com/watch?v=jdjWXFD02Ag"
+      },
+      {
+        "datetime": "2019-02-13T08:43:06Z",
+        "uri": "http://web.archive.org/web/20190213084306/https://www.youtube.com/watch?v=jdjWXFD02Ag"
+      },
+      {
+        "datetime": "2019-02-13T23:51:41Z",
+        "uri": "http://web.archive.org/web/20190213235141/http://www.youtube.com/watch?v=jdjWXFD02Ag"
+      },
+      {
+        "datetime": "2019-02-13T23:55:18Z",
+        "uri": "http://web.archive.org/web/20190213235518/https://www.youtube.com/watch?v=jdjWXFD02Ag"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T23:04:55Z",
+      "uri": "http://web.archive.org/web/20190212230455/https://www.youtube.com/watch?v=jdjWXFD02Ag"
+    },
+    "last": {
+      "datetime": "2019-02-13T23:55:18Z",
+      "uri": "http://web.archive.org/web/20190213235518/https://www.youtube.com/watch?v=jdjWXFD02Ag"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/watch?v=jdjWXFD02Ag",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=jdjWXFD02Ag",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/watch?v=jdjWXFD02Ag"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/watch?v=jdjWXFD02Ag"
+}

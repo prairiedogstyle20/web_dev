@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.axios.com/house-democrats-donald-trump-russia-investigation-05918127-c77a-424d-a805-cde8e67bffe9.html",
+  "uri": "https://www.axios.com/house-democrats-donald-trump-russia-investigation-05918127-c77a-424d-a805-cde8e67bffe9.html",
+  "estimated-creation-date": "2019-02-13T12:10:54",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213121054/https://www.axios.com/house-democrats-donald-trump-russia-investigation-05918127-c77a-424d-a805-cde8e67bffe9.html",
+      "memento-datetime": "2019-02-13T12:10:54",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T12:10:54"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190213121226/https://www.axios.com/house-democrats-donald-trump-russia-investigation-05918127-c77a-424d-a805-cde8e67bffe9.html",
+      "memento-datetime": "2019-02-13T12:12:26",
+      "memento-pubdate": "2019-02-13T12:12:26",
+      "earliest": "2019-02-13T12:12:26"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T21:46:43"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

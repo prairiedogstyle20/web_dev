@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://ilovemyfreedom.org/trump-vindicated-senate-intel-committee-announces-no-direct-evidence-of-russia-trump-collusion/",
+  "uri": "https://ilovemyfreedom.org/trump-vindicated-senate-intel-committee-announces-no-direct-evidence-of-russia-trump-collusion/",
+  "estimated-creation-date": "2019-02-12T11:32:54",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T11:32:54"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213133240/https://ilovemyfreedom.org/trump-vindicated-senate-intel-committee-announces-no-direct-evidence-of-russia-trump-collusion/",
+      "memento-datetime": "2019-02-13T13:32:40",
+      "memento-pubdate": "2019-02-12T11:32:54",
+      "earliest": "2019-02-12T11:32:54"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

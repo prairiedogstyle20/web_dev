@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.amarujala.com/sports/local-sports/cooch-behar-under-19-final",
+  "self": "http://localhost:1208/timemap/json/https://www.amarujala.com/sports/local-sports/cooch-behar-under-19-final",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T14:04:49Z",
+        "uri": "http://web.archive.org/web/20190213140449/https://www.amarujala.com/sports/local-sports/cooch-behar-under-19-final"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T14:04:49Z",
+      "uri": "http://web.archive.org/web/20190213140449/https://www.amarujala.com/sports/local-sports/cooch-behar-under-19-final"
+    },
+    "last": {
+      "datetime": "2019-02-13T14:04:49Z",
+      "uri": "http://web.archive.org/web/20190213140449/https://www.amarujala.com/sports/local-sports/cooch-behar-under-19-final"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.amarujala.com/sports/local-sports/cooch-behar-under-19-final",
+    "json_format": "http://localhost:1208/timemap/json/https://www.amarujala.com/sports/local-sports/cooch-behar-under-19-final",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.amarujala.com/sports/local-sports/cooch-behar-under-19-final"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.amarujala.com/sports/local-sports/cooch-behar-under-19-final"
+}

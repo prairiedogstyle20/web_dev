@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://www.latimes.com/opinion/op-ed/la-oe-goldberg-trump-pelosi-shutdown-20190129-story.html",
+  "uri": "https://www.latimes.com/opinion/op-ed/la-oe-goldberg-trump-pelosi-shutdown-20190129-story.html",
+  "estimated-creation-date": "2019-01-29T11:15:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-01-29T11:15:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190129190501/http://www.latimes.com/opinion/op-ed/la-oe-goldberg-trump-pelosi-shutdown-20190129-story.html",
+      "memento-datetime": "2019-01-29T19:05:01",
+      "memento-pubdate": "2019-01-29T11:15:00",
+      "earliest": "2019-01-29T11:15:00"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190130165840/https://www.latimes.com/opinion/op-ed/la-oe-goldberg-trump-pelosi-shutdown-20190129-story.html",
+      "memento-datetime": "2019-01-30T16:58:40",
+      "memento-pubdate": "2019-01-30T16:58:40",
+      "earliest": "2019-01-30T16:58:40"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T17:07:52"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

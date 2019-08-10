@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.huffingtonpost.com/entry/stephen-colbert-trump-budget-deal_us_5c63790fe4b03de94296b5d0",
+  "self": "http://localhost:1208/timemap/json/https://www.huffingtonpost.com/entry/stephen-colbert-trump-budget-deal_us_5c63790fe4b03de94296b5d0",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T19:35:49Z",
+        "uri": "http://web.archive.org/web/20190213193549/https://www.huffingtonpost.com/entry/stephen-colbert-trump-budget-deal_us_5c63790fe4b03de94296b5d0"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T19:35:49Z",
+      "uri": "http://web.archive.org/web/20190213193549/https://www.huffingtonpost.com/entry/stephen-colbert-trump-budget-deal_us_5c63790fe4b03de94296b5d0"
+    },
+    "last": {
+      "datetime": "2019-02-13T19:35:49Z",
+      "uri": "http://web.archive.org/web/20190213193549/https://www.huffingtonpost.com/entry/stephen-colbert-trump-budget-deal_us_5c63790fe4b03de94296b5d0"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.huffingtonpost.com/entry/stephen-colbert-trump-budget-deal_us_5c63790fe4b03de94296b5d0",
+    "json_format": "http://localhost:1208/timemap/json/https://www.huffingtonpost.com/entry/stephen-colbert-trump-budget-deal_us_5c63790fe4b03de94296b5d0",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.huffingtonpost.com/entry/stephen-colbert-trump-budget-deal_us_5c63790fe4b03de94296b5d0"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.huffingtonpost.com/entry/stephen-colbert-trump-budget-deal_us_5c63790fe4b03de94296b5d0"
+}

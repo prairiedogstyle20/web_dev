@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cnn.com/2019/02/13/politics/trump-border-security-deal/index.html",
+  "uri": "https://www.cnn.com/2019/02/13/politics/trump-border-security-deal/index.html",
+  "estimated-creation-date": "2019-02-13T12:36:03",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T12:36:03"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213131816/https://www.cnn.com/2019/02/13/politics/trump-border-security-deal/index.html",
+      "memento-datetime": "2019-02-13T13:18:16",
+      "memento-pubdate": "2019-02-13T12:36:03",
+      "earliest": "2019-02-13T12:36:03"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190213132313/https://www.cnn.com/2019/02/13/politics/trump-border-security-deal/index.html",
+      "memento-datetime": "2019-02-13T13:23:13",
+      "memento-pubdate": "2019-02-13T13:23:13",
+      "earliest": "2019-02-13T13:23:13"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T21:47:55"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

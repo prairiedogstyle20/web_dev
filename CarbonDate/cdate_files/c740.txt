@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://abcnews.go.com/Politics/president-trump-feel-phony-dog/story?id=61018468&cid=social_twitter_abcn",
+  "uri": "https://abcnews.go.com/Politics/president-trump-feel-phony-dog/story?id=61018468&cid=social_twitter_abcn",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

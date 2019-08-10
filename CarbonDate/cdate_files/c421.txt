@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.heraldscotland.com/news/17427860.bbc-cameraman-attacked-by-trump-supporter-at-rally/",
+  "uri": "https://www.heraldscotland.com/news/17427860.bbc-cameraman-attacked-by-trump-supporter-at-rally/",
+  "estimated-creation-date": "2019-02-13T05:07:26",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213050726/https://www.heraldscotland.com/news/17427860.bbc-cameraman-attacked-by-trump-supporter-at-rally/",
+      "memento-datetime": "2019-02-13T05:07:26",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T05:07:26"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

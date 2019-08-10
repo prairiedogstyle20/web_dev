@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.eltiempo.com/historias-el-tiempo/ropa-de-duque-y-primera-dama-maria-juliana-ruiz-en-visita-a-trump-326380",
+  "uri": "https://www.eltiempo.com/historias-el-tiempo/ropa-de-duque-y-primera-dama-maria-juliana-ruiz-en-visita-a-trump-326380",
+  "estimated-creation-date": "2019-02-13T18:58:21",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214144508/https://www.eltiempo.com/historias-el-tiempo/ropa-de-duque-y-primera-dama-maria-juliana-ruiz-en-visita-a-trump-326380",
+      "memento-datetime": "2019-02-14T14:45:08",
+      "memento-pubdate": "",
+      "earliest": "2019-02-14T14:45:08"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T18:58:21"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://1010wins.radio.com/articles/ap-news/trump-expected-sign-border-deal-avert-shutdown",
+  "uri": "https://1010wins.radio.com/articles/ap-news/trump-expected-sign-border-deal-avert-shutdown",
+  "estimated-creation-date": "2019-02-13T12:42:45",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:19:33"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T12:42:45"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

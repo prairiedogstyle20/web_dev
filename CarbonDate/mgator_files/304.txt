@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.elmundo.es/internacional/2019/02/13/5c6476f0fc6c83ad618b45aa.html",
+  "self": "http://localhost:1208/timemap/json/https://www.elmundo.es/internacional/2019/02/13/5c6476f0fc6c83ad618b45aa.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T22:34:37Z",
+        "uri": "http://web.archive.org/web/20190213223437/https://www.elmundo.es/internacional/2019/02/13/5c6476f0fc6c83ad618b45aa.html"
+      },
+      {
+        "datetime": "2019-02-14T00:56:28Z",
+        "uri": "http://web.archive.org/web/20190214005628/https://www.elmundo.es/internacional/2019/02/13/5c6476f0fc6c83ad618b45aa.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T22:34:37Z",
+      "uri": "http://web.archive.org/web/20190213223437/https://www.elmundo.es/internacional/2019/02/13/5c6476f0fc6c83ad618b45aa.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T00:56:28Z",
+      "uri": "http://web.archive.org/web/20190214005628/https://www.elmundo.es/internacional/2019/02/13/5c6476f0fc6c83ad618b45aa.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.elmundo.es/internacional/2019/02/13/5c6476f0fc6c83ad618b45aa.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.elmundo.es/internacional/2019/02/13/5c6476f0fc6c83ad618b45aa.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.elmundo.es/internacional/2019/02/13/5c6476f0fc6c83ad618b45aa.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.elmundo.es/internacional/2019/02/13/5c6476f0fc6c83ad618b45aa.html"
+}

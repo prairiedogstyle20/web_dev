@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.texasobserver.org/butterfly-trump-restraining-order-lawsuit-border-wall-texas/",
+  "uri": "https://www.texasobserver.org/butterfly-trump-restraining-order-lawsuit-border-wall-texas/",
+  "estimated-creation-date": "2019-02-12T05:11:10",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T05:11:10"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212093411/https://www.texasobserver.org/butterfly-trump-restraining-order-lawsuit-border-wall-texas/",
+      "memento-datetime": "2019-02-12T09:34:11",
+      "memento-pubdate": "2019-02-12T05:11:10",
+      "earliest": "2019-02-12T05:11:10"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

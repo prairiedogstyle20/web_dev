@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://www.usatoday.com/story/sports/2019/02/12/westminster-kennel-club-dog-show-wire-fox-terrier-wins-best-show/2853664002/",
+  "self": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/sports/2019/02/12/westminster-kennel-club-dog-show-wire-fox-terrier-wins-best-show/2853664002/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T07:16:55Z",
+        "uri": "http://web.archive.org/web/20190213071655/https://www.usatoday.com/story/sports/2019/02/12/westminster-kennel-club-dog-show-wire-fox-terrier-wins-best-show/2853664002/"
+      },
+      {
+        "datetime": "2019-02-13T08:41:50Z",
+        "uri": "http://web.archive.org/web/20190213084150/https://www.usatoday.com/story/sports/2019/02/12/westminster-kennel-club-dog-show-wire-fox-terrier-wins-best-show/2853664002/"
+      },
+      {
+        "datetime": "2019-02-13T09:41:51Z",
+        "uri": "http://web.archive.org/web/20190213094151/https://www.usatoday.com/story/sports/2019/02/12/westminster-kennel-club-dog-show-wire-fox-terrier-wins-best-show/2853664002/"
+      },
+      {
+        "datetime": "2019-02-13T12:11:50Z",
+        "uri": "http://web.archive.org/web/20190213121150/https://www.usatoday.com/story/sports/2019/02/12/westminster-kennel-club-dog-show-wire-fox-terrier-wins-best-show/2853664002/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T07:16:55Z",
+      "uri": "http://web.archive.org/web/20190213071655/https://www.usatoday.com/story/sports/2019/02/12/westminster-kennel-club-dog-show-wire-fox-terrier-wins-best-show/2853664002/"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:11:50Z",
+      "uri": "http://web.archive.org/web/20190213121150/https://www.usatoday.com/story/sports/2019/02/12/westminster-kennel-club-dog-show-wire-fox-terrier-wins-best-show/2853664002/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.usatoday.com/story/sports/2019/02/12/westminster-kennel-club-dog-show-wire-fox-terrier-wins-best-show/2853664002/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/sports/2019/02/12/westminster-kennel-club-dog-show-wire-fox-terrier-wins-best-show/2853664002/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.usatoday.com/story/sports/2019/02/12/westminster-kennel-club-dog-show-wire-fox-terrier-wins-best-show/2853664002/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.usatoday.com/story/sports/2019/02/12/westminster-kennel-club-dog-show-wire-fox-terrier-wins-best-show/2853664002/"
+}

@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.washingtonpost.com/politics/2018/09/08/i-had-be-real-plaidshirtguy-removed-trump-rally-after-viral-facial-expressions/",
+  "uri": "https://www.washingtonpost.com/politics/2018/09/08/i-had-be-real-plaidshirtguy-removed-trump-rally-after-viral-facial-expressions/",
+  "estimated-creation-date": "2018-09-08T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-09-08T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180908193417/https://www.washingtonpost.com/politics/2018/09/08/i-had-be-real-plaidshirtguy-removed-trump-rally-after-viral-facial-expressions/",
+      "memento-datetime": "2018-09-08T19:34:17",
+      "memento-pubdate": "",
+      "earliest": "2018-09-08T19:34:17"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180909013604/https://www.washingtonpost.com/politics/2018/09/08/i-had-be-real-plaidshirtguy-removed-trump-rally-after-viral-facial-expressions/",
+      "memento-datetime": "2018-09-09T01:36:04",
+      "memento-pubdate": "2018-09-08T23:59:59",
+      "earliest": "2018-09-08T23:59:59"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20180909205304/https://www.washingtonpost.com/politics/2018/09/08/i-had-be-real-plaidshirtguy-removed-trump-rally-after-viral-facial-expressions/",
+      "memento-datetime": "2018-09-09T20:53:04",
+      "memento-pubdate": "2018-09-09T20:53:04",
+      "earliest": "2018-09-09T20:53:04"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:58:39"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html",
+  "uri": "https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213000805/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html",
+      "memento-datetime": "2019-02-13T00:08:05",
+      "memento-pubdate": "2019-02-12T23:59:59",
+      "earliest": "2019-02-12T23:59:59"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190213011751/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html",
+      "memento-datetime": "2019-02-13T01:17:51",
+      "memento-pubdate": "2019-02-12T23:59:59",
+      "earliest": "2019-02-12T23:59:59"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190213195721/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html",
+      "memento-datetime": "2019-02-13T19:57:21",
+      "memento-pubdate": "2019-02-13T19:57:21",
+      "earliest": "2019-02-13T19:57:21"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T21:21:25"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

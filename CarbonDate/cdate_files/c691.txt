@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://queeser.com/trump-im-mauer-debakel-illusionskuenstler-auf-dem-drahtseil/",
+  "uri": "http://queeser.com/trump-im-mauer-debakel-illusionskuenstler-auf-dem-drahtseil/",
+  "estimated-creation-date": "2019-02-13T07:05:47",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T07:05:47"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:53:16"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

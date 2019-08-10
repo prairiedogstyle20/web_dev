@@ -1,0 +1,59 @@
+9
+{
+  "original_uri": "https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/",
+  "self": "http://localhost:1208/timemap/json/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-08T16:45:04Z",
+        "uri": "http://web.archive.org/web/20190208164504/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+      },
+      {
+        "datetime": "2019-02-08T18:20:06Z",
+        "uri": "http://web.archive.org/web/20190208182006/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+      },
+      {
+        "datetime": "2019-02-08T21:53:23Z",
+        "uri": "http://wayback.archive-it.org/all/20190208215323/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+      },
+      {
+        "datetime": "2019-02-08T21:53:23Z",
+        "uri": "http://web.archive.org/web/20190208215323/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+      },
+      {
+        "datetime": "2019-02-09T18:53:16Z",
+        "uri": "http://web.archive.org/web/20190209185316/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+      },
+      {
+        "datetime": "2019-02-10T19:39:03Z",
+        "uri": "http://web.archive.org/web/20190210193903/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+      },
+      {
+        "datetime": "2019-02-11T20:34:22Z",
+        "uri": "http://web.archive.org/web/20190211203422/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+      },
+      {
+        "datetime": "2019-02-12T21:33:26Z",
+        "uri": "http://web.archive.org/web/20190212213326/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+      },
+      {
+        "datetime": "2019-02-13T22:18:45Z",
+        "uri": "http://web.archive.org/web/20190213221845/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-08T16:45:04Z",
+      "uri": "http://web.archive.org/web/20190208164504/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+    },
+    "last": {
+      "datetime": "2019-02-13T22:18:45Z",
+      "uri": "http://web.archive.org/web/20190213221845/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/"
+}

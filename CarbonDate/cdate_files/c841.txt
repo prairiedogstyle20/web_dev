@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://splinternews.com/trump-spreads-more-dangerous-propaganda-about-abortion-1832552964?utm_medium=sharefromsite&utm_source=splinter_twitter&utm_campaign=sharebar",
+  "uri": "https://splinternews.com/trump-spreads-more-dangerous-propaganda-about-abortion-1832552964?utm_medium=sharefromsite&utm_source=splinter_twitter&utm_campaign=sharebar",
+  "estimated-creation-date": "2019-02-12T13:37:49",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T13:37:49"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

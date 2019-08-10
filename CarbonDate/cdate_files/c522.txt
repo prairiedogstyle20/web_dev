@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.njherald.com/article/20190213/AP/302139803?utm_medium=social&utm_source=twitter_NJHerald",
+  "uri": "https://www.njherald.com/article/20190213/AP/302139803?utm_medium=social&utm_source=twitter_NJHerald",
+  "estimated-creation-date": "2019-02-13T08:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:50:20"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T08:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:02"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

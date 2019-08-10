@@ -1,0 +1,51 @@
+7
+{
+  "original_uri": "https://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3",
+  "self": "http://localhost:1208/timemap/json/https://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-03-20T21:57:00Z",
+        "uri": "http://web.archive.org/web/20180320215700/http://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3"
+      },
+      {
+        "datetime": "2018-03-24T17:12:18Z",
+        "uri": "http://web.archive.org/web/20180324171218/http://www.businessinsider.com:80/cambridge-analytica-trump-russia-ties-2018-3"
+      },
+      {
+        "datetime": "2018-03-31T11:02:45Z",
+        "uri": "http://web.archive.org/web/20180331110245/http://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3"
+      },
+      {
+        "datetime": "2018-05-14T01:01:44Z",
+        "uri": "http://web.archive.org/web/20180514010144/https://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3"
+      },
+      {
+        "datetime": "2018-06-25T02:47:35Z",
+        "uri": "http://web.archive.org/web/20180625024735/http://www.businessinsider.com:80/cambridge-analytica-trump-russia-ties-2018-3"
+      },
+      {
+        "datetime": "2018-09-13T11:29:24Z",
+        "uri": "http://web.archive.org/web/20180913112924/https://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3"
+      },
+      {
+        "datetime": "2018-09-13T16:39:16Z",
+        "uri": "http://web.archive.org/web/20180913163916/http://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3"
+      }
+    ],
+    "first": {
+      "datetime": "2018-03-20T21:57:00Z",
+      "uri": "http://web.archive.org/web/20180320215700/http://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3"
+    },
+    "last": {
+      "datetime": "2018-09-13T16:39:16Z",
+      "uri": "http://web.archive.org/web/20180913163916/http://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3",
+    "json_format": "http://localhost:1208/timemap/json/https://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.businessinsider.com/cambridge-analytica-trump-russia-ties-2018-3"
+}

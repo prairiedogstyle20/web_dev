@@ -1,0 +1,51 @@
+7
+{
+  "original_uri": "https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/",
+  "self": "http://localhost:1208/timemap/json/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T16:00:07Z",
+        "uri": "http://archive.md/20190213160007/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/"
+      },
+      {
+        "datetime": "2019-02-13T16:00:34Z",
+        "uri": "http://web.archive.org/web/20190213160034/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/"
+      },
+      {
+        "datetime": "2019-02-13T16:05:56Z",
+        "uri": "http://archive.md/20190213160556/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/"
+      },
+      {
+        "datetime": "2019-02-13T20:07:25Z",
+        "uri": "http://web.archive.org/web/20190213200725/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/"
+      },
+      {
+        "datetime": "2019-02-13T21:05:13Z",
+        "uri": "http://web.archive.org/web/20190213210513/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/"
+      },
+      {
+        "datetime": "2019-02-13T23:05:57Z",
+        "uri": "http://web.archive.org/web/20190213230557/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/"
+      },
+      {
+        "datetime": "2019-02-14T10:43:50Z",
+        "uri": "http://web.archive.org/web/20190214104350/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T16:00:07Z",
+      "uri": "http://archive.md/20190213160007/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/"
+    },
+    "last": {
+      "datetime": "2019-02-14T10:43:50Z",
+      "uri": "http://web.archive.org/web/20190214104350/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.breitbart.com/the-media/2019/02/13/poll-medias-all-out-assault-on-trump-only-hurts-trust-in-journalists/"
+}

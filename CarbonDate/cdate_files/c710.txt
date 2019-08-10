@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://atabencot.net/rweasy/-1HNTS/15964323/http://dlvr.it/QyqxXp?rndad=1199109546-1550156503",
+  "uri": "http://atabencot.net/rweasy/-1HNTS/15964323/http://dlvr.it/QyqxXp?rndad=1199109546-1550156503",
+  "estimated-creation-date": "2019-02-15T17:25:36",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:25:36"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

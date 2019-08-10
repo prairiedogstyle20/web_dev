@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/",
+  "uri": "https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/",
+  "estimated-creation-date": "2019-02-13T03:38:18",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:45:05"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T03:38:18"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213100523/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/",
+      "memento-datetime": "2019-02-13T09:59:00",
+      "memento-pubdate": "2019-02-13T03:38:18",
+      "earliest": "2019-02-13T03:38:18"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190215133001/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/",
+      "memento-datetime": "2019-02-15T13:30:01",
+      "memento-pubdate": "2019-02-15T13:30:01",
+      "earliest": "2019-02-15T13:30:01"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T16:31:09"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

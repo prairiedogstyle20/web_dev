@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.huffpost.com/entry/conservative-columnist-donald-trump-desperate-unhinged_n_5c63ff66e4b03de942976f7e",
+  "uri": "https://www.huffpost.com/entry/conservative-columnist-donald-trump-desperate-unhinged_n_5c63ff66e4b03de942976f7e",
+  "estimated-creation-date": "2019-02-13T07:58:34",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T07:58:34"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214221029/https://www.huffpost.com/entry/conservative-columnist-donald-trump-desperate-unhinged_n_5c63ff66e4b03de942976f7e",
+      "memento-datetime": "2019-02-14T22:06:11",
+      "memento-pubdate": "2019-02-13T07:58:34",
+      "earliest": "2019-02-13T07:58:34"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T17:59:31"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

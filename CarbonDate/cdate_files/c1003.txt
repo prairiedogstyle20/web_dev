@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.wbir.com/article/sports/nfl/browns/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-0c02648e-2475-4079-9b13-c3c792281ad0",
+  "uri": "https://www.wbir.com/article/sports/nfl/browns/report-pilot-flying-j-pulls-espn-advertising-after-article-critical-of-jimmy-haslam/95-0c02648e-2475-4079-9b13-c3c792281ad0",
+  "estimated-creation-date": "2019-02-13T18:17:24",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T18:13:01"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T18:17:24"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:28:12"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

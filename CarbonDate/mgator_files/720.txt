@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/",
+  "self": "http://localhost:1208/timemap/json/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-08-05T13:55:58Z",
+        "uri": "http://web.archive.org/web/20180805135558/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/"
+      },
+      {
+        "datetime": "2018-11-16T01:56:38Z",
+        "uri": "http://web.archive.org/web/20181116015638/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/"
+      },
+      {
+        "datetime": "2019-02-14T15:00:30Z",
+        "uri": "http://web.archive.org/web/20190214150030/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/"
+      },
+      {
+        "datetime": "2019-02-14T15:03:04Z",
+        "uri": "http://web.archive.org/web/20190214150304/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-08-05T13:55:58Z",
+      "uri": "http://web.archive.org/web/20180805135558/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/"
+    },
+    "last": {
+      "datetime": "2019-02-14T15:03:04Z",
+      "uri": "http://web.archive.org/web/20190214150304/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/",
+    "json_format": "http://localhost:1208/timemap/json/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://soundcloud.com/sideliner-sports/st-michaels-2-12-19",
+  "uri": "https://soundcloud.com/sideliner-sports/st-michaels-2-12-19",
+  "estimated-creation-date": "2019-02-13T20:28:44",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:28:44"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

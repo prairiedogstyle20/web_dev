@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "http://www.mctdirect.com/preview.php?id=201902121948MCT_____NEWS_SVC_24638516_0000",
+  "self": "http://localhost:1208/timemap/json/http://www.mctdirect.com/preview.php?id=201902121948MCT_____NEWS_SVC_24638516_0000",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:20:38Z",
+        "uri": "http://web.archive.org/web/20190213122038/http://www.mctdirect.com/preview.php?id=201902121948MCT_____NEWS_SVC_24638516_0000"
+      },
+      {
+        "datetime": "2019-02-13T14:14:37Z",
+        "uri": "http://web.archive.org/web/20190213141437/http://www.mctdirect.com/preview.php?id=201902121948MCT_____NEWS_SVC_24638516_0000"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:20:38Z",
+      "uri": "http://web.archive.org/web/20190213122038/http://www.mctdirect.com/preview.php?id=201902121948MCT_____NEWS_SVC_24638516_0000"
+    },
+    "last": {
+      "datetime": "2019-02-13T14:14:37Z",
+      "uri": "http://web.archive.org/web/20190213141437/http://www.mctdirect.com/preview.php?id=201902121948MCT_____NEWS_SVC_24638516_0000"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.mctdirect.com/preview.php?id=201902121948MCT_____NEWS_SVC_24638516_0000",
+    "json_format": "http://localhost:1208/timemap/json/http://www.mctdirect.com/preview.php?id=201902121948MCT_____NEWS_SVC_24638516_0000",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.mctdirect.com/preview.php?id=201902121948MCT_____NEWS_SVC_24638516_0000"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.mctdirect.com/preview.php?id=201902121948MCT_____NEWS_SVC_24638516_0000"
+}

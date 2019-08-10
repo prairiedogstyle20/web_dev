@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://nexbietv.ooo/2019/02/13/emiliano-salas-body-to-be-flown-to-argentina-before-a-wake-on-saturday/",
+  "uri": "https://nexbietv.ooo/2019/02/13/emiliano-salas-body-to-be-flown-to-argentina-before-a-wake-on-saturday/",
+  "estimated-creation-date": "2019-02-13T07:29:45",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T07:29:45"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

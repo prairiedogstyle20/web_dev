@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://es.investing.com/news/stock-market-news/futuros-europeos-al-alza-trump-y-powell-motores-de-la-subida-735720",
+  "uri": "https://es.investing.com/news/stock-market-news/futuros-europeos-al-alza-trump-y-powell-motores-de-la-subida-735720",
+  "estimated-creation-date": "2019-02-13T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213150301/https://es.investing.com/news/stock-market-news/futuros-europeos-al-alza-trump-y-powell-motores-de-la-subida-735720",
+      "memento-datetime": "2019-02-13T15:03:01",
+      "memento-pubdate": "2019-02-13T23:59:59",
+      "earliest": "2019-02-13T15:03:01"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:55:40"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

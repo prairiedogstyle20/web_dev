@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/",
+  "self": "http://localhost:1208/timemap/json/https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T07:12:08Z",
+        "uri": "http://web.archive.org/web/20190213071208/https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/"
+      },
+      {
+        "datetime": "2019-02-14T03:17:34Z",
+        "uri": "http://web.archive.org/web/20190214031734/https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T07:12:08Z",
+      "uri": "http://web.archive.org/web/20190213071208/https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/"
+    },
+    "last": {
+      "datetime": "2019-02-14T03:17:34Z",
+      "uri": "http://web.archive.org/web/20190214031734/https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/",
+    "json_format": "http://localhost:1208/timemap/json/https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/"
+}

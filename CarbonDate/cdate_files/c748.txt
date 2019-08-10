@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.elpasotimes.com/story/news/2019/02/11/trump-rally-el-paso-fact-check-how-big-was-crowd-county-coliseum/2844228002/?utm_source=oembed&utm_medium=news&utm_campaign=storylines",
+  "uri": "https://www.elpasotimes.com/story/news/2019/02/11/trump-rally-el-paso-fact-check-how-big-was-crowd-county-coliseum/2844228002/?utm_source=oembed&utm_medium=news&utm_campaign=storylines",
+  "estimated-creation-date": "2019-02-11T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:31:51"
+    },
+    "pubdate": {
+      "earliest": "2019-02-11T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:26:43"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

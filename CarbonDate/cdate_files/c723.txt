@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.brandonsun.com/sports/local/sports-looking-back----feb-13-2019-505761392.html?utm_content=buffera6dfc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+  "uri": "https://www.brandonsun.com/sports/local/sports-looking-back----feb-13-2019-505761392.html?utm_content=buffera6dfc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+  "estimated-creation-date": "2019-02-13T09:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T09:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://www.eluniversal.com/politica/32974/duque-viaja-a-eeuu-a-reunirse-con-trump-con-venezuela-como-punto-central-de-su-agenda",
+  "self": "http://localhost:1208/timemap/json/http://www.eluniversal.com/politica/32974/duque-viaja-a-eeuu-a-reunirse-con-trump-con-venezuela-como-punto-central-de-su-agenda",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T07:57:36Z",
+        "uri": "http://web.archive.org/web/20190213075736/http://www.eluniversal.com/politica/32974/duque-viaja-a-eeuu-a-reunirse-con-trump-con-venezuela-como-punto-central-de-su-agenda"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T07:57:36Z",
+      "uri": "http://web.archive.org/web/20190213075736/http://www.eluniversal.com/politica/32974/duque-viaja-a-eeuu-a-reunirse-con-trump-con-venezuela-como-punto-central-de-su-agenda"
+    },
+    "last": {
+      "datetime": "2019-02-13T07:57:36Z",
+      "uri": "http://web.archive.org/web/20190213075736/http://www.eluniversal.com/politica/32974/duque-viaja-a-eeuu-a-reunirse-con-trump-con-venezuela-como-punto-central-de-su-agenda"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.eluniversal.com/politica/32974/duque-viaja-a-eeuu-a-reunirse-con-trump-con-venezuela-como-punto-central-de-su-agenda",
+    "json_format": "http://localhost:1208/timemap/json/http://www.eluniversal.com/politica/32974/duque-viaja-a-eeuu-a-reunirse-con-trump-con-venezuela-como-punto-central-de-su-agenda",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.eluniversal.com/politica/32974/duque-viaja-a-eeuu-a-reunirse-con-trump-con-venezuela-como-punto-central-de-su-agenda"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.eluniversal.com/politica/32974/duque-viaja-a-eeuu-a-reunirse-con-trump-con-venezuela-como-punto-central-de-su-agenda"
+}

@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://www.rt.com/usa/451329-trump-msnbc-no-collusion-senate/",
+  "self": "http://localhost:1208/timemap/json/https://www.rt.com/usa/451329-trump-msnbc-no-collusion-senate/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:10:00Z",
+        "uri": "http://web.archive.org/web/20190213031000/https://www.rt.com/usa/451329-trump-msnbc-no-collusion-senate/"
+      },
+      {
+        "datetime": "2019-02-13T05:49:20Z",
+        "uri": "http://archive.md/20190213054920/https://www.rt.com/usa/451329-trump-msnbc-no-collusion-senate/"
+      },
+      {
+        "datetime": "2019-02-13T06:15:12Z",
+        "uri": "http://web.archive.org/web/20190213061512/https://www.rt.com/usa/451329-trump-msnbc-no-collusion-senate/"
+      },
+      {
+        "datetime": "2019-02-13T17:42:09Z",
+        "uri": "http://web.archive.org/web/20190213174209/https://www.rt.com/usa/451329-trump-msnbc-no-collusion-senate/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:10:00Z",
+      "uri": "http://web.archive.org/web/20190213031000/https://www.rt.com/usa/451329-trump-msnbc-no-collusion-senate/"
+    },
+    "last": {
+      "datetime": "2019-02-13T17:42:09Z",
+      "uri": "http://web.archive.org/web/20190213174209/https://www.rt.com/usa/451329-trump-msnbc-no-collusion-senate/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.rt.com/usa/451329-trump-msnbc-no-collusion-senate/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.rt.com/usa/451329-trump-msnbc-no-collusion-senate/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.rt.com/usa/451329-trump-msnbc-no-collusion-senate/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.rt.com/usa/451329-trump-msnbc-no-collusion-senate/"
+}

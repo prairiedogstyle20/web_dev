@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.dailywire.com/news/43354/curl-trump-vanquishes-pelosi-battle-over-border-joseph-curl",
+  "uri": "https://www.dailywire.com/news/43354/curl-trump-vanquishes-pelosi-battle-over-border-joseph-curl",
+  "estimated-creation-date": "2019-02-12T08:44:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:36:23"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T08:44:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213132714/https://www.dailywire.com/news/43354/curl-trump-vanquishes-pelosi-battle-over-border-joseph-curl",
+      "memento-datetime": "2019-02-13T13:21:17",
+      "memento-pubdate": "2019-02-12T08:44:00",
+      "earliest": "2019-02-12T08:44:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T16:50:58"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

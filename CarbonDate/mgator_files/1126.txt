@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "http://sports-people.info/sports/",
+  "self": "http://localhost:1208/timemap/json/http://sports-people.info/sports/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-09-01T05:47:22Z",
+        "uri": "http://web.archive.org/web/20170901054722/http://sports-people.info/sports/"
+      },
+      {
+        "datetime": "2017-10-27T11:55:43Z",
+        "uri": "http://web.archive.org/web/20171027115543/http://sports-people.info/sports/"
+      },
+      {
+        "datetime": "2017-11-08T23:40:53Z",
+        "uri": "http://web.archive.org/web/20171108234053/http://sports-people.info/sports/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-09-01T05:47:22Z",
+      "uri": "http://web.archive.org/web/20170901054722/http://sports-people.info/sports/"
+    },
+    "last": {
+      "datetime": "2017-11-08T23:40:53Z",
+      "uri": "http://web.archive.org/web/20171108234053/http://sports-people.info/sports/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://sports-people.info/sports/",
+    "json_format": "http://localhost:1208/timemap/json/http://sports-people.info/sports/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://sports-people.info/sports/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://sports-people.info/sports/"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.washingtonpost.com/opinions/trumps-sacrifices-are-hard-you-think-its-easy-working-11-to-5/2019/02/12/0495d612-2f04-11e9-86ab-5d02109aeb01_story.html?utm_term=.8312a7e6c77c&tid=sm_tw",
+  "uri": "https://www.washingtonpost.com/opinions/trumps-sacrifices-are-hard-you-think-its-easy-working-11-to-5/2019/02/12/0495d612-2f04-11e9-86ab-5d02109aeb01_story.html?utm_term=.8312a7e6c77c&tid=sm_tw",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

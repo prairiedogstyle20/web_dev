@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://planoinformativo.com/641208/tengo-plan-b-c-y-d-para-venezuela-advierte-trump-internacionales",
+  "self": "http://localhost:1208/timemap/json/http://planoinformativo.com/641208/tengo-plan-b-c-y-d-para-venezuela-advierte-trump-internacionales",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T02:02:28Z",
+        "uri": "http://web.archive.org/web/20190214020228/http://planoinformativo.com/641208/tengo-plan-b-c-y-d-para-venezuela-advierte-trump-internacionales"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T02:02:28Z",
+      "uri": "http://web.archive.org/web/20190214020228/http://planoinformativo.com/641208/tengo-plan-b-c-y-d-para-venezuela-advierte-trump-internacionales"
+    },
+    "last": {
+      "datetime": "2019-02-14T02:02:28Z",
+      "uri": "http://web.archive.org/web/20190214020228/http://planoinformativo.com/641208/tengo-plan-b-c-y-d-para-venezuela-advierte-trump-internacionales"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://planoinformativo.com/641208/tengo-plan-b-c-y-d-para-venezuela-advierte-trump-internacionales",
+    "json_format": "http://localhost:1208/timemap/json/http://planoinformativo.com/641208/tengo-plan-b-c-y-d-para-venezuela-advierte-trump-internacionales",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://planoinformativo.com/641208/tengo-plan-b-c-y-d-para-venezuela-advierte-trump-internacionales"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://planoinformativo.com/641208/tengo-plan-b-c-y-d-para-venezuela-advierte-trump-internacionales"
+}

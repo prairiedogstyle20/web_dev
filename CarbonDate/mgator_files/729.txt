@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html",
+  "self": "http://localhost:1208/timemap/json/https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:03:02Z",
+        "uri": "http://web.archive.org/web/20190213030302/https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html"
+      },
+      {
+        "datetime": "2019-02-13T13:20:52Z",
+        "uri": "http://web.archive.org/web/20190213132052/https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:03:02Z",
+      "uri": "http://web.archive.org/web/20190213030302/https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:20:52Z",
+      "uri": "http://web.archive.org/web/20190213132052/https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html"
+}

@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T13:44:38Z",
+        "uri": "http://web.archive.org/web/20190213134438/https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/"
+      },
+      {
+        "datetime": "2019-02-13T13:44:38Z",
+        "uri": "http://web.archive.org/web/20190213134438/https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/"
+      },
+      {
+        "datetime": "2019-02-13T17:09:01Z",
+        "uri": "http://web.archive.org/web/20190213170901/https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/"
+      },
+      {
+        "datetime": "2019-02-13T20:09:40Z",
+        "uri": "http://web.archive.org/web/20190213200940/http://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/"
+      },
+      {
+        "datetime": "2019-02-13T22:37:35Z",
+        "uri": "http://web.archive.org/web/20190213223735/https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/"
+      },
+      {
+        "datetime": "2019-02-13T22:37:35Z",
+        "uri": "http://web.archive.org/web/20190213223735/https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T13:44:38Z",
+      "uri": "http://web.archive.org/web/20190213134438/https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/"
+    },
+    "last": {
+      "datetime": "2019-02-13T22:37:35Z",
+      "uri": "http://web.archive.org/web/20190213223735/https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/interactive/2019/politics/trump-team-russia-then-now/"
+}

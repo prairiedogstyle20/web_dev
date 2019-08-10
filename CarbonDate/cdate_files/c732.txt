@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.latimes.com/sports/highschool/varsity-times/la-sp-vti-southern-section-boys-basketball-results-pairings-20190212-story.html",
+  "uri": "https://www.latimes.com/sports/highschool/varsity-times/la-sp-vti-southern-section-boys-basketball-results-pairings-20190212-story.html",
+  "estimated-creation-date": "2019-02-13T06:00:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T06:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213081905/https://www.latimes.com/sports/highschool/varsity-times/la-sp-vti-southern-section-boys-basketball-results-pairings-20190212-story.html",
+      "memento-datetime": "2019-02-13T08:19:05",
+      "memento-pubdate": "2019-02-13T06:00:00",
+      "earliest": "2019-02-13T06:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T06:11:39"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

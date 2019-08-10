@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/http://en.vogue.me/culture/nike-pro-hijab/",
+  "uri": "http://en.vogue.me/culture/nike-pro-hijab/",
+  "estimated-creation-date": "2017-03-07T00:00:20",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2017-08-17T12:00:20"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20170307212346/http://en.vogue.me/culture/nike-pro-hijab/",
+      "memento-datetime": "2017-03-07T21:23:46",
+      "memento-pubdate": "2017-03-07T21:23:46",
+      "earliest": "2017-03-07T21:23:46"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170308071033/http://en.vogue.me/culture/nike-pro-hijab/",
+      "memento-datetime": "2017-03-08T07:10:33",
+      "memento-pubdate": "2017-03-07T00:00:20",
+      "earliest": "2017-03-07T00:00:20"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

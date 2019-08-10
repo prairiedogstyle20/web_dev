@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.jacksonsun.com/restricted/?return=https%3A%2F%2Fwww.jacksonsun.com%2Fstory%2Fsports%2Fhigh-school%2F2019%2F02%2F13%2Fjackson-area-prep-basketball-top-performers-tssaa%2F2835144002%2F",
+  "uri": "https://www.jacksonsun.com/restricted/?return=https%3A%2F%2Fwww.jacksonsun.com%2Fstory%2Fsports%2Fhigh-school%2F2019%2F02%2F13%2Fjackson-area-prep-basketball-top-performers-tssaa%2F2835144002%2F",
+  "estimated-creation-date": "2019-02-15T15:38:44",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:38:44"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

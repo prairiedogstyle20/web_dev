@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://bongino.com/trump-lawyer-mueller-wont-release-final-report-probe-is-terrible-waste-of-time/",
+  "self": "http://localhost:1208/timemap/json/https://bongino.com/trump-lawyer-mueller-wont-release-final-report-probe-is-terrible-waste-of-time/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:41:20Z",
+        "uri": "http://web.archive.org/web/20190213124120/https://bongino.com/trump-lawyer-mueller-wont-release-final-report-probe-is-terrible-waste-of-time/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:41:20Z",
+      "uri": "http://web.archive.org/web/20190213124120/https://bongino.com/trump-lawyer-mueller-wont-release-final-report-probe-is-terrible-waste-of-time/"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:41:20Z",
+      "uri": "http://web.archive.org/web/20190213124120/https://bongino.com/trump-lawyer-mueller-wont-release-final-report-probe-is-terrible-waste-of-time/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://bongino.com/trump-lawyer-mueller-wont-release-final-report-probe-is-terrible-waste-of-time/",
+    "json_format": "http://localhost:1208/timemap/json/https://bongino.com/trump-lawyer-mueller-wont-release-final-report-probe-is-terrible-waste-of-time/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://bongino.com/trump-lawyer-mueller-wont-release-final-report-probe-is-terrible-waste-of-time/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://bongino.com/trump-lawyer-mueller-wont-release-final-report-probe-is-terrible-waste-of-time/"
+}

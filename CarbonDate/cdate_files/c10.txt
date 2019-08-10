@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.mintpressnews.com/john-bolton-threatens-iran-over-debunked-pursuit-of-nuclear-weapons/255032/",
+  "uri": "https://www.mintpressnews.com/john-bolton-threatens-iran-over-debunked-pursuit-of-nuclear-weapons/255032/",
+  "estimated-creation-date": "2019-02-13T08:52:27",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T08:52:27"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T15:09:54"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

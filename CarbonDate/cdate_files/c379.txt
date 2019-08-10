@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://hedgeaccordingly.com/heaven-has-a-wall-grocery-store-chain-ad-says-the-afterlife-is-on-trumps-side/",
+  "uri": "https://hedgeaccordingly.com/heaven-has-a-wall-grocery-store-chain-ad-says-the-afterlife-is-on-trumps-side/",
+  "estimated-creation-date": "2019-02-12T03:34:14",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T03:34:14"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.eluniversal.com/politica/33020/trump-reitera-que-estudia-todas-las-opciones-sobre-la-crisis-en-venezuela",
+  "uri": "http://www.eluniversal.com/politica/33020/trump-reitera-que-estudia-todas-las-opciones-sobre-la-crisis-en-venezuela",
+  "estimated-creation-date": "2019-02-13T15:12:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T15:12:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214025157/http://www.eluniversal.com/politica/33020/trump-reitera-que-estudia-todas-las-opciones-sobre-la-crisis-en-venezuela",
+      "memento-datetime": "2019-02-14T02:51:57",
+      "memento-pubdate": "2019-02-13T15:12:00",
+      "earliest": "2019-02-13T15:12:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:58:56"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

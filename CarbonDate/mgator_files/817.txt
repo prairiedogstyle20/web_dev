@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news",
+  "self": "http://localhost:1208/timemap/json/https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:37:34Z",
+        "uri": "http://web.archive.org/web/20190213123734/https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:37:34Z",
+      "uri": "http://web.archive.org/web/20190213123734/https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:37:34Z",
+      "uri": "http://web.archive.org/web/20190213123734/https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news",
+    "json_format": "http://localhost:1208/timemap/json/https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news"
+}

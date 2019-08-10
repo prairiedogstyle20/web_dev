@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.aim.org/aim-column/lower-tax-refunds-give-media-ammo-to-attack-trump-tax-relief/",
+  "uri": "https://www.aim.org/aim-column/lower-tax-refunds-give-media-ammo-to-attack-trump-tax-relief/",
+  "estimated-creation-date": "2019-02-13T14:45:50",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:45:50"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214020807/https://www.aim.org/aim-column/lower-tax-refunds-give-media-ammo-to-attack-trump-tax-relief/",
+      "memento-datetime": "2019-02-14T02:08:07",
+      "memento-pubdate": "2019-02-13T14:45:50",
+      "earliest": "2019-02-13T14:45:50"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:23"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

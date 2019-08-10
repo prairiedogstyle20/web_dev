@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.indy100.com/article/republicans-hillary-clinton-trump-slogan-twitter-2016-campaign-8775901",
+  "self": "http://localhost:1208/timemap/json/https://www.indy100.com/article/republicans-hillary-clinton-trump-slogan-twitter-2016-campaign-8775901",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T18:20:38Z",
+        "uri": "http://web.archive.org/web/20190213182038/http://www.indy100.com/article/republicans-hillary-clinton-trump-slogan-twitter-2016-campaign-8775901"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T18:20:38Z",
+      "uri": "http://web.archive.org/web/20190213182038/http://www.indy100.com/article/republicans-hillary-clinton-trump-slogan-twitter-2016-campaign-8775901"
+    },
+    "last": {
+      "datetime": "2019-02-13T18:20:38Z",
+      "uri": "http://web.archive.org/web/20190213182038/http://www.indy100.com/article/republicans-hillary-clinton-trump-slogan-twitter-2016-campaign-8775901"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.indy100.com/article/republicans-hillary-clinton-trump-slogan-twitter-2016-campaign-8775901",
+    "json_format": "http://localhost:1208/timemap/json/https://www.indy100.com/article/republicans-hillary-clinton-trump-slogan-twitter-2016-campaign-8775901",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.indy100.com/article/republicans-hillary-clinton-trump-slogan-twitter-2016-campaign-8775901"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.indy100.com/article/republicans-hillary-clinton-trump-slogan-twitter-2016-campaign-8775901"
+}

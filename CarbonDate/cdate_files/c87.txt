@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://magaoneradio.net/",
+  "uri": "https://magaoneradio.net/",
+  "estimated-creation-date": "2017-08-17T04:47:29",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170817044729/http://magaoneradio.net/",
+      "memento-datetime": "2017-08-17T04:47:29",
+      "memento-pubdate": "",
+      "earliest": "2017-08-17T04:47:29"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20171117030730/http://magaoneradio.net/",
+      "memento-datetime": "2017-11-17T03:07:30",
+      "memento-pubdate": "",
+      "earliest": "2017-11-17T03:07:30"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

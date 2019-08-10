@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.twincities.com/2019/02/13/ilhan-omar-donald-trump-tweet-trafficked-in-hate/?utm_medium=social&utm_content=tw-PioneerPress&utm_source=twitter.com&utm_campaign=socialflow",
+  "uri": "https://www.twincities.com/2019/02/13/ilhan-omar-donald-trump-tweet-trafficked-in-hate/?utm_medium=social&utm_content=tw-PioneerPress&utm_source=twitter.com&utm_campaign=socialflow",
+  "estimated-creation-date": "2019-02-13T19:58:36",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:58:36"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

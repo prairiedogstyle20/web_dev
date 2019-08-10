@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://sports.v.daum.net/v/20190213164600483",
+  "uri": "https://sports.v.daum.net/v/20190213164600483",
+  "estimated-creation-date": "2019-02-13T07:57:03",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T16:46:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:57:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

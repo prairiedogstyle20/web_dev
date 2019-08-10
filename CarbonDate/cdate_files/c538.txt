@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.huffingtonpost.fr/2019/02/12/donald-trump-extremement-mecontent-du-financement-du-mur_a_23668182/?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+  "uri": "https://www.huffingtonpost.fr/2019/02/12/donald-trump-extremement-mecontent-du-financement-du-mur_a_23668182/?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+  "estimated-creation-date": "2019-02-13T05:02:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T05:02:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T06:02:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

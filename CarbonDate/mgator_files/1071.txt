@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590",
+  "self": "http://localhost:1208/timemap/json/https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T19:22:09Z",
+        "uri": "http://web.archive.org/web/20190213192209/https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590"
+      },
+      {
+        "datetime": "2019-02-13T21:28:30Z",
+        "uri": "http://web.archive.org/web/20190213212830/https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590"
+      },
+      {
+        "datetime": "2019-02-14T01:50:46Z",
+        "uri": "http://web.archive.org/web/20190214015046/https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T19:22:09Z",
+      "uri": "http://web.archive.org/web/20190213192209/https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590"
+    },
+    "last": {
+      "datetime": "2019-02-14T01:50:46Z",
+      "uri": "http://web.archive.org/web/20190214015046/https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590"
+}

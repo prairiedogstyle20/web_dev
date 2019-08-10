@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://katrinapierson.com/trump-calls-rep-omar-to-resign-over-anti-semitic-tweets-and-lame-apology/",
+  "uri": "https://katrinapierson.com/trump-calls-rep-omar-to-resign-over-anti-semitic-tweets-and-lame-apology/",
+  "estimated-creation-date": "2019-02-13T03:00:49",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T03:00:49"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T14:58:23"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "http://time.com/5358931/trump-tower-meeting-claims/",
+  "self": "http://localhost:1208/timemap/json/http://time.com/5358931/trump-tower-meeting-claims/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-08-07T08:50:33Z",
+        "uri": "http://web.archive.org/web/20180807085033/http://time.com/5358931/trump-tower-meeting-claims/"
+      },
+      {
+        "datetime": "2018-08-07T15:04:07Z",
+        "uri": "http://web.archive.org/web/20180807150407/http://time.com/5358931/trump-tower-meeting-claims/"
+      },
+      {
+        "datetime": "2018-08-09T03:19:49Z",
+        "uri": "http://web.archive.org/web/20180809031949/http://time.com/5358931/trump-tower-meeting-claims/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-08-07T08:50:33Z",
+      "uri": "http://web.archive.org/web/20180807085033/http://time.com/5358931/trump-tower-meeting-claims/"
+    },
+    "last": {
+      "datetime": "2018-08-09T03:19:49Z",
+      "uri": "http://web.archive.org/web/20180809031949/http://time.com/5358931/trump-tower-meeting-claims/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://time.com/5358931/trump-tower-meeting-claims/",
+    "json_format": "http://localhost:1208/timemap/json/http://time.com/5358931/trump-tower-meeting-claims/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://time.com/5358931/trump-tower-meeting-claims/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://time.com/5358931/trump-tower-meeting-claims/"
+}

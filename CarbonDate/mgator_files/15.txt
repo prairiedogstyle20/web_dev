@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://theblacksphere.net/2019/02/trump-government-exposes-muellers-history-of-fisa-abuse/",
+  "self": "http://localhost:1208/timemap/json/https://theblacksphere.net/2019/02/trump-government-exposes-muellers-history-of-fisa-abuse/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:25:36Z",
+        "uri": "http://web.archive.org/web/20190213122536/https://theblacksphere.net/2019/02/trump-government-exposes-muellers-history-of-fisa-abuse/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:25:36Z",
+      "uri": "http://web.archive.org/web/20190213122536/https://theblacksphere.net/2019/02/trump-government-exposes-muellers-history-of-fisa-abuse/"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:25:36Z",
+      "uri": "http://web.archive.org/web/20190213122536/https://theblacksphere.net/2019/02/trump-government-exposes-muellers-history-of-fisa-abuse/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://theblacksphere.net/2019/02/trump-government-exposes-muellers-history-of-fisa-abuse/",
+    "json_format": "http://localhost:1208/timemap/json/https://theblacksphere.net/2019/02/trump-government-exposes-muellers-history-of-fisa-abuse/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://theblacksphere.net/2019/02/trump-government-exposes-muellers-history-of-fisa-abuse/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://theblacksphere.net/2019/02/trump-government-exposes-muellers-history-of-fisa-abuse/"
+}

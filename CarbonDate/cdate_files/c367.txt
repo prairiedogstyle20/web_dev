@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://adage.com/creativity/work/adidas-recode-running/1026266",
+  "uri": "https://adage.com/creativity/work/adidas-recode-running/1026266",
+  "estimated-creation-date": "2019-02-13T11:10:10",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:15:02"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T11:10:10"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

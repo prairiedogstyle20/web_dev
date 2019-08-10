@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.texasobserver.org/butterfly-trump-restraining-order-lawsuit-border-wall-texas/",
+  "self": "http://localhost:1208/timemap/json/https://www.texasobserver.org/butterfly-trump-restraining-order-lawsuit-border-wall-texas/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T09:34:11Z",
+        "uri": "http://web.archive.org/web/20190212093411/https://www.texasobserver.org/butterfly-trump-restraining-order-lawsuit-border-wall-texas/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T09:34:11Z",
+      "uri": "http://web.archive.org/web/20190212093411/https://www.texasobserver.org/butterfly-trump-restraining-order-lawsuit-border-wall-texas/"
+    },
+    "last": {
+      "datetime": "2019-02-12T09:34:11Z",
+      "uri": "http://web.archive.org/web/20190212093411/https://www.texasobserver.org/butterfly-trump-restraining-order-lawsuit-border-wall-texas/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.texasobserver.org/butterfly-trump-restraining-order-lawsuit-border-wall-texas/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.texasobserver.org/butterfly-trump-restraining-order-lawsuit-border-wall-texas/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.texasobserver.org/butterfly-trump-restraining-order-lawsuit-border-wall-texas/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.texasobserver.org/butterfly-trump-restraining-order-lawsuit-border-wall-texas/"
+}

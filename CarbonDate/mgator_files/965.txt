@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.politico.com/story/2019/02/13/naral-sinema-trump-judicial-nominee-1168549",
+  "self": "http://localhost:1208/timemap/json/https://www.politico.com/story/2019/02/13/naral-sinema-trump-judicial-nominee-1168549",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T00:49:05Z",
+        "uri": "http://web.archive.org/web/20190214004905/https://www.politico.com/story/2019/02/13/naral-sinema-trump-judicial-nominee-1168549"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T00:49:05Z",
+      "uri": "http://web.archive.org/web/20190214004905/https://www.politico.com/story/2019/02/13/naral-sinema-trump-judicial-nominee-1168549"
+    },
+    "last": {
+      "datetime": "2019-02-14T00:49:05Z",
+      "uri": "http://web.archive.org/web/20190214004905/https://www.politico.com/story/2019/02/13/naral-sinema-trump-judicial-nominee-1168549"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.politico.com/story/2019/02/13/naral-sinema-trump-judicial-nominee-1168549",
+    "json_format": "http://localhost:1208/timemap/json/https://www.politico.com/story/2019/02/13/naral-sinema-trump-judicial-nominee-1168549",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.politico.com/story/2019/02/13/naral-sinema-trump-judicial-nominee-1168549"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.politico.com/story/2019/02/13/naral-sinema-trump-judicial-nominee-1168549"
+}

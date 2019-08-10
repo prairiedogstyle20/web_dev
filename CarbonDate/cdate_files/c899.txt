@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html",
+  "uri": "https://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-13T19:46:01"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190214023127/https://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html",
+      "memento-datetime": "2019-02-14T02:31:27",
+      "memento-pubdate": "2019-02-14T02:31:27",
+      "earliest": "2019-02-14T02:31:27"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214143125/http://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html",
+      "memento-datetime": "2019-02-13T19:46:01",
+      "memento-pubdate": "2019-02-12T23:59:59",
+      "earliest": "2019-02-12T23:59:59"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T17:59:59"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

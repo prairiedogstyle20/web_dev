@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "http://www.dailykos.com/stories/2019/2/12/1834137/-Donald-Trump-stole-Hillary-Clinton-s-2016-campaign-slogan-and-Twitter-isn-t-having-it",
+  "self": "http://localhost:1208/timemap/json/http://www.dailykos.com/stories/2019/2/12/1834137/-Donald-Trump-stole-Hillary-Clinton-s-2016-campaign-slogan-and-Twitter-isn-t-having-it",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T10:16:20Z",
+        "uri": "http://web.archive.org/web/20190213101620/https://www.dailykos.com/stories/2019/2/12/1834137/-Donald-Trump-stole-Hillary-Clinton-s-2016-campaign-slogan-and-Twitter-isn-t-having-it"
+      },
+      {
+        "datetime": "2019-02-13T17:10:15Z",
+        "uri": "http://web.archive.org/web/20190213171015/http://www.dailykos.com/stories/2019/2/12/1834137/-Donald-Trump-stole-Hillary-Clinton-s-2016-campaign-slogan-and-Twitter-isn-t-having-it"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T10:16:20Z",
+      "uri": "http://web.archive.org/web/20190213101620/https://www.dailykos.com/stories/2019/2/12/1834137/-Donald-Trump-stole-Hillary-Clinton-s-2016-campaign-slogan-and-Twitter-isn-t-having-it"
+    },
+    "last": {
+      "datetime": "2019-02-13T17:10:15Z",
+      "uri": "http://web.archive.org/web/20190213171015/http://www.dailykos.com/stories/2019/2/12/1834137/-Donald-Trump-stole-Hillary-Clinton-s-2016-campaign-slogan-and-Twitter-isn-t-having-it"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.dailykos.com/stories/2019/2/12/1834137/-Donald-Trump-stole-Hillary-Clinton-s-2016-campaign-slogan-and-Twitter-isn-t-having-it",
+    "json_format": "http://localhost:1208/timemap/json/http://www.dailykos.com/stories/2019/2/12/1834137/-Donald-Trump-stole-Hillary-Clinton-s-2016-campaign-slogan-and-Twitter-isn-t-having-it",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.dailykos.com/stories/2019/2/12/1834137/-Donald-Trump-stole-Hillary-Clinton-s-2016-campaign-slogan-and-Twitter-isn-t-having-it"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.dailykos.com/stories/2019/2/12/1834137/-Donald-Trump-stole-Hillary-Clinton-s-2016-campaign-slogan-and-Twitter-isn-t-having-it"
+}

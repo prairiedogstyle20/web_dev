@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/",
+  "self": "http://localhost:1208/timemap/json/https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T09:08:49Z",
+        "uri": "http://web.archive.org/web/20190213090849/https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T09:08:49Z",
+      "uri": "http://web.archive.org/web/20190213090849/https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/"
+    },
+    "last": {
+      "datetime": "2019-02-13T09:08:49Z",
+      "uri": "http://web.archive.org/web/20190213090849/https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.rawstory.com/2019/02/rachel-maddow-reports-trump-selling-government-cash-jaw-dropping-scandal/"
+}

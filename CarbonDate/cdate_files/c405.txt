@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://nymag.com/intelligencer/2019/01/donald-trump-never-vetted-investigation-mueller.html?utm_source=tw",
+  "uri": "http://nymag.com/intelligencer/2019/01/donald-trump-never-vetted-investigation-mueller.html?utm_source=tw",
+  "estimated-creation-date": "2019-01-04T13:54:25",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-01-04T13:54:25"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190107111907/http://nymag.com/intelligencer/2019/01/donald-trump-never-vetted-investigation-mueller.html?utm_source=tw",
+      "memento-datetime": "2019-01-07T11:19:07",
+      "memento-pubdate": "2019-01-04T13:54:25",
+      "earliest": "2019-01-04T13:54:25"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

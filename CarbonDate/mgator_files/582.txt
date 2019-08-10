@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://bongino.com/dont-be-fooled-wages-are-not-stagnating-under-trump/",
+  "self": "http://localhost:1208/timemap/json/https://bongino.com/dont-be-fooled-wages-are-not-stagnating-under-trump/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T18:30:59Z",
+        "uri": "http://web.archive.org/web/20190212183059/https://bongino.com/dont-be-fooled-wages-are-not-stagnating-under-trump/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T18:30:59Z",
+      "uri": "http://web.archive.org/web/20190212183059/https://bongino.com/dont-be-fooled-wages-are-not-stagnating-under-trump/"
+    },
+    "last": {
+      "datetime": "2019-02-12T18:30:59Z",
+      "uri": "http://web.archive.org/web/20190212183059/https://bongino.com/dont-be-fooled-wages-are-not-stagnating-under-trump/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://bongino.com/dont-be-fooled-wages-are-not-stagnating-under-trump/",
+    "json_format": "http://localhost:1208/timemap/json/https://bongino.com/dont-be-fooled-wages-are-not-stagnating-under-trump/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://bongino.com/dont-be-fooled-wages-are-not-stagnating-under-trump/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://bongino.com/dont-be-fooled-wages-are-not-stagnating-under-trump/"
+}

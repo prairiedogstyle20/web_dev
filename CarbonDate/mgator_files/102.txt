@@ -1,0 +1,55 @@
+8
+{
+  "original_uri": "https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T07:57:31Z",
+        "uri": "http://web.archive.org/web/20190213075731/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html"
+      },
+      {
+        "datetime": "2019-02-13T08:38:07Z",
+        "uri": "http://web.archive.org/web/20190213083807/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html"
+      },
+      {
+        "datetime": "2019-02-13T10:34:56Z",
+        "uri": "http://web.archive.org/web/20190213103456/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html"
+      },
+      {
+        "datetime": "2019-02-13T12:55:38Z",
+        "uri": "http://web.archive.org/web/20190213125538/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html"
+      },
+      {
+        "datetime": "2019-02-13T21:48:06Z",
+        "uri": "http://web.archive.org/web/20190213214806/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html"
+      },
+      {
+        "datetime": "2019-02-13T22:12:57Z",
+        "uri": "http://web.archive.org/web/20190213221257/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html"
+      },
+      {
+        "datetime": "2019-02-14T02:29:29Z",
+        "uri": "http://web.archive.org/web/20190214022929/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html"
+      },
+      {
+        "datetime": "2019-02-14T11:42:36Z",
+        "uri": "http://web.archive.org/web/20190214114236/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T07:57:31Z",
+      "uri": "http://web.archive.org/web/20190213075731/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:42:36Z",
+      "uri": "http://web.archive.org/web/20190214114236/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2019/02/12/politics/howard-schultz-2020-trump-cnntv/index.html"
+}

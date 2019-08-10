@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.telesurenglish.net/news/US-Congress-Rejects-Trumps-Warmongering-Wont-Support-Military-Intervention-in-Venezuela-20190213-0017.html",
+  "self": "http://localhost:1208/timemap/json/https://www.telesurenglish.net/news/US-Congress-Rejects-Trumps-Warmongering-Wont-Support-Military-Intervention-in-Venezuela-20190213-0017.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T21:09:17Z",
+        "uri": "http://archive.md/20190213210917/https://www.telesurenglish.net/news/US-Congress-Rejects-Trumps-Warmongering-Wont-Support-Military-Intervention-in-Venezuela-20190213-0017.html"
+      },
+      {
+        "datetime": "2019-02-14T02:46:57Z",
+        "uri": "http://web.archive.org/web/20190214024657/https://www.telesurenglish.net/news/US-Congress-Rejects-Trumps-Warmongering-Wont-Support-Military-Intervention-in-Venezuela-20190213-0017.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T21:09:17Z",
+      "uri": "http://archive.md/20190213210917/https://www.telesurenglish.net/news/US-Congress-Rejects-Trumps-Warmongering-Wont-Support-Military-Intervention-in-Venezuela-20190213-0017.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T02:46:57Z",
+      "uri": "http://web.archive.org/web/20190214024657/https://www.telesurenglish.net/news/US-Congress-Rejects-Trumps-Warmongering-Wont-Support-Military-Intervention-in-Venezuela-20190213-0017.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.telesurenglish.net/news/US-Congress-Rejects-Trumps-Warmongering-Wont-Support-Military-Intervention-in-Venezuela-20190213-0017.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.telesurenglish.net/news/US-Congress-Rejects-Trumps-Warmongering-Wont-Support-Military-Intervention-in-Venezuela-20190213-0017.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.telesurenglish.net/news/US-Congress-Rejects-Trumps-Warmongering-Wont-Support-Military-Intervention-in-Venezuela-20190213-0017.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.telesurenglish.net/news/US-Congress-Rejects-Trumps-Warmongering-Wont-Support-Military-Intervention-in-Venezuela-20190213-0017.html"
+}

@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.huffpost.com/entry/ilhan-omar-hits-back-at-trump_n_5c642322e4b03de94297bcab",
+  "uri": "https://www.huffpost.com/entry/ilhan-omar-hits-back-at-trump_n_5c642322e4b03de94297bcab",
+  "estimated-creation-date": "2019-02-13T11:14:40",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T11:14:40"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213214724/https://www.huffpost.com/entry/ilhan-omar-hits-back-at-trump_n_5c642322e4b03de94297bcab",
+      "memento-datetime": "2019-02-13T21:45:17",
+      "memento-pubdate": "2019-02-13T11:14:40",
+      "earliest": "2019-02-13T11:14:40"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:08:16"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

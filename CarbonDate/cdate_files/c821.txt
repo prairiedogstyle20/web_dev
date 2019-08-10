@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://truepundit.com/donald-trump-approval-rating-at-52-percent-9-point-jump-in-10-days/",
+  "uri": "https://truepundit.com/donald-trump-approval-rating-at-52-percent-9-point-jump-in-10-days/",
+  "estimated-creation-date": "2019-02-12T15:02:17",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T15:02:17"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212233532/https://truepundit.com/donald-trump-approval-rating-at-52-percent-9-point-jump-in-10-days/",
+      "memento-datetime": "2019-02-12T23:35:32",
+      "memento-pubdate": "2019-02-12T15:02:17",
+      "earliest": "2019-02-12T15:02:17"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T15:09:50"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

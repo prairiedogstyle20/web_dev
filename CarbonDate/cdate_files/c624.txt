@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html",
+  "uri": "https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html",
+  "estimated-creation-date": "2019-02-12T13:11:06",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T13:11:06"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213030302/https://www.politicususa.com/2019/02/12/white-supremacist-buddy-donald-trump-says-ilhan-omar-should-resign.html",
+      "memento-datetime": "2019-02-13T03:03:02",
+      "memento-pubdate": "2019-02-12T13:11:06",
+      "earliest": "2019-02-12T13:11:06"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T18:13:09"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

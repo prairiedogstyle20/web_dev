@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723",
+  "self": "http://localhost:1208/timemap/json/https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T22:34:46Z",
+        "uri": "http://web.archive.org/web/20190213223446/https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723"
+      },
+      {
+        "datetime": "2019-02-14T01:13:45Z",
+        "uri": "http://web.archive.org/web/20190214011345/https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T22:34:46Z",
+      "uri": "http://web.archive.org/web/20190213223446/https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723"
+    },
+    "last": {
+      "datetime": "2019-02-14T01:13:45Z",
+      "uri": "http://web.archive.org/web/20190214011345/https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723",
+    "json_format": "http://localhost:1208/timemap/json/https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.bizpacreview.com/2019/02/13/trump-reacts-to-ted-cruzs-proposal-to-make-el-chapo-pay-for-border-wall-723723"
+}

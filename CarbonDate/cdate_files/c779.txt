@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://m.huffpost.com/us/entry/us_5c63c0d6e4b07115222b5171?section=politics&ncid=tweetlnkushpmg00000016",
+  "uri": "https://m.huffpost.com/us/entry/us_5c63c0d6e4b07115222b5171?section=politics&ncid=tweetlnkushpmg00000016",
+  "estimated-creation-date": "2019-02-13T03:10:57",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T03:10:57"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

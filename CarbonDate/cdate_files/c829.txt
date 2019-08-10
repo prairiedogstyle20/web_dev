@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://www.breitbart.com/politics/2019/02/12/donald-trump-not-supporting-bipartisan-border-security-deal-yet/",
+  "uri": "https://www.breitbart.com/politics/2019/02/12/donald-trump-not-supporting-bipartisan-border-security-deal-yet/",
+  "estimated-creation-date": "2019-02-12T17:35:50",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:45:08"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T17:35:50"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190212191250/https://www.breitbart.com/politics/2019/02/12/donald-trump-not-supporting-bipartisan-border-security-deal-yet/",
+      "memento-datetime": "2019-02-12T19:12:50",
+      "memento-pubdate": "2019-02-12T19:12:50",
+      "earliest": "2019-02-12T19:12:50"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212210355/https://www.breitbart.com/politics/2019/02/12/donald-trump-not-supporting-bipartisan-border-security-deal-yet/",
+      "memento-datetime": "2019-02-12T21:01:03",
+      "memento-pubdate": "2019-02-12T17:35:50",
+      "earliest": "2019-02-12T17:35:50"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T22:09:15"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

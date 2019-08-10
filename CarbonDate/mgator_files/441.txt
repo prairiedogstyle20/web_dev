@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.washingtonexaminer.com/news/trump-border-wall-money-will-come-from-other-sources",
+  "self": "http://localhost:1208/timemap/json/https://www.washingtonexaminer.com/news/trump-border-wall-money-will-come-from-other-sources",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T10:18:00Z",
+        "uri": "http://web.archive.org/web/20190213101800/https://www.washingtonexaminer.com/news/trump-border-wall-money-will-come-from-other-sources"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T10:18:00Z",
+      "uri": "http://web.archive.org/web/20190213101800/https://www.washingtonexaminer.com/news/trump-border-wall-money-will-come-from-other-sources"
+    },
+    "last": {
+      "datetime": "2019-02-13T10:18:00Z",
+      "uri": "http://web.archive.org/web/20190213101800/https://www.washingtonexaminer.com/news/trump-border-wall-money-will-come-from-other-sources"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.washingtonexaminer.com/news/trump-border-wall-money-will-come-from-other-sources",
+    "json_format": "http://localhost:1208/timemap/json/https://www.washingtonexaminer.com/news/trump-border-wall-money-will-come-from-other-sources",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.washingtonexaminer.com/news/trump-border-wall-money-will-come-from-other-sources"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.washingtonexaminer.com/news/trump-border-wall-money-will-come-from-other-sources"
+}

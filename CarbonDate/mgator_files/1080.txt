@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/",
+  "self": "http://localhost:1208/timemap/json/https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T02:42:42Z",
+        "uri": "http://web.archive.org/web/20190214024242/https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/"
+      },
+      {
+        "datetime": "2019-02-14T14:10:08Z",
+        "uri": "http://web.archive.org/web/20190214141008/https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T02:42:42Z",
+      "uri": "http://web.archive.org/web/20190214024242/https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/"
+    },
+    "last": {
+      "datetime": "2019-02-14T14:10:08Z",
+      "uri": "http://web.archive.org/web/20190214141008/https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/",
+    "json_format": "http://localhost:1208/timemap/json/https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/"
+}

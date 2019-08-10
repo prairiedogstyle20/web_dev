@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://ijr.com/ted-cruz-trump-strongly-supports-el-chapo-paying-border-wall/",
+  "uri": "https://ijr.com/ted-cruz-trump-strongly-supports-el-chapo-paying-border-wall/",
+  "estimated-creation-date": "2019-02-13T19:40:23",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:40:23"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214143356/https://ijr.com/ted-cruz-trump-strongly-supports-el-chapo-paying-border-wall/",
+      "memento-datetime": "2019-02-14T14:33:56",
+      "memento-pubdate": "2019-02-13T19:40:23",
+      "earliest": "2019-02-13T19:40:23"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:42:09"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

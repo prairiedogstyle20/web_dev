@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.abc.net.au/news/2019-02-13/el-chapos-trial-tells-trump-a-border-wall-wont-work/10806188?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "https://www.abc.net.au/news/2019-02-13/el-chapos-trial-tells-trump-a-border-wall-wont-work/10806188?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "2019-02-13T15:11:18",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:53:13"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T15:11:18"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

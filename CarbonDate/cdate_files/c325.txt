@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://news.goo.ne.jp/topstories/sports/252/b2290ef086d3a6e39fbf89261de5fc32.html",
+  "uri": "https://news.goo.ne.jp/topstories/sports/252/b2290ef086d3a6e39fbf89261de5fc32.html",
+  "estimated-creation-date": "2019-02-12T16:02:45",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T16:02:45"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php",
+  "self": "http://localhost:1208/timemap/json/https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:08:51Z",
+        "uri": "http://web.archive.org/web/20190213030851/https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php"
+      },
+      {
+        "datetime": "2019-02-13T04:39:12Z",
+        "uri": "http://web.archive.org/web/20190213043912/https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php"
+      },
+      {
+        "datetime": "2019-02-13T07:47:17Z",
+        "uri": "http://web.archive.org/web/20190213074717/https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php"
+      },
+      {
+        "datetime": "2019-02-14T05:27:55Z",
+        "uri": "http://web.archive.org/web/20190214052755/https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php"
+      },
+      {
+        "datetime": "2019-02-14T11:41:51Z",
+        "uri": "http://web.archive.org/web/20190214114151/https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:08:51Z",
+      "uri": "http://web.archive.org/web/20190213030851/https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:41:51Z",
+      "uri": "http://web.archive.org/web/20190214114151/https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php",
+    "json_format": "http://localhost:1208/timemap/json/https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.sfgate.com/lifestyle/article/How-being-a-full-time-mom-prepared-Nancy-Pelosi-13611138.php"
+}

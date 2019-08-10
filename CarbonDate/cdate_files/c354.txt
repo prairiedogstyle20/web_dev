@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://datainfox.com/2019/02/donald-trump-promete-promover-la-inteligencia-artificial/",
+  "uri": "https://datainfox.com/2019/02/donald-trump-promete-promover-la-inteligencia-artificial/",
+  "estimated-creation-date": "2019-02-12T14:53:02",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T14:53:02"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T15:30:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

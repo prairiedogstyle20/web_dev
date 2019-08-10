@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://www.breitbart.com/clips/2019/02/13/sarah-sanders-rest-assured-trump-will-deliver-wall/",
+  "self": "http://localhost:1208/timemap/json/https://www.breitbart.com/clips/2019/02/13/sarah-sanders-rest-assured-trump-will-deliver-wall/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T21:12:44Z",
+        "uri": "http://web.archive.org/web/20190213211244/https://www.breitbart.com/clips/2019/02/13/sarah-sanders-rest-assured-trump-will-deliver-wall/"
+      },
+      {
+        "datetime": "2019-02-13T23:19:54Z",
+        "uri": "http://web.archive.org/web/20190213231954/https://www.breitbart.com/clips/2019/02/13/sarah-sanders-rest-assured-trump-will-deliver-wall/"
+      },
+      {
+        "datetime": "2019-02-14T00:55:39Z",
+        "uri": "http://web.archive.org/web/20190214005539/https://www.breitbart.com/clips/2019/02/13/sarah-sanders-rest-assured-trump-will-deliver-wall/"
+      },
+      {
+        "datetime": "2019-02-14T11:12:56Z",
+        "uri": "http://web.archive.org/web/20190214111256/https://www.breitbart.com/clips/2019/02/13/sarah-sanders-rest-assured-trump-will-deliver-wall/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T21:12:44Z",
+      "uri": "http://web.archive.org/web/20190213211244/https://www.breitbart.com/clips/2019/02/13/sarah-sanders-rest-assured-trump-will-deliver-wall/"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:12:56Z",
+      "uri": "http://web.archive.org/web/20190214111256/https://www.breitbart.com/clips/2019/02/13/sarah-sanders-rest-assured-trump-will-deliver-wall/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.breitbart.com/clips/2019/02/13/sarah-sanders-rest-assured-trump-will-deliver-wall/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.breitbart.com/clips/2019/02/13/sarah-sanders-rest-assured-trump-will-deliver-wall/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.breitbart.com/clips/2019/02/13/sarah-sanders-rest-assured-trump-will-deliver-wall/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.breitbart.com/clips/2019/02/13/sarah-sanders-rest-assured-trump-will-deliver-wall/"
+}

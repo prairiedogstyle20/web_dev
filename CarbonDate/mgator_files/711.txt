@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://www.marklevinshow.com/news/x-ray-gun-used-to-study-800-year-old-shipwreck-and-its-treasures/",
+  "self": "http://localhost:1208/timemap/json/http://www.marklevinshow.com/news/x-ray-gun-used-to-study-800-year-old-shipwreck-and-its-treasures/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-08T22:56:02Z",
+        "uri": "http://web.archive.org/web/20190208225602/http://www.marklevinshow.com/news/x-ray-gun-used-to-study-800-year-old-shipwreck-and-its-treasures/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-08T22:56:02Z",
+      "uri": "http://web.archive.org/web/20190208225602/http://www.marklevinshow.com/news/x-ray-gun-used-to-study-800-year-old-shipwreck-and-its-treasures/"
+    },
+    "last": {
+      "datetime": "2019-02-08T22:56:02Z",
+      "uri": "http://web.archive.org/web/20190208225602/http://www.marklevinshow.com/news/x-ray-gun-used-to-study-800-year-old-shipwreck-and-its-treasures/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.marklevinshow.com/news/x-ray-gun-used-to-study-800-year-old-shipwreck-and-its-treasures/",
+    "json_format": "http://localhost:1208/timemap/json/http://www.marklevinshow.com/news/x-ray-gun-used-to-study-800-year-old-shipwreck-and-its-treasures/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.marklevinshow.com/news/x-ray-gun-used-to-study-800-year-old-shipwreck-and-its-treasures/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.marklevinshow.com/news/x-ray-gun-used-to-study-800-year-old-shipwreck-and-its-treasures/"
+}

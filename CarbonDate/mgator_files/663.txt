@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://bigleaguepolitics.com/trump-says-ilhan-omars-apology-was-lame-and-she-should-resign-from-congress-frankly/",
+  "self": "http://localhost:1208/timemap/json/https://bigleaguepolitics.com/trump-says-ilhan-omars-apology-was-lame-and-she-should-resign-from-congress-frankly/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:46:43Z",
+        "uri": "http://web.archive.org/web/20190213124643/https://bigleaguepolitics.com/trump-says-ilhan-omars-apology-was-lame-and-she-should-resign-from-congress-frankly/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:46:43Z",
+      "uri": "http://web.archive.org/web/20190213124643/https://bigleaguepolitics.com/trump-says-ilhan-omars-apology-was-lame-and-she-should-resign-from-congress-frankly/"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:46:43Z",
+      "uri": "http://web.archive.org/web/20190213124643/https://bigleaguepolitics.com/trump-says-ilhan-omars-apology-was-lame-and-she-should-resign-from-congress-frankly/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://bigleaguepolitics.com/trump-says-ilhan-omars-apology-was-lame-and-she-should-resign-from-congress-frankly/",
+    "json_format": "http://localhost:1208/timemap/json/https://bigleaguepolitics.com/trump-says-ilhan-omars-apology-was-lame-and-she-should-resign-from-congress-frankly/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://bigleaguepolitics.com/trump-says-ilhan-omars-apology-was-lame-and-she-should-resign-from-congress-frankly/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://bigleaguepolitics.com/trump-says-ilhan-omars-apology-was-lame-and-she-should-resign-from-congress-frankly/"
+}

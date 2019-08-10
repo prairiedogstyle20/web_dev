@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.sumarium.es/2019/02/13/duque-viaja-a-usa-para-hablar-con-trump-sobre-la-restauracion-de-la-democracia-venezolana/",
+  "uri": "https://www.sumarium.es/2019/02/13/duque-viaja-a-usa-para-hablar-con-trump-sobre-la-restauracion-de-la-democracia-venezolana/",
+  "estimated-creation-date": "2019-02-13T04:12:57",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T04:12:57"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213154638/https://www.sumarium.es/2019/02/13/duque-viaja-a-usa-para-hablar-con-trump-sobre-la-restauracion-de-la-democracia-venezolana/",
+      "memento-datetime": "2019-02-13T15:46:38",
+      "memento-pubdate": "2019-02-13T04:12:57",
+      "earliest": "2019-02-13T04:12:57"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T04:13:43"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

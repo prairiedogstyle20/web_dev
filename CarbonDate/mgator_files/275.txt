@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://thehill.com/blogs/blog-briefing-room/news/429748-trump-job-approval-up-7-points-after-shutdown-gallup",
+  "self": "http://localhost:1208/timemap/json/https://thehill.com/blogs/blog-briefing-room/news/429748-trump-job-approval-up-7-points-after-shutdown-gallup",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T21:38:58Z",
+        "uri": "http://web.archive.org/web/20190213213858/https://thehill.com/blogs/blog-briefing-room/news/429748-trump-job-approval-up-7-points-after-shutdown-gallup"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T21:38:58Z",
+      "uri": "http://web.archive.org/web/20190213213858/https://thehill.com/blogs/blog-briefing-room/news/429748-trump-job-approval-up-7-points-after-shutdown-gallup"
+    },
+    "last": {
+      "datetime": "2019-02-13T21:38:58Z",
+      "uri": "http://web.archive.org/web/20190213213858/https://thehill.com/blogs/blog-briefing-room/news/429748-trump-job-approval-up-7-points-after-shutdown-gallup"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://thehill.com/blogs/blog-briefing-room/news/429748-trump-job-approval-up-7-points-after-shutdown-gallup",
+    "json_format": "http://localhost:1208/timemap/json/https://thehill.com/blogs/blog-briefing-room/news/429748-trump-job-approval-up-7-points-after-shutdown-gallup",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://thehill.com/blogs/blog-briefing-room/news/429748-trump-job-approval-up-7-points-after-shutdown-gallup"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://thehill.com/blogs/blog-briefing-room/news/429748-trump-job-approval-up-7-points-after-shutdown-gallup"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://khmertvhd.com/sports/manchester-united-vs-paris-saint-germain-highlights-full-match/",
+  "uri": "https://khmertvhd.com/sports/manchester-united-vs-paris-saint-germain-highlights-full-match/",
+  "estimated-creation-date": "2019-02-12T22:35:41",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T22:35:41"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

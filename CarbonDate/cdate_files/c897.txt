@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and",
+  "uri": "https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and",
+  "estimated-creation-date": "2019-02-12T21:25:07",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T21:25:07"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213045619/https://www.wonkette.com/trump-has-no-time-for-a-dog-what-with-his-tweeting-and-pooping-and-tv-watching-and",
+      "memento-datetime": "2019-02-13T04:56:19",
+      "memento-pubdate": "2019-02-12T21:25:07",
+      "earliest": "2019-02-12T21:25:07"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

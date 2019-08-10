@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.gmx.ch/magazine/politik/us-praesident-donald-trump/kritik-donald-trump-sorge-attacke-journalisten-el-paso-33561224",
+  "self": "http://localhost:1208/timemap/json/https://www.gmx.ch/magazine/politik/us-praesident-donald-trump/kritik-donald-trump-sorge-attacke-journalisten-el-paso-33561224",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T10:12:57Z",
+        "uri": "http://web.archive.org/web/20190213101257/https://www.gmx.ch/magazine/politik/us-praesident-donald-trump/kritik-donald-trump-sorge-attacke-journalisten-el-paso-33561224"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T10:12:57Z",
+      "uri": "http://web.archive.org/web/20190213101257/https://www.gmx.ch/magazine/politik/us-praesident-donald-trump/kritik-donald-trump-sorge-attacke-journalisten-el-paso-33561224"
+    },
+    "last": {
+      "datetime": "2019-02-13T10:12:57Z",
+      "uri": "http://web.archive.org/web/20190213101257/https://www.gmx.ch/magazine/politik/us-praesident-donald-trump/kritik-donald-trump-sorge-attacke-journalisten-el-paso-33561224"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.gmx.ch/magazine/politik/us-praesident-donald-trump/kritik-donald-trump-sorge-attacke-journalisten-el-paso-33561224",
+    "json_format": "http://localhost:1208/timemap/json/https://www.gmx.ch/magazine/politik/us-praesident-donald-trump/kritik-donald-trump-sorge-attacke-journalisten-el-paso-33561224",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.gmx.ch/magazine/politik/us-praesident-donald-trump/kritik-donald-trump-sorge-attacke-journalisten-el-paso-33561224"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.gmx.ch/magazine/politik/us-praesident-donald-trump/kritik-donald-trump-sorge-attacke-journalisten-el-paso-33561224"
+}

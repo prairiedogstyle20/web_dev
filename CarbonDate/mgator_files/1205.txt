@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.sueddeutsche.de/politik/trump-mauer-mexiko-1.4326472",
+  "self": "http://localhost:1208/timemap/json/https://www.sueddeutsche.de/politik/trump-mauer-mexiko-1.4326472",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T15:16:16Z",
+        "uri": "http://web.archive.org/web/20190213151616/http://www.sueddeutsche.de/politik/trump-mauer-mexiko-1.4326472"
+      },
+      {
+        "datetime": "2019-02-13T18:24:43Z",
+        "uri": "http://web.archive.org/web/20190213182443/https://www.sueddeutsche.de/politik/trump-mauer-mexiko-1.4326472"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T15:16:16Z",
+      "uri": "http://web.archive.org/web/20190213151616/http://www.sueddeutsche.de/politik/trump-mauer-mexiko-1.4326472"
+    },
+    "last": {
+      "datetime": "2019-02-13T18:24:43Z",
+      "uri": "http://web.archive.org/web/20190213182443/https://www.sueddeutsche.de/politik/trump-mauer-mexiko-1.4326472"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.sueddeutsche.de/politik/trump-mauer-mexiko-1.4326472",
+    "json_format": "http://localhost:1208/timemap/json/https://www.sueddeutsche.de/politik/trump-mauer-mexiko-1.4326472",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.sueddeutsche.de/politik/trump-mauer-mexiko-1.4326472"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.sueddeutsche.de/politik/trump-mauer-mexiko-1.4326472"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://the-news.fyi/trump-fema-chief-brock-long-calls-it-quits-amid-scandal-it-is-time-for-me-to-go-home-6084/",
+  "uri": "http://the-news.fyi/trump-fema-chief-brock-long-calls-it-quits-amid-scandal-it-is-time-for-me-to-go-home-6084/",
+  "estimated-creation-date": "2019-02-13T20:29:20",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T20:29:20"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

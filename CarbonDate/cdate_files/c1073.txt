@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://panasonic.co.jp/sports/rugby/info/2019/190213130000001.html",
+  "uri": "https://panasonic.co.jp/sports/rugby/info/2019/190213130000001.html",
+  "estimated-creation-date": "2019-02-13T04:00:00",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-13T04:00:00"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T04:00:30"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

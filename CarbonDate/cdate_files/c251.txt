@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932",
+  "uri": "https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932",
+  "estimated-creation-date": "2019-02-12T21:00:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T21:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213030426/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932",
+      "memento-datetime": "2019-02-13T03:04:26",
+      "memento-pubdate": "2019-02-12T21:00:00",
+      "earliest": "2019-02-12T21:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T11:52:26"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cnn.com/politics/live-news/howard-schultz-town-hall-houston/h_1fb2df9518f10ee7f18a6cfc2628048b",
+  "uri": "https://www.cnn.com/politics/live-news/howard-schultz-town-hall-houston/h_1fb2df9518f10ee7f18a6cfc2628048b",
+  "estimated-creation-date": "2019-02-13T04:05:38",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T04:05:38"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T04:08:46"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

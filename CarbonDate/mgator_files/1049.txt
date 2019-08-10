@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html",
+  "self": "http://localhost:1208/timemap/json/https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T10:39:58Z",
+        "uri": "http://web.archive.org/web/20190213103958/https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html"
+      },
+      {
+        "datetime": "2019-02-13T12:21:11Z",
+        "uri": "http://web.archive.org/web/20190213122111/https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html"
+      },
+      {
+        "datetime": "2019-02-13T13:49:04Z",
+        "uri": "http://web.archive.org/web/20190213134904/https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html"
+      },
+      {
+        "datetime": "2019-02-14T07:39:29Z",
+        "uri": "http://web.archive.org/web/20190214073929/https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html"
+      },
+      {
+        "datetime": "2019-02-14T11:04:14Z",
+        "uri": "http://web.archive.org/web/20190214110414/https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T10:39:58Z",
+      "uri": "http://web.archive.org/web/20190213103958/https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:04:14Z",
+      "uri": "http://web.archive.org/web/20190214110414/https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.lemonde.fr/international/article/2019/02/13/le-congres-enterre-le-mur-de-donald-trump-a-la-frontiere-avec-le-mexique_5422757_3210.html"
+}

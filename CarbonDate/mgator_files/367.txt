@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS",
+  "self": "http://localhost:1208/timemap/json/https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-01-28T10:03:14Z",
+        "uri": "http://web.archive.org/web/20190128100314/https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS"
+      },
+      {
+        "datetime": "2019-02-07T02:00:15Z",
+        "uri": "http://web.archive.org/web/20190207020015/https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS"
+      }
+    ],
+    "first": {
+      "datetime": "2019-01-28T10:03:14Z",
+      "uri": "http://web.archive.org/web/20190128100314/https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS"
+    },
+    "last": {
+      "datetime": "2019-02-07T02:00:15Z",
+      "uri": "http://web.archive.org/web/20190207020015/https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS",
+    "json_format": "http://localhost:1208/timemap/json/https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS"
+}

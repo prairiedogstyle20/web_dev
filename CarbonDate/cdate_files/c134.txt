@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.muspartans.com/sports/mbkb/2018-19/releases/20190212kutftu",
+  "uri": "https://www.muspartans.com/sports/mbkb/2018-19/releases/20190212kutftu",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T15:15:51"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

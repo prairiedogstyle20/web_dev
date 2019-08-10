@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.ksn.com/sports/local-sports/jay-miller-announced-as-president-of-wichita-s-incoming-triple-a-team/1760073436",
+  "uri": "https://www.ksn.com/sports/local-sports/jay-miller-announced-as-president-of-wichita-s-incoming-triple-a-team/1760073436",
+  "estimated-creation-date": "2019-02-06T21:21:25",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-06T21:21:25"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T01:55:14"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

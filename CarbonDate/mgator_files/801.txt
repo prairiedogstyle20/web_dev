@@ -1,0 +1,295 @@
+68
+{
+  "original_uri": "https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial",
+  "self": "http://localhost:1208/timemap/json/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-08T20:09:57Z",
+        "uri": "http://web.archive.org/web/20180108200957/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-01-10T06:30:24Z",
+        "uri": "http://webarchive.loc.gov/all/20180110063024/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-01-12T02:11:56Z",
+        "uri": "http://web.archive.org/web/20180112021156/http://news.gallup.com:80/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-01-17T06:57:16Z",
+        "uri": "http://webarchive.loc.gov/all/20180117065716/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-01-24T05:12:12Z",
+        "uri": "http://webarchive.loc.gov/all/20180124051212/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-01-31T09:43:53Z",
+        "uri": "http://webarchive.loc.gov/all/20180131094353/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-02-02T17:07:09Z",
+        "uri": "http://web.archive.org/web/20180202170709/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-02-07T04:30:46Z",
+        "uri": "http://webarchive.loc.gov/all/20180207043046/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-02-12T20:03:35Z",
+        "uri": "http://web.archive.org/web/20180212200335/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-02-14T11:16:32Z",
+        "uri": "http://web.archive.org/web/20180214111632/http://news.gallup.com:80/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-02-15T13:49:41Z",
+        "uri": "http://web.archive.org/web/20180215134941/http://news.gallup.com:80/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-02-19T19:10:25Z",
+        "uri": "http://web.archive.org/web/20180219191025/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-03-30T01:39:25Z",
+        "uri": "http://web.archive.org/web/20180330013925/http://news.gallup.com:80/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-05-02T17:04:32Z",
+        "uri": "http://web.archive.org/web/20180502170432/http://news.gallup.com:80/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-06-03T17:53:13Z",
+        "uri": "http://web.archive.org/web/20180603175313/http://news.gallup.com:80/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-06-18T17:42:30Z",
+        "uri": "http://web.archive.org/web/20180618174230/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-06-25T19:02:27Z",
+        "uri": "http://web.archive.org/web/20180625190227/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-06-26T16:02:13Z",
+        "uri": "http://wayback.archive-it.org/all/20180626160213/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-06-26T16:02:13Z",
+        "uri": "http://web.archive.org/web/20180626160213/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-07-04T21:35:28Z",
+        "uri": "http://web.archive.org/web/20180704213528/http://news.gallup.com:80/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-07-17T20:55:27Z",
+        "uri": "http://web.archive.org/web/20180717205527/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-07-26T01:29:54Z",
+        "uri": "http://web.archive.org/web/20180726012954/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-07-28T22:40:04Z",
+        "uri": "http://web.archive.org/web/20180728224004/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-08-02T02:18:36Z",
+        "uri": "http://web.archive.org/web/20180802021836/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-08-09T02:41:42Z",
+        "uri": "http://web.archive.org/web/20180809024142/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-08-09T11:32:04Z",
+        "uri": "http://web.archive.org/web/20180809113204/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-08-16T03:34:50Z",
+        "uri": "http://web.archive.org/web/20180816033450/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-08-23T03:56:44Z",
+        "uri": "http://web.archive.org/web/20180823035644/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-08-30T04:03:05Z",
+        "uri": "http://web.archive.org/web/20180830040305/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-09-06T05:13:14Z",
+        "uri": "http://web.archive.org/web/20180906051314/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-09-13T05:40:32Z",
+        "uri": "http://web.archive.org/web/20180913054032/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-09-20T06:06:08Z",
+        "uri": "http://web.archive.org/web/20180920060608/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-10-13T23:20:13Z",
+        "uri": "http://web.archive.org/web/20181013232013/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-10-18T09:07:31Z",
+        "uri": "http://web.archive.org/web/20181018090731/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-10-20T23:42:05Z",
+        "uri": "http://web.archive.org/web/20181020234205/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-10-27T20:57:17Z",
+        "uri": "http://web.archive.org/web/20181027205717/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-24T18:58:01Z",
+        "uri": "http://web.archive.org/web/20181124185801/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-26T23:24:50Z",
+        "uri": "http://web.archive.org/web/20181126232450/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-27T00:04:31Z",
+        "uri": "http://wayback.archive-it.org/all/20181127000431/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-27T00:04:31Z",
+        "uri": "http://web.archive.org/web/20181127000431/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-27T03:14:47Z",
+        "uri": "http://web.archive.org/web/20181127031447/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-27T06:50:07Z",
+        "uri": "http://wayback.archive-it.org/all/20181127065007/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-27T06:50:07Z",
+        "uri": "http://web.archive.org/web/20181127065007/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-27T12:19:06Z",
+        "uri": "http://wayback.archive-it.org/all/20181127121906/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-27T12:19:06Z",
+        "uri": "http://web.archive.org/web/20181127121906/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-28T00:08:21Z",
+        "uri": "http://web.archive.org/web/20181128000821/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-28T00:37:16Z",
+        "uri": "http://wayback.archive-it.org/all/20181128003716/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-28T00:37:16Z",
+        "uri": "http://web.archive.org/web/20181128003716/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-28T06:22:32Z",
+        "uri": "http://web.archive.org/web/20181128062232/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-28T21:06:58Z",
+        "uri": "http://wayback.archive-it.org/all/20181128210658/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-28T21:06:58Z",
+        "uri": "http://web.archive.org/web/20181128210658/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-28T23:04:07Z",
+        "uri": "http://web.archive.org/web/20181128230407/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-29T07:51:26Z",
+        "uri": "http://web.archive.org/web/20181129075126/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-29T21:04:12Z",
+        "uri": "http://wayback.archive-it.org/all/20181129210412/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-29T21:04:12Z",
+        "uri": "http://web.archive.org/web/20181129210412/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-30T09:43:06Z",
+        "uri": "http://web.archive.org/web/20181130094306/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-30T21:04:21Z",
+        "uri": "http://wayback.archive-it.org/all/20181130210421/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-11-30T21:04:21Z",
+        "uri": "http://web.archive.org/web/20181130210421/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-12-01T23:43:04Z",
+        "uri": "http://web.archive.org/web/20181201234304/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-12-06T18:28:50Z",
+        "uri": "http://web.archive.org/web/20181206182850/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-12-18T22:31:31Z",
+        "uri": "http://web.archive.org/web/20181218223131/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2018-12-22T18:21:56Z",
+        "uri": "http://web.archive.org/web/20181222182156/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2019-01-12T16:43:15Z",
+        "uri": "http://web.archive.org/web/20190112164315/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2019-02-09T20:32:47Z",
+        "uri": "http://web.archive.org/web/20190209203247/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2019-02-13T21:23:08Z",
+        "uri": "http://web.archive.org/web/20190213212308/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2019-02-13T21:23:08Z",
+        "uri": "http://web.archive.org/web/20190213212308/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2019-02-13T21:23:09Z",
+        "uri": "http://web.archive.org/web/20190213212309/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      },
+      {
+        "datetime": "2019-02-13T21:23:09Z",
+        "uri": "http://web.archive.org/web/20190213212309/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-08T20:09:57Z",
+      "uri": "http://web.archive.org/web/20180108200957/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+    },
+    "last": {
+      "datetime": "2019-02-13T21:23:09Z",
+      "uri": "http://web.archive.org/web/20190213212309/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial",
+    "json_format": "http://localhost:1208/timemap/json/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial"
+}

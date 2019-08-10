@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.reuters.com/article/us-usa-southkorea-troops/south-korea-pushes-back-at-trump-claims-about-more-money-for-troop-agreement-idUSKCN1Q20AU?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29",
+  "uri": "https://www.reuters.com/article/us-usa-southkorea-troops/south-korea-pushes-back-at-trump-claims-about-more-money-for-troop-agreement-idUSKCN1Q20AU?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29",
+  "estimated-creation-date": "2019-02-13T05:36:57",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T05:36:57"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214181713/https://www.reuters.com/article/us-usa-southkorea-troops/south-korea-pushes-back-at-trump-claims-about-more-money-for-troop-agreement-idUSKCN1Q20AU?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29",
+      "memento-datetime": "2019-02-14T18:17:13",
+      "memento-pubdate": "2019-02-13T05:36:57",
+      "earliest": "2019-02-13T05:36:57"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

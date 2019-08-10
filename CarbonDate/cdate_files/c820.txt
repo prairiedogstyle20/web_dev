@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/http://t.me/Semahos",
+  "uri": "http://t.me/Semahos",
+  "estimated-creation-date": "2018-01-21T04:02:19",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180121040219/http://t.me/semahos",
+      "memento-datetime": "2018-01-21T04:02:19",
+      "memento-pubdate": "",
+      "earliest": "2018-01-21T04:02:19"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190212072328/https://t.me/semahos",
+      "memento-datetime": "2019-02-12T07:23:28",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T07:23:28"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T20:35:48"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

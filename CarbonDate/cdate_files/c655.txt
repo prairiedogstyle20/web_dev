@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nielsen.com/us/en/insights/news/2019/nearly-47-million-viewers-watch-president-trumps-state-of-the-union-address.html?utm_source=sfmc&utm_medium=email&utm_campaign=newswire&utm_content=02-13-2019",
+  "uri": "https://www.nielsen.com/us/en/insights/news/2019/nearly-47-million-viewers-watch-president-trumps-state-of-the-union-address.html?utm_source=sfmc&utm_medium=email&utm_campaign=newswire&utm_content=02-13-2019",
+  "estimated-creation-date": "2019-02-06T16:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-06T16:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T14:38:49"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

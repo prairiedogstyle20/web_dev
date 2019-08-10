@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.axios.com/trump-to-discuss-nuclear-power-saudi-arabia-4c44905c-e38f-4f4c-ae6f-1108566c42be.html",
+  "uri": "https://www.axios.com/trump-to-discuss-nuclear-power-saudi-arabia-4c44905c-e38f-4f4c-ae6f-1108566c42be.html",
+  "estimated-creation-date": "2019-02-12T22:10:56",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212221056/https://www.axios.com/trump-to-discuss-nuclear-power-saudi-arabia-4c44905c-e38f-4f4c-ae6f-1108566c42be.html",
+      "memento-datetime": "2019-02-12T22:10:56",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T22:10:56"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190212234754/https://www.axios.com/trump-to-discuss-nuclear-power-saudi-arabia-4c44905c-e38f-4f4c-ae6f-1108566c42be.html",
+      "memento-datetime": "2019-02-12T23:47:54",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T23:47:54"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190213183252/https://www.axios.com/trump-to-discuss-nuclear-power-saudi-arabia-4c44905c-e38f-4f4c-ae6f-1108566c42be.html",
+      "memento-datetime": "2019-02-13T18:32:52",
+      "memento-pubdate": "2019-02-13T18:32:52",
+      "earliest": "2019-02-13T18:32:52"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

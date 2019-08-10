@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html?partner=rss&emc=rss",
+  "uri": "https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html?partner=rss&emc=rss",
+  "estimated-creation-date": "2019-02-12T11:17:51",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:00:45"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T11:17:51"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213124157/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html?partner=rss&emc=rss",
+      "memento-datetime": "2019-02-13T12:34:14",
+      "memento-pubdate": "2019-02-12T11:17:51",
+      "earliest": "2019-02-12T11:17:51"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T11:24:26"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

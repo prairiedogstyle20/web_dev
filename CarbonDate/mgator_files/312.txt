@@ -1,0 +1,59 @@
+9
+{
+  "original_uri": "https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/",
+  "self": "http://localhost:1208/timemap/json/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T00:12:03Z",
+        "uri": "http://web.archive.org/web/20190213001203/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+      },
+      {
+        "datetime": "2019-02-13T01:28:24Z",
+        "uri": "http://web.archive.org/web/20190213012824/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+      },
+      {
+        "datetime": "2019-02-13T13:10:23Z",
+        "uri": "http://web.archive.org/web/20190213131023/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+      },
+      {
+        "datetime": "2019-02-13T17:13:08Z",
+        "uri": "http://web.archive.org/web/20190213171308/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+      },
+      {
+        "datetime": "2019-02-13T17:13:08Z",
+        "uri": "http://web.archive.org/web/20190213171308/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+      },
+      {
+        "datetime": "2019-02-13T17:13:12Z",
+        "uri": "http://web.archive.org/web/20190213171312/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+      },
+      {
+        "datetime": "2019-02-13T17:13:12Z",
+        "uri": "http://web.archive.org/web/20190213171312/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+      },
+      {
+        "datetime": "2019-02-13T21:23:29Z",
+        "uri": "http://web.archive.org/web/20190213212329/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+      },
+      {
+        "datetime": "2019-02-13T21:23:29Z",
+        "uri": "http://web.archive.org/web/20190213212329/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T00:12:03Z",
+      "uri": "http://web.archive.org/web/20190213001203/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+    },
+    "last": {
+      "datetime": "2019-02-13T21:23:29Z",
+      "uri": "http://web.archive.org/web/20190213212329/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/",
+    "json_format": "http://localhost:1208/timemap/json/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://nypost.com/2019/02/12/trump-wants-his-huge-military-parade-on-fourth-of-july/"
+}

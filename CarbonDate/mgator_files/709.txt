@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://talcualdigital.com/index.php/2019/02/13/trump-no-descarta-enviar-5-000-tropas-a-colombia-para-atajar-situacion-en-venezuela/",
+  "self": "http://localhost:1208/timemap/json/http://talcualdigital.com/index.php/2019/02/13/trump-no-descarta-enviar-5-000-tropas-a-colombia-para-atajar-situacion-en-venezuela/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T01:26:47Z",
+        "uri": "http://web.archive.org/web/20190214012647/http://talcualdigital.com/index.php/2019/02/13/trump-no-descarta-enviar-5-000-tropas-a-colombia-para-atajar-situacion-en-venezuela/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T01:26:47Z",
+      "uri": "http://web.archive.org/web/20190214012647/http://talcualdigital.com/index.php/2019/02/13/trump-no-descarta-enviar-5-000-tropas-a-colombia-para-atajar-situacion-en-venezuela/"
+    },
+    "last": {
+      "datetime": "2019-02-14T01:26:47Z",
+      "uri": "http://web.archive.org/web/20190214012647/http://talcualdigital.com/index.php/2019/02/13/trump-no-descarta-enviar-5-000-tropas-a-colombia-para-atajar-situacion-en-venezuela/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://talcualdigital.com/index.php/2019/02/13/trump-no-descarta-enviar-5-000-tropas-a-colombia-para-atajar-situacion-en-venezuela/",
+    "json_format": "http://localhost:1208/timemap/json/http://talcualdigital.com/index.php/2019/02/13/trump-no-descarta-enviar-5-000-tropas-a-colombia-para-atajar-situacion-en-venezuela/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://talcualdigital.com/index.php/2019/02/13/trump-no-descarta-enviar-5-000-tropas-a-colombia-para-atajar-situacion-en-venezuela/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://talcualdigital.com/index.php/2019/02/13/trump-no-descarta-enviar-5-000-tropas-a-colombia-para-atajar-situacion-en-venezuela/"
+}

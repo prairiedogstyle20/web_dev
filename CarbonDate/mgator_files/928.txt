@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.theamericanconservative.com/larison/bolton-and-trumps-obvious-lies-about-iran/",
+  "self": "http://localhost:1208/timemap/json/https://www.theamericanconservative.com/larison/bolton-and-trumps-obvious-lies-about-iran/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T17:24:52Z",
+        "uri": "http://web.archive.org/web/20190212172452/https://www.theamericanconservative.com/larison/bolton-and-trumps-obvious-lies-about-iran/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T17:24:52Z",
+      "uri": "http://web.archive.org/web/20190212172452/https://www.theamericanconservative.com/larison/bolton-and-trumps-obvious-lies-about-iran/"
+    },
+    "last": {
+      "datetime": "2019-02-12T17:24:52Z",
+      "uri": "http://web.archive.org/web/20190212172452/https://www.theamericanconservative.com/larison/bolton-and-trumps-obvious-lies-about-iran/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.theamericanconservative.com/larison/bolton-and-trumps-obvious-lies-about-iran/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.theamericanconservative.com/larison/bolton-and-trumps-obvious-lies-about-iran/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.theamericanconservative.com/larison/bolton-and-trumps-obvious-lies-about-iran/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.theamericanconservative.com/larison/bolton-and-trumps-obvious-lies-about-iran/"
+}

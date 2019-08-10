@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.reuters.com/article/us-britain-hunt-trump/uk-foreign-secretary-condemns-attack-on-bbc-cameraman-at-trump-rally-idUSKCN1Q122U?feedType=RSS&feedName=worldNews",
+  "uri": "https://www.reuters.com/article/us-britain-hunt-trump/uk-foreign-secretary-condemns-attack-on-bbc-cameraman-at-trump-rally-idUSKCN1Q122U?feedType=RSS&feedName=worldNews",
+  "estimated-creation-date": "2019-02-12T17:23:15",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T03:49:50"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T17:23:15"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

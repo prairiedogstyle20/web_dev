@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/",
+  "self": "http://localhost:1208/timemap/json/https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T06:56:41Z",
+        "uri": "http://web.archive.org/web/20190213065641/https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/"
+      },
+      {
+        "datetime": "2019-02-13T13:21:39Z",
+        "uri": "http://web.archive.org/web/20190213132139/https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T06:56:41Z",
+      "uri": "http://web.archive.org/web/20190213065641/https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:21:39Z",
+      "uri": "http://web.archive.org/web/20190213132139/https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/",
+    "json_format": "http://localhost:1208/timemap/json/https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/"
+}

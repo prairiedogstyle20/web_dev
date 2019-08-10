@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.gmx.ch/magazine/politik/us-praesident-donald-trump/kritik-donald-trump-sorge-attacke-journalisten-el-paso-33561224",
+  "uri": "https://www.gmx.ch/magazine/politik/us-praesident-donald-trump/kritik-donald-trump-sorge-attacke-journalisten-el-paso-33561224",
+  "estimated-creation-date": "2019-02-13T07:58:10",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T10:53:24"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213101257/https://www.gmx.ch/magazine/politik/us-praesident-donald-trump/kritik-donald-trump-sorge-attacke-journalisten-el-paso-33561224",
+      "memento-datetime": "2019-02-13T10:12:57",
+      "memento-pubdate": "2019-02-13T10:53:24",
+      "earliest": "2019-02-13T10:12:57"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:58:10"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/2018/03/29/business/media/david-pecker-trump-saudi-arabia.html",
+  "uri": "https://www.nytimes.com/2018/03/29/business/media/david-pecker-trump-saudi-arabia.html",
+  "estimated-creation-date": "2018-03-29T21:28:31",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:54:28"
+    },
+    "pubdate": {
+      "earliest": "2018-03-30T01:28:31"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180330033313/https://www.nytimes.com/2018/03/29/business/media/david-pecker-trump-saudi-arabia.html",
+      "memento-datetime": "2018-03-30T03:33:13",
+      "memento-pubdate": "2018-03-29T21:28:31",
+      "earliest": "2018-03-29T21:28:31"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20180330063607/https://www.nytimes.com/2018/03/29/business/media/david-pecker-trump-saudi-arabia.html",
+      "memento-datetime": "2018-03-30T06:36:07",
+      "memento-pubdate": "2018-03-30T06:36:07",
+      "earliest": "2018-03-30T06:36:07"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180505033723/https://www.nytimes.com/2018/03/29/business/media/david-pecker-trump-saudi-arabia.html",
+      "memento-datetime": "2018-05-05T03:37:23",
+      "memento-pubdate": "2018-03-30T01:28:31",
+      "earliest": "2018-03-30T01:28:31"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

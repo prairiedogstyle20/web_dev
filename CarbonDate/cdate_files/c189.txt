@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://sports.yahoo.com/colorado-business-owner-forced-close-pulling-nike-items-protest-kaepernick-200325564.html",
+  "uri": "https://sports.yahoo.com/colorado-business-owner-forced-close-pulling-nike-items-protest-kaepernick-200325564.html",
+  "estimated-creation-date": "2019-02-13T23:03:38",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214012053/https://sports.yahoo.com/colorado-business-owner-forced-close-pulling-nike-items-protest-kaepernick-200325564.html",
+      "memento-datetime": "2019-02-14T01:20:53",
+      "memento-pubdate": "",
+      "earliest": "2019-02-14T01:20:53"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190214024508/https://sports.yahoo.com/colorado-business-owner-forced-close-pulling-nike-items-protest-kaepernick-200325564.html",
+      "memento-datetime": "2019-02-14T02:45:08",
+      "memento-pubdate": "2019-02-14T02:45:08",
+      "earliest": "2019-02-14T02:45:08"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T23:03:38"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

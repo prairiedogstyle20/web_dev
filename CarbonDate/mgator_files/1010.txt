@@ -1,0 +1,55 @@
+8
+{
+  "original_uri": "https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T18:44:06Z",
+        "uri": "http://web.archive.org/web/20190213184406/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html"
+      },
+      {
+        "datetime": "2019-02-13T19:40:17Z",
+        "uri": "http://web.archive.org/web/20190213194017/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html"
+      },
+      {
+        "datetime": "2019-02-13T21:38:00Z",
+        "uri": "http://web.archive.org/web/20190213213800/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html"
+      },
+      {
+        "datetime": "2019-02-13T22:09:12Z",
+        "uri": "http://web.archive.org/web/20190213220912/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html"
+      },
+      {
+        "datetime": "2019-02-14T01:28:32Z",
+        "uri": "http://web.archive.org/web/20190214012832/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html"
+      },
+      {
+        "datetime": "2019-02-14T01:46:34Z",
+        "uri": "http://web.archive.org/web/20190214014634/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html"
+      },
+      {
+        "datetime": "2019-02-14T02:20:22Z",
+        "uri": "http://web.archive.org/web/20190214022022/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html"
+      },
+      {
+        "datetime": "2019-02-14T11:30:06Z",
+        "uri": "http://web.archive.org/web/20190214113006/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T18:44:06Z",
+      "uri": "http://web.archive.org/web/20190213184406/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:30:06Z",
+      "uri": "http://web.archive.org/web/20190214113006/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2019/02/13/politics/trump-golf-simulator/index.html"
+}

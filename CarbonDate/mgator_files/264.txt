@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932",
+  "self": "http://localhost:1208/timemap/json/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:04:26Z",
+        "uri": "http://web.archive.org/web/20190213030426/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932"
+      },
+      {
+        "datetime": "2019-02-13T03:53:02Z",
+        "uri": "http://web.archive.org/web/20190213035302/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932"
+      },
+      {
+        "datetime": "2019-02-13T10:24:08Z",
+        "uri": "http://web.archive.org/web/20190213102408/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932"
+      },
+      {
+        "datetime": "2019-02-13T12:57:00Z",
+        "uri": "http://web.archive.org/web/20190213125700/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932"
+      },
+      {
+        "datetime": "2019-02-14T08:49:49Z",
+        "uri": "http://web.archive.org/web/20190214084949/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:04:26Z",
+      "uri": "http://web.archive.org/web/20190213030426/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932"
+    },
+    "last": {
+      "datetime": "2019-02-14T08:49:49Z",
+      "uri": "http://web.archive.org/web/20190214084949/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932",
+    "json_format": "http://localhost:1208/timemap/json/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.mirror.co.uk/news/politics/firms-urge-donald-trump-block-13989932"
+}

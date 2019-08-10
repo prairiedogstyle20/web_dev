@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.somalilandjournal.com/2019/02/madaxweyne-trump-oo-ugu-baaqay-ilhaan-omar-inay-iska-casisho/",
+  "uri": "http://www.somalilandjournal.com/2019/02/madaxweyne-trump-oo-ugu-baaqay-ilhaan-omar-inay-iska-casisho/",
+  "estimated-creation-date": "2019-02-13T07:14:23",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T07:14:23"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:58:08"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

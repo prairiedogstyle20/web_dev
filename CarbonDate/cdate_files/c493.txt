@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://bongino.com/nbc-news-shows-conveniently-ignore-exclusive-report-vindicating-trump/",
+  "uri": "https://bongino.com/nbc-news-shows-conveniently-ignore-exclusive-report-vindicating-trump/",
+  "estimated-creation-date": "2019-02-13T20:23:57",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T20:23:57"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214144325/https://bongino.com/nbc-news-shows-conveniently-ignore-exclusive-report-vindicating-trump/",
+      "memento-datetime": "2019-02-14T14:43:25",
+      "memento-pubdate": "2019-02-13T20:23:57",
+      "earliest": "2019-02-13T20:23:57"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

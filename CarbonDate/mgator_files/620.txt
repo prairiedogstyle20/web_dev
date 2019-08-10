@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://thehill.com/homenews/media/429622-coulter-calls-border-agreement-trumps-yellow-new-deal",
+  "self": "http://localhost:1208/timemap/json/https://thehill.com/homenews/media/429622-coulter-calls-border-agreement-trumps-yellow-new-deal",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:37:48Z",
+        "uri": "http://web.archive.org/web/20190213123748/https://thehill.com/homenews/media/429622-coulter-calls-border-agreement-trumps-yellow-new-deal"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:37:48Z",
+      "uri": "http://web.archive.org/web/20190213123748/https://thehill.com/homenews/media/429622-coulter-calls-border-agreement-trumps-yellow-new-deal"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:37:48Z",
+      "uri": "http://web.archive.org/web/20190213123748/https://thehill.com/homenews/media/429622-coulter-calls-border-agreement-trumps-yellow-new-deal"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://thehill.com/homenews/media/429622-coulter-calls-border-agreement-trumps-yellow-new-deal",
+    "json_format": "http://localhost:1208/timemap/json/https://thehill.com/homenews/media/429622-coulter-calls-border-agreement-trumps-yellow-new-deal",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://thehill.com/homenews/media/429622-coulter-calls-border-agreement-trumps-yellow-new-deal"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://thehill.com/homenews/media/429622-coulter-calls-border-agreement-trumps-yellow-new-deal"
+}

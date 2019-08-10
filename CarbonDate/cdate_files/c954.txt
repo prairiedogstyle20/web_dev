@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.fujitv.co.jp/junksports/index.html",
+  "uri": "https://www.fujitv.co.jp/junksports/index.html",
+  "estimated-creation-date": "2018-01-19T02:04:20",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-11T15:00:26"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180120154932/http://www.fujitv.co.jp/junksports/index.html",
+      "memento-datetime": "2018-01-19T02:04:20",
+      "memento-pubdate": "",
+      "earliest": "2018-01-19T02:04:20"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20180304022823/http://www.fujitv.co.jp/junksports/index.html",
+      "memento-datetime": "2018-03-04T02:28:23",
+      "memento-pubdate": "2018-03-04T02:28:23",
+      "earliest": "2018-03-04T02:28:23"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T13:36:23"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

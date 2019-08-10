@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://deadspin.com/the-sports-highlight-of-the-day-is-this-dog-very-casual-1832563601?utm_medium=socialflow&utm_source=deadspin_twitter&utm_campaign=socialflow_deadspin_twitter",
+  "uri": "https://deadspin.com/the-sports-highlight-of-the-day-is-this-dog-very-casual-1832563601?utm_medium=socialflow&utm_source=deadspin_twitter&utm_campaign=socialflow_deadspin_twitter",
+  "estimated-creation-date": "2019-02-13T02:26:23",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T02:26:23"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

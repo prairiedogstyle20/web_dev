@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thecut.com/2019/02/trump-golf-simulator-game-white-house.html?utm_campaign=nym&utm_medium=s1&utm_source=fb",
+  "uri": "https://www.thecut.com/2019/02/trump-golf-simulator-game-white-house.html?utm_campaign=nym&utm_medium=s1&utm_source=fb",
+  "estimated-creation-date": "2019-02-13T13:15:44",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T13:15:44"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:08:48"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

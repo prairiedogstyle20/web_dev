@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.dailydot.com/layer8/trump-tax-cut-twitter/",
+  "uri": "https://www.dailydot.com/layer8/trump-tax-cut-twitter/",
+  "estimated-creation-date": "2019-02-06T06:30:02",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-06T06:30:02"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190206225632/https://www.dailydot.com/layer8/trump-tax-cut-twitter/",
+      "memento-datetime": "2019-02-06T22:56:32",
+      "memento-pubdate": "2019-02-06T06:30:02",
+      "earliest": "2019-02-06T06:30:02"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T16:25:10"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

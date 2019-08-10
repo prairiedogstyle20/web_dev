@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://sports.ndtv.com/hindi/cricket/live-scores/south-africa-vs-sri-lanka-1st-test-durban-sasl02132019186659",
+  "uri": "https://sports.ndtv.com/hindi/cricket/live-scores/south-africa-vs-sri-lanka-1st-test-durban-sasl02132019186659",
+  "estimated-creation-date": "2019-02-13T14:17:57",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:32:09"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T14:17:57"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.theamericanconservative.com/articles/making-america-great-again-means-ending-the-wars/",
+  "uri": "https://www.theamericanconservative.com/articles/making-america-great-again-means-ending-the-wars/",
+  "estimated-creation-date": "2019-02-06T15:43:45",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190206164220/https://www.theamericanconservative.com/articles/making-america-great-again-means-ending-the-wars/",
+      "memento-datetime": "2019-02-06T16:42:20",
+      "memento-pubdate": "",
+      "earliest": "2019-02-06T16:42:20"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T15:43:45"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.the-review.com/sports/20190212/male-athlete-of-week-richard-elliott-of-alliance?fbclid=IwAR0vu9LYXu8Jo1fMTIjAwfbUi3TAJWxlRuIolh52GBn5aysBssOKgtx7Piw",
+  "uri": "https://www.the-review.com/sports/20190212/male-athlete-of-week-richard-elliott-of-alliance?fbclid=IwAR0vu9LYXu8Jo1fMTIjAwfbUi3TAJWxlRuIolh52GBn5aysBssOKgtx7Piw",
+  "estimated-creation-date": "2019-02-12T00:01:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:42:17"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:01:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:29:05"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

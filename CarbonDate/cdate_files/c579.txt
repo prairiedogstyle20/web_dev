@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://mlb.nbcsports.com/2019/02/13/chicago-cubs-sinclair-to-launch-sports-network-in-2020/",
+  "uri": "https://mlb.nbcsports.com/2019/02/13/chicago-cubs-sinclair-to-launch-sports-network-in-2020/",
+  "estimated-creation-date": "2019-02-13T17:57:45",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T17:57:45"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T17:58:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

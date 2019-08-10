@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be",
+  "uri": "https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be",
+  "estimated-creation-date": "2016-10-07T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2016-10-07T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170615083929/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be",
+      "memento-datetime": "2017-06-15T08:39:29",
+      "memento-pubdate": "2016-10-07T23:59:59",
+      "earliest": "2016-10-07T23:59:59"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20170819144605/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be",
+      "memento-datetime": "2017-08-19T14:46:05",
+      "memento-pubdate": "2017-08-19T14:46:05",
+      "earliest": "2017-08-19T14:46:05"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20171117122036/https://www.youtube.com/watch?v=WhsSzIS84ks&feature=youtu.be",
+      "memento-datetime": "2017-11-17T12:20:36",
+      "memento-pubdate": "2016-10-07T23:59:59",
+      "earliest": "2016-10-07T23:59:59"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

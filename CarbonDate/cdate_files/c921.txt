@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/policy/energy-environment/429876-zinke-lewandowski-join-trump-veterans-lobbying-firm",
+  "uri": "https://thehill.com/policy/energy-environment/429876-zinke-lewandowski-join-trump-veterans-lobbying-firm",
+  "estimated-creation-date": "2019-02-13T15:25:30",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T15:25:30"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214025005/https://thehill.com/policy/energy-environment/429876-zinke-lewandowski-join-trump-veterans-lobbying-firm",
+      "memento-datetime": "2019-02-14T02:50:05",
+      "memento-pubdate": "2019-02-13T15:25:30",
+      "earliest": "2019-02-13T15:25:30"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:29:38"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

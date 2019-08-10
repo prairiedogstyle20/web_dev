@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.conservativereview.com/news/bezos-trump-saudi-collusion-conspiracy-theory-goes-flames/",
+  "uri": "https://www.conservativereview.com/news/bezos-trump-saudi-collusion-conspiracy-theory-goes-flames/",
+  "estimated-creation-date": "2019-02-12T13:07:18",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T13:07:18"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212221550/https://www.conservativereview.com/news/bezos-trump-saudi-collusion-conspiracy-theory-goes-flames/",
+      "memento-datetime": "2019-02-12T22:15:50",
+      "memento-pubdate": "2019-02-12T13:07:18",
+      "earliest": "2019-02-12T13:07:18"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T18:10:10"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

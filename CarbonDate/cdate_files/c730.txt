@@ -1,0 +1,45 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/homenews/house/420314-dem-lawmaker-trump-jr-lied-to-congress-on-two-occasions",
+  "uri": "https://thehill.com/homenews/house/420314-dem-lawmaker-trump-jr-lied-to-congress-on-two-occasions",
+  "estimated-creation-date": "2018-12-07T15:03:44",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org",
+    "wayback.archive-it.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-12-07T15:03:44"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20181207222541/https://thehill.com/homenews/house/420314-dem-lawmaker-trump-jr-lied-to-congress-on-two-occasions",
+      "memento-datetime": "2018-12-07T22:25:41",
+      "memento-pubdate": "2018-12-07T15:03:44",
+      "earliest": "2018-12-07T15:03:44"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20181208012950/https://thehill.com/homenews/house/420314-dem-lawmaker-trump-jr-lied-to-congress-on-two-occasions",
+      "memento-datetime": "2018-12-08T01:29:50",
+      "memento-pubdate": "2018-12-07T15:03:44",
+      "earliest": "2018-12-07T15:03:44"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T17:50:37"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

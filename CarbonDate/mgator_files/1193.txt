@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://www.cbc.ca/sports/tennis/canada-raonic-shapovalov-rotterdam-1.5016535",
+  "self": "http://localhost:1208/timemap/json/https://www.cbc.ca/sports/tennis/canada-raonic-shapovalov-rotterdam-1.5016535",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T02:40:19Z",
+        "uri": "http://web.archive.org/web/20190213024019/https://www.cbc.ca/sports/tennis/canada-raonic-shapovalov-rotterdam-1.5016535"
+      },
+      {
+        "datetime": "2019-02-13T13:38:52Z",
+        "uri": "http://web.archive.org/web/20190213133852/https://www.cbc.ca/sports/tennis/canada-raonic-shapovalov-rotterdam-1.5016535"
+      },
+      {
+        "datetime": "2019-02-14T03:15:09Z",
+        "uri": "http://web.archive.org/web/20190214031509/https://www.cbc.ca/sports/tennis/canada-raonic-shapovalov-rotterdam-1.5016535"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T02:40:19Z",
+      "uri": "http://web.archive.org/web/20190213024019/https://www.cbc.ca/sports/tennis/canada-raonic-shapovalov-rotterdam-1.5016535"
+    },
+    "last": {
+      "datetime": "2019-02-14T03:15:09Z",
+      "uri": "http://web.archive.org/web/20190214031509/https://www.cbc.ca/sports/tennis/canada-raonic-shapovalov-rotterdam-1.5016535"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cbc.ca/sports/tennis/canada-raonic-shapovalov-rotterdam-1.5016535",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cbc.ca/sports/tennis/canada-raonic-shapovalov-rotterdam-1.5016535",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cbc.ca/sports/tennis/canada-raonic-shapovalov-rotterdam-1.5016535"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cbc.ca/sports/tennis/canada-raonic-shapovalov-rotterdam-1.5016535"
+}

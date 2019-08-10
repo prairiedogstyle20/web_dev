@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.samaa.tv/urdu/sports/2019/02/1447692/",
+  "uri": "https://www.samaa.tv/urdu/sports/2019/02/1447692/",
+  "estimated-creation-date": "2019-02-13T08:16:29",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-14T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214150120/https://www.samaa.tv/urdu/sports/2019/02/1447692/",
+      "memento-datetime": "2019-02-14T15:01:20",
+      "memento-pubdate": "2019-02-14T23:59:59",
+      "earliest": "2019-02-14T15:01:20"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T08:16:29"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

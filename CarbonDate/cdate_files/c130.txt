@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.azcentral.com/story/opinion/op-ed/ej-montini/2019/02/13/mark-kelly-gabby-giffords-senate-martha-mcsally-donald-trump/2856733002/",
+  "uri": "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2019/02/13/mark-kelly-gabby-giffords-senate-martha-mcsally-donald-trump/2856733002/",
+  "estimated-creation-date": "2019-02-13T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:29:01"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:57:02"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

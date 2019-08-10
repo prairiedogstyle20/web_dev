@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://actualidad.rt.com/actualidad/305446-historia-insolito-muro-trump-argentina",
+  "self": "http://localhost:1208/timemap/json/https://actualidad.rt.com/actualidad/305446-historia-insolito-muro-trump-argentina",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T22:04:16Z",
+        "uri": "http://web.archive.org/web/20190213220416/https://actualidad.rt.com/actualidad/305446-historia-insolito-muro-trump-argentina"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T22:04:16Z",
+      "uri": "http://web.archive.org/web/20190213220416/https://actualidad.rt.com/actualidad/305446-historia-insolito-muro-trump-argentina"
+    },
+    "last": {
+      "datetime": "2019-02-13T22:04:16Z",
+      "uri": "http://web.archive.org/web/20190213220416/https://actualidad.rt.com/actualidad/305446-historia-insolito-muro-trump-argentina"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://actualidad.rt.com/actualidad/305446-historia-insolito-muro-trump-argentina",
+    "json_format": "http://localhost:1208/timemap/json/https://actualidad.rt.com/actualidad/305446-historia-insolito-muro-trump-argentina",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://actualidad.rt.com/actualidad/305446-historia-insolito-muro-trump-argentina"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://actualidad.rt.com/actualidad/305446-historia-insolito-muro-trump-argentina"
+}

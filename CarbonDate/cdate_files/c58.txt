@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://link.medium.com/CYeFEhUEeU",
+  "uri": "https://link.medium.com/CYeFEhUEeU",
+  "estimated-creation-date": "2018-03-27T19:12:35",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:17:45"
+    },
+    "pubdate": {
+      "earliest": "2018-03-27T19:12:35"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T03:36:30"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

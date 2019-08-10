@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://www.texasobserver.org/trumps-border-wall-could-decimate-these-rare-species/",
+  "self": "http://localhost:1208/timemap/json/https://www.texasobserver.org/trumps-border-wall-could-decimate-these-rare-species/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-08-18T14:19:13Z",
+        "uri": "http://web.archive.org/web/20180818141913/https://www.texasobserver.org/trumps-border-wall-could-decimate-these-rare-species/"
+      },
+      {
+        "datetime": "2018-08-19T11:21:18Z",
+        "uri": "http://web.archive.org/web/20180819112118/https://www.texasobserver.org/trumps-border-wall-could-decimate-these-rare-species/"
+      },
+      {
+        "datetime": "2019-02-02T14:01:53Z",
+        "uri": "http://web.archive.org/web/20190202140153/https://www.texasobserver.org/trumps-border-wall-could-decimate-these-rare-species/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-08-18T14:19:13Z",
+      "uri": "http://web.archive.org/web/20180818141913/https://www.texasobserver.org/trumps-border-wall-could-decimate-these-rare-species/"
+    },
+    "last": {
+      "datetime": "2019-02-02T14:01:53Z",
+      "uri": "http://web.archive.org/web/20190202140153/https://www.texasobserver.org/trumps-border-wall-could-decimate-these-rare-species/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.texasobserver.org/trumps-border-wall-could-decimate-these-rare-species/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.texasobserver.org/trumps-border-wall-could-decimate-these-rare-species/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.texasobserver.org/trumps-border-wall-could-decimate-these-rare-species/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.texasobserver.org/trumps-border-wall-could-decimate-these-rare-species/"
+}

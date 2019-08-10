@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://sports.ndtv.com/hindi/cricket/live-scores/netherlands-vs-scotland-match-1-al-amarat-nesc02132019189455",
+  "uri": "https://sports.ndtv.com/hindi/cricket/live-scores/netherlands-vs-scotland-match-1-al-amarat-nesc02132019189455",
+  "estimated-creation-date": "2019-02-13T07:45:32",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:18:21"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:45:32"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

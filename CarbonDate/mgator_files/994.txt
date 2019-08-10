@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://rcooley123.wordpress.com/2017/06/10/donald-trump-a-fate-worse-than-climate-change/",
+  "self": "http://localhost:1208/timemap/json/https://rcooley123.wordpress.com/2017/06/10/donald-trump-a-fate-worse-than-climate-change/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-09-05T22:53:53Z",
+        "uri": "http://web.archive.org/web/20170905225353/https://rcooley123.wordpress.com/2017/06/10/donald-trump-a-fate-worse-than-climate-change/"
+      },
+      {
+        "datetime": "2018-02-01T03:29:59Z",
+        "uri": "http://web.archive.org/web/20180201032959/http://rcooley123.wordpress.com/2017/06/10/donald-trump-a-fate-worse-than-climate-change/"
+      },
+      {
+        "datetime": "2018-02-01T09:14:12Z",
+        "uri": "http://web.archive.org/web/20180201091412/https://rcooley123.wordpress.com/2017/06/10/donald-trump-a-fate-worse-than-climate-change/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-09-05T22:53:53Z",
+      "uri": "http://web.archive.org/web/20170905225353/https://rcooley123.wordpress.com/2017/06/10/donald-trump-a-fate-worse-than-climate-change/"
+    },
+    "last": {
+      "datetime": "2018-02-01T09:14:12Z",
+      "uri": "http://web.archive.org/web/20180201091412/https://rcooley123.wordpress.com/2017/06/10/donald-trump-a-fate-worse-than-climate-change/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://rcooley123.wordpress.com/2017/06/10/donald-trump-a-fate-worse-than-climate-change/",
+    "json_format": "http://localhost:1208/timemap/json/https://rcooley123.wordpress.com/2017/06/10/donald-trump-a-fate-worse-than-climate-change/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://rcooley123.wordpress.com/2017/06/10/donald-trump-a-fate-worse-than-climate-change/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://rcooley123.wordpress.com/2017/06/10/donald-trump-a-fate-worse-than-climate-change/"
+}

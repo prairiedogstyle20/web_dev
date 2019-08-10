@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://shareblue.com/el-paso-fire-department-destroys-trumps-dumb-lie-about-his-crowd-size/",
+  "uri": "https://shareblue.com/el-paso-fire-department-destroys-trumps-dumb-lie-about-his-crowd-size/",
+  "estimated-creation-date": "2019-02-11T22:54:11",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-11T22:54:11"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213123105/https://shareblue.com/el-paso-fire-department-destroys-trumps-dumb-lie-about-his-crowd-size/",
+      "memento-datetime": "2019-02-13T12:31:05",
+      "memento-pubdate": "2019-02-11T22:54:11",
+      "earliest": "2019-02-11T22:54:11"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190215072547/https://shareblue.com/el-paso-fire-department-destroys-trumps-dumb-lie-about-his-crowd-size/",
+      "memento-datetime": "2019-02-15T07:25:47",
+      "memento-pubdate": "2019-02-15T07:25:47",
+      "earliest": "2019-02-15T07:25:47"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T22:09:19"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

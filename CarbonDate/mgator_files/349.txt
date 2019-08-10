@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.wired.com/story/what-trumps-executive-order-on-ai-is-missing/",
+  "self": "http://localhost:1208/timemap/json/https://www.wired.com/story/what-trumps-executive-order-on-ai-is-missing/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T20:20:27Z",
+        "uri": "http://web.archive.org/web/20190213202027/https://www.wired.com/story/what-trumps-executive-order-on-ai-is-missing/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T20:20:27Z",
+      "uri": "http://web.archive.org/web/20190213202027/https://www.wired.com/story/what-trumps-executive-order-on-ai-is-missing/"
+    },
+    "last": {
+      "datetime": "2019-02-13T20:20:27Z",
+      "uri": "http://web.archive.org/web/20190213202027/https://www.wired.com/story/what-trumps-executive-order-on-ai-is-missing/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wired.com/story/what-trumps-executive-order-on-ai-is-missing/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wired.com/story/what-trumps-executive-order-on-ai-is-missing/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wired.com/story/what-trumps-executive-order-on-ai-is-missing/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wired.com/story/what-trumps-executive-order-on-ai-is-missing/"
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://www.eluniversal.com/politica/33020/trump-reitera-que-estudia-todas-las-opciones-sobre-la-crisis-en-venezuela",
+  "self": "http://localhost:1208/timemap/json/http://www.eluniversal.com/politica/33020/trump-reitera-que-estudia-todas-las-opciones-sobre-la-crisis-en-venezuela",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T02:51:57Z",
+        "uri": "http://web.archive.org/web/20190214025157/http://www.eluniversal.com/politica/33020/trump-reitera-que-estudia-todas-las-opciones-sobre-la-crisis-en-venezuela"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T02:51:57Z",
+      "uri": "http://web.archive.org/web/20190214025157/http://www.eluniversal.com/politica/33020/trump-reitera-que-estudia-todas-las-opciones-sobre-la-crisis-en-venezuela"
+    },
+    "last": {
+      "datetime": "2019-02-14T02:51:57Z",
+      "uri": "http://web.archive.org/web/20190214025157/http://www.eluniversal.com/politica/33020/trump-reitera-que-estudia-todas-las-opciones-sobre-la-crisis-en-venezuela"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.eluniversal.com/politica/33020/trump-reitera-que-estudia-todas-las-opciones-sobre-la-crisis-en-venezuela",
+    "json_format": "http://localhost:1208/timemap/json/http://www.eluniversal.com/politica/33020/trump-reitera-que-estudia-todas-las-opciones-sobre-la-crisis-en-venezuela",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.eluniversal.com/politica/33020/trump-reitera-que-estudia-todas-las-opciones-sobre-la-crisis-en-venezuela"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.eluniversal.com/politica/33020/trump-reitera-que-estudia-todas-las-opciones-sobre-la-crisis-en-venezuela"
+}

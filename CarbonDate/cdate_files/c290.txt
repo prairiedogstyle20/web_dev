@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nbcnews.com/politics/politics-news/hillary-clinton-zings-trump-ripping-her-2016-campaign-slogan-n970721",
+  "uri": "https://www.nbcnews.com/politics/politics-news/hillary-clinton-zings-trump-ripping-her-2016-campaign-slogan-n970721",
+  "estimated-creation-date": "2019-02-12T19:18:28",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213000234/https://www.nbcnews.com/politics/politics-news/hillary-clinton-zings-trump-ripping-her-2016-campaign-slogan-n970721",
+      "memento-datetime": "2019-02-13T00:02:34",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T00:02:34"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190213012916/https://www.nbcnews.com/politics/politics-news/hillary-clinton-zings-trump-ripping-her-2016-campaign-slogan-n970721",
+      "memento-datetime": "2019-02-13T01:29:16",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T01:29:16"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T19:18:28"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

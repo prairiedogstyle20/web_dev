@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://sports.yahoo.com/news/why-charlotte-is-the-next-great-wrestlemania-main-eventer-121924262.html",
+  "uri": "https://sports.yahoo.com/news/why-charlotte-is-the-next-great-wrestlemania-main-eventer-121924262.html",
+  "estimated-creation-date": "2017-04-02T17:37:51",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170402173751/http://sports.yahoo.com/news/why-charlotte-is-the-next-great-wrestlemania-main-eventer-121924262.html",
+      "memento-datetime": "2017-04-02T17:37:51",
+      "memento-pubdate": "",
+      "earliest": "2017-04-02T17:37:51"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20170402213906/http://sports.yahoo.com/news/why-charlotte-is-the-next-great-wrestlemania-main-eventer-121924262.html",
+      "memento-datetime": "2017-04-02T21:39:06",
+      "memento-pubdate": "",
+      "earliest": "2017-04-02T21:39:06"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T07:28:52"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

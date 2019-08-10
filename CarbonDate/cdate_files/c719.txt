@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/",
+  "uri": "https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/",
+  "estimated-creation-date": "2019-02-13T03:45:42",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T03:45:42"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213082008/https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/",
+      "memento-datetime": "2019-02-13T08:20:08",
+      "memento-pubdate": "2019-02-13T03:45:42",
+      "earliest": "2019-02-13T03:45:42"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T04:22:22"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

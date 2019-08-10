@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.propublica.org/article/trump-inc-new-evidence-emerges-of-possible-wrongdoing-by-trump-inaugural-committee",
+  "uri": "https://www.propublica.org/article/trump-inc-new-evidence-emerges-of-possible-wrongdoing-by-trump-inaugural-committee",
+  "estimated-creation-date": "2019-02-08T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-08T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190208205850/https://www.propublica.org/article/trump-inc-new-evidence-emerges-of-possible-wrongdoing-by-trump-inaugural-committee",
+      "memento-datetime": "2019-02-08T20:58:50",
+      "memento-pubdate": "2019-02-08T20:58:50",
+      "earliest": "2019-02-08T20:58:50"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190208205851/https://www.propublica.org/article/trump-inc-new-evidence-emerges-of-possible-wrongdoing-by-trump-inaugural-committee",
+      "memento-datetime": "2019-02-08T20:58:51",
+      "memento-pubdate": "2019-02-08T23:59:59",
+      "earliest": "2019-02-08T20:58:51"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190209200641/https://www.propublica.org/article/trump-inc-new-evidence-emerges-of-possible-wrongdoing-by-trump-inaugural-committee",
+      "memento-datetime": "2019-02-09T20:06:41",
+      "memento-pubdate": "2019-02-08T23:59:59",
+      "earliest": "2019-02-08T23:59:59"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://www.newsweek.com/vladimir-putin-threatening-democracies-everywhere-trump-administration-1329109",
+  "uri": "https://www.newsweek.com/vladimir-putin-threatening-democracies-everywhere-trump-administration-1329109",
+  "estimated-creation-date": "2019-02-12T16:52:14",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T16:52:14"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213031930/https://www.newsweek.com/vladimir-putin-threatening-democracies-everywhere-trump-administration-1329109",
+      "memento-datetime": "2019-02-13T02:50:27",
+      "memento-pubdate": "2019-02-12T16:52:14",
+      "earliest": "2019-02-12T16:52:14"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190213114415/https://www.newsweek.com/vladimir-putin-threatening-democracies-everywhere-trump-administration-1329109",
+      "memento-datetime": "2019-02-13T11:44:15",
+      "memento-pubdate": "2019-02-13T11:44:15",
+      "earliest": "2019-02-13T11:44:15"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T21:58:34"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

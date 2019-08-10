@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/homenews/house/429544-ocasio-cortez-swipes-back-at-trump-over-green-new-deal",
+  "uri": "https://thehill.com/homenews/house/429544-ocasio-cortez-swipes-back-at-trump-over-green-new-deal",
+  "estimated-creation-date": "2019-02-12T07:47:22",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T07:47:22"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212165245/https://thehill.com/homenews/house/429544-ocasio-cortez-swipes-back-at-trump-over-green-new-deal",
+      "memento-datetime": "2019-02-12T16:52:45",
+      "memento-pubdate": "2019-02-12T07:47:22",
+      "earliest": "2019-02-12T07:47:22"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

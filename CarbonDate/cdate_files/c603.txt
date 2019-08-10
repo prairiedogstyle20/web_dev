@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.spreaker.com/user/theyoungturks/trump-vs-aoc_1?autoplay=1",
+  "uri": "https://www.spreaker.com/user/theyoungturks/trump-vs-aoc_1?autoplay=1",
+  "estimated-creation-date": "2019-02-13T20:31:11",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:31:11"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/",
+  "self": "http://localhost:1208/timemap/json/http://eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:24:18Z",
+        "uri": "http://web.archive.org/web/20190213122418/http://eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:24:18Z",
+      "uri": "http://web.archive.org/web/20190213122418/http://eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:24:18Z",
+      "uri": "http://web.archive.org/web/20190213122418/http://eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/",
+    "json_format": "http://localhost:1208/timemap/json/http://eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://eltiempolatino.com/news/2019/feb/12/trump-abre-la-puerta-alargar-negociaciones-con-chi/"
+}

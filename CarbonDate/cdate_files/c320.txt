@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.azcentral.com/story/sports/high-school/2019/02/13/arizona-high-school-boys-basketball-coach-year-candidates/2860166002/",
+  "uri": "https://www.azcentral.com/story/sports/high-school/2019/02/13/arizona-high-school-boys-basketball-coach-year-candidates/2860166002/",
+  "estimated-creation-date": "2019-02-13T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:01:37"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:52:38"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057?ncid=engmodushpmg00000004",
+  "self": "http://localhost:1208/timemap/json/https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057?ncid=engmodushpmg00000004",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-10-13T00:06:36Z",
+        "uri": "http://archive.md/20171013000636/https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057?ncid=engmodushpmg00000004"
+      }
+    ],
+    "first": {
+      "datetime": "2017-10-13T00:06:36Z",
+      "uri": "http://archive.md/20171013000636/https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057?ncid=engmodushpmg00000004"
+    },
+    "last": {
+      "datetime": "2017-10-13T00:06:36Z",
+      "uri": "http://archive.md/20171013000636/https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057?ncid=engmodushpmg00000004"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057?ncid=engmodushpmg00000004",
+    "json_format": "http://localhost:1208/timemap/json/https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057?ncid=engmodushpmg00000004",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057?ncid=engmodushpmg00000004"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057?ncid=engmodushpmg00000004"
+}

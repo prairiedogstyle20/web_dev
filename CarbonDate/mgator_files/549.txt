@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://nypost.com/2019/02/12/trump-calls-on-ilhan-omar-to-resign-over-anti-semitic-tweets/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
+  "self": "http://localhost:1208/timemap/json/https://nypost.com/2019/02/12/trump-calls-on-ilhan-omar-to-resign-over-anti-semitic-tweets/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T05:52:09Z",
+        "uri": "http://archive.md/20190213055209/https://nypost.com/2019/02/12/trump-calls-on-ilhan-omar-to-resign-over-anti-semitic-tweets/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T05:52:09Z",
+      "uri": "http://archive.md/20190213055209/https://nypost.com/2019/02/12/trump-calls-on-ilhan-omar-to-resign-over-anti-semitic-tweets/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons"
+    },
+    "last": {
+      "datetime": "2019-02-13T05:52:09Z",
+      "uri": "http://archive.md/20190213055209/https://nypost.com/2019/02/12/trump-calls-on-ilhan-omar-to-resign-over-anti-semitic-tweets/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://nypost.com/2019/02/12/trump-calls-on-ilhan-omar-to-resign-over-anti-semitic-tweets/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
+    "json_format": "http://localhost:1208/timemap/json/https://nypost.com/2019/02/12/trump-calls-on-ilhan-omar-to-resign-over-anti-semitic-tweets/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://nypost.com/2019/02/12/trump-calls-on-ilhan-omar-to-resign-over-anti-semitic-tweets/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://nypost.com/2019/02/12/trump-calls-on-ilhan-omar-to-resign-over-anti-semitic-tweets/?utm_source=twitter_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons"
+}

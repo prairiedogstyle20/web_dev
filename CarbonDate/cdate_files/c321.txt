@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.indy100.com/article/ben-bradley-apology-corbyn-more-popular-in-february-2018-than-donald-trump-hillary-tweet-8230941",
+  "uri": "https://www.indy100.com/article/ben-bradley-apology-corbyn-more-popular-in-february-2018-than-donald-trump-hillary-tweet-8230941",
+  "estimated-creation-date": "2018-02-27T14:11:06",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-02-27T16:59:48"
+    },
+    "pubdate": {
+      "earliest": "2018-02-27T16:59:48"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180301003239/https://www.indy100.com/article/ben-bradley-apology-corbyn-more-popular-in-february-2018-than-donald-trump-hillary-tweet-8230941",
+      "memento-datetime": "2018-02-27T16:59:48",
+      "memento-pubdate": "2018-02-27T14:11:06",
+      "earliest": "2018-02-27T14:11:06"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T21:43:43"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://indianexpress.com/article/sports/badminton/teen-shuttler-lakshya-sen-eyes-top-30-ranking-by-year-end-5581799/",
+  "uri": "https://indianexpress.com/article/sports/badminton/teen-shuttler-lakshya-sen-eyes-top-30-ranking-by-year-end-5581799/",
+  "estimated-creation-date": "2019-02-13T07:56:00",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T13:24:55"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214123220/https://indianexpress.com/article/sports/badminton/teen-shuttler-lakshya-sen-eyes-top-30-ranking-by-year-end-5581799/",
+      "memento-datetime": "2019-02-14T12:32:20",
+      "memento-pubdate": "2019-02-13T13:24:55",
+      "earliest": "2019-02-13T13:24:55"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:56:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

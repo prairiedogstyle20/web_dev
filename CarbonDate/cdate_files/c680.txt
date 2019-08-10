@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.fox32chicago.com/sports/jordan-6-nba-titles-tougher-than-harden-westbrook-streaks-1",
+  "uri": "http://www.fox32chicago.com/sports/jordan-6-nba-titles-tougher-than-harden-westbrook-streaks-1",
+  "estimated-creation-date": "2019-02-12T22:14:00",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T22:14:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

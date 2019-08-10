@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://5starfashionandremy.com/product/champion-2piece-sports-sets/",
+  "uri": "https://5starfashionandremy.com/product/champion-2piece-sports-sets/",
+  "estimated-creation-date": "2019-02-13T17:52:34",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T17:52:34"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

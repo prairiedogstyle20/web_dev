@@ -1,0 +1,99 @@
+19
+{
+  "original_uri": "https://apnews.com/06779811b88a4c1d89315812c3c36167",
+  "self": "http://localhost:1208/timemap/json/https://apnews.com/06779811b88a4c1d89315812c3c36167",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:36:35Z",
+        "uri": "http://web.archive.org/web/20190213123635/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-13T14:22:22Z",
+        "uri": "http://web.archive.org/web/20190213142222/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-13T14:22:22Z",
+        "uri": "http://web.archive.org/web/20190213142222/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-13T15:24:07Z",
+        "uri": "http://web.archive.org/web/20190213152407/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-13T15:24:07Z",
+        "uri": "http://web.archive.org/web/20190213152407/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-13T17:27:05Z",
+        "uri": "http://web.archive.org/web/20190213172705/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-13T17:27:05Z",
+        "uri": "http://web.archive.org/web/20190213172705/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-13T18:26:42Z",
+        "uri": "http://web.archive.org/web/20190213182642/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-13T18:26:42Z",
+        "uri": "http://web.archive.org/web/20190213182642/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-13T19:28:58Z",
+        "uri": "http://web.archive.org/web/20190213192858/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-13T19:28:58Z",
+        "uri": "http://web.archive.org/web/20190213192858/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-14T01:35:47Z",
+        "uri": "http://web.archive.org/web/20190214013547/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-14T01:35:47Z",
+        "uri": "http://web.archive.org/web/20190214013547/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-14T06:37:45Z",
+        "uri": "http://web.archive.org/web/20190214063745/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-14T06:37:45Z",
+        "uri": "http://web.archive.org/web/20190214063745/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-14T10:20:11Z",
+        "uri": "http://web.archive.org/web/20190214102011/https://www.apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-14T11:48:28Z",
+        "uri": "http://web.archive.org/web/20190214114828/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-14T11:48:28Z",
+        "uri": "http://web.archive.org/web/20190214114828/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      },
+      {
+        "datetime": "2019-02-14T11:48:35Z",
+        "uri": "http://archive.md/20190214114835/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:36:35Z",
+      "uri": "http://web.archive.org/web/20190213123635/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:48:35Z",
+      "uri": "http://archive.md/20190214114835/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://apnews.com/06779811b88a4c1d89315812c3c36167",
+    "json_format": "http://localhost:1208/timemap/json/https://apnews.com/06779811b88a4c1d89315812c3c36167",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://apnews.com/06779811b88a4c1d89315812c3c36167"
+}

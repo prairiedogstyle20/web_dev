@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nation.co.ke/sports/basketball/Triple-double-LeBron-James-but-Lakers-falter-Warriors-cruise/1128096-4979606-lb3r5m/index.html",
+  "uri": "https://www.nation.co.ke/sports/basketball/Triple-double-LeBron-James-but-Lakers-falter-Warriors-cruise/1128096-4979606-lb3r5m/index.html",
+  "estimated-creation-date": "2019-02-13T07:53:32",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213173358/https://www.nation.co.ke/sports/basketball/Triple-double-LeBron-James-but-Lakers-falter-Warriors-cruise/1128096-4979606-lb3r5m/index.html",
+      "memento-datetime": "2019-02-13T17:33:58",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T17:33:58"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:53:32"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

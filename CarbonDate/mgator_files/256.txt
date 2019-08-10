@@ -1,0 +1,803 @@
+195
+{
+  "original_uri": "http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&",
+  "self": "http://localhost:1208/timemap/json/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-03T16:41:19Z",
+        "uri": "http://web.archive.org/web/20180203164119/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-06T00:41:28Z",
+        "uri": "http://wayback.archive-it.org/all/20181106004128/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-06T00:41:28Z",
+        "uri": "http://web.archive.org/web/20181106004128/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-06T23:09:36Z",
+        "uri": "http://wayback.archive-it.org/all/20181106230936/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-06T23:09:36Z",
+        "uri": "http://web.archive.org/web/20181106230936/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-07T20:19:23Z",
+        "uri": "http://wayback.archive-it.org/all/20181107201923/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-07T20:19:23Z",
+        "uri": "http://web.archive.org/web/20181107201923/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-08T00:55:48Z",
+        "uri": "http://wayback.archive-it.org/all/20181108005548/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-08T00:55:48Z",
+        "uri": "http://web.archive.org/web/20181108005548/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-08T23:56:07Z",
+        "uri": "http://wayback.archive-it.org/all/20181108235607/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-08T23:56:07Z",
+        "uri": "http://web.archive.org/web/20181108235607/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-10T18:29:53Z",
+        "uri": "http://wayback.archive-it.org/all/20181110182953/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-10T18:29:53Z",
+        "uri": "http://web.archive.org/web/20181110182953/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-10T23:17:29Z",
+        "uri": "http://wayback.archive-it.org/all/20181110231729/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-10T23:17:29Z",
+        "uri": "http://web.archive.org/web/20181110231729/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-12T13:55:10Z",
+        "uri": "http://wayback.archive-it.org/all/20181112135510/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-12T13:55:10Z",
+        "uri": "http://web.archive.org/web/20181112135510/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-12T23:12:36Z",
+        "uri": "http://wayback.archive-it.org/all/20181112231236/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-12T23:12:36Z",
+        "uri": "http://web.archive.org/web/20181112231236/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-14T00:09:49Z",
+        "uri": "http://wayback.archive-it.org/all/20181114000949/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-14T00:09:49Z",
+        "uri": "http://web.archive.org/web/20181114000949/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-14T23:18:06Z",
+        "uri": "http://wayback.archive-it.org/all/20181114231806/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-14T23:18:06Z",
+        "uri": "http://web.archive.org/web/20181114231806/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-15T23:11:28Z",
+        "uri": "http://wayback.archive-it.org/all/20181115231128/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-15T23:11:28Z",
+        "uri": "http://web.archive.org/web/20181115231128/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-16T23:15:11Z",
+        "uri": "http://wayback.archive-it.org/all/20181116231511/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-16T23:15:11Z",
+        "uri": "http://web.archive.org/web/20181116231511/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-17T23:20:24Z",
+        "uri": "http://wayback.archive-it.org/all/20181117232024/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-17T23:20:24Z",
+        "uri": "http://web.archive.org/web/20181117232024/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-18T23:15:06Z",
+        "uri": "http://wayback.archive-it.org/all/20181118231506/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-18T23:15:06Z",
+        "uri": "http://web.archive.org/web/20181118231506/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-19T23:18:11Z",
+        "uri": "http://wayback.archive-it.org/all/20181119231811/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-19T23:18:11Z",
+        "uri": "http://web.archive.org/web/20181119231811/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-22T05:19:12Z",
+        "uri": "http://wayback.archive-it.org/all/20181122051912/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-22T05:19:12Z",
+        "uri": "http://web.archive.org/web/20181122051912/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-26T11:26:12Z",
+        "uri": "http://wayback.archive-it.org/all/20181126112612/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-26T11:26:12Z",
+        "uri": "http://web.archive.org/web/20181126112612/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-27T06:15:27Z",
+        "uri": "http://wayback.archive-it.org/all/20181127061527/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-27T06:15:27Z",
+        "uri": "http://web.archive.org/web/20181127061527/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-28T00:30:10Z",
+        "uri": "http://wayback.archive-it.org/all/20181128003010/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-28T00:30:10Z",
+        "uri": "http://web.archive.org/web/20181128003010/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-28T23:14:04Z",
+        "uri": "http://wayback.archive-it.org/all/20181128231404/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-28T23:14:04Z",
+        "uri": "http://web.archive.org/web/20181128231404/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-29T23:14:50Z",
+        "uri": "http://wayback.archive-it.org/all/20181129231450/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-29T23:14:50Z",
+        "uri": "http://web.archive.org/web/20181129231450/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-30T23:17:09Z",
+        "uri": "http://wayback.archive-it.org/all/20181130231709/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-11-30T23:17:09Z",
+        "uri": "http://web.archive.org/web/20181130231709/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-01T23:22:40Z",
+        "uri": "http://wayback.archive-it.org/all/20181201232240/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-01T23:22:40Z",
+        "uri": "http://web.archive.org/web/20181201232240/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-02T23:15:44Z",
+        "uri": "http://wayback.archive-it.org/all/20181202231544/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-02T23:15:44Z",
+        "uri": "http://web.archive.org/web/20181202231544/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-03T23:12:44Z",
+        "uri": "http://wayback.archive-it.org/all/20181203231244/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-03T23:12:44Z",
+        "uri": "http://web.archive.org/web/20181203231244/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-04T23:24:29Z",
+        "uri": "http://wayback.archive-it.org/all/20181204232429/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-04T23:24:29Z",
+        "uri": "http://web.archive.org/web/20181204232429/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-05T23:59:23Z",
+        "uri": "http://wayback.archive-it.org/all/20181205235923/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-05T23:59:23Z",
+        "uri": "http://web.archive.org/web/20181205235923/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-06T23:14:49Z",
+        "uri": "http://wayback.archive-it.org/all/20181206231449/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-06T23:14:49Z",
+        "uri": "http://web.archive.org/web/20181206231449/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-07T23:13:16Z",
+        "uri": "http://wayback.archive-it.org/all/20181207231316/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-07T23:13:16Z",
+        "uri": "http://web.archive.org/web/20181207231316/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-08T23:21:19Z",
+        "uri": "http://wayback.archive-it.org/all/20181208232119/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-08T23:21:19Z",
+        "uri": "http://web.archive.org/web/20181208232119/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-09T23:16:53Z",
+        "uri": "http://wayback.archive-it.org/all/20181209231653/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-09T23:16:53Z",
+        "uri": "http://web.archive.org/web/20181209231653/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-10T23:24:56Z",
+        "uri": "http://wayback.archive-it.org/all/20181210232456/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-10T23:24:56Z",
+        "uri": "http://web.archive.org/web/20181210232456/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-11T23:19:45Z",
+        "uri": "http://wayback.archive-it.org/all/20181211231945/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-11T23:19:45Z",
+        "uri": "http://web.archive.org/web/20181211231945/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-12T23:15:23Z",
+        "uri": "http://wayback.archive-it.org/all/20181212231523/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-12T23:15:23Z",
+        "uri": "http://web.archive.org/web/20181212231523/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-13T23:18:47Z",
+        "uri": "http://wayback.archive-it.org/all/20181213231847/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-13T23:18:47Z",
+        "uri": "http://web.archive.org/web/20181213231847/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-14T23:33:25Z",
+        "uri": "http://wayback.archive-it.org/all/20181214233325/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-14T23:33:25Z",
+        "uri": "http://web.archive.org/web/20181214233325/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-15T23:20:00Z",
+        "uri": "http://wayback.archive-it.org/all/20181215232000/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-15T23:20:00Z",
+        "uri": "http://web.archive.org/web/20181215232000/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-16T23:22:09Z",
+        "uri": "http://wayback.archive-it.org/all/20181216232209/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-16T23:22:09Z",
+        "uri": "http://web.archive.org/web/20181216232209/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-17T23:21:51Z",
+        "uri": "http://wayback.archive-it.org/all/20181217232151/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-17T23:21:51Z",
+        "uri": "http://web.archive.org/web/20181217232151/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-18T23:19:21Z",
+        "uri": "http://wayback.archive-it.org/all/20181218231921/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-18T23:19:21Z",
+        "uri": "http://web.archive.org/web/20181218231921/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-19T23:20:45Z",
+        "uri": "http://wayback.archive-it.org/all/20181219232045/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-19T23:20:45Z",
+        "uri": "http://web.archive.org/web/20181219232045/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-20T23:28:52Z",
+        "uri": "http://wayback.archive-it.org/all/20181220232852/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-20T23:28:52Z",
+        "uri": "http://web.archive.org/web/20181220232852/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-21T23:22:49Z",
+        "uri": "http://wayback.archive-it.org/all/20181221232249/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-21T23:22:49Z",
+        "uri": "http://web.archive.org/web/20181221232249/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-22T23:17:53Z",
+        "uri": "http://wayback.archive-it.org/all/20181222231753/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-22T23:17:53Z",
+        "uri": "http://web.archive.org/web/20181222231753/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-23T23:18:05Z",
+        "uri": "http://wayback.archive-it.org/all/20181223231805/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-23T23:18:05Z",
+        "uri": "http://web.archive.org/web/20181223231805/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-24T23:16:47Z",
+        "uri": "http://wayback.archive-it.org/all/20181224231647/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-24T23:16:47Z",
+        "uri": "http://web.archive.org/web/20181224231647/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-25T23:13:21Z",
+        "uri": "http://wayback.archive-it.org/all/20181225231321/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-25T23:13:21Z",
+        "uri": "http://web.archive.org/web/20181225231321/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-26T23:25:23Z",
+        "uri": "http://wayback.archive-it.org/all/20181226232523/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-26T23:25:23Z",
+        "uri": "http://web.archive.org/web/20181226232523/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-27T23:14:50Z",
+        "uri": "http://wayback.archive-it.org/all/20181227231450/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-27T23:14:50Z",
+        "uri": "http://web.archive.org/web/20181227231450/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-28T23:17:53Z",
+        "uri": "http://wayback.archive-it.org/all/20181228231753/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-28T23:17:53Z",
+        "uri": "http://web.archive.org/web/20181228231753/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-29T23:28:05Z",
+        "uri": "http://wayback.archive-it.org/all/20181229232805/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-29T23:28:05Z",
+        "uri": "http://web.archive.org/web/20181229232805/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-30T23:18:20Z",
+        "uri": "http://wayback.archive-it.org/all/20181230231820/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-30T23:18:20Z",
+        "uri": "http://web.archive.org/web/20181230231820/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-31T23:27:27Z",
+        "uri": "http://wayback.archive-it.org/all/20181231232727/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2018-12-31T23:27:27Z",
+        "uri": "http://web.archive.org/web/20181231232727/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-01T23:22:01Z",
+        "uri": "http://wayback.archive-it.org/all/20190101232201/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-01T23:22:01Z",
+        "uri": "http://web.archive.org/web/20190101232201/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-02T23:18:17Z",
+        "uri": "http://wayback.archive-it.org/all/20190102231817/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-02T23:18:17Z",
+        "uri": "http://web.archive.org/web/20190102231817/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-04T23:38:27Z",
+        "uri": "http://wayback.archive-it.org/all/20190104233827/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-04T23:38:27Z",
+        "uri": "http://web.archive.org/web/20190104233827/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-05T23:16:27Z",
+        "uri": "http://wayback.archive-it.org/all/20190105231627/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-05T23:16:27Z",
+        "uri": "http://web.archive.org/web/20190105231627/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-06T23:21:23Z",
+        "uri": "http://wayback.archive-it.org/all/20190106232123/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-06T23:21:23Z",
+        "uri": "http://web.archive.org/web/20190106232123/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-07T23:15:47Z",
+        "uri": "http://wayback.archive-it.org/all/20190107231547/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-07T23:15:47Z",
+        "uri": "http://web.archive.org/web/20190107231547/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-08T23:19:29Z",
+        "uri": "http://wayback.archive-it.org/all/20190108231929/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-08T23:19:29Z",
+        "uri": "http://web.archive.org/web/20190108231929/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-09T23:20:49Z",
+        "uri": "http://wayback.archive-it.org/all/20190109232049/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-09T23:20:49Z",
+        "uri": "http://web.archive.org/web/20190109232049/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-11T23:23:00Z",
+        "uri": "http://wayback.archive-it.org/all/20190111232300/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-11T23:23:00Z",
+        "uri": "http://web.archive.org/web/20190111232300/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-12T23:19:21Z",
+        "uri": "http://wayback.archive-it.org/all/20190112231921/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-12T23:19:21Z",
+        "uri": "http://web.archive.org/web/20190112231921/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-13T23:17:54Z",
+        "uri": "http://wayback.archive-it.org/all/20190113231754/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-13T23:17:54Z",
+        "uri": "http://web.archive.org/web/20190113231754/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-14T23:20:17Z",
+        "uri": "http://wayback.archive-it.org/all/20190114232017/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-14T23:20:17Z",
+        "uri": "http://web.archive.org/web/20190114232017/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-15T23:45:00Z",
+        "uri": "http://wayback.archive-it.org/all/20190115234500/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-15T23:45:00Z",
+        "uri": "http://web.archive.org/web/20190115234500/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-16T23:24:30Z",
+        "uri": "http://wayback.archive-it.org/all/20190116232430/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-16T23:24:30Z",
+        "uri": "http://web.archive.org/web/20190116232430/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-17T23:15:38Z",
+        "uri": "http://wayback.archive-it.org/all/20190117231538/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-17T23:15:38Z",
+        "uri": "http://web.archive.org/web/20190117231538/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-18T19:14:40Z",
+        "uri": "http://wayback.archive-it.org/all/20190118191440/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-18T19:14:40Z",
+        "uri": "http://web.archive.org/web/20190118191440/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-18T23:16:48Z",
+        "uri": "http://wayback.archive-it.org/all/20190118231648/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-18T23:16:48Z",
+        "uri": "http://web.archive.org/web/20190118231648/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-19T23:20:02Z",
+        "uri": "http://wayback.archive-it.org/all/20190119232002/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-19T23:20:02Z",
+        "uri": "http://web.archive.org/web/20190119232002/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-20T23:19:41Z",
+        "uri": "http://wayback.archive-it.org/all/20190120231941/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-20T23:19:41Z",
+        "uri": "http://web.archive.org/web/20190120231941/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-21T23:18:12Z",
+        "uri": "http://wayback.archive-it.org/all/20190121231812/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-21T23:18:12Z",
+        "uri": "http://web.archive.org/web/20190121231812/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-22T23:37:32Z",
+        "uri": "http://wayback.archive-it.org/all/20190122233732/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-22T23:37:32Z",
+        "uri": "http://web.archive.org/web/20190122233732/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-23T23:15:54Z",
+        "uri": "http://wayback.archive-it.org/all/20190123231554/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-23T23:15:54Z",
+        "uri": "http://web.archive.org/web/20190123231554/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-24T23:13:37Z",
+        "uri": "http://wayback.archive-it.org/all/20190124231337/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-24T23:13:37Z",
+        "uri": "http://web.archive.org/web/20190124231337/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-25T23:15:33Z",
+        "uri": "http://wayback.archive-it.org/all/20190125231533/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-25T23:15:33Z",
+        "uri": "http://web.archive.org/web/20190125231533/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-26T23:26:58Z",
+        "uri": "http://wayback.archive-it.org/all/20190126232658/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-26T23:26:58Z",
+        "uri": "http://web.archive.org/web/20190126232658/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-27T23:17:16Z",
+        "uri": "http://wayback.archive-it.org/all/20190127231716/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-27T23:17:16Z",
+        "uri": "http://web.archive.org/web/20190127231716/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-28T23:22:52Z",
+        "uri": "http://wayback.archive-it.org/all/20190128232252/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-28T23:22:52Z",
+        "uri": "http://web.archive.org/web/20190128232252/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-29T23:14:58Z",
+        "uri": "http://wayback.archive-it.org/all/20190129231458/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-29T23:14:58Z",
+        "uri": "http://web.archive.org/web/20190129231458/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-30T23:15:50Z",
+        "uri": "http://wayback.archive-it.org/all/20190130231550/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-30T23:15:50Z",
+        "uri": "http://web.archive.org/web/20190130231550/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-31T23:21:34Z",
+        "uri": "http://wayback.archive-it.org/all/20190131232134/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-01-31T23:21:34Z",
+        "uri": "http://web.archive.org/web/20190131232134/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-01T23:17:10Z",
+        "uri": "http://wayback.archive-it.org/all/20190201231710/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-01T23:17:10Z",
+        "uri": "http://web.archive.org/web/20190201231710/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-02T23:20:24Z",
+        "uri": "http://wayback.archive-it.org/all/20190202232024/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-02T23:20:24Z",
+        "uri": "http://web.archive.org/web/20190202232024/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-03T23:22:17Z",
+        "uri": "http://wayback.archive-it.org/all/20190203232217/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-03T23:22:17Z",
+        "uri": "http://web.archive.org/web/20190203232217/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-04T23:18:47Z",
+        "uri": "http://wayback.archive-it.org/all/20190204231847/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-04T23:18:47Z",
+        "uri": "http://web.archive.org/web/20190204231847/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-05T14:50:56Z",
+        "uri": "http://web.archive.org/web/20190205145056/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-05T23:14:16Z",
+        "uri": "http://wayback.archive-it.org/all/20190205231416/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-05T23:14:16Z",
+        "uri": "http://web.archive.org/web/20190205231416/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-06T23:19:01Z",
+        "uri": "http://wayback.archive-it.org/all/20190206231901/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-06T23:19:01Z",
+        "uri": "http://web.archive.org/web/20190206231901/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-07T23:16:17Z",
+        "uri": "http://wayback.archive-it.org/all/20190207231617/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-07T23:16:17Z",
+        "uri": "http://web.archive.org/web/20190207231617/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-08T23:22:11Z",
+        "uri": "http://wayback.archive-it.org/all/20190208232211/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-08T23:22:11Z",
+        "uri": "http://web.archive.org/web/20190208232211/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-09T23:16:12Z",
+        "uri": "http://wayback.archive-it.org/all/20190209231612/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-09T23:16:12Z",
+        "uri": "http://web.archive.org/web/20190209231612/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-10T23:18:34Z",
+        "uri": "http://wayback.archive-it.org/all/20190210231834/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-10T23:18:34Z",
+        "uri": "http://web.archive.org/web/20190210231834/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-10T23:39:35Z",
+        "uri": "http://wayback.archive-it.org/all/20190210233935/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-10T23:39:35Z",
+        "uri": "http://web.archive.org/web/20190210233935/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-11T23:26:48Z",
+        "uri": "http://web.archive.org/web/20190211232648/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-12T07:52:49Z",
+        "uri": "http://web.archive.org/web/20190212075249/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      },
+      {
+        "datetime": "2019-02-12T23:17:37Z",
+        "uri": "http://web.archive.org/web/20190212231737/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-03T16:41:19Z",
+      "uri": "http://web.archive.org/web/20180203164119/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+    },
+    "last": {
+      "datetime": "2019-02-12T23:17:37Z",
+      "uri": "http://web.archive.org/web/20190212231737/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&",
+    "json_format": "http://localhost:1208/timemap/json/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://player.siriusxm.com/deepLink.html?contentType=live&channelName=SiriusXMProgress&"
+}

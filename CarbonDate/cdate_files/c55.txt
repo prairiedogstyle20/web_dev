@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nbcnews.com/politics/meet-the-press/beto-o-rourke-gets-under-trump-s-skin-el-paso-n970481",
+  "uri": "https://www.nbcnews.com/politics/meet-the-press/beto-o-rourke-gets-under-trump-s-skin-el-paso-n970481",
+  "estimated-creation-date": "2019-02-12T18:19:05",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212181905/https://www.nbcnews.com/politics/meet-the-press/beto-o-rourke-gets-under-trump-s-skin-el-paso-n970481",
+      "memento-datetime": "2019-02-12T18:19:05",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T18:19:05"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190214042554/https://www.nbcnews.com/politics/meet-the-press/beto-o-rourke-gets-under-trump-s-skin-el-paso-n970481",
+      "memento-datetime": "2019-02-14T04:25:54",
+      "memento-pubdate": "2019-02-14T04:25:54",
+      "earliest": "2019-02-14T04:25:54"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T19:42:58"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

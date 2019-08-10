@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.newsnation.in/error.php",
+  "uri": "https://www.newsnation.in/error.php",
+  "estimated-creation-date": "2014-08-19T07:24:59",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20140819072459/http://www.newsnation.in:80/error.php",
+      "memento-datetime": "2014-08-19T07:24:59",
+      "memento-pubdate": "",
+      "earliest": "2014-08-19T07:24:59"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr",
+  "self": "http://localhost:1208/timemap/json/https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-05T21:21:34Z",
+        "uri": "http://wayback.archive-it.org/all/20190205212134/https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr"
+      },
+      {
+        "datetime": "2019-02-05T21:21:34Z",
+        "uri": "http://web.archive.org/web/20190205212134/https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-05T21:21:34Z",
+      "uri": "http://wayback.archive-it.org/all/20190205212134/https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr"
+    },
+    "last": {
+      "datetime": "2019-02-05T21:21:34Z",
+      "uri": "http://web.archive.org/web/20190205212134/https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr",
+    "json_format": "http://localhost:1208/timemap/json/https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr"
+}

@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.sportswatchmonitor.com/handicapper/profile/jack%20jones?ref=autotwitter&pref=7f1e7b7d-8622-4539-9497-549698424f85",
+  "uri": "https://www.sportswatchmonitor.com/handicapper/profile/jack%20jones?ref=autotwitter&pref=7f1e7b7d-8622-4539-9497-549698424f85",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

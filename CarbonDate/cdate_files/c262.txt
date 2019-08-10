@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/",
+  "uri": "https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/",
+  "estimated-creation-date": "2019-02-13T09:48:57",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T09:48:57"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213111813/https://nypost.com/2019/02/13/newspaper-sports-editor-accused-of-sexually-assaulting-minor/",
+      "memento-datetime": "2019-02-13T11:18:13",
+      "memento-pubdate": "2019-02-13T09:48:57",
+      "earliest": "2019-02-13T09:48:57"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T10:44:38"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

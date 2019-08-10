@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://thesternfacts.com/trump-jr-now-tied-to-mexican-drug-cartels-money-laundering-scheme-5906b8d4ce5d",
+  "uri": "https://thesternfacts.com/trump-jr-now-tied-to-mexican-drug-cartels-money-laundering-scheme-5906b8d4ce5d",
+  "estimated-creation-date": "2017-07-28T20:41:54",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2017-07-28T20:41:54"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170728204655/https://thesternfacts.com/trump-jr-now-tied-to-mexican-drug-cartels-money-laundering-scheme-5906b8d4ce5d",
+      "memento-datetime": "2017-07-28T20:46:55",
+      "memento-pubdate": "2017-07-28T20:41:54",
+      "earliest": "2017-07-28T20:41:54"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190213091043/https://thesternfacts.com/trump-jr-now-tied-to-mexican-drug-cartels-money-laundering-scheme-5906b8d4ce5d",
+      "memento-datetime": "2019-02-13T09:10:43",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T09:10:43"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T14:30:07"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

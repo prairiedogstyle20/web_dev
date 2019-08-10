@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/https://www.vanityfair.com/news/2019/02/trump-put-a-koch-official-in-charge-of-americas-drinking-water",
+  "uri": "https://www.vanityfair.com/news/2019/02/trump-put-a-koch-official-in-charge-of-americas-drinking-water",
+  "estimated-creation-date": "2019-02-05T11:59:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org",
+    "wayback.archive-it.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-05T11:59:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190205190512/https://www.vanityfair.com/news/2019/02/trump-put-a-koch-official-in-charge-of-americas-drinking-water",
+      "memento-datetime": "2019-02-05T19:05:12",
+      "memento-pubdate": "2019-02-05T11:59:00",
+      "earliest": "2019-02-05T11:59:00"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190206022237/https://www.vanityfair.com/news/2019/02/trump-put-a-koch-official-in-charge-of-americas-drinking-water",
+      "memento-datetime": "2019-02-06T02:22:37",
+      "memento-pubdate": "2019-02-06T02:22:37",
+      "earliest": "2019-02-06T02:22:37"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190210091837/https://www.vanityfair.com/news/2019/02/trump-put-a-koch-official-in-charge-of-americas-drinking-water",
+      "memento-datetime": "2019-02-10T09:18:37",
+      "memento-pubdate": "2019-02-05T11:59:00",
+      "earliest": "2019-02-05T11:59:00"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

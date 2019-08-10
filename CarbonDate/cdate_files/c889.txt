@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.jihadwatch.org/?p=164905",
+  "uri": "https://www.jihadwatch.org/?p=164905",
+  "estimated-creation-date": "2019-02-12T14:02:55",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T14:02:55"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

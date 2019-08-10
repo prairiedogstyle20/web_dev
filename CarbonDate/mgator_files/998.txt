@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html",
+  "self": "http://localhost:1208/timemap/json/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T00:08:05Z",
+        "uri": "http://web.archive.org/web/20190213000805/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-13T01:17:51Z",
+        "uri": "http://web.archive.org/web/20190213011751/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-13T11:09:05Z",
+        "uri": "http://web.archive.org/web/20190213110905/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-13T16:11:07Z",
+        "uri": "http://web.archive.org/web/20190213161107/http://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-13T19:57:21Z",
+        "uri": "http://archive.md/20190213195721/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T00:08:05Z",
+      "uri": "http://web.archive.org/web/20190213000805/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T19:57:21Z",
+      "uri": "http://archive.md/20190213195721/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.washingtonpost.com/opinions/how-trump-can-get-the-rest-of-his-wall-money--without-a-shutdown-or-emergency/2019/02/12/96a86c82-2ef4-11e9-813a-0ab2f17e305b_story.html"
+}

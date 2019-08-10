@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/",
+  "self": "http://localhost:1208/timemap/json/https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T08:20:08Z",
+        "uri": "http://web.archive.org/web/20190213082008/https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/"
+      },
+      {
+        "datetime": "2019-02-13T11:59:15Z",
+        "uri": "http://web.archive.org/web/20190213115915/https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T08:20:08Z",
+      "uri": "http://web.archive.org/web/20190213082008/https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/"
+    },
+    "last": {
+      "datetime": "2019-02-13T11:59:15Z",
+      "uri": "http://web.archive.org/web/20190213115915/https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/",
+    "json_format": "http://localhost:1208/timemap/json/https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://nypost.com/2019/02/12/cruz-el-chapo-should-pay-for-trumps-border-wall/"
+}

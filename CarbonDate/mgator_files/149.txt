@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://neonnettle.com/news/6503-chelsea-clinton-defends-anti-semitism-accuses-trump-of-white-nationalism-",
+  "self": "http://localhost:1208/timemap/json/https://neonnettle.com/news/6503-chelsea-clinton-defends-anti-semitism-accuses-trump-of-white-nationalism-",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T02:49:16Z",
+        "uri": "http://web.archive.org/web/20190214024916/https://neonnettle.com/news/6503-chelsea-clinton-defends-anti-semitism-accuses-trump-of-white-nationalism-"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T02:49:16Z",
+      "uri": "http://web.archive.org/web/20190214024916/https://neonnettle.com/news/6503-chelsea-clinton-defends-anti-semitism-accuses-trump-of-white-nationalism-"
+    },
+    "last": {
+      "datetime": "2019-02-14T02:49:16Z",
+      "uri": "http://web.archive.org/web/20190214024916/https://neonnettle.com/news/6503-chelsea-clinton-defends-anti-semitism-accuses-trump-of-white-nationalism-"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://neonnettle.com/news/6503-chelsea-clinton-defends-anti-semitism-accuses-trump-of-white-nationalism-",
+    "json_format": "http://localhost:1208/timemap/json/https://neonnettle.com/news/6503-chelsea-clinton-defends-anti-semitism-accuses-trump-of-white-nationalism-",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://neonnettle.com/news/6503-chelsea-clinton-defends-anti-semitism-accuses-trump-of-white-nationalism-"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://neonnettle.com/news/6503-chelsea-clinton-defends-anti-semitism-accuses-trump-of-white-nationalism-"
+}

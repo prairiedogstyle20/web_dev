@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://shareblue.com/trump-pretends-already-has-wall-cave-funding/",
+  "self": "http://localhost:1208/timemap/json/https://shareblue.com/trump-pretends-already-has-wall-cave-funding/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T14:29:00Z",
+        "uri": "http://web.archive.org/web/20190214142900/https://shareblue.com/trump-pretends-already-has-wall-cave-funding/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T14:29:00Z",
+      "uri": "http://web.archive.org/web/20190214142900/https://shareblue.com/trump-pretends-already-has-wall-cave-funding/"
+    },
+    "last": {
+      "datetime": "2019-02-14T14:29:00Z",
+      "uri": "http://web.archive.org/web/20190214142900/https://shareblue.com/trump-pretends-already-has-wall-cave-funding/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://shareblue.com/trump-pretends-already-has-wall-cave-funding/",
+    "json_format": "http://localhost:1208/timemap/json/https://shareblue.com/trump-pretends-already-has-wall-cave-funding/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://shareblue.com/trump-pretends-already-has-wall-cave-funding/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://shareblue.com/trump-pretends-already-has-wall-cave-funding/"
+}

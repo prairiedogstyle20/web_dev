@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://truepundit.com/sarah-silverman-erupts-at-trump-you-are-a-smelly-penis-hole/",
+  "uri": "https://truepundit.com/sarah-silverman-erupts-at-trump-you-are-a-smelly-penis-hole/",
+  "estimated-creation-date": "2019-02-13T14:12:50",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:12:50"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214075246/https://truepundit.com/sarah-silverman-erupts-at-trump-you-are-a-smelly-penis-hole/",
+      "memento-datetime": "2019-02-14T07:52:46",
+      "memento-pubdate": "2019-02-13T14:12:50",
+      "earliest": "2019-02-13T14:12:50"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T18:50:04"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

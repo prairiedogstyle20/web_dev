@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.usatoday.com/story/news/politics/2019/02/13/white-house-golf-simulator/2859107002/",
+  "self": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/news/politics/2019/02/13/white-house-golf-simulator/2859107002/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T01:26:02Z",
+        "uri": "http://web.archive.org/web/20190214012602/https://www.usatoday.com/story/news/politics/2019/02/13/white-house-golf-simulator/2859107002/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T01:26:02Z",
+      "uri": "http://web.archive.org/web/20190214012602/https://www.usatoday.com/story/news/politics/2019/02/13/white-house-golf-simulator/2859107002/"
+    },
+    "last": {
+      "datetime": "2019-02-14T01:26:02Z",
+      "uri": "http://web.archive.org/web/20190214012602/https://www.usatoday.com/story/news/politics/2019/02/13/white-house-golf-simulator/2859107002/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.usatoday.com/story/news/politics/2019/02/13/white-house-golf-simulator/2859107002/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/news/politics/2019/02/13/white-house-golf-simulator/2859107002/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.usatoday.com/story/news/politics/2019/02/13/white-house-golf-simulator/2859107002/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.usatoday.com/story/news/politics/2019/02/13/white-house-golf-simulator/2859107002/"
+}

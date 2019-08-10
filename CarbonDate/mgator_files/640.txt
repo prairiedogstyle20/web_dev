@@ -1,0 +1,99 @@
+19
+{
+  "original_uri": "https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-08-24T18:35:44Z",
+        "uri": "http://web.archive.org/web/20180824183544/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-08-24T20:06:57Z",
+        "uri": "http://archive.md/20180824200657/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-08-24T20:41:52Z",
+        "uri": "http://web.archive.org/web/20180824204152/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-08-25T01:23:02Z",
+        "uri": "http://wayback.archive-it.org/all/20180825012302/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-08-25T01:23:02Z",
+        "uri": "http://web.archive.org/web/20180825012302/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-08-25T04:15:57Z",
+        "uri": "http://web.archive.org/web/20180825041557/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-08-25T12:16:06Z",
+        "uri": "http://web.archive.org/web/20180825121606/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-08-25T22:50:41Z",
+        "uri": "http://web.archive.org/web/20180825225041/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-08-27T01:22:31Z",
+        "uri": "http://wayback.archive-it.org/all/20180827012231/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-08-27T01:22:31Z",
+        "uri": "http://web.archive.org/web/20180827012231/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-08-27T09:49:29Z",
+        "uri": "http://web.archive.org/web/20180827094929/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-08-28T11:08:23Z",
+        "uri": "http://web.archive.org/web/20180828110823/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-08-30T23:34:09Z",
+        "uri": "http://web.archive.org/web/20180830233409/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-10-29T20:35:15Z",
+        "uri": "http://web.archive.org/web/20181029203515/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-11-03T11:08:12Z",
+        "uri": "http://web.archive.org/web/20181103110812/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-11-05T16:04:17Z",
+        "uri": "http://web.archive.org/web/20181105160417/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2018-11-07T09:03:03Z",
+        "uri": "http://web.archive.org/web/20181107090303/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2019-01-02T13:37:33Z",
+        "uri": "http://web.archive.org/web/20190102133733/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      },
+      {
+        "datetime": "2019-01-02T13:51:22Z",
+        "uri": "http://web.archive.org/web/20190102135122/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-08-24T18:35:44Z",
+      "uri": "http://web.archive.org/web/20180824183544/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+    },
+    "last": {
+      "datetime": "2019-01-02T13:51:22Z",
+      "uri": "http://web.archive.org/web/20190102135122/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html"
+}

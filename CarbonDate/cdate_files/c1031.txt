@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cbsnews.com/news/report-fbi-says-no-direct-ties-between-russia-donald-trumps-campaign/",
+  "uri": "https://www.cbsnews.com/news/report-fbi-says-no-direct-ties-between-russia-donald-trumps-campaign/",
+  "estimated-creation-date": "2016-11-01T12:18:13",
+  "earliest-sources": [
+    "archive.md"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20161101121813/http://www.cbsnews.com/news/report-fbi-says-no-direct-ties-between-russia-donald-trumps-campaign/",
+      "memento-datetime": "2016-11-01T12:18:13",
+      "memento-pubdate": "2016-11-01T12:18:13",
+      "earliest": "2016-11-01T12:18:13"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20161102161247/http://www.cbsnews.com/news/report-fbi-says-no-direct-ties-between-russia-donald-trumps-campaign/",
+      "memento-datetime": "2016-11-02T16:12:47",
+      "memento-pubdate": "",
+      "earliest": "2016-11-02T16:12:47"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20161212235525/http://www.cbsnews.com/news/report-fbi-says-no-direct-ties-between-russia-donald-trumps-campaign/",
+      "memento-datetime": "2016-12-12T23:55:25",
+      "memento-pubdate": "",
+      "earliest": "2016-12-12T23:55:25"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T21:32:13"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/",
+  "self": "http://localhost:1208/timemap/json/https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T23:57:21Z",
+        "uri": "http://web.archive.org/web/20190212235721/https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/"
+      },
+      {
+        "datetime": "2019-02-13T13:20:41Z",
+        "uri": "http://web.archive.org/web/20190213132041/https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T23:57:21Z",
+      "uri": "http://web.archive.org/web/20190212235721/https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:20:41Z",
+      "uri": "http://web.archive.org/web/20190213132041/https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/",
+    "json_format": "http://localhost:1208/timemap/json/https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/"
+}

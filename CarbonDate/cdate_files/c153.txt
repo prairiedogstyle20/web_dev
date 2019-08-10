@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.newsweek.com/trump-speaks-confidence-analytical-thinking-past-presidents-study-finds-1326566?utm_campaign=NewsweekTwitter&utm_medium=Social&utm_source=Twitter",
+  "uri": "https://www.newsweek.com/trump-speaks-confidence-analytical-thinking-past-presidents-study-finds-1326566?utm_campaign=NewsweekTwitter&utm_medium=Social&utm_source=Twitter",
+  "estimated-creation-date": "2019-02-11T15:00:02",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-11T15:00:02"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T11:32:23"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.lifenews.com/2019/02/12/planned-parenthood-ceo-more-upset-at-how-trump-condemned-infanticide-than-infanticide-itself/",
+  "uri": "https://www.lifenews.com/2019/02/12/planned-parenthood-ceo-more-upset-at-how-trump-condemned-infanticide-than-infanticide-itself/",
+  "estimated-creation-date": "2019-02-12T18:19:02",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T18:19:02"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213050412/https://www.lifenews.com/2019/02/12/planned-parenthood-ceo-more-upset-at-how-trump-condemned-infanticide-than-infanticide-itself/",
+      "memento-datetime": "2019-02-13T05:04:12",
+      "memento-pubdate": "2019-02-12T18:19:02",
+      "earliest": "2019-02-12T18:19:02"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

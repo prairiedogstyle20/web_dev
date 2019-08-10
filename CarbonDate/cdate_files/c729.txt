@@ -1,0 +1,61 @@
+{
+  "self": "http://localhost:8888/cd/https://www.amazon.in/",
+  "uri": "https://www.amazon.in/",
+  "estimated-creation-date": "2012-02-22T03:08:39",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-11T13:30:56"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20120222030839/http://amazon.in/",
+      "memento-datetime": "2012-02-22T03:08:39",
+      "memento-pubdate": "",
+      "earliest": "2012-02-22T03:08:39"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20130604201818/http://www.amazon.in/",
+      "memento-datetime": "2013-06-04T20:18:18",
+      "memento-pubdate": "2013-06-04T20:18:18",
+      "earliest": "2013-06-04T20:18:18"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20140126075853/http://www.amazon.in/",
+      "memento-datetime": "2014-01-26T07:58:53",
+      "memento-pubdate": "",
+      "earliest": "2014-01-26T07:58:53"
+    },
+    "wayback.vefsafn.is": {
+      "uri-m": "http://wayback.vefsafn.is/wayback/20140719023713/http://amazon.in/",
+      "memento-datetime": "2014-07-19T02:37:13",
+      "memento-pubdate": "",
+      "earliest": "2014-07-19T02:37:13"
+    },
+    "arquivo.pt": {
+      "uri-m": "https://arquivo.pt/wayback/20150816200123/http://www.amazon.in/",
+      "memento-datetime": "2015-08-16T20:01:23",
+      "memento-pubdate": "2023-01-20T23:59:59",
+      "earliest": "2015-08-16T20:01:23"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T14:15:08"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

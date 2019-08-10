@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197",
+  "uri": "https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197",
+  "estimated-creation-date": "2019-02-13T18:37:28",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213221408/https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197",
+      "memento-datetime": "2019-02-13T22:14:08",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T22:14:08"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T18:37:28"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

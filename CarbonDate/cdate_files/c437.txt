@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.britenews.com/2019/02/trump-trolls-msnbc-over-senate-committee-finding-no-evidence-of-collusion/?utm_source=dlvr.it&utm_medium=facebook",
+  "uri": "https://www.britenews.com/2019/02/trump-trolls-msnbc-over-senate-committee-finding-no-evidence-of-collusion/?utm_source=dlvr.it&utm_medium=facebook",
+  "estimated-creation-date": "2019-02-13T02:21:32",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T02:21:32"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

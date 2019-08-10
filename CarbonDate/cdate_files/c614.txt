@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.alternet.org/2019/02/trump-official-lashes-out-as-rep-omar-asks-him-if-hed-back-genocide-in-venezuela-like-you-did-in-guatemala/",
+  "uri": "https://www.alternet.org/2019/02/trump-official-lashes-out-as-rep-omar-asks-him-if-hed-back-genocide-in-venezuela-like-you-did-in-guatemala/",
+  "estimated-creation-date": "2019-02-13T19:34:02",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:34:02"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:38:04"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

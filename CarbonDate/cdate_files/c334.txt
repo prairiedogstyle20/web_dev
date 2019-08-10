@@ -1,0 +1,58 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html",
+  "uri": "https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html",
+  "estimated-creation-date": "2017-12-14T12:29:56",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org",
+    "arquivo.pt",
+    "wayback.archive-it.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:02:58"
+    },
+    "pubdate": {
+      "earliest": "2017-12-14T12:29:56"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20171214151856/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html",
+      "memento-datetime": "2017-12-14T15:18:56",
+      "memento-pubdate": "2017-12-14T12:29:56",
+      "earliest": "2017-12-14T12:29:56"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20171214171036/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html",
+      "memento-datetime": "2017-12-14T17:10:36",
+      "memento-pubdate": "2017-12-14T17:10:36",
+      "earliest": "2017-12-14T17:10:36"
+    },
+    "arquivo.pt": {
+      "uri-m": "https://arquivo.pt/wayback/20171214212104/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html",
+      "memento-datetime": "2017-12-14T21:21:04",
+      "memento-pubdate": "2017-12-14T12:29:56",
+      "earliest": "2017-12-14T12:29:56"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20171215080657/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html",
+      "memento-datetime": "2017-12-15T08:06:57",
+      "memento-pubdate": "2017-12-14T12:29:56",
+      "earliest": "2017-12-14T12:29:56"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T02:14:14"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://cnnespanol.cnn.com/video/trump-recibe-a-duque-en-la-casa-blanca-venezuela-tropas-error-bloqueo-ayuda-humanitaria-maduro-brk/",
+  "self": "http://localhost:1208/timemap/json/https://cnnespanol.cnn.com/video/trump-recibe-a-duque-en-la-casa-blanca-venezuela-tropas-error-bloqueo-ayuda-humanitaria-maduro-brk/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T01:50:28Z",
+        "uri": "http://web.archive.org/web/20190214015028/https://cnnespanol.cnn.com/video/trump-recibe-a-duque-en-la-casa-blanca-venezuela-tropas-error-bloqueo-ayuda-humanitaria-maduro-brk/"
+      },
+      {
+        "datetime": "2019-02-14T01:50:35Z",
+        "uri": "http://web.archive.org/web/20190214015035/http://cnnespanol.cnn.com/video/trump-recibe-a-duque-en-la-casa-blanca-venezuela-tropas-error-bloqueo-ayuda-humanitaria-maduro-brk/"
+      },
+      {
+        "datetime": "2019-02-14T10:59:21Z",
+        "uri": "http://web.archive.org/web/20190214105921/https://cnnespanol.cnn.com/video/trump-recibe-a-duque-en-la-casa-blanca-venezuela-tropas-error-bloqueo-ayuda-humanitaria-maduro-brk/"
+      },
+      {
+        "datetime": "2019-02-14T11:10:55Z",
+        "uri": "http://web.archive.org/web/20190214111055/http://cnnespanol.cnn.com/video/trump-recibe-a-duque-en-la-casa-blanca-venezuela-tropas-error-bloqueo-ayuda-humanitaria-maduro-brk/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T01:50:28Z",
+      "uri": "http://web.archive.org/web/20190214015028/https://cnnespanol.cnn.com/video/trump-recibe-a-duque-en-la-casa-blanca-venezuela-tropas-error-bloqueo-ayuda-humanitaria-maduro-brk/"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:10:55Z",
+      "uri": "http://web.archive.org/web/20190214111055/http://cnnespanol.cnn.com/video/trump-recibe-a-duque-en-la-casa-blanca-venezuela-tropas-error-bloqueo-ayuda-humanitaria-maduro-brk/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://cnnespanol.cnn.com/video/trump-recibe-a-duque-en-la-casa-blanca-venezuela-tropas-error-bloqueo-ayuda-humanitaria-maduro-brk/",
+    "json_format": "http://localhost:1208/timemap/json/https://cnnespanol.cnn.com/video/trump-recibe-a-duque-en-la-casa-blanca-venezuela-tropas-error-bloqueo-ayuda-humanitaria-maduro-brk/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://cnnespanol.cnn.com/video/trump-recibe-a-duque-en-la-casa-blanca-venezuela-tropas-error-bloqueo-ayuda-humanitaria-maduro-brk/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://cnnespanol.cnn.com/video/trump-recibe-a-duque-en-la-casa-blanca-venezuela-tropas-error-bloqueo-ayuda-humanitaria-maduro-brk/"
+}

@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.chicagotribune.com/news/opinion/chapman/ct-perspec-chapman-trump-address-wall-illegal-immigration-20190109-story.html",
+  "uri": "https://www.chicagotribune.com/news/opinion/chapman/ct-perspec-chapman-trump-address-wall-illegal-immigration-20190109-story.html",
+  "estimated-creation-date": "2019-01-09T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-01-09T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190110010509/http://www.chicagotribune.com/news/opinion/chapman/ct-perspec-chapman-trump-address-wall-illegal-immigration-20190109-story.html",
+      "memento-datetime": "2019-01-10T01:05:09",
+      "memento-pubdate": "2019-01-09T23:59:59",
+      "earliest": "2019-01-09T23:59:59"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190119145433/https://www.chicagotribune.com/news/opinion/chapman/ct-perspec-chapman-trump-address-wall-illegal-immigration-20190109-story.html",
+      "memento-datetime": "2019-01-19T14:54:33",
+      "memento-pubdate": "2019-01-09T23:59:59",
+      "earliest": "2019-01-09T23:59:59"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T02:47:39"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

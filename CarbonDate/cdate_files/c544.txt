@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/http://time.com/4722209/judge-president-trump-rally-violence/",
+  "uri": "http://time.com/4722209/judge-president-trump-rally-violence/",
+  "estimated-creation-date": "2017-04-02T16:30:22",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170402163022/http://time.com/4722209/judge-president-trump-rally-violence/",
+      "memento-datetime": "2017-04-02T16:30:22",
+      "memento-pubdate": "",
+      "earliest": "2017-04-02T16:30:22"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20170402193439/http://time.com/4722209/judge-president-trump-rally-violence/",
+      "memento-datetime": "2017-04-02T19:34:39",
+      "memento-pubdate": "",
+      "earliest": "2017-04-02T19:34:39"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-11T16:39:43"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

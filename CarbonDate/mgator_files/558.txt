@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://lawandcrime.com/high-profile/trump-puts-notorious-regime-change-advocate-so-called-abettor-of-genocide-in-charge-of-venezuela/",
+  "self": "http://localhost:1208/timemap/json/https://lawandcrime.com/high-profile/trump-puts-notorious-regime-change-advocate-so-called-abettor-of-genocide-in-charge-of-venezuela/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-01-29T07:14:53Z",
+        "uri": "http://web.archive.org/web/20190129071453/https://lawandcrime.com/high-profile/trump-puts-notorious-regime-change-advocate-so-called-abettor-of-genocide-in-charge-of-venezuela/"
+      },
+      {
+        "datetime": "2019-02-03T21:53:29Z",
+        "uri": "http://web.archive.org/web/20190203215329/https://lawandcrime.com/high-profile/trump-puts-notorious-regime-change-advocate-so-called-abettor-of-genocide-in-charge-of-venezuela/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-01-29T07:14:53Z",
+      "uri": "http://web.archive.org/web/20190129071453/https://lawandcrime.com/high-profile/trump-puts-notorious-regime-change-advocate-so-called-abettor-of-genocide-in-charge-of-venezuela/"
+    },
+    "last": {
+      "datetime": "2019-02-03T21:53:29Z",
+      "uri": "http://web.archive.org/web/20190203215329/https://lawandcrime.com/high-profile/trump-puts-notorious-regime-change-advocate-so-called-abettor-of-genocide-in-charge-of-venezuela/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://lawandcrime.com/high-profile/trump-puts-notorious-regime-change-advocate-so-called-abettor-of-genocide-in-charge-of-venezuela/",
+    "json_format": "http://localhost:1208/timemap/json/https://lawandcrime.com/high-profile/trump-puts-notorious-regime-change-advocate-so-called-abettor-of-genocide-in-charge-of-venezuela/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://lawandcrime.com/high-profile/trump-puts-notorious-regime-change-advocate-so-called-abettor-of-genocide-in-charge-of-venezuela/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://lawandcrime.com/high-profile/trump-puts-notorious-regime-change-advocate-so-called-abettor-of-genocide-in-charge-of-venezuela/"
+}

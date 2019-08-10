@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.algemeiner.com/2019/02/12/president-trump-calls-on-congresswoman-omar-to-resign-over-terrible-aipac-tweets//",
+  "self": "http://localhost:1208/timemap/json/https://www.algemeiner.com/2019/02/12/president-trump-calls-on-congresswoman-omar-to-resign-over-terrible-aipac-tweets//",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T23:58:09Z",
+        "uri": "http://web.archive.org/web/20190212235809/https://www.algemeiner.com/2019/02/12/president-trump-calls-on-congresswoman-omar-to-resign-over-terrible-aipac-tweets/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T23:58:09Z",
+      "uri": "http://web.archive.org/web/20190212235809/https://www.algemeiner.com/2019/02/12/president-trump-calls-on-congresswoman-omar-to-resign-over-terrible-aipac-tweets/"
+    },
+    "last": {
+      "datetime": "2019-02-12T23:58:09Z",
+      "uri": "http://web.archive.org/web/20190212235809/https://www.algemeiner.com/2019/02/12/president-trump-calls-on-congresswoman-omar-to-resign-over-terrible-aipac-tweets/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.algemeiner.com/2019/02/12/president-trump-calls-on-congresswoman-omar-to-resign-over-terrible-aipac-tweets//",
+    "json_format": "http://localhost:1208/timemap/json/https://www.algemeiner.com/2019/02/12/president-trump-calls-on-congresswoman-omar-to-resign-over-terrible-aipac-tweets//",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.algemeiner.com/2019/02/12/president-trump-calls-on-congresswoman-omar-to-resign-over-terrible-aipac-tweets//"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.algemeiner.com/2019/02/12/president-trump-calls-on-congresswoman-omar-to-resign-over-terrible-aipac-tweets//"
+}

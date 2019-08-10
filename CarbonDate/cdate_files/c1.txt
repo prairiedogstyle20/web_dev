@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.pscp.tv/NoticiasRCN/1eaJbOOyVDaxX?t=38s",
+  "uri": "https://www.pscp.tv/NoticiasRCN/1eaJbOOyVDaxX?t=38s",
+  "estimated-creation-date": "2019-02-13T19:17:24",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:17:24"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

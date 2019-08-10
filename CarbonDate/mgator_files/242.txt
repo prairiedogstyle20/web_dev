@@ -1,0 +1,95 @@
+18
+{
+  "original_uri": "https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html",
+  "self": "http://localhost:1208/timemap/json/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T16:47:17Z",
+        "uri": "http://archive.md/20190213164717/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-13T16:47:42Z",
+        "uri": "http://web.archive.org/web/20190213164742/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-13T17:05:57Z",
+        "uri": "http://web.archive.org/web/20190213170557/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-13T17:39:40Z",
+        "uri": "http://web.archive.org/web/20190213173940/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-13T17:53:37Z",
+        "uri": "http://web.archive.org/web/20190213175337/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-13T18:05:07Z",
+        "uri": "http://web.archive.org/web/20190213180507/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-13T19:58:43Z",
+        "uri": "http://web.archive.org/web/20190213195843/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-13T22:02:50Z",
+        "uri": "http://web.archive.org/web/20190213220250/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-14T00:01:40Z",
+        "uri": "http://web.archive.org/web/20190214000140/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-14T01:28:11Z",
+        "uri": "http://web.archive.org/web/20190214012811/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-14T01:42:53Z",
+        "uri": "http://web.archive.org/web/20190214014253/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-14T01:47:12Z",
+        "uri": "http://web.archive.org/web/20190214014712/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-14T02:14:24Z",
+        "uri": "http://web.archive.org/web/20190214021424/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-14T02:34:40Z",
+        "uri": "http://web.archive.org/web/20190214023440/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-14T02:49:54Z",
+        "uri": "http://web.archive.org/web/20190214024954/http://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-14T05:27:36Z",
+        "uri": "http://web.archive.org/web/20190214052736/http://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-14T05:27:38Z",
+        "uri": "http://web.archive.org/web/20190214052738/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      },
+      {
+        "datetime": "2019-02-14T10:53:58Z",
+        "uri": "http://web.archive.org/web/20190214105358/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T16:47:17Z",
+      "uri": "http://archive.md/20190213164717/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T10:53:58Z",
+      "uri": "http://web.archive.org/web/20190214105358/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.washingtonpost.com/politics/president-trump-installed-a-room-sized-golf-simulator-at-white-house/2019/02/13/ed3f6d5c-2e45-11e9-813a-0ab2f17e305b_story.html"
+}

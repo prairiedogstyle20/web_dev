@@ -1,0 +1,59 @@
+9
+{
+  "original_uri": "https://www.youtube.com/watch?v=VyBY9P5Vb7s",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=VyBY9P5Vb7s",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T07:25:12Z",
+        "uri": "http://web.archive.org/web/20190213072512/https://www.youtube.com/watch?v=VyBY9P5Vb7s"
+      },
+      {
+        "datetime": "2019-02-13T09:07:47Z",
+        "uri": "http://web.archive.org/web/20190213090747/http://www.youtube.com/watch?v=VyBY9P5Vb7s"
+      },
+      {
+        "datetime": "2019-02-13T11:35:31Z",
+        "uri": "http://web.archive.org/web/20190213113531/https://www.youtube.com/watch?v=VyBY9P5Vb7s"
+      },
+      {
+        "datetime": "2019-02-13T11:35:35Z",
+        "uri": "http://web.archive.org/web/20190213113535/https://www.youtube.com/watch?v=VyBY9P5Vb7s&feature=applinks"
+      },
+      {
+        "datetime": "2019-02-13T11:35:44Z",
+        "uri": "http://web.archive.org/web/20190213113544/https://www.youtube.com/watch?v=VyBY9P5Vb7s&app=desktop"
+      },
+      {
+        "datetime": "2019-02-14T09:13:33Z",
+        "uri": "http://web.archive.org/web/20190214091333/http://www.youtube.com/watch?v=VyBY9P5Vb7s"
+      },
+      {
+        "datetime": "2019-02-14T11:39:18Z",
+        "uri": "http://web.archive.org/web/20190214113918/https://www.youtube.com/watch?v=VyBY9P5Vb7s"
+      },
+      {
+        "datetime": "2019-02-14T11:39:22Z",
+        "uri": "http://web.archive.org/web/20190214113922/https://www.youtube.com/watch?v=VyBY9P5Vb7s&feature=applinks"
+      },
+      {
+        "datetime": "2019-02-14T11:39:37Z",
+        "uri": "http://web.archive.org/web/20190214113937/https://www.youtube.com/watch?v=VyBY9P5Vb7s&app=desktop"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T07:25:12Z",
+      "uri": "http://web.archive.org/web/20190213072512/https://www.youtube.com/watch?v=VyBY9P5Vb7s"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:39:37Z",
+      "uri": "http://web.archive.org/web/20190214113937/https://www.youtube.com/watch?v=VyBY9P5Vb7s&app=desktop"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/watch?v=VyBY9P5Vb7s",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=VyBY9P5Vb7s",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/watch?v=VyBY9P5Vb7s"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/watch?v=VyBY9P5Vb7s"
+}

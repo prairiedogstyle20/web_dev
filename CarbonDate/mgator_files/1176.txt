@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.youtube.com/watch?v=JmaZR8E12bs&feature=youtu.be",
+  "self": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=JmaZR8E12bs&feature=youtu.be",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-11-19T13:52:24Z",
+        "uri": "http://web.archive.org/web/20171119135224/https://www.youtube.com/watch?v=JmaZR8E12bs&feature=youtu.be"
+      }
+    ],
+    "first": {
+      "datetime": "2017-11-19T13:52:24Z",
+      "uri": "http://web.archive.org/web/20171119135224/https://www.youtube.com/watch?v=JmaZR8E12bs&feature=youtu.be"
+    },
+    "last": {
+      "datetime": "2017-11-19T13:52:24Z",
+      "uri": "http://web.archive.org/web/20171119135224/https://www.youtube.com/watch?v=JmaZR8E12bs&feature=youtu.be"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.youtube.com/watch?v=JmaZR8E12bs&feature=youtu.be",
+    "json_format": "http://localhost:1208/timemap/json/https://www.youtube.com/watch?v=JmaZR8E12bs&feature=youtu.be",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.youtube.com/watch?v=JmaZR8E12bs&feature=youtu.be"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.youtube.com/watch?v=JmaZR8E12bs&feature=youtu.be"
+}

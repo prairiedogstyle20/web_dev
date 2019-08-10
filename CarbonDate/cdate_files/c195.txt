@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.reddit.com/r/The_Donald/comments/aq0gea/most_americans_now_in_agreement_that_the_media_is/?st=JS2TP70Q&sh=aed8de5b",
+  "uri": "https://www.reddit.com/r/The_Donald/comments/aq0gea/most_americans_now_in_agreement_that_the_media_is/?st=JS2TP70Q&sh=aed8de5b",
+  "estimated-creation-date": "2019-02-13T06:37:29",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T06:37:29"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

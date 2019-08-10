@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://ekonomi.haber7.com/ekonomi/haber/2826641-abd-ambargonun-meyvelerini-topluyor-trump-cebini-dolduruyor",
+  "self": "http://localhost:1208/timemap/json/http://ekonomi.haber7.com/ekonomi/haber/2826641-abd-ambargonun-meyvelerini-topluyor-trump-cebini-dolduruyor",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T10:00:07Z",
+        "uri": "http://web.archive.org/web/20190213100007/http://ekonomi.haber7.com/ekonomi/haber/2826641-abd-ambargonun-meyvelerini-topluyor-trump-cebini-dolduruyor"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T10:00:07Z",
+      "uri": "http://web.archive.org/web/20190213100007/http://ekonomi.haber7.com/ekonomi/haber/2826641-abd-ambargonun-meyvelerini-topluyor-trump-cebini-dolduruyor"
+    },
+    "last": {
+      "datetime": "2019-02-13T10:00:07Z",
+      "uri": "http://web.archive.org/web/20190213100007/http://ekonomi.haber7.com/ekonomi/haber/2826641-abd-ambargonun-meyvelerini-topluyor-trump-cebini-dolduruyor"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://ekonomi.haber7.com/ekonomi/haber/2826641-abd-ambargonun-meyvelerini-topluyor-trump-cebini-dolduruyor",
+    "json_format": "http://localhost:1208/timemap/json/http://ekonomi.haber7.com/ekonomi/haber/2826641-abd-ambargonun-meyvelerini-topluyor-trump-cebini-dolduruyor",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://ekonomi.haber7.com/ekonomi/haber/2826641-abd-ambargonun-meyvelerini-topluyor-trump-cebini-dolduruyor"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://ekonomi.haber7.com/ekonomi/haber/2826641-abd-ambargonun-meyvelerini-topluyor-trump-cebini-dolduruyor"
+}

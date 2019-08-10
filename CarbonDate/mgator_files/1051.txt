@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.tagesspiegel.de/politik/juergen-trittin-zu-nord-stream-2-trump-will-russland-oekonomisch-totruesten/23966350.html",
+  "self": "http://localhost:1208/timemap/json/https://www.tagesspiegel.de/politik/juergen-trittin-zu-nord-stream-2-trump-will-russland-oekonomisch-totruesten/23966350.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-08T23:30:12Z",
+        "uri": "http://web.archive.org/web/20190208233012/https://www.tagesspiegel.de/politik/juergen-trittin-zu-nord-stream-2-trump-will-russland-oekonomisch-totruesten/23966350.html"
+      },
+      {
+        "datetime": "2019-02-13T04:29:15Z",
+        "uri": "http://web.archive.org/web/20190213042915/https://www.tagesspiegel.de/politik/juergen-trittin-zu-nord-stream-2-trump-will-russland-oekonomisch-totruesten/23966350.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-08T23:30:12Z",
+      "uri": "http://web.archive.org/web/20190208233012/https://www.tagesspiegel.de/politik/juergen-trittin-zu-nord-stream-2-trump-will-russland-oekonomisch-totruesten/23966350.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T04:29:15Z",
+      "uri": "http://web.archive.org/web/20190213042915/https://www.tagesspiegel.de/politik/juergen-trittin-zu-nord-stream-2-trump-will-russland-oekonomisch-totruesten/23966350.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.tagesspiegel.de/politik/juergen-trittin-zu-nord-stream-2-trump-will-russland-oekonomisch-totruesten/23966350.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.tagesspiegel.de/politik/juergen-trittin-zu-nord-stream-2-trump-will-russland-oekonomisch-totruesten/23966350.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tagesspiegel.de/politik/juergen-trittin-zu-nord-stream-2-trump-will-russland-oekonomisch-totruesten/23966350.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.tagesspiegel.de/politik/juergen-trittin-zu-nord-stream-2-trump-will-russland-oekonomisch-totruesten/23966350.html"
+}

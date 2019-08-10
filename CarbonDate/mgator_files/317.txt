@@ -1,0 +1,67 @@
+11
+{
+  "original_uri": "https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense",
+  "self": "http://localhost:1208/timemap/json/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T05:30:04Z",
+        "uri": "http://web.archive.org/web/20190213053004/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+      },
+      {
+        "datetime": "2019-02-13T05:48:24Z",
+        "uri": "http://web.archive.org/web/20190213054824/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+      },
+      {
+        "datetime": "2019-02-13T06:31:16Z",
+        "uri": "http://web.archive.org/web/20190213063116/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+      },
+      {
+        "datetime": "2019-02-13T07:20:57Z",
+        "uri": "http://web.archive.org/web/20190213072057/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+      },
+      {
+        "datetime": "2019-02-13T07:48:27Z",
+        "uri": "http://web.archive.org/web/20190213074827/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+      },
+      {
+        "datetime": "2019-02-13T08:25:25Z",
+        "uri": "http://web.archive.org/web/20190213082525/http://foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+      },
+      {
+        "datetime": "2019-02-13T08:41:37Z",
+        "uri": "http://web.archive.org/web/20190213084137/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+      },
+      {
+        "datetime": "2019-02-13T14:47:37Z",
+        "uri": "http://web.archive.org/web/20190213144737/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+      },
+      {
+        "datetime": "2019-02-13T14:47:38Z",
+        "uri": "http://web.archive.org/web/20190213144738/http://foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+      },
+      {
+        "datetime": "2019-02-14T08:32:01Z",
+        "uri": "http://web.archive.org/web/20190214083201/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+      },
+      {
+        "datetime": "2019-02-14T08:33:03Z",
+        "uri": "http://web.archive.org/web/20190214083303/http://foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T05:30:04Z",
+      "uri": "http://web.archive.org/web/20190213053004/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+    },
+    "last": {
+      "datetime": "2019-02-14T08:33:03Z",
+      "uri": "http://web.archive.org/web/20190214083303/http://foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense",
+    "json_format": "http://localhost:1208/timemap/json/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.foxnews.com/politics/chelsea-clinton-says-trump-never-said-sorry-for-white-nationalism-embrace-in-omar-defense"
+}

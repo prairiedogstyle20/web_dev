@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.publimetro.co/co/noticias/2019/02/13/ya-veremos-dijo-trump-delante-duque-las-5000-tropas-enviarian-colombia.html",
+  "self": "http://localhost:1208/timemap/json/https://www.publimetro.co/co/noticias/2019/02/13/ya-veremos-dijo-trump-delante-duque-las-5000-tropas-enviarian-colombia.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T22:03:11Z",
+        "uri": "http://web.archive.org/web/20190213220311/https://www.publimetro.co/co/noticias/2019/02/13/ya-veremos-dijo-trump-delante-duque-las-5000-tropas-enviarian-colombia.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T22:03:11Z",
+      "uri": "http://web.archive.org/web/20190213220311/https://www.publimetro.co/co/noticias/2019/02/13/ya-veremos-dijo-trump-delante-duque-las-5000-tropas-enviarian-colombia.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T22:03:11Z",
+      "uri": "http://web.archive.org/web/20190213220311/https://www.publimetro.co/co/noticias/2019/02/13/ya-veremos-dijo-trump-delante-duque-las-5000-tropas-enviarian-colombia.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.publimetro.co/co/noticias/2019/02/13/ya-veremos-dijo-trump-delante-duque-las-5000-tropas-enviarian-colombia.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.publimetro.co/co/noticias/2019/02/13/ya-veremos-dijo-trump-delante-duque-las-5000-tropas-enviarian-colombia.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.publimetro.co/co/noticias/2019/02/13/ya-veremos-dijo-trump-delante-duque-las-5000-tropas-enviarian-colombia.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.publimetro.co/co/noticias/2019/02/13/ya-veremos-dijo-trump-delante-duque-las-5000-tropas-enviarian-colombia.html"
+}

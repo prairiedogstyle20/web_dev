@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cnn.com/videos/politics/2019/02/11/jake-tapper-trump-lying-to-you-border-wall-el-paso-sot-lead-vpx.cnn",
+  "uri": "https://www.cnn.com/videos/politics/2019/02/11/jake-tapper-trump-lying-to-you-border-wall-el-paso-sot-lead-vpx.cnn",
+  "estimated-creation-date": "2019-02-11T21:38:21",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-11T21:38:21"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190211221538/https://www.cnn.com/videos/politics/2019/02/11/jake-tapper-trump-lying-to-you-border-wall-el-paso-sot-lead-vpx.cnn",
+      "memento-datetime": "2019-02-11T22:15:38",
+      "memento-pubdate": "2019-02-11T21:38:21",
+      "earliest": "2019-02-11T21:38:21"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-11T23:20:50"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

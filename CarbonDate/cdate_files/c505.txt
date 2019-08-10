@@ -1,0 +1,45 @@
+{
+  "self": "http://localhost:8888/cd/https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr",
+  "uri": "https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr",
+  "estimated-creation-date": "2019-02-04T11:59:57",
+  "earliest-sources": [
+    "pubdate",
+    "wayback.archive-it.org",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:47:41"
+    },
+    "pubdate": {
+      "earliest": "2019-02-04T11:59:57"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190205212134/https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr",
+      "memento-datetime": "2019-02-05T21:19:34",
+      "memento-pubdate": "2019-02-04T11:59:57",
+      "earliest": "2019-02-04T11:59:57"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190205212134/https://www.foreignaffairs.com/articles/chechnya/2019-02-04/send-chechens-guns-and-money?cid=soc-tw-rdr",
+      "memento-datetime": "2019-02-05T21:19:34",
+      "memento-pubdate": "2019-02-04T11:59:57",
+      "earliest": "2019-02-04T11:59:57"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T20:15:37"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.huffpost.com/entry/ilhan-omar-hits-back-at-trump_n_5c642322e4b03de94297bcab",
+  "self": "http://localhost:1208/timemap/json/https://www.huffpost.com/entry/ilhan-omar-hits-back-at-trump_n_5c642322e4b03de94297bcab",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T21:47:24Z",
+        "uri": "http://web.archive.org/web/20190213214724/https://www.huffpost.com/entry/ilhan-omar-hits-back-at-trump_n_5c642322e4b03de94297bcab"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T21:47:24Z",
+      "uri": "http://web.archive.org/web/20190213214724/https://www.huffpost.com/entry/ilhan-omar-hits-back-at-trump_n_5c642322e4b03de94297bcab"
+    },
+    "last": {
+      "datetime": "2019-02-13T21:47:24Z",
+      "uri": "http://web.archive.org/web/20190213214724/https://www.huffpost.com/entry/ilhan-omar-hits-back-at-trump_n_5c642322e4b03de94297bcab"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.huffpost.com/entry/ilhan-omar-hits-back-at-trump_n_5c642322e4b03de94297bcab",
+    "json_format": "http://localhost:1208/timemap/json/https://www.huffpost.com/entry/ilhan-omar-hits-back-at-trump_n_5c642322e4b03de94297bcab",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.huffpost.com/entry/ilhan-omar-hits-back-at-trump_n_5c642322e4b03de94297bcab"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.huffpost.com/entry/ilhan-omar-hits-back-at-trump_n_5c642322e4b03de94297bcab"
+}

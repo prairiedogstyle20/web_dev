@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.lastampa.it/2019/02/13/societa/il-presidente-trump-non-ho-tempo-per-un-cane-rompe-una-prassi-di-anni-alla-casa-bianca-cLYvmP5zKrVMadnWXHKUGK/pagina.html",
+  "uri": "https://www.lastampa.it/2019/02/13/societa/il-presidente-trump-non-ho-tempo-per-un-cane-rompe-una-prassi-di-anni-alla-casa-bianca-cLYvmP5zKrVMadnWXHKUGK/pagina.html",
+  "estimated-creation-date": "2019-02-13T19:39:41",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:39:41"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213215631/https://www.lastampa.it/2019/02/13/societa/il-presidente-trump-non-ho-tempo-per-un-cane-rompe-una-prassi-di-anni-alla-casa-bianca-cLYvmP5zKrVMadnWXHKUGK/pagina.html",
+      "memento-datetime": "2019-02-13T21:56:31",
+      "memento-pubdate": "2019-02-13T19:39:41",
+      "earliest": "2019-02-13T19:39:41"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:14:24"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

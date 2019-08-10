@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/",
+  "self": "http://localhost:1208/timemap/json/https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T22:15:15Z",
+        "uri": "http://web.archive.org/web/20190212221515/https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/"
+      },
+      {
+        "datetime": "2019-02-12T23:35:15Z",
+        "uri": "http://archive.md/20190212233515/https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/"
+      },
+      {
+        "datetime": "2019-02-13T01:02:38Z",
+        "uri": "http://web.archive.org/web/20190213010238/https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/"
+      },
+      {
+        "datetime": "2019-02-13T11:08:43Z",
+        "uri": "http://web.archive.org/web/20190213110843/https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/"
+      },
+      {
+        "datetime": "2019-02-13T22:28:23Z",
+        "uri": "http://web.archive.org/web/20190213222823/https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T22:15:15Z",
+      "uri": "http://web.archive.org/web/20190212221515/https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/"
+    },
+    "last": {
+      "datetime": "2019-02-13T22:28:23Z",
+      "uri": "http://web.archive.org/web/20190213222823/https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.breitbart.com/border/2019/02/12/video-beto-supporters-use-bat-to-beat-hanging-trump-effigy/"
+}

@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.bendthearc.us/trump_should_resign_not_ilhan_omar",
+  "self": "http://localhost:1208/timemap/json/https://www.bendthearc.us/trump_should_resign_not_ilhan_omar",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:33:03Z",
+        "uri": "http://web.archive.org/web/20190213033303/https://www.bendthearc.us/trump_should_resign_not_ilhan_omar"
+      },
+      {
+        "datetime": "2019-02-13T08:22:04Z",
+        "uri": "http://web.archive.org/web/20190213082204/https://www.bendthearc.us/trump_should_resign_not_ilhan_omar"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:33:03Z",
+      "uri": "http://web.archive.org/web/20190213033303/https://www.bendthearc.us/trump_should_resign_not_ilhan_omar"
+    },
+    "last": {
+      "datetime": "2019-02-13T08:22:04Z",
+      "uri": "http://web.archive.org/web/20190213082204/https://www.bendthearc.us/trump_should_resign_not_ilhan_omar"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.bendthearc.us/trump_should_resign_not_ilhan_omar",
+    "json_format": "http://localhost:1208/timemap/json/https://www.bendthearc.us/trump_should_resign_not_ilhan_omar",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bendthearc.us/trump_should_resign_not_ilhan_omar"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.bendthearc.us/trump_should_resign_not_ilhan_omar"
+}

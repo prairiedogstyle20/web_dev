@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.huffpost.com/entry/trump-lied-about-getting-special-permission-from-el-paso-fire-dept-says-fire-dept_n_5c62f0b7e4b0a8731aea8cdf",
+  "uri": "https://www.huffpost.com/entry/trump-lied-about-getting-special-permission-from-el-paso-fire-dept-says-fire-dept_n_5c62f0b7e4b0a8731aea8cdf",
+  "estimated-creation-date": "2019-02-12T12:18:16",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T12:18:16"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214184619/https://www.huffpost.com/entry/trump-lied-about-getting-special-permission-from-el-paso-fire-dept-says-fire-dept_n_5c62f0b7e4b0a8731aea8cdf",
+      "memento-datetime": "2019-02-14T18:46:19",
+      "memento-pubdate": "2019-02-12T12:18:16",
+      "earliest": "2019-02-12T12:18:16"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T18:46:09"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

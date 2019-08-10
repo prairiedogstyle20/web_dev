@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/",
+  "self": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T02:08:56Z",
+        "uri": "http://web.archive.org/web/20190213020856/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/"
+      },
+      {
+        "datetime": "2019-02-13T03:24:13Z",
+        "uri": "http://web.archive.org/web/20190213032413/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/"
+      },
+      {
+        "datetime": "2019-02-13T04:44:44Z",
+        "uri": "http://web.archive.org/web/20190213044444/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/"
+      },
+      {
+        "datetime": "2019-02-13T07:17:28Z",
+        "uri": "http://web.archive.org/web/20190213071728/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/"
+      },
+      {
+        "datetime": "2019-02-13T07:52:24Z",
+        "uri": "http://web.archive.org/web/20190213075224/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/"
+      },
+      {
+        "datetime": "2019-02-14T08:23:41Z",
+        "uri": "http://web.archive.org/web/20190214082341/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T02:08:56Z",
+      "uri": "http://web.archive.org/web/20190213020856/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/"
+    },
+    "last": {
+      "datetime": "2019-02-14T08:23:41Z",
+      "uri": "http://web.archive.org/web/20190214082341/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.usatoday.com/story/opinion/policing/2019/02/12/touting-first-step-sotu-trump-forgot-hidden-obstacles-success/2804898002/"
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://chimesnewspaper.com/43835/sports/mens-basketball-suffers-heartbreaking-loss-to-concordia/",
+  "self": "http://localhost:1208/timemap/json/https://chimesnewspaper.com/43835/sports/mens-basketball-suffers-heartbreaking-loss-to-concordia/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T12:38:10Z",
+        "uri": "http://web.archive.org/web/20190214123810/https://chimesnewspaper.com/43835/sports/mens-basketball-suffers-heartbreaking-loss-to-concordia/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T12:38:10Z",
+      "uri": "http://web.archive.org/web/20190214123810/https://chimesnewspaper.com/43835/sports/mens-basketball-suffers-heartbreaking-loss-to-concordia/"
+    },
+    "last": {
+      "datetime": "2019-02-14T12:38:10Z",
+      "uri": "http://web.archive.org/web/20190214123810/https://chimesnewspaper.com/43835/sports/mens-basketball-suffers-heartbreaking-loss-to-concordia/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://chimesnewspaper.com/43835/sports/mens-basketball-suffers-heartbreaking-loss-to-concordia/",
+    "json_format": "http://localhost:1208/timemap/json/https://chimesnewspaper.com/43835/sports/mens-basketball-suffers-heartbreaking-loss-to-concordia/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://chimesnewspaper.com/43835/sports/mens-basketball-suffers-heartbreaking-loss-to-concordia/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://chimesnewspaper.com/43835/sports/mens-basketball-suffers-heartbreaking-loss-to-concordia/"
+}

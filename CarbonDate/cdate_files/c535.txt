@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.theguardian.com/lifeandstyle/shortcuts/2019/feb/13/should-couples-sleep-apart-ford-mattress?CMP=share_btn_tw",
+  "uri": "https://www.theguardian.com/lifeandstyle/shortcuts/2019/feb/13/should-couples-sleep-apart-ford-mattress?CMP=share_btn_tw",
+  "estimated-creation-date": "2019-02-13T16:00:28",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T16:00:28"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T16:56:56"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

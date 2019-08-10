@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nbcnews.com/politics/congress/senate-has-uncovered-no-direct-evidence-conspiracy-between-trump-campaign-n970536",
+  "uri": "https://www.nbcnews.com/politics/congress/senate-has-uncovered-no-direct-evidence-conspiracy-between-trump-campaign-n970536",
+  "estimated-creation-date": "2019-02-12T15:45:04",
+  "earliest-sources": [
+    "archive.md"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190212154504/https://www.nbcnews.com/politics/congress/senate-has-uncovered-no-direct-evidence-conspiracy-between-trump-campaign-n970536",
+      "memento-datetime": "2019-02-12T15:45:04",
+      "memento-pubdate": "2019-02-12T15:45:04",
+      "earliest": "2019-02-12T15:45:04"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212160917/https://www.nbcnews.com/politics/congress/senate-has-uncovered-no-direct-evidence-conspiracy-between-trump-campaign-n970536",
+      "memento-datetime": "2019-02-12T16:09:17",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T16:09:17"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T23:46:47"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

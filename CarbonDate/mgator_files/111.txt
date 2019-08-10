@@ -1,0 +1,123 @@
+25
+{
+  "original_uri": "https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html",
+  "self": "http://localhost:1208/timemap/json/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-06T14:02:47Z",
+        "uri": "http://web.archive.org/web/20190206140247/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-06T15:06:50Z",
+        "uri": "http://web.archive.org/web/20190206150650/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-06T15:48:32Z",
+        "uri": "http://web.archive.org/web/20190206154832/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-06T22:06:25Z",
+        "uri": "http://web.archive.org/web/20190206220625/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-07T13:00:09Z",
+        "uri": "http://web.archive.org/web/20190207130009/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-07T17:39:27Z",
+        "uri": "http://web.archive.org/web/20190207173927/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-07T22:47:52Z",
+        "uri": "http://web.archive.org/web/20190207224752/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-08T21:07:48Z",
+        "uri": "http://web.archive.org/web/20190208210748/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-08T23:10:46Z",
+        "uri": "http://web.archive.org/web/20190208231046/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-09T23:33:49Z",
+        "uri": "http://web.archive.org/web/20190209233349/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-10T00:16:48Z",
+        "uri": "http://web.archive.org/web/20190210001648/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-11T00:06:59Z",
+        "uri": "http://web.archive.org/web/20190211000659/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-11T02:28:02Z",
+        "uri": "http://web.archive.org/web/20190211022802/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-12T00:48:02Z",
+        "uri": "http://web.archive.org/web/20190212004802/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-12T04:58:54Z",
+        "uri": "http://web.archive.org/web/20190212045854/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-13T01:31:48Z",
+        "uri": "http://web.archive.org/web/20190213013148/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-13T07:24:38Z",
+        "uri": "http://web.archive.org/web/20190213072438/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-13T11:48:25Z",
+        "uri": "http://web.archive.org/web/20190213114825/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-13T12:26:38Z",
+        "uri": "http://web.archive.org/web/20190213122638/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-13T13:04:55Z",
+        "uri": "http://web.archive.org/web/20190213130455/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-13T13:43:54Z",
+        "uri": "http://web.archive.org/web/20190213134354/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-13T14:22:42Z",
+        "uri": "http://web.archive.org/web/20190213142242/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-13T15:01:28Z",
+        "uri": "http://web.archive.org/web/20190213150128/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-14T01:47:13Z",
+        "uri": "http://web.archive.org/web/20190214014713/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      },
+      {
+        "datetime": "2019-02-14T10:57:37Z",
+        "uri": "http://web.archive.org/web/20190214105737/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-06T14:02:47Z",
+      "uri": "http://web.archive.org/web/20190206140247/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T10:57:37Z",
+      "uri": "http://web.archive.org/web/20190214105737/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html",
+    "json_format": "http://localhost:1208/timemap/json/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://slate.com/business/2019/02/fact-check-trumps-state-of-the-union-economic-miracle-false.html"
+}

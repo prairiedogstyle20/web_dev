@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://www.wtol.com/2019/02/13/ohio-man-charged-with-threatening-kill-president-trump-by-cutting-off-his-head/",
+  "self": "http://localhost:1208/timemap/json/http://www.wtol.com/2019/02/13/ohio-man-charged-with-threatening-kill-president-trump-by-cutting-off-his-head/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T20:46:37Z",
+        "uri": "http://web.archive.org/web/20190213204637/http://www.wtol.com/2019/02/13/ohio-man-charged-with-threatening-kill-president-trump-by-cutting-off-his-head/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T20:46:37Z",
+      "uri": "http://web.archive.org/web/20190213204637/http://www.wtol.com/2019/02/13/ohio-man-charged-with-threatening-kill-president-trump-by-cutting-off-his-head/"
+    },
+    "last": {
+      "datetime": "2019-02-13T20:46:37Z",
+      "uri": "http://web.archive.org/web/20190213204637/http://www.wtol.com/2019/02/13/ohio-man-charged-with-threatening-kill-president-trump-by-cutting-off-his-head/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.wtol.com/2019/02/13/ohio-man-charged-with-threatening-kill-president-trump-by-cutting-off-his-head/",
+    "json_format": "http://localhost:1208/timemap/json/http://www.wtol.com/2019/02/13/ohio-man-charged-with-threatening-kill-president-trump-by-cutting-off-his-head/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.wtol.com/2019/02/13/ohio-man-charged-with-threatening-kill-president-trump-by-cutting-off-his-head/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.wtol.com/2019/02/13/ohio-man-charged-with-threatening-kill-president-trump-by-cutting-off-his-head/"
+}

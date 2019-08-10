@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/",
+  "self": "http://localhost:1208/timemap/json/https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-01-31T21:13:31Z",
+        "uri": "http://web.archive.org/web/20190131211331/https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/"
+      },
+      {
+        "datetime": "2019-02-04T00:56:55Z",
+        "uri": "http://web.archive.org/web/20190204005655/https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/"
+      },
+      {
+        "datetime": "2019-02-05T22:32:57Z",
+        "uri": "http://web.archive.org/web/20190205223257/https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-01-31T21:13:31Z",
+      "uri": "http://web.archive.org/web/20190131211331/https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/"
+    },
+    "last": {
+      "datetime": "2019-02-05T22:32:57Z",
+      "uri": "http://web.archive.org/web/20190205223257/https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/"
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://haber.sol.org.tr/dunya/abd-baskanlarinin-konusmalari-incelendi-trumpa-en-cok-benzeyen-obama-256547",
+  "self": "http://localhost:1208/timemap/json/http://haber.sol.org.tr/dunya/abd-baskanlarinin-konusmalari-incelendi-trumpa-en-cok-benzeyen-obama-256547",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T14:44:29Z",
+        "uri": "http://web.archive.org/web/20190213144429/http://haber.sol.org.tr/dunya/abd-baskanlarinin-konusmalari-incelendi-trumpa-en-cok-benzeyen-obama-256547"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T14:44:29Z",
+      "uri": "http://web.archive.org/web/20190213144429/http://haber.sol.org.tr/dunya/abd-baskanlarinin-konusmalari-incelendi-trumpa-en-cok-benzeyen-obama-256547"
+    },
+    "last": {
+      "datetime": "2019-02-13T14:44:29Z",
+      "uri": "http://web.archive.org/web/20190213144429/http://haber.sol.org.tr/dunya/abd-baskanlarinin-konusmalari-incelendi-trumpa-en-cok-benzeyen-obama-256547"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://haber.sol.org.tr/dunya/abd-baskanlarinin-konusmalari-incelendi-trumpa-en-cok-benzeyen-obama-256547",
+    "json_format": "http://localhost:1208/timemap/json/http://haber.sol.org.tr/dunya/abd-baskanlarinin-konusmalari-incelendi-trumpa-en-cok-benzeyen-obama-256547",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://haber.sol.org.tr/dunya/abd-baskanlarinin-konusmalari-incelendi-trumpa-en-cok-benzeyen-obama-256547"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://haber.sol.org.tr/dunya/abd-baskanlarinin-konusmalari-incelendi-trumpa-en-cok-benzeyen-obama-256547"
+}

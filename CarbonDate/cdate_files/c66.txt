@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/policy/international/429864-top-trump-ally-apologizes-for-saying-american-atrocities-are-equal-or",
+  "uri": "https://thehill.com/policy/international/429864-top-trump-ally-apologizes-for-saying-american-atrocities-are-equal-or",
+  "estimated-creation-date": "2019-02-13T14:58:08",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:58:08"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214011116/https://thehill.com/policy/international/429864-top-trump-ally-apologizes-for-saying-american-atrocities-are-equal-or",
+      "memento-datetime": "2019-02-14T01:11:16",
+      "memento-pubdate": "2019-02-13T14:58:08",
+      "earliest": "2019-02-13T14:58:08"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:04:02"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

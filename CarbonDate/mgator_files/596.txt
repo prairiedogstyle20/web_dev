@@ -1,0 +1,215 @@
+48
+{
+  "original_uri": "http://toddhancock.ca/",
+  "self": "http://localhost:1208/timemap/json/http://toddhancock.ca/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-11-08T05:12:25Z",
+        "uri": "http://web.archive.org/web/20141108051225/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2015-02-11T15:22:42Z",
+        "uri": "http://web.archive.org/web/20150211152242/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2015-02-19T22:24:27Z",
+        "uri": "http://web.archive.org/web/20150219222427/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2015-04-21T07:49:04Z",
+        "uri": "http://web.archive.org/web/20150421074904/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2015-06-21T09:09:30Z",
+        "uri": "http://web.archive.org/web/20150621090930/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2015-08-01T01:07:07Z",
+        "uri": "http://web.archive.org/web/20150801010707/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2015-08-01T01:07:08Z",
+        "uri": "http://web.archive.org/web/20150801010708/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2015-08-01T01:07:24Z",
+        "uri": "http://web.archive.org/web/20150801010724/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2015-08-20T17:25:12Z",
+        "uri": "http://web.archive.org/web/20150820172512/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2015-10-20T06:17:06Z",
+        "uri": "http://web.archive.org/web/20151020061706/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2015-12-19T16:10:46Z",
+        "uri": "http://web.archive.org/web/20151219161046/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2015-12-24T02:43:51Z",
+        "uri": "http://web.archive.org/web/20151224024351/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2016-01-03T11:03:57Z",
+        "uri": "http://web.archive.org/web/20160103110357/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2016-01-11T06:24:16Z",
+        "uri": "http://web.archive.org/web/20160111062416/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2016-01-15T18:26:40Z",
+        "uri": "http://web.archive.org/web/20160115182640/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2016-01-23T18:01:51Z",
+        "uri": "http://web.archive.org/web/20160123180151/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2016-02-23T14:17:05Z",
+        "uri": "http://web.archive.org/web/20160223141705/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2016-03-11T17:31:09Z",
+        "uri": "http://web.archive.org/web/20160311173109/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2016-03-14T13:55:20Z",
+        "uri": "http://archive.md/20160314135520/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2016-03-25T17:46:20Z",
+        "uri": "http://web.archive.org/web/20160325174620/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2016-04-25T21:12:49Z",
+        "uri": "http://web.archive.org/web/20160425211249/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2016-05-26T14:13:46Z",
+        "uri": "http://web.archive.org/web/20160526141346/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2016-06-27T10:02:30Z",
+        "uri": "http://web.archive.org/web/20160627100230/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2016-07-29T04:41:34Z",
+        "uri": "http://web.archive.org/web/20160729044134/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2016-08-29T12:07:44Z",
+        "uri": "http://web.archive.org/web/20160829120744/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2016-09-29T11:00:30Z",
+        "uri": "http://web.archive.org/web/20160929110030/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2016-10-06T14:31:45Z",
+        "uri": "http://web.archive.org/web/20161006143145/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2016-10-30T20:00:51Z",
+        "uri": "http://web.archive.org/web/20161030200051/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2017-04-22T01:42:13Z",
+        "uri": "http://web.archive.org/web/20170422014213/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2017-05-23T07:01:28Z",
+        "uri": "http://web.archive.org/web/20170523070128/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2017-06-15T00:01:52Z",
+        "uri": "http://web.archive.org/web/20170615000152/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2017-06-22T20:20:05Z",
+        "uri": "http://web.archive.org/web/20170622202005/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2017-07-24T07:36:01Z",
+        "uri": "http://web.archive.org/web/20170724073601/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2017-09-22T23:43:34Z",
+        "uri": "http://web.archive.org/web/20170922234334/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2017-09-23T01:49:26Z",
+        "uri": "http://web.archive.org/web/20170923014926/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2017-11-13T15:26:03Z",
+        "uri": "http://web.archive.org/web/20171113152603/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2017-12-14T16:10:55Z",
+        "uri": "http://web.archive.org/web/20171214161055/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2018-01-14T20:51:50Z",
+        "uri": "http://web.archive.org/web/20180114205150/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2018-02-15T08:48:31Z",
+        "uri": "http://web.archive.org/web/20180215084831/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2018-03-08T02:57:04Z",
+        "uri": "http://web.archive.org/web/20180308025704/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2018-03-17T23:47:24Z",
+        "uri": "http://web.archive.org/web/20180317234724/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2018-04-18T09:05:02Z",
+        "uri": "http://web.archive.org/web/20180418090502/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2018-05-20T12:01:22Z",
+        "uri": "http://web.archive.org/web/20180520120122/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2018-06-20T03:51:23Z",
+        "uri": "http://web.archive.org/web/20180620035123/http://toddhancock.ca:80/"
+      },
+      {
+        "datetime": "2018-08-04T00:49:16Z",
+        "uri": "http://web.archive.org/web/20180804004916/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2018-11-09T21:31:39Z",
+        "uri": "http://web.archive.org/web/20181109213139/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2018-11-24T22:36:09Z",
+        "uri": "http://web.archive.org/web/20181124223609/http://toddhancock.ca/"
+      },
+      {
+        "datetime": "2018-11-26T21:23:31Z",
+        "uri": "http://web.archive.org/web/20181126212331/http://toddhancock.ca/"
+      }
+    ],
+    "first": {
+      "datetime": "2014-11-08T05:12:25Z",
+      "uri": "http://web.archive.org/web/20141108051225/http://toddhancock.ca:80/"
+    },
+    "last": {
+      "datetime": "2018-11-26T21:23:31Z",
+      "uri": "http://web.archive.org/web/20181126212331/http://toddhancock.ca/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://toddhancock.ca/",
+    "json_format": "http://localhost:1208/timemap/json/http://toddhancock.ca/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://toddhancock.ca/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://toddhancock.ca/"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://mmajunkie.com/2019/02/usa-today-sports-mmajunkie-mma-rankings-feb-12-adesanya-bending-the-list?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "https://mmajunkie.com/2019/02/usa-today-sports-mmajunkie-mma-rankings-feb-12-adesanya-bending-the-list?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "2019-02-13T01:00:19",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:37:43"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T01:00:19"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

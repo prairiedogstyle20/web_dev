@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://time.com/5358931/trump-tower-meeting-claims/",
+  "uri": "http://time.com/5358931/trump-tower-meeting-claims/",
+  "estimated-creation-date": "2018-08-07T08:50:33",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180807085033/http://time.com/5358931/trump-tower-meeting-claims/",
+      "memento-datetime": "2018-08-07T08:50:33",
+      "memento-pubdate": "",
+      "earliest": "2018-08-07T08:50:33"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:27:41"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

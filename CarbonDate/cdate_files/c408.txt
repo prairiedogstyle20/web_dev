@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://sports-usa.net/2019/02/13/leeds-united-set-for-a-difficult-night-against-swansea-city/",
+  "uri": "http://sports-usa.net/2019/02/13/leeds-united-set-for-a-difficult-night-against-swansea-city/",
+  "estimated-creation-date": "2019-02-13T08:58:14",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T08:58:14"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

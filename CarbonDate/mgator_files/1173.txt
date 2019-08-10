@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.usatoday.com/story/news/2019/02/13/whelan-brother-state-department-letting-him-languish-russia-jail/2840501002/",
+  "self": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/news/2019/02/13/whelan-brother-state-department-letting-him-languish-russia-jail/2840501002/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T20:04:02Z",
+        "uri": "http://web.archive.org/web/20190213200402/https://www.usatoday.com/story/news/2019/02/13/whelan-brother-state-department-letting-him-languish-russia-jail/2840501002/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T20:04:02Z",
+      "uri": "http://web.archive.org/web/20190213200402/https://www.usatoday.com/story/news/2019/02/13/whelan-brother-state-department-letting-him-languish-russia-jail/2840501002/"
+    },
+    "last": {
+      "datetime": "2019-02-13T20:04:02Z",
+      "uri": "http://web.archive.org/web/20190213200402/https://www.usatoday.com/story/news/2019/02/13/whelan-brother-state-department-letting-him-languish-russia-jail/2840501002/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.usatoday.com/story/news/2019/02/13/whelan-brother-state-department-letting-him-languish-russia-jail/2840501002/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/news/2019/02/13/whelan-brother-state-department-letting-him-languish-russia-jail/2840501002/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.usatoday.com/story/news/2019/02/13/whelan-brother-state-department-letting-him-languish-russia-jail/2840501002/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.usatoday.com/story/news/2019/02/13/whelan-brother-state-department-letting-him-languish-russia-jail/2840501002/"
+}

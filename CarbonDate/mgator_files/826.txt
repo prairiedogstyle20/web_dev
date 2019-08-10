@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T23:26:19Z",
+        "uri": "http://archive.md/20190212232619/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html"
+      },
+      {
+        "datetime": "2019-02-13T01:28:14Z",
+        "uri": "http://web.archive.org/web/20190213012814/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html"
+      },
+      {
+        "datetime": "2019-02-13T04:44:14Z",
+        "uri": "http://web.archive.org/web/20190213044414/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html"
+      },
+      {
+        "datetime": "2019-02-13T07:19:18Z",
+        "uri": "http://web.archive.org/web/20190213071918/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html"
+      },
+      {
+        "datetime": "2019-02-13T13:01:03Z",
+        "uri": "http://web.archive.org/web/20190213130103/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html"
+      },
+      {
+        "datetime": "2019-02-13T23:39:55Z",
+        "uri": "http://web.archive.org/web/20190213233955/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T23:26:19Z",
+      "uri": "http://archive.md/20190212232619/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T23:39:55Z",
+      "uri": "http://web.archive.org/web/20190213233955/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2019/02/12/us/politics/democrats-donald-trump.html"
+}

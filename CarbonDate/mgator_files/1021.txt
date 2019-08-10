@@ -1,0 +1,95 @@
+18
+{
+  "original_uri": "https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false",
+  "self": "http://localhost:1208/timemap/json/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T17:40:02Z",
+        "uri": "http://web.archive.org/web/20190212174002/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-12T18:19:02Z",
+        "uri": "http://web.archive.org/web/20190212181902/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-12T18:57:19Z",
+        "uri": "http://web.archive.org/web/20190212185719/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-12T19:02:30Z",
+        "uri": "http://web.archive.org/web/20190212190230/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-12T19:35:55Z",
+        "uri": "http://web.archive.org/web/20190212193555/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-12T20:14:16Z",
+        "uri": "http://web.archive.org/web/20190212201416/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-12T20:53:09Z",
+        "uri": "http://web.archive.org/web/20190212205309/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-12T21:32:10Z",
+        "uri": "http://web.archive.org/web/20190212213210/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-12T22:10:47Z",
+        "uri": "http://web.archive.org/web/20190212221047/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-12T22:49:25Z",
+        "uri": "http://web.archive.org/web/20190212224925/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-12T23:27:33Z",
+        "uri": "http://web.archive.org/web/20190212232733/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-13T00:52:40Z",
+        "uri": "http://web.archive.org/web/20190213005240/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-13T01:31:12Z",
+        "uri": "http://web.archive.org/web/20190213013112/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-13T02:09:26Z",
+        "uri": "http://web.archive.org/web/20190213020926/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-13T02:47:59Z",
+        "uri": "http://web.archive.org/web/20190213024759/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-13T03:26:22Z",
+        "uri": "http://web.archive.org/web/20190213032622/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-13T04:05:42Z",
+        "uri": "http://web.archive.org/web/20190213040542/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      },
+      {
+        "datetime": "2019-02-13T13:29:25Z",
+        "uri": "http://web.archive.org/web/20190213132925/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T17:40:02Z",
+      "uri": "http://web.archive.org/web/20190212174002/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:29:25Z",
+      "uri": "http://web.archive.org/web/20190213132925/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false",
+    "json_format": "http://localhost:1208/timemap/json/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://thehill.com/homenews/administration/429583-el-paso-fire-department-says-trumps-crowd-claims-were-false"
+}

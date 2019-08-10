@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://randomtrump.com/?id=26xBMgX4QRreXTAoE",
+  "uri": "https://randomtrump.com/?id=26xBMgX4QRreXTAoE",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

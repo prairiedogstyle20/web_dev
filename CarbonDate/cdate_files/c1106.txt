@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://derstandard.at/2000097929961/BBC-kritisiert-mangelnde-Sicherheit-fuer-Presse-bei-Trump-Auftritten?ref=rss",
+  "uri": "https://derstandard.at/2000097929961/BBC-kritisiert-mangelnde-Sicherheit-fuer-Presse-bei-Trump-Auftritten?ref=rss",
+  "estimated-creation-date": "2019-02-13T07:59:48",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214143012/https://derstandard.at/2000097929961/BBC-kritisiert-mangelnde-Sicherheit-fuer-Presse-bei-Trump-Auftritten?ref=rss",
+      "memento-datetime": "2019-02-14T14:30:12",
+      "memento-pubdate": "2019-02-13T08:51:49",
+      "earliest": "2019-02-13T08:51:49"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:59:48"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

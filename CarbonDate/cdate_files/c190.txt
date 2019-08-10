@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057?ncid=engmodushpmg00000004",
+  "uri": "https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057?ncid=engmodushpmg00000004",
+  "estimated-creation-date": "2017-10-12T00:00:52",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2017-10-12T00:00:52"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20171013000636/https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057?ncid=engmodushpmg00000004",
+      "memento-datetime": "2017-10-13T00:06:36",
+      "memento-pubdate": "2017-10-13T00:06:36",
+      "earliest": "2017-10-13T00:06:36"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

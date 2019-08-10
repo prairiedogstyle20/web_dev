@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.kokomotribune.com/sports/photos-taylor-vs-elwood-boys-bb/collection_52d73b8e-2f2e-11e9-b0b2-6391dc08a23c.html",
+  "uri": "http://www.kokomotribune.com/sports/photos-taylor-vs-elwood-boys-bb/collection_52d73b8e-2f2e-11e9-b0b2-6391dc08a23c.html",
+  "estimated-creation-date": "2019-02-12T20:26:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-13T04:49:33"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T20:26:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

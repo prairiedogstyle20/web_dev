@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.goupstate.com/sports/20190213/three-area-players-make-sc-football-hall-of-fame",
+  "uri": "https://www.goupstate.com/sports/20190213/three-area-players-make-sc-football-hall-of-fame",
+  "estimated-creation-date": "2019-02-13T14:59:38",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:22:20"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:59:38"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:19:39"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

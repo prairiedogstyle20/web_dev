@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.instagram.com/p/Bt1doiMhtvp/?utm_source=ig_twitter_share&igshid=1daa285jnswqx",
+  "uri": "https://www.instagram.com/p/Bt1doiMhtvp/?utm_source=ig_twitter_share&igshid=1daa285jnswqx",
+  "estimated-creation-date": "2019-02-13T20:27:43",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:27:43"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.standardmedia.co.ke/sports/article/2001312900/three-things-we-learned-from-man-united-vs-psg",
+  "uri": "https://www.standardmedia.co.ke/sports/article/2001312900/three-things-we-learned-from-man-united-vs-psg",
+  "estimated-creation-date": "2019-02-13T08:00:44",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T10:26:19"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T08:00:44"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,1951 @@
+482
+{
+  "original_uri": "https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-11T22:51:09Z",
+        "uri": "http://web.archive.org/web/20180111225109/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-11T23:20:52Z",
+        "uri": "http://archive.md/20180111232052/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T00:44:20Z",
+        "uri": "http://web.archive.org/web/20180112004420/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T01:03:54Z",
+        "uri": "http://web.archive.org/web/20180112010354/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T01:34:19Z",
+        "uri": "http://web.archive.org/web/20180112013419/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T04:18:14Z",
+        "uri": "http://web.archive.org/web/20180112041814/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T05:17:00Z",
+        "uri": "http://web.archive.org/web/20180112051700/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T06:56:21Z",
+        "uri": "http://wayback.archive-it.org/all/20180112065621/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T06:56:21Z",
+        "uri": "http://web.archive.org/web/20180112065621/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T08:07:03Z",
+        "uri": "http://web.archive.org/web/20180112080703/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T10:55:47Z",
+        "uri": "http://web.archive.org/web/20180112105547/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T14:57:25Z",
+        "uri": "http://web.archive.org/web/20180112145725/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T18:01:47Z",
+        "uri": "http://web.archive.org/web/20180112180147/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T20:04:44Z",
+        "uri": "http://web.archive.org/web/20180112200444/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T21:15:54Z",
+        "uri": "http://web.archive.org/web/20180112211554/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T21:19:12Z",
+        "uri": "http://wayback.archive-it.org/all/20180112211912/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T21:19:12Z",
+        "uri": "http://web.archive.org/web/20180112211912/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-12T21:30:19Z",
+        "uri": "http://web.archive.org/web/20180112213019/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-13T06:56:53Z",
+        "uri": "http://wayback.archive-it.org/all/20180113065653/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-13T06:56:53Z",
+        "uri": "http://web.archive.org/web/20180113065653/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-13T09:32:55Z",
+        "uri": "http://web.archive.org/web/20180113093255/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-13T15:29:20Z",
+        "uri": "http://web.archive.org/web/20180113152920/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-13T18:58:09Z",
+        "uri": "http://web.archive.org/web/20180113185809/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-13T18:58:50Z",
+        "uri": "http://wayback.archive-it.org/all/20180113185850/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-13T18:58:50Z",
+        "uri": "http://web.archive.org/web/20180113185850/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-13T21:57:57Z",
+        "uri": "http://web.archive.org/web/20180113215757/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-14T02:15:26Z",
+        "uri": "http://web.archive.org/web/20180114021526/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-14T05:01:45Z",
+        "uri": "http://wayback.archive-it.org/all/20180114050145/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-14T05:01:45Z",
+        "uri": "http://web.archive.org/web/20180114050145/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-14T06:56:51Z",
+        "uri": "http://wayback.archive-it.org/all/20180114065651/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-14T06:56:51Z",
+        "uri": "http://web.archive.org/web/20180114065651/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-14T11:44:48Z",
+        "uri": "http://web.archive.org/web/20180114114448/http://www.cnn.com:80/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-14T12:53:23Z",
+        "uri": "http://web.archive.org/web/20180114125323/http://www.cnn.com:80/2018/01/11/politics/immigrants-shithole-countries-trump/index.html?"
+      },
+      {
+        "datetime": "2018-01-14T13:49:57Z",
+        "uri": "http://web.archive.org/web/20180114134957/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-14T16:07:50Z",
+        "uri": "http://web.archive.org/web/20180114160750/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-14T18:56:42Z",
+        "uri": "http://wayback.archive-it.org/all/20180114185642/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-14T18:56:42Z",
+        "uri": "http://web.archive.org/web/20180114185642/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-14T19:52:16Z",
+        "uri": "http://web.archive.org/web/20180114195216/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-14T22:32:10Z",
+        "uri": "http://web.archive.org/web/20180114223210/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-15T01:58:40Z",
+        "uri": "http://web.archive.org/web/20180115015840/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-15T06:57:07Z",
+        "uri": "http://wayback.archive-it.org/all/20180115065707/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-15T06:57:07Z",
+        "uri": "http://web.archive.org/web/20180115065707/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-15T15:02:38Z",
+        "uri": "http://web.archive.org/web/20180115150238/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-15T22:45:18Z",
+        "uri": "http://web.archive.org/web/20180115224518/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-15T23:15:04Z",
+        "uri": "http://web.archive.org/web/20180115231504/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-16T00:56:10Z",
+        "uri": "http://web.archive.org/web/20180116005610/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-16T07:01:10Z",
+        "uri": "http://wayback.archive-it.org/all/20180116070110/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-16T07:01:10Z",
+        "uri": "http://web.archive.org/web/20180116070110/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-16T16:11:38Z",
+        "uri": "http://wayback.archive-it.org/all/20180116161138/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-16T16:11:38Z",
+        "uri": "http://web.archive.org/web/20180116161138/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-16T16:49:19Z",
+        "uri": "http://web.archive.org/web/20180116164919/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-16T18:59:49Z",
+        "uri": "http://wayback.archive-it.org/all/20180116185949/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-16T18:59:49Z",
+        "uri": "http://web.archive.org/web/20180116185949/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-17T00:07:31Z",
+        "uri": "http://web.archive.org/web/20180117000731/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-17T03:46:19Z",
+        "uri": "http://web.archive.org/web/20180117034619/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-17T06:59:38Z",
+        "uri": "http://wayback.archive-it.org/all/20180117065938/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-17T06:59:38Z",
+        "uri": "http://web.archive.org/web/20180117065938/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-17T19:10:10Z",
+        "uri": "http://wayback.archive-it.org/all/20180117191010/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-17T19:10:10Z",
+        "uri": "http://web.archive.org/web/20180117191010/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-17T19:20:32Z",
+        "uri": "http://web.archive.org/web/20180117192032/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-18T00:31:04Z",
+        "uri": "http://web.archive.org/web/20180118003104/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-18T01:35:16Z",
+        "uri": "http://web.archive.org/web/20180118013516/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-18T03:00:31Z",
+        "uri": "http://web.archive.org/web/20180118030031/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-18T06:59:29Z",
+        "uri": "http://wayback.archive-it.org/all/20180118065929/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-18T06:59:29Z",
+        "uri": "http://web.archive.org/web/20180118065929/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-18T22:31:14Z",
+        "uri": "http://web.archive.org/web/20180118223114/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-19T06:44:24Z",
+        "uri": "http://web.archive.org/web/20180119064424/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-19T07:21:46Z",
+        "uri": "http://web.archive.org/web/20180119072146/http://www.cnn.com:80/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-19T07:21:46Z",
+        "uri": "http://web.archive.org/web/20180119072146/http://cnn.com:80/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-19T12:49:55Z",
+        "uri": "http://web.archive.org/web/20180119124955/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-20T03:03:02Z",
+        "uri": "http://web.archive.org/web/20180120030302/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-20T03:03:02Z",
+        "uri": "http://web.archive.org/web/20180120030302/http://cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-20T03:51:21Z",
+        "uri": "http://web.archive.org/web/20180120035121/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-20T05:09:03Z",
+        "uri": "http://web.archive.org/web/20180120050903/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-20T06:03:16Z",
+        "uri": "http://webarchive.loc.gov/all/20180120060316/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-20T12:45:49Z",
+        "uri": "http://web.archive.org/web/20180120124549/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-21T02:10:45Z",
+        "uri": "http://web.archive.org/web/20180121021045/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-21T03:19:13Z",
+        "uri": "http://web.archive.org/web/20180121031913/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-21T03:19:13Z",
+        "uri": "http://web.archive.org/web/20180121031913/http://cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-21T08:17:47Z",
+        "uri": "http://wayback.archive-it.org/all/20180121081747/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-21T08:17:47Z",
+        "uri": "http://web.archive.org/web/20180121081747/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-22T02:30:44Z",
+        "uri": "http://web.archive.org/web/20180122023044/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-22T05:00:23Z",
+        "uri": "http://web.archive.org/web/20180122050023/http://cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-22T05:00:24Z",
+        "uri": "http://web.archive.org/web/20180122050024/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-23T04:14:26Z",
+        "uri": "http://web.archive.org/web/20180123041426/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-23T04:14:30Z",
+        "uri": "http://web.archive.org/web/20180123041430/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-23T07:06:53Z",
+        "uri": "http://web.archive.org/web/20180123070653/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-23T11:51:20Z",
+        "uri": "http://web.archive.org/web/20180123115120/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-23T11:51:22Z",
+        "uri": "http://web.archive.org/web/20180123115122/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-24T06:28:26Z",
+        "uri": "http://web.archive.org/web/20180124062826/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-24T06:28:27Z",
+        "uri": "http://web.archive.org/web/20180124062827/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-24T11:41:18Z",
+        "uri": "http://web.archive.org/web/20180124114118/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-24T11:41:20Z",
+        "uri": "http://web.archive.org/web/20180124114120/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-25T06:10:01Z",
+        "uri": "http://web.archive.org/web/20180125061001/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-25T06:10:02Z",
+        "uri": "http://web.archive.org/web/20180125061002/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-25T17:39:43Z",
+        "uri": "http://wayback.archive-it.org/all/20180125173943/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-25T17:39:43Z",
+        "uri": "http://web.archive.org/web/20180125173943/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-25T21:01:11Z",
+        "uri": "http://wayback.archive-it.org/all/20180125210111/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-25T21:01:11Z",
+        "uri": "http://web.archive.org/web/20180125210111/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-26T08:06:46Z",
+        "uri": "http://web.archive.org/web/20180126080646/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-26T08:06:48Z",
+        "uri": "http://web.archive.org/web/20180126080648/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-26T08:48:20Z",
+        "uri": "http://web.archive.org/web/20180126084820/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-26T08:48:23Z",
+        "uri": "http://web.archive.org/web/20180126084823/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-27T07:46:48Z",
+        "uri": "http://web.archive.org/web/20180127074648/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-27T07:46:49Z",
+        "uri": "http://web.archive.org/web/20180127074649/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-27T09:34:52Z",
+        "uri": "http://web.archive.org/web/20180127093452/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-27T09:34:55Z",
+        "uri": "http://web.archive.org/web/20180127093455/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-28T05:02:27Z",
+        "uri": "http://wayback.archive-it.org/all/20180128050227/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-28T05:02:27Z",
+        "uri": "http://web.archive.org/web/20180128050227/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-28T07:57:56Z",
+        "uri": "http://web.archive.org/web/20180128075756/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-28T08:05:28Z",
+        "uri": "http://web.archive.org/web/20180128080528/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-28T08:57:02Z",
+        "uri": "http://wayback.archive-it.org/all/20180128085702/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-28T08:57:02Z",
+        "uri": "http://web.archive.org/web/20180128085702/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-28T09:03:05Z",
+        "uri": "http://web.archive.org/web/20180128090305/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-28T09:03:06Z",
+        "uri": "http://web.archive.org/web/20180128090306/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-28T13:54:16Z",
+        "uri": "http://web.archive.org/web/20180128135416/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-28T20:58:05Z",
+        "uri": "http://wayback.archive-it.org/all/20180128205805/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-28T20:58:05Z",
+        "uri": "http://web.archive.org/web/20180128205805/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-29T08:54:35Z",
+        "uri": "http://web.archive.org/web/20180129085435/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-29T08:54:37Z",
+        "uri": "http://web.archive.org/web/20180129085437/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-29T17:16:52Z",
+        "uri": "http://web.archive.org/web/20180129171652/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-29T17:43:18Z",
+        "uri": "http://web.archive.org/web/20180129174318/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-30T06:56:10Z",
+        "uri": "http://wayback.archive-it.org/all/20180130065610/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-30T06:56:10Z",
+        "uri": "http://web.archive.org/web/20180130065610/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-30T10:29:20Z",
+        "uri": "http://web.archive.org/web/20180130102920/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-30T10:44:55Z",
+        "uri": "http://web.archive.org/web/20180130104455/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-30T20:39:21Z",
+        "uri": "http://web.archive.org/web/20180130203921/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-31T12:04:40Z",
+        "uri": "http://web.archive.org/web/20180131120440/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-01-31T12:04:43Z",
+        "uri": "http://web.archive.org/web/20180131120443/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-01T08:30:14Z",
+        "uri": "http://web.archive.org/web/20180201083014/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-01T08:30:18Z",
+        "uri": "http://web.archive.org/web/20180201083018/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-01T19:04:18Z",
+        "uri": "http://web.archive.org/web/20180201190418/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-01T19:04:19Z",
+        "uri": "http://web.archive.org/web/20180201190419/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-01T19:27:31Z",
+        "uri": "http://web.archive.org/web/20180201192731/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-02T03:14:18Z",
+        "uri": "http://webarchive.loc.gov/all/20180202031418/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-02T11:36:53Z",
+        "uri": "http://web.archive.org/web/20180202113653/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-03T13:19:05Z",
+        "uri": "http://web.archive.org/web/20180203131905/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-03T13:19:09Z",
+        "uri": "http://web.archive.org/web/20180203131909/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-04T00:00:36Z",
+        "uri": "http://web.archive.org/web/20180204000036/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-04T07:15:56Z",
+        "uri": "http://web.archive.org/web/20180204071556/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-04T07:16:00Z",
+        "uri": "http://web.archive.org/web/20180204071600/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-04T22:04:51Z",
+        "uri": "http://web.archive.org/web/20180204220451/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-05T17:56:40Z",
+        "uri": "http://web.archive.org/web/20180205175640/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-05T17:56:42Z",
+        "uri": "http://web.archive.org/web/20180205175642/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-05T21:41:07Z",
+        "uri": "http://web.archive.org/web/20180205214107/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-06T03:25:28Z",
+        "uri": "http://web.archive.org/web/20180206032528/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-06T14:36:12Z",
+        "uri": "http://web.archive.org/web/20180206143612/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-06T15:22:42Z",
+        "uri": "http://web.archive.org/web/20180206152242/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-06T23:27:57Z",
+        "uri": "http://web.archive.org/web/20180206232757/http://www.cnn.com:80/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-07T13:58:01Z",
+        "uri": "http://web.archive.org/web/20180207135801/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-07T22:35:10Z",
+        "uri": "http://web.archive.org/web/20180207223510/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-07T23:53:00Z",
+        "uri": "http://webarchive.loc.gov/all/20180207235300/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-08T11:06:55Z",
+        "uri": "http://web.archive.org/web/20180208110655/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-08T11:06:58Z",
+        "uri": "http://web.archive.org/web/20180208110658/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-08T13:13:11Z",
+        "uri": "http://web.archive.org/web/20180208131311/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-08T13:13:15Z",
+        "uri": "http://web.archive.org/web/20180208131315/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-08T16:44:04Z",
+        "uri": "http://web.archive.org/web/20180208164404/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-09T09:19:31Z",
+        "uri": "http://web.archive.org/web/20180209091931/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-09T09:19:34Z",
+        "uri": "http://web.archive.org/web/20180209091934/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-10T18:29:23Z",
+        "uri": "http://web.archive.org/web/20180210182923/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-10T18:29:27Z",
+        "uri": "http://web.archive.org/web/20180210182927/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-11T00:50:09Z",
+        "uri": "http://web.archive.org/web/20180211005009/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-11T00:50:22Z",
+        "uri": "http://web.archive.org/web/20180211005022/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-12T07:02:36Z",
+        "uri": "http://web.archive.org/web/20180212070236/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-12T07:02:43Z",
+        "uri": "http://web.archive.org/web/20180212070243/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-12T15:52:12Z",
+        "uri": "http://web.archive.org/web/20180212155212/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-12T22:32:59Z",
+        "uri": "http://web.archive.org/web/20180212223259/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-13T07:48:13Z",
+        "uri": "http://web.archive.org/web/20180213074813/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-13T07:48:25Z",
+        "uri": "http://web.archive.org/web/20180213074825/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-13T20:54:02Z",
+        "uri": "http://web.archive.org/web/20180213205402/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-14T00:06:45Z",
+        "uri": "http://web.archive.org/web/20180214000645/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-14T00:06:50Z",
+        "uri": "http://web.archive.org/web/20180214000650/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-14T08:20:43Z",
+        "uri": "http://web.archive.org/web/20180214082043/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-14T08:20:53Z",
+        "uri": "http://web.archive.org/web/20180214082053/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-15T00:23:59Z",
+        "uri": "http://web.archive.org/web/20180215002359/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-15T08:47:19Z",
+        "uri": "http://web.archive.org/web/20180215084719/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-15T22:54:30Z",
+        "uri": "http://web.archive.org/web/20180215225430/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-15T22:54:32Z",
+        "uri": "http://web.archive.org/web/20180215225432/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-16T05:59:32Z",
+        "uri": "http://web.archive.org/web/20180216055932/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-17T04:08:46Z",
+        "uri": "http://web.archive.org/web/20180217040846/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-17T04:38:21Z",
+        "uri": "http://web.archive.org/web/20180217043821/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-17T07:21:33Z",
+        "uri": "http://web.archive.org/web/20180217072133/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-18T05:53:29Z",
+        "uri": "http://web.archive.org/web/20180218055329/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-19T07:37:41Z",
+        "uri": "http://web.archive.org/web/20180219073741/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-20T06:55:40Z",
+        "uri": "http://web.archive.org/web/20180220065540/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-20T07:39:56Z",
+        "uri": "http://web.archive.org/web/20180220073956/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-21T07:44:04Z",
+        "uri": "http://web.archive.org/web/20180221074404/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-21T09:21:29Z",
+        "uri": "http://web.archive.org/web/20180221092129/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-22T12:52:07Z",
+        "uri": "http://web.archive.org/web/20180222125207/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-22T13:20:07Z",
+        "uri": "http://web.archive.org/web/20180222132007/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-22T16:01:29Z",
+        "uri": "http://web.archive.org/web/20180222160129/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-23T04:37:29Z",
+        "uri": "https://perma-archives.org/warc/20180223043729/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-23T04:37:29Z",
+        "uri": "http://web.archive.org/web/20180223043729/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-23T13:16:35Z",
+        "uri": "http://web.archive.org/web/20180223131635/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-23T15:18:54Z",
+        "uri": "http://web.archive.org/web/20180223151854/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-23T15:58:50Z",
+        "uri": "http://web.archive.org/web/20180223155850/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-24T17:08:43Z",
+        "uri": "http://web.archive.org/web/20180224170843/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-25T17:14:39Z",
+        "uri": "http://web.archive.org/web/20180225171439/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-26T17:42:06Z",
+        "uri": "http://web.archive.org/web/20180226174206/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-26T19:40:12Z",
+        "uri": "http://web.archive.org/web/20180226194012/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-27T17:28:57Z",
+        "uri": "http://web.archive.org/web/20180227172857/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-02-28T22:29:16Z",
+        "uri": "http://web.archive.org/web/20180228222916/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-01T00:02:22Z",
+        "uri": "http://web.archive.org/web/20180301000222/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-01T20:31:29Z",
+        "uri": "http://web.archive.org/web/20180301203129/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-05T12:40:51Z",
+        "uri": "http://web.archive.org/web/20180305124051/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-06T20:35:11Z",
+        "uri": "http://web.archive.org/web/20180306203511/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-07T10:14:25Z",
+        "uri": "http://web.archive.org/web/20180307101425/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-08T14:03:17Z",
+        "uri": "http://web.archive.org/web/20180308140317/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-08T18:01:29Z",
+        "uri": "http://wayback.archive-it.org/all/20180308180129/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-08T18:01:29Z",
+        "uri": "http://web.archive.org/web/20180308180129/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-08T18:01:32Z",
+        "uri": "http://wayback.archive-it.org/all/20180308180132/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-08T18:01:32Z",
+        "uri": "http://web.archive.org/web/20180308180132/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-09T08:04:33Z",
+        "uri": "http://web.archive.org/web/20180309080433/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-09T17:58:47Z",
+        "uri": "http://web.archive.org/web/20180309175847/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-10T15:48:15Z",
+        "uri": "http://web.archive.org/web/20180310154815/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-11T03:10:56Z",
+        "uri": "http://web.archive.org/web/20180311031056/http://www.cnn.com:80/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-12T12:15:20Z",
+        "uri": "http://web.archive.org/web/20180312121520/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-14T13:39:30Z",
+        "uri": "http://web.archive.org/web/20180314133930/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-14T19:04:30Z",
+        "uri": "http://web.archive.org/web/20180314190430/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-15T14:38:47Z",
+        "uri": "http://web.archive.org/web/20180315143847/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-15T19:42:41Z",
+        "uri": "http://web.archive.org/web/20180315194241/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-16T20:06:28Z",
+        "uri": "http://web.archive.org/web/20180316200628/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-17T20:58:32Z",
+        "uri": "http://web.archive.org/web/20180317205832/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-18T21:45:31Z",
+        "uri": "http://web.archive.org/web/20180318214531/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-19T21:54:20Z",
+        "uri": "http://web.archive.org/web/20180319215420/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-19T22:48:20Z",
+        "uri": "http://web.archive.org/web/20180319224820/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-20T23:42:45Z",
+        "uri": "http://web.archive.org/web/20180320234245/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-21T19:04:10Z",
+        "uri": "http://web.archive.org/web/20180321190410/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-23T20:42:47Z",
+        "uri": "http://web.archive.org/web/20180323204247/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-27T01:46:38Z",
+        "uri": "http://web.archive.org/web/20180327014638/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-27T02:45:39Z",
+        "uri": "http://web.archive.org/web/20180327024539/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-28T03:01:42Z",
+        "uri": "http://web.archive.org/web/20180328030142/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-28T06:55:08Z",
+        "uri": "http://web.archive.org/web/20180328065508/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-29T02:01:43Z",
+        "uri": "http://web.archive.org/web/20180329020143/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-29T03:40:19Z",
+        "uri": "http://web.archive.org/web/20180329034019/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-30T06:38:35Z",
+        "uri": "http://web.archive.org/web/20180330063835/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-03-30T21:13:12Z",
+        "uri": "http://web.archive.org/web/20180330211312/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-02T06:58:10Z",
+        "uri": "http://web.archive.org/web/20180402065810/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-03T06:54:23Z",
+        "uri": "http://web.archive.org/web/20180403065423/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-04T10:54:05Z",
+        "uri": "http://web.archive.org/web/20180404105405/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-05T22:55:16Z",
+        "uri": "http://web.archive.org/web/20180405225516/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-06T08:46:37Z",
+        "uri": "http://web.archive.org/web/20180406084637/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-07T04:00:11Z",
+        "uri": "http://web.archive.org/web/20180407040011/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-08T04:33:10Z",
+        "uri": "http://web.archive.org/web/20180408043310/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-09T06:00:56Z",
+        "uri": "http://web.archive.org/web/20180409060056/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-10T10:14:05Z",
+        "uri": "http://web.archive.org/web/20180410101405/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-11T06:37:29Z",
+        "uri": "http://web.archive.org/web/20180411063729/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-12T07:57:51Z",
+        "uri": "http://web.archive.org/web/20180412075751/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-12T08:33:00Z",
+        "uri": "http://web.archive.org/web/20180412083300/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-13T08:05:32Z",
+        "uri": "http://web.archive.org/web/20180413080532/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-14T07:26:46Z",
+        "uri": "http://web.archive.org/web/20180414072646/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-14T17:45:41Z",
+        "uri": "http://web.archive.org/web/20180414174541/http://www.cnn.com:80/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-15T10:41:31Z",
+        "uri": "http://web.archive.org/web/20180415104131/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-16T15:57:52Z",
+        "uri": "http://web.archive.org/web/20180416155752/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-17T10:07:18Z",
+        "uri": "http://web.archive.org/web/20180417100718/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-18T18:34:45Z",
+        "uri": "http://archive.md/20180418183445/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-19T14:25:07Z",
+        "uri": "http://web.archive.org/web/20180419142507/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-20T11:47:24Z",
+        "uri": "http://web.archive.org/web/20180420114724/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-20T20:08:56Z",
+        "uri": "http://web.archive.org/web/20180420200856/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-21T15:57:41Z",
+        "uri": "http://web.archive.org/web/20180421155741/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-22T17:07:21Z",
+        "uri": "http://web.archive.org/web/20180422170721/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-23T16:17:22Z",
+        "uri": "http://web.archive.org/web/20180423161722/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-24T20:23:43Z",
+        "uri": "http://web.archive.org/web/20180424202343/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-25T06:11:40Z",
+        "uri": "http://web.archive.org/web/20180425061140/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-25T17:45:08Z",
+        "uri": "http://web.archive.org/web/20180425174508/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-25T18:32:12Z",
+        "uri": "http://web.archive.org/web/20180425183212/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-26T19:36:40Z",
+        "uri": "http://web.archive.org/web/20180426193640/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-27T01:13:13Z",
+        "uri": "http://web.archive.org/web/20180427011313/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-27T20:08:10Z",
+        "uri": "http://web.archive.org/web/20180427200810/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-27T21:00:39Z",
+        "uri": "http://web.archive.org/web/20180427210039/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-29T01:46:03Z",
+        "uri": "http://web.archive.org/web/20180429014603/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-30T06:11:38Z",
+        "uri": "http://web.archive.org/web/20180430061138/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-30T21:45:03Z",
+        "uri": "http://web.archive.org/web/20180430214503/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-04-30T22:42:00Z",
+        "uri": "http://web.archive.org/web/20180430224200/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-01T19:04:29Z",
+        "uri": "http://web.archive.org/web/20180501190429/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-02T07:06:03Z",
+        "uri": "http://web.archive.org/web/20180502070603/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-02T23:32:06Z",
+        "uri": "http://web.archive.org/web/20180502233206/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-03T03:45:29Z",
+        "uri": "http://web.archive.org/web/20180503034529/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-03T12:27:16Z",
+        "uri": "http://web.archive.org/web/20180503122716/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-04T02:34:57Z",
+        "uri": "http://web.archive.org/web/20180504023457/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-04T04:10:31Z",
+        "uri": "http://web.archive.org/web/20180504041031/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-04T11:23:52Z",
+        "uri": "http://web.archive.org/web/20180504112352/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-05T01:53:30Z",
+        "uri": "http://web.archive.org/web/20180505015330/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-05T05:15:15Z",
+        "uri": "http://web.archive.org/web/20180505051515/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-06T02:32:18Z",
+        "uri": "http://web.archive.org/web/20180506023218/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-07T02:54:54Z",
+        "uri": "http://web.archive.org/web/20180507025454/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-07T06:34:53Z",
+        "uri": "http://wayback.archive-it.org/all/20180507063453/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-07T06:34:53Z",
+        "uri": "http://web.archive.org/web/20180507063453/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-08T04:10:57Z",
+        "uri": "http://web.archive.org/web/20180508041057/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-08T08:11:42Z",
+        "uri": "http://web.archive.org/web/20180508081142/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-08T11:38:12Z",
+        "uri": "http://web.archive.org/web/20180508113812/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-08T20:51:36Z",
+        "uri": "http://archive.md/20180508205136/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-09T03:33:27Z",
+        "uri": "http://web.archive.org/web/20180509033327/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-10T06:32:37Z",
+        "uri": "http://web.archive.org/web/20180510063237/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-10T08:41:38Z",
+        "uri": "http://web.archive.org/web/20180510084138/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-11T10:19:38Z",
+        "uri": "http://web.archive.org/web/20180511101938/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-12T10:25:53Z",
+        "uri": "http://web.archive.org/web/20180512102553/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-13T11:04:23Z",
+        "uri": "http://web.archive.org/web/20180513110423/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-14T11:29:28Z",
+        "uri": "http://web.archive.org/web/20180514112928/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-15T12:44:08Z",
+        "uri": "http://web.archive.org/web/20180515124408/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-16T08:22:24Z",
+        "uri": "http://web.archive.org/web/20180516082224/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-16T11:47:37Z",
+        "uri": "http://web.archive.org/web/20180516114737/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-17T11:34:01Z",
+        "uri": "http://web.archive.org/web/20180517113401/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-22T02:36:44Z",
+        "uri": "http://web.archive.org/web/20180522023644/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-23T00:31:41Z",
+        "uri": "http://web.archive.org/web/20180523003141/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-23T19:07:53Z",
+        "uri": "http://web.archive.org/web/20180523190753/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-24T22:25:09Z",
+        "uri": "http://web.archive.org/web/20180524222509/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-25T20:56:05Z",
+        "uri": "http://web.archive.org/web/20180525205605/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-30T03:19:39Z",
+        "uri": "http://web.archive.org/web/20180530031939/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-05-31T10:08:28Z",
+        "uri": "http://web.archive.org/web/20180531100828/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-06-01T04:12:43Z",
+        "uri": "http://web.archive.org/web/20180601041243/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-06-14T19:22:20Z",
+        "uri": "http://web.archive.org/web/20180614192220/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-06-15T10:46:36Z",
+        "uri": "http://web.archive.org/web/20180615104636/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-06-21T16:53:21Z",
+        "uri": "http://web.archive.org/web/20180621165321/http://www.cnn.com:80/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-06-29T03:43:17Z",
+        "uri": "http://wayback.archive-it.org/all/20180629034317/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-06-29T03:43:17Z",
+        "uri": "http://web.archive.org/web/20180629034317/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-05T23:05:47Z",
+        "uri": "http://wayback.archive-it.org/all/20180705230547/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-05T23:05:47Z",
+        "uri": "http://web.archive.org/web/20180705230547/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-08T14:30:25Z",
+        "uri": "http://wayback.archive-it.org/all/20180708143025/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-08T14:30:25Z",
+        "uri": "http://web.archive.org/web/20180708143025/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-09T14:36:23Z",
+        "uri": "http://wayback.archive-it.org/all/20180709143623/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-09T14:36:23Z",
+        "uri": "http://web.archive.org/web/20180709143623/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-11T14:23:10Z",
+        "uri": "http://wayback.archive-it.org/all/20180711142310/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-11T14:23:10Z",
+        "uri": "http://web.archive.org/web/20180711142310/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-12T10:16:03Z",
+        "uri": "http://web.archive.org/web/20180712101603/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-15T17:27:17Z",
+        "uri": "http://web.archive.org/web/20180715172717/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-17T00:43:10Z",
+        "uri": "http://wayback.archive-it.org/all/20180717004310/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-17T00:43:10Z",
+        "uri": "http://web.archive.org/web/20180717004310/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-17T20:35:30Z",
+        "uri": "http://web.archive.org/web/20180717203530/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-26T01:21:36Z",
+        "uri": "http://web.archive.org/web/20180726012136/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-28T05:27:43Z",
+        "uri": "http://web.archive.org/web/20180728052743/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-29T06:29:06Z",
+        "uri": "http://web.archive.org/web/20180729062906/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-30T07:10:18Z",
+        "uri": "http://web.archive.org/web/20180730071018/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-07-31T08:43:03Z",
+        "uri": "http://web.archive.org/web/20180731084303/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-01T01:10:12Z",
+        "uri": "http://wayback.archive-it.org/all/20180801011012/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-01T01:10:12Z",
+        "uri": "http://web.archive.org/web/20180801011012/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-01T08:58:04Z",
+        "uri": "http://web.archive.org/web/20180801085804/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-02T02:03:15Z",
+        "uri": "http://web.archive.org/web/20180802020315/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-02T10:34:38Z",
+        "uri": "http://web.archive.org/web/20180802103438/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-06T12:55:09Z",
+        "uri": "http://web.archive.org/web/20180806125509/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-07T12:30:02Z",
+        "uri": "http://web.archive.org/web/20180807123002/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-07T14:03:26Z",
+        "uri": "http://web.archive.org/web/20180807140326/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-09T02:37:22Z",
+        "uri": "http://web.archive.org/web/20180809023722/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-09T18:12:35Z",
+        "uri": "http://web.archive.org/web/20180809181235/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-10T02:42:01Z",
+        "uri": "http://web.archive.org/web/20180810024201/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-15T20:54:29Z",
+        "uri": "http://web.archive.org/web/20180815205429/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-16T03:14:15Z",
+        "uri": "http://web.archive.org/web/20180816031415/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-16T22:14:58Z",
+        "uri": "http://web.archive.org/web/20180816221458/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-21T14:23:03Z",
+        "uri": "http://web.archive.org/web/20180821142303/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-23T03:50:56Z",
+        "uri": "http://web.archive.org/web/20180823035056/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-24T03:42:02Z",
+        "uri": "http://web.archive.org/web/20180824034202/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-24T06:59:05Z",
+        "uri": "http://web.archive.org/web/20180824065905/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-24T19:36:25Z",
+        "uri": "http://web.archive.org/web/20180824193625/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-25T05:06:59Z",
+        "uri": "http://wayback.archive-it.org/all/20180825050659/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-25T05:06:59Z",
+        "uri": "http://web.archive.org/web/20180825050659/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-30T14:52:04Z",
+        "uri": "http://wayback.archive-it.org/all/20180830145204/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-30T14:52:04Z",
+        "uri": "http://web.archive.org/web/20180830145204/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-31T03:38:38Z",
+        "uri": "http://wayback.archive-it.org/all/20180831033838/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-08-31T03:38:38Z",
+        "uri": "http://web.archive.org/web/20180831033838/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-01T02:50:56Z",
+        "uri": "http://wayback.archive-it.org/all/20180901025056/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-01T02:50:56Z",
+        "uri": "http://web.archive.org/web/20180901025056/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-11T14:14:41Z",
+        "uri": "http://wayback.archive-it.org/all/20180911141441/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-11T14:14:41Z",
+        "uri": "http://web.archive.org/web/20180911141441/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-13T14:20:40Z",
+        "uri": "http://web.archive.org/web/20180913142040/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-15T03:16:51Z",
+        "uri": "http://wayback.archive-it.org/all/20180915031651/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-15T03:16:51Z",
+        "uri": "http://web.archive.org/web/20180915031651/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-21T10:27:53Z",
+        "uri": "http://web.archive.org/web/20180921102753/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-21T14:25:19Z",
+        "uri": "http://wayback.archive-it.org/all/20180921142519/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-21T14:25:19Z",
+        "uri": "http://web.archive.org/web/20180921142519/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-22T01:46:37Z",
+        "uri": "http://wayback.archive-it.org/all/20180922014637/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-22T01:46:37Z",
+        "uri": "http://web.archive.org/web/20180922014637/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-23T02:00:19Z",
+        "uri": "http://wayback.archive-it.org/all/20180923020019/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-23T02:00:19Z",
+        "uri": "http://web.archive.org/web/20180923020019/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-24T02:11:11Z",
+        "uri": "http://wayback.archive-it.org/all/20180924021111/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-24T02:11:11Z",
+        "uri": "http://web.archive.org/web/20180924021111/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-24T21:02:31Z",
+        "uri": "http://web.archive.org/web/20180924210231/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-25T03:55:52Z",
+        "uri": "http://wayback.archive-it.org/all/20180925035552/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-25T03:55:52Z",
+        "uri": "http://web.archive.org/web/20180925035552/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-26T03:29:01Z",
+        "uri": "http://wayback.archive-it.org/all/20180926032901/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-26T03:29:01Z",
+        "uri": "http://web.archive.org/web/20180926032901/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-27T00:58:23Z",
+        "uri": "http://wayback.archive-it.org/all/20180927005823/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-27T00:58:23Z",
+        "uri": "http://web.archive.org/web/20180927005823/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-28T06:38:03Z",
+        "uri": "http://web.archive.org/web/20180928063803/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-28T10:18:53Z",
+        "uri": "http://wayback.archive-it.org/all/20180928101853/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-28T10:18:53Z",
+        "uri": "http://web.archive.org/web/20180928101853/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-30T11:58:51Z",
+        "uri": "http://wayback.archive-it.org/all/20180930115851/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-09-30T11:58:51Z",
+        "uri": "http://web.archive.org/web/20180930115851/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-01T00:41:07Z",
+        "uri": "http://wayback.archive-it.org/all/20181001004107/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-01T00:41:07Z",
+        "uri": "http://web.archive.org/web/20181001004107/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-02T03:06:07Z",
+        "uri": "http://wayback.archive-it.org/all/20181002030607/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-02T03:06:07Z",
+        "uri": "http://web.archive.org/web/20181002030607/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-03T04:26:31Z",
+        "uri": "http://wayback.archive-it.org/all/20181003042631/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-03T04:26:31Z",
+        "uri": "http://web.archive.org/web/20181003042631/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-04T05:03:46Z",
+        "uri": "http://wayback.archive-it.org/all/20181004050346/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-04T05:03:46Z",
+        "uri": "http://web.archive.org/web/20181004050346/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-05T05:55:07Z",
+        "uri": "http://wayback.archive-it.org/all/20181005055507/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-05T05:55:07Z",
+        "uri": "http://web.archive.org/web/20181005055507/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-06T11:09:36Z",
+        "uri": "http://wayback.archive-it.org/all/20181006110936/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-06T11:09:36Z",
+        "uri": "http://web.archive.org/web/20181006110936/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-07T04:21:56Z",
+        "uri": "http://wayback.archive-it.org/all/20181007042156/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-07T04:21:56Z",
+        "uri": "http://web.archive.org/web/20181007042156/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-08T06:18:44Z",
+        "uri": "http://wayback.archive-it.org/all/20181008061844/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-08T06:18:44Z",
+        "uri": "http://web.archive.org/web/20181008061844/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-09T15:03:21Z",
+        "uri": "http://wayback.archive-it.org/all/20181009150321/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-09T15:03:21Z",
+        "uri": "http://web.archive.org/web/20181009150321/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-10T11:30:42Z",
+        "uri": "http://wayback.archive-it.org/all/20181010113042/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-10T11:30:42Z",
+        "uri": "http://web.archive.org/web/20181010113042/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-10T21:55:32Z",
+        "uri": "http://wayback.archive-it.org/all/20181010215532/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-10T21:55:32Z",
+        "uri": "http://web.archive.org/web/20181010215532/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-14T12:57:25Z",
+        "uri": "http://wayback.archive-it.org/all/20181014125725/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-14T12:57:25Z",
+        "uri": "http://web.archive.org/web/20181014125725/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-15T15:45:38Z",
+        "uri": "http://wayback.archive-it.org/all/20181015154538/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-15T15:45:38Z",
+        "uri": "http://web.archive.org/web/20181015154538/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-16T14:08:16Z",
+        "uri": "http://wayback.archive-it.org/all/20181016140816/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-16T14:08:16Z",
+        "uri": "http://web.archive.org/web/20181016140816/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-17T13:31:16Z",
+        "uri": "http://wayback.archive-it.org/all/20181017133116/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-17T13:31:16Z",
+        "uri": "http://web.archive.org/web/20181017133116/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-18T08:20:49Z",
+        "uri": "http://wayback.archive-it.org/all/20181018082049/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-18T08:20:49Z",
+        "uri": "http://web.archive.org/web/20181018082049/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-18T16:00:21Z",
+        "uri": "http://web.archive.org/web/20181018160021/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-19T08:25:47Z",
+        "uri": "http://wayback.archive-it.org/all/20181019082547/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-19T08:25:47Z",
+        "uri": "http://web.archive.org/web/20181019082547/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-20T08:49:50Z",
+        "uri": "http://wayback.archive-it.org/all/20181020084950/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-20T08:49:50Z",
+        "uri": "http://web.archive.org/web/20181020084950/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-21T00:32:47Z",
+        "uri": "http://wayback.archive-it.org/all/20181021003247/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-21T00:32:47Z",
+        "uri": "http://web.archive.org/web/20181021003247/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-23T01:36:04Z",
+        "uri": "http://wayback.archive-it.org/all/20181023013604/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-23T01:36:04Z",
+        "uri": "http://web.archive.org/web/20181023013604/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-28T16:53:25Z",
+        "uri": "http://wayback.archive-it.org/all/20181028165325/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-28T16:53:25Z",
+        "uri": "http://web.archive.org/web/20181028165325/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-30T04:21:30Z",
+        "uri": "http://web.archive.org/web/20181030042130/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-31T10:28:16Z",
+        "uri": "http://wayback.archive-it.org/all/20181031102816/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-31T10:28:16Z",
+        "uri": "http://web.archive.org/web/20181031102816/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-31T13:51:17Z",
+        "uri": "http://wayback.archive-it.org/all/20181031135117/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-10-31T13:51:17Z",
+        "uri": "http://web.archive.org/web/20181031135117/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-11-01T11:01:04Z",
+        "uri": "http://wayback.archive-it.org/all/20181101110104/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-11-01T11:01:04Z",
+        "uri": "http://web.archive.org/web/20181101110104/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-11-06T21:44:18Z",
+        "uri": "http://wayback.archive-it.org/all/20181106214418/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-11-06T21:44:18Z",
+        "uri": "http://web.archive.org/web/20181106214418/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-11-07T21:31:36Z",
+        "uri": "http://wayback.archive-it.org/all/20181107213136/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-11-07T21:31:36Z",
+        "uri": "http://web.archive.org/web/20181107213136/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-01T09:31:19Z",
+        "uri": "http://web.archive.org/web/20181201093119/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-02T11:13:05Z",
+        "uri": "http://web.archive.org/web/20181202111305/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-03T13:04:28Z",
+        "uri": "http://web.archive.org/web/20181203130428/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-08T13:10:45Z",
+        "uri": "http://wayback.archive-it.org/all/20181208131045/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-08T13:10:45Z",
+        "uri": "http://web.archive.org/web/20181208131045/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-09T15:17:57Z",
+        "uri": "http://web.archive.org/web/20181209151757/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-15T10:00:06Z",
+        "uri": "http://web.archive.org/web/20181215100006/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-16T08:05:59Z",
+        "uri": "http://wayback.archive-it.org/all/20181216080559/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-16T08:05:59Z",
+        "uri": "http://web.archive.org/web/20181216080559/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-16T23:43:44Z",
+        "uri": "http://wayback.archive-it.org/all/20181216234344/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-16T23:43:44Z",
+        "uri": "http://web.archive.org/web/20181216234344/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-18T21:58:34Z",
+        "uri": "http://wayback.archive-it.org/all/20181218215834/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-18T21:58:34Z",
+        "uri": "http://web.archive.org/web/20181218215834/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-20T20:31:07Z",
+        "uri": "http://wayback.archive-it.org/all/20181220203107/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-20T20:31:07Z",
+        "uri": "http://web.archive.org/web/20181220203107/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-27T03:52:17Z",
+        "uri": "http://web.archive.org/web/20181227035217/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-28T09:35:59Z",
+        "uri": "http://wayback.archive-it.org/all/20181228093559/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-28T09:35:59Z",
+        "uri": "http://web.archive.org/web/20181228093559/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-28T10:25:32Z",
+        "uri": "http://web.archive.org/web/20181228102532/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-29T08:59:52Z",
+        "uri": "http://wayback.archive-it.org/all/20181229085952/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-29T08:59:52Z",
+        "uri": "http://web.archive.org/web/20181229085952/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-30T07:23:55Z",
+        "uri": "http://wayback.archive-it.org/all/20181230072355/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-30T07:23:55Z",
+        "uri": "http://web.archive.org/web/20181230072355/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-31T06:08:47Z",
+        "uri": "http://wayback.archive-it.org/all/20181231060847/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2018-12-31T06:08:47Z",
+        "uri": "http://web.archive.org/web/20181231060847/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-01T14:15:37Z",
+        "uri": "http://wayback.archive-it.org/all/20190101141537/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-01T14:15:37Z",
+        "uri": "http://web.archive.org/web/20190101141537/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-02T14:12:29Z",
+        "uri": "http://wayback.archive-it.org/all/20190102141229/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-02T14:12:29Z",
+        "uri": "http://web.archive.org/web/20190102141229/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-05T05:20:45Z",
+        "uri": "http://web.archive.org/web/20190105052045/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-05T05:40:17Z",
+        "uri": "http://wayback.archive-it.org/all/20190105054017/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-05T05:40:17Z",
+        "uri": "http://web.archive.org/web/20190105054017/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-05T17:49:57Z",
+        "uri": "http://wayback.archive-it.org/all/20190105174957/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-05T17:49:57Z",
+        "uri": "http://web.archive.org/web/20190105174957/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-08T01:33:45Z",
+        "uri": "http://wayback.archive-it.org/all/20190108013345/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-08T01:33:45Z",
+        "uri": "http://web.archive.org/web/20190108013345/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-09T04:02:32Z",
+        "uri": "http://wayback.archive-it.org/all/20190109040232/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-01-09T04:02:32Z",
+        "uri": "http://web.archive.org/web/20190109040232/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-02-07T14:33:03Z",
+        "uri": "http://wayback.archive-it.org/all/20190207143303/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-02-07T14:33:03Z",
+        "uri": "http://web.archive.org/web/20190207143303/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      },
+      {
+        "datetime": "2019-02-13T19:57:07Z",
+        "uri": "http://web.archive.org/web/20190213195707/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-11T22:51:09Z",
+      "uri": "http://web.archive.org/web/20180111225109/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T19:57:07Z",
+      "uri": "http://web.archive.org/web/20190213195707/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html"
+}

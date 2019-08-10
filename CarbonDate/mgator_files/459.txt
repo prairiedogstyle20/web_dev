@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://sports.yahoo.com/king-wire-fox-terrier-wins-westminster-kennel-club-dog-show-one-finalist-disqualified-035523530.html",
+  "self": "http://localhost:1208/timemap/json/https://sports.yahoo.com/king-wire-fox-terrier-wins-westminster-kennel-club-dog-show-one-finalist-disqualified-035523530.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T04:32:40Z",
+        "uri": "http://web.archive.org/web/20190213043240/https://sports.yahoo.com/king-wire-fox-terrier-wins-westminster-kennel-club-dog-show-one-finalist-disqualified-035523530.html"
+      },
+      {
+        "datetime": "2019-02-13T04:45:28Z",
+        "uri": "http://web.archive.org/web/20190213044528/http://sports.yahoo.com/king-wire-fox-terrier-wins-westminster-kennel-club-dog-show-one-finalist-disqualified-035523530.html"
+      },
+      {
+        "datetime": "2019-02-13T20:18:19Z",
+        "uri": "http://web.archive.org/web/20190213201819/https://sports.yahoo.com/king-wire-fox-terrier-wins-westminster-kennel-club-dog-show-one-finalist-disqualified-035523530.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T04:32:40Z",
+      "uri": "http://web.archive.org/web/20190213043240/https://sports.yahoo.com/king-wire-fox-terrier-wins-westminster-kennel-club-dog-show-one-finalist-disqualified-035523530.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T20:18:19Z",
+      "uri": "http://web.archive.org/web/20190213201819/https://sports.yahoo.com/king-wire-fox-terrier-wins-westminster-kennel-club-dog-show-one-finalist-disqualified-035523530.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://sports.yahoo.com/king-wire-fox-terrier-wins-westminster-kennel-club-dog-show-one-finalist-disqualified-035523530.html",
+    "json_format": "http://localhost:1208/timemap/json/https://sports.yahoo.com/king-wire-fox-terrier-wins-westminster-kennel-club-dog-show-one-finalist-disqualified-035523530.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://sports.yahoo.com/king-wire-fox-terrier-wins-westminster-kennel-club-dog-show-one-finalist-disqualified-035523530.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://sports.yahoo.com/king-wire-fox-terrier-wins-westminster-kennel-club-dog-show-one-finalist-disqualified-035523530.html"
+}

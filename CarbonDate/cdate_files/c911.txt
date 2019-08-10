@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://spread-sports.jp/archives/20229",
+  "uri": "https://spread-sports.jp/archives/20229",
+  "estimated-creation-date": "2019-02-12T10:53:01",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T19:50:36"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T10:53:01"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

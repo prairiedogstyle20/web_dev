@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.washingtonpost.com/business/economy/trump-urges-tennessee-valley-authority-to-keep-open-49-year-old-coal-plant/2019/02/12/6fa1810c-2ed9-11e9-813a-0ab2f17e305b_story.html?utm_term=.8ae26beb7f9a&tid=sm_tw",
+  "uri": "https://www.washingtonpost.com/business/economy/trump-urges-tennessee-valley-authority-to-keep-open-49-year-old-coal-plant/2019/02/12/6fa1810c-2ed9-11e9-813a-0ab2f17e305b_story.html?utm_term=.8ae26beb7f9a&tid=sm_tw",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

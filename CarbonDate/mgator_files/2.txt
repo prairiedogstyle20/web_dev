@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://bongino.com/liberals-are-twisting-the-numbers-to-say-trump-raised-middle-class-taxes/",
+  "self": "http://localhost:1208/timemap/json/https://bongino.com/liberals-are-twisting-the-numbers-to-say-trump-raised-middle-class-taxes/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-11T03:03:55Z",
+        "uri": "http://web.archive.org/web/20190211030355/https://bongino.com/liberals-are-twisting-the-numbers-to-say-trump-raised-middle-class-taxes/"
+      },
+      {
+        "datetime": "2019-02-13T02:43:31Z",
+        "uri": "http://web.archive.org/web/20190213024331/https://bongino.com/liberals-are-twisting-the-numbers-to-say-trump-raised-middle-class-taxes/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-11T03:03:55Z",
+      "uri": "http://web.archive.org/web/20190211030355/https://bongino.com/liberals-are-twisting-the-numbers-to-say-trump-raised-middle-class-taxes/"
+    },
+    "last": {
+      "datetime": "2019-02-13T02:43:31Z",
+      "uri": "http://web.archive.org/web/20190213024331/https://bongino.com/liberals-are-twisting-the-numbers-to-say-trump-raised-middle-class-taxes/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://bongino.com/liberals-are-twisting-the-numbers-to-say-trump-raised-middle-class-taxes/",
+    "json_format": "http://localhost:1208/timemap/json/https://bongino.com/liberals-are-twisting-the-numbers-to-say-trump-raised-middle-class-taxes/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://bongino.com/liberals-are-twisting-the-numbers-to-say-trump-raised-middle-class-taxes/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://bongino.com/liberals-are-twisting-the-numbers-to-say-trump-raised-middle-class-taxes/"
+}

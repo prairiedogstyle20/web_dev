@@ -1,0 +1,267 @@
+61
+{
+  "original_uri": "https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html",
+  "self": "http://localhost:1208/timemap/json/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-01-21T17:05:41Z",
+        "uri": "http://web.archive.org/web/20190121170541/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-21T18:08:41Z",
+        "uri": "http://web.archive.org/web/20190121180841/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-21T19:12:09Z",
+        "uri": "http://archive.md/20190121191209/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-21T20:14:23Z",
+        "uri": "http://web.archive.org/web/20190121201423/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-21T21:20:00Z",
+        "uri": "http://web.archive.org/web/20190121212000/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-21T22:20:32Z",
+        "uri": "https://perma-archives.org/warc/20190121222032/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-21T22:20:32Z",
+        "uri": "http://web.archive.org/web/20190121222032/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-21T23:01:44Z",
+        "uri": "http://archive.md/20190121230144/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-21T23:56:54Z",
+        "uri": "http://web.archive.org/web/20190121235654/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T00:07:13Z",
+        "uri": "http://web.archive.org/web/20190122000713/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T00:43:29Z",
+        "uri": "http://web.archive.org/web/20190122004329/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T01:13:06Z",
+        "uri": "http://web.archive.org/web/20190122011306/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T01:24:54Z",
+        "uri": "http://wayback.archive-it.org/all/20190122012454/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T01:24:54Z",
+        "uri": "http://web.archive.org/web/20190122012454/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T01:28:37Z",
+        "uri": "http://web.archive.org/web/20190122012837/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T01:28:38Z",
+        "uri": "http://web.archive.org/web/20190122012838/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T03:51:26Z",
+        "uri": "http://web.archive.org/web/20190122035126/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T04:37:38Z",
+        "uri": "http://web.archive.org/web/20190122043738/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T05:18:34Z",
+        "uri": "http://web.archive.org/web/20190122051834/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T05:20:49Z",
+        "uri": "http://web.archive.org/web/20190122052049/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T06:09:50Z",
+        "uri": "http://web.archive.org/web/20190122060950/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T07:03:02Z",
+        "uri": "http://web.archive.org/web/20190122070302/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T07:03:03Z",
+        "uri": "http://web.archive.org/web/20190122070303/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T07:06:43Z",
+        "uri": "http://web.archive.org/web/20190122070643/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T08:40:13Z",
+        "uri": "http://web.archive.org/web/20190122084013/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T12:08:14Z",
+        "uri": "http://web.archive.org/web/20190122120814/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T12:08:15Z",
+        "uri": "http://web.archive.org/web/20190122120815/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-22T12:37:26Z",
+        "uri": "http://web.archive.org/web/20190122123726/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-23T02:37:05Z",
+        "uri": "http://web.archive.org/web/20190123023705/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-23T02:37:06Z",
+        "uri": "http://web.archive.org/web/20190123023706/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-23T04:46:37Z",
+        "uri": "http://web.archive.org/web/20190123044637/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-23T05:44:09Z",
+        "uri": "http://web.archive.org/web/20190123054409/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-23T06:03:05Z",
+        "uri": "http://web.archive.org/web/20190123060305/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-23T13:51:52Z",
+        "uri": "http://web.archive.org/web/20190123135152/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-23T13:51:53Z",
+        "uri": "http://web.archive.org/web/20190123135153/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-24T03:06:03Z",
+        "uri": "http://web.archive.org/web/20190124030603/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-24T06:47:09Z",
+        "uri": "http://web.archive.org/web/20190124064709/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-24T11:11:01Z",
+        "uri": "http://web.archive.org/web/20190124111101/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-25T09:50:15Z",
+        "uri": "http://web.archive.org/web/20190125095015/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-25T13:19:16Z",
+        "uri": "http://web.archive.org/web/20190125131916/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-25T13:19:17Z",
+        "uri": "http://web.archive.org/web/20190125131917/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-26T07:45:11Z",
+        "uri": "http://web.archive.org/web/20190126074511/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-26T07:45:12Z",
+        "uri": "http://web.archive.org/web/20190126074512/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-27T14:01:17Z",
+        "uri": "http://web.archive.org/web/20190127140117/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-27T14:01:18Z",
+        "uri": "http://web.archive.org/web/20190127140118/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-28T08:18:43Z",
+        "uri": "http://web.archive.org/web/20190128081843/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-28T08:18:44Z",
+        "uri": "http://web.archive.org/web/20190128081844/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-30T08:47:20Z",
+        "uri": "http://web.archive.org/web/20190130084720/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-30T08:47:21Z",
+        "uri": "http://web.archive.org/web/20190130084721/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-31T09:03:02Z",
+        "uri": "http://web.archive.org/web/20190131090302/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-01-31T09:03:03Z",
+        "uri": "http://web.archive.org/web/20190131090303/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-02-01T09:06:36Z",
+        "uri": "http://web.archive.org/web/20190201090636/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-02-01T09:06:37Z",
+        "uri": "http://web.archive.org/web/20190201090637/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-02-03T18:29:01Z",
+        "uri": "http://web.archive.org/web/20190203182901/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-02-03T18:29:02Z",
+        "uri": "http://web.archive.org/web/20190203182902/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-02-03T23:57:29Z",
+        "uri": "http://web.archive.org/web/20190203235729/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-02-04T18:24:24Z",
+        "uri": "http://web.archive.org/web/20190204182424/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-02-04T18:24:26Z",
+        "uri": "http://web.archive.org/web/20190204182426/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-02-06T13:00:17Z",
+        "uri": "http://web.archive.org/web/20190206130017/http://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-02-06T13:00:18Z",
+        "uri": "http://web.archive.org/web/20190206130018/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      },
+      {
+        "datetime": "2019-02-07T14:33:59Z",
+        "uri": "http://web.archive.org/web/20190207143359/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-01-21T17:05:41Z",
+      "uri": "http://web.archive.org/web/20190121170541/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+    },
+    "last": {
+      "datetime": "2019-02-07T14:33:59Z",
+      "uri": "http://web.archive.org/web/20190207143359/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.washingtonpost.com/politics/trump-voters-now-blame-him-for-the-government-shutdown/2019/01/20/416051de-1b55-11e9-9ebf-c5fed1b7a081_story.html"
+}

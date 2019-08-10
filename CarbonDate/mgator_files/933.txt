@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.reuters.com/article/us-venezuela-politics-usa/u-s-military-intervention-in-venezuela-not-an-option-lawmaker-idUSKCN1Q223V",
+  "self": "http://localhost:1208/timemap/json/https://www.reuters.com/article/us-venezuela-politics-usa/u-s-military-intervention-in-venezuela-not-an-option-lawmaker-idUSKCN1Q223V",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T21:55:55Z",
+        "uri": "http://web.archive.org/web/20190213215555/https://www.reuters.com/article/us-venezuela-politics-usa/u-s-military-intervention-in-venezuela-not-an-option-lawmaker-idUSKCN1Q223V"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T21:55:55Z",
+      "uri": "http://web.archive.org/web/20190213215555/https://www.reuters.com/article/us-venezuela-politics-usa/u-s-military-intervention-in-venezuela-not-an-option-lawmaker-idUSKCN1Q223V"
+    },
+    "last": {
+      "datetime": "2019-02-13T21:55:55Z",
+      "uri": "http://web.archive.org/web/20190213215555/https://www.reuters.com/article/us-venezuela-politics-usa/u-s-military-intervention-in-venezuela-not-an-option-lawmaker-idUSKCN1Q223V"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.reuters.com/article/us-venezuela-politics-usa/u-s-military-intervention-in-venezuela-not-an-option-lawmaker-idUSKCN1Q223V",
+    "json_format": "http://localhost:1208/timemap/json/https://www.reuters.com/article/us-venezuela-politics-usa/u-s-military-intervention-in-venezuela-not-an-option-lawmaker-idUSKCN1Q223V",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.reuters.com/article/us-venezuela-politics-usa/u-s-military-intervention-in-venezuela-not-an-option-lawmaker-idUSKCN1Q223V"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.reuters.com/article/us-venezuela-politics-usa/u-s-military-intervention-in-venezuela-not-an-option-lawmaker-idUSKCN1Q223V"
+}

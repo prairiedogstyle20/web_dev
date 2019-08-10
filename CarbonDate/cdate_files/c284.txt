@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://abc3340.com/news/nation-world/live-president-trump-speaks-to-major-city-and-county-law-enforcement-at-joint-conference",
+  "uri": "https://abc3340.com/news/nation-world/live-president-trump-speaks-to-major-city-and-county-law-enforcement-at-joint-conference",
+  "estimated-creation-date": "2019-02-13T13:40:01",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T13:40:01"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214061636/http://abc3340.com/news/nation-world/live-president-trump-speaks-to-major-city-and-county-law-enforcement-at-joint-conference",
+      "memento-datetime": "2019-02-14T09:45:09",
+      "memento-pubdate": "2019-02-13T13:40:01",
+      "earliest": "2019-02-13T13:40:01"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:42:09"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

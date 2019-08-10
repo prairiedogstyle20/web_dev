@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.recode.net/2019/2/13/18222433/trump-executive-order-ai-explained",
+  "self": "http://localhost:1208/timemap/json/https://www.recode.net/2019/2/13/18222433/trump-executive-order-ai-explained",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T20:03:27Z",
+        "uri": "http://web.archive.org/web/20190213200327/https://www.recode.net/2019/2/13/18222433/trump-executive-order-ai-explained"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T20:03:27Z",
+      "uri": "http://web.archive.org/web/20190213200327/https://www.recode.net/2019/2/13/18222433/trump-executive-order-ai-explained"
+    },
+    "last": {
+      "datetime": "2019-02-13T20:03:27Z",
+      "uri": "http://web.archive.org/web/20190213200327/https://www.recode.net/2019/2/13/18222433/trump-executive-order-ai-explained"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.recode.net/2019/2/13/18222433/trump-executive-order-ai-explained",
+    "json_format": "http://localhost:1208/timemap/json/https://www.recode.net/2019/2/13/18222433/trump-executive-order-ai-explained",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.recode.net/2019/2/13/18222433/trump-executive-order-ai-explained"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.recode.net/2019/2/13/18222433/trump-executive-order-ai-explained"
+}

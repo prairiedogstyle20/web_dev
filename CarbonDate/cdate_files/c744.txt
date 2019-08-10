@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/2019/02/12/opinion/trump-border-wall-deal.html?partner=rss&emc=rss",
+  "uri": "https://www.nytimes.com/2019/02/12/opinion/trump-border-wall-deal.html?partner=rss&emc=rss",
+  "estimated-creation-date": "2019-02-13T00:07:53",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:07:09"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:07:53"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213124016/https://www.nytimes.com/2019/02/12/opinion/trump-border-wall-deal.html?partner=rss&emc=rss",
+      "memento-datetime": "2019-02-13T12:29:29",
+      "memento-pubdate": "2019-02-13T00:07:53",
+      "earliest": "2019-02-13T00:07:53"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T02:00:06"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://sports.yahoo.com/tennis-querrey-downs-harris-advance-york-open-042213468--ten.html?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "https://sports.yahoo.com/tennis-querrey-downs-harris-advance-york-open-042213468--ten.html?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

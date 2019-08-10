@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.independent.co.uk/news/world/americas/us-election/el-paso-rally-beto-orourke-trump-texas-fact-check-lies-border-wall-a8775541.html?utm_medium=Social&utm_source=Facebook",
+  "uri": "https://www.independent.co.uk/news/world/americas/us-election/el-paso-rally-beto-orourke-trump-texas-fact-check-lies-border-wall-a8775541.html?utm_medium=Social&utm_source=Facebook",
+  "estimated-creation-date": "2019-02-12T15:21:26",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T15:21:26"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

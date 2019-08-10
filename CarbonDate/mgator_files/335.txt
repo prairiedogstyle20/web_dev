@@ -1,0 +1,231 @@
+52
+{
+  "original_uri": "https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T20:46:20Z",
+        "uri": "http://web.archive.org/web/20190213204620/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-13T20:46:20Z",
+        "uri": "http://web.archive.org/web/20190213204620/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-13T21:37:46Z",
+        "uri": "http://web.archive.org/web/20190213213746/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-13T22:09:06Z",
+        "uri": "http://web.archive.org/web/20190213220906/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-13T22:32:18Z",
+        "uri": "http://web.archive.org/web/20190213223218/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-13T22:51:32Z",
+        "uri": "http://web.archive.org/web/20190213225132/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-13T22:51:32Z",
+        "uri": "http://web.archive.org/web/20190213225132/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-13T23:30:15Z",
+        "uri": "http://web.archive.org/web/20190213233015/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-13T23:30:15Z",
+        "uri": "http://web.archive.org/web/20190213233015/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T00:08:53Z",
+        "uri": "http://web.archive.org/web/20190214000853/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T00:08:53Z",
+        "uri": "http://web.archive.org/web/20190214000853/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T00:36:53Z",
+        "uri": "http://web.archive.org/web/20190214003653/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T00:36:53Z",
+        "uri": "http://web.archive.org/web/20190214003653/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T01:15:31Z",
+        "uri": "http://web.archive.org/web/20190214011531/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T01:15:31Z",
+        "uri": "http://web.archive.org/web/20190214011531/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T01:53:59Z",
+        "uri": "http://web.archive.org/web/20190214015359/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T01:53:59Z",
+        "uri": "http://web.archive.org/web/20190214015359/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T02:20:16Z",
+        "uri": "http://web.archive.org/web/20190214022016/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T02:32:35Z",
+        "uri": "http://web.archive.org/web/20190214023235/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T02:32:35Z",
+        "uri": "http://web.archive.org/web/20190214023235/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T03:11:02Z",
+        "uri": "http://web.archive.org/web/20190214031102/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T03:11:02Z",
+        "uri": "http://web.archive.org/web/20190214031102/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T03:49:04Z",
+        "uri": "http://web.archive.org/web/20190214034904/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T03:49:04Z",
+        "uri": "http://web.archive.org/web/20190214034904/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T04:27:18Z",
+        "uri": "http://web.archive.org/web/20190214042718/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T04:27:18Z",
+        "uri": "http://web.archive.org/web/20190214042718/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T05:05:45Z",
+        "uri": "http://web.archive.org/web/20190214050545/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T05:05:45Z",
+        "uri": "http://web.archive.org/web/20190214050545/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T05:44:13Z",
+        "uri": "http://web.archive.org/web/20190214054413/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T05:44:13Z",
+        "uri": "http://web.archive.org/web/20190214054413/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T06:22:11Z",
+        "uri": "http://web.archive.org/web/20190214062211/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T06:22:11Z",
+        "uri": "http://web.archive.org/web/20190214062211/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T07:00:12Z",
+        "uri": "http://web.archive.org/web/20190214070012/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T07:00:12Z",
+        "uri": "http://web.archive.org/web/20190214070012/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T07:38:18Z",
+        "uri": "http://web.archive.org/web/20190214073818/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T07:38:18Z",
+        "uri": "http://web.archive.org/web/20190214073818/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T08:16:11Z",
+        "uri": "http://web.archive.org/web/20190214081611/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T08:16:11Z",
+        "uri": "http://web.archive.org/web/20190214081611/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T08:54:25Z",
+        "uri": "http://web.archive.org/web/20190214085425/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T08:54:25Z",
+        "uri": "http://web.archive.org/web/20190214085425/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T09:32:16Z",
+        "uri": "http://web.archive.org/web/20190214093216/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T09:32:16Z",
+        "uri": "http://web.archive.org/web/20190214093216/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T10:10:42Z",
+        "uri": "http://web.archive.org/web/20190214101042/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T10:10:42Z",
+        "uri": "http://web.archive.org/web/20190214101042/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T10:49:06Z",
+        "uri": "http://web.archive.org/web/20190214104906/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T10:49:06Z",
+        "uri": "http://web.archive.org/web/20190214104906/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T11:27:30Z",
+        "uri": "http://web.archive.org/web/20190214112730/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T11:27:30Z",
+        "uri": "http://web.archive.org/web/20190214112730/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T11:30:03Z",
+        "uri": "http://web.archive.org/web/20190214113003/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T12:05:52Z",
+        "uri": "http://web.archive.org/web/20190214120552/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T12:44:38Z",
+        "uri": "http://web.archive.org/web/20190214124438/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T13:24:03Z",
+        "uri": "http://web.archive.org/web/20190214132403/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T20:46:20Z",
+      "uri": "http://web.archive.org/web/20190213204620/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+    },
+    "last": {
+      "datetime": "2019-02-14T13:24:03Z",
+      "uri": "http://web.archive.org/web/20190214132403/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/videos/politics/2019/02/13/acosta-trump-rally-el-paso-cameraman-attacked-sot-vpx.cnn"
+}

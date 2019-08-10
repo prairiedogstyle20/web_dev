@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.huffingtonpost.co.uk/entry/white-house-condemns-attack-on-bbc-journalist-at-trump-rally_uk_5c63c728e4b03de94296ed20?ncid=tweetlnkukhpmg00000001",
+  "uri": "https://www.huffingtonpost.co.uk/entry/white-house-condemns-attack-on-bbc-journalist-at-trump-rally_uk_5c63c728e4b03de94296ed20?ncid=tweetlnkukhpmg00000001",
+  "estimated-creation-date": "2019-02-13T07:47:16",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T07:47:16"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:49:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

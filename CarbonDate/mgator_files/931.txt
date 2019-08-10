@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.cbs46.com/news/unhappy-with-deal-trump-still-doesn-t-expect-a-new/article_08c1c53d-48c9-5361-8613-611ffbd0413e.html",
+  "self": "http://localhost:1208/timemap/json/https://www.cbs46.com/news/unhappy-with-deal-trump-still-doesn-t-expect-a-new/article_08c1c53d-48c9-5361-8613-611ffbd0413e.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T14:40:36Z",
+        "uri": "http://web.archive.org/web/20190213144036/https://www.cbs46.com/news/unhappy-with-deal-trump-still-doesn-t-expect-a-new/article_08c1c53d-48c9-5361-8613-611ffbd0413e.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T14:40:36Z",
+      "uri": "http://web.archive.org/web/20190213144036/https://www.cbs46.com/news/unhappy-with-deal-trump-still-doesn-t-expect-a-new/article_08c1c53d-48c9-5361-8613-611ffbd0413e.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T14:40:36Z",
+      "uri": "http://web.archive.org/web/20190213144036/https://www.cbs46.com/news/unhappy-with-deal-trump-still-doesn-t-expect-a-new/article_08c1c53d-48c9-5361-8613-611ffbd0413e.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cbs46.com/news/unhappy-with-deal-trump-still-doesn-t-expect-a-new/article_08c1c53d-48c9-5361-8613-611ffbd0413e.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cbs46.com/news/unhappy-with-deal-trump-still-doesn-t-expect-a-new/article_08c1c53d-48c9-5361-8613-611ffbd0413e.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cbs46.com/news/unhappy-with-deal-trump-still-doesn-t-expect-a-new/article_08c1c53d-48c9-5361-8613-611ffbd0413e.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cbs46.com/news/unhappy-with-deal-trump-still-doesn-t-expect-a-new/article_08c1c53d-48c9-5361-8613-611ffbd0413e.html"
+}

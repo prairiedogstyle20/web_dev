@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.opensecrets.org/orgs/recips.php?id=D000000246&cycle=2018",
+  "uri": "https://www.opensecrets.org/orgs/recips.php?id=D000000246&cycle=2018",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

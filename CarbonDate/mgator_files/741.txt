@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://us.cnn.com/2019/02/12/opinions/trump-bbc-cameraman-attack-speech-weaponized-prince/index.html",
+  "self": "http://localhost:1208/timemap/json/https://us.cnn.com/2019/02/12/opinions/trump-bbc-cameraman-attack-speech-weaponized-prince/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T01:59:11Z",
+        "uri": "http://web.archive.org/web/20190213015911/https://us.cnn.com/2019/02/12/opinions/trump-bbc-cameraman-attack-speech-weaponized-prince/index.html"
+      },
+      {
+        "datetime": "2019-02-13T07:22:47Z",
+        "uri": "http://web.archive.org/web/20190213072247/https://us.cnn.com/2019/02/12/opinions/trump-bbc-cameraman-attack-speech-weaponized-prince/index.html"
+      },
+      {
+        "datetime": "2019-02-14T02:31:12Z",
+        "uri": "http://web.archive.org/web/20190214023112/https://us.cnn.com/2019/02/12/opinions/trump-bbc-cameraman-attack-speech-weaponized-prince/index.html"
+      },
+      {
+        "datetime": "2019-02-14T11:10:58Z",
+        "uri": "http://web.archive.org/web/20190214111058/https://us.cnn.com/2019/02/12/opinions/trump-bbc-cameraman-attack-speech-weaponized-prince/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T01:59:11Z",
+      "uri": "http://web.archive.org/web/20190213015911/https://us.cnn.com/2019/02/12/opinions/trump-bbc-cameraman-attack-speech-weaponized-prince/index.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:10:58Z",
+      "uri": "http://web.archive.org/web/20190214111058/https://us.cnn.com/2019/02/12/opinions/trump-bbc-cameraman-attack-speech-weaponized-prince/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://us.cnn.com/2019/02/12/opinions/trump-bbc-cameraman-attack-speech-weaponized-prince/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://us.cnn.com/2019/02/12/opinions/trump-bbc-cameraman-attack-speech-weaponized-prince/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://us.cnn.com/2019/02/12/opinions/trump-bbc-cameraman-attack-speech-weaponized-prince/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://us.cnn.com/2019/02/12/opinions/trump-bbc-cameraman-attack-speech-weaponized-prince/index.html"
+}

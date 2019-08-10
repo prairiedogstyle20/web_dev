@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://conservativerevival.com/latest-news/rush-limbaugh-exposed-the-biggest-threat-to-trump-that-no-one-is-talking-about/",
+  "uri": "http://conservativerevival.com/latest-news/rush-limbaugh-exposed-the-biggest-threat-to-trump-that-no-one-is-talking-about/",
+  "estimated-creation-date": "2019-02-13T20:30:06",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214122319/http://conservativerevival.com/latest-news/rush-limbaugh-exposed-the-biggest-threat-to-trump-that-no-one-is-talking-about/",
+      "memento-datetime": "2019-02-14T12:23:19",
+      "memento-pubdate": "",
+      "earliest": "2019-02-14T12:23:19"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:06"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/homenews/administration/429812-60-percent-of-americans-support-congressional-oversight-of-trump",
+  "uri": "https://thehill.com/homenews/administration/429812-60-percent-of-americans-support-congressional-oversight-of-trump",
+  "estimated-creation-date": "2019-02-13T12:30:12",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T12:30:12"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213215626/https://thehill.com/homenews/administration/429812-60-percent-of-americans-support-congressional-oversight-of-trump",
+      "memento-datetime": "2019-02-13T21:56:26",
+      "memento-pubdate": "2019-02-13T12:30:12",
+      "earliest": "2019-02-13T12:30:12"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:15:18"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

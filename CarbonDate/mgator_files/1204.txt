@@ -1,0 +1,3119 @@
+774
+{
+  "original_uri": "https://tw.sports.yahoo.com/",
+  "self": "http://localhost:1208/timemap/json/https://tw.sports.yahoo.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2001-04-20T18:06:50Z",
+        "uri": "http://web.archive.org/web/20010420180650/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2001-05-16T03:38:15Z",
+        "uri": "http://web.archive.org/web/20010516033815/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2001-07-20T16:19:00Z",
+        "uri": "http://web.archive.org/web/20010720161900/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2001-09-24T20:45:22Z",
+        "uri": "http://web.archive.org/web/20010924204522/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2002-01-23T11:13:10Z",
+        "uri": "http://web.archive.org/web/20020123111310/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2002-05-30T13:57:20Z",
+        "uri": "http://web.archive.org/web/20020530135720/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2002-06-04T09:09:01Z",
+        "uri": "http://web.archive.org/web/20020604090901/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2002-06-06T05:51:24Z",
+        "uri": "http://web.archive.org/web/20020606055124/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2002-09-23T17:46:15Z",
+        "uri": "http://web.archive.org/web/20020923174615/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2002-09-25T19:51:55Z",
+        "uri": "http://web.archive.org/web/20020925195155/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2002-11-20T16:28:51Z",
+        "uri": "http://web.archive.org/web/20021120162851/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2003-01-22T06:22:09Z",
+        "uri": "http://web.archive.org/web/20030122062209/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2003-02-10T18:44:50Z",
+        "uri": "http://web.archive.org/web/20030210184450/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2003-03-28T09:20:11Z",
+        "uri": "http://web.archive.org/web/20030328092011/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2003-04-07T10:11:33Z",
+        "uri": "http://web.archive.org/web/20030407101133/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2003-06-02T10:52:09Z",
+        "uri": "http://web.archive.org/web/20030602105209/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2003-09-23T10:55:32Z",
+        "uri": "http://web.archive.org/web/20030923105532/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2003-11-27T18:33:09Z",
+        "uri": "http://web.archive.org/web/20031127183309/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2003-12-23T01:14:01Z",
+        "uri": "http://web.archive.org/web/20031223011401/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2004-04-11T02:13:29Z",
+        "uri": "http://web.archive.org/web/20040411021329/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2004-06-05T07:14:30Z",
+        "uri": "http://web.archive.org/web/20040605071430/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2004-06-08T18:48:31Z",
+        "uri": "http://web.archive.org/web/20040608184831/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2004-06-09T04:54:09Z",
+        "uri": "http://web.archive.org/web/20040609045409/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2004-06-13T10:34:03Z",
+        "uri": "http://web.archive.org/web/20040613103403/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2004-06-19T19:01:18Z",
+        "uri": "http://web.archive.org/web/20040619190118/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2004-07-10T18:05:41Z",
+        "uri": "http://web.archive.org/web/20040710180541/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2004-07-30T16:34:36Z",
+        "uri": "http://web.archive.org/web/20040730163436/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2004-08-02T02:00:28Z",
+        "uri": "http://web.archive.org/web/20040802020028/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2008-07-23T11:32:53Z",
+        "uri": "http://web.archive.org/web/20080723113253/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2008-09-21T18:25:59Z",
+        "uri": "http://web.archive.org/web/20080921182559/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2008-10-02T15:53:25Z",
+        "uri": "http://web.archive.org/web/20081002155325/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2008-12-03T15:18:27Z",
+        "uri": "http://web.archive.org/web/20081203151827/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2008-12-10T17:45:19Z",
+        "uri": "http://web.archive.org/web/20081210174519/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2008-12-10T23:50:16Z",
+        "uri": "http://web.archive.org/web/20081210235016/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2008-12-11T00:45:00Z",
+        "uri": "http://web.archive.org/web/20081211004500/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2008-12-16T15:22:05Z",
+        "uri": "http://web.archive.org/web/20081216152205/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2008-12-16T23:32:11Z",
+        "uri": "http://web.archive.org/web/20081216233211/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2008-12-18T21:03:04Z",
+        "uri": "http://web.archive.org/web/20081218210304/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2008-12-19T22:56:46Z",
+        "uri": "http://web.archive.org/web/20081219225646/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2008-12-20T23:33:42Z",
+        "uri": "http://web.archive.org/web/20081220233342/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2008-12-25T18:11:25Z",
+        "uri": "http://web.archive.org/web/20081225181125/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2008-12-27T20:21:56Z",
+        "uri": "http://web.archive.org/web/20081227202156/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-01-19T18:57:21Z",
+        "uri": "http://web.archive.org/web/20090119185721/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-02-17T02:55:00Z",
+        "uri": "http://web.archive.org/web/20090217025500/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-02-17T20:54:12Z",
+        "uri": "http://web.archive.org/web/20090217205412/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2009-02-27T01:38:31Z",
+        "uri": "http://web.archive.org/web/20090227013831/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-02-28T03:17:18Z",
+        "uri": "http://web.archive.org/web/20090228031718/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2009-03-08T02:24:26Z",
+        "uri": "http://web.archive.org/web/20090308022426/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-03-10T22:22:09Z",
+        "uri": "http://web.archive.org/web/20090310222209/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-03-21T15:09:40Z",
+        "uri": "http://web.archive.org/web/20090321150940/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-03-29T14:48:11Z",
+        "uri": "http://web.archive.org/web/20090329144811/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-04-11T18:22:48Z",
+        "uri": "http://web.archive.org/web/20090411182248/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-05-21T18:37:45Z",
+        "uri": "http://web.archive.org/web/20090521183745/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-05-24T22:30:57Z",
+        "uri": "http://web.archive.org/web/20090524223057/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-05-25T15:22:59Z",
+        "uri": "http://web.archive.org/web/20090525152259/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2009-05-27T03:37:26Z",
+        "uri": "http://web.archive.org/web/20090527033726/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-06-16T04:12:26Z",
+        "uri": "http://web.archive.org/web/20090616041226/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-07-31T18:54:03Z",
+        "uri": "http://web.archive.org/web/20090731185403/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-08-11T03:58:46Z",
+        "uri": "http://web.archive.org/web/20090811035846/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-08-14T02:42:30Z",
+        "uri": "http://web.archive.org/web/20090814024230/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-08-15T04:35:38Z",
+        "uri": "http://web.archive.org/web/20090815043538/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-08-17T21:54:15Z",
+        "uri": "http://web.archive.org/web/20090817215415/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2009-09-16T09:22:58Z",
+        "uri": "http://web.archive.org/web/20090916092258/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-10-02T00:54:42Z",
+        "uri": "http://web.archive.org/web/20091002005442/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-10-13T15:04:49Z",
+        "uri": "http://web.archive.org/web/20091013150449/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-10-15T03:26:30Z",
+        "uri": "http://web.archive.org/web/20091015032630/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-10-17T14:26:53Z",
+        "uri": "http://web.archive.org/web/20091017142653/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2009-11-16T06:54:04Z",
+        "uri": "http://web.archive.org/web/20091116065404/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-12-05T04:35:54Z",
+        "uri": "http://web.archive.org/web/20091205043554/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-12-05T04:35:54Z",
+        "uri": "http://web.archive.org/web/20091205043554/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-12-13T02:41:17Z",
+        "uri": "http://web.archive.org/web/20091213024117/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-12-14T19:34:32Z",
+        "uri": "http://web.archive.org/web/20091214193432/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2009-12-17T07:12:48Z",
+        "uri": "http://web.archive.org/web/20091217071248/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2010-01-15T23:00:51Z",
+        "uri": "http://web.archive.org/web/20100115230051/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-02-11T18:40:47Z",
+        "uri": "http://web.archive.org/web/20100211184047/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-02-13T23:40:16Z",
+        "uri": "http://web.archive.org/web/20100213234016/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-02-16T05:34:53Z",
+        "uri": "http://web.archive.org/web/20100216053453/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2010-03-23T02:54:19Z",
+        "uri": "http://web.archive.org/web/20100323025419/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-04-13T23:28:12Z",
+        "uri": "http://web.archive.org/web/20100413232812/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-04-13T23:28:12Z",
+        "uri": "http://web.archive.org/web/20100413232812/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-04-16T01:32:12Z",
+        "uri": "http://web.archive.org/web/20100416013212/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-04-16T01:32:12Z",
+        "uri": "http://web.archive.org/web/20100416013212/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-04-19T06:16:06Z",
+        "uri": "http://web.archive.org/web/20100419061606/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2010-04-19T06:16:06Z",
+        "uri": "http://web.archive.org/web/20100419061606/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2010-05-03T06:05:32Z",
+        "uri": "http://web.archive.org/web/20100503060532/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-05-24T20:54:01Z",
+        "uri": "http://web.archive.org/web/20100524205401/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-06-16T17:15:25Z",
+        "uri": "http://web.archive.org/web/20100616171525/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-06-18T03:06:41Z",
+        "uri": "http://web.archive.org/web/20100618030641/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-06-19T12:47:21Z",
+        "uri": "http://web.archive.org/web/20100619124721/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2010-06-23T15:25:12Z",
+        "uri": "http://web.archive.org/web/20100623152512/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-06-28T11:40:09Z",
+        "uri": "http://web.archive.org/web/20100628114009/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-07-22T13:13:05Z",
+        "uri": "http://web.archive.org/web/20100722131305/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-07-24T15:41:06Z",
+        "uri": "http://web.archive.org/web/20100724154106/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-08-10T12:57:07Z",
+        "uri": "http://web.archive.org/web/20100810125707/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-08-11T20:22:11Z",
+        "uri": "http://web.archive.org/web/20100811202211/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-08-16T20:14:56Z",
+        "uri": "http://web.archive.org/web/20100816201456/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-08-18T10:06:28Z",
+        "uri": "http://web.archive.org/web/20100818100628/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-08-20T21:52:34Z",
+        "uri": "http://web.archive.org/web/20100820215234/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2010-08-23T08:15:20Z",
+        "uri": "http://web.archive.org/web/20100823081520/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-08-28T13:37:04Z",
+        "uri": "http://web.archive.org/web/20100828133704/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-09-23T16:13:53Z",
+        "uri": "http://web.archive.org/web/20100923161353/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-09-26T22:54:31Z",
+        "uri": "http://web.archive.org/web/20100926225431/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-10-18T06:21:17Z",
+        "uri": "http://web.archive.org/web/20101018062117/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-10-19T06:37:50Z",
+        "uri": "http://web.archive.org/web/20101019063750/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-10-20T14:17:54Z",
+        "uri": "http://web.archive.org/web/20101020141754/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2010-10-28T14:42:30Z",
+        "uri": "http://web.archive.org/web/20101028144230/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-10-29T17:52:17Z",
+        "uri": "http://web.archive.org/web/20101029175217/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-11-23T23:12:00Z",
+        "uri": "http://web.archive.org/web/20101123231200/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-12-19T06:33:40Z",
+        "uri": "http://web.archive.org/web/20101219063340/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2010-12-21T01:51:50Z",
+        "uri": "http://web.archive.org/web/20101221015150/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2010-12-29T20:08:57Z",
+        "uri": "http://web.archive.org/web/20101229200857/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-01-25T00:51:49Z",
+        "uri": "http://web.archive.org/web/20110125005149/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-01-25T10:14:35Z",
+        "uri": "http://wayback.archive-it.org/all/20110125101435/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2011-01-25T10:14:35Z",
+        "uri": "http://web.archive.org/web/20110125101435/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2011-01-26T04:55:12Z",
+        "uri": "http://web.archive.org/web/20110126045512/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-02-18T08:26:01Z",
+        "uri": "http://web.archive.org/web/20110218082601/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-02-20T00:38:46Z",
+        "uri": "http://web.archive.org/web/20110220003846/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-02-20T00:39:00Z",
+        "uri": "http://web.archive.org/web/20110220003900/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2011-02-26T06:07:08Z",
+        "uri": "http://web.archive.org/web/20110226060708/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-02-28T12:12:23Z",
+        "uri": "http://web.archive.org/web/20110228121223/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-04-20T03:40:12Z",
+        "uri": "http://web.archive.org/web/20110420034012/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-04-24T05:55:37Z",
+        "uri": "http://web.archive.org/web/20110424055537/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-04-24T09:05:32Z",
+        "uri": "http://web.archive.org/web/20110424090532/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2011-04-30T09:14:03Z",
+        "uri": "http://web.archive.org/web/20110430091403/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2011-04-30T11:40:19Z",
+        "uri": "http://web.archive.org/web/20110430114019/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-05-01T06:12:03Z",
+        "uri": "http://web.archive.org/web/20110501061203/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2011-05-17T13:40:52Z",
+        "uri": "http://web.archive.org/web/20110517134052/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-05-23T05:18:39Z",
+        "uri": "http://web.archive.org/web/20110523051839/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-05-24T05:27:39Z",
+        "uri": "http://web.archive.org/web/20110524052739/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-05-28T19:58:47Z",
+        "uri": "http://web.archive.org/web/20110528195847/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-06-24T02:10:48Z",
+        "uri": "http://web.archive.org/web/20110624021048/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-06-26T04:37:59Z",
+        "uri": "http://web.archive.org/web/20110626043759/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-07-01T05:16:39Z",
+        "uri": "http://web.archive.org/web/20110701051639/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-07-18T13:43:04Z",
+        "uri": "http://web.archive.org/web/20110718134304/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2011-07-23T02:12:24Z",
+        "uri": "http://web.archive.org/web/20110723021224/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-07-28T06:22:37Z",
+        "uri": "http://web.archive.org/web/20110728062237/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-08-10T08:46:52Z",
+        "uri": "http://web.archive.org/web/20110810084652/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-08-13T22:00:47Z",
+        "uri": "http://web.archive.org/web/20110813220047/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2011-08-14T05:42:31Z",
+        "uri": "http://web.archive.org/web/20110814054231/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2011-09-01T00:30:44Z",
+        "uri": "http://web.archive.org/web/20110901003044/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-09-02T08:20:23Z",
+        "uri": "http://web.archive.org/web/20110902082023/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2011-09-02T08:32:11Z",
+        "uri": "http://web.archive.org/web/20110902083211/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-09-23T19:00:31Z",
+        "uri": "http://web.archive.org/web/20110923190031/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-09-27T11:32:49Z",
+        "uri": "http://web.archive.org/web/20110927113249/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2011-09-28T07:17:13Z",
+        "uri": "http://web.archive.org/web/20110928071713/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-10-01T19:32:29Z",
+        "uri": "http://web.archive.org/web/20111001193229/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-10-03T04:34:55Z",
+        "uri": "http://web.archive.org/web/20111003043455/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-10-15T10:52:27Z",
+        "uri": "http://web.archive.org/web/20111015105227/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2011-10-31T15:23:00Z",
+        "uri": "http://web.archive.org/web/20111031152300/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-11-02T06:56:33Z",
+        "uri": "http://web.archive.org/web/20111102065633/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2011-12-05T16:02:31Z",
+        "uri": "http://web.archive.org/web/20111205160231/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-12-21T08:57:33Z",
+        "uri": "http://web.archive.org/web/20111221085733/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2011-12-30T23:59:18Z",
+        "uri": "http://web.archive.org/web/20111230235918/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-02-04T22:27:45Z",
+        "uri": "http://web.archive.org/web/20120204222745/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-02-14T13:54:06Z",
+        "uri": "http://web.archive.org/web/20120214135406/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2012-02-22T23:10:23Z",
+        "uri": "http://web.archive.org/web/20120222231023/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-02-29T15:55:15Z",
+        "uri": "http://web.archive.org/web/20120229155515/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-04-05T17:54:15Z",
+        "uri": "http://web.archive.org/web/20120405175415/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-04-15T04:07:20Z",
+        "uri": "http://web.archive.org/web/20120415040720/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2012-04-23T07:50:33Z",
+        "uri": "http://web.archive.org/web/20120423075033/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-04-30T13:18:31Z",
+        "uri": "http://web.archive.org/web/20120430131831/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-05-02T12:30:09Z",
+        "uri": "http://web.archive.org/web/20120502123009/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-06-06T03:30:57Z",
+        "uri": "http://web.archive.org/web/20120606033057/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-06-14T18:54:05Z",
+        "uri": "http://web.archive.org/web/20120614185405/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2012-06-23T02:39:39Z",
+        "uri": "http://web.archive.org/web/20120623023939/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-06-30T09:02:31Z",
+        "uri": "http://web.archive.org/web/20120630090231/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-07-05T03:46:26Z",
+        "uri": "http://web.archive.org/web/20120705034626/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-08-17T10:03:48Z",
+        "uri": "http://web.archive.org/web/20120817100348/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2012-08-22T23:30:10Z",
+        "uri": "http://web.archive.org/web/20120822233010/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-08-30T16:58:00Z",
+        "uri": "http://web.archive.org/web/20120830165800/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-09-04T16:54:31Z",
+        "uri": "http://web.archive.org/web/20120904165431/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-10-07T01:07:00Z",
+        "uri": "http://web.archive.org/web/20121007010700/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-10-10T16:27:00Z",
+        "uri": "http://web.archive.org/web/20121010162700/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2012-10-18T09:42:22Z",
+        "uri": "http://web.archive.org/web/20121018094222/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2012-10-22T01:39:57Z",
+        "uri": "http://web.archive.org/web/20121022013957/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2012-10-22T14:08:18Z",
+        "uri": "http://web.archive.org/web/20121022140818/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-10-30T18:01:57Z",
+        "uri": "http://web.archive.org/web/20121030180157/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-11-23T08:54:14Z",
+        "uri": "http://web.archive.org/web/20121123085414/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-04T01:33:04Z",
+        "uri": "http://web.archive.org/web/20121204013304/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-05T03:18:57Z",
+        "uri": "http://web.archive.org/web/20121205031857/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-08T05:58:11Z",
+        "uri": "http://web.archive.org/web/20121208055811/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-08T09:39:11Z",
+        "uri": "http://web.archive.org/web/20121208093911/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-11T23:28:31Z",
+        "uri": "http://web.archive.org/web/20121211232831/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2012-12-16T02:07:01Z",
+        "uri": "http://web.archive.org/web/20121216020701/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-19T01:54:00Z",
+        "uri": "http://web.archive.org/web/20121219015400/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2012-12-19T16:42:25Z",
+        "uri": "http://web.archive.org/web/20121219164225/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-22T15:57:14Z",
+        "uri": "http://web.archive.org/web/20121222155714/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-24T01:37:01Z",
+        "uri": "http://web.archive.org/web/20121224013701/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-26T03:28:13Z",
+        "uri": "http://web.archive.org/web/20121226032813/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-26T06:08:22Z",
+        "uri": "http://web.archive.org/web/20121226060822/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2012-12-27T08:19:34Z",
+        "uri": "http://web.archive.org/web/20121227081934/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-28T11:04:43Z",
+        "uri": "http://web.archive.org/web/20121228110443/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-29T12:42:26Z",
+        "uri": "http://web.archive.org/web/20121229124226/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2012-12-31T06:26:07Z",
+        "uri": "http://web.archive.org/web/20121231062607/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2012-12-31T22:57:59Z",
+        "uri": "http://web.archive.org/web/20121231225759/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-01T23:56:04Z",
+        "uri": "http://web.archive.org/web/20130101235604/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-03T18:13:57Z",
+        "uri": "http://web.archive.org/web/20130103181357/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-05T10:35:13Z",
+        "uri": "http://web.archive.org/web/20130105103513/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-06T19:34:21Z",
+        "uri": "http://web.archive.org/web/20130106193421/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-08T06:41:06Z",
+        "uri": "http://web.archive.org/web/20130108064106/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-10T21:20:16Z",
+        "uri": "http://web.archive.org/web/20130110212016/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-11T22:19:18Z",
+        "uri": "http://web.archive.org/web/20130111221918/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-13T23:07:00Z",
+        "uri": "http://web.archive.org/web/20130113230700/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-16T04:08:35Z",
+        "uri": "http://web.archive.org/web/20130116040835/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-17T12:23:19Z",
+        "uri": "http://web.archive.org/web/20130117122319/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-21T14:15:27Z",
+        "uri": "http://web.archive.org/web/20130121141527/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-21T22:37:07Z",
+        "uri": "http://web.archive.org/web/20130121223707/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-01-28T16:31:34Z",
+        "uri": "http://web.archive.org/web/20130128163134/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-01-30T06:17:45Z",
+        "uri": "http://web.archive.org/web/20130130061745/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-02-01T06:31:56Z",
+        "uri": "http://web.archive.org/web/20130201063156/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-02-02T12:28:49Z",
+        "uri": "http://web.archive.org/web/20130202122849/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-02-04T02:36:57Z",
+        "uri": "http://web.archive.org/web/20130204023657/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-02-07T05:48:13Z",
+        "uri": "http://web.archive.org/web/20130207054813/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-02-11T13:39:35Z",
+        "uri": "http://web.archive.org/web/20130211133935/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-02-12T22:52:51Z",
+        "uri": "http://web.archive.org/web/20130212225251/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-02-19T02:47:55Z",
+        "uri": "http://web.archive.org/web/20130219024755/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-02-24T07:35:33Z",
+        "uri": "http://web.archive.org/web/20130224073533/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-01T01:58:02Z",
+        "uri": "http://web.archive.org/web/20130301015802/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-01T03:38:26Z",
+        "uri": "http://web.archive.org/web/20130301033826/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-02T13:06:18Z",
+        "uri": "http://web.archive.org/web/20130302130618/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-04T14:18:29Z",
+        "uri": "http://web.archive.org/web/20130304141829/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-08T16:14:18Z",
+        "uri": "http://web.archive.org/web/20130308161418/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-12T00:31:03Z",
+        "uri": "http://web.archive.org/web/20130312003103/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-13T10:15:55Z",
+        "uri": "http://web.archive.org/web/20130313101555/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-13T16:59:34Z",
+        "uri": "http://web.archive.org/web/20130313165934/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2013-03-14T23:35:49Z",
+        "uri": "http://web.archive.org/web/20130314233549/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-21T00:31:27Z",
+        "uri": "http://web.archive.org/web/20130321003127/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-22T03:28:51Z",
+        "uri": "http://web.archive.org/web/20130322032851/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-27T01:53:04Z",
+        "uri": "http://web.archive.org/web/20130327015304/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-29T02:54:19Z",
+        "uri": "http://web.archive.org/web/20130329025419/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-03-30T07:47:59Z",
+        "uri": "http://web.archive.org/web/20130330074759/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-04-04T07:01:18Z",
+        "uri": "http://web.archive.org/web/20130404070118/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-04-14T10:19:06Z",
+        "uri": "http://web.archive.org/web/20130414101906/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-04-15T23:12:27Z",
+        "uri": "http://web.archive.org/web/20130415231227/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-04-17T04:39:38Z",
+        "uri": "http://web.archive.org/web/20130417043938/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-04-17T08:05:32Z",
+        "uri": "http://web.archive.org/web/20130417080532/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-04-20T18:59:25Z",
+        "uri": "http://web.archive.org/web/20130420185925/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-04-23T06:47:10Z",
+        "uri": "http://web.archive.org/web/20130423064710/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-04-25T04:21:37Z",
+        "uri": "http://web.archive.org/web/20130425042137/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-04-26T06:35:20Z",
+        "uri": "http://web.archive.org/web/20130426063520/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-04-30T08:12:07Z",
+        "uri": "http://web.archive.org/web/20130430081207/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-05-01T05:10:34Z",
+        "uri": "http://web.archive.org/web/20130501051034/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-05-02T08:46:30Z",
+        "uri": "http://web.archive.org/web/20130502084630/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-05-03T18:41:49Z",
+        "uri": "http://web.archive.org/web/20130503184149/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-05-04T21:51:17Z",
+        "uri": "http://web.archive.org/web/20130504215117/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-05-07T23:27:19Z",
+        "uri": "http://web.archive.org/web/20130507232719/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-05-11T03:54:36Z",
+        "uri": "http://web.archive.org/web/20130511035436/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-05-13T05:55:00Z",
+        "uri": "http://web.archive.org/web/20130513055500/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-05-14T08:43:35Z",
+        "uri": "http://web.archive.org/web/20130514084335/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-05-15T19:01:55Z",
+        "uri": "http://web.archive.org/web/20130515190155/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-05-17T04:39:48Z",
+        "uri": "http://web.archive.org/web/20130517043948/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-05-18T23:17:50Z",
+        "uri": "http://web.archive.org/web/20130518231750/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-06-20T14:03:18Z",
+        "uri": "http://web.archive.org/web/20130620140318/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-07-07T07:41:42Z",
+        "uri": "http://web.archive.org/web/20130707074142/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-07-08T11:01:05Z",
+        "uri": "http://web.archive.org/web/20130708110105/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-07-15T07:45:00Z",
+        "uri": "http://web.archive.org/web/20130715074500/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-07-22T15:11:48Z",
+        "uri": "http://web.archive.org/web/20130722151148/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-07-29T23:10:38Z",
+        "uri": "http://web.archive.org/web/20130729231038/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-08-03T09:36:20Z",
+        "uri": "http://web.archive.org/web/20130803093620/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2013-08-06T22:57:12Z",
+        "uri": "http://web.archive.org/web/20130806225712/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-08-11T14:32:50Z",
+        "uri": "http://web.archive.org/web/20130811143250/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-08-11T17:30:34Z",
+        "uri": "http://web.archive.org/web/20130811173034/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-09-11T10:32:20Z",
+        "uri": "http://web.archive.org/web/20130911103220/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-09-21T16:12:26Z",
+        "uri": "http://web.archive.org/web/20130921161226/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-09-28T19:28:40Z",
+        "uri": "http://web.archive.org/web/20130928192840/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-10-17T18:41:24Z",
+        "uri": "http://web.archive.org/web/20131017184124/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-05T13:34:10Z",
+        "uri": "http://web.archive.org/web/20131105133410/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-11-06T21:59:15Z",
+        "uri": "http://web.archive.org/web/20131106215915/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-11-11T07:55:10Z",
+        "uri": "http://web.archive.org/web/20131111075510/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-11-16T09:02:24Z",
+        "uri": "http://web.archive.org/web/20131116090224/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-18T17:12:18Z",
+        "uri": "http://web.archive.org/web/20131118171218/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-19T08:19:46Z",
+        "uri": "http://web.archive.org/web/20131119081946/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-20T07:01:38Z",
+        "uri": "http://web.archive.org/web/20131120070138/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-21T07:35:14Z",
+        "uri": "http://web.archive.org/web/20131121073514/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-22T08:19:52Z",
+        "uri": "http://web.archive.org/web/20131122081952/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-23T08:24:47Z",
+        "uri": "http://web.archive.org/web/20131123082447/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-24T10:39:11Z",
+        "uri": "http://web.archive.org/web/20131124103911/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-25T13:21:06Z",
+        "uri": "http://web.archive.org/web/20131125132106/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-26T18:16:30Z",
+        "uri": "http://web.archive.org/web/20131126181630/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-27T16:31:58Z",
+        "uri": "http://web.archive.org/web/20131127163158/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-28T20:13:34Z",
+        "uri": "http://web.archive.org/web/20131128201334/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-29T16:29:55Z",
+        "uri": "http://web.archive.org/web/20131129162955/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-11-30T14:32:28Z",
+        "uri": "http://web.archive.org/web/20131130143228/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-01T15:34:18Z",
+        "uri": "http://web.archive.org/web/20131201153418/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-02T21:58:34Z",
+        "uri": "http://web.archive.org/web/20131202215834/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-03T22:07:17Z",
+        "uri": "http://web.archive.org/web/20131203220717/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-05T03:44:03Z",
+        "uri": "http://web.archive.org/web/20131205034403/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-06T02:56:30Z",
+        "uri": "http://web.archive.org/web/20131206025630/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-07T00:39:11Z",
+        "uri": "http://web.archive.org/web/20131207003911/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-08T00:15:09Z",
+        "uri": "http://web.archive.org/web/20131208001509/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-09T00:01:23Z",
+        "uri": "http://web.archive.org/web/20131209000123/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-10T03:40:44Z",
+        "uri": "http://web.archive.org/web/20131210034044/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-11T03:14:24Z",
+        "uri": "http://web.archive.org/web/20131211031424/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-12T12:35:00Z",
+        "uri": "http://web.archive.org/web/20131212123500/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2013-12-13T16:01:12Z",
+        "uri": "http://web.archive.org/web/20131213160112/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-14T12:23:54Z",
+        "uri": "http://web.archive.org/web/20131214122354/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-15T14:35:59Z",
+        "uri": "http://web.archive.org/web/20131215143559/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-16T15:57:47Z",
+        "uri": "http://web.archive.org/web/20131216155747/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-17T22:50:41Z",
+        "uri": "http://web.archive.org/web/20131217225041/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-18T20:24:52Z",
+        "uri": "http://web.archive.org/web/20131218202452/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-22T10:55:15Z",
+        "uri": "http://web.archive.org/web/20131222105515/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-23T06:38:35Z",
+        "uri": "http://web.archive.org/web/20131223063835/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-24T05:48:06Z",
+        "uri": "http://web.archive.org/web/20131224054806/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-25T05:12:00Z",
+        "uri": "http://web.archive.org/web/20131225051200/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-26T10:59:24Z",
+        "uri": "http://web.archive.org/web/20131226105924/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-27T07:34:18Z",
+        "uri": "http://web.archive.org/web/20131227073418/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-28T10:23:45Z",
+        "uri": "http://web.archive.org/web/20131228102345/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-29T10:32:31Z",
+        "uri": "http://web.archive.org/web/20131229103231/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-30T09:27:29Z",
+        "uri": "http://web.archive.org/web/20131230092729/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2013-12-31T13:32:17Z",
+        "uri": "http://web.archive.org/web/20131231133217/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-01T05:22:59Z",
+        "uri": "http://web.archive.org/web/20140101052259/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-02T10:26:55Z",
+        "uri": "http://web.archive.org/web/20140102102655/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-03T07:50:39Z",
+        "uri": "http://web.archive.org/web/20140103075039/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-03T12:58:58Z",
+        "uri": "http://web.archive.org/web/20140103125858/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2014-01-04T06:25:12Z",
+        "uri": "http://web.archive.org/web/20140104062512/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-05T10:27:21Z",
+        "uri": "http://web.archive.org/web/20140105102721/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-06T08:34:50Z",
+        "uri": "http://web.archive.org/web/20140106083450/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-07T10:50:35Z",
+        "uri": "http://web.archive.org/web/20140107105035/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-08T10:49:46Z",
+        "uri": "http://web.archive.org/web/20140108104946/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-08T18:13:46Z",
+        "uri": "http://web.archive.org/web/20140108181346/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2014-01-09T11:42:19Z",
+        "uri": "http://web.archive.org/web/20140109114219/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-10T12:37:05Z",
+        "uri": "http://web.archive.org/web/20140110123705/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-11T04:17:01Z",
+        "uri": "http://web.archive.org/web/20140111041701/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2014-01-11T12:08:44Z",
+        "uri": "http://web.archive.org/web/20140111120844/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-12T12:11:17Z",
+        "uri": "http://web.archive.org/web/20140112121117/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-13T14:16:21Z",
+        "uri": "http://web.archive.org/web/20140113141621/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-14T12:26:14Z",
+        "uri": "http://web.archive.org/web/20140114122614/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-15T10:13:02Z",
+        "uri": "http://web.archive.org/web/20140115101302/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-16T00:40:09Z",
+        "uri": "http://web.archive.org/web/20140116004009/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2014-01-16T04:52:44Z",
+        "uri": "http://web.archive.org/web/20140116045244/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-16T11:51:19Z",
+        "uri": "http://web.archive.org/web/20140116115119/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-17T03:33:36Z",
+        "uri": "http://web.archive.org/web/20140117033336/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-17T12:15:39Z",
+        "uri": "http://web.archive.org/web/20140117121539/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-18T05:01:31Z",
+        "uri": "http://web.archive.org/web/20140118050131/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-18T12:02:02Z",
+        "uri": "http://web.archive.org/web/20140118120202/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-19T04:18:01Z",
+        "uri": "http://web.archive.org/web/20140119041801/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-19T12:07:41Z",
+        "uri": "http://web.archive.org/web/20140119120741/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-20T03:55:22Z",
+        "uri": "http://web.archive.org/web/20140120035522/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-20T13:53:21Z",
+        "uri": "http://web.archive.org/web/20140120135321/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-21T07:05:25Z",
+        "uri": "http://web.archive.org/web/20140121070525/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-21T14:49:40Z",
+        "uri": "http://web.archive.org/web/20140121144940/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-22T07:26:48Z",
+        "uri": "http://web.archive.org/web/20140122072648/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-22T15:28:39Z",
+        "uri": "http://web.archive.org/web/20140122152839/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-22T21:26:12Z",
+        "uri": "http://web.archive.org/web/20140122212612/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-23T11:08:36Z",
+        "uri": "http://web.archive.org/web/20140123110836/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-23T15:55:31Z",
+        "uri": "http://web.archive.org/web/20140123155531/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-24T18:20:47Z",
+        "uri": "http://web.archive.org/web/20140124182047/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-25T12:33:25Z",
+        "uri": "http://web.archive.org/web/20140125123325/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-01-31T08:50:34Z",
+        "uri": "http://web.archive.org/web/20140131085034/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2014-01-31T21:33:10Z",
+        "uri": "http://web.archive.org/web/20140131213310/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-02-07T14:59:12Z",
+        "uri": "http://web.archive.org/web/20140207145912/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-02-08T06:48:21Z",
+        "uri": "http://web.archive.org/web/20140208064821/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-02-08T08:52:41Z",
+        "uri": "http://web.archive.org/web/20140208085241/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2014-02-11T19:55:00Z",
+        "uri": "http://web.archive.org/web/20140211195500/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2014-02-14T17:56:24Z",
+        "uri": "http://web.archive.org/web/20140214175624/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-02-21T18:49:15Z",
+        "uri": "http://web.archive.org/web/20140221184915/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-02-28T18:37:25Z",
+        "uri": "http://web.archive.org/web/20140228183725/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-03-07T19:19:49Z",
+        "uri": "http://web.archive.org/web/20140307191949/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-03-14T20:47:43Z",
+        "uri": "http://web.archive.org/web/20140314204743/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-03-21T23:55:11Z",
+        "uri": "http://web.archive.org/web/20140321235511/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-03-29T05:46:55Z",
+        "uri": "http://web.archive.org/web/20140329054655/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-03-29T05:50:39Z",
+        "uri": "http://web.archive.org/web/20140329055039/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-04-04T22:51:45Z",
+        "uri": "http://web.archive.org/web/20140404225145/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-04-04T22:52:30Z",
+        "uri": "http://web.archive.org/web/20140404225230/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-04-11T22:46:26Z",
+        "uri": "http://web.archive.org/web/20140411224626/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-04-11T22:46:47Z",
+        "uri": "http://web.archive.org/web/20140411224647/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-04-17T00:58:21Z",
+        "uri": "http://web.archive.org/web/20140417005821/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-04-18T22:29:31Z",
+        "uri": "http://web.archive.org/web/20140418222931/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-04-18T22:29:57Z",
+        "uri": "http://web.archive.org/web/20140418222957/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-04-26T00:10:42Z",
+        "uri": "http://web.archive.org/web/20140426001042/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-04-26T00:11:06Z",
+        "uri": "http://web.archive.org/web/20140426001106/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-04-29T20:35:42Z",
+        "uri": "http://web.archive.org/web/20140429203542/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-04-29T20:35:44Z",
+        "uri": "http://web.archive.org/web/20140429203544/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-05-03T00:48:29Z",
+        "uri": "http://web.archive.org/web/20140503004829/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-05-03T00:48:33Z",
+        "uri": "http://web.archive.org/web/20140503004833/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-05-03T09:19:38Z",
+        "uri": "http://web.archive.org/web/20140503091938/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-05-16T22:47:24Z",
+        "uri": "http://web.archive.org/web/20140516224724/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-05-16T22:47:27Z",
+        "uri": "http://web.archive.org/web/20140516224727/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-05-16T22:52:46Z",
+        "uri": "http://web.archive.org/web/20140516225246/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-05-16T22:52:50Z",
+        "uri": "http://web.archive.org/web/20140516225250/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-05-23T23:43:05Z",
+        "uri": "http://web.archive.org/web/20140523234305/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-05-23T23:43:12Z",
+        "uri": "http://web.archive.org/web/20140523234312/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-05-31T00:43:15Z",
+        "uri": "http://web.archive.org/web/20140531004315/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-05-31T00:43:17Z",
+        "uri": "http://web.archive.org/web/20140531004317/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-05-31T12:17:44Z",
+        "uri": "http://web.archive.org/web/20140531121744/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-06-02T15:59:16Z",
+        "uri": "http://web.archive.org/web/20140602155916/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2014-06-06T23:26:14Z",
+        "uri": "http://web.archive.org/web/20140606232614/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-06-06T23:26:19Z",
+        "uri": "http://web.archive.org/web/20140606232619/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-06-07T08:46:53Z",
+        "uri": "http://web.archive.org/web/20140607084653/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-06-07T08:46:55Z",
+        "uri": "http://web.archive.org/web/20140607084655/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-06-14T00:53:27Z",
+        "uri": "http://web.archive.org/web/20140614005327/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-06-14T00:53:30Z",
+        "uri": "http://web.archive.org/web/20140614005330/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-06-21T02:46:02Z",
+        "uri": "http://web.archive.org/web/20140621024602/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-06-21T02:46:05Z",
+        "uri": "http://web.archive.org/web/20140621024605/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-06-27T01:16:54Z",
+        "uri": "http://web.archive.org/web/20140627011654/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-06-27T01:17:36Z",
+        "uri": "http://web.archive.org/web/20140627011736/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-06-28T03:52:15Z",
+        "uri": "http://web.archive.org/web/20140628035215/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-06-28T03:52:19Z",
+        "uri": "http://web.archive.org/web/20140628035219/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-07-01T14:11:30Z",
+        "uri": "http://web.archive.org/web/20140701141130/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-07-02T13:46:01Z",
+        "uri": "http://web.archive.org/web/20140702134601/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-07-02T13:46:08Z",
+        "uri": "http://web.archive.org/web/20140702134608/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-07-03T01:14:11Z",
+        "uri": "http://web.archive.org/web/20140703011411/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-07-05T02:54:40Z",
+        "uri": "http://web.archive.org/web/20140705025440/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-07-05T02:54:46Z",
+        "uri": "http://web.archive.org/web/20140705025446/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-07-08T18:01:11Z",
+        "uri": "http://web.archive.org/web/20140708180111/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-07-12T03:09:58Z",
+        "uri": "http://web.archive.org/web/20140712030958/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-07-12T03:10:02Z",
+        "uri": "http://web.archive.org/web/20140712031002/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-07-26T07:33:07Z",
+        "uri": "http://web.archive.org/web/20140726073307/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-07-26T07:33:11Z",
+        "uri": "http://web.archive.org/web/20140726073311/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-08-02T17:40:46Z",
+        "uri": "http://web.archive.org/web/20140802174046/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-08-02T17:41:04Z",
+        "uri": "http://web.archive.org/web/20140802174104/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-08-09T06:14:38Z",
+        "uri": "http://web.archive.org/web/20140809061438/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-08-09T06:14:44Z",
+        "uri": "http://web.archive.org/web/20140809061444/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-08-16T09:36:51Z",
+        "uri": "http://web.archive.org/web/20140816093651/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-08-16T09:37:02Z",
+        "uri": "http://web.archive.org/web/20140816093702/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-08-23T09:43:38Z",
+        "uri": "http://web.archive.org/web/20140823094338/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-08-23T09:43:42Z",
+        "uri": "http://web.archive.org/web/20140823094342/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-08-28T23:41:18Z",
+        "uri": "http://web.archive.org/web/20140828234118/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-08-30T15:19:29Z",
+        "uri": "http://web.archive.org/web/20140830151929/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-08-30T15:19:48Z",
+        "uri": "http://web.archive.org/web/20140830151948/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-06T12:06:30Z",
+        "uri": "http://web.archive.org/web/20140906120630/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-06T12:06:35Z",
+        "uri": "http://web.archive.org/web/20140906120635/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-07T09:11:42Z",
+        "uri": "http://web.archive.org/web/20140907091142/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-13T13:49:30Z",
+        "uri": "http://web.archive.org/web/20140913134930/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-13T13:49:33Z",
+        "uri": "http://web.archive.org/web/20140913134933/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-20T13:38:48Z",
+        "uri": "http://web.archive.org/web/20140920133848/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-20T13:38:54Z",
+        "uri": "http://web.archive.org/web/20140920133854/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-24T13:08:31Z",
+        "uri": "http://web.archive.org/web/20140924130831/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-27T22:30:52Z",
+        "uri": "http://web.archive.org/web/20140927223052/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-27T22:30:57Z",
+        "uri": "http://web.archive.org/web/20140927223057/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-28T06:09:44Z",
+        "uri": "http://web.archive.org/web/20140928060944/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-28T06:09:51Z",
+        "uri": "http://web.archive.org/web/20140928060951/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-09-29T00:19:37Z",
+        "uri": "http://web.archive.org/web/20140929001937/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2014-10-01T06:56:53Z",
+        "uri": "http://web.archive.org/web/20141001065653/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-01T07:00:24Z",
+        "uri": "http://web.archive.org/web/20141001070024/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-01T22:39:29Z",
+        "uri": "http://web.archive.org/web/20141001223929/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-01T22:39:35Z",
+        "uri": "http://web.archive.org/web/20141001223935/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-07T11:33:46Z",
+        "uri": "http://web.archive.org/web/20141007113346/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-08T06:00:39Z",
+        "uri": "http://web.archive.org/web/20141008060039/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-08T06:00:43Z",
+        "uri": "http://web.archive.org/web/20141008060043/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-08T18:05:15Z",
+        "uri": "http://web.archive.org/web/20141008180515/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-15T04:52:18Z",
+        "uri": "http://web.archive.org/web/20141015045218/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-15T04:52:21Z",
+        "uri": "http://web.archive.org/web/20141015045221/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-16T05:42:36Z",
+        "uri": "http://web.archive.org/web/20141016054236/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-16T05:42:38Z",
+        "uri": "http://web.archive.org/web/20141016054238/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-22T05:07:34Z",
+        "uri": "http://web.archive.org/web/20141022050734/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-22T05:07:37Z",
+        "uri": "http://web.archive.org/web/20141022050737/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-23T08:07:38Z",
+        "uri": "http://web.archive.org/web/20141023080738/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-23T08:07:41Z",
+        "uri": "http://web.archive.org/web/20141023080741/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-29T13:00:58Z",
+        "uri": "http://web.archive.org/web/20141029130058/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-29T13:01:07Z",
+        "uri": "http://web.archive.org/web/20141029130107/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-30T18:27:05Z",
+        "uri": "http://web.archive.org/web/20141030182705/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-10-30T18:27:12Z",
+        "uri": "http://web.archive.org/web/20141030182712/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-07T02:09:44Z",
+        "uri": "http://web.archive.org/web/20141107020944/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2014-11-11T04:23:06Z",
+        "uri": "http://web.archive.org/web/20141111042306/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-11T04:23:09Z",
+        "uri": "http://web.archive.org/web/20141111042309/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-12T15:32:21Z",
+        "uri": "http://web.archive.org/web/20141112153221/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-12T15:32:31Z",
+        "uri": "http://web.archive.org/web/20141112153231/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-19T03:18:23Z",
+        "uri": "http://web.archive.org/web/20141119031823/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-19T03:18:27Z",
+        "uri": "http://web.archive.org/web/20141119031827/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-20T14:58:19Z",
+        "uri": "http://web.archive.org/web/20141120145819/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-20T14:58:29Z",
+        "uri": "http://web.archive.org/web/20141120145829/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-23T08:34:46Z",
+        "uri": "http://web.archive.org/web/20141123083446/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-23T08:34:48Z",
+        "uri": "http://web.archive.org/web/20141123083448/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-26T01:53:54Z",
+        "uri": "http://web.archive.org/web/20141126015354/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-26T01:53:56Z",
+        "uri": "http://web.archive.org/web/20141126015356/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-27T01:54:04Z",
+        "uri": "http://web.archive.org/web/20141127015404/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-11-27T01:54:10Z",
+        "uri": "http://web.archive.org/web/20141127015410/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-12-01T10:04:20Z",
+        "uri": "http://web.archive.org/web/20141201100420/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2014-12-03T09:38:58Z",
+        "uri": "http://web.archive.org/web/20141203093858/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-12-03T09:39:04Z",
+        "uri": "http://web.archive.org/web/20141203093904/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-12-10T08:38:18Z",
+        "uri": "http://web.archive.org/web/20141210083818/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-12-10T08:38:25Z",
+        "uri": "http://web.archive.org/web/20141210083825/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-12-11T14:10:30Z",
+        "uri": "http://web.archive.org/web/20141211141030/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-12-11T14:10:47Z",
+        "uri": "http://web.archive.org/web/20141211141047/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-12-12T02:30:43Z",
+        "uri": "http://web.archive.org/web/20141212023043/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-12-12T02:30:47Z",
+        "uri": "http://web.archive.org/web/20141212023047/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-12-19T17:53:03Z",
+        "uri": "http://web.archive.org/web/20141219175303/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-12-19T17:53:08Z",
+        "uri": "http://web.archive.org/web/20141219175308/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-12-26T11:20:39Z",
+        "uri": "http://web.archive.org/web/20141226112039/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2014-12-26T11:20:44Z",
+        "uri": "http://web.archive.org/web/20141226112044/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-01-02T10:33:47Z",
+        "uri": "http://web.archive.org/web/20150102103347/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-01-02T10:33:52Z",
+        "uri": "http://web.archive.org/web/20150102103352/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-01-09T19:18:38Z",
+        "uri": "http://web.archive.org/web/20150109191838/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-01-09T19:18:44Z",
+        "uri": "http://web.archive.org/web/20150109191844/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-01-16T13:07:58Z",
+        "uri": "http://web.archive.org/web/20150116130758/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-01-16T13:08:01Z",
+        "uri": "http://web.archive.org/web/20150116130801/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-01-23T11:19:20Z",
+        "uri": "http://web.archive.org/web/20150123111920/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-01-23T11:19:24Z",
+        "uri": "http://web.archive.org/web/20150123111924/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-01-25T12:39:57Z",
+        "uri": "http://web.archive.org/web/20150125123957/http://tw.sports.yahoo.com:80/?"
+      },
+      {
+        "datetime": "2015-01-30T22:55:30Z",
+        "uri": "http://web.archive.org/web/20150130225530/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2015-02-05T16:51:24Z",
+        "uri": "http://web.archive.org/web/20150205165124/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-02-07T01:54:17Z",
+        "uri": "http://web.archive.org/web/20150207015417/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2015-03-07T05:38:36Z",
+        "uri": "http://web.archive.org/web/20150307053836/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2015-03-15T05:13:32Z",
+        "uri": "http://web.archive.org/web/20150315051332/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-03-16T10:58:00Z",
+        "uri": "http://web.archive.org/web/20150316105800/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-03-29T20:08:28Z",
+        "uri": "http://wayback.archive-it.org/all/20150329200828/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-03-29T20:08:28Z",
+        "uri": "http://web.archive.org/web/20150329200828/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-06-27T17:27:32Z",
+        "uri": "http://web.archive.org/web/20150627172732/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-06-29T08:59:08Z",
+        "uri": "http://web.archive.org/web/20150629085908/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-07-12T14:04:20Z",
+        "uri": "http://web.archive.org/web/20150712140420/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-08-10T17:04:25Z",
+        "uri": "http://web.archive.org/web/20150810170425/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-08-11T18:09:10Z",
+        "uri": "http://web.archive.org/web/20150811180910/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-09-05T06:46:44Z",
+        "uri": "http://web.archive.org/web/20150905064644/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-09-05T08:52:22Z",
+        "uri": "http://web.archive.org/web/20150905085222/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-11-02T03:23:14Z",
+        "uri": "http://web.archive.org/web/20151102032314/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-11-09T03:28:26Z",
+        "uri": "http://web.archive.org/web/20151109032826/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-11-10T05:48:00Z",
+        "uri": "http://web.archive.org/web/20151110054800/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-11-10T07:17:43Z",
+        "uri": "http://web.archive.org/web/20151110071743/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-11-12T05:19:06Z",
+        "uri": "http://web.archive.org/web/20151112051906/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-11-16T07:31:46Z",
+        "uri": "http://web.archive.org/web/20151116073146/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-11-22T12:26:02Z",
+        "uri": "http://web.archive.org/web/20151122122602/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-11-26T14:55:13Z",
+        "uri": "http://web.archive.org/web/20151126145513/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-12-01T10:12:24Z",
+        "uri": "http://web.archive.org/web/20151201101224/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-12-22T11:31:31Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20151222113131/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-12-28T17:37:38Z",
+        "uri": "http://web.archive.org/web/20151228173738/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2015-12-29T11:23:33Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20151229112333/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-01-05T10:45:59Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20160105104559/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-01-10T07:11:16Z",
+        "uri": "http://web.archive.org/web/20160110071116/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-01-12T16:17:00Z",
+        "uri": "http://web.archive.org/web/20160112161700/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-01-16T09:18:16Z",
+        "uri": "http://web.archive.org/web/20160116091816/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-01-19T10:57:10Z",
+        "uri": "http://web.archive.org/web/20160119105710/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-01-20T08:31:42Z",
+        "uri": "http://web.archive.org/web/20160120083142/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-01-29T01:34:02Z",
+        "uri": "http://web.archive.org/web/20160129013402/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-01-30T02:34:12Z",
+        "uri": "http://web.archive.org/web/20160130023412/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-02-01T03:45:08Z",
+        "uri": "http://web.archive.org/web/20160201034508/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-02-02T04:44:35Z",
+        "uri": "http://web.archive.org/web/20160202044435/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-02-03T05:51:09Z",
+        "uri": "http://web.archive.org/web/20160203055109/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-02-04T06:45:49Z",
+        "uri": "http://web.archive.org/web/20160204064549/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-02-04T11:52:45Z",
+        "uri": "http://web.archive.org/web/20160204115245/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-02-05T07:29:32Z",
+        "uri": "http://web.archive.org/web/20160205072932/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-02-06T08:08:30Z",
+        "uri": "http://web.archive.org/web/20160206080830/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-03-05T21:14:53Z",
+        "uri": "http://web.archive.org/web/20160305211453/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-03-08T23:02:49Z",
+        "uri": "http://web.archive.org/web/20160308230249/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-03-14T16:38:33Z",
+        "uri": "http://web.archive.org/web/20160314163833/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-03-16T00:54:15Z",
+        "uri": "http://web.archive.org/web/20160316005415/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-03-16T18:59:12Z",
+        "uri": "http://web.archive.org/web/20160316185912/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-03-28T04:48:38Z",
+        "uri": "http://web.archive.org/web/20160328044838/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-04-01T00:49:25Z",
+        "uri": "http://web.archive.org/web/20160401004925/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-04-03T09:03:41Z",
+        "uri": "http://web.archive.org/web/20160403090341/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-04-16T13:19:16Z",
+        "uri": "http://wayback.archive-it.org/all/20160416131916/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-04-16T13:19:16Z",
+        "uri": "http://web.archive.org/web/20160416131916/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-05-28T18:22:36Z",
+        "uri": "http://web.archive.org/web/20160528182236/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-05-28T18:22:42Z",
+        "uri": "http://web.archive.org/web/20160528182242/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-06-10T16:57:43Z",
+        "uri": "http://web.archive.org/web/20160610165743/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-06-10T16:57:45Z",
+        "uri": "http://web.archive.org/web/20160610165745/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-06-15T17:14:55Z",
+        "uri": "http://web.archive.org/web/20160615171455/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-06-24T14:39:57Z",
+        "uri": "http://web.archive.org/web/20160624143957/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-06-24T14:54:32Z",
+        "uri": "http://web.archive.org/web/20160624145432/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-07-17T16:00:51Z",
+        "uri": "http://web.archive.org/web/20160717160051/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-07-27T18:00:54Z",
+        "uri": "http://web.archive.org/web/20160727180054/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-07-28T02:47:21Z",
+        "uri": "http://web.archive.org/web/20160728024721/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-07-28T03:14:50Z",
+        "uri": "http://web.archive.org/web/20160728031450/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-08-09T17:51:22Z",
+        "uri": "http://web.archive.org/web/20160809175122/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-08-16T13:50:47Z",
+        "uri": "http://wayback.archive-it.org/all/20160816135047/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-08-16T13:50:47Z",
+        "uri": "http://web.archive.org/web/20160816135047/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-09-12T19:15:20Z",
+        "uri": "http://wayback.archive-it.org/all/20160912191520/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-09-12T19:15:20Z",
+        "uri": "http://web.archive.org/web/20160912191520/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-09-12T22:38:23Z",
+        "uri": "http://web.archive.org/web/20160912223823/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-09-22T16:33:30Z",
+        "uri": "http://web.archive.org/web/20160922163330/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-10-15T01:57:59Z",
+        "uri": "http://web.archive.org/web/20161015015759/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-10-21T08:08:46Z",
+        "uri": "http://web.archive.org/web/20161021080846/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-11-15T09:32:30Z",
+        "uri": "http://web.archive.org/web/20161115093230/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-11-15T09:32:34Z",
+        "uri": "http://web.archive.org/web/20161115093234/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-11-20T14:42:34Z",
+        "uri": "http://web.archive.org/web/20161120144234/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2016-11-22T07:28:55Z",
+        "uri": "http://web.archive.org/web/20161122072855/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-11-22T07:28:59Z",
+        "uri": "http://web.archive.org/web/20161122072859/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-11-29T06:35:58Z",
+        "uri": "http://web.archive.org/web/20161129063558/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-11-29T06:36:02Z",
+        "uri": "http://web.archive.org/web/20161129063602/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-06T06:52:10Z",
+        "uri": "http://web.archive.org/web/20161206065210/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-06T06:52:17Z",
+        "uri": "http://web.archive.org/web/20161206065217/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-07T19:30:22Z",
+        "uri": "http://wayback.archive-it.org/all/20161207193022/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-07T19:30:22Z",
+        "uri": "http://web.archive.org/web/20161207193022/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-09T14:27:56Z",
+        "uri": "http://web.archive.org/web/20161209142756/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-09T14:28:01Z",
+        "uri": "http://web.archive.org/web/20161209142801/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-10T05:28:09Z",
+        "uri": "http://web.archive.org/web/20161210052809/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-10T05:28:16Z",
+        "uri": "http://web.archive.org/web/20161210052816/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-11T04:40:14Z",
+        "uri": "http://web.archive.org/web/20161211044014/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-11T04:40:19Z",
+        "uri": "http://web.archive.org/web/20161211044019/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-12T17:46:24Z",
+        "uri": "http://wayback.archive-it.org/all/20161212174624/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-12T17:46:24Z",
+        "uri": "http://web.archive.org/web/20161212174624/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-13T02:37:16Z",
+        "uri": "http://web.archive.org/web/20161213023716/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-13T02:37:20Z",
+        "uri": "http://web.archive.org/web/20161213023720/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-20T16:16:00Z",
+        "uri": "http://wayback.archive-it.org/all/20161220161600/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-20T16:16:00Z",
+        "uri": "http://web.archive.org/web/20161220161600/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-27T17:21:30Z",
+        "uri": "http://wayback.archive-it.org/all/20161227172130/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2016-12-27T17:21:30Z",
+        "uri": "http://web.archive.org/web/20161227172130/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-01-03T06:40:42Z",
+        "uri": "http://web.archive.org/web/20170103064042/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-01-03T06:40:48Z",
+        "uri": "http://web.archive.org/web/20170103064048/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-01-03T16:01:19Z",
+        "uri": "http://wayback.archive-it.org/all/20170103160119/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-01-03T16:01:19Z",
+        "uri": "http://web.archive.org/web/20170103160119/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-01-19T03:28:22Z",
+        "uri": "http://web.archive.org/web/20170119032822/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-01-19T03:28:26Z",
+        "uri": "http://web.archive.org/web/20170119032826/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-01-30T14:18:48Z",
+        "uri": "http://web.archive.org/web/20170130141848/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-02-03T14:17:58Z",
+        "uri": "http://wayback.archive-it.org/all/20170203141758/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-02-03T14:17:58Z",
+        "uri": "http://web.archive.org/web/20170203141758/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-02-08T15:57:30Z",
+        "uri": "http://wayback.archive-it.org/all/20170208155730/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-02-08T15:57:30Z",
+        "uri": "http://web.archive.org/web/20170208155730/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-02-09T10:24:15Z",
+        "uri": "http://web.archive.org/web/20170209102415/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-02-10T04:21:12Z",
+        "uri": "http://web.archive.org/web/20170210042112/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2017-02-13T16:52:14Z",
+        "uri": "http://web.archive.org/web/20170213165214/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-02-13T16:52:19Z",
+        "uri": "http://web.archive.org/web/20170213165219/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-02-14T20:49:53Z",
+        "uri": "http://wayback.archive-it.org/all/20170214204953/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-02-14T20:49:53Z",
+        "uri": "http://web.archive.org/web/20170214204953/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-02-21T20:16:36Z",
+        "uri": "http://wayback.archive-it.org/all/20170221201636/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-02-21T20:16:36Z",
+        "uri": "http://web.archive.org/web/20170221201636/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-03-29T17:32:54Z",
+        "uri": "http://wayback.archive-it.org/all/20170329173254/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-03-29T17:32:54Z",
+        "uri": "http://web.archive.org/web/20170329173254/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-04-19T18:32:06Z",
+        "uri": "http://wayback.archive-it.org/all/20170419183206/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-04-19T18:32:06Z",
+        "uri": "http://web.archive.org/web/20170419183206/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-04-19T18:38:52Z",
+        "uri": "http://wayback.archive-it.org/all/20170419183852/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-04-19T18:38:52Z",
+        "uri": "http://web.archive.org/web/20170419183852/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-05-03T20:17:16Z",
+        "uri": "http://wayback.archive-it.org/all/20170503201716/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-05-03T20:17:16Z",
+        "uri": "http://web.archive.org/web/20170503201716/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-05-03T20:26:02Z",
+        "uri": "http://wayback.archive-it.org/all/20170503202602/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-05-03T20:26:02Z",
+        "uri": "http://web.archive.org/web/20170503202602/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-05-05T15:16:53Z",
+        "uri": "http://wayback.archive-it.org/all/20170505151653/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-05-05T15:16:53Z",
+        "uri": "http://web.archive.org/web/20170505151653/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-05-09T00:24:47Z",
+        "uri": "http://web.archive.org/web/20170509002447/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-05-19T21:28:38Z",
+        "uri": "http://web.archive.org/web/20170519212838/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2017-05-21T00:15:25Z",
+        "uri": "http://web.archive.org/web/20170521001525/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2017-05-23T16:59:31Z",
+        "uri": "http://web.archive.org/web/20170523165931/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-06-01T14:59:39Z",
+        "uri": "http://web.archive.org/web/20170601145939/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-06-01T15:00:35Z",
+        "uri": "http://web.archive.org/web/20170601150035/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-06-02T15:37:49Z",
+        "uri": "http://wayback.archive-it.org/all/20170602153749/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-06-02T15:37:49Z",
+        "uri": "http://web.archive.org/web/20170602153749/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-06-03T00:50:19Z",
+        "uri": "http://web.archive.org/web/20170603005019/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-06-03T00:54:29Z",
+        "uri": "http://web.archive.org/web/20170603005429/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-06-03T01:18:35Z",
+        "uri": "http://web.archive.org/web/20170603011835/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-06-27T20:04:46Z",
+        "uri": "http://wayback.archive-it.org/all/20170627200446/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-06-27T20:04:46Z",
+        "uri": "http://web.archive.org/web/20170627200446/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-06-30T19:03:21Z",
+        "uri": "http://wayback.archive-it.org/all/20170630190321/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-06-30T19:03:21Z",
+        "uri": "http://web.archive.org/web/20170630190321/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-07-06T02:46:24Z",
+        "uri": "http://web.archive.org/web/20170706024624/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-07-06T15:05:11Z",
+        "uri": "http://wayback.archive-it.org/all/20170706150511/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-07-06T15:05:11Z",
+        "uri": "http://web.archive.org/web/20170706150511/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-07-06T18:11:29Z",
+        "uri": "http://wayback.archive-it.org/all/20170706181129/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-07-06T18:11:29Z",
+        "uri": "http://web.archive.org/web/20170706181129/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-07-06T18:24:40Z",
+        "uri": "http://web.archive.org/web/20170706182440/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-07-11T16:22:57Z",
+        "uri": "http://wayback.archive-it.org/all/20170711162257/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-07-11T16:22:57Z",
+        "uri": "http://web.archive.org/web/20170711162257/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-07-18T20:07:32Z",
+        "uri": "http://wayback.archive-it.org/all/20170718200732/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-07-18T20:07:32Z",
+        "uri": "http://web.archive.org/web/20170718200732/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-07-20T15:00:49Z",
+        "uri": "http://web.archive.org/web/20170720150049/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2017-08-21T15:31:22Z",
+        "uri": "http://wayback.archive-it.org/all/20170821153122/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-21T15:31:22Z",
+        "uri": "http://web.archive.org/web/20170821153122/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-21T15:56:08Z",
+        "uri": "http://wayback.archive-it.org/all/20170821155608/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-21T15:56:08Z",
+        "uri": "http://web.archive.org/web/20170821155608/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-23T00:37:27Z",
+        "uri": "http://web.archive.org/web/20170823003727/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-23T00:37:59Z",
+        "uri": "http://web.archive.org/web/20170823003759/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-23T00:38:26Z",
+        "uri": "http://web.archive.org/web/20170823003826/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-23T00:39:02Z",
+        "uri": "http://web.archive.org/web/20170823003902/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-23T17:47:25Z",
+        "uri": "http://wayback.archive-it.org/all/20170823174725/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-23T17:47:25Z",
+        "uri": "http://web.archive.org/web/20170823174725/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-29T16:17:16Z",
+        "uri": "http://wayback.archive-it.org/all/20170829161716/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-29T16:17:16Z",
+        "uri": "http://web.archive.org/web/20170829161716/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-29T16:17:40Z",
+        "uri": "http://wayback.archive-it.org/all/20170829161740/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-29T16:17:40Z",
+        "uri": "http://web.archive.org/web/20170829161740/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-29T16:25:15Z",
+        "uri": "http://wayback.archive-it.org/all/20170829162515/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-29T16:25:15Z",
+        "uri": "http://web.archive.org/web/20170829162515/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-29T16:54:47Z",
+        "uri": "http://wayback.archive-it.org/all/20170829165447/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-08-29T16:54:47Z",
+        "uri": "http://web.archive.org/web/20170829165447/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-09-01T22:55:47Z",
+        "uri": "http://web.archive.org/web/20170901225547/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-09-07T14:24:35Z",
+        "uri": "http://web.archive.org/web/20170907142435/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-09-08T17:57:57Z",
+        "uri": "http://wayback.archive-it.org/all/20170908175757/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-09-08T17:57:57Z",
+        "uri": "http://web.archive.org/web/20170908175757/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-09-19T10:02:28Z",
+        "uri": "http://web.archive.org/web/20170919100228/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2017-10-20T16:08:34Z",
+        "uri": "http://wayback.archive-it.org/all/20171020160834/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-10-20T16:08:34Z",
+        "uri": "http://web.archive.org/web/20171020160834/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-10-27T15:52:14Z",
+        "uri": "http://wayback.archive-it.org/all/20171027155214/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-10-27T15:52:14Z",
+        "uri": "http://web.archive.org/web/20171027155214/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-11-12T20:27:45Z",
+        "uri": "http://wayback.archive-it.org/all/20171112202745/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-11-12T20:27:45Z",
+        "uri": "http://web.archive.org/web/20171112202745/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-11-14T19:46:24Z",
+        "uri": "http://wayback.archive-it.org/all/20171114194624/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-11-14T19:46:24Z",
+        "uri": "http://web.archive.org/web/20171114194624/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-11-18T21:15:46Z",
+        "uri": "http://web.archive.org/web/20171118211546/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2017-12-15T22:25:36Z",
+        "uri": "http://wayback.archive-it.org/all/20171215222536/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2017-12-15T22:25:36Z",
+        "uri": "http://web.archive.org/web/20171215222536/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-01-04T20:45:29Z",
+        "uri": "http://wayback.archive-it.org/all/20180104204529/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-01-04T20:45:29Z",
+        "uri": "http://web.archive.org/web/20180104204529/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-01-10T15:22:14Z",
+        "uri": "http://wayback.archive-it.org/all/20180110152214/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-01-10T15:22:14Z",
+        "uri": "http://web.archive.org/web/20180110152214/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-01-18T10:50:27Z",
+        "uri": "http://web.archive.org/web/20180118105027/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2018-01-19T18:19:49Z",
+        "uri": "http://wayback.archive-it.org/all/20180119181949/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-01-19T18:19:49Z",
+        "uri": "http://web.archive.org/web/20180119181949/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-01-19T20:58:18Z",
+        "uri": "http://web.archive.org/web/20180119205818/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-01-20T00:58:41Z",
+        "uri": "http://wayback.archive-it.org/all/20180120005841/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-01-20T00:58:41Z",
+        "uri": "http://web.archive.org/web/20180120005841/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-01-25T02:36:35Z",
+        "uri": "http://web.archive.org/web/20180125023635/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-01-26T13:46:26Z",
+        "uri": "http://web.archive.org/web/20180126134626/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-02-01T01:40:05Z",
+        "uri": "http://web.archive.org/web/20180201014005/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-02-07T02:13:08Z",
+        "uri": "http://web.archive.org/web/20180207021308/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-02-21T02:43:24Z",
+        "uri": "http://web.archive.org/web/20180221024324/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-02-24T03:12:06Z",
+        "uri": "http://web.archive.org/web/20180224031206/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-02-24T04:37:55Z",
+        "uri": "http://web.archive.org/web/20180224043755/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-03-06T02:25:30Z",
+        "uri": "http://web.archive.org/web/20180306022530/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-03-10T03:57:19Z",
+        "uri": "http://web.archive.org/web/20180310035719/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-03-19T05:44:25Z",
+        "uri": "http://web.archive.org/web/20180319054425/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-03-20T12:42:00Z",
+        "uri": "http://web.archive.org/web/20180320124200/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2018-03-24T03:44:40Z",
+        "uri": "http://web.archive.org/web/20180324034440/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-03-25T21:29:33Z",
+        "uri": "http://web.archive.org/web/20180325212933/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-04-01T21:24:34Z",
+        "uri": "http://web.archive.org/web/20180401212434/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-04-08T21:10:15Z",
+        "uri": "http://web.archive.org/web/20180408211015/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-04-15T21:42:22Z",
+        "uri": "http://web.archive.org/web/20180415214222/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-04-16T13:44:14Z",
+        "uri": "http://wayback.archive-it.org/all/20180416134414/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-04-16T13:44:14Z",
+        "uri": "http://web.archive.org/web/20180416134414/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-04-16T13:44:19Z",
+        "uri": "http://wayback.archive-it.org/all/20180416134419/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-04-16T13:44:19Z",
+        "uri": "http://web.archive.org/web/20180416134419/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-04-22T21:11:18Z",
+        "uri": "http://web.archive.org/web/20180422211118/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-04-29T22:19:28Z",
+        "uri": "http://web.archive.org/web/20180429221928/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-05-06T20:40:45Z",
+        "uri": "http://web.archive.org/web/20180506204045/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-05-10T14:36:08Z",
+        "uri": "http://web.archive.org/web/20180510143608/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-05-13T23:52:09Z",
+        "uri": "http://web.archive.org/web/20180513235209/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-05-20T02:07:27Z",
+        "uri": "http://web.archive.org/web/20180520020727/http://tw.sports.yahoo.com:80/"
+      },
+      {
+        "datetime": "2018-05-21T04:28:01Z",
+        "uri": "http://web.archive.org/web/20180521042801/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-05-28T00:26:59Z",
+        "uri": "http://web.archive.org/web/20180528002659/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-06-04T00:03:47Z",
+        "uri": "http://web.archive.org/web/20180604000347/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-06-16T23:05:14Z",
+        "uri": "http://web.archive.org/web/20180616230514/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-06-17T19:02:05Z",
+        "uri": "http://web.archive.org/web/20180617190205/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-06-23T10:26:45Z",
+        "uri": "http://web.archive.org/web/20180623102645/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-06-24T20:25:49Z",
+        "uri": "http://web.archive.org/web/20180624202549/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-06-26T15:41:09Z",
+        "uri": "http://web.archive.org/web/20180626154109/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-06-26T15:41:26Z",
+        "uri": "http://web.archive.org/web/20180626154126/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-07-01T20:51:43Z",
+        "uri": "http://web.archive.org/web/20180701205143/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-07-08T20:49:36Z",
+        "uri": "http://web.archive.org/web/20180708204936/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-07-20T02:53:16Z",
+        "uri": "http://web.archive.org/web/20180720025316/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-07-22T20:04:38Z",
+        "uri": "http://web.archive.org/web/20180722200438/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-07-29T21:35:16Z",
+        "uri": "http://web.archive.org/web/20180729213516/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-08-05T21:23:46Z",
+        "uri": "http://web.archive.org/web/20180805212346/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-08-12T21:15:30Z",
+        "uri": "http://web.archive.org/web/20180812211530/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-08-19T22:38:43Z",
+        "uri": "http://web.archive.org/web/20180819223843/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-08-26T21:52:40Z",
+        "uri": "http://web.archive.org/web/20180826215240/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-09-02T17:08:24Z",
+        "uri": "http://web.archive.org/web/20180902170824/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-09-02T22:00:33Z",
+        "uri": "http://web.archive.org/web/20180902220033/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-09-07T13:25:21Z",
+        "uri": "http://web.archive.org/web/20180907132521/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-09-09T21:48:20Z",
+        "uri": "http://web.archive.org/web/20180909214820/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-09-09T22:19:25Z",
+        "uri": "http://web.archive.org/web/20180909221925/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-09-10T06:09:42Z",
+        "uri": "http://web.archive.org/web/20180910060942/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-09-16T20:26:46Z",
+        "uri": "http://web.archive.org/web/20180916202646/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-09-24T14:59:51Z",
+        "uri": "http://web.archive.org/web/20180924145951/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-09-26T16:26:05Z",
+        "uri": "http://web.archive.org/web/20180926162605/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-10-01T19:16:53Z",
+        "uri": "http://web.archive.org/web/20181001191653/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-10-07T21:03:39Z",
+        "uri": "http://web.archive.org/web/20181007210339/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-10-14T20:39:30Z",
+        "uri": "http://web.archive.org/web/20181014203930/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-10-21T20:32:34Z",
+        "uri": "http://web.archive.org/web/20181021203234/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-10-28T21:16:13Z",
+        "uri": "http://web.archive.org/web/20181028211613/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-11-01T06:59:35Z",
+        "uri": "http://web.archive.org/web/20181101065935/http://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-11-05T00:18:12Z",
+        "uri": "http://web.archive.org/web/20181105001812/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-11-11T21:43:42Z",
+        "uri": "http://web.archive.org/web/20181111214342/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-11-18T19:02:15Z",
+        "uri": "http://web.archive.org/web/20181118190215/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-11-19T23:53:39Z",
+        "uri": "http://web.archive.org/web/20181119235339/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-11-25T20:19:50Z",
+        "uri": "http://web.archive.org/web/20181125201950/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-12-01T17:05:51Z",
+        "uri": "http://web.archive.org/web/20181201170551/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-12-02T20:44:18Z",
+        "uri": "http://web.archive.org/web/20181202204418/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-12-08T02:36:18Z",
+        "uri": "http://web.archive.org/web/20181208023618/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-12-09T21:19:11Z",
+        "uri": "http://web.archive.org/web/20181209211911/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-12-13T21:24:21Z",
+        "uri": "http://web.archive.org/web/20181213212421/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-12-16T19:00:00Z",
+        "uri": "http://web.archive.org/web/20181216190000/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-12-23T20:56:15Z",
+        "uri": "http://web.archive.org/web/20181223205615/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-12-25T05:41:34Z",
+        "uri": "http://web.archive.org/web/20181225054134/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-12-26T14:54:19Z",
+        "uri": "http://web.archive.org/web/20181226145419/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-12-26T14:58:49Z",
+        "uri": "http://web.archive.org/web/20181226145849/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-12-30T12:53:41Z",
+        "uri": "http://web.archive.org/web/20181230125341/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2018-12-30T19:43:57Z",
+        "uri": "http://web.archive.org/web/20181230194357/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2019-01-04T15:25:52Z",
+        "uri": "http://web.archive.org/web/20190104152552/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2019-01-06T19:22:27Z",
+        "uri": "http://web.archive.org/web/20190106192227/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2019-01-08T12:20:19Z",
+        "uri": "http://web.archive.org/web/20190108122019/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2019-01-13T20:32:36Z",
+        "uri": "http://web.archive.org/web/20190113203236/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2019-01-17T08:52:21Z",
+        "uri": "http://web.archive.org/web/20190117085221/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2019-01-21T23:04:31Z",
+        "uri": "http://web.archive.org/web/20190121230431/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2019-01-27T20:29:26Z",
+        "uri": "http://web.archive.org/web/20190127202926/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2019-02-01T09:51:08Z",
+        "uri": "http://web.archive.org/web/20190201095108/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2019-02-03T19:36:04Z",
+        "uri": "http://web.archive.org/web/20190203193604/https://tw.sports.yahoo.com/"
+      },
+      {
+        "datetime": "2019-02-10T20:53:32Z",
+        "uri": "http://web.archive.org/web/20190210205332/https://tw.sports.yahoo.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2001-04-20T18:06:50Z",
+      "uri": "http://web.archive.org/web/20010420180650/http://tw.sports.yahoo.com:80/"
+    },
+    "last": {
+      "datetime": "2019-02-10T20:53:32Z",
+      "uri": "http://web.archive.org/web/20190210205332/https://tw.sports.yahoo.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://tw.sports.yahoo.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://tw.sports.yahoo.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://tw.sports.yahoo.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://tw.sports.yahoo.com/"
+}

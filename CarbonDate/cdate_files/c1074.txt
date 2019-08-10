@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://thefreeportnews.com/sports/sports-letters/",
+  "uri": "http://thefreeportnews.com/sports/sports-letters/",
+  "estimated-creation-date": "2019-02-13T20:29:26",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T20:29:26"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214123611/http://thefreeportnews.com/sports/sports-letters/",
+      "memento-datetime": "2019-02-14T12:36:11",
+      "memento-pubdate": "2019-02-13T20:29:26",
+      "earliest": "2019-02-13T20:29:26"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:29:47"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://www.breitbart.com/politics/2019/02/12/trump-ilhan-omar-should-resign-from-congress-or-house-foreign-affairs-committee/",
+  "self": "http://localhost:1208/timemap/json/https://www.breitbart.com/politics/2019/02/12/trump-ilhan-omar-should-resign-from-congress-or-house-foreign-affairs-committee/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T21:09:04Z",
+        "uri": "http://web.archive.org/web/20190212210904/https://www.breitbart.com/politics/2019/02/12/trump-ilhan-omar-should-resign-from-congress-or-house-foreign-affairs-committee/"
+      },
+      {
+        "datetime": "2019-02-13T00:12:54Z",
+        "uri": "http://web.archive.org/web/20190213001254/https://www.breitbart.com/politics/2019/02/12/trump-ilhan-omar-should-resign-from-congress-or-house-foreign-affairs-committee/"
+      },
+      {
+        "datetime": "2019-02-13T11:14:51Z",
+        "uri": "http://web.archive.org/web/20190213111451/https://www.breitbart.com/politics/2019/02/12/trump-ilhan-omar-should-resign-from-congress-or-house-foreign-affairs-committee/"
+      },
+      {
+        "datetime": "2019-02-14T04:50:19Z",
+        "uri": "http://web.archive.org/web/20190214045019/https://www.breitbart.com/politics/2019/02/12/trump-ilhan-omar-should-resign-from-congress-or-house-foreign-affairs-committee/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T21:09:04Z",
+      "uri": "http://web.archive.org/web/20190212210904/https://www.breitbart.com/politics/2019/02/12/trump-ilhan-omar-should-resign-from-congress-or-house-foreign-affairs-committee/"
+    },
+    "last": {
+      "datetime": "2019-02-14T04:50:19Z",
+      "uri": "http://web.archive.org/web/20190214045019/https://www.breitbart.com/politics/2019/02/12/trump-ilhan-omar-should-resign-from-congress-or-house-foreign-affairs-committee/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.breitbart.com/politics/2019/02/12/trump-ilhan-omar-should-resign-from-congress-or-house-foreign-affairs-committee/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.breitbart.com/politics/2019/02/12/trump-ilhan-omar-should-resign-from-congress-or-house-foreign-affairs-committee/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.breitbart.com/politics/2019/02/12/trump-ilhan-omar-should-resign-from-congress-or-house-foreign-affairs-committee/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.breitbart.com/politics/2019/02/12/trump-ilhan-omar-should-resign-from-congress-or-house-foreign-affairs-committee/"
+}

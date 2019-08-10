@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/",
+  "uri": "https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/",
+  "estimated-creation-date": "2019-02-12T15:02:02",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T15:02:02"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212235721/https://truepundit.com/boom-best-economic-optimism-in-16-years-50-better-off-under-trump/",
+      "memento-datetime": "2019-02-12T23:57:21",
+      "memento-pubdate": "2019-02-12T15:02:02",
+      "earliest": "2019-02-12T15:02:02"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T17:36:02"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

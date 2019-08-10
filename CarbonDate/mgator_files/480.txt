@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.heraldscotland.com/news/17427860.bbc-cameraman-attacked-by-trump-supporter-at-rally/",
+  "self": "http://localhost:1208/timemap/json/https://www.heraldscotland.com/news/17427860.bbc-cameraman-attacked-by-trump-supporter-at-rally/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T05:07:26Z",
+        "uri": "http://web.archive.org/web/20190213050726/https://www.heraldscotland.com/news/17427860.bbc-cameraman-attacked-by-trump-supporter-at-rally/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T05:07:26Z",
+      "uri": "http://web.archive.org/web/20190213050726/https://www.heraldscotland.com/news/17427860.bbc-cameraman-attacked-by-trump-supporter-at-rally/"
+    },
+    "last": {
+      "datetime": "2019-02-13T05:07:26Z",
+      "uri": "http://web.archive.org/web/20190213050726/https://www.heraldscotland.com/news/17427860.bbc-cameraman-attacked-by-trump-supporter-at-rally/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.heraldscotland.com/news/17427860.bbc-cameraman-attacked-by-trump-supporter-at-rally/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.heraldscotland.com/news/17427860.bbc-cameraman-attacked-by-trump-supporter-at-rally/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.heraldscotland.com/news/17427860.bbc-cameraman-attacked-by-trump-supporter-at-rally/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.heraldscotland.com/news/17427860.bbc-cameraman-attacked-by-trump-supporter-at-rally/"
+}

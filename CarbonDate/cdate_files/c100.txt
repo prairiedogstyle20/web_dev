@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.shelbystar.com/sports/20190213/former-burns-standout-granted-another-year-of-eligibility-at-gardner-webb",
+  "uri": "https://www.shelbystar.com/sports/20190213/former-burns-standout-granted-another-year-of-eligibility-at-gardner-webb",
+  "estimated-creation-date": "2019-02-13T15:15:09",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:15:54"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T15:15:09"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214164601/https://www.shelbystar.com/sports/20190213/former-burns-standout-granted-another-year-of-eligibility-at-gardner-webb",
+      "memento-datetime": "2019-02-14T16:02:59",
+      "memento-pubdate": "2019-02-13T15:15:09",
+      "earliest": "2019-02-13T15:15:09"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:16"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/policy/defense/429716-congress-poised-to-put-trump-in-veto-bind",
+  "uri": "https://thehill.com/policy/defense/429716-congress-poised-to-put-trump-in-veto-bind",
+  "estimated-creation-date": "2019-02-13T06:00:11",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T06:00:11"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213144538/https://thehill.com/policy/defense/429716-congress-poised-to-put-trump-in-veto-bind",
+      "memento-datetime": "2019-02-13T14:45:38",
+      "memento-pubdate": "2019-02-13T06:00:11",
+      "earliest": "2019-02-13T06:00:11"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

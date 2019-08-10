@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954",
+  "self": "http://localhost:1208/timemap/json/https://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:14:14Z",
+        "uri": "http://web.archive.org/web/20190213121414/https://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954"
+      },
+      {
+        "datetime": "2019-02-13T16:46:03Z",
+        "uri": "http://web.archive.org/web/20190213164603/http://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:14:14Z",
+      "uri": "http://web.archive.org/web/20190213121414/https://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954"
+    },
+    "last": {
+      "datetime": "2019-02-13T16:46:03Z",
+      "uri": "http://web.archive.org/web/20190213164603/http://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954",
+    "json_format": "http://localhost:1208/timemap/json/https://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954"
+}

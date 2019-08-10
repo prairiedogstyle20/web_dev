@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.pscp.tv/w/bzR1fjgxNzQyMjl8MW1yR21ZWWpFakRHeWog77dSrchUi3cHU2QC28SR2IXO6c_mKPbVP_BYhjPA?t=47s",
+  "uri": "https://www.pscp.tv/w/bzR1fjgxNzQyMjl8MW1yR21ZWWpFakRHeWog77dSrchUi3cHU2QC28SR2IXO6c_mKPbVP_BYhjPA?t=47s",
+  "estimated-creation-date": "2019-02-13T20:29:15",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:29:15"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

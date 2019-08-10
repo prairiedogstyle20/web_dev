@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://shop.donaldjtrump.com/products/build-the-wall-crime-will-fall-bumper-sticker-set-of-2",
+  "uri": "https://shop.donaldjtrump.com/products/build-the-wall-crime-will-fall-bumper-sticker-set-of-2",
+  "estimated-creation-date": "2019-02-12T22:19:33",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T22:19:33"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

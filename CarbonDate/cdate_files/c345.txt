@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html",
+  "uri": "https://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html",
+  "estimated-creation-date": "2019-02-12T21:15:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T21:15:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213133008/http://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html",
+      "memento-datetime": "2019-02-13T13:30:08",
+      "memento-pubdate": "2019-02-12T21:15:00",
+      "earliest": "2019-02-12T21:15:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T23:22:21"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

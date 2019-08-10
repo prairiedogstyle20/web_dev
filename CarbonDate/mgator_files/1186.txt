@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.palmerreport.com/analysis/phony-senate-intel-report-gave/15932/",
+  "self": "http://localhost:1208/timemap/json/https://www.palmerreport.com/analysis/phony-senate-intel-report-gave/15932/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T08:08:53Z",
+        "uri": "http://web.archive.org/web/20190213080853/https://www.palmerreport.com/analysis/phony-senate-intel-report-gave/15932/"
+      },
+      {
+        "datetime": "2019-02-13T12:27:06Z",
+        "uri": "http://web.archive.org/web/20190213122706/https://www.palmerreport.com/analysis/phony-senate-intel-report-gave/15932/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T08:08:53Z",
+      "uri": "http://web.archive.org/web/20190213080853/https://www.palmerreport.com/analysis/phony-senate-intel-report-gave/15932/"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:27:06Z",
+      "uri": "http://web.archive.org/web/20190213122706/https://www.palmerreport.com/analysis/phony-senate-intel-report-gave/15932/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.palmerreport.com/analysis/phony-senate-intel-report-gave/15932/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.palmerreport.com/analysis/phony-senate-intel-report-gave/15932/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.palmerreport.com/analysis/phony-senate-intel-report-gave/15932/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.palmerreport.com/analysis/phony-senate-intel-report-gave/15932/"
+}

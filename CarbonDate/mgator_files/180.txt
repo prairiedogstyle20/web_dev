@@ -1,0 +1,55 @@
+8
+{
+  "original_uri": "https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T14:09:19Z",
+        "uri": "http://web.archive.org/web/20190212140919/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html"
+      },
+      {
+        "datetime": "2019-02-12T16:03:42Z",
+        "uri": "http://archive.md/20190212160342/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html"
+      },
+      {
+        "datetime": "2019-02-12T21:32:34Z",
+        "uri": "http://web.archive.org/web/20190212213234/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html"
+      },
+      {
+        "datetime": "2019-02-13T01:06:28Z",
+        "uri": "http://web.archive.org/web/20190213010628/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html"
+      },
+      {
+        "datetime": "2019-02-13T01:27:56Z",
+        "uri": "http://web.archive.org/web/20190213012756/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html"
+      },
+      {
+        "datetime": "2019-02-13T06:12:52Z",
+        "uri": "http://web.archive.org/web/20190213061252/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html"
+      },
+      {
+        "datetime": "2019-02-13T07:53:34Z",
+        "uri": "http://web.archive.org/web/20190213075334/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html"
+      },
+      {
+        "datetime": "2019-02-13T13:27:20Z",
+        "uri": "http://web.archive.org/web/20190213132720/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T14:09:19Z",
+      "uri": "http://web.archive.org/web/20190212140919/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:27:20Z",
+      "uri": "http://web.archive.org/web/20190213132720/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2019/02/12/opinion/el-paso-trump-beto.html"
+}

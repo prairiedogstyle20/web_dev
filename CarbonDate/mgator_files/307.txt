@@ -1,0 +1,59 @@
+9
+{
+  "original_uri": "https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children",
+  "self": "http://localhost:1208/timemap/json/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-11-21T01:21:56Z",
+        "uri": "http://wayback.archive-it.org/all/20181121012156/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+      },
+      {
+        "datetime": "2018-11-21T01:21:56Z",
+        "uri": "http://web.archive.org/web/20181121012156/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+      },
+      {
+        "datetime": "2018-11-21T03:56:56Z",
+        "uri": "http://web.archive.org/web/20181121035656/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+      },
+      {
+        "datetime": "2018-11-21T18:13:51Z",
+        "uri": "http://web.archive.org/web/20181121181351/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+      },
+      {
+        "datetime": "2018-11-22T01:43:01Z",
+        "uri": "http://wayback.archive-it.org/all/20181122014301/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+      },
+      {
+        "datetime": "2018-11-22T01:43:01Z",
+        "uri": "http://web.archive.org/web/20181122014301/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+      },
+      {
+        "datetime": "2018-12-22T02:29:16Z",
+        "uri": "http://web.archive.org/web/20181222022916/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+      },
+      {
+        "datetime": "2018-12-23T02:46:06Z",
+        "uri": "http://web.archive.org/web/20181223024606/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+      },
+      {
+        "datetime": "2018-12-27T13:27:50Z",
+        "uri": "http://web.archive.org/web/20181227132750/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+      }
+    ],
+    "first": {
+      "datetime": "2018-11-21T01:21:56Z",
+      "uri": "http://wayback.archive-it.org/all/20181121012156/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+    },
+    "last": {
+      "datetime": "2018-12-27T13:27:50Z",
+      "uri": "http://web.archive.org/web/20181227132750/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children",
+    "json_format": "http://localhost:1208/timemap/json/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.vox.com/2018/11/20/18104676/asylum-border-trump-children"
+}

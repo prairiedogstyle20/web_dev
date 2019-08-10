@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido",
+  "self": "http://localhost:1208/timemap/json/https://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T01:02:18Z",
+        "uri": "http://web.archive.org/web/20190214010218/https://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido"
+      },
+      {
+        "datetime": "2019-02-14T01:08:04Z",
+        "uri": "http://web.archive.org/web/20190214010804/https://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido"
+      },
+      {
+        "datetime": "2019-02-14T10:51:26Z",
+        "uri": "http://web.archive.org/web/20190214105126/http://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido"
+      },
+      {
+        "datetime": "2019-02-14T10:52:07Z",
+        "uri": "http://web.archive.org/web/20190214105207/https://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido"
+      },
+      {
+        "datetime": "2019-02-14T14:44:28Z",
+        "uri": "http://web.archive.org/web/20190214144428/https://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T01:02:18Z",
+      "uri": "http://web.archive.org/web/20190214010218/https://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido"
+    },
+    "last": {
+      "datetime": "2019-02-14T14:44:28Z",
+      "uri": "http://web.archive.org/web/20190214144428/https://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido",
+    "json_format": "http://localhost:1208/timemap/json/https://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://larepublica.pe/mundo/1412614-crisis-venezuela-donald-trump-descarta-envio-tropas-militares-colombia-derrocar-nicolas-maduro-juan-guaido"
+}

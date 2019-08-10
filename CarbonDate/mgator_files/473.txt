@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://video.foxnews.com/v/6001778909001/",
+  "self": "http://localhost:1208/timemap/json/https://video.foxnews.com/v/6001778909001/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T23:54:33Z",
+        "uri": "http://web.archive.org/web/20190213235433/http://video.foxnews.com/v/6001778909001"
+      },
+      {
+        "datetime": "2019-02-13T23:55:27Z",
+        "uri": "http://web.archive.org/web/20190213235527/https://video.foxnews.com/v/6001778909001/"
+      },
+      {
+        "datetime": "2019-02-13T23:57:43Z",
+        "uri": "http://web.archive.org/web/20190213235743/https://video.foxnews.com/v/6001778909001"
+      },
+      {
+        "datetime": "2019-02-14T00:05:51Z",
+        "uri": "http://web.archive.org/web/20190214000551/http://video.foxnews.com/v/6001778909001/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T23:54:33Z",
+      "uri": "http://web.archive.org/web/20190213235433/http://video.foxnews.com/v/6001778909001"
+    },
+    "last": {
+      "datetime": "2019-02-14T00:05:51Z",
+      "uri": "http://web.archive.org/web/20190214000551/http://video.foxnews.com/v/6001778909001/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://video.foxnews.com/v/6001778909001/",
+    "json_format": "http://localhost:1208/timemap/json/https://video.foxnews.com/v/6001778909001/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://video.foxnews.com/v/6001778909001/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://video.foxnews.com/v/6001778909001/"
+}

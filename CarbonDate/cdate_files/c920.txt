@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://brobible.com/sports/article/chris-bosh-kevin-garnett-story-trash-talking-momma-boy-get-on-head/",
+  "uri": "https://brobible.com/sports/article/chris-bosh-kevin-garnett-story-trash-talking-momma-boy-get-on-head/",
+  "estimated-creation-date": "2019-02-13T01:44:46",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213054928/https://brobible.com/sports/article/chris-bosh-kevin-garnett-story-trash-talking-momma-boy-get-on-head/",
+      "memento-datetime": "2019-02-13T05:45:35",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T05:45:35"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T01:44:46"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

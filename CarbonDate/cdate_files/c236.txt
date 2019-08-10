@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.politico.com/story/2019/02/13/trump-backer-saudi-arabia-khashoggi-1168462?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "https://www.politico.com/story/2019/02/13/trump-backer-saudi-arabia-khashoggi-1168462?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "2019-02-13T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:18:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

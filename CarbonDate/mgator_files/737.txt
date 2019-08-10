@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html",
+  "self": "http://localhost:1208/timemap/json/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:21:08Z",
+        "uri": "http://web.archive.org/web/20190213122108/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html"
+      },
+      {
+        "datetime": "2019-02-13T14:01:48Z",
+        "uri": "http://web.archive.org/web/20190213140148/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html"
+      },
+      {
+        "datetime": "2019-02-13T14:01:53Z",
+        "uri": "http://archive.md/20190213140153/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:21:08Z",
+      "uri": "http://web.archive.org/web/20190213122108/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T14:01:53Z",
+      "uri": "http://archive.md/20190213140153/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html"
+}

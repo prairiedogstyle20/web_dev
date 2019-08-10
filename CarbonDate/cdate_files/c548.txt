@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.yelp.com/biz/longview-spine-and-sports-medicine-longview?utm_campaign=Review&utm_medium=twitter&utm_source=ishare",
+  "uri": "https://www.yelp.com/biz/longview-spine-and-sports-medicine-longview?utm_campaign=Review&utm_medium=twitter&utm_source=ishare",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

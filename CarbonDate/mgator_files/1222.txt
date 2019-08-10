@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://thehill.com/homenews/senate/429697-senate-poised-to-confirm-trumps-attorney-general-pick",
+  "self": "http://localhost:1208/timemap/json/https://thehill.com/homenews/senate/429697-senate-poised-to-confirm-trumps-attorney-general-pick",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T01:28:09Z",
+        "uri": "http://web.archive.org/web/20190213012809/https://thehill.com/homenews/senate/429697-senate-poised-to-confirm-trumps-attorney-general-pick"
+      },
+      {
+        "datetime": "2019-02-13T03:08:31Z",
+        "uri": "http://web.archive.org/web/20190213030831/https://thehill.com/homenews/senate/429697-senate-poised-to-confirm-trumps-attorney-general-pick"
+      },
+      {
+        "datetime": "2019-02-13T12:39:11Z",
+        "uri": "http://web.archive.org/web/20190213123911/https://thehill.com/homenews/senate/429697-senate-poised-to-confirm-trumps-attorney-general-pick"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T01:28:09Z",
+      "uri": "http://web.archive.org/web/20190213012809/https://thehill.com/homenews/senate/429697-senate-poised-to-confirm-trumps-attorney-general-pick"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:39:11Z",
+      "uri": "http://web.archive.org/web/20190213123911/https://thehill.com/homenews/senate/429697-senate-poised-to-confirm-trumps-attorney-general-pick"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://thehill.com/homenews/senate/429697-senate-poised-to-confirm-trumps-attorney-general-pick",
+    "json_format": "http://localhost:1208/timemap/json/https://thehill.com/homenews/senate/429697-senate-poised-to-confirm-trumps-attorney-general-pick",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://thehill.com/homenews/senate/429697-senate-poised-to-confirm-trumps-attorney-general-pick"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://thehill.com/homenews/senate/429697-senate-poised-to-confirm-trumps-attorney-general-pick"
+}

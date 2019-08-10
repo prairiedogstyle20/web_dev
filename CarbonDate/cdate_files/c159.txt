@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.albayan.ae/sports/horses/2019-02-13-1.3486313",
+  "uri": "https://www.albayan.ae/sports/horses/2019-02-13-1.3486313",
+  "estimated-creation-date": "2019-02-13T03:05:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T03:05:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213121848/https://www.albayan.ae/sports/horses/2019-02-13-1.3486313",
+      "memento-datetime": "2019-02-13T12:18:48",
+      "memento-pubdate": "2019-02-13T03:05:00",
+      "earliest": "2019-02-13T03:05:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:55:01"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

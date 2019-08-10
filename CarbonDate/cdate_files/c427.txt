@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.salon.com/2019/02/12/beto-orourke-rebukes-president-donald-trump-at-dueling-rally-in-el-paso-walls-end-lives/",
+  "uri": "https://www.salon.com/2019/02/12/beto-orourke-rebukes-president-donald-trump-at-dueling-rally-in-el-paso-walls-end-lives/",
+  "estimated-creation-date": "2019-02-12T12:49:14",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T12:49:14"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212223046/https://www.salon.com/2019/02/12/beto-orourke-rebukes-president-donald-trump-at-dueling-rally-in-el-paso-walls-end-lives/",
+      "memento-datetime": "2019-02-12T22:30:46",
+      "memento-pubdate": "2019-02-12T12:49:14",
+      "earliest": "2019-02-12T12:49:14"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T17:58:14"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

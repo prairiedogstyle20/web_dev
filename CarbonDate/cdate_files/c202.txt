@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://arizonaspolitics.blogspot.com/2019/02/tomorrow-senate-judiciary-committee-to.html",
+  "uri": "https://arizonaspolitics.blogspot.com/2019/02/tomorrow-senate-judiciary-committee-to.html",
+  "estimated-creation-date": "2019-02-13T00:05:14",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T03:30:50"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T00:05:14"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

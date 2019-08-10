@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html",
+  "uri": "https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html",
+  "estimated-creation-date": "2019-02-11T05:01:05",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org",
+    "wayback.archive-it.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T18:14:59"
+    },
+    "pubdate": {
+      "earliest": "2019-02-11T05:01:05"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190211191435/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html",
+      "memento-datetime": "2019-02-11T19:04:51",
+      "memento-pubdate": "2019-02-11T05:01:05",
+      "earliest": "2019-02-11T05:01:05"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190212013007/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html",
+      "memento-datetime": "2019-02-12T01:27:49",
+      "memento-pubdate": "2019-02-11T05:01:05",
+      "earliest": "2019-02-11T05:01:05"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190212100225/https://www.nytimes.com/2019/02/11/business/ai-artificial-intelligence-trump.html",
+      "memento-datetime": "2019-02-12T10:02:25",
+      "memento-pubdate": "2019-02-12T10:02:25",
+      "earliest": "2019-02-12T10:02:25"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

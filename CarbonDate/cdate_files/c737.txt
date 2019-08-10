@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://fortune.com/2019/02/13/bank-mergers-are-happening-faster-under-the-trump-administration-but-is-that-a-good-thing/?utm_source=twitter.com&utm_campaign=fortunemagazine&utm_medium=social&xid=soc_socialflow_twitter_FORTUNE",
+  "uri": "http://fortune.com/2019/02/13/bank-mergers-are-happening-faster-under-the-trump-administration-but-is-that-a-good-thing/?utm_source=twitter.com&utm_campaign=fortunemagazine&utm_medium=social&xid=soc_socialflow_twitter_FORTUNE",
+  "estimated-creation-date": "2019-02-13T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

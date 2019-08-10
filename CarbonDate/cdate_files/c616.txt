@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/",
+  "uri": "https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/",
+  "estimated-creation-date": "2018-06-08T10:44:17",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-06-08T14:44:17"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180805135558/https://johnpavlovitz.com/2018/06/08/god-has-nothing-to-do-with-trump-being-president/",
+      "memento-datetime": "2018-08-05T13:55:58",
+      "memento-pubdate": "2018-06-08T10:44:17",
+      "earliest": "2018-06-08T10:44:17"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T13:35:31"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

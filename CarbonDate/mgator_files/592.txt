@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.elnuevodiario.com.ni/internacionales/485729-donald-trump-crisis-venezuela/",
+  "self": "http://localhost:1208/timemap/json/https://www.elnuevodiario.com.ni/internacionales/485729-donald-trump-crisis-venezuela/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T22:04:33Z",
+        "uri": "http://web.archive.org/web/20190213220433/https://www.elnuevodiario.com.ni/internacionales/485729-donald-trump-crisis-venezuela/"
+      },
+      {
+        "datetime": "2019-02-14T06:17:53Z",
+        "uri": "http://web.archive.org/web/20190214061753/http://www.elnuevodiario.com.ni/internacionales/485729-donald-trump-crisis-venezuela/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T22:04:33Z",
+      "uri": "http://web.archive.org/web/20190213220433/https://www.elnuevodiario.com.ni/internacionales/485729-donald-trump-crisis-venezuela/"
+    },
+    "last": {
+      "datetime": "2019-02-14T06:17:53Z",
+      "uri": "http://web.archive.org/web/20190214061753/http://www.elnuevodiario.com.ni/internacionales/485729-donald-trump-crisis-venezuela/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.elnuevodiario.com.ni/internacionales/485729-donald-trump-crisis-venezuela/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.elnuevodiario.com.ni/internacionales/485729-donald-trump-crisis-venezuela/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.elnuevodiario.com.ni/internacionales/485729-donald-trump-crisis-venezuela/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.elnuevodiario.com.ni/internacionales/485729-donald-trump-crisis-venezuela/"
+}

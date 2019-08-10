@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://www.cnn.com/videos/politics/2019/02/13/trump-border-wall-shutdown-bts-ip-vpx.cnn",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/videos/politics/2019/02/13/trump-border-wall-shutdown-bts-ip-vpx.cnn",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T22:32:24Z",
+        "uri": "http://web.archive.org/web/20190213223224/https://www.cnn.com/videos/politics/2019/02/13/trump-border-wall-shutdown-bts-ip-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T00:43:00Z",
+        "uri": "http://web.archive.org/web/20190214004300/https://www.cnn.com/videos/politics/2019/02/13/trump-border-wall-shutdown-bts-ip-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T00:58:35Z",
+        "uri": "http://web.archive.org/web/20190214005835/https://www.cnn.com/videos/politics/2019/02/13/trump-border-wall-shutdown-bts-ip-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T06:18:21Z",
+        "uri": "http://web.archive.org/web/20190214061821/https://www.cnn.com/videos/politics/2019/02/13/trump-border-wall-shutdown-bts-ip-vpx.cnn"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T22:32:24Z",
+      "uri": "http://web.archive.org/web/20190213223224/https://www.cnn.com/videos/politics/2019/02/13/trump-border-wall-shutdown-bts-ip-vpx.cnn"
+    },
+    "last": {
+      "datetime": "2019-02-14T06:18:21Z",
+      "uri": "http://web.archive.org/web/20190214061821/https://www.cnn.com/videos/politics/2019/02/13/trump-border-wall-shutdown-bts-ip-vpx.cnn"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/videos/politics/2019/02/13/trump-border-wall-shutdown-bts-ip-vpx.cnn",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/videos/politics/2019/02/13/trump-border-wall-shutdown-bts-ip-vpx.cnn",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/videos/politics/2019/02/13/trump-border-wall-shutdown-bts-ip-vpx.cnn"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/videos/politics/2019/02/13/trump-border-wall-shutdown-bts-ip-vpx.cnn"
+}

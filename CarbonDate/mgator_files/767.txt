@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.nydailynews.com/news/politics/ny-pol-trump-wall-shutdown-build-20190212-story.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nydailynews.com/news/politics/ny-pol-trump-wall-shutdown-build-20190212-story.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T13:33:50Z",
+        "uri": "http://web.archive.org/web/20190213133350/http://www.nydailynews.com/news/politics/ny-pol-trump-wall-shutdown-build-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T15:04:56Z",
+        "uri": "http://web.archive.org/web/20190213150456/https://www.nydailynews.com/news/politics/ny-pol-trump-wall-shutdown-build-20190212-story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T13:33:50Z",
+      "uri": "http://web.archive.org/web/20190213133350/http://www.nydailynews.com/news/politics/ny-pol-trump-wall-shutdown-build-20190212-story.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T15:04:56Z",
+      "uri": "http://web.archive.org/web/20190213150456/https://www.nydailynews.com/news/politics/ny-pol-trump-wall-shutdown-build-20190212-story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nydailynews.com/news/politics/ny-pol-trump-wall-shutdown-build-20190212-story.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nydailynews.com/news/politics/ny-pol-trump-wall-shutdown-build-20190212-story.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nydailynews.com/news/politics/ny-pol-trump-wall-shutdown-build-20190212-story.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nydailynews.com/news/politics/ny-pol-trump-wall-shutdown-build-20190212-story.html"
+}

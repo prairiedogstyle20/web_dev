@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://www.wtol.com/2019/02/13/ohio-man-charged-with-threatening-kill-president-trump-by-cutting-off-his-head/",
+  "uri": "http://www.wtol.com/2019/02/13/ohio-man-charged-with-threatening-kill-president-trump-by-cutting-off-his-head/",
+  "estimated-creation-date": "2019-02-13T16:35:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T16:35:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213204637/http://www.wtol.com/2019/02/13/ohio-man-charged-with-threatening-kill-president-trump-by-cutting-off-his-head/",
+      "memento-datetime": "2019-02-13T20:46:37",
+      "memento-pubdate": "2019-02-13T16:35:00",
+      "earliest": "2019-02-13T16:35:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:30"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

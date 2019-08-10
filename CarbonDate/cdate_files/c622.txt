@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://www.breitbart.com/politics/2019/02/13/nancy-pelosi-defends-ilhan-omar-with-lie-about-jew-s-a-at-trump-rallies/",
+  "uri": "https://www.breitbart.com/politics/2019/02/13/nancy-pelosi-defends-ilhan-omar-with-lie-about-jew-s-a-at-trump-rallies/",
+  "estimated-creation-date": "2019-02-13T19:07:41",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:07:41"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190213210512/https://www.breitbart.com/politics/2019/02/13/nancy-pelosi-defends-ilhan-omar-with-lie-about-jew-s-a-at-trump-rallies/",
+      "memento-datetime": "2019-02-13T21:05:12",
+      "memento-pubdate": "2019-02-13T21:05:12",
+      "earliest": "2019-02-13T21:05:12"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213210926/https://www.breitbart.com/politics/2019/02/13/nancy-pelosi-defends-ilhan-omar-with-lie-about-jew-s-a-at-trump-rallies/",
+      "memento-datetime": "2019-02-13T21:03:18",
+      "memento-pubdate": "2019-02-13T19:07:41",
+      "earliest": "2019-02-13T19:07:41"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T21:35:16"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

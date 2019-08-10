@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://web.archive.org/web/20190106111707/https://torontosun.com/sports/hockey/nhl/toronto-maple-leafs/if-not-the-last-man-in-for-all-star-game-the-idea-of-rest-suits-rielly-just-fine",
+  "uri": "https://web.archive.org/web/20190106111707/https://torontosun.com/sports/hockey/nhl/toronto-maple-leafs/if-not-the-last-man-in-for-all-star-game-the-idea-of-rest-suits-rielly-just-fine",
+  "estimated-creation-date": "2019-01-05T16:22:04",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-01-05T16:22:04"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html",
+  "uri": "https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html",
+  "estimated-creation-date": "2019-02-13T01:58:51",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:42:20"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T01:58:52"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213050418/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html",
+      "memento-datetime": "2019-02-13T04:53:28",
+      "memento-pubdate": "2019-02-13T01:58:51",
+      "earliest": "2019-02-13T01:58:51"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190214185159/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html",
+      "memento-datetime": "2019-02-14T18:51:59",
+      "memento-pubdate": "2019-02-14T18:51:59",
+      "earliest": "2019-02-14T18:51:59"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T15:04:16"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

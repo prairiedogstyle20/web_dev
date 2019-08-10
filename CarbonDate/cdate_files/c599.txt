@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.axios.com/national-debt-22-trillion-trump-treasury-f2062d73-3d76-464a-95f6-d72301eef05b.html?utm_source=twitter&utm_medium=twsocialshare&utm_campaign=organic",
+  "uri": "https://www.axios.com/national-debt-22-trillion-trump-treasury-f2062d73-3d76-464a-95f6-d72301eef05b.html?utm_source=twitter&utm_medium=twsocialshare&utm_campaign=organic",
+  "estimated-creation-date": "2019-02-14T01:44:41",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214014441/https://www.axios.com/national-debt-22-trillion-trump-treasury-f2062d73-3d76-464a-95f6-d72301eef05b.html?utm_source=twitter&utm_medium=twsocialshare&utm_campaign=organic",
+      "memento-datetime": "2019-02-14T01:44:41",
+      "memento-pubdate": "",
+      "earliest": "2019-02-14T01:44:41"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

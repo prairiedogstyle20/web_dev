@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://hindi.news18.com/news/sports/cricket-indian-cricket-team-bowling-attack-is-best-in-away-conditions-find-out-stats-onm-1690404.html",
+  "uri": "https://hindi.news18.com/news/sports/cricket-indian-cricket-team-bowling-attack-is-best-in-away-conditions-find-out-stats-onm-1690404.html",
+  "estimated-creation-date": "2019-02-13T07:57:28",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T12:43:16"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:57:28"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

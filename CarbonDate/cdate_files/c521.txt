@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.chicksonright.com/blog/2019/02/13/melania-trump-looks-fab-as-she-and-potus-greet-columbian-president-ivan-duque-marquez/",
+  "uri": "https://www.chicksonright.com/blog/2019/02/13/melania-trump-looks-fab-as-she-and-potus-greet-columbian-president-ivan-duque-marquez/",
+  "estimated-creation-date": "2019-02-13T15:09:10",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T15:09:10"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214123738/https://www.chicksonright.com/blog/2019/02/13/melania-trump-looks-fab-as-she-and-potus-greet-columbian-president-ivan-duque-marquez/",
+      "memento-datetime": "2019-02-14T12:37:38",
+      "memento-pubdate": "2019-02-13T15:09:10",
+      "earliest": "2019-02-13T15:09:10"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:09:10"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

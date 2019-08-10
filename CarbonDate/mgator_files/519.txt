@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html",
+  "self": "http://localhost:1208/timemap/json/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T01:32:32Z",
+        "uri": "http://web.archive.org/web/20190213013232/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html"
+      },
+      {
+        "datetime": "2019-02-13T04:45:15Z",
+        "uri": "http://web.archive.org/web/20190213044515/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html"
+      },
+      {
+        "datetime": "2019-02-13T07:25:36Z",
+        "uri": "http://web.archive.org/web/20190213072536/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html"
+      },
+      {
+        "datetime": "2019-02-13T12:43:01Z",
+        "uri": "http://web.archive.org/web/20190213124301/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html"
+      },
+      {
+        "datetime": "2019-02-14T01:54:14Z",
+        "uri": "http://web.archive.org/web/20190214015414/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html"
+      },
+      {
+        "datetime": "2019-02-14T10:54:24Z",
+        "uri": "http://web.archive.org/web/20190214105424/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T01:32:32Z",
+      "uri": "http://web.archive.org/web/20190213013232/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T10:54:24Z",
+      "uri": "http://web.archive.org/web/20190214105424/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html",
+    "json_format": "http://localhost:1208/timemap/json/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://slate.com/news-and-politics/2019/02/trump-followers-believe-lies-wall.html"
+}

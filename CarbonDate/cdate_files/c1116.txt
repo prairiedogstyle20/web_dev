@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://themoscowproject.org/dispatch/burrs-blind-eye-to-collusion/",
+  "uri": "https://themoscowproject.org/dispatch/burrs-blind-eye-to-collusion/",
+  "estimated-creation-date": "2019-02-13T18:10:21",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T18:10:21"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/",
+  "self": "http://localhost:1208/timemap/json/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T23:57:37Z",
+        "uri": "http://archive.md/20190212235737/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/"
+      },
+      {
+        "datetime": "2019-02-13T00:13:58Z",
+        "uri": "http://web.archive.org/web/20190213001358/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/"
+      },
+      {
+        "datetime": "2019-02-13T01:28:18Z",
+        "uri": "http://web.archive.org/web/20190213012818/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/"
+      },
+      {
+        "datetime": "2019-02-13T12:01:20Z",
+        "uri": "http://web.archive.org/web/20190213120120/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/"
+      },
+      {
+        "datetime": "2019-02-13T13:13:41Z",
+        "uri": "http://web.archive.org/web/20190213131341/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T23:57:37Z",
+      "uri": "http://archive.md/20190212235737/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:13:41Z",
+      "uri": "http://web.archive.org/web/20190213131341/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/",
+    "json_format": "http://localhost:1208/timemap/json/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/"
+}

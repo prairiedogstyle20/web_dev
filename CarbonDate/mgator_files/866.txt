@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.buzzfeednews.com/article/juliareinstein/trump-69-nice-joke-meme-white-house-tweet?bftwnews&utm_term=4ldqpgc",
+  "self": "http://localhost:1208/timemap/json/https://www.buzzfeednews.com/article/juliareinstein/trump-69-nice-joke-meme-white-house-tweet?bftwnews&utm_term=4ldqpgc",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T19:23:33Z",
+        "uri": "http://web.archive.org/web/20190213192333/https://www.buzzfeednews.com/article/juliareinstein/trump-69-nice-joke-meme-white-house-tweet?bftwnews&utm_term=4ldqpgc"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T19:23:33Z",
+      "uri": "http://web.archive.org/web/20190213192333/https://www.buzzfeednews.com/article/juliareinstein/trump-69-nice-joke-meme-white-house-tweet?bftwnews&utm_term=4ldqpgc"
+    },
+    "last": {
+      "datetime": "2019-02-13T19:23:33Z",
+      "uri": "http://web.archive.org/web/20190213192333/https://www.buzzfeednews.com/article/juliareinstein/trump-69-nice-joke-meme-white-house-tweet?bftwnews&utm_term=4ldqpgc"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.buzzfeednews.com/article/juliareinstein/trump-69-nice-joke-meme-white-house-tweet?bftwnews&utm_term=4ldqpgc",
+    "json_format": "http://localhost:1208/timemap/json/https://www.buzzfeednews.com/article/juliareinstein/trump-69-nice-joke-meme-white-house-tweet?bftwnews&utm_term=4ldqpgc",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.buzzfeednews.com/article/juliareinstein/trump-69-nice-joke-meme-white-house-tweet?bftwnews&utm_term=4ldqpgc"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.buzzfeednews.com/article/juliareinstein/trump-69-nice-joke-meme-white-house-tweet?bftwnews&utm_term=4ldqpgc"
+}

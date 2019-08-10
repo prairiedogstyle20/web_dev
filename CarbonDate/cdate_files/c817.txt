@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cbs46.com/news/unhappy-with-deal-trump-still-doesn-t-expect-a-new/article_08c1c53d-48c9-5361-8613-611ffbd0413e.html",
+  "uri": "https://www.cbs46.com/news/unhappy-with-deal-trump-still-doesn-t-expect-a-new/article_08c1c53d-48c9-5361-8613-611ffbd0413e.html",
+  "estimated-creation-date": "2019-02-13T03:46:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-13T11:09:14"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T03:46:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213144036/https://www.cbs46.com/news/unhappy-with-deal-trump-still-doesn-t-expect-a-new/article_08c1c53d-48c9-5361-8613-611ffbd0413e.html",
+      "memento-datetime": "2019-02-13T11:09:14",
+      "memento-pubdate": "2019-02-13T03:46:00",
+      "earliest": "2019-02-13T03:46:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T12:08:39"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

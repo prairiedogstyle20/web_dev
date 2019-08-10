@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.accountingtoday.com/articles/trump-says-hes-open-to-changing-salt-deduction-cap-for-state-and-local-taxes-in-tax-law",
+  "uri": "https://www.accountingtoday.com/articles/trump-says-hes-open-to-changing-salt-deduction-cap-for-state-and-local-taxes-in-tax-law",
+  "estimated-creation-date": "2019-02-07T13:19:39",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-07T13:19:39"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T18:22:04"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

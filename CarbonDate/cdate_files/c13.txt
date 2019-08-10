@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://shareblue.com/trump-presidential-harassment-poll-voters-want-congress-investigate-crimes/",
+  "uri": "https://shareblue.com/trump-presidential-harassment-poll-voters-want-congress-investigate-crimes/",
+  "estimated-creation-date": "2019-02-13T14:59:02",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:59:02"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214123631/https://shareblue.com/trump-presidential-harassment-poll-voters-want-congress-investigate-crimes/",
+      "memento-datetime": "2019-02-14T12:36:31",
+      "memento-pubdate": "2019-02-13T14:59:02",
+      "earliest": "2019-02-13T14:59:02"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:01:14"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

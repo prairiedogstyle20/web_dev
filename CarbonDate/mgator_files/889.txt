@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html",
+  "self": "http://localhost:1208/timemap/json/https://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T04:35:27Z",
+        "uri": "http://web.archive.org/web/20190213043527/https://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T05:01:48Z",
+        "uri": "http://web.archive.org/web/20190213050148/http://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T07:42:03Z",
+        "uri": "http://web.archive.org/web/20190213074203/https://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T08:08:26Z",
+        "uri": "http://web.archive.org/web/20190213080826/https://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T12:57:37Z",
+        "uri": "http://web.archive.org/web/20190213125737/http://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T14:36:18Z",
+        "uri": "http://web.archive.org/web/20190213143618/https://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T04:35:27Z",
+      "uri": "http://web.archive.org/web/20190213043527/https://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T14:36:18Z",
+      "uri": "http://web.archive.org/web/20190213143618/https://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.latimes.com/politics/la-na-pol-trump-wall-shift-20190212-story.html"
+}

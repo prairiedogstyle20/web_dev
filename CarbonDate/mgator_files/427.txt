@@ -1,0 +1,87 @@
+16
+{
+  "original_uri": "https://titanscrubs.com/",
+  "self": "http://localhost:1208/timemap/json/https://titanscrubs.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-02-17T04:12:38Z",
+        "uri": "http://web.archive.org/web/20130217041238/http://www.titanscrubs.com:80/"
+      },
+      {
+        "datetime": "2013-05-10T14:40:12Z",
+        "uri": "http://web.archive.org/web/20130510144012/http://titanscrubs.com"
+      },
+      {
+        "datetime": "2013-05-10T14:40:13Z",
+        "uri": "http://web.archive.org/web/20130510144013/http://www.titanscrubs.com/"
+      },
+      {
+        "datetime": "2014-12-18T09:16:16Z",
+        "uri": "http://web.archive.org/web/20141218091616/http://titanscrubs.com/"
+      },
+      {
+        "datetime": "2014-12-23T13:33:28Z",
+        "uri": "http://web.archive.org/web/20141223133328/http://www.titanscrubs.com/"
+      },
+      {
+        "datetime": "2015-04-02T04:09:30Z",
+        "uri": "http://web.archive.org/web/20150402040930/http://www.titanscrubs.com:80/"
+      },
+      {
+        "datetime": "2016-01-11T23:19:54Z",
+        "uri": "http://web.archive.org/web/20160111231954/http://titanscrubs.com/"
+      },
+      {
+        "datetime": "2016-03-14T02:08:03Z",
+        "uri": "http://web.archive.org/web/20160314020803/http://titanscrubs.com/"
+      },
+      {
+        "datetime": "2016-10-07T15:57:27Z",
+        "uri": "http://web.archive.org/web/20161007155727/http://titanscrubs.com/"
+      },
+      {
+        "datetime": "2017-08-23T21:07:13Z",
+        "uri": "http://web.archive.org/web/20170823210713/http://www.titanscrubs.com:80/"
+      },
+      {
+        "datetime": "2018-01-07T02:54:16Z",
+        "uri": "http://web.archive.org/web/20180107025416/http://titanscrubs.com/"
+      },
+      {
+        "datetime": "2018-01-07T17:39:14Z",
+        "uri": "http://web.archive.org/web/20180107173914/https://titanscrubs.com/"
+      },
+      {
+        "datetime": "2018-08-06T09:40:22Z",
+        "uri": "http://web.archive.org/web/20180806094022/http://titanscrubs.com/"
+      },
+      {
+        "datetime": "2018-08-22T05:11:10Z",
+        "uri": "http://web.archive.org/web/20180822051110/https://titanscrubs.com/"
+      },
+      {
+        "datetime": "2018-12-29T17:05:55Z",
+        "uri": "http://web.archive.org/web/20181229170555/http://titanscrubs.com/"
+      },
+      {
+        "datetime": "2019-01-22T07:42:36Z",
+        "uri": "http://web.archive.org/web/20190122074236/https://titanscrubs.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2013-02-17T04:12:38Z",
+      "uri": "http://web.archive.org/web/20130217041238/http://www.titanscrubs.com:80/"
+    },
+    "last": {
+      "datetime": "2019-01-22T07:42:36Z",
+      "uri": "http://web.archive.org/web/20190122074236/https://titanscrubs.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://titanscrubs.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://titanscrubs.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://titanscrubs.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://titanscrubs.com/"
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.etsy.com/shop/InfinityCreationsCo",
+  "uri": "https://www.etsy.com/shop/InfinityCreationsCo",
+  "estimated-creation-date": "2017-09-03T12:11:08",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170903121108/https://www.etsy.com/shop/InfinityCreationsCo",
+      "memento-datetime": "2017-09-03T12:11:08",
+      "memento-pubdate": "",
+      "earliest": "2017-09-03T12:11:08"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-11T11:59:29"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://bylinetimes.com/2019/01/25/breaking-nigel-farage-and-boris-johnson-adviser-steve-bannon-implicated-in-mueller-investigation/",
+  "self": "http://localhost:1208/timemap/json/https://bylinetimes.com/2019/01/25/breaking-nigel-farage-and-boris-johnson-adviser-steve-bannon-implicated-in-mueller-investigation/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-01-27T19:59:34Z",
+        "uri": "http://web.archive.org/web/20190127195934/https://bylinetimes.com/2019/01/25/breaking-nigel-farage-and-boris-johnson-adviser-steve-bannon-implicated-in-mueller-investigation/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-01-27T19:59:34Z",
+      "uri": "http://web.archive.org/web/20190127195934/https://bylinetimes.com/2019/01/25/breaking-nigel-farage-and-boris-johnson-adviser-steve-bannon-implicated-in-mueller-investigation/"
+    },
+    "last": {
+      "datetime": "2019-01-27T19:59:34Z",
+      "uri": "http://web.archive.org/web/20190127195934/https://bylinetimes.com/2019/01/25/breaking-nigel-farage-and-boris-johnson-adviser-steve-bannon-implicated-in-mueller-investigation/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://bylinetimes.com/2019/01/25/breaking-nigel-farage-and-boris-johnson-adviser-steve-bannon-implicated-in-mueller-investigation/",
+    "json_format": "http://localhost:1208/timemap/json/https://bylinetimes.com/2019/01/25/breaking-nigel-farage-and-boris-johnson-adviser-steve-bannon-implicated-in-mueller-investigation/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://bylinetimes.com/2019/01/25/breaking-nigel-farage-and-boris-johnson-adviser-steve-bannon-implicated-in-mueller-investigation/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://bylinetimes.com/2019/01/25/breaking-nigel-farage-and-boris-johnson-adviser-steve-bannon-implicated-in-mueller-investigation/"
+}

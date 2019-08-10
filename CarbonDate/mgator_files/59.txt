@@ -1,0 +1,83 @@
+15
+{
+  "original_uri": "https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote",
+  "self": "http://localhost:1208/timemap/json/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T18:58:16Z",
+        "uri": "http://web.archive.org/web/20190212185816/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-12T20:53:16Z",
+        "uri": "http://web.archive.org/web/20190212205316/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-12T21:32:18Z",
+        "uri": "http://web.archive.org/web/20190212213218/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-12T22:10:51Z",
+        "uri": "http://web.archive.org/web/20190212221051/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-12T22:49:26Z",
+        "uri": "http://web.archive.org/web/20190212224926/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-12T23:27:34Z",
+        "uri": "http://web.archive.org/web/20190212232734/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-13T00:06:07Z",
+        "uri": "http://web.archive.org/web/20190213000607/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-13T00:52:40Z",
+        "uri": "http://web.archive.org/web/20190213005240/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-13T01:31:10Z",
+        "uri": "http://web.archive.org/web/20190213013110/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-13T02:09:20Z",
+        "uri": "http://web.archive.org/web/20190213020920/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-13T02:47:51Z",
+        "uri": "http://web.archive.org/web/20190213024751/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-13T03:26:15Z",
+        "uri": "http://web.archive.org/web/20190213032615/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-13T04:05:35Z",
+        "uri": "http://web.archive.org/web/20190213040535/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-13T04:44:53Z",
+        "uri": "http://web.archive.org/web/20190213044453/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      },
+      {
+        "datetime": "2019-02-13T05:23:47Z",
+        "uri": "http://web.archive.org/web/20190213052347/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T18:58:16Z",
+      "uri": "http://web.archive.org/web/20190212185816/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+    },
+    "last": {
+      "datetime": "2019-02-13T05:23:47Z",
+      "uri": "http://web.archive.org/web/20190213052347/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote",
+    "json_format": "http://localhost:1208/timemap/json/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://thehill.com/blogs/blog-briefing-room/news/429590-clinton-blasts-gop-for-promoting-trump-stronger-together-quote"
+}

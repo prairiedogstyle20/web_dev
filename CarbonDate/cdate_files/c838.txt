@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/https://www.theguardian.com/us-news/2018/jul/13/russians-hillary-clinton-email-server-trump-indictment",
+  "uri": "https://www.theguardian.com/us-news/2018/jul/13/russians-hillary-clinton-email-server-trump-indictment",
+  "estimated-creation-date": "2018-07-13T21:01:56",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org",
+    "wayback.archive-it.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-07-13T21:01:56"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180713230230/https://www.theguardian.com/us-news/2018/jul/13/russians-hillary-clinton-email-server-trump-indictment",
+      "memento-datetime": "2018-07-13T23:02:30",
+      "memento-pubdate": "2018-07-13T21:01:56",
+      "earliest": "2018-07-13T21:01:56"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180717225247/https://www.theguardian.com/us-news/2018/jul/13/russians-hillary-clinton-email-server-trump-indictment",
+      "memento-datetime": "2018-07-17T22:52:47",
+      "memento-pubdate": "2018-07-13T21:01:56",
+      "earliest": "2018-07-13T21:01:56"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20180722163332/https://www.theguardian.com/us-news/2018/jul/13/russians-hillary-clinton-email-server-trump-indictment",
+      "memento-datetime": "2018-07-22T16:33:32",
+      "memento-pubdate": "2018-07-22T16:33:32",
+      "earliest": "2018-07-22T16:33:32"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T21:59:21"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

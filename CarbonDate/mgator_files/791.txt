@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://insider.foxnews.com/2019/02/13/sen-risch-theres-still-no-evidence-trump-russia-collusion",
+  "self": "http://localhost:1208/timemap/json/https://insider.foxnews.com/2019/02/13/sen-risch-theres-still-no-evidence-trump-russia-collusion",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T01:30:24Z",
+        "uri": "http://web.archive.org/web/20190214013024/https://insider.foxnews.com/2019/02/13/sen-risch-theres-still-no-evidence-trump-russia-collusion"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T01:30:24Z",
+      "uri": "http://web.archive.org/web/20190214013024/https://insider.foxnews.com/2019/02/13/sen-risch-theres-still-no-evidence-trump-russia-collusion"
+    },
+    "last": {
+      "datetime": "2019-02-14T01:30:24Z",
+      "uri": "http://web.archive.org/web/20190214013024/https://insider.foxnews.com/2019/02/13/sen-risch-theres-still-no-evidence-trump-russia-collusion"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://insider.foxnews.com/2019/02/13/sen-risch-theres-still-no-evidence-trump-russia-collusion",
+    "json_format": "http://localhost:1208/timemap/json/https://insider.foxnews.com/2019/02/13/sen-risch-theres-still-no-evidence-trump-russia-collusion",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://insider.foxnews.com/2019/02/13/sen-risch-theres-still-no-evidence-trump-russia-collusion"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://insider.foxnews.com/2019/02/13/sen-risch-theres-still-no-evidence-trump-russia-collusion"
+}

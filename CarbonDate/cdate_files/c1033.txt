@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://slate.com/news-and-politics/2019/02/trump-border-wall-funding-el-chapo-porn-tax-wallcoin.html?via=rss_socialflow_twitter",
+  "uri": "https://slate.com/news-and-politics/2019/02/trump-border-wall-funding-el-chapo-porn-tax-wallcoin.html?via=rss_socialflow_twitter",
+  "estimated-creation-date": "2019-02-13T15:24:12",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T15:24:12"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T15:28:38"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://s3.amazonaws.com/ar01b22e121dttgll.wolrdssl.net/dolartoday/facebook-289644.html?ref&time=16",
+  "uri": "https://s3.amazonaws.com/ar01b22e121dttgll.wolrdssl.net/dolartoday/facebook-289644.html?ref&time=16",
+  "estimated-creation-date": "2019-01-31T14:05:16",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-01-31T14:05:16"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

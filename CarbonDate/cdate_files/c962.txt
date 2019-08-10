@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/",
+  "uri": "https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/",
+  "estimated-creation-date": "2019-02-13T14:50:51",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:50:51"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214021542/https://twitchy.com/sarahd-313035/2019/02/13/nancy-pelosi-spins-for-ilhan-omar-by-pushing-bald-faced-lie-about-trump-campaign/",
+      "memento-datetime": "2019-02-14T02:15:42",
+      "memento-pubdate": "2019-02-13T14:50:51",
+      "earliest": "2019-02-13T14:50:51"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:56:25"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://mavenroundtable.io/theintellectualist/news/report-trump-allegedly-paid-hush-money-for-eight-abortions-_FsKyrV84EeUnFwmCd8cSg/",
+  "uri": "https://mavenroundtable.io/theintellectualist/news/report-trump-allegedly-paid-hush-money-for-eight-abortions-_FsKyrV84EeUnFwmCd8cSg/",
+  "estimated-creation-date": "2019-02-06T03:09:37",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T03:09:37"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

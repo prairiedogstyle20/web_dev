@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.marketwatch.com/story/trump-today-president-critical-of-border-deal-but-doesnt-say-hell-reject-it-2019-02-12",
+  "self": "http://localhost:1208/timemap/json/https://www.marketwatch.com/story/trump-today-president-critical-of-border-deal-but-doesnt-say-hell-reject-it-2019-02-12",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T22:17:47Z",
+        "uri": "http://web.archive.org/web/20190212221747/https://www.marketwatch.com/story/trump-today-president-critical-of-border-deal-but-doesnt-say-hell-reject-it-2019-02-12"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T22:17:47Z",
+      "uri": "http://web.archive.org/web/20190212221747/https://www.marketwatch.com/story/trump-today-president-critical-of-border-deal-but-doesnt-say-hell-reject-it-2019-02-12"
+    },
+    "last": {
+      "datetime": "2019-02-12T22:17:47Z",
+      "uri": "http://web.archive.org/web/20190212221747/https://www.marketwatch.com/story/trump-today-president-critical-of-border-deal-but-doesnt-say-hell-reject-it-2019-02-12"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.marketwatch.com/story/trump-today-president-critical-of-border-deal-but-doesnt-say-hell-reject-it-2019-02-12",
+    "json_format": "http://localhost:1208/timemap/json/https://www.marketwatch.com/story/trump-today-president-critical-of-border-deal-but-doesnt-say-hell-reject-it-2019-02-12",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.marketwatch.com/story/trump-today-president-critical-of-border-deal-but-doesnt-say-hell-reject-it-2019-02-12"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.marketwatch.com/story/trump-today-president-critical-of-border-deal-but-doesnt-say-hell-reject-it-2019-02-12"
+}

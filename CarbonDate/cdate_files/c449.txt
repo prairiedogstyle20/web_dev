@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://vivanoticias.net/trump-instala-un-simulador-de-golf-en-su-habitacion-de-la-casa-blanca/",
+  "uri": "https://vivanoticias.net/trump-instala-un-simulador-de-golf-en-su-habitacion-de-la-casa-blanca/",
+  "estimated-creation-date": "2019-02-13T15:10:33",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T15:10:33"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:05"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

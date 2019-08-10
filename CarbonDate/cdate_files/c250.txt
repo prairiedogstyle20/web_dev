@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cnn.com/videos/politics/2019/02/13/santorum-trump-not-winner-shutdown-deal-ac360-vpx.cnn",
+  "uri": "https://www.cnn.com/videos/politics/2019/02/13/santorum-trump-not-winner-shutdown-deal-ac360-vpx.cnn",
+  "estimated-creation-date": "2019-02-13T07:38:18",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T07:38:18"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213075822/https://www.cnn.com/videos/politics/2019/02/13/santorum-trump-not-winner-shutdown-deal-ac360-vpx.cnn",
+      "memento-datetime": "2019-02-13T07:58:22",
+      "memento-pubdate": "2019-02-13T07:38:18",
+      "earliest": "2019-02-13T07:38:18"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:53:24"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

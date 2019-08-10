@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T07:18:54Z",
+        "uri": "http://web.archive.org/web/20190213071854/https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html"
+      },
+      {
+        "datetime": "2019-02-13T12:43:00Z",
+        "uri": "http://web.archive.org/web/20190213124300/https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html"
+      },
+      {
+        "datetime": "2019-02-13T18:29:54Z",
+        "uri": "http://web.archive.org/web/20190213182954/https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html"
+      },
+      {
+        "datetime": "2019-02-13T23:38:56Z",
+        "uri": "http://web.archive.org/web/20190213233856/https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html"
+      },
+      {
+        "datetime": "2019-02-14T11:39:03Z",
+        "uri": "http://web.archive.org/web/20190214113903/https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T07:18:54Z",
+      "uri": "http://web.archive.org/web/20190213071854/https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:39:03Z",
+      "uri": "http://web.archive.org/web/20190214113903/https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2019/02/12/sports/golf-new-rules.html"
+}

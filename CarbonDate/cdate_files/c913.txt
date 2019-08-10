@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/2019/02/13/world/asia/maria-ressa-arrested.html",
+  "uri": "https://www.nytimes.com/2019/02/13/world/asia/maria-ressa-arrested.html",
+  "estimated-creation-date": "2019-02-13T12:25:05",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:53:18"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T12:25:05"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213200446/https://www.nytimes.com/2019/02/13/world/asia/maria-ressa-arrested.html",
+      "memento-datetime": "2019-02-13T20:01:49",
+      "memento-pubdate": "2019-02-13T12:25:05",
+      "earliest": "2019-02-13T12:25:05"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T22:43:43"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

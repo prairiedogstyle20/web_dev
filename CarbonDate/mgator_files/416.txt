@@ -1,0 +1,59 @@
+9
+{
+  "original_uri": "https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html",
+  "self": "http://localhost:1208/timemap/json/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:07:07Z",
+        "uri": "http://web.archive.org/web/20190213030707/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+      },
+      {
+        "datetime": "2019-02-13T06:16:43Z",
+        "uri": "http://web.archive.org/web/20190213061643/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+      },
+      {
+        "datetime": "2019-02-13T11:02:16Z",
+        "uri": "http://web.archive.org/web/20190213110216/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+      },
+      {
+        "datetime": "2019-02-13T15:47:54Z",
+        "uri": "http://web.archive.org/web/20190213154754/http://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+      },
+      {
+        "datetime": "2019-02-13T16:59:49Z",
+        "uri": "http://web.archive.org/web/20190213165949/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+      },
+      {
+        "datetime": "2019-02-13T17:12:01Z",
+        "uri": "http://web.archive.org/web/20190213171201/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+      },
+      {
+        "datetime": "2019-02-13T17:36:42Z",
+        "uri": "http://web.archive.org/web/20190213173642/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+      },
+      {
+        "datetime": "2019-02-13T17:52:48Z",
+        "uri": "http://web.archive.org/web/20190213175248/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+      },
+      {
+        "datetime": "2019-02-14T01:28:23Z",
+        "uri": "http://web.archive.org/web/20190214012823/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:07:07Z",
+      "uri": "http://web.archive.org/web/20190213030707/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T01:28:23Z",
+      "uri": "http://web.archive.org/web/20190214012823/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.washingtonpost.com/politics/how-manaforts-2016-meeting-with-a-russian-employee-at-new-york-cigar-club-goes-to-the-heart-of-muellers-probe/2019/02/12/655f84dc-2d67-11e9-8ad3-9a5b113ecd3c_story.html"
+}

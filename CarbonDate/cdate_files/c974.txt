@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/",
+  "uri": "https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/",
+  "estimated-creation-date": "2019-02-12T14:59:50",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T14:59:50"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213065641/https://truepundit.com/former-never-trump-conservative-columnist-endorses-trump-in-2020/",
+      "memento-datetime": "2019-02-13T06:56:41",
+      "memento-pubdate": "2019-02-12T14:59:50",
+      "earliest": "2019-02-12T14:59:50"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T15:07:05"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://rudepundit.blogspot.com/2019/02/media-already-fucking-up-2020-campaign.html",
+  "uri": "https://rudepundit.blogspot.com/2019/02/media-already-fucking-up-2020-campaign.html",
+  "estimated-creation-date": "2019-02-13T02:05:37",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T01:42:22"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214123613/http://rudepundit.blogspot.com/2019/02/media-already-fucking-up-2020-campaign.html",
+      "memento-datetime": "2019-02-13T02:05:37",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T02:05:37"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T02:05:57"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

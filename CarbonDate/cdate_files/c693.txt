@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.eluniversal.com/politica/32974/duque-viaja-a-eeuu-a-reunirse-con-trump-con-venezuela-como-punto-central-de-su-agenda",
+  "uri": "http://www.eluniversal.com/politica/32974/duque-viaja-a-eeuu-a-reunirse-con-trump-con-venezuela-como-punto-central-de-su-agenda",
+  "estimated-creation-date": "2019-02-13T06:06:38",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-12-02T22:30:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213075736/http://www.eluniversal.com/politica/32974/duque-viaja-a-eeuu-a-reunirse-con-trump-con-venezuela-como-punto-central-de-su-agenda",
+      "memento-datetime": "2019-02-13T07:57:36",
+      "memento-pubdate": "2019-12-02T22:30:00",
+      "earliest": "2019-02-13T07:57:36"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T06:06:38"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

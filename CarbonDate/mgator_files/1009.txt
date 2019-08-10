@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://www.etsy.com/shop/InfinityCreationsCo",
+  "self": "http://localhost:1208/timemap/json/https://www.etsy.com/shop/InfinityCreationsCo",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-09-03T12:11:08Z",
+        "uri": "http://web.archive.org/web/20170903121108/https://www.etsy.com/shop/InfinityCreationsCo"
+      },
+      {
+        "datetime": "2018-04-03T03:34:37Z",
+        "uri": "http://web.archive.org/web/20180403033437/https://www.etsy.com/shop/InfinityCreationsCo"
+      },
+      {
+        "datetime": "2019-01-08T23:12:03Z",
+        "uri": "http://web.archive.org/web/20190108231203/https://www.etsy.com/shop/InfinityCreationsCo"
+      }
+    ],
+    "first": {
+      "datetime": "2017-09-03T12:11:08Z",
+      "uri": "http://web.archive.org/web/20170903121108/https://www.etsy.com/shop/InfinityCreationsCo"
+    },
+    "last": {
+      "datetime": "2019-01-08T23:12:03Z",
+      "uri": "http://web.archive.org/web/20190108231203/https://www.etsy.com/shop/InfinityCreationsCo"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.etsy.com/shop/InfinityCreationsCo",
+    "json_format": "http://localhost:1208/timemap/json/https://www.etsy.com/shop/InfinityCreationsCo",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.etsy.com/shop/InfinityCreationsCo"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.etsy.com/shop/InfinityCreationsCo"
+}

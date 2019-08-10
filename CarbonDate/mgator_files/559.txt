@@ -1,0 +1,35 @@
+3
+{
+  "original_uri": "https://townhall.com/tipsheet/laurettabrown/2019/02/12/hillary-clinton-defends-late-term-abortion-shares-article-claiming-trump-got-it-wrong-without-contesting-any-of-his-comments-n2541340",
+  "self": "http://localhost:1208/timemap/json/https://townhall.com/tipsheet/laurettabrown/2019/02/12/hillary-clinton-defends-late-term-abortion-shares-article-claiming-trump-got-it-wrong-without-contesting-any-of-his-comments-n2541340",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T00:09:19Z",
+        "uri": "http://web.archive.org/web/20190213000919/https://townhall.com/tipsheet/laurettabrown/2019/02/12/hillary-clinton-defends-late-term-abortion-shares-article-claiming-trump-got-it-wrong-without-contesting-any-of-his-comments-n2541340"
+      },
+      {
+        "datetime": "2019-02-13T06:03:53Z",
+        "uri": "http://web.archive.org/web/20190213060353/https://townhall.com/tipsheet/laurettabrown/2019/02/12/hillary-clinton-defends-late-term-abortion-shares-article-claiming-trump-got-it-wrong-without-contesting-any-of-his-comments-n2541340"
+      },
+      {
+        "datetime": "2019-02-13T13:19:04Z",
+        "uri": "http://web.archive.org/web/20190213131904/https://townhall.com/tipsheet/laurettabrown/2019/02/12/hillary-clinton-defends-late-term-abortion-shares-article-claiming-trump-got-it-wrong-without-contesting-any-of-his-comments-n2541340"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T00:09:19Z",
+      "uri": "http://web.archive.org/web/20190213000919/https://townhall.com/tipsheet/laurettabrown/2019/02/12/hillary-clinton-defends-late-term-abortion-shares-article-claiming-trump-got-it-wrong-without-contesting-any-of-his-comments-n2541340"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:19:04Z",
+      "uri": "http://web.archive.org/web/20190213131904/https://townhall.com/tipsheet/laurettabrown/2019/02/12/hillary-clinton-defends-late-term-abortion-shares-article-claiming-trump-got-it-wrong-without-contesting-any-of-his-comments-n2541340"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://townhall.com/tipsheet/laurettabrown/2019/02/12/hillary-clinton-defends-late-term-abortion-shares-article-claiming-trump-got-it-wrong-without-contesting-any-of-his-comments-n2541340",
+    "json_format": "http://localhost:1208/timemap/json/https://townhall.com/tipsheet/laurettabrown/2019/02/12/hillary-clinton-defends-late-term-abortion-shares-article-claiming-trump-got-it-wrong-without-contesting-any-of-his-comments-n2541340",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://townhall.com/tipsheet/laurettabrown/2019/02/12/hillary-clinton-defends-late-term-abortion-shares-article-claiming-trump-got-it-wrong-without-contesting-any-of-his-comments-n2541340"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://townhall.com/tipsheet/laurettabrown/2019/02/12/hillary-clinton-defends-late-term-abortion-shares-article-claiming-trump-got-it-wrong-without-contesting-any-of-his-comments-n2541340"
+}

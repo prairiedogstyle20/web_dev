@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/http://www.baksoayam.com/",
+  "uri": "http://www.baksoayam.com/",
+  "estimated-creation-date": "2015-04-09T15:44:27",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20130913123845/http://www.baksoayam.com",
+      "memento-datetime": "2015-04-09T15:44:27",
+      "memento-pubdate": "",
+      "earliest": "2015-04-09T15:44:27"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-11T08:15:53"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

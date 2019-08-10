@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://ledarsidorna.se/2019/02/extra-nya-avhopp-fran-macrons-narmsta-krets/",
+  "self": "http://localhost:1208/timemap/json/https://ledarsidorna.se/2019/02/extra-nya-avhopp-fran-macrons-narmsta-krets/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T18:25:24Z",
+        "uri": "http://archive.md/20190212182524/https://ledarsidorna.se/2019/02/extra-nya-avhopp-fran-macrons-narmsta-krets/"
+      },
+      {
+        "datetime": "2019-02-13T12:50:53Z",
+        "uri": "http://web.archive.org/web/20190213125053/https://ledarsidorna.se/2019/02/extra-nya-avhopp-fran-macrons-narmsta-krets/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T18:25:24Z",
+      "uri": "http://archive.md/20190212182524/https://ledarsidorna.se/2019/02/extra-nya-avhopp-fran-macrons-narmsta-krets/"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:50:53Z",
+      "uri": "http://web.archive.org/web/20190213125053/https://ledarsidorna.se/2019/02/extra-nya-avhopp-fran-macrons-narmsta-krets/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ledarsidorna.se/2019/02/extra-nya-avhopp-fran-macrons-narmsta-krets/",
+    "json_format": "http://localhost:1208/timemap/json/https://ledarsidorna.se/2019/02/extra-nya-avhopp-fran-macrons-narmsta-krets/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ledarsidorna.se/2019/02/extra-nya-avhopp-fran-macrons-narmsta-krets/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ledarsidorna.se/2019/02/extra-nya-avhopp-fran-macrons-narmsta-krets/"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.washingtonpost.com/opinions/trumps-war-on-socialism-will-fail/2019/02/10/b6fe3a6a-2be4-11e9-b2fc-721718903bfc_story.html?utm_term=.7766612ace90",
+  "uri": "https://www.washingtonpost.com/opinions/trumps-war-on-socialism-will-fail/2019/02/10/b6fe3a6a-2be4-11e9-b2fc-721718903bfc_story.html?utm_term=.7766612ace90",
+  "estimated-creation-date": "2019-02-10T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-10T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T23:13:37"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

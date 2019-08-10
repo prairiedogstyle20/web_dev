@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://sports.kz/news/tam-ochen-holodno-vyistupavshiy-v-kazahstane-brazilets-podelilsya-oschuscheniyami",
+  "uri": "https://sports.kz/news/tam-ochen-holodno-vyistupavshiy-v-kazahstane-brazilets-podelilsya-oschuscheniyami",
+  "estimated-creation-date": "2019-02-14T14:43:01",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214144301/http://www.sports.kz/news/tam-ochen-holodno-vyistupavshiy-v-kazahstane-brazilets-podelilsya-oschuscheniyami",
+      "memento-datetime": "2019-02-14T14:43:01",
+      "memento-pubdate": "",
+      "earliest": "2019-02-14T14:43:01"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

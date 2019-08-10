@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.anayemeni.net/show4040077.html?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "http://www.anayemeni.net/show4040077.html?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "2019-02-13T10:53:34",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T10:53:34"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

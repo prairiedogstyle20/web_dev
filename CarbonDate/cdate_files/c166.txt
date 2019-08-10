@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.faz.net/aktuell/politik/trumps-praesidentschaft/usa-el-chapos-drogengeld-soll-grenzmauer-zu-mexiko-finanzieren-16038487.html",
+  "uri": "https://www.faz.net/aktuell/politik/trumps-praesidentschaft/usa-el-chapos-drogengeld-soll-grenzmauer-zu-mexiko-finanzieren-16038487.html",
+  "estimated-creation-date": "2019-02-14T10:27:16",
+  "earliest-sources": [
+    "archive.md"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:34:10"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190214102716/https://www.faz.net/aktuell/politik/trumps-praesidentschaft/usa-el-chapos-drogengeld-soll-grenzmauer-zu-mexiko-finanzieren-16038487.html",
+      "memento-datetime": "2019-02-14T10:27:16",
+      "memento-pubdate": "2019-02-14T10:27:16",
+      "earliest": "2019-02-14T10:27:16"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214104544/https://www.faz.net/aktuell/politik/trumps-praesidentschaft/usa-el-chapos-drogengeld-soll-grenzmauer-zu-mexiko-finanzieren-16038487.html",
+      "memento-datetime": "2019-02-14T10:44:51",
+      "memento-pubdate": "",
+      "earliest": "2019-02-14T10:44:51"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-14T16:47:54"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

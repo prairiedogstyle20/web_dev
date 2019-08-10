@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.hochi.co.jp/sports/etc/20190213-OHT1T50060.html",
+  "self": "http://localhost:1208/timemap/json/https://www.hochi.co.jp/sports/etc/20190213-OHT1T50060.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T08:15:50Z",
+        "uri": "http://web.archive.org/web/20190213081550/https://www.hochi.co.jp/sports/etc/20190213-OHT1T50060.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T08:15:50Z",
+      "uri": "http://web.archive.org/web/20190213081550/https://www.hochi.co.jp/sports/etc/20190213-OHT1T50060.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T08:15:50Z",
+      "uri": "http://web.archive.org/web/20190213081550/https://www.hochi.co.jp/sports/etc/20190213-OHT1T50060.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.hochi.co.jp/sports/etc/20190213-OHT1T50060.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.hochi.co.jp/sports/etc/20190213-OHT1T50060.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.hochi.co.jp/sports/etc/20190213-OHT1T50060.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.hochi.co.jp/sports/etc/20190213-OHT1T50060.html"
+}

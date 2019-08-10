@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.libertynation.com/senate-democrats-admit-no-evidence-of-trump-russia-collusion/",
+  "self": "http://localhost:1208/timemap/json/https://www.libertynation.com/senate-democrats-admit-no-evidence-of-trump-russia-collusion/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T13:20:45Z",
+        "uri": "http://web.archive.org/web/20190213132045/https://www.libertynation.com/senate-democrats-admit-no-evidence-of-trump-russia-collusion/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T13:20:45Z",
+      "uri": "http://web.archive.org/web/20190213132045/https://www.libertynation.com/senate-democrats-admit-no-evidence-of-trump-russia-collusion/"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:20:45Z",
+      "uri": "http://web.archive.org/web/20190213132045/https://www.libertynation.com/senate-democrats-admit-no-evidence-of-trump-russia-collusion/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.libertynation.com/senate-democrats-admit-no-evidence-of-trump-russia-collusion/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.libertynation.com/senate-democrats-admit-no-evidence-of-trump-russia-collusion/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.libertynation.com/senate-democrats-admit-no-evidence-of-trump-russia-collusion/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.libertynation.com/senate-democrats-admit-no-evidence-of-trump-russia-collusion/"
+}

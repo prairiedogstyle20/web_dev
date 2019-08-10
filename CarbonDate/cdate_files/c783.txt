@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.dailymail.co.uk/news/article-5971817/White-House-says-Trump-disagrees-Putin-proposal-interrogate-Americans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+  "uri": "https://www.dailymail.co.uk/news/article-5971817/White-House-says-Trump-disagrees-Putin-proposal-interrogate-Americans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+  "estimated-creation-date": "2018-07-19T19:14:31",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-07-19T19:14:31"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T17:01:29"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

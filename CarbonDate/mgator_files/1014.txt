@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html",
+  "self": "http://localhost:1208/timemap/json/https://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T02:31:27Z",
+        "uri": "http://archive.md/20190214023127/https://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T02:31:27Z",
+      "uri": "http://archive.md/20190214023127/https://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T02:31:27Z",
+      "uri": "http://archive.md/20190214023127/https://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.realclearpolitics.com/video/2019/02/12/nbc_dilanian_senate_probe_finds_no_evidence_of_russian_collusion_in_trump_campaign.html"
+}

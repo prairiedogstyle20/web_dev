@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html",
+  "self": "http://localhost:1208/timemap/json/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T08:28:33Z",
+        "uri": "http://web.archive.org/web/20190212082833/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html"
+      },
+      {
+        "datetime": "2019-02-12T09:19:05Z",
+        "uri": "http://web.archive.org/web/20190212091905/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html"
+      },
+      {
+        "datetime": "2019-02-12T17:44:38Z",
+        "uri": "http://web.archive.org/web/20190212174438/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html"
+      },
+      {
+        "datetime": "2019-02-13T00:27:12Z",
+        "uri": "http://web.archive.org/web/20190213002712/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html"
+      },
+      {
+        "datetime": "2019-02-14T00:52:03Z",
+        "uri": "http://web.archive.org/web/20190214005203/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T08:28:33Z",
+      "uri": "http://web.archive.org/web/20190212082833/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T00:52:03Z",
+      "uri": "http://web.archive.org/web/20190214005203/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html",
+    "json_format": "http://localhost:1208/timemap/json/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://news.yahoo.com/texas-showdown-orourke-trump-hold-dueling-rallies-over-015817542.html"
+}

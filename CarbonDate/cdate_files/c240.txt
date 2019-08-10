@@ -1,0 +1,58 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html",
+  "uri": "https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html",
+  "estimated-creation-date": "2018-01-11T22:03:10",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org",
+    "wayback.archive-it.org",
+    "perma-archives.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2018-01-11T22:03:10"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180111225109/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html",
+      "memento-datetime": "2018-01-11T22:51:09",
+      "memento-pubdate": "2018-01-11T22:03:10",
+      "earliest": "2018-01-11T22:03:10"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20180111232052/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html",
+      "memento-datetime": "2018-01-11T23:20:52",
+      "memento-pubdate": "2018-01-11T23:20:52",
+      "earliest": "2018-01-11T23:20:52"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180112065621/http://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html",
+      "memento-datetime": "2018-01-12T06:56:21",
+      "memento-pubdate": "2018-01-11T22:03:10",
+      "earliest": "2018-01-11T22:03:10"
+    },
+    "perma-archives.org": {
+      "uri-m": "https://perma-archives.org/warc/20180223043729/https://www.cnn.com/2018/01/11/politics/immigrants-shithole-countries-trump/index.html",
+      "memento-datetime": "2018-02-23T04:37:29",
+      "memento-pubdate": "2018-01-11T22:03:10",
+      "earliest": "2018-01-11T22:03:10"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-10T16:32:51"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

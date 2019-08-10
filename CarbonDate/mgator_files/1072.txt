@@ -1,0 +1,83 @@
+15
+{
+  "original_uri": "https://www.fujitv.co.jp/junksports/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.fujitv.co.jp/junksports/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-01-20T15:49:32Z",
+        "uri": "http://web.archive.org/web/20180120154932/http://www.fujitv.co.jp/junksports/index.html"
+      },
+      {
+        "datetime": "2018-01-21T18:46:18Z",
+        "uri": "http://web.archive.org/web/20180121184618/http://www.fujitv.co.jp/junksports/index.html"
+      },
+      {
+        "datetime": "2018-01-26T00:50:32Z",
+        "uri": "http://web.archive.org/web/20180126005032/http://www.fujitv.co.jp/junksports/index.html"
+      },
+      {
+        "datetime": "2018-02-02T21:16:36Z",
+        "uri": "http://web.archive.org/web/20180202211636/http://www.fujitv.co.jp/junksports/index.html"
+      },
+      {
+        "datetime": "2018-02-27T23:03:05Z",
+        "uri": "http://web.archive.org/web/20180227230305/http://www.fujitv.co.jp:80/junksports/index.html"
+      },
+      {
+        "datetime": "2018-03-04T02:20:05Z",
+        "uri": "http://web.archive.org/web/20180304022005/http://www.fujitv.co.jp/junksports/index.html"
+      },
+      {
+        "datetime": "2018-03-04T02:28:23Z",
+        "uri": "http://archive.md/20180304022823/http://www.fujitv.co.jp/junksports/index.html"
+      },
+      {
+        "datetime": "2018-03-18T10:21:08Z",
+        "uri": "http://archive.md/20180318102108/http://www.fujitv.co.jp/junksports/index.html"
+      },
+      {
+        "datetime": "2018-03-18T15:24:37Z",
+        "uri": "http://web.archive.org/web/20180318152437/https://www.fujitv.co.jp/junksports/index.html"
+      },
+      {
+        "datetime": "2018-03-30T17:15:09Z",
+        "uri": "http://web.archive.org/web/20180330171509/http://www.fujitv.co.jp:80/junksports/index.html"
+      },
+      {
+        "datetime": "2018-04-30T13:17:02Z",
+        "uri": "http://web.archive.org/web/20180430131702/http://www.fujitv.co.jp:80/junksports/index.html"
+      },
+      {
+        "datetime": "2018-05-31T19:47:00Z",
+        "uri": "http://web.archive.org/web/20180531194700/http://www.fujitv.co.jp:80/junksports/index.html"
+      },
+      {
+        "datetime": "2018-07-01T16:27:57Z",
+        "uri": "http://web.archive.org/web/20180701162757/http://www.fujitv.co.jp:80/junksports/index.html"
+      },
+      {
+        "datetime": "2018-09-03T01:34:44Z",
+        "uri": "http://web.archive.org/web/20180903013444/https://www.fujitv.co.jp/junksports/index.html"
+      },
+      {
+        "datetime": "2019-01-05T20:49:31Z",
+        "uri": "http://web.archive.org/web/20190105204931/https://www.fujitv.co.jp/junksports/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2018-01-20T15:49:32Z",
+      "uri": "http://web.archive.org/web/20180120154932/http://www.fujitv.co.jp/junksports/index.html"
+    },
+    "last": {
+      "datetime": "2019-01-05T20:49:31Z",
+      "uri": "http://web.archive.org/web/20190105204931/https://www.fujitv.co.jp/junksports/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.fujitv.co.jp/junksports/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.fujitv.co.jp/junksports/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.fujitv.co.jp/junksports/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.fujitv.co.jp/junksports/index.html"
+}

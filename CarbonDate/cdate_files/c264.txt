@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.si.com/golf/2019/02/13/president-trump-golf-simulator-white-house-installation",
+  "uri": "https://www.si.com/golf/2019/02/13/president-trump-golf-simulator-white-house-installation",
+  "estimated-creation-date": "2019-02-13T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214142626/https://www.si.com/golf/2019/02/13/president-trump-golf-simulator-white-house-installation",
+      "memento-datetime": "2019-02-14T14:26:26",
+      "memento-pubdate": "2019-02-13T23:59:59",
+      "earliest": "2019-02-13T23:59:59"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T17:37:39"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.brennancenter.org/blog/trump-repeats-false-crime-claims-el-paso",
+  "uri": "https://www.brennancenter.org/blog/trump-repeats-false-crime-claims-el-paso",
+  "estimated-creation-date": "2019-02-12T14:11:03",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T18:16:45"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T14:11:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

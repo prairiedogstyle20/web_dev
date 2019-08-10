@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://nos.nl/artikel/2271639-man-valt-journalisten-aan-bij-toespraak-trump.html",
+  "self": "http://localhost:1208/timemap/json/https://nos.nl/artikel/2271639-man-valt-journalisten-aan-bij-toespraak-trump.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T11:21:33Z",
+        "uri": "http://web.archive.org/web/20190212112133/https://nos.nl/artikel/2271639-man-valt-journalisten-aan-bij-toespraak-trump.html"
+      },
+      {
+        "datetime": "2019-02-12T18:53:12Z",
+        "uri": "http://web.archive.org/web/20190212185312/https://nos.nl/artikel/2271639-man-valt-journalisten-aan-bij-toespraak-trump.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T11:21:33Z",
+      "uri": "http://web.archive.org/web/20190212112133/https://nos.nl/artikel/2271639-man-valt-journalisten-aan-bij-toespraak-trump.html"
+    },
+    "last": {
+      "datetime": "2019-02-12T18:53:12Z",
+      "uri": "http://web.archive.org/web/20190212185312/https://nos.nl/artikel/2271639-man-valt-journalisten-aan-bij-toespraak-trump.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://nos.nl/artikel/2271639-man-valt-journalisten-aan-bij-toespraak-trump.html",
+    "json_format": "http://localhost:1208/timemap/json/https://nos.nl/artikel/2271639-man-valt-journalisten-aan-bij-toespraak-trump.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://nos.nl/artikel/2271639-man-valt-journalisten-aan-bij-toespraak-trump.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://nos.nl/artikel/2271639-man-valt-journalisten-aan-bij-toespraak-trump.html"
+}

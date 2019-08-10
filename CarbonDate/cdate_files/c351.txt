@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.rt.com/usa/451315-clinton-trump-stronger-together/",
+  "uri": "https://www.rt.com/usa/451315-clinton-trump-stronger-together/",
+  "estimated-creation-date": "2019-02-12T21:02:09",
+  "earliest-sources": [
+    "archive.md"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190212210209/https://www.rt.com/usa/451315-clinton-trump-stronger-together/",
+      "memento-datetime": "2019-02-12T21:02:09",
+      "memento-pubdate": "2019-02-12T21:02:09",
+      "earliest": "2019-02-12T21:02:09"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212210918/https://www.rt.com/usa/451315-clinton-trump-stronger-together/",
+      "memento-datetime": "2019-02-12T21:09:18",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T21:09:18"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T21:22:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

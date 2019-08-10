@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://vimeo.com/groups/hdxs",
+  "uri": "https://vimeo.com/groups/hdxs",
+  "estimated-creation-date": "2008-06-21T01:38:19",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20080621013819/http://vimeo.com:80/groups/HDXS",
+      "memento-datetime": "2008-06-21T01:38:19",
+      "memento-pubdate": "",
+      "earliest": "2008-06-21T01:38:19"
+    },
+    "arquivo.pt": {
+      "uri-m": "https://arquivo.pt/wayback/20100529164104/http://www.vimeo.com/groups/hdxs",
+      "memento-datetime": "2010-05-29T16:41:04",
+      "memento-pubdate": "",
+      "earliest": "2010-05-29T16:41:04"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20121016195042/http://vimeo.com/groups/hdxs",
+      "memento-datetime": "2012-10-16T19:50:42",
+      "memento-pubdate": "",
+      "earliest": "2012-10-16T19:50:42"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

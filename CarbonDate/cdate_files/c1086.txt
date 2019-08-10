@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.sourcepolitics.com/trump-bought-50-000-golf-toy-while-saying-no-president-ever-worked-harder-than-me/",
+  "uri": "https://www.sourcepolitics.com/trump-bought-50-000-golf-toy-while-saying-no-president-ever-worked-harder-than-me/",
+  "estimated-creation-date": "2019-02-13T20:18:20",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T20:18:20"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:28:35"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

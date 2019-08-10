@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://truepundit.com/photos-mexican-flags-fly-at-small-beto-counter-rally-as-trump-draws-thousands/",
+  "self": "http://localhost:1208/timemap/json/https://truepundit.com/photos-mexican-flags-fly-at-small-beto-counter-rally-as-trump-draws-thousands/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T07:43:07Z",
+        "uri": "http://web.archive.org/web/20190214074307/https://truepundit.com/photos-mexican-flags-fly-at-small-beto-counter-rally-as-trump-draws-thousands/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T07:43:07Z",
+      "uri": "http://web.archive.org/web/20190214074307/https://truepundit.com/photos-mexican-flags-fly-at-small-beto-counter-rally-as-trump-draws-thousands/"
+    },
+    "last": {
+      "datetime": "2019-02-14T07:43:07Z",
+      "uri": "http://web.archive.org/web/20190214074307/https://truepundit.com/photos-mexican-flags-fly-at-small-beto-counter-rally-as-trump-draws-thousands/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://truepundit.com/photos-mexican-flags-fly-at-small-beto-counter-rally-as-trump-draws-thousands/",
+    "json_format": "http://localhost:1208/timemap/json/https://truepundit.com/photos-mexican-flags-fly-at-small-beto-counter-rally-as-trump-draws-thousands/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://truepundit.com/photos-mexican-flags-fly-at-small-beto-counter-rally-as-trump-draws-thousands/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://truepundit.com/photos-mexican-flags-fly-at-small-beto-counter-rally-as-trump-draws-thousands/"
+}

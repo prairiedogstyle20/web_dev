@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.waynedupree.com/trump-says-walls-work-hes-got-one/",
+  "self": "http://localhost:1208/timemap/json/https://www.waynedupree.com/trump-says-walls-work-hes-got-one/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:35:12Z",
+        "uri": "http://web.archive.org/web/20190213123512/https://www.waynedupree.com/trump-says-walls-work-hes-got-one/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:35:12Z",
+      "uri": "http://web.archive.org/web/20190213123512/https://www.waynedupree.com/trump-says-walls-work-hes-got-one/"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:35:12Z",
+      "uri": "http://web.archive.org/web/20190213123512/https://www.waynedupree.com/trump-says-walls-work-hes-got-one/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.waynedupree.com/trump-says-walls-work-hes-got-one/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.waynedupree.com/trump-says-walls-work-hes-got-one/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.waynedupree.com/trump-says-walls-work-hes-got-one/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.waynedupree.com/trump-says-walls-work-hes-got-one/"
+}

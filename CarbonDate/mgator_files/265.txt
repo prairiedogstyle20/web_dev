@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/",
+  "self": "http://localhost:1208/timemap/json/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T10:05:23Z",
+        "uri": "http://web.archive.org/web/20190213100523/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/"
+      },
+      {
+        "datetime": "2019-02-13T10:46:06Z",
+        "uri": "http://web.archive.org/web/20190213104606/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/"
+      },
+      {
+        "datetime": "2019-02-13T22:12:07Z",
+        "uri": "http://web.archive.org/web/20190213221207/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/"
+      },
+      {
+        "datetime": "2019-02-14T00:08:29Z",
+        "uri": "http://web.archive.org/web/20190214000829/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T10:05:23Z",
+      "uri": "http://web.archive.org/web/20190213100523/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/"
+    },
+    "last": {
+      "datetime": "2019-02-14T00:08:29Z",
+      "uri": "http://web.archive.org/web/20190214000829/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.breitbart.com/politics/2019/02/12/1-4-million-households-drop-off-food-stamps-under-trump/"
+}

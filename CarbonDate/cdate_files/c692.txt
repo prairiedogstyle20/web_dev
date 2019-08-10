@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial",
+  "uri": "https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial",
+  "estimated-creation-date": "2018-01-08T20:09:57",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:22:57"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180108200957/http://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial",
+      "memento-datetime": "2018-01-08T20:09:57",
+      "memento-pubdate": "",
+      "earliest": "2018-01-08T20:09:57"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180626160213/https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx?utm_source=social&utm_medium=twitter&utm_campaign=organicsocial",
+      "memento-datetime": "2018-06-26T16:02:14",
+      "memento-pubdate": "",
+      "earliest": "2018-06-26T16:02:14"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.politicususa.com/2019/02/13/sarah-sanders-claims-that-trump-reads-legislation-and-pelosi-doesnt.html",
+  "self": "http://localhost:1208/timemap/json/https://www.politicususa.com/2019/02/13/sarah-sanders-claims-that-trump-reads-legislation-and-pelosi-doesnt.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T01:10:47Z",
+        "uri": "http://web.archive.org/web/20190214011047/https://www.politicususa.com/2019/02/13/sarah-sanders-claims-that-trump-reads-legislation-and-pelosi-doesnt.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T01:10:47Z",
+      "uri": "http://web.archive.org/web/20190214011047/https://www.politicususa.com/2019/02/13/sarah-sanders-claims-that-trump-reads-legislation-and-pelosi-doesnt.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T01:10:47Z",
+      "uri": "http://web.archive.org/web/20190214011047/https://www.politicususa.com/2019/02/13/sarah-sanders-claims-that-trump-reads-legislation-and-pelosi-doesnt.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.politicususa.com/2019/02/13/sarah-sanders-claims-that-trump-reads-legislation-and-pelosi-doesnt.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.politicususa.com/2019/02/13/sarah-sanders-claims-that-trump-reads-legislation-and-pelosi-doesnt.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.politicususa.com/2019/02/13/sarah-sanders-claims-that-trump-reads-legislation-and-pelosi-doesnt.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.politicususa.com/2019/02/13/sarah-sanders-claims-that-trump-reads-legislation-and-pelosi-doesnt.html"
+}

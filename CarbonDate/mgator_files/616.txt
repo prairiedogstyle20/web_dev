@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.thesudburystar.com/sports/local-sports/personal-best-five-things-to-know-about-the-laurentians-basketball-voyageurs",
+  "self": "http://localhost:1208/timemap/json/https://www.thesudburystar.com/sports/local-sports/personal-best-five-things-to-know-about-the-laurentians-basketball-voyageurs",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T14:42:25Z",
+        "uri": "http://web.archive.org/web/20190213144225/https://www.thesudburystar.com/sports/local-sports/personal-best-five-things-to-know-about-the-laurentians-basketball-voyageurs"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T14:42:25Z",
+      "uri": "http://web.archive.org/web/20190213144225/https://www.thesudburystar.com/sports/local-sports/personal-best-five-things-to-know-about-the-laurentians-basketball-voyageurs"
+    },
+    "last": {
+      "datetime": "2019-02-13T14:42:25Z",
+      "uri": "http://web.archive.org/web/20190213144225/https://www.thesudburystar.com/sports/local-sports/personal-best-five-things-to-know-about-the-laurentians-basketball-voyageurs"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.thesudburystar.com/sports/local-sports/personal-best-five-things-to-know-about-the-laurentians-basketball-voyageurs",
+    "json_format": "http://localhost:1208/timemap/json/https://www.thesudburystar.com/sports/local-sports/personal-best-five-things-to-know-about-the-laurentians-basketball-voyageurs",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.thesudburystar.com/sports/local-sports/personal-best-five-things-to-know-about-the-laurentians-basketball-voyageurs"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.thesudburystar.com/sports/local-sports/personal-best-five-things-to-know-about-the-laurentians-basketball-voyageurs"
+}

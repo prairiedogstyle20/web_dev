@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.upi.com/Top_News/World-News/2019/02/13/Donald-Trump-South-Korea-should-pay-US-more-for-defense/8081550041105/?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "https://www.upi.com/Top_News/World-News/2019/02/13/Donald-Trump-South-Korea-should-pay-US-more-for-defense/8081550041105/?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "2019-02-13T02:06:53",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T02:06:53"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:11:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

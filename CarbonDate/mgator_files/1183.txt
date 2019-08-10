@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.thegatewaypundit.com/2019/02/hah-gov-cuomo-whines-to-trump-about-ny-states-budget-deficit-trump-tells-him-to-start-fracking/",
+  "self": "http://localhost:1208/timemap/json/https://www.thegatewaypundit.com/2019/02/hah-gov-cuomo-whines-to-trump-about-ny-states-budget-deficit-trump-tells-him-to-start-fracking/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T09:43:23Z",
+        "uri": "http://web.archive.org/web/20190214094323/https://www.thegatewaypundit.com/2019/02/hah-gov-cuomo-whines-to-trump-about-ny-states-budget-deficit-trump-tells-him-to-start-fracking/"
+      },
+      {
+        "datetime": "2019-02-14T11:49:52Z",
+        "uri": "http://web.archive.org/web/20190214114952/https://www.thegatewaypundit.com/2019/02/hah-gov-cuomo-whines-to-trump-about-ny-states-budget-deficit-trump-tells-him-to-start-fracking/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T09:43:23Z",
+      "uri": "http://web.archive.org/web/20190214094323/https://www.thegatewaypundit.com/2019/02/hah-gov-cuomo-whines-to-trump-about-ny-states-budget-deficit-trump-tells-him-to-start-fracking/"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:49:52Z",
+      "uri": "http://web.archive.org/web/20190214114952/https://www.thegatewaypundit.com/2019/02/hah-gov-cuomo-whines-to-trump-about-ny-states-budget-deficit-trump-tells-him-to-start-fracking/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.thegatewaypundit.com/2019/02/hah-gov-cuomo-whines-to-trump-about-ny-states-budget-deficit-trump-tells-him-to-start-fracking/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.thegatewaypundit.com/2019/02/hah-gov-cuomo-whines-to-trump-about-ny-states-budget-deficit-trump-tells-him-to-start-fracking/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.thegatewaypundit.com/2019/02/hah-gov-cuomo-whines-to-trump-about-ny-states-budget-deficit-trump-tells-him-to-start-fracking/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.thegatewaypundit.com/2019/02/hah-gov-cuomo-whines-to-trump-about-ny-states-budget-deficit-trump-tells-him-to-start-fracking/"
+}

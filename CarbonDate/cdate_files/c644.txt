@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/homenews/house/429854-omar-clashes-with-trump-envoy-elliot-abrams-in-fiery-exchange",
+  "uri": "https://thehill.com/homenews/house/429854-omar-clashes-with-trump-envoy-elliot-abrams-in-fiery-exchange",
+  "estimated-creation-date": "2019-02-13T14:29:19",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:29:19"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213220950/https://thehill.com/homenews/house/429854-omar-clashes-with-trump-envoy-elliot-abrams-in-fiery-exchange",
+      "memento-datetime": "2019-02-13T22:09:50",
+      "memento-pubdate": "2019-02-13T14:29:19",
+      "earliest": "2019-02-13T14:29:19"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T23:27:51"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

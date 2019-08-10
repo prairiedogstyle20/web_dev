@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://worldsourcemedia.com/can-trump-use-el-chapos-seized-14-billion-to-build-wall-pelosi-schumer-freak/",
+  "uri": "https://worldsourcemedia.com/can-trump-use-el-chapos-seized-14-billion-to-build-wall-pelosi-schumer-freak/",
+  "estimated-creation-date": "2019-02-13T19:13:12",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:13:12"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

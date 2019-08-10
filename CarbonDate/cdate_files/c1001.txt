@@ -1,0 +1,67 @@
+{
+  "self": "http://localhost:8888/cd/http://junkscience.com/",
+  "uri": "http://junkscience.com/",
+  "estimated-creation-date": "1996-11-08T07:04:29",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/19961108070429/http://www.junkscience.com:80/",
+      "memento-datetime": "1996-11-08T07:04:29",
+      "memento-pubdate": "",
+      "earliest": "1996-11-08T07:04:29"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20090327111153/http://www.junkscience.com/",
+      "memento-datetime": "2009-03-27T06:53:05",
+      "memento-pubdate": "",
+      "earliest": "2009-03-27T06:53:05"
+    },
+    "swap.stanford.edu": {
+      "uri-m": "https://swap.stanford.edu/20090419155810/http://www.junkscience.com/",
+      "memento-datetime": "2009-04-19T03:09:04",
+      "memento-pubdate": "",
+      "earliest": "2009-04-19T03:09:04"
+    },
+    "arquivo.pt": {
+      "uri-m": "https://arquivo.pt/wayback/20090710063751/http://www.junkscience.com/",
+      "memento-datetime": "2009-07-10T04:46:30",
+      "memento-pubdate": "",
+      "earliest": "2009-07-10T04:46:30"
+    },
+    "wayback.vefsafn.is": {
+      "uri-m": "http://wayback.vefsafn.is/wayback/20111213104852/http://www.junkscience.com/",
+      "memento-datetime": "2011-12-13T10:48:52",
+      "memento-pubdate": "",
+      "earliest": "2011-12-13T10:48:52"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20121204140705/http://junkscience.com/",
+      "memento-datetime": "2012-12-04T14:07:05",
+      "memento-pubdate": "2012-12-04T14:07:05",
+      "earliest": "2012-12-04T14:07:05"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T23:23:55"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

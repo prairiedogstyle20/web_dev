@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cbsnews.com/amp/news/puerto-rico-to-take-legal-action-if-trump-diverts-disaster-aid/",
+  "uri": "https://www.cbsnews.com/amp/news/puerto-rico-to-take-legal-action-if-trump-diverts-disaster-aid/",
+  "estimated-creation-date": "2019-02-12T18:54:39",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212223239/https://www.cbsnews.com/amp/news/puerto-rico-to-take-legal-action-if-trump-diverts-disaster-aid/",
+      "memento-datetime": "2019-02-12T22:32:39",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T22:32:39"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T18:54:39"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

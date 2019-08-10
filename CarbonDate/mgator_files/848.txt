@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/",
+  "self": "http://localhost:1208/timemap/json/https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T10:06:19Z",
+        "uri": "http://web.archive.org/web/20190213100619/https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/"
+      },
+      {
+        "datetime": "2019-02-13T17:39:19Z",
+        "uri": "http://web.archive.org/web/20190213173919/https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T10:06:19Z",
+      "uri": "http://web.archive.org/web/20190213100619/https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/"
+    },
+    "last": {
+      "datetime": "2019-02-13T17:39:19Z",
+      "uri": "http://web.archive.org/web/20190213173919/https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/",
+    "json_format": "http://localhost:1208/timemap/json/https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://theconservativetreehouse.com/2019/02/13/february-13th-2019-presidential-politics-trump-administration-day-755/"
+}

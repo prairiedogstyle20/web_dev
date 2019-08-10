@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954",
+  "uri": "https://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954",
+  "estimated-creation-date": "2019-02-13T12:14:14",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213121414/https://news.sky.com/story/shares-surge-as-trump-signals-hope-of-china-trade-war-truce-11635954",
+      "memento-datetime": "2019-02-13T12:14:14",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T12:14:14"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

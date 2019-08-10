@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.breitbart.com/clips/2019/02/12/scarborough-why-are-trump-supporters-still-chanting-lock-her-up/",
+  "uri": "https://www.breitbart.com/clips/2019/02/12/scarborough-why-are-trump-supporters-still-chanting-lock-her-up/",
+  "estimated-creation-date": "2019-02-12T14:31:21",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T14:31:21"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213002010/https://www.breitbart.com/clips/2019/02/12/scarborough-why-are-trump-supporters-still-chanting-lock-her-up/",
+      "memento-datetime": "2019-02-13T00:18:18",
+      "memento-pubdate": "2019-02-12T14:31:21",
+      "earliest": "2019-02-12T14:31:21"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T14:33:31"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

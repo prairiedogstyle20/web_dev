@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.pscp.tv/WhiteHouse/1mrGmYYjEjDGy?t=2m8s",
+  "uri": "https://www.pscp.tv/WhiteHouse/1mrGmYYjEjDGy?t=2m8s",
+  "estimated-creation-date": "2019-02-13T20:27:14",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:27:14"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

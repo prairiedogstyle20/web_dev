@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.npr.org/2015/12/03/458329895/trump-to-jewish-republicans-im-a-negotiator-like-you-folks",
+  "uri": "https://www.npr.org/2015/12/03/458329895/trump-to-jewish-republicans-im-a-negotiator-like-you-folks",
+  "estimated-creation-date": "2015-12-03T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2015-12-03T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20151204171957/http://www.npr.org/2015/12/03/458329895/trump-to-jewish-republicans-im-a-negotiator-like-you-folks",
+      "memento-datetime": "2015-12-04T17:19:57",
+      "memento-pubdate": "2015-12-03T23:59:59",
+      "earliest": "2015-12-03T23:59:59"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20160905185126/http://www.npr.org/2015/12/03/458329895/trump-to-jewish-republicans-im-a-negotiator-like-you-folks",
+      "memento-datetime": "2016-09-05T18:51:26",
+      "memento-pubdate": "2015-12-03T23:59:59",
+      "earliest": "2015-12-03T23:59:59"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-11T15:49:47"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

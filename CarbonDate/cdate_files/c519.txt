@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thedailybeast.com/ilhan-omar-fires-back-at-trump-you-have-trafficked-in-hate-your-whole-life?via=twitter_page",
+  "uri": "https://www.thedailybeast.com/ilhan-omar-fires-back-at-trump-you-have-trafficked-in-hate-your-whole-life?via=twitter_page",
+  "estimated-creation-date": "2019-02-13T15:23:19",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T15:23:19"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T15:25:56"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

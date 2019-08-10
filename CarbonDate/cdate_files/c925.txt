@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/http://www.alwatan.com.sa/Sports/News_Detail.aspx?ArticleID=360680&CategoryID=6",
+  "uri": "http://www.alwatan.com.sa/Sports/News_Detail.aspx?ArticleID=360680&CategoryID=6",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

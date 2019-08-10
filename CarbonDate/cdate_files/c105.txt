@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.democracynow.org/2019/2/12/headlines/trump_and_beto_orourke_hold_rival_rallies_in_el_paso",
+  "uri": "https://www.democracynow.org/2019/2/12/headlines/trump_and_beto_orourke_hold_rival_rallies_in_el_paso",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212185551/https://www.democracynow.org/2019/2/12/headlines/trump_and_beto_orourke_hold_rival_rallies_in_el_paso",
+      "memento-datetime": "2019-02-12T18:55:51",
+      "memento-pubdate": "2019-02-12T23:59:59",
+      "earliest": "2019-02-12T18:55:51"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T15:41:38"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

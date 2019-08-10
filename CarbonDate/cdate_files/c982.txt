@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://trump-train.com/2019/02/12/the-case-for-russia-collusion-against-the-democrats/",
+  "uri": "http://trump-train.com/2019/02/12/the-case-for-russia-collusion-against-the-democrats/",
+  "estimated-creation-date": "2019-02-12T07:15:06",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T07:15:06"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T13:23:41"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

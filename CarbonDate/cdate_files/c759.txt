@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/",
+  "uri": "https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/",
+  "estimated-creation-date": "2019-02-12T19:26:37",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org",
+    "wayback.archive-it.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T19:26:37"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190212235737/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/",
+      "memento-datetime": "2019-02-12T23:57:37",
+      "memento-pubdate": "2019-02-12T23:57:37",
+      "earliest": "2019-02-12T23:57:37"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213001358/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/",
+      "memento-datetime": "2019-02-13T00:13:58",
+      "memento-pubdate": "2019-02-12T19:26:37",
+      "earliest": "2019-02-12T19:26:37"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190213012818/https://nypost.com/2019/02/12/senate-has-found-no-direct-evidence-trump-colluded-with-russia-report/",
+      "memento-datetime": "2019-02-13T01:24:12",
+      "memento-pubdate": "2019-02-12T19:26:37",
+      "earliest": "2019-02-12T19:26:37"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T19:36:26"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

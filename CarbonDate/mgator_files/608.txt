@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://tr.sputniknews.com/abd/201902131037649168-trump-venezuella-konusunda-tum-secenekleri-degerlendiriyoruz/",
+  "self": "http://localhost:1208/timemap/json/https://tr.sputniknews.com/abd/201902131037649168-trump-venezuella-konusunda-tum-secenekleri-degerlendiriyoruz/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T01:46:28Z",
+        "uri": "http://web.archive.org/web/20190214014628/https://tr.sputniknews.com/abd/201902131037649168-trump-venezuella-konusunda-tum-secenekleri-degerlendiriyoruz/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T01:46:28Z",
+      "uri": "http://web.archive.org/web/20190214014628/https://tr.sputniknews.com/abd/201902131037649168-trump-venezuella-konusunda-tum-secenekleri-degerlendiriyoruz/"
+    },
+    "last": {
+      "datetime": "2019-02-14T01:46:28Z",
+      "uri": "http://web.archive.org/web/20190214014628/https://tr.sputniknews.com/abd/201902131037649168-trump-venezuella-konusunda-tum-secenekleri-degerlendiriyoruz/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://tr.sputniknews.com/abd/201902131037649168-trump-venezuella-konusunda-tum-secenekleri-degerlendiriyoruz/",
+    "json_format": "http://localhost:1208/timemap/json/https://tr.sputniknews.com/abd/201902131037649168-trump-venezuella-konusunda-tum-secenekleri-degerlendiriyoruz/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://tr.sputniknews.com/abd/201902131037649168-trump-venezuella-konusunda-tum-secenekleri-degerlendiriyoruz/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://tr.sputniknews.com/abd/201902131037649168-trump-venezuella-konusunda-tum-secenekleri-degerlendiriyoruz/"
+}

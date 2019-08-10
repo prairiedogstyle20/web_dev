@@ -1,0 +1,56 @@
+{
+  "self": "http://localhost:8888/cd/https://www.wtva.com/",
+  "uri": "https://www.wtva.com/",
+  "estimated-creation-date": "1998-12-05T07:58:23",
+  "earliest-sources": [
+    "archive.md",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/19981205075823/http://www.wtva.com/",
+      "memento-datetime": "1998-12-05T07:58:23",
+      "memento-pubdate": "1998-12-05T07:58:23",
+      "earliest": "1998-12-05T07:58:23"
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/19981205075823/http://www.wtva.com:80/",
+      "memento-datetime": "1998-12-05T07:58:23",
+      "memento-pubdate": "",
+      "earliest": "1998-12-05T07:58:23"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20080319021002/http://www.wtva.com/",
+      "memento-datetime": "2008-03-19T02:10:02",
+      "memento-pubdate": "1902-10-02T23:59:59",
+      "earliest": "2008-03-19T02:10:02"
+    },
+    "wayback.vefsafn.is": {
+      "uri-m": "http://wayback.vefsafn.is/wayback/20110728134651/http://www.wtva.com/",
+      "memento-datetime": "2011-07-28T13:46:51",
+      "memento-pubdate": "",
+      "earliest": "2011-07-28T13:46:51"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T04:56:12"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

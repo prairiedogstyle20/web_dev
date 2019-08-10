@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html",
+  "self": "http://localhost:1208/timemap/json/https://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T00:09:32Z",
+        "uri": "http://web.archive.org/web/20190213000932/https://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html"
+      },
+      {
+        "datetime": "2019-02-13T03:15:29Z",
+        "uri": "http://web.archive.org/web/20190213031529/http://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html"
+      },
+      {
+        "datetime": "2019-02-13T12:18:48Z",
+        "uri": "http://web.archive.org/web/20190213121848/http://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html"
+      },
+      {
+        "datetime": "2019-02-13T14:30:00Z",
+        "uri": "http://web.archive.org/web/20190213143000/https://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html"
+      },
+      {
+        "datetime": "2019-02-14T17:05:12Z",
+        "uri": "http://archive.md/20190214170512/https://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T00:09:32Z",
+      "uri": "http://web.archive.org/web/20190213000932/https://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T17:05:12Z",
+      "uri": "http://archive.md/20190214170512/https://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.al-monitor.com/pulse/originals/2019/02/iran-yalda-moayyeri-trump-tweet-iconic-image-photo-reclaimed.html"
+}

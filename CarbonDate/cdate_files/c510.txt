@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://thepoliticalinsider.com/news-media-trust-poll/",
+  "uri": "https://thepoliticalinsider.com/news-media-trust-poll/",
+  "estimated-creation-date": "2019-02-13T19:02:59",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:02:59"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214123105/https://thepoliticalinsider.com/news-media-trust-poll/",
+      "memento-datetime": "2019-02-14T12:31:05",
+      "memento-pubdate": "2019-02-13T19:02:59",
+      "earliest": "2019-02-13T19:02:59"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

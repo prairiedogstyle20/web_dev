@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.newsweek.com/trump-substitute-teacher-resigns-allegations-martin-luther-king-jr-1328853?utm_medium=Social&utm_campaign=NewsweekTwitter&utm_source=Twitter",
+  "uri": "https://www.newsweek.com/trump-substitute-teacher-resigns-allegations-martin-luther-king-jr-1328853?utm_medium=Social&utm_campaign=NewsweekTwitter&utm_source=Twitter",
+  "estimated-creation-date": "2019-02-12T14:44:20",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T14:44:20"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

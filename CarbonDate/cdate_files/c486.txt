@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://washingtonpress.com/2019/02/13/the-wife-of-a-top-trump-official-just-called-for-bringing-back-deadly-childhood-diseases/",
+  "uri": "https://washingtonpress.com/2019/02/13/the-wife-of-a-top-trump-official-just-called-for-bringing-back-deadly-childhood-diseases/",
+  "estimated-creation-date": "2019-02-13T13:00:34",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T13:00:34"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214144714/https://washingtonpress.com/2019/02/13/the-wife-of-a-top-trump-official-just-called-for-bringing-back-deadly-childhood-diseases/",
+      "memento-datetime": "2019-02-14T14:47:14",
+      "memento-pubdate": "2019-02-13T13:00:34",
+      "earliest": "2019-02-13T13:00:34"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

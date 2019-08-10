@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born",
+  "self": "http://localhost:1208/timemap/json/https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:05:12Z",
+        "uri": "http://web.archive.org/web/20190213030512/https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born"
+      },
+      {
+        "datetime": "2019-02-13T12:30:17Z",
+        "uri": "http://web.archive.org/web/20190213123017/https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:05:12Z",
+      "uri": "http://web.archive.org/web/20190213030512/https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:30:17Z",
+      "uri": "http://web.archive.org/web/20190213123017/https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born",
+    "json_format": "http://localhost:1208/timemap/json/https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born"
+}

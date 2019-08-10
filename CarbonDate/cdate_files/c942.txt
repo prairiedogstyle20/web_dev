@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/http://www.emergencyemail.org/newsemergency/anmviewer.asp?a=15938&z=1&utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "http://www.emergencyemail.org/newsemergency/anmviewer.asp?a=15938&z=1&utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

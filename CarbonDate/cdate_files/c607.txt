@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/http://talcualdigital.com/index.php/2019/02/13/trump-no-descarta-enviar-5-000-tropas-a-colombia-para-atajar-situacion-en-venezuela/",
+  "uri": "http://talcualdigital.com/index.php/2019/02/13/trump-no-descarta-enviar-5-000-tropas-a-colombia-para-atajar-situacion-en-venezuela/",
+  "estimated-creation-date": "2019-02-13T14:21:38",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:21:38"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214012647/http://talcualdigital.com/index.php/2019/02/13/trump-no-descarta-enviar-5-000-tropas-a-colombia-para-atajar-situacion-en-venezuela/",
+      "memento-datetime": "2019-02-14T01:26:47",
+      "memento-pubdate": "2019-02-13T14:21:38",
+      "earliest": "2019-02-13T14:21:38"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T18:24:20"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

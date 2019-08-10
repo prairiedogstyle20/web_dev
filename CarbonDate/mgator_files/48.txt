@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403",
+  "self": "http://localhost:1208/timemap/json/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T18:56:54Z",
+        "uri": "http://web.archive.org/web/20190212185654/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403"
+      },
+      {
+        "datetime": "2019-02-13T03:39:37Z",
+        "uri": "http://web.archive.org/web/20190213033937/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403"
+      },
+      {
+        "datetime": "2019-02-13T17:05:04Z",
+        "uri": "http://web.archive.org/web/20190213170504/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403"
+      },
+      {
+        "datetime": "2019-02-14T03:16:59Z",
+        "uri": "http://web.archive.org/web/20190214031659/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403"
+      },
+      {
+        "datetime": "2019-02-14T07:28:15Z",
+        "uri": "http://web.archive.org/web/20190214072815/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403"
+      },
+      {
+        "datetime": "2019-02-14T09:31:25Z",
+        "uri": "http://web.archive.org/web/20190214093125/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T18:56:54Z",
+      "uri": "http://web.archive.org/web/20190212185654/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403"
+    },
+    "last": {
+      "datetime": "2019-02-14T09:31:25Z",
+      "uri": "http://web.archive.org/web/20190214093125/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403",
+    "json_format": "http://localhost:1208/timemap/json/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://gulfnews.com/business/trump-backer-tom-barrack-defends-saudi-arabia-1.62027403"
+}

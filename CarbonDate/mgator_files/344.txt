@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.jihadwatch.org/2019/02/trump-calls-on-anti-semitic-muslim-rep-ilhan-omar-to-resign-calls-her-non-apology-lame",
+  "self": "http://localhost:1208/timemap/json/https://www.jihadwatch.org/2019/02/trump-calls-on-anti-semitic-muslim-rep-ilhan-omar-to-resign-calls-her-non-apology-lame",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T12:27:19Z",
+        "uri": "http://web.archive.org/web/20190213122719/https://www.jihadwatch.org/2019/02/trump-calls-on-anti-semitic-muslim-rep-ilhan-omar-to-resign-calls-her-non-apology-lame"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T12:27:19Z",
+      "uri": "http://web.archive.org/web/20190213122719/https://www.jihadwatch.org/2019/02/trump-calls-on-anti-semitic-muslim-rep-ilhan-omar-to-resign-calls-her-non-apology-lame"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:27:19Z",
+      "uri": "http://web.archive.org/web/20190213122719/https://www.jihadwatch.org/2019/02/trump-calls-on-anti-semitic-muslim-rep-ilhan-omar-to-resign-calls-her-non-apology-lame"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.jihadwatch.org/2019/02/trump-calls-on-anti-semitic-muslim-rep-ilhan-omar-to-resign-calls-her-non-apology-lame",
+    "json_format": "http://localhost:1208/timemap/json/https://www.jihadwatch.org/2019/02/trump-calls-on-anti-semitic-muslim-rep-ilhan-omar-to-resign-calls-her-non-apology-lame",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.jihadwatch.org/2019/02/trump-calls-on-anti-semitic-muslim-rep-ilhan-omar-to-resign-calls-her-non-apology-lame"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.jihadwatch.org/2019/02/trump-calls-on-anti-semitic-muslim-rep-ilhan-omar-to-resign-calls-her-non-apology-lame"
+}

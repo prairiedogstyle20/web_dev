@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://tradeforprofit.net/2019/02/5-key-takeaways-from-president-donald-trumps-state-of-the-union-address/",
+  "uri": "https://tradeforprofit.net/2019/02/5-key-takeaways-from-president-donald-trumps-state-of-the-union-address/",
+  "estimated-creation-date": "2019-02-05T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-05T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T09:51:40"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

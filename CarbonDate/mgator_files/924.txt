@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.mlive.com/news/ann-arbor/2019/02/judge-orders-eastern-michigan-to-reinstate-2-womens-sports-by-fall-2019.html",
+  "self": "http://localhost:1208/timemap/json/https://www.mlive.com/news/ann-arbor/2019/02/judge-orders-eastern-michigan-to-reinstate-2-womens-sports-by-fall-2019.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T10:23:12Z",
+        "uri": "http://web.archive.org/web/20190213102312/https://www.mlive.com/news/ann-arbor/2019/02/judge-orders-eastern-michigan-to-reinstate-2-womens-sports-by-fall-2019.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T10:23:12Z",
+      "uri": "http://web.archive.org/web/20190213102312/https://www.mlive.com/news/ann-arbor/2019/02/judge-orders-eastern-michigan-to-reinstate-2-womens-sports-by-fall-2019.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T10:23:12Z",
+      "uri": "http://web.archive.org/web/20190213102312/https://www.mlive.com/news/ann-arbor/2019/02/judge-orders-eastern-michigan-to-reinstate-2-womens-sports-by-fall-2019.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.mlive.com/news/ann-arbor/2019/02/judge-orders-eastern-michigan-to-reinstate-2-womens-sports-by-fall-2019.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.mlive.com/news/ann-arbor/2019/02/judge-orders-eastern-michigan-to-reinstate-2-womens-sports-by-fall-2019.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.mlive.com/news/ann-arbor/2019/02/judge-orders-eastern-michigan-to-reinstate-2-womens-sports-by-fall-2019.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.mlive.com/news/ann-arbor/2019/02/judge-orders-eastern-michigan-to-reinstate-2-womens-sports-by-fall-2019.html"
+}

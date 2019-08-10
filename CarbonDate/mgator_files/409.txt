@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://thehill.com/homenews/administration/429634-us-conference-of-mayors-defends-el-paso-mayor-after-trump-said-he-was",
+  "self": "http://localhost:1208/timemap/json/https://thehill.com/homenews/administration/429634-us-conference-of-mayors-defends-el-paso-mayor-after-trump-said-he-was",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T23:54:14Z",
+        "uri": "http://web.archive.org/web/20190212235414/https://thehill.com/homenews/administration/429634-us-conference-of-mayors-defends-el-paso-mayor-after-trump-said-he-was"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T23:54:14Z",
+      "uri": "http://web.archive.org/web/20190212235414/https://thehill.com/homenews/administration/429634-us-conference-of-mayors-defends-el-paso-mayor-after-trump-said-he-was"
+    },
+    "last": {
+      "datetime": "2019-02-12T23:54:14Z",
+      "uri": "http://web.archive.org/web/20190212235414/https://thehill.com/homenews/administration/429634-us-conference-of-mayors-defends-el-paso-mayor-after-trump-said-he-was"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://thehill.com/homenews/administration/429634-us-conference-of-mayors-defends-el-paso-mayor-after-trump-said-he-was",
+    "json_format": "http://localhost:1208/timemap/json/https://thehill.com/homenews/administration/429634-us-conference-of-mayors-defends-el-paso-mayor-after-trump-said-he-was",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://thehill.com/homenews/administration/429634-us-conference-of-mayors-defends-el-paso-mayor-after-trump-said-he-was"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://thehill.com/homenews/administration/429634-us-conference-of-mayors-defends-el-paso-mayor-after-trump-said-he-was"
+}

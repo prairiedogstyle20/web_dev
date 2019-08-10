@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://insider.foxnews.com/2019/02/13/charlie-kirk-blasts-alexandria-ocasio-cortez-green-new-deal-calls-it-gift-donald-trump",
+  "uri": "https://insider.foxnews.com/2019/02/13/charlie-kirk-blasts-alexandria-ocasio-cortez-green-new-deal-calls-it-gift-donald-trump",
+  "estimated-creation-date": "2019-02-13T13:28:41",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:21:20"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T13:28:41"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213165000/https://insider.foxnews.com/2019/02/13/charlie-kirk-blasts-alexandria-ocasio-cortez-green-new-deal-calls-it-gift-donald-trump",
+      "memento-datetime": "2019-02-13T16:41:52",
+      "memento-pubdate": "2019-02-13T13:28:41",
+      "earliest": "2019-02-13T13:28:41"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T14:57:26"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://crooksandliars.com/2019/02/tucker-carlson-says-trump-exonerated",
+  "self": "http://localhost:1208/timemap/json/https://crooksandliars.com/2019/02/tucker-carlson-says-trump-exonerated",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T05:57:57Z",
+        "uri": "http://web.archive.org/web/20190214055757/https://crooksandliars.com/2019/02/tucker-carlson-says-trump-exonerated"
+      },
+      {
+        "datetime": "2019-02-14T12:32:32Z",
+        "uri": "http://web.archive.org/web/20190214123232/https://crooksandliars.com/2019/02/tucker-carlson-says-trump-exonerated"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T05:57:57Z",
+      "uri": "http://web.archive.org/web/20190214055757/https://crooksandliars.com/2019/02/tucker-carlson-says-trump-exonerated"
+    },
+    "last": {
+      "datetime": "2019-02-14T12:32:32Z",
+      "uri": "http://web.archive.org/web/20190214123232/https://crooksandliars.com/2019/02/tucker-carlson-says-trump-exonerated"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://crooksandliars.com/2019/02/tucker-carlson-says-trump-exonerated",
+    "json_format": "http://localhost:1208/timemap/json/https://crooksandliars.com/2019/02/tucker-carlson-says-trump-exonerated",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://crooksandliars.com/2019/02/tucker-carlson-says-trump-exonerated"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://crooksandliars.com/2019/02/tucker-carlson-says-trump-exonerated"
+}

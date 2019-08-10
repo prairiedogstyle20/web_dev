@@ -1,0 +1,1819 @@
+449
+{
+  "original_uri": "https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436",
+  "self": "http://localhost:1208/timemap/json/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-05-23T10:12:27Z",
+        "uri": "http://web.archive.org/web/20160523101227/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-05-23T17:50:59Z",
+        "uri": "http://web.archive.org/web/20160523175059/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-05-23T20:25:51Z",
+        "uri": "http://archive.md/20160523202551/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-05-23T22:44:21Z",
+        "uri": "http://webarchive.loc.gov/all/20160523224421/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-05-23T23:39:10Z",
+        "uri": "http://webarchive.loc.gov/all/20160523233910/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-05-24T04:11:37Z",
+        "uri": "http://web.archive.org/web/20160524041137/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-05-24T04:11:42Z",
+        "uri": "http://web.archive.org/web/20160524041142/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-05-24T19:37:38Z",
+        "uri": "http://webarchive.loc.gov/all/20160524193738/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-05-25T21:29:10Z",
+        "uri": "http://web.archive.org/web/20160525212910/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-05-26T12:25:43Z",
+        "uri": "http://web.archive.org/web/20160526122543/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-05-26T12:25:48Z",
+        "uri": "http://web.archive.org/web/20160526122548/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436?"
+      },
+      {
+        "datetime": "2016-05-27T20:54:02Z",
+        "uri": "http://webarchive.loc.gov/all/20160527205402/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-05-31T10:11:51Z",
+        "uri": "http://web.archive.org/web/20160531101151/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-01T05:16:39Z",
+        "uri": "http://webarchive.loc.gov/all/20160601051639/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-01T08:06:57Z",
+        "uri": "http://wayback.archive-it.org/all/20160601080657/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-01T08:06:57Z",
+        "uri": "http://web.archive.org/web/20160601080657/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-02T17:14:27Z",
+        "uri": "http://webarchive.loc.gov/all/20160602171427/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-04T20:42:55Z",
+        "uri": "http://web.archive.org/web/20160604204255/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-08T05:23:18Z",
+        "uri": "http://webarchive.loc.gov/all/20160608052318/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-08T13:19:48Z",
+        "uri": "http://web.archive.org/web/20160608131948/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-09T00:20:21Z",
+        "uri": "http://web.archive.org/web/20160609002021/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-13T08:41:43Z",
+        "uri": "http://web.archive.org/web/20160613084143/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-14T07:21:43Z",
+        "uri": "http://webarchive.loc.gov/all/20160614072143/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-15T01:09:14Z",
+        "uri": "http://webarchive.loc.gov/all/20160615010914/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-16T19:01:56Z",
+        "uri": "http://wayback.archive-it.org/all/20160616190156/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-16T19:01:56Z",
+        "uri": "http://web.archive.org/web/20160616190156/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-19T01:47:16Z",
+        "uri": "http://webarchive.loc.gov/all/20160619014716/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-19T13:17:32Z",
+        "uri": "http://web.archive.org/web/20160619131732/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-22T03:19:13Z",
+        "uri": "http://webarchive.loc.gov/all/20160622031913/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-25T11:04:09Z",
+        "uri": "http://web.archive.org/web/20160625110409/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-25T11:25:40Z",
+        "uri": "http://web.archive.org/web/20160625112540/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-25T16:16:39Z",
+        "uri": "http://web.archive.org/web/20160625161639/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-06-27T21:56:48Z",
+        "uri": "http://web.archive.org/web/20160627215648/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436?"
+      },
+      {
+        "datetime": "2016-06-29T00:31:20Z",
+        "uri": "http://webarchive.loc.gov/all/20160629003120/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-07-01T06:40:53Z",
+        "uri": "http://web.archive.org/web/20160701064053/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-07-03T04:29:45Z",
+        "uri": "http://web.archive.org/web/20160703042945/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-07-08T10:34:29Z",
+        "uri": "http://web.archive.org/web/20160708103429/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-07-08T13:39:34Z",
+        "uri": "http://web.archive.org/web/20160708133934/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-07-08T17:19:46Z",
+        "uri": "http://webarchive.loc.gov/all/20160708171946/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-07-13T02:24:37Z",
+        "uri": "http://webarchive.loc.gov/all/20160713022437/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-07-13T11:13:43Z",
+        "uri": "http://web.archive.org/web/20160713111343/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-07-15T20:11:27Z",
+        "uri": "http://web.archive.org/web/20160715201127/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-07-20T23:36:05Z",
+        "uri": "http://webarchive.loc.gov/all/20160720233605/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-07-24T14:24:50Z",
+        "uri": "http://web.archive.org/web/20160724142450/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-07-28T03:02:13Z",
+        "uri": "http://web.archive.org/web/20160728030213/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-07-29T10:29:09Z",
+        "uri": "http://web.archive.org/web/20160729102909/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436?"
+      },
+      {
+        "datetime": "2016-07-29T13:21:03Z",
+        "uri": "http://webarchive.loc.gov/all/20160729132103/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-08-02T16:38:18Z",
+        "uri": "http://web.archive.org/web/20160802163818/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-08-02T18:25:22Z",
+        "uri": "http://web.archive.org/web/20160802182522/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-08-04T12:16:42Z",
+        "uri": "http://webarchive.loc.gov/all/20160804121642/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-08-11T00:33:12Z",
+        "uri": "http://webarchive.loc.gov/all/20160811003312/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-08-12T10:38:11Z",
+        "uri": "http://web.archive.org/web/20160812103811/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-08-19T00:52:32Z",
+        "uri": "http://webarchive.loc.gov/all/20160819005232/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-08-22T10:49:27Z",
+        "uri": "http://web.archive.org/web/20160822104927/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-08-23T11:29:43Z",
+        "uri": "http://web.archive.org/web/20160823112943/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-08-25T02:42:57Z",
+        "uri": "http://webarchive.loc.gov/all/20160825024257/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-02T13:42:00Z",
+        "uri": "http://webarchive.loc.gov/all/20160902134200/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-02T21:53:55Z",
+        "uri": "http://wayback.archive-it.org/all/20160902215355/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-02T21:53:55Z",
+        "uri": "http://web.archive.org/web/20160902215355/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-05T17:44:46Z",
+        "uri": "http://web.archive.org/web/20160905174446/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-07T03:31:34Z",
+        "uri": "http://web.archive.org/web/20160907033134/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-08T22:42:24Z",
+        "uri": "http://webarchive.loc.gov/all/20160908224224/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-15T20:15:16Z",
+        "uri": "http://webarchive.loc.gov/all/20160915201516/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-16T14:19:19Z",
+        "uri": "http://webarchive.loc.gov/all/20160916141919/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-18T12:10:40Z",
+        "uri": "http://web.archive.org/web/20160918121040/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-22T09:28:58Z",
+        "uri": "http://webarchive.loc.gov/all/20160922092858/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-22T20:20:05Z",
+        "uri": "http://web.archive.org/web/20160922202005/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-23T15:41:14Z",
+        "uri": "http://web.archive.org/web/20160923154114/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-24T22:59:17Z",
+        "uri": "http://web.archive.org/web/20160924225917/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-09-29T04:25:00Z",
+        "uri": "http://webarchive.loc.gov/all/20160929042500/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-10-01T22:12:56Z",
+        "uri": "http://webarchive.loc.gov/all/20161001221256/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-10-05T15:57:17Z",
+        "uri": "http://webarchive.loc.gov/all/20161005155717/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-10-07T03:44:54Z",
+        "uri": "http://webarchive.loc.gov/all/20161007034454/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-10-12T14:42:57Z",
+        "uri": "http://web.archive.org/web/20161012144257/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-10-13T12:52:18Z",
+        "uri": "http://webarchive.loc.gov/all/20161013125218/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-10-27T15:42:21Z",
+        "uri": "http://webarchive.loc.gov/all/20161027154221/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-10-29T21:15:51Z",
+        "uri": "http://webarchive.loc.gov/all/20161029211551/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-04T01:30:24Z",
+        "uri": "http://webarchive.loc.gov/all/20161104013024/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-07T08:38:37Z",
+        "uri": "http://web.archive.org/web/20161107083837/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-07T09:23:59Z",
+        "uri": "http://web.archive.org/web/20161107092359/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-07T22:26:14Z",
+        "uri": "http://web.archive.org/web/20161107222614/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-09T17:55:22Z",
+        "uri": "http://webarchive.loc.gov/all/20161109175522/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-10T08:27:19Z",
+        "uri": "http://webarchive.loc.gov/all/20161110082719/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-11T13:55:27Z",
+        "uri": "http://web.archive.org/web/20161111135527/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-12T15:20:54Z",
+        "uri": "http://web.archive.org/web/20161112152054/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-15T21:43:29Z",
+        "uri": "http://webarchive.loc.gov/all/20161115214329/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-18T17:49:36Z",
+        "uri": "http://web.archive.org/web/20161118174936/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-19T10:07:48Z",
+        "uri": "http://web.archive.org/web/20161119100748/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-19T14:48:03Z",
+        "uri": "http://webarchive.loc.gov/all/20161119144803/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-22T04:10:55Z",
+        "uri": "http://web.archive.org/web/20161122041055/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-22T20:17:28Z",
+        "uri": "http://wayback.archive-it.org/all/20161122201728/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-22T20:17:28Z",
+        "uri": "http://web.archive.org/web/20161122201728/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-23T05:10:26Z",
+        "uri": "http://webarchive.loc.gov/all/20161123051026/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-23T14:30:53Z",
+        "uri": "http://wayback.archive-it.org/all/20161123143053/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-23T14:30:53Z",
+        "uri": "http://web.archive.org/web/20161123143053/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-27T20:15:24Z",
+        "uri": "http://webarchive.loc.gov/all/20161127201524/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-29T09:09:49Z",
+        "uri": "http://web.archive.org/web/20161129090949/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-11-30T03:29:56Z",
+        "uri": "http://webarchive.loc.gov/all/20161130032956/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-12-01T01:53:44Z",
+        "uri": "http://webarchive.loc.gov/all/20161201015344/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-12-07T11:51:02Z",
+        "uri": "http://webarchive.loc.gov/all/20161207115102/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-12-08T08:45:36Z",
+        "uri": "http://webarchive.loc.gov/all/20161208084536/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-12-14T03:08:46Z",
+        "uri": "http://webarchive.loc.gov/all/20161214030846/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-12-18T01:57:12Z",
+        "uri": "http://webarchive.loc.gov/all/20161218015712/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-12-21T08:37:30Z",
+        "uri": "http://webarchive.loc.gov/all/20161221083730/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2016-12-28T12:59:59Z",
+        "uri": "http://webarchive.loc.gov/all/20161228125959/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-04T13:54:03Z",
+        "uri": "http://webarchive.loc.gov/all/20170104135403/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-11T10:40:09Z",
+        "uri": "http://webarchive.loc.gov/all/20170111104009/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-14T16:32:31Z",
+        "uri": "http://web.archive.org/web/20170114163231/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-14T16:32:32Z",
+        "uri": "http://web.archive.org/web/20170114163232/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-18T13:20:05Z",
+        "uri": "http://webarchive.loc.gov/all/20170118132005/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-19T04:59:29Z",
+        "uri": "http://web.archive.org/web/20170119045929/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-20T05:14:33Z",
+        "uri": "http://web.archive.org/web/20170120051433/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-21T06:00:32Z",
+        "uri": "http://web.archive.org/web/20170121060032/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-22T06:46:05Z",
+        "uri": "http://web.archive.org/web/20170122064605/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-23T07:58:48Z",
+        "uri": "http://web.archive.org/web/20170123075848/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-24T08:28:49Z",
+        "uri": "http://web.archive.org/web/20170124082849/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-25T08:57:33Z",
+        "uri": "http://web.archive.org/web/20170125085733/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-25T17:02:12Z",
+        "uri": "http://webarchive.loc.gov/all/20170125170212/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-25T17:49:58Z",
+        "uri": "http://web.archive.org/web/20170125174958/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-26T01:32:02Z",
+        "uri": "http://web.archive.org/web/20170126013202/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-26T05:02:33Z",
+        "uri": "http://web.archive.org/web/20170126050233/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-27T00:47:26Z",
+        "uri": "http://web.archive.org/web/20170127004726/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-01-28T13:02:20Z",
+        "uri": "http://web.archive.org/web/20170128130220/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-02-01T08:56:56Z",
+        "uri": "http://webarchive.loc.gov/all/20170201085656/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-02-02T02:13:00Z",
+        "uri": "http://web.archive.org/web/20170202021300/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-02-04T02:54:40Z",
+        "uri": "http://web.archive.org/web/20170204025440/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-02-08T09:05:06Z",
+        "uri": "http://webarchive.loc.gov/all/20170208090506/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-02-11T22:23:26Z",
+        "uri": "http://web.archive.org/web/20170211222326/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-02-15T11:45:13Z",
+        "uri": "http://webarchive.loc.gov/all/20170215114513/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-02-21T01:57:12Z",
+        "uri": "http://web.archive.org/web/20170221015712/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-02-22T11:23:42Z",
+        "uri": "http://webarchive.loc.gov/all/20170222112342/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-02-25T03:34:50Z",
+        "uri": "http://web.archive.org/web/20170225033450/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-03-01T16:01:52Z",
+        "uri": "http://webarchive.loc.gov/all/20170301160152/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-03-02T01:56:23Z",
+        "uri": "http://web.archive.org/web/20170302015623/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-03-02T01:56:24Z",
+        "uri": "http://web.archive.org/web/20170302015624/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-03-04T02:36:26Z",
+        "uri": "http://web.archive.org/web/20170304023626/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-03-08T13:13:44Z",
+        "uri": "http://webarchive.loc.gov/all/20170308131344/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-03-12T06:51:29Z",
+        "uri": "http://web.archive.org/web/20170312065129/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-03-15T14:13:31Z",
+        "uri": "http://webarchive.loc.gov/all/20170315141331/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-03-22T05:48:32Z",
+        "uri": "http://webarchive.loc.gov/all/20170322054832/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-03-29T11:29:42Z",
+        "uri": "http://webarchive.loc.gov/all/20170329112942/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-03-29T20:24:03Z",
+        "uri": "http://webarchive.loc.gov/all/20170329202403/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-04-03T00:58:33Z",
+        "uri": "http://web.archive.org/web/20170403005833/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-04-04T20:13:33Z",
+        "uri": "http://wayback.archive-it.org/all/20170404201333/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-04-04T20:13:33Z",
+        "uri": "http://web.archive.org/web/20170404201333/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-04-05T08:54:45Z",
+        "uri": "http://webarchive.loc.gov/all/20170405085445/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-04-12T14:27:40Z",
+        "uri": "http://webarchive.loc.gov/all/20170412142740/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-04-19T16:41:54Z",
+        "uri": "http://webarchive.loc.gov/all/20170419164154/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-04-26T15:05:04Z",
+        "uri": "http://webarchive.loc.gov/all/20170426150504/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-04-26T15:39:31Z",
+        "uri": "http://wayback.archive-it.org/all/20170426153931/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-04-26T15:39:31Z",
+        "uri": "http://web.archive.org/web/20170426153931/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-05-03T14:29:16Z",
+        "uri": "http://webarchive.loc.gov/all/20170503142916/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-05-11T08:49:13Z",
+        "uri": "http://webarchive.loc.gov/all/20170511084913/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-05-14T17:20:12Z",
+        "uri": "http://web.archive.org/web/20170514172012/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-05-15T08:37:08Z",
+        "uri": "http://web.archive.org/web/20170515083708/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-05-17T14:51:14Z",
+        "uri": "http://webarchive.loc.gov/all/20170517145114/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-05-24T15:26:57Z",
+        "uri": "http://webarchive.loc.gov/all/20170524152657/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-01T01:03:12Z",
+        "uri": "http://webarchive.loc.gov/all/20170601010312/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-02T11:42:29Z",
+        "uri": "http://web.archive.org/web/20170602114229/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-02T11:53:24Z",
+        "uri": "http://web.archive.org/web/20170602115324/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-02T12:04:17Z",
+        "uri": "http://web.archive.org/web/20170602120417/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-03T00:47:26Z",
+        "uri": "http://web.archive.org/web/20170603004726/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-03T08:48:33Z",
+        "uri": "http://webarchive.loc.gov/all/20170603084833/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-03T11:58:25Z",
+        "uri": "http://web.archive.org/web/20170603115825/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-06T07:58:48Z",
+        "uri": "http://web.archive.org/web/20170606075848/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-07T09:19:19Z",
+        "uri": "http://web.archive.org/web/20170607091919/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-07T10:41:24Z",
+        "uri": "http://webarchive.loc.gov/all/20170607104124/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-08T19:00:10Z",
+        "uri": "http://web.archive.org/web/20170608190010/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436?"
+      },
+      {
+        "datetime": "2017-06-10T17:17:58Z",
+        "uri": "http://web.archive.org/web/20170610171758/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-12T18:16:10Z",
+        "uri": "http://webarchive.loc.gov/all/20170612181610/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-13T05:59:45Z",
+        "uri": "http://wayback.archive-it.org/all/20170613055945/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-13T05:59:45Z",
+        "uri": "http://web.archive.org/web/20170613055945/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-14T04:53:42Z",
+        "uri": "http://webarchive.loc.gov/all/20170614045342/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-15T00:02:21Z",
+        "uri": "http://web.archive.org/web/20170615000221/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-18T22:00:13Z",
+        "uri": "http://web.archive.org/web/20170618220013/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-21T00:59:58Z",
+        "uri": "http://webarchive.loc.gov/all/20170621005958/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-21T00:59:58Z",
+        "uri": "http://web.archive.org/web/20170621005958/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-22T23:20:11Z",
+        "uri": "http://wayback.archive-it.org/all/20170622232011/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-22T23:20:11Z",
+        "uri": "http://web.archive.org/web/20170622232011/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-25T21:16:31Z",
+        "uri": "http://web.archive.org/web/20170625211631/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-27T23:11:20Z",
+        "uri": "http://wayback.archive-it.org/all/20170627231120/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-27T23:11:20Z",
+        "uri": "http://web.archive.org/web/20170627231120/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-06-28T09:45:07Z",
+        "uri": "http://webarchive.loc.gov/all/20170628094507/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-07-01T06:50:33Z",
+        "uri": "http://web.archive.org/web/20170701065033/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-07-05T05:35:53Z",
+        "uri": "http://webarchive.loc.gov/all/20170705053553/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-07-09T17:11:58Z",
+        "uri": "http://web.archive.org/web/20170709171158/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436?"
+      },
+      {
+        "datetime": "2017-07-09T17:47:16Z",
+        "uri": "http://web.archive.org/web/20170709174716/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-07-12T05:58:28Z",
+        "uri": "http://webarchive.loc.gov/all/20170712055828/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-07-17T05:37:25Z",
+        "uri": "http://web.archive.org/web/20170717053725/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-07-31T09:11:24Z",
+        "uri": "http://web.archive.org/web/20170731091124/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-08-10T15:53:45Z",
+        "uri": "http://web.archive.org/web/20170810155345/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436?"
+      },
+      {
+        "datetime": "2017-08-11T10:48:43Z",
+        "uri": "http://webarchive.loc.gov/all/20170811104843/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-08-15T17:31:45Z",
+        "uri": "http://web.archive.org/web/20170815173145/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-08-15T18:50:21Z",
+        "uri": "http://web.archive.org/web/20170815185021/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-08-15T19:56:29Z",
+        "uri": "http://web.archive.org/web/20170815195629/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-08-15T20:59:38Z",
+        "uri": "http://web.archive.org/web/20170815205938/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-08-15T22:14:26Z",
+        "uri": "http://webarchive.loc.gov/all/20170815221426/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-08-22T20:39:14Z",
+        "uri": "http://webarchive.loc.gov/all/20170822203914/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-08-30T00:40:30Z",
+        "uri": "http://wayback.archive-it.org/all/20170830004030/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-08-30T00:40:30Z",
+        "uri": "http://web.archive.org/web/20170830004030/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-08-31T15:32:19Z",
+        "uri": "http://web.archive.org/web/20170831153219/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-08-31T18:29:48Z",
+        "uri": "http://webarchive.loc.gov/all/20170831182948/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-09-07T03:07:22Z",
+        "uri": "http://webarchive.loc.gov/all/20170907030722/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-09-10T13:58:31Z",
+        "uri": "http://web.archive.org/web/20170910135831/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436?"
+      },
+      {
+        "datetime": "2017-09-13T21:00:16Z",
+        "uri": "http://webarchive.loc.gov/all/20170913210016/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-09-21T21:13:13Z",
+        "uri": "http://webarchive.loc.gov/all/20170921211313/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-09-27T08:30:20Z",
+        "uri": "http://webarchive.loc.gov/all/20170927083020/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-10-03T16:38:22Z",
+        "uri": "http://web.archive.org/web/20171003163822/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-10-05T21:22:27Z",
+        "uri": "http://webarchive.loc.gov/all/20171005212227/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-10-10T06:45:55Z",
+        "uri": "http://wayback.archive-it.org/all/20171010064555/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-10-10T06:45:55Z",
+        "uri": "http://web.archive.org/web/20171010064555/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-10-12T18:22:26Z",
+        "uri": "http://webarchive.loc.gov/all/20171012182226/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-10-17T22:25:14Z",
+        "uri": "http://web.archive.org/web/20171017222514/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-10-18T22:44:18Z",
+        "uri": "http://webarchive.loc.gov/all/20171018224418/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-10-18T23:53:36Z",
+        "uri": "http://web.archive.org/web/20171018235336/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-10-24T22:54:38Z",
+        "uri": "http://web.archive.org/web/20171024225438/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-01T20:26:34Z",
+        "uri": "http://web.archive.org/web/20171101202634/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-01T20:26:38Z",
+        "uri": "http://web.archive.org/web/20171101202638/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-03T01:51:56Z",
+        "uri": "http://webarchive.loc.gov/all/20171103015156/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-03T01:51:58Z",
+        "uri": "http://webarchive.loc.gov/all/20171103015158/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-05T08:15:39Z",
+        "uri": "http://web.archive.org/web/20171105081539/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-08T21:19:31Z",
+        "uri": "http://web.archive.org/web/20171108211931/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-08T21:19:32Z",
+        "uri": "http://web.archive.org/web/20171108211932/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-10T02:35:02Z",
+        "uri": "http://webarchive.loc.gov/all/20171110023502/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-10T02:35:04Z",
+        "uri": "http://webarchive.loc.gov/all/20171110023504/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-15T22:27:50Z",
+        "uri": "http://web.archive.org/web/20171115222750/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-15T22:27:53Z",
+        "uri": "http://web.archive.org/web/20171115222753/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-15T22:44:34Z",
+        "uri": "http://web.archive.org/web/20171115224434/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-15T22:44:37Z",
+        "uri": "http://web.archive.org/web/20171115224437/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-16T04:52:40Z",
+        "uri": "http://wayback.archive-it.org/all/20171116045240/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-16T04:52:40Z",
+        "uri": "http://wayback.archive-it.org/all/20171116045240/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-16T04:52:40Z",
+        "uri": "http://web.archive.org/web/20171116045240/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-16T04:52:40Z",
+        "uri": "http://web.archive.org/web/20171116045240/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-17T15:01:15Z",
+        "uri": "http://webarchive.loc.gov/all/20171117150115/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-17T15:01:17Z",
+        "uri": "http://webarchive.loc.gov/all/20171117150117/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-22T22:15:06Z",
+        "uri": "http://web.archive.org/web/20171122221506/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-22T22:15:08Z",
+        "uri": "http://web.archive.org/web/20171122221508/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-23T06:12:13Z",
+        "uri": "http://web.archive.org/web/20171123061213/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-23T15:21:46Z",
+        "uri": "http://webarchive.loc.gov/all/20171123152146/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-23T15:21:48Z",
+        "uri": "http://webarchive.loc.gov/all/20171123152148/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-24T16:16:56Z",
+        "uri": "http://web.archive.org/web/20171124161656/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-27T17:16:50Z",
+        "uri": "http://web.archive.org/web/20171127171650/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-27T17:16:51Z",
+        "uri": "http://web.archive.org/web/20171127171651/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-29T22:30:22Z",
+        "uri": "http://web.archive.org/web/20171129223022/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-11-29T22:30:23Z",
+        "uri": "http://web.archive.org/web/20171129223023/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-03T00:10:34Z",
+        "uri": "http://web.archive.org/web/20171203001034/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-03T00:10:35Z",
+        "uri": "http://web.archive.org/web/20171203001035/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-06T21:29:22Z",
+        "uri": "http://web.archive.org/web/20171206212922/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-06T23:16:13Z",
+        "uri": "http://web.archive.org/web/20171206231613/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-06T23:16:14Z",
+        "uri": "http://web.archive.org/web/20171206231614/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-08T19:56:05Z",
+        "uri": "http://webarchive.loc.gov/all/20171208195605/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-08T19:56:08Z",
+        "uri": "http://webarchive.loc.gov/all/20171208195608/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-10T17:19:34Z",
+        "uri": "http://web.archive.org/web/20171210171934/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-10T17:19:35Z",
+        "uri": "http://web.archive.org/web/20171210171935/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-11T16:48:58Z",
+        "uri": "http://web.archive.org/web/20171211164858/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-11T16:48:59Z",
+        "uri": "http://web.archive.org/web/20171211164859/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-13T23:27:07Z",
+        "uri": "http://web.archive.org/web/20171213232707/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-13T23:27:08Z",
+        "uri": "http://web.archive.org/web/20171213232708/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-15T14:29:31Z",
+        "uri": "http://webarchive.loc.gov/all/20171215142931/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-15T14:29:34Z",
+        "uri": "http://webarchive.loc.gov/all/20171215142934/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-21T00:10:35Z",
+        "uri": "http://web.archive.org/web/20171221001035/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-21T00:10:37Z",
+        "uri": "http://web.archive.org/web/20171221001037/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-22T02:14:19Z",
+        "uri": "http://webarchive.loc.gov/all/20171222021419/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-22T15:05:28Z",
+        "uri": "http://webarchive.loc.gov/all/20171222150528/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-23T01:11:18Z",
+        "uri": "http://wayback.archive-it.org/all/20171223011118/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-23T01:11:18Z",
+        "uri": "http://web.archive.org/web/20171223011118/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-23T01:11:22Z",
+        "uri": "http://wayback.archive-it.org/all/20171223011122/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-23T01:11:22Z",
+        "uri": "http://web.archive.org/web/20171223011122/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-23T05:21:05Z",
+        "uri": "http://web.archive.org/web/20171223052105/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-25T01:23:24Z",
+        "uri": "http://web.archive.org/web/20171225012324/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-25T01:23:43Z",
+        "uri": "http://web.archive.org/web/20171225012343/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-27T21:27:25Z",
+        "uri": "http://webarchive.loc.gov/all/20171227212725/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-28T16:55:40Z",
+        "uri": "http://web.archive.org/web/20171228165540/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-28T16:55:40Z",
+        "uri": "http://web.archive.org/web/20171228165540/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-29T23:48:20Z",
+        "uri": "http://webarchive.loc.gov/all/20171229234820/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-30T04:00:01Z",
+        "uri": "http://web.archive.org/web/20171230040001/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-30T04:00:02Z",
+        "uri": "http://web.archive.org/web/20171230040002/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-30T06:42:59Z",
+        "uri": "http://web.archive.org/web/20171230064259/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-30T06:43:00Z",
+        "uri": "http://web.archive.org/web/20171230064300/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-31T21:14:49Z",
+        "uri": "http://web.archive.org/web/20171231211449/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2017-12-31T21:14:50Z",
+        "uri": "http://web.archive.org/web/20171231211450/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-04T01:18:05Z",
+        "uri": "http://webarchive.loc.gov/all/20180104011805/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-05T02:54:44Z",
+        "uri": "http://webarchive.loc.gov/all/20180105025444/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-09T14:01:17Z",
+        "uri": "http://web.archive.org/web/20180109140117/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-11T16:07:21Z",
+        "uri": "http://webarchive.loc.gov/all/20180111160721/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-12T04:50:42Z",
+        "uri": "http://webarchive.loc.gov/all/20180112045042/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-17T21:00:20Z",
+        "uri": "http://web.archive.org/web/20180117210020/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-17T21:00:29Z",
+        "uri": "http://web.archive.org/web/20180117210029/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-19T10:46:47Z",
+        "uri": "http://web.archive.org/web/20180119104647/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-19T10:46:48Z",
+        "uri": "http://web.archive.org/web/20180119104648/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-19T21:13:28Z",
+        "uri": "http://webarchive.loc.gov/all/20180119211328/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-22T12:54:45Z",
+        "uri": "http://web.archive.org/web/20180122125445/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-22T12:54:46Z",
+        "uri": "http://web.archive.org/web/20180122125446/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-23T13:06:14Z",
+        "uri": "http://web.archive.org/web/20180123130614/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-23T13:06:18Z",
+        "uri": "http://web.archive.org/web/20180123130618/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-25T17:55:04Z",
+        "uri": "http://webarchive.loc.gov/all/20180125175504/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-01-29T23:14:59Z",
+        "uri": "http://web.archive.org/web/20180129231459/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-01T05:20:31Z",
+        "uri": "http://web.archive.org/web/20180201052031/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-01T05:20:32Z",
+        "uri": "http://web.archive.org/web/20180201052032/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-02T01:55:19Z",
+        "uri": "http://webarchive.loc.gov/all/20180202015519/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-03T02:46:56Z",
+        "uri": "http://webarchive.loc.gov/all/20180203024656/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-03T15:56:56Z",
+        "uri": "http://web.archive.org/web/20180203155656/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-08T07:31:44Z",
+        "uri": "http://web.archive.org/web/20180208073144/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-08T07:31:44Z",
+        "uri": "http://web.archive.org/web/20180208073144/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-09T08:29:16Z",
+        "uri": "http://webarchive.loc.gov/all/20180209082916/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-09T21:15:53Z",
+        "uri": "http://web.archive.org/web/20180209211553/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-12T11:10:48Z",
+        "uri": "http://web.archive.org/web/20180212111048/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-18T12:45:14Z",
+        "uri": "http://web.archive.org/web/20180218124514/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-18T12:45:15Z",
+        "uri": "http://web.archive.org/web/20180218124515/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-18T14:57:54Z",
+        "uri": "http://web.archive.org/web/20180218145754/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-18T14:57:55Z",
+        "uri": "http://web.archive.org/web/20180218145755/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-20T09:22:15Z",
+        "uri": "http://web.archive.org/web/20180220092215/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-20T21:23:39Z",
+        "uri": "http://web.archive.org/web/20180220212339/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-22T16:05:11Z",
+        "uri": "http://wayback.archive-it.org/all/20180222160511/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-22T16:05:11Z",
+        "uri": "http://wayback.archive-it.org/all/20180222160511/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-22T16:05:11Z",
+        "uri": "http://web.archive.org/web/20180222160511/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-22T16:05:11Z",
+        "uri": "http://web.archive.org/web/20180222160511/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-26T04:57:45Z",
+        "uri": "http://wayback.archive-it.org/all/20180226045745/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-02-26T04:57:45Z",
+        "uri": "http://web.archive.org/web/20180226045745/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-03-07T11:28:43Z",
+        "uri": "http://web.archive.org/web/20180307112843/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-03-14T02:36:51Z",
+        "uri": "http://web.archive.org/web/20180314023651/http://www.politico.com:80/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-04-22T16:35:23Z",
+        "uri": "http://web.archive.org/web/20180422163523/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-04-23T14:39:48Z",
+        "uri": "http://web.archive.org/web/20180423143948/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-04-24T14:55:48Z",
+        "uri": "http://web.archive.org/web/20180424145548/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-04-25T15:23:48Z",
+        "uri": "http://web.archive.org/web/20180425152348/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-04-26T16:01:21Z",
+        "uri": "http://web.archive.org/web/20180426160121/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-04-27T16:54:41Z",
+        "uri": "http://web.archive.org/web/20180427165441/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-04-28T18:42:41Z",
+        "uri": "http://web.archive.org/web/20180428184241/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-04-29T17:33:55Z",
+        "uri": "http://web.archive.org/web/20180429173355/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-04-30T18:59:40Z",
+        "uri": "http://web.archive.org/web/20180430185940/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-01T20:52:23Z",
+        "uri": "http://web.archive.org/web/20180501205223/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-02T20:21:46Z",
+        "uri": "http://web.archive.org/web/20180502202146/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-03T05:29:45Z",
+        "uri": "http://wayback.archive-it.org/all/20180503052945/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-03T05:29:45Z",
+        "uri": "http://web.archive.org/web/20180503052945/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-03T22:40:49Z",
+        "uri": "http://web.archive.org/web/20180503224049/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-04T06:02:44Z",
+        "uri": "http://wayback.archive-it.org/all/20180504060244/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-04T06:02:44Z",
+        "uri": "http://web.archive.org/web/20180504060244/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-04T13:21:34Z",
+        "uri": "http://web.archive.org/web/20180504132134/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-04T23:18:13Z",
+        "uri": "http://web.archive.org/web/20180504231813/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-05T06:22:24Z",
+        "uri": "http://wayback.archive-it.org/all/20180505062224/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-05T06:22:24Z",
+        "uri": "http://web.archive.org/web/20180505062224/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-06T04:44:55Z",
+        "uri": "http://wayback.archive-it.org/all/20180506044455/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-06T04:44:55Z",
+        "uri": "http://web.archive.org/web/20180506044455/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-06T21:00:53Z",
+        "uri": "http://web.archive.org/web/20180506210053/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-07T08:38:01Z",
+        "uri": "http://wayback.archive-it.org/all/20180507083801/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-07T08:38:01Z",
+        "uri": "http://web.archive.org/web/20180507083801/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-07T23:04:53Z",
+        "uri": "http://web.archive.org/web/20180507230453/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-08T00:25:23Z",
+        "uri": "http://wayback.archive-it.org/all/20180508002523/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-08T00:25:23Z",
+        "uri": "http://web.archive.org/web/20180508002523/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-09T00:10:07Z",
+        "uri": "http://web.archive.org/web/20180509001007/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-09T03:59:06Z",
+        "uri": "http://wayback.archive-it.org/all/20180509035906/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-09T03:59:06Z",
+        "uri": "http://web.archive.org/web/20180509035906/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-09T23:44:44Z",
+        "uri": "http://web.archive.org/web/20180509234444/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-10T03:46:16Z",
+        "uri": "http://wayback.archive-it.org/all/20180510034616/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-10T03:46:16Z",
+        "uri": "http://web.archive.org/web/20180510034616/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-11T02:13:32Z",
+        "uri": "http://wayback.archive-it.org/all/20180511021332/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-11T02:13:32Z",
+        "uri": "http://web.archive.org/web/20180511021332/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-12T02:56:26Z",
+        "uri": "http://wayback.archive-it.org/all/20180512025626/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-12T02:56:26Z",
+        "uri": "http://web.archive.org/web/20180512025626/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-13T06:23:08Z",
+        "uri": "http://wayback.archive-it.org/all/20180513062308/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-13T06:23:08Z",
+        "uri": "http://web.archive.org/web/20180513062308/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-14T01:27:24Z",
+        "uri": "http://web.archive.org/web/20180514012724/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-14T06:48:19Z",
+        "uri": "http://wayback.archive-it.org/all/20180514064819/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-14T06:48:19Z",
+        "uri": "http://web.archive.org/web/20180514064819/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-15T02:23:49Z",
+        "uri": "http://web.archive.org/web/20180515022349/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-15T04:41:28Z",
+        "uri": "http://wayback.archive-it.org/all/20180515044128/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-15T04:41:28Z",
+        "uri": "http://web.archive.org/web/20180515044128/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-16T04:27:12Z",
+        "uri": "http://wayback.archive-it.org/all/20180516042712/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-16T04:27:12Z",
+        "uri": "http://web.archive.org/web/20180516042712/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-16T08:14:48Z",
+        "uri": "http://web.archive.org/web/20180516081448/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-17T07:28:16Z",
+        "uri": "http://wayback.archive-it.org/all/20180517072816/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-17T07:28:16Z",
+        "uri": "http://web.archive.org/web/20180517072816/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-18T06:59:09Z",
+        "uri": "http://wayback.archive-it.org/all/20180518065909/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-18T06:59:09Z",
+        "uri": "http://web.archive.org/web/20180518065909/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-19T05:16:10Z",
+        "uri": "http://wayback.archive-it.org/all/20180519051610/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-19T05:16:10Z",
+        "uri": "http://web.archive.org/web/20180519051610/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-20T05:28:07Z",
+        "uri": "http://wayback.archive-it.org/all/20180520052807/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-20T05:28:07Z",
+        "uri": "http://web.archive.org/web/20180520052807/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-21T11:31:29Z",
+        "uri": "http://wayback.archive-it.org/all/20180521113129/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-21T11:31:29Z",
+        "uri": "http://web.archive.org/web/20180521113129/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-22T03:10:55Z",
+        "uri": "http://web.archive.org/web/20180522031055/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-22T05:25:26Z",
+        "uri": "http://wayback.archive-it.org/all/20180522052526/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-22T05:25:26Z",
+        "uri": "http://web.archive.org/web/20180522052526/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-23T05:21:57Z",
+        "uri": "http://wayback.archive-it.org/all/20180523052157/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-23T05:21:57Z",
+        "uri": "http://web.archive.org/web/20180523052157/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-24T04:31:49Z",
+        "uri": "http://wayback.archive-it.org/all/20180524043149/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-24T04:31:49Z",
+        "uri": "http://web.archive.org/web/20180524043149/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-25T05:03:16Z",
+        "uri": "http://wayback.archive-it.org/all/20180525050316/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-25T05:03:16Z",
+        "uri": "http://web.archive.org/web/20180525050316/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-26T04:46:17Z",
+        "uri": "http://wayback.archive-it.org/all/20180526044617/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-26T04:46:17Z",
+        "uri": "http://web.archive.org/web/20180526044617/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-27T02:47:33Z",
+        "uri": "http://wayback.archive-it.org/all/20180527024733/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-27T02:47:33Z",
+        "uri": "http://web.archive.org/web/20180527024733/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-28T02:06:56Z",
+        "uri": "http://wayback.archive-it.org/all/20180528020656/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-28T02:06:56Z",
+        "uri": "http://web.archive.org/web/20180528020656/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-29T22:26:30Z",
+        "uri": "http://wayback.archive-it.org/all/20180529222630/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-29T22:26:30Z",
+        "uri": "http://web.archive.org/web/20180529222630/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-30T04:45:41Z",
+        "uri": "http://wayback.archive-it.org/all/20180530044541/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-30T04:45:41Z",
+        "uri": "http://web.archive.org/web/20180530044541/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-31T06:59:33Z",
+        "uri": "http://wayback.archive-it.org/all/20180531065933/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-05-31T06:59:33Z",
+        "uri": "http://web.archive.org/web/20180531065933/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-06-01T08:51:56Z",
+        "uri": "http://web.archive.org/web/20180601085156/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-06-07T19:05:42Z",
+        "uri": "http://web.archive.org/web/20180607190542/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-06-07T19:05:43Z",
+        "uri": "http://web.archive.org/web/20180607190543/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-06-08T17:40:37Z",
+        "uri": "http://web.archive.org/web/20180608174037/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-06-08T17:40:38Z",
+        "uri": "http://web.archive.org/web/20180608174038/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-06-12T16:24:56Z",
+        "uri": "http://web.archive.org/web/20180612162456/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-06-12T18:47:48Z",
+        "uri": "http://web.archive.org/web/20180612184748/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-06-29T06:35:22Z",
+        "uri": "http://wayback.archive-it.org/all/20180629063522/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-06-29T06:35:22Z",
+        "uri": "http://web.archive.org/web/20180629063522/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-06-30T00:59:37Z",
+        "uri": "http://wayback.archive-it.org/all/20180630005937/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-06-30T00:59:37Z",
+        "uri": "http://web.archive.org/web/20180630005937/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-07-01T04:39:14Z",
+        "uri": "http://wayback.archive-it.org/all/20180701043914/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-07-01T04:39:14Z",
+        "uri": "http://web.archive.org/web/20180701043914/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-07-02T07:30:04Z",
+        "uri": "http://wayback.archive-it.org/all/20180702073004/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-07-02T07:30:04Z",
+        "uri": "http://web.archive.org/web/20180702073004/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-07-04T00:25:32Z",
+        "uri": "http://web.archive.org/web/20180704002532/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-07-24T17:32:46Z",
+        "uri": "http://web.archive.org/web/20180724173246/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-08-07T01:04:32Z",
+        "uri": "http://web.archive.org/web/20180807010432/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-08-22T14:31:23Z",
+        "uri": "http://web.archive.org/web/20180822143123/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-08-22T14:31:24Z",
+        "uri": "http://web.archive.org/web/20180822143124/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-09-02T12:53:51Z",
+        "uri": "http://web.archive.org/web/20180902125351/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-09-02T12:53:52Z",
+        "uri": "http://web.archive.org/web/20180902125352/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-09-06T08:14:19Z",
+        "uri": "http://web.archive.org/web/20180906081419/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-10-04T12:41:35Z",
+        "uri": "http://wayback.archive-it.org/all/20181004124135/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-10-04T12:41:35Z",
+        "uri": "http://web.archive.org/web/20181004124135/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-10-17T18:38:54Z",
+        "uri": "http://web.archive.org/web/20181017183854/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-10-17T18:38:55Z",
+        "uri": "http://web.archive.org/web/20181017183855/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-11-02T14:34:59Z",
+        "uri": "http://web.archive.org/web/20181102143459/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-11-02T14:34:59Z",
+        "uri": "http://web.archive.org/web/20181102143459/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-11-09T16:06:33Z",
+        "uri": "http://web.archive.org/web/20181109160633/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-11-09T16:06:34Z",
+        "uri": "http://web.archive.org/web/20181109160634/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-11-28T23:51:14Z",
+        "uri": "http://web.archive.org/web/20181128235114/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-11-28T23:51:19Z",
+        "uri": "http://web.archive.org/web/20181128235119/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-11-30T08:34:28Z",
+        "uri": "http://web.archive.org/web/20181130083428/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-11-30T08:34:29Z",
+        "uri": "http://web.archive.org/web/20181130083429/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-12-02T08:15:27Z",
+        "uri": "http://web.archive.org/web/20181202081527/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-12-03T09:18:47Z",
+        "uri": "http://web.archive.org/web/20181203091847/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-12-08T00:18:43Z",
+        "uri": "http://wayback.archive-it.org/all/20181208001843/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-12-08T00:18:43Z",
+        "uri": "http://web.archive.org/web/20181208001843/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-12-08T18:20:15Z",
+        "uri": "http://web.archive.org/web/20181208182015/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2018-12-31T16:20:23Z",
+        "uri": "http://web.archive.org/web/20181231162023/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2019-01-18T12:13:31Z",
+        "uri": "http://web.archive.org/web/20190118121331/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2019-01-18T12:13:32Z",
+        "uri": "http://web.archive.org/web/20190118121332/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2019-02-01T01:11:54Z",
+        "uri": "http://web.archive.org/web/20190201011154/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2019-02-06T18:41:43Z",
+        "uri": "http://web.archive.org/web/20190206184143/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2019-02-06T18:41:48Z",
+        "uri": "http://web.archive.org/web/20190206184148/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2019-02-10T22:26:25Z",
+        "uri": "http://web.archive.org/web/20190210222625/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      },
+      {
+        "datetime": "2019-02-10T22:26:25Z",
+        "uri": "http://web.archive.org/web/20190210222625/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+      }
+    ],
+    "first": {
+      "datetime": "2016-05-23T10:12:27Z",
+      "uri": "http://web.archive.org/web/20160523101227/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+    },
+    "last": {
+      "datetime": "2019-02-10T22:26:25Z",
+      "uri": "http://web.archive.org/web/20190210222625/http://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436",
+    "json_format": "http://localhost:1208/timemap/json/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.politico.com/story/2016/05/donald-trump-climate-change-golf-course-223436"
+}

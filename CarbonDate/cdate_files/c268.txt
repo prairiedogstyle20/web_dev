@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.sponichi.co.jp/sports/news/2019/02/14/kiji/20190213s00092000524000c.html",
+  "uri": "https://www.sponichi.co.jp/sports/news/2019/02/14/kiji/20190213s00092000524000c.html",
+  "estimated-creation-date": "2019-02-13T20:30:02",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-14T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214143351/https://www.sponichi.co.jp/sports/news/2019/02/14/kiji/20190213s00092000524000c.html",
+      "memento-datetime": "2019-02-14T14:33:51",
+      "memento-pubdate": "2019-02-14T23:59:59",
+      "earliest": "2019-02-14T14:33:51"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:02"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

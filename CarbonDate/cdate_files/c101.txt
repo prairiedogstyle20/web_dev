@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/",
+  "uri": "https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/",
+  "estimated-creation-date": "2019-02-08T16:45:04",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190208164504/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/",
+      "memento-datetime": "2019-02-08T16:45:04",
+      "memento-pubdate": "",
+      "earliest": "2019-02-08T16:45:04"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190208215323/https://www.whitehouse.gov/briefings-statements/alex-azar-team-trump-bringing-drug-prices/",
+      "memento-datetime": "2019-02-08T21:53:23",
+      "memento-pubdate": "",
+      "earliest": "2019-02-08T21:53:23"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-08T20:49:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

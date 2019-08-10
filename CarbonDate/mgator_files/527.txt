@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.palmerreport.com/analysis/hillary-clinton-blowtorch-donald-trump/15938/",
+  "self": "http://localhost:1208/timemap/json/https://www.palmerreport.com/analysis/hillary-clinton-blowtorch-donald-trump/15938/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T11:15:44Z",
+        "uri": "http://web.archive.org/web/20190214111544/https://www.palmerreport.com/analysis/hillary-clinton-blowtorch-donald-trump/15938/"
+      },
+      {
+        "datetime": "2019-02-14T11:15:44Z",
+        "uri": "http://web.archive.org/web/20190214111544/https://www.palmerreport.com/analysis/hillary-clinton-blowtorch-donald-trump/15938/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T11:15:44Z",
+      "uri": "http://web.archive.org/web/20190214111544/https://www.palmerreport.com/analysis/hillary-clinton-blowtorch-donald-trump/15938/"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:15:44Z",
+      "uri": "http://web.archive.org/web/20190214111544/https://www.palmerreport.com/analysis/hillary-clinton-blowtorch-donald-trump/15938/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.palmerreport.com/analysis/hillary-clinton-blowtorch-donald-trump/15938/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.palmerreport.com/analysis/hillary-clinton-blowtorch-donald-trump/15938/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.palmerreport.com/analysis/hillary-clinton-blowtorch-donald-trump/15938/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.palmerreport.com/analysis/hillary-clinton-blowtorch-donald-trump/15938/"
+}

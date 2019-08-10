@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/http://www.ronpaulinstitute.org/archives/featured-articles/2019/february/03/iraq-redux-trumps-venezuela-regime-change-another-pack-of-lies/",
+  "uri": "http://www.ronpaulinstitute.org/archives/featured-articles/2019/february/03/iraq-redux-trumps-venezuela-regime-change-another-pack-of-lies/",
+  "estimated-creation-date": "2019-02-04T02:54:24",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190204025424/http://www.ronpaulinstitute.org/archives/featured-articles/2019/february/03/iraq-redux-trumps-venezuela-regime-change-another-pack-of-lies/",
+      "memento-datetime": "2019-02-04T02:54:24",
+      "memento-pubdate": "",
+      "earliest": "2019-02-04T02:54:24"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190204162356/http://ronpaulinstitute.org/archives/featured-articles/2019/february/03/iraq-redux-trumps-venezuela-regime-change-another-pack-of-lies/",
+      "memento-datetime": "2019-02-04T16:23:56",
+      "memento-pubdate": "",
+      "earliest": "2019-02-04T16:23:56"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T20:45:43"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

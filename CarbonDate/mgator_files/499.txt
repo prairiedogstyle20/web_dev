@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://www.nytimes.com/2019/02/12/us/politics/trump-omar-anti-semitism.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/12/us/politics/trump-omar-anti-semitism.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T04:20:20Z",
+        "uri": "http://web.archive.org/web/20190213042020/https://www.nytimes.com/2019/02/12/us/politics/trump-omar-anti-semitism.html"
+      },
+      {
+        "datetime": "2019-02-13T07:19:36Z",
+        "uri": "http://web.archive.org/web/20190213071936/https://www.nytimes.com/2019/02/12/us/politics/trump-omar-anti-semitism.html"
+      },
+      {
+        "datetime": "2019-02-13T12:26:39Z",
+        "uri": "http://web.archive.org/web/20190213122639/https://www.nytimes.com/2019/02/12/us/politics/trump-omar-anti-semitism.html"
+      },
+      {
+        "datetime": "2019-02-13T21:32:06Z",
+        "uri": "http://web.archive.org/web/20190213213206/https://www.nytimes.com/2019/02/12/us/politics/trump-omar-anti-semitism.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T04:20:20Z",
+      "uri": "http://web.archive.org/web/20190213042020/https://www.nytimes.com/2019/02/12/us/politics/trump-omar-anti-semitism.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T21:32:06Z",
+      "uri": "http://web.archive.org/web/20190213213206/https://www.nytimes.com/2019/02/12/us/politics/trump-omar-anti-semitism.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2019/02/12/us/politics/trump-omar-anti-semitism.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/12/us/politics/trump-omar-anti-semitism.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2019/02/12/us/politics/trump-omar-anti-semitism.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2019/02/12/us/politics/trump-omar-anti-semitism.html"
+}

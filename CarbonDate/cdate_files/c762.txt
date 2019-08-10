@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://sports.abs-cbn.com/uaap/news/2019/02/13/uaap-season-81-dawn-new-era-lady-eagles-53336",
+  "uri": "https://sports.abs-cbn.com/uaap/news/2019/02/13/uaap-season-81-dawn-new-era-lady-eagles-53336",
+  "estimated-creation-date": "2019-02-13T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214142910/https://sports.abs-cbn.com/uaap/news/2019/02/13/uaap-season-81-dawn-new-era-lady-eagles-53336",
+      "memento-datetime": "2019-02-14T14:29:10",
+      "memento-pubdate": "2019-02-13T23:59:59",
+      "earliest": "2019-02-13T23:59:59"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T05:37:33"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

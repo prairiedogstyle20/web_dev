@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.chicksonright.com/blog/2019/02/12/senate-intelligence-committee-has-found-no-evidence-of-trump-russia-collusion/",
+  "uri": "https://www.chicksonright.com/blog/2019/02/12/senate-intelligence-committee-has-found-no-evidence-of-trump-russia-collusion/",
+  "estimated-creation-date": "2019-02-12T11:41:58",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T11:41:58"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213124108/https://www.chicksonright.com/blog/2019/02/12/senate-intelligence-committee-has-found-no-evidence-of-trump-russia-collusion/",
+      "memento-datetime": "2019-02-13T12:41:08",
+      "memento-pubdate": "2019-02-12T11:41:58",
+      "earliest": "2019-02-12T11:41:58"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T16:41:58"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

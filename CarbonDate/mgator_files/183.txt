@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://www.foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump",
+  "self": "http://localhost:1208/timemap/json/https://www.foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T15:57:54Z",
+        "uri": "http://web.archive.org/web/20190212155754/https://www.foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump"
+      },
+      {
+        "datetime": "2019-02-12T16:04:51Z",
+        "uri": "http://web.archive.org/web/20190212160451/https://www.foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump"
+      },
+      {
+        "datetime": "2019-02-12T17:10:28Z",
+        "uri": "http://web.archive.org/web/20190212171028/https://www.foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump"
+      },
+      {
+        "datetime": "2019-02-12T18:50:56Z",
+        "uri": "http://web.archive.org/web/20190212185056/https://www.foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump"
+      },
+      {
+        "datetime": "2019-02-13T00:19:29Z",
+        "uri": "http://web.archive.org/web/20190213001929/https://www.foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump"
+      },
+      {
+        "datetime": "2019-02-13T00:19:30Z",
+        "uri": "http://web.archive.org/web/20190213001930/http://foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T15:57:54Z",
+      "uri": "http://web.archive.org/web/20190212155754/https://www.foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump"
+    },
+    "last": {
+      "datetime": "2019-02-13T00:19:30Z",
+      "uri": "http://web.archive.org/web/20190213001930/http://foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump",
+    "json_format": "http://localhost:1208/timemap/json/https://www.foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.foxnews.com/opinion/dan-bongino-democrats-could-care-less-about-immigration-they-just-want-to-score-a-victory-over-trump"
+}

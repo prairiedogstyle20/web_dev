@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://www.usatoday.com/story/news/world/2018/12/10/mexico-pump-30-billion-into-central-america-halt-migrant-caravan-donald-trump-lopez-obrador/2272077002/",
+  "self": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/news/world/2018/12/10/mexico-pump-30-billion-into-central-america-halt-migrant-caravan-donald-trump-lopez-obrador/2272077002/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-12-11T04:41:09Z",
+        "uri": "http://web.archive.org/web/20181211044109/https://www.usatoday.com/story/news/world/2018/12/10/mexico-pump-30-billion-into-central-america-halt-migrant-caravan-donald-trump-lopez-obrador/2272077002/"
+      },
+      {
+        "datetime": "2018-12-11T09:13:51Z",
+        "uri": "http://web.archive.org/web/20181211091351/https://www.usatoday.com/story/news/world/2018/12/10/mexico-pump-30-billion-into-central-america-halt-migrant-caravan-donald-trump-lopez-obrador/2272077002/"
+      },
+      {
+        "datetime": "2018-12-11T10:06:21Z",
+        "uri": "http://web.archive.org/web/20181211100621/https://www.usatoday.com/story/news/world/2018/12/10/mexico-pump-30-billion-into-central-america-halt-migrant-caravan-donald-trump-lopez-obrador/2272077002/"
+      },
+      {
+        "datetime": "2018-12-11T15:48:58Z",
+        "uri": "http://web.archive.org/web/20181211154858/https://www.usatoday.com/story/news/world/2018/12/10/mexico-pump-30-billion-into-central-america-halt-migrant-caravan-donald-trump-lopez-obrador/2272077002/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-12-11T04:41:09Z",
+      "uri": "http://web.archive.org/web/20181211044109/https://www.usatoday.com/story/news/world/2018/12/10/mexico-pump-30-billion-into-central-america-halt-migrant-caravan-donald-trump-lopez-obrador/2272077002/"
+    },
+    "last": {
+      "datetime": "2018-12-11T15:48:58Z",
+      "uri": "http://web.archive.org/web/20181211154858/https://www.usatoday.com/story/news/world/2018/12/10/mexico-pump-30-billion-into-central-america-halt-migrant-caravan-donald-trump-lopez-obrador/2272077002/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.usatoday.com/story/news/world/2018/12/10/mexico-pump-30-billion-into-central-america-halt-migrant-caravan-donald-trump-lopez-obrador/2272077002/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.usatoday.com/story/news/world/2018/12/10/mexico-pump-30-billion-into-central-america-halt-migrant-caravan-donald-trump-lopez-obrador/2272077002/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.usatoday.com/story/news/world/2018/12/10/mexico-pump-30-billion-into-central-america-halt-migrant-caravan-donald-trump-lopez-obrador/2272077002/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.usatoday.com/story/news/world/2018/12/10/mexico-pump-30-billion-into-central-america-halt-migrant-caravan-donald-trump-lopez-obrador/2272077002/"
+}

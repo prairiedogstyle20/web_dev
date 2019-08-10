@@ -1,0 +1,235 @@
+53
+{
+  "original_uri": "https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/",
+  "self": "http://localhost:1208/timemap/json/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-12-10T18:13:22Z",
+        "uri": "http://web.archive.org/web/20181210181322/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T18:17:30Z",
+        "uri": "http://web.archive.org/web/20181210181730/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T18:41:32Z",
+        "uri": "http://archive.md/20181210184132/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T18:45:46Z",
+        "uri": "http://web.archive.org/web/20181210184546/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T18:55:22Z",
+        "uri": "http://web.archive.org/web/20181210185522/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T19:33:18Z",
+        "uri": "http://web.archive.org/web/20181210193318/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T20:06:09Z",
+        "uri": "http://web.archive.org/web/20181210200609/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T20:43:34Z",
+        "uri": "http://web.archive.org/web/20181210204334/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T21:21:32Z",
+        "uri": "http://web.archive.org/web/20181210212132/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T21:24:15Z",
+        "uri": "http://archive.md/20181210212415/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T21:47:01Z",
+        "uri": "http://wayback.archive-it.org/all/20181210214701/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T21:47:01Z",
+        "uri": "http://web.archive.org/web/20181210214701/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T22:00:25Z",
+        "uri": "http://web.archive.org/web/20181210220025/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T22:37:51Z",
+        "uri": "http://web.archive.org/web/20181210223751/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T23:16:52Z",
+        "uri": "http://web.archive.org/web/20181210231652/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T23:32:21Z",
+        "uri": "http://web.archive.org/web/20181210233221/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-10T23:52:08Z",
+        "uri": "http://web.archive.org/web/20181210235208/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-11T00:27:22Z",
+        "uri": "http://web.archive.org/web/20181211002722/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-11T01:02:56Z",
+        "uri": "http://web.archive.org/web/20181211010256/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-11T01:38:29Z",
+        "uri": "http://web.archive.org/web/20181211013829/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-11T02:14:07Z",
+        "uri": "http://web.archive.org/web/20181211021407/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-11T02:49:30Z",
+        "uri": "http://web.archive.org/web/20181211024930/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-11T03:24:37Z",
+        "uri": "http://web.archive.org/web/20181211032437/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-11T03:59:48Z",
+        "uri": "http://web.archive.org/web/20181211035948/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-11T04:34:45Z",
+        "uri": "http://web.archive.org/web/20181211043445/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-11T09:00:50Z",
+        "uri": "http://wayback.archive-it.org/all/20181211090050/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-11T09:00:50Z",
+        "uri": "http://web.archive.org/web/20181211090050/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-11T13:23:12Z",
+        "uri": "http://web.archive.org/web/20181211132312/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-12T13:50:54Z",
+        "uri": "http://wayback.archive-it.org/all/20181212135054/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-12T13:50:54Z",
+        "uri": "http://web.archive.org/web/20181212135054/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-12T22:37:22Z",
+        "uri": "http://wayback.archive-it.org/all/20181212223722/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-12T22:37:22Z",
+        "uri": "http://web.archive.org/web/20181212223722/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-13T02:35:57Z",
+        "uri": "http://wayback.archive-it.org/all/20181213023557/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-13T02:35:57Z",
+        "uri": "http://web.archive.org/web/20181213023557/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-13T15:27:01Z",
+        "uri": "http://wayback.archive-it.org/all/20181213152701/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-13T15:27:01Z",
+        "uri": "http://web.archive.org/web/20181213152701/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-13T15:29:13Z",
+        "uri": "http://web.archive.org/web/20181213152913/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-13T21:59:33Z",
+        "uri": "http://wayback.archive-it.org/all/20181213215933/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-13T21:59:33Z",
+        "uri": "http://web.archive.org/web/20181213215933/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-14T06:28:16Z",
+        "uri": "http://web.archive.org/web/20181214062816/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-15T18:18:56Z",
+        "uri": "http://web.archive.org/web/20181215181856/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-21T04:18:40Z",
+        "uri": "http://web.archive.org/web/20181221041840/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2018-12-30T01:28:48Z",
+        "uri": "http://web.archive.org/web/20181230012848/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2019-01-03T10:48:34Z",
+        "uri": "http://web.archive.org/web/20190103104834/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2019-01-04T03:48:09Z",
+        "uri": "http://web.archive.org/web/20190104034809/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2019-01-04T06:40:39Z",
+        "uri": "http://web.archive.org/web/20190104064039/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2019-01-18T04:32:30Z",
+        "uri": "http://wayback.archive-it.org/all/20190118043230/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2019-01-18T04:32:30Z",
+        "uri": "http://web.archive.org/web/20190118043230/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2019-01-19T03:55:19Z",
+        "uri": "http://wayback.archive-it.org/all/20190119035519/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2019-01-19T03:55:19Z",
+        "uri": "http://web.archive.org/web/20190119035519/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2019-02-12T11:08:42Z",
+        "uri": "http://web.archive.org/web/20190212110842/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2019-02-12T13:29:47Z",
+        "uri": "http://web.archive.org/web/20190212132947/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      },
+      {
+        "datetime": "2019-02-12T14:19:03Z",
+        "uri": "http://web.archive.org/web/20190212141903/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-12-10T18:13:22Z",
+      "uri": "http://web.archive.org/web/20181210181322/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+    },
+    "last": {
+      "datetime": "2019-02-12T14:19:03Z",
+      "uri": "http://web.archive.org/web/20190212141903/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/",
+    "json_format": "http://localhost:1208/timemap/json/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://observer.com/2018/12/president-trump-really-may-go-to-jail-for-the-rest-of-his-life/"
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://thehill.com/homenews/house/429544-ocasio-cortez-swipes-back-at-trump-over-green-new-deal",
+  "self": "http://localhost:1208/timemap/json/https://thehill.com/homenews/house/429544-ocasio-cortez-swipes-back-at-trump-over-green-new-deal",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T16:52:45Z",
+        "uri": "http://web.archive.org/web/20190212165245/https://thehill.com/homenews/house/429544-ocasio-cortez-swipes-back-at-trump-over-green-new-deal"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T16:52:45Z",
+      "uri": "http://web.archive.org/web/20190212165245/https://thehill.com/homenews/house/429544-ocasio-cortez-swipes-back-at-trump-over-green-new-deal"
+    },
+    "last": {
+      "datetime": "2019-02-12T16:52:45Z",
+      "uri": "http://web.archive.org/web/20190212165245/https://thehill.com/homenews/house/429544-ocasio-cortez-swipes-back-at-trump-over-green-new-deal"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://thehill.com/homenews/house/429544-ocasio-cortez-swipes-back-at-trump-over-green-new-deal",
+    "json_format": "http://localhost:1208/timemap/json/https://thehill.com/homenews/house/429544-ocasio-cortez-swipes-back-at-trump-over-green-new-deal",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://thehill.com/homenews/house/429544-ocasio-cortez-swipes-back-at-trump-over-green-new-deal"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://thehill.com/homenews/house/429544-ocasio-cortez-swipes-back-at-trump-over-green-new-deal"
+}

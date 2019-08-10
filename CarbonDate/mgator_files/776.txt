@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html",
+  "self": "http://localhost:1208/timemap/json/https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T00:10:49Z",
+        "uri": "http://web.archive.org/web/20190213001049/https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html"
+      },
+      {
+        "datetime": "2019-02-13T00:10:55Z",
+        "uri": "http://archive.md/20190213001055/https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html"
+      },
+      {
+        "datetime": "2019-02-13T04:51:27Z",
+        "uri": "http://web.archive.org/web/20190213045127/https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html"
+      },
+      {
+        "datetime": "2019-02-13T10:46:36Z",
+        "uri": "http://web.archive.org/web/20190213104636/https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html"
+      },
+      {
+        "datetime": "2019-02-13T12:21:19Z",
+        "uri": "http://web.archive.org/web/20190213122119/https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T00:10:49Z",
+      "uri": "http://web.archive.org/web/20190213001049/https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:21:19Z",
+      "uri": "http://web.archive.org/web/20190213122119/https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.sponichi.co.jp/sports/news/2019/02/13/kiji/20190213s00092000065000c.html"
+}

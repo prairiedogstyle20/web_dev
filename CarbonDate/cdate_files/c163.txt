@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/https://www.factcheck.org/2019/01/trump-wrong-about-wall-effect-in-el-paso/",
+  "uri": "https://www.factcheck.org/2019/01/trump-wrong-about-wall-effect-in-el-paso/",
+  "estimated-creation-date": "2019-01-18T22:54:56",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org",
+    "wayback.archive-it.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-01-18T22:54:56"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190120070305/https://www.factcheck.org/2019/01/trump-wrong-about-wall-effect-in-el-paso/",
+      "memento-datetime": "2019-01-20T01:30:24",
+      "memento-pubdate": "2019-01-18T22:54:56",
+      "earliest": "2019-01-18T22:54:56"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190121012036/https://www.factcheck.org/2019/01/trump-wrong-about-wall-effect-in-el-paso/",
+      "memento-datetime": "2019-01-20T21:30:21",
+      "memento-pubdate": "2019-01-18T22:54:56",
+      "earliest": "2019-01-18T22:54:56"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190131233649/https://www.factcheck.org/2019/01/trump-wrong-about-wall-effect-in-el-paso/",
+      "memento-datetime": "2019-01-31T23:36:49",
+      "memento-pubdate": "2019-01-31T23:36:49",
+      "earliest": "2019-01-31T23:36:49"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T15:08:51"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

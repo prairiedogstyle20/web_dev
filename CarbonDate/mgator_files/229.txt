@@ -1,0 +1,159 @@
+34
+{
+  "original_uri": "http://en.vogue.me/culture/nike-pro-hijab/",
+  "self": "http://localhost:1208/timemap/json/http://en.vogue.me/culture/nike-pro-hijab/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-03-07T21:23:46Z",
+        "uri": "http://archive.md/20170307212346/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-03-08T07:10:33Z",
+        "uri": "http://web.archive.org/web/20170308071033/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-03-11T06:01:33Z",
+        "uri": "http://web.archive.org/web/20170311060133/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-04-07T02:23:26Z",
+        "uri": "http://webarchive.loc.gov/all/20170407022326/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-06T05:50:52Z",
+        "uri": "http://web.archive.org/web/20170506055052/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-07T08:10:11Z",
+        "uri": "http://web.archive.org/web/20170507081011/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-17T02:10:30Z",
+        "uri": "http://web.archive.org/web/20170517021030/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-22T06:31:50Z",
+        "uri": "http://web.archive.org/web/20170522063150/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-23T02:53:33Z",
+        "uri": "http://web.archive.org/web/20170523025333/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-26T13:26:50Z",
+        "uri": "http://web.archive.org/web/20170526132650/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-26T13:26:53Z",
+        "uri": "http://web.archive.org/web/20170526132653/https://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-27T02:50:33Z",
+        "uri": "http://web.archive.org/web/20170527025033/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-27T02:50:36Z",
+        "uri": "http://web.archive.org/web/20170527025036/https://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-29T11:10:07Z",
+        "uri": "http://web.archive.org/web/20170529111007/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-29T11:10:11Z",
+        "uri": "http://web.archive.org/web/20170529111011/https://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-30T04:36:57Z",
+        "uri": "http://web.archive.org/web/20170530043657/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-05-30T04:36:59Z",
+        "uri": "http://web.archive.org/web/20170530043659/https://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-06-09T08:18:12Z",
+        "uri": "http://web.archive.org/web/20170609081812/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-06-09T08:18:15Z",
+        "uri": "http://web.archive.org/web/20170609081815/https://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-06-12T13:07:53Z",
+        "uri": "http://web.archive.org/web/20170612130753/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-06-12T13:07:56Z",
+        "uri": "http://web.archive.org/web/20170612130756/https://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-07-15T04:58:41Z",
+        "uri": "http://web.archive.org/web/20170715045841/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-07-15T04:58:44Z",
+        "uri": "http://web.archive.org/web/20170715045844/https://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-08-10T06:15:29Z",
+        "uri": "http://web.archive.org/web/20170810061529/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-08-10T06:15:31Z",
+        "uri": "http://web.archive.org/web/20170810061531/https://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-08-15T08:24:45Z",
+        "uri": "http://web.archive.org/web/20170815082445/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-08-15T08:24:47Z",
+        "uri": "http://web.archive.org/web/20170815082447/https://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-09-16T21:17:36Z",
+        "uri": "http://web.archive.org/web/20170916211736/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-09-16T21:17:38Z",
+        "uri": "http://web.archive.org/web/20170916211738/https://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-09-16T22:29:58Z",
+        "uri": "http://web.archive.org/web/20170916222958/https://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-09-29T02:38:27Z",
+        "uri": "http://webarchive.loc.gov/all/20170929023827/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2017-09-29T02:38:32Z",
+        "uri": "http://webarchive.loc.gov/all/20170929023832/https://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2018-10-27T19:31:38Z",
+        "uri": "http://web.archive.org/web/20181027193138/http://en.vogue.me/culture/nike-pro-hijab/"
+      },
+      {
+        "datetime": "2019-02-07T23:35:16Z",
+        "uri": "http://web.archive.org/web/20190207233516/https://en.vogue.me/culture/nike-pro-hijab/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-03-07T21:23:46Z",
+      "uri": "http://archive.md/20170307212346/http://en.vogue.me/culture/nike-pro-hijab/"
+    },
+    "last": {
+      "datetime": "2019-02-07T23:35:16Z",
+      "uri": "http://web.archive.org/web/20190207233516/https://en.vogue.me/culture/nike-pro-hijab/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://en.vogue.me/culture/nike-pro-hijab/",
+    "json_format": "http://localhost:1208/timemap/json/http://en.vogue.me/culture/nike-pro-hijab/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://en.vogue.me/culture/nike-pro-hijab/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://en.vogue.me/culture/nike-pro-hijab/"
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news",
+  "uri": "https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news",
+  "estimated-creation-date": "2019-02-13T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:25:20"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213123734/https://www.newsbusters.org/blogs/culture/lindsay-kornick/2019/02/13/roswells-otherworldly-obsession-trump-and-fake-news",
+      "memento-datetime": "2019-02-13T12:26:24",
+      "memento-pubdate": "2019-02-13T23:59:59",
+      "earliest": "2019-02-13T12:26:24"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:38:04"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

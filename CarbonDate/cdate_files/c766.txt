@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.independent.co.uk/news/uk/crime/irish-sports-star-arrested-rape-investigation-police-who-is-it-handed-himself-in-dublin-hotel-a8734356.html",
+  "uri": "https://www.independent.co.uk/news/uk/crime/irish-sports-star-arrested-rape-investigation-police-who-is-it-handed-himself-in-dublin-hotel-a8734356.html",
+  "estimated-creation-date": "2019-01-18T12:17:40",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-01-18T12:17:40"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T18:42:52"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

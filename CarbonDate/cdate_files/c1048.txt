@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/",
+  "uri": "https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/",
+  "estimated-creation-date": "2019-01-31T21:13:31",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190131211331/https://www.oann.com/president-trump-a-wall-is-a-wall-it-is-getting-done-one-way-or-the-other/",
+      "memento-datetime": "2019-01-31T21:13:31",
+      "memento-pubdate": "",
+      "earliest": "2019-01-31T21:13:31"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T01:17:36"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

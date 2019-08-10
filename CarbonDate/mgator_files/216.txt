@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/",
+  "self": "http://localhost:1208/timemap/json/https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T02:47:52Z",
+        "uri": "http://web.archive.org/web/20190212024752/https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/"
+      },
+      {
+        "datetime": "2019-02-12T18:07:46Z",
+        "uri": "http://web.archive.org/web/20190212180746/https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T02:47:52Z",
+      "uri": "http://web.archive.org/web/20190212024752/https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/"
+    },
+    "last": {
+      "datetime": "2019-02-12T18:07:46Z",
+      "uri": "http://web.archive.org/web/20190212180746/https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/",
+    "json_format": "http://localhost:1208/timemap/json/https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://dailycaller.com/2019/02/11/ninth-circuit-trump-border-wall/"
+}

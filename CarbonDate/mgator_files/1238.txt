@@ -1,0 +1,59 @@
+9
+{
+  "original_uri": "https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html",
+  "self": "http://localhost:1208/timemap/json/https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-11T18:55:50Z",
+        "uri": "http://web.archive.org/web/20190211185550/http://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+      },
+      {
+        "datetime": "2019-02-11T23:17:15Z",
+        "uri": "http://web.archive.org/web/20190211231715/https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+      },
+      {
+        "datetime": "2019-02-12T02:01:48Z",
+        "uri": "http://web.archive.org/web/20190212020148/https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+      },
+      {
+        "datetime": "2019-02-12T03:38:28Z",
+        "uri": "http://web.archive.org/web/20190212033828/https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+      },
+      {
+        "datetime": "2019-02-12T03:56:33Z",
+        "uri": "http://web.archive.org/web/20190212035633/http://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+      },
+      {
+        "datetime": "2019-02-12T22:22:01Z",
+        "uri": "http://web.archive.org/web/20190212222201/https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+      },
+      {
+        "datetime": "2019-02-13T05:16:34Z",
+        "uri": "http://web.archive.org/web/20190213051634/https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+      },
+      {
+        "datetime": "2019-02-13T05:25:46Z",
+        "uri": "http://web.archive.org/web/20190213052546/http://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+      },
+      {
+        "datetime": "2019-02-14T05:34:48Z",
+        "uri": "http://web.archive.org/web/20190214053448/https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-11T18:55:50Z",
+      "uri": "http://web.archive.org/web/20190211185550/http://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T05:34:48Z",
+      "uri": "http://web.archive.org/web/20190214053448/https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.chicagotribune.com/sports/college/ct-spt-cb-northwestern-hunter-johnson-20190211-story.html"
+}

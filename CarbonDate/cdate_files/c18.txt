@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/",
+  "uri": "https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/",
+  "estimated-creation-date": "2019-02-12T14:52:08",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T14:52:08"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213071208/https://truepundit.com/foxs-napolitano-says-bezos-enquirer-feud-could-spell-doom-for-trump-bad-news-for-the-president/",
+      "memento-datetime": "2019-02-13T07:12:08",
+      "memento-pubdate": "2019-02-12T14:52:08",
+      "earliest": "2019-02-12T14:52:08"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T14:53:54"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://168ora.hu/itthon/megtalaltak-a-titkos-kapcsolatot-orban-viktor-es-donald-trump-kozott-163531",
+  "uri": "https://168ora.hu/itthon/megtalaltak-a-titkos-kapcsolatot-orban-viktor-es-donald-trump-kozott-163531",
+  "estimated-creation-date": "2019-02-13T07:34:50",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214141852/https://168ora.hu/itthon/megtalaltak-a-titkos-kapcsolatot-orban-viktor-es-donald-trump-kozott-163531",
+      "memento-datetime": "2019-02-14T14:18:52",
+      "memento-pubdate": "",
+      "earliest": "2019-02-14T14:18:52"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:34:50"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

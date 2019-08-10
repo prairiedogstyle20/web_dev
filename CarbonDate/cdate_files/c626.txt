@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.rt.com/newsline/451337-korea-trump-money-troops/?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=RSS",
+  "uri": "https://www.rt.com/newsline/451337-korea-trump-money-troops/?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=RSS",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

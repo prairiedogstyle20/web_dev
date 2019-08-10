@@ -1,0 +1,51 @@
+7
+{
+  "original_uri": "https://www.foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments",
+  "self": "http://localhost:1208/timemap/json/https://www.foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T19:20:59Z",
+        "uri": "http://web.archive.org/web/20190212192059/https://www.foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments"
+      },
+      {
+        "datetime": "2019-02-12T19:43:10Z",
+        "uri": "http://web.archive.org/web/20190212194310/https://www.foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments"
+      },
+      {
+        "datetime": "2019-02-13T00:43:00Z",
+        "uri": "http://web.archive.org/web/20190213004300/https://www.foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments"
+      },
+      {
+        "datetime": "2019-02-13T00:43:00Z",
+        "uri": "http://web.archive.org/web/20190213004300/http://foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments"
+      },
+      {
+        "datetime": "2019-02-13T07:23:00Z",
+        "uri": "http://web.archive.org/web/20190213072300/https://www.foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments"
+      },
+      {
+        "datetime": "2019-02-14T02:48:39Z",
+        "uri": "http://web.archive.org/web/20190214024839/https://www.foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments"
+      },
+      {
+        "datetime": "2019-02-14T02:48:39Z",
+        "uri": "http://web.archive.org/web/20190214024839/http://foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T19:20:59Z",
+      "uri": "http://web.archive.org/web/20190212192059/https://www.foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments"
+    },
+    "last": {
+      "datetime": "2019-02-14T02:48:39Z",
+      "uri": "http://web.archive.org/web/20190214024839/http://foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments",
+    "json_format": "http://localhost:1208/timemap/json/https://www.foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.foxnews.com/politics/donald-trump-calls-on-freshman-democrat-ilhan-omar-to-resign-from-congress-over-israel-comments"
+}

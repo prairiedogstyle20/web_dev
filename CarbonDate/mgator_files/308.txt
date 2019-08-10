@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://www.breitbart.com/politics/2019/02/13/watch-passersby-yell-fuck-trump-angel-families-outside-capitol/",
+  "self": "http://localhost:1208/timemap/json/https://www.breitbart.com/politics/2019/02/13/watch-passersby-yell-fuck-trump-angel-families-outside-capitol/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T21:08:50Z",
+        "uri": "http://web.archive.org/web/20190213210850/https://www.breitbart.com/politics/2019/02/13/watch-passersby-yell-fuck-trump-angel-families-outside-capitol/"
+      },
+      {
+        "datetime": "2019-02-13T23:20:41Z",
+        "uri": "http://web.archive.org/web/20190213232041/https://www.breitbart.com/politics/2019/02/13/watch-passersby-yell-fuck-trump-angel-families-outside-capitol/"
+      },
+      {
+        "datetime": "2019-02-14T01:54:05Z",
+        "uri": "http://web.archive.org/web/20190214015405/https://www.breitbart.com/politics/2019/02/13/watch-passersby-yell-fuck-trump-angel-families-outside-capitol/"
+      },
+      {
+        "datetime": "2019-02-14T11:13:36Z",
+        "uri": "http://web.archive.org/web/20190214111336/https://www.breitbart.com/politics/2019/02/13/watch-passersby-yell-fuck-trump-angel-families-outside-capitol/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T21:08:50Z",
+      "uri": "http://web.archive.org/web/20190213210850/https://www.breitbart.com/politics/2019/02/13/watch-passersby-yell-fuck-trump-angel-families-outside-capitol/"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:13:36Z",
+      "uri": "http://web.archive.org/web/20190214111336/https://www.breitbart.com/politics/2019/02/13/watch-passersby-yell-fuck-trump-angel-families-outside-capitol/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.breitbart.com/politics/2019/02/13/watch-passersby-yell-fuck-trump-angel-families-outside-capitol/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.breitbart.com/politics/2019/02/13/watch-passersby-yell-fuck-trump-angel-families-outside-capitol/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.breitbart.com/politics/2019/02/13/watch-passersby-yell-fuck-trump-angel-families-outside-capitol/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.breitbart.com/politics/2019/02/13/watch-passersby-yell-fuck-trump-angel-families-outside-capitol/"
+}

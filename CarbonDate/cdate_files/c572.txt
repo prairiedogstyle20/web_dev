@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.foxsports.com.br/news/396148-fox-sports-argentina-centurion-tem-ofertas-de-internacional-e-flamengo-veja",
+  "uri": "https://www.foxsports.com.br/news/396148-fox-sports-argentina-centurion-tem-ofertas-de-internacional-e-flamengo-veja",
+  "estimated-creation-date": "2019-02-13T18:01:04",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T18:01:04"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

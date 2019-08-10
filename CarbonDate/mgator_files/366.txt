@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197",
+  "self": "http://localhost:1208/timemap/json/https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T22:14:08Z",
+        "uri": "http://web.archive.org/web/20190213221408/https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T22:14:08Z",
+      "uri": "http://web.archive.org/web/20190213221408/https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197"
+    },
+    "last": {
+      "datetime": "2019-02-13T22:14:08Z",
+      "uri": "http://web.archive.org/web/20190213221408/https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197",
+    "json_format": "http://localhost:1208/timemap/json/https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.dw.com/es/trump-maduro-comete-terrible-error-al-bloquear-ayuda/a-47508197"
+}

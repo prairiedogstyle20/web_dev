@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://video.foxnews.com/v/6001470532001",
+  "uri": "https://video.foxnews.com/v/6001470532001",
+  "estimated-creation-date": "2019-02-13T08:24:13",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213082413/https://video.foxnews.com/v/6001470532001/",
+      "memento-datetime": "2019-02-13T08:24:13",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T08:24:13"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

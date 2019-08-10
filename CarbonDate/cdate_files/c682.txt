@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://insider.foxnews.com/2019/02/13/sen-risch-theres-still-no-evidence-trump-russia-collusion",
+  "uri": "https://insider.foxnews.com/2019/02/13/sen-risch-theres-still-no-evidence-trump-russia-collusion",
+  "estimated-creation-date": "2019-02-13T19:15:57",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:21:23"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:15:57"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214013024/https://insider.foxnews.com/2019/02/13/sen-risch-theres-still-no-evidence-trump-russia-collusion",
+      "memento-datetime": "2019-02-14T01:27:40",
+      "memento-pubdate": "2019-02-13T19:15:57",
+      "earliest": "2019-02-13T19:15:57"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:56:41"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

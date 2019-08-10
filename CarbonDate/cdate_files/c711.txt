@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://insideclimatenews.org/news/12022019/kigali-amendment-trump-ratify-hfcs-short-lived-climate-pollutant-republican-business-support-montreal-protocol",
+  "uri": "https://insideclimatenews.org/news/12022019/kigali-amendment-trump-ratify-hfcs-short-lived-climate-pollutant-republican-business-support-montreal-protocol",
+  "estimated-creation-date": "2019-02-12T09:50:43",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:25:41"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T10:32:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212171217/https://insideclimatenews.org/news/12022019/kigali-amendment-trump-ratify-hfcs-short-lived-climate-pollutant-republican-business-support-montreal-protocol",
+      "memento-datetime": "2019-02-12T17:01:17",
+      "memento-pubdate": "2019-02-12T10:32:00",
+      "earliest": "2019-02-12T10:32:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T09:50:43"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

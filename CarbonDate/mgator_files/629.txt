@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://thehill.com/homenews/administration/429709-trump-touts-deal-as-providing-23-billion-for-border-security",
+  "self": "http://localhost:1208/timemap/json/https://thehill.com/homenews/administration/429709-trump-touts-deal-as-providing-23-billion-for-border-security",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:07:25Z",
+        "uri": "http://web.archive.org/web/20190213030725/https://thehill.com/homenews/administration/429709-trump-touts-deal-as-providing-23-billion-for-border-security"
+      },
+      {
+        "datetime": "2019-02-13T12:35:10Z",
+        "uri": "http://web.archive.org/web/20190213123510/https://thehill.com/homenews/administration/429709-trump-touts-deal-as-providing-23-billion-for-border-security"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:07:25Z",
+      "uri": "http://web.archive.org/web/20190213030725/https://thehill.com/homenews/administration/429709-trump-touts-deal-as-providing-23-billion-for-border-security"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:35:10Z",
+      "uri": "http://web.archive.org/web/20190213123510/https://thehill.com/homenews/administration/429709-trump-touts-deal-as-providing-23-billion-for-border-security"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://thehill.com/homenews/administration/429709-trump-touts-deal-as-providing-23-billion-for-border-security",
+    "json_format": "http://localhost:1208/timemap/json/https://thehill.com/homenews/administration/429709-trump-touts-deal-as-providing-23-billion-for-border-security",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://thehill.com/homenews/administration/429709-trump-touts-deal-as-providing-23-billion-for-border-security"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://thehill.com/homenews/administration/429709-trump-touts-deal-as-providing-23-billion-for-border-security"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.theadvertiser.com/story/opinion/editorial/2019/02/13/trump-best-people-now-tell-all-chris-christie-cliff-sims-editorials-debates/2862356002/?utm_source=dlvr.it&utm_medium=twitter",
+  "uri": "https://www.theadvertiser.com/story/opinion/editorial/2019/02/13/trump-best-people-now-tell-all-chris-christie-cliff-sims-editorials-debates/2862356002/?utm_source=dlvr.it&utm_medium=twitter",
+  "estimated-creation-date": "2019-02-13T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T17:41:20"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

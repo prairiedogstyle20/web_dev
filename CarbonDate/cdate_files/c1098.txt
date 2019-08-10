@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://www.gobluewave.com/sports/mbkb/2018-19/releases/20190213n2b6vc",
+  "uri": "http://www.gobluewave.com/sports/mbkb/2018-19/releases/20190213n2b6vc",
+  "estimated-creation-date": "2019-02-09T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-09T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:25:04"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

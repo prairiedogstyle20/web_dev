@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T13:30:08Z",
+        "uri": "http://web.archive.org/web/20190213133008/http://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html"
+      },
+      {
+        "datetime": "2019-02-13T14:56:25Z",
+        "uri": "http://web.archive.org/web/20190213145625/https://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T13:30:08Z",
+      "uri": "http://web.archive.org/web/20190213133008/http://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T14:56:25Z",
+      "uri": "http://web.archive.org/web/20190213145625/https://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nydailynews.com/news/politics/ny-pol-trump-omar-resign-israel-apology-20190212-story.html"
+}

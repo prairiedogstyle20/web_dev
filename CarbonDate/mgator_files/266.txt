@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.rt.com/usa/451324-trump-wall-23-billion/",
+  "self": "http://localhost:1208/timemap/json/https://www.rt.com/usa/451324-trump-wall-23-billion/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T01:09:54Z",
+        "uri": "http://web.archive.org/web/20190213010954/https://www.rt.com/usa/451324-trump-wall-23-billion/"
+      },
+      {
+        "datetime": "2019-02-13T17:47:28Z",
+        "uri": "http://web.archive.org/web/20190213174728/https://www.rt.com/usa/451324-trump-wall-23-billion/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T01:09:54Z",
+      "uri": "http://web.archive.org/web/20190213010954/https://www.rt.com/usa/451324-trump-wall-23-billion/"
+    },
+    "last": {
+      "datetime": "2019-02-13T17:47:28Z",
+      "uri": "http://web.archive.org/web/20190213174728/https://www.rt.com/usa/451324-trump-wall-23-billion/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.rt.com/usa/451324-trump-wall-23-billion/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.rt.com/usa/451324-trump-wall-23-billion/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.rt.com/usa/451324-trump-wall-23-billion/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.rt.com/usa/451324-trump-wall-23-billion/"
+}

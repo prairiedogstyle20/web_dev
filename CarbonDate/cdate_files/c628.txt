@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born",
+  "uri": "https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born",
+  "estimated-creation-date": "2019-02-12T19:45:26",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T19:45:26"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213030512/https://www.wonkette.com/will-someone-please-ask-trump-what-he-thinks-should-be-done-when-a-non-viable-baby-is-born",
+      "memento-datetime": "2019-02-13T03:05:12",
+      "memento-pubdate": "2019-02-12T19:45:26",
+      "earliest": "2019-02-12T19:45:26"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T19:54:20"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

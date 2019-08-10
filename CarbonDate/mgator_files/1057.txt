@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/",
+  "self": "http://localhost:1208/timemap/json/https://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:11:10Z",
+        "uri": "http://web.archive.org/web/20190213031110/http://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/"
+      },
+      {
+        "datetime": "2019-02-13T08:43:07Z",
+        "uri": "http://web.archive.org/web/20190213084307/https://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/"
+      },
+      {
+        "datetime": "2019-02-13T13:04:50Z",
+        "uri": "http://web.archive.org/web/20190213130450/https://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/"
+      },
+      {
+        "datetime": "2019-02-13T14:56:16Z",
+        "uri": "http://web.archive.org/web/20190213145616/https://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/"
+      },
+      {
+        "datetime": "2019-02-14T13:38:16Z",
+        "uri": "http://web.archive.org/web/20190214133816/https://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:11:10Z",
+      "uri": "http://web.archive.org/web/20190213031110/http://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/"
+    },
+    "last": {
+      "datetime": "2019-02-14T13:38:16Z",
+      "uri": "http://web.archive.org/web/20190214133816/https://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.washingtontimes.com/news/2019/feb/12/john-dowd-calls-russia-probe-terrible-waste-time-p/"
+}

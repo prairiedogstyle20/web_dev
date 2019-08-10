@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.newsweek.com/alexandra-ocasio-cortez-chelsea-clinton-ilhan-omar-apology-donald-trump-1329012?utm_source=Twitter&utm_medium=Social&utm_campaign=NewsweekTwitter",
+  "uri": "https://www.newsweek.com/alexandra-ocasio-cortez-chelsea-clinton-ilhan-omar-apology-donald-trump-1329012?utm_source=Twitter&utm_medium=Social&utm_campaign=NewsweekTwitter",
+  "estimated-creation-date": "2019-02-12T15:22:27",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T15:22:27"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

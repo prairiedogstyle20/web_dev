@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.youtube.com/watch?v=jdjWXFD02Ag",
+  "uri": "https://www.youtube.com/watch?v=jdjWXFD02Ag",
+  "estimated-creation-date": "2019-02-12T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212230455/https://www.youtube.com/watch?v=jdjWXFD02Ag",
+      "memento-datetime": "2019-02-12T23:04:55",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T23:04:55"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20190212234348/http://www.youtube.com/watch?v=jdjWXFD02Ag",
+      "memento-datetime": "2019-02-12T23:43:48",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T23:43:48"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T21:31:10"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

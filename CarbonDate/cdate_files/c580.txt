@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.googletrends.online/trump-claims-no-collusion-with-russia-as-main-democrat-says-conclusion-is-untimely/",
+  "uri": "https://www.googletrends.online/trump-claims-no-collusion-with-russia-as-main-democrat-says-conclusion-is-untimely/",
+  "estimated-creation-date": "2019-02-13T19:26:31",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:26:31"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

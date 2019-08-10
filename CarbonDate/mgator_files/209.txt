@@ -1,0 +1,871 @@
+212
+{
+  "original_uri": "https://www.ebay.com/n/error?statuscode=500",
+  "self": "http://localhost:1208/timemap/json/https://www.ebay.com/n/error?statuscode=500",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-01-25T21:10:27Z",
+        "uri": "http://web.archive.org/web/20190125211027/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-25T21:27:58Z",
+        "uri": "http://web.archive.org/web/20190125212758/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-25T23:42:14Z",
+        "uri": "http://wayback.archive-it.org/all/20190125234214/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-25T23:42:14Z",
+        "uri": "http://web.archive.org/web/20190125234214/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-26T03:04:43Z",
+        "uri": "http://web.archive.org/web/20190126030443/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-26T06:54:08Z",
+        "uri": "http://web.archive.org/web/20190126065408/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-26T07:17:38Z",
+        "uri": "http://web.archive.org/web/20190126071738/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-26T11:19:17Z",
+        "uri": "http://web.archive.org/web/20190126111917/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-26T17:12:59Z",
+        "uri": "http://web.archive.org/web/20190126171259/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-26T18:05:47Z",
+        "uri": "http://web.archive.org/web/20190126180547/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-26T20:17:19Z",
+        "uri": "http://wayback.archive-it.org/all/20190126201719/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-26T20:17:19Z",
+        "uri": "http://web.archive.org/web/20190126201719/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-26T21:49:39Z",
+        "uri": "http://web.archive.org/web/20190126214939/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-26T22:38:34Z",
+        "uri": "http://web.archive.org/web/20190126223834/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-27T01:01:50Z",
+        "uri": "http://web.archive.org/web/20190127010150/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-27T03:04:57Z",
+        "uri": "http://web.archive.org/web/20190127030457/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-27T04:19:02Z",
+        "uri": "http://web.archive.org/web/20190127041902/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-27T07:19:50Z",
+        "uri": "http://web.archive.org/web/20190127071950/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-27T07:33:35Z",
+        "uri": "http://web.archive.org/web/20190127073335/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-27T12:13:55Z",
+        "uri": "http://web.archive.org/web/20190127121355/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-27T14:15:41Z",
+        "uri": "http://web.archive.org/web/20190127141541/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-27T18:38:57Z",
+        "uri": "http://web.archive.org/web/20190127183857/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-27T23:02:14Z",
+        "uri": "http://web.archive.org/web/20190127230214/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-28T00:49:09Z",
+        "uri": "http://web.archive.org/web/20190128004909/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-28T02:28:14Z",
+        "uri": "http://web.archive.org/web/20190128022814/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-28T05:17:28Z",
+        "uri": "http://web.archive.org/web/20190128051728/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-28T06:44:28Z",
+        "uri": "http://web.archive.org/web/20190128064428/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-28T12:51:12Z",
+        "uri": "http://web.archive.org/web/20190128125112/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-28T13:48:45Z",
+        "uri": "http://web.archive.org/web/20190128134845/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-28T19:03:00Z",
+        "uri": "http://web.archive.org/web/20190128190300/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-28T19:15:46Z",
+        "uri": "http://web.archive.org/web/20190128191546/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-28T20:10:27Z",
+        "uri": "http://web.archive.org/web/20190128201027/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-28T23:41:07Z",
+        "uri": "http://web.archive.org/web/20190128234107/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-29T00:29:14Z",
+        "uri": "http://web.archive.org/web/20190129002914/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-29T00:53:13Z",
+        "uri": "http://web.archive.org/web/20190129005313/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-29T05:14:46Z",
+        "uri": "http://web.archive.org/web/20190129051446/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-29T06:33:02Z",
+        "uri": "http://web.archive.org/web/20190129063302/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-29T13:45:09Z",
+        "uri": "http://web.archive.org/web/20190129134509/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-29T19:42:36Z",
+        "uri": "http://web.archive.org/web/20190129194236/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-29T21:09:07Z",
+        "uri": "http://web.archive.org/web/20190129210907/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-30T00:29:37Z",
+        "uri": "http://web.archive.org/web/20190130002937/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-30T01:01:11Z",
+        "uri": "http://web.archive.org/web/20190130010111/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-30T02:27:57Z",
+        "uri": "http://web.archive.org/web/20190130022757/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-30T06:33:08Z",
+        "uri": "http://web.archive.org/web/20190130063308/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-30T07:17:12Z",
+        "uri": "http://web.archive.org/web/20190130071712/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-30T08:30:07Z",
+        "uri": "http://web.archive.org/web/20190130083007/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-30T14:43:17Z",
+        "uri": "http://web.archive.org/web/20190130144317/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-30T16:47:41Z",
+        "uri": "http://web.archive.org/web/20190130164741/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-30T20:29:35Z",
+        "uri": "http://web.archive.org/web/20190130202935/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-30T22:45:40Z",
+        "uri": "http://web.archive.org/web/20190130224540/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T01:19:50Z",
+        "uri": "http://web.archive.org/web/20190131011950/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T01:20:01Z",
+        "uri": "http://web.archive.org/web/20190131012001/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T01:20:42Z",
+        "uri": "http://web.archive.org/web/20190131012042/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T01:23:35Z",
+        "uri": "http://web.archive.org/web/20190131012335/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T05:08:04Z",
+        "uri": "http://web.archive.org/web/20190131050804/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T15:38:02Z",
+        "uri": "http://web.archive.org/web/20190131153802/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T18:24:29Z",
+        "uri": "http://web.archive.org/web/20190131182429/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T18:35:09Z",
+        "uri": "http://web.archive.org/web/20190131183509/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T21:23:53Z",
+        "uri": "http://web.archive.org/web/20190131212353/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T21:33:35Z",
+        "uri": "http://web.archive.org/web/20190131213335/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T22:21:50Z",
+        "uri": "http://web.archive.org/web/20190131222150/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T22:46:39Z",
+        "uri": "http://web.archive.org/web/20190131224639/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T22:48:36Z",
+        "uri": "http://web.archive.org/web/20190131224836/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T22:54:13Z",
+        "uri": "http://web.archive.org/web/20190131225413/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T23:06:19Z",
+        "uri": "http://web.archive.org/web/20190131230619/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-01-31T23:20:30Z",
+        "uri": "http://web.archive.org/web/20190131232030/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T00:03:00Z",
+        "uri": "http://web.archive.org/web/20190201000300/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T00:33:40Z",
+        "uri": "http://web.archive.org/web/20190201003340/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T02:02:52Z",
+        "uri": "http://web.archive.org/web/20190201020252/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T02:04:16Z",
+        "uri": "http://web.archive.org/web/20190201020416/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T02:18:24Z",
+        "uri": "http://web.archive.org/web/20190201021824/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T05:18:26Z",
+        "uri": "http://web.archive.org/web/20190201051826/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T09:02:55Z",
+        "uri": "http://web.archive.org/web/20190201090255/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T13:39:11Z",
+        "uri": "http://web.archive.org/web/20190201133911/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T13:42:06Z",
+        "uri": "http://web.archive.org/web/20190201134206/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T14:20:01Z",
+        "uri": "http://web.archive.org/web/20190201142001/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T16:19:21Z",
+        "uri": "http://web.archive.org/web/20190201161921/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T19:03:46Z",
+        "uri": "http://web.archive.org/web/20190201190346/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T21:54:39Z",
+        "uri": "http://web.archive.org/web/20190201215439/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T23:13:55Z",
+        "uri": "http://wayback.archive-it.org/all/20190201231355/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-01T23:13:55Z",
+        "uri": "http://web.archive.org/web/20190201231355/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T01:01:26Z",
+        "uri": "http://web.archive.org/web/20190202010126/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T03:02:26Z",
+        "uri": "http://web.archive.org/web/20190202030226/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T03:09:32Z",
+        "uri": "http://web.archive.org/web/20190202030932/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T04:16:52Z",
+        "uri": "http://web.archive.org/web/20190202041652/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T10:31:40Z",
+        "uri": "http://web.archive.org/web/20190202103140/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T12:00:07Z",
+        "uri": "http://wayback.archive-it.org/all/20190202120007/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T12:00:07Z",
+        "uri": "http://web.archive.org/web/20190202120007/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T13:07:28Z",
+        "uri": "http://web.archive.org/web/20190202130728/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T14:35:52Z",
+        "uri": "http://web.archive.org/web/20190202143552/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T14:48:47Z",
+        "uri": "http://web.archive.org/web/20190202144847/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T15:27:56Z",
+        "uri": "http://web.archive.org/web/20190202152756/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T17:08:41Z",
+        "uri": "http://web.archive.org/web/20190202170841/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T22:21:06Z",
+        "uri": "http://web.archive.org/web/20190202222106/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-02T22:34:56Z",
+        "uri": "http://web.archive.org/web/20190202223456/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-03T03:29:46Z",
+        "uri": "http://web.archive.org/web/20190203032946/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-03T03:49:42Z",
+        "uri": "http://web.archive.org/web/20190203034942/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-03T03:58:28Z",
+        "uri": "http://web.archive.org/web/20190203035828/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-03T04:33:06Z",
+        "uri": "http://web.archive.org/web/20190203043306/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-03T09:14:56Z",
+        "uri": "http://web.archive.org/web/20190203091456/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-03T12:32:45Z",
+        "uri": "http://web.archive.org/web/20190203123245/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-03T14:56:19Z",
+        "uri": "http://web.archive.org/web/20190203145619/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-03T15:30:42Z",
+        "uri": "http://web.archive.org/web/20190203153042/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-03T17:56:53Z",
+        "uri": "http://web.archive.org/web/20190203175653/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-03T23:05:44Z",
+        "uri": "http://web.archive.org/web/20190203230544/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-04T01:34:50Z",
+        "uri": "http://web.archive.org/web/20190204013450/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-04T04:11:47Z",
+        "uri": "http://web.archive.org/web/20190204041147/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-04T12:30:08Z",
+        "uri": "http://web.archive.org/web/20190204123008/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-04T13:56:42Z",
+        "uri": "http://web.archive.org/web/20190204135642/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-04T14:09:36Z",
+        "uri": "http://web.archive.org/web/20190204140936/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-04T14:21:52Z",
+        "uri": "http://web.archive.org/web/20190204142152/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-04T18:47:54Z",
+        "uri": "http://web.archive.org/web/20190204184754/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-04T21:01:16Z",
+        "uri": "http://web.archive.org/web/20190204210116/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-05T00:00:57Z",
+        "uri": "http://web.archive.org/web/20190205000057/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-05T04:23:40Z",
+        "uri": "http://web.archive.org/web/20190205042340/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-05T04:41:54Z",
+        "uri": "http://web.archive.org/web/20190205044154/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-05T08:45:37Z",
+        "uri": "http://web.archive.org/web/20190205084537/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-05T14:35:53Z",
+        "uri": "http://web.archive.org/web/20190205143553/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-05T16:45:19Z",
+        "uri": "http://web.archive.org/web/20190205164519/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-05T17:35:03Z",
+        "uri": "http://web.archive.org/web/20190205173503/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-05T18:08:29Z",
+        "uri": "http://web.archive.org/web/20190205180829/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-05T19:27:09Z",
+        "uri": "http://web.archive.org/web/20190205192709/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-05T22:22:56Z",
+        "uri": "http://web.archive.org/web/20190205222256/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-06T00:30:49Z",
+        "uri": "http://web.archive.org/web/20190206003049/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-06T05:26:05Z",
+        "uri": "http://web.archive.org/web/20190206052605/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-06T06:01:39Z",
+        "uri": "http://web.archive.org/web/20190206060139/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-06T06:53:55Z",
+        "uri": "http://web.archive.org/web/20190206065355/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-06T07:31:09Z",
+        "uri": "http://web.archive.org/web/20190206073109/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-06T08:53:53Z",
+        "uri": "http://web.archive.org/web/20190206085353/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-06T09:13:38Z",
+        "uri": "http://web.archive.org/web/20190206091338/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-06T14:10:01Z",
+        "uri": "http://web.archive.org/web/20190206141001/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-06T14:23:37Z",
+        "uri": "http://web.archive.org/web/20190206142337/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-06T20:13:57Z",
+        "uri": "http://web.archive.org/web/20190206201357/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-06T20:14:36Z",
+        "uri": "http://web.archive.org/web/20190206201436/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T00:11:45Z",
+        "uri": "http://web.archive.org/web/20190207001145/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T00:48:29Z",
+        "uri": "http://web.archive.org/web/20190207004829/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T05:55:29Z",
+        "uri": "http://web.archive.org/web/20190207055529/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T06:41:37Z",
+        "uri": "http://web.archive.org/web/20190207064137/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T14:09:30Z",
+        "uri": "http://web.archive.org/web/20190207140930/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T19:39:05Z",
+        "uri": "http://web.archive.org/web/20190207193905/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T21:00:33Z",
+        "uri": "http://web.archive.org/web/20190207210033/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T21:52:02Z",
+        "uri": "http://web.archive.org/web/20190207215202/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T23:15:41Z",
+        "uri": "http://web.archive.org/web/20190207231541/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T23:16:38Z",
+        "uri": "http://web.archive.org/web/20190207231638/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T23:21:48Z",
+        "uri": "http://web.archive.org/web/20190207232148/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T23:40:11Z",
+        "uri": "http://web.archive.org/web/20190207234011/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-07T23:54:11Z",
+        "uri": "http://web.archive.org/web/20190207235411/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T00:34:08Z",
+        "uri": "http://web.archive.org/web/20190208003408/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T01:26:22Z",
+        "uri": "http://web.archive.org/web/20190208012622/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T02:06:18Z",
+        "uri": "http://web.archive.org/web/20190208020618/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T06:45:59Z",
+        "uri": "http://web.archive.org/web/20190208064559/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T07:42:34Z",
+        "uri": "http://web.archive.org/web/20190208074234/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T09:07:19Z",
+        "uri": "http://web.archive.org/web/20190208090719/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T11:03:26Z",
+        "uri": "http://web.archive.org/web/20190208110326/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T11:39:19Z",
+        "uri": "http://web.archive.org/web/20190208113919/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T12:51:24Z",
+        "uri": "http://web.archive.org/web/20190208125124/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T13:07:39Z",
+        "uri": "http://web.archive.org/web/20190208130739/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T13:33:24Z",
+        "uri": "http://web.archive.org/web/20190208133324/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T14:15:40Z",
+        "uri": "http://web.archive.org/web/20190208141540/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T16:00:49Z",
+        "uri": "http://web.archive.org/web/20190208160049/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T19:04:22Z",
+        "uri": "http://web.archive.org/web/20190208190422/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T21:53:53Z",
+        "uri": "http://web.archive.org/web/20190208215353/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T23:14:40Z",
+        "uri": "http://wayback.archive-it.org/all/20190208231440/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T23:14:40Z",
+        "uri": "http://web.archive.org/web/20190208231440/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-08T23:40:29Z",
+        "uri": "http://web.archive.org/web/20190208234029/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-09T00:51:50Z",
+        "uri": "http://web.archive.org/web/20190209005150/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-09T01:53:12Z",
+        "uri": "http://web.archive.org/web/20190209015312/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-09T02:29:10Z",
+        "uri": "http://web.archive.org/web/20190209022910/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-09T03:06:56Z",
+        "uri": "http://web.archive.org/web/20190209030656/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-09T07:45:49Z",
+        "uri": "http://web.archive.org/web/20190209074549/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-09T23:04:50Z",
+        "uri": "http://web.archive.org/web/20190209230450/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-09T23:32:08Z",
+        "uri": "http://web.archive.org/web/20190209233208/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-10T00:24:17Z",
+        "uri": "http://web.archive.org/web/20190210002417/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-10T02:49:19Z",
+        "uri": "http://web.archive.org/web/20190210024919/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-10T03:09:22Z",
+        "uri": "http://web.archive.org/web/20190210030922/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-10T03:31:05Z",
+        "uri": "http://web.archive.org/web/20190210033105/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-10T04:30:32Z",
+        "uri": "http://web.archive.org/web/20190210043032/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-10T05:02:04Z",
+        "uri": "http://web.archive.org/web/20190210050204/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-10T08:08:35Z",
+        "uri": "http://web.archive.org/web/20190210080835/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-10T21:01:50Z",
+        "uri": "http://web.archive.org/web/20190210210150/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-10T22:39:37Z",
+        "uri": "http://web.archive.org/web/20190210223937/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-11T00:22:30Z",
+        "uri": "http://web.archive.org/web/20190211002230/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-11T00:29:17Z",
+        "uri": "http://web.archive.org/web/20190211002917/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-11T03:14:38Z",
+        "uri": "http://web.archive.org/web/20190211031438/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-11T03:44:52Z",
+        "uri": "http://web.archive.org/web/20190211034452/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-11T04:54:43Z",
+        "uri": "http://web.archive.org/web/20190211045443/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-11T05:12:38Z",
+        "uri": "http://web.archive.org/web/20190211051238/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-11T05:56:00Z",
+        "uri": "http://web.archive.org/web/20190211055600/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-11T09:09:19Z",
+        "uri": "http://web.archive.org/web/20190211090919/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-11T14:49:21Z",
+        "uri": "http://web.archive.org/web/20190211144921/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-11T20:06:53Z",
+        "uri": "http://web.archive.org/web/20190211200653/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-12T01:53:44Z",
+        "uri": "http://web.archive.org/web/20190212015344/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-12T03:36:17Z",
+        "uri": "http://web.archive.org/web/20190212033617/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-12T04:39:03Z",
+        "uri": "http://web.archive.org/web/20190212043903/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-12T09:47:05Z",
+        "uri": "http://web.archive.org/web/20190212094705/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-12T20:21:58Z",
+        "uri": "http://web.archive.org/web/20190212202158/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-12T23:01:07Z",
+        "uri": "http://web.archive.org/web/20190212230107/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-13T03:07:31Z",
+        "uri": "http://web.archive.org/web/20190213030731/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-13T05:24:28Z",
+        "uri": "http://web.archive.org/web/20190213052428/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-13T10:15:48Z",
+        "uri": "http://web.archive.org/web/20190213101548/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-13T10:31:31Z",
+        "uri": "http://web.archive.org/web/20190213103131/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-13T11:33:34Z",
+        "uri": "http://web.archive.org/web/20190213113334/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-13T14:02:14Z",
+        "uri": "http://web.archive.org/web/20190213140214/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-13T15:48:02Z",
+        "uri": "http://web.archive.org/web/20190213154802/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-14T03:51:41Z",
+        "uri": "http://web.archive.org/web/20190214035141/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-14T06:15:45Z",
+        "uri": "http://web.archive.org/web/20190214061545/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-14T11:27:06Z",
+        "uri": "http://web.archive.org/web/20190214112706/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-14T14:38:01Z",
+        "uri": "http://web.archive.org/web/20190214143801/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-14T15:43:55Z",
+        "uri": "http://web.archive.org/web/20190214154355/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-14T15:57:24Z",
+        "uri": "http://web.archive.org/web/20190214155724/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-14T16:10:37Z",
+        "uri": "http://web.archive.org/web/20190214161037/https://www.ebay.com/n/error?statuscode=500"
+      },
+      {
+        "datetime": "2019-02-14T16:24:34Z",
+        "uri": "http://web.archive.org/web/20190214162434/https://www.ebay.com/n/error?statuscode=500"
+      }
+    ],
+    "first": {
+      "datetime": "2019-01-25T21:10:27Z",
+      "uri": "http://web.archive.org/web/20190125211027/https://www.ebay.com/n/error?statuscode=500"
+    },
+    "last": {
+      "datetime": "2019-02-14T16:24:34Z",
+      "uri": "http://web.archive.org/web/20190214162434/https://www.ebay.com/n/error?statuscode=500"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.ebay.com/n/error?statuscode=500",
+    "json_format": "http://localhost:1208/timemap/json/https://www.ebay.com/n/error?statuscode=500",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.ebay.com/n/error?statuscode=500"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.ebay.com/n/error?statuscode=500"
+}

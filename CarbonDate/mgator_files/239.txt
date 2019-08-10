@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T05:04:18Z",
+        "uri": "http://web.archive.org/web/20190213050418/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html"
+      },
+      {
+        "datetime": "2019-02-13T07:19:59Z",
+        "uri": "http://web.archive.org/web/20190213071959/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html"
+      },
+      {
+        "datetime": "2019-02-13T13:00:31Z",
+        "uri": "http://web.archive.org/web/20190213130031/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html"
+      },
+      {
+        "datetime": "2019-02-13T21:32:24Z",
+        "uri": "http://web.archive.org/web/20190213213224/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html"
+      },
+      {
+        "datetime": "2019-02-14T11:38:37Z",
+        "uri": "http://web.archive.org/web/20190214113837/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html"
+      },
+      {
+        "datetime": "2019-02-14T18:51:59Z",
+        "uri": "http://archive.md/20190214185159/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T05:04:18Z",
+      "uri": "http://web.archive.org/web/20190213050418/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T18:51:59Z",
+      "uri": "http://archive.md/20190214185159/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/2019/02/12/us/politics/trump-china-wireless-networks.html"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://lawgupshup.com/2019/02/donald-trump-not-thrilled-with-border-deal-but-leaning-toward-it/",
+  "uri": "http://lawgupshup.com/2019/02/donald-trump-not-thrilled-with-border-deal-but-leaning-toward-it/",
+  "estimated-creation-date": "2019-02-13T05:12:55",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T05:12:55"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

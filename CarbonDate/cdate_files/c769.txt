@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.bbc.co.uk/news/av/world-us-canada-47209129/trump-el-paso-rally-supporter-shoves-bbc-cameraman",
+  "uri": "https://www.bbc.co.uk/news/av/world-us-canada-47209129/trump-el-paso-rally-supporter-shoves-bbc-cameraman",
+  "estimated-creation-date": "2019-02-12T09:30:54",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212093223/https://www.bbc.co.uk/news/av/world-us-canada-47209129/trump-el-paso-rally-supporter-shoves-bbc-cameraman",
+      "memento-datetime": "2019-02-12T09:32:23",
+      "memento-pubdate": "",
+      "earliest": "2019-02-12T09:32:23"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T09:30:54"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

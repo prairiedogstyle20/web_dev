@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://thehill.com/hilltv/rising/429804-ex-trump-national-security-official-says-intelligence-community-interfered-in",
+  "self": "http://localhost:1208/timemap/json/https://thehill.com/hilltv/rising/429804-ex-trump-national-security-official-says-intelligence-community-interfered-in",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T19:52:02Z",
+        "uri": "http://web.archive.org/web/20190213195202/https://thehill.com/hilltv/rising/429804-ex-trump-national-security-official-says-intelligence-community-interfered-in"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T19:52:02Z",
+      "uri": "http://web.archive.org/web/20190213195202/https://thehill.com/hilltv/rising/429804-ex-trump-national-security-official-says-intelligence-community-interfered-in"
+    },
+    "last": {
+      "datetime": "2019-02-13T19:52:02Z",
+      "uri": "http://web.archive.org/web/20190213195202/https://thehill.com/hilltv/rising/429804-ex-trump-national-security-official-says-intelligence-community-interfered-in"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://thehill.com/hilltv/rising/429804-ex-trump-national-security-official-says-intelligence-community-interfered-in",
+    "json_format": "http://localhost:1208/timemap/json/https://thehill.com/hilltv/rising/429804-ex-trump-national-security-official-says-intelligence-community-interfered-in",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://thehill.com/hilltv/rising/429804-ex-trump-national-security-official-says-intelligence-community-interfered-in"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://thehill.com/hilltv/rising/429804-ex-trump-national-security-official-says-intelligence-community-interfered-in"
+}

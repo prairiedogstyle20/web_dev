@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.foxnews.com/politics/ex-trump-attorney-john-dowd-slams-waste-of-time-mueller-probe-as-one-of-the-greatest-frauds-in-us-history",
+  "uri": "https://www.foxnews.com/politics/ex-trump-attorney-john-dowd-slams-waste-of-time-mueller-probe-as-one-of-the-greatest-frauds-in-us-history",
+  "estimated-creation-date": "2019-02-13T11:45:36",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213114536/https://www.foxnews.com/politics/ex-trump-attorney-john-dowd-slams-waste-of-time-mueller-probe-as-one-of-the-greatest-frauds-in-us-history",
+      "memento-datetime": "2019-02-13T11:45:36",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T11:45:36"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190213153112/https://www.foxnews.com/politics/ex-trump-attorney-john-dowd-slams-waste-of-time-mueller-probe-as-one-of-the-greatest-frauds-in-us-history",
+      "memento-datetime": "2019-02-13T15:31:12",
+      "memento-pubdate": "2019-02-13T15:31:12",
+      "earliest": "2019-02-13T15:31:12"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

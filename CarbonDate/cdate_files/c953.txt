@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590",
+  "uri": "https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590",
+  "estimated-creation-date": "2019-02-13T19:22:09",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213192209/https://www.nbcnews.com/video/trump-slams-venezuela-s-refusal-of-food-humanitarian-aid-1442036291590",
+      "memento-datetime": "2019-02-13T19:22:09",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T19:22:09"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:34:24"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

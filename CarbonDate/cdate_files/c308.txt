@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://wompaa.com/",
+  "uri": "https://wompaa.com/",
+  "estimated-creation-date": "2019-02-06T08:00:22",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T08:00:22"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

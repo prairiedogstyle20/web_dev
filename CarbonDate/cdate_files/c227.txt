@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.keloland.com/sports/disgruntled-ad-has-just-3-points-pelicans-routed-by-magic/1777429842?utm_medium=social&utm_source=twitter_KELOSports",
+  "uri": "https://www.keloland.com/sports/disgruntled-ad-has-just-3-points-pelicans-routed-by-magic/1777429842?utm_medium=social&utm_source=twitter_KELOSports",
+  "estimated-creation-date": "2019-02-13T05:00:02",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T05:00:02"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:59:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.oann.com/president-trump-rep-omar-should-resign-congress-has-no-place-for-anti-semitism/",
+  "uri": "https://www.oann.com/president-trump-rep-omar-should-resign-congress-has-no-place-for-anti-semitism/",
+  "estimated-creation-date": "2019-02-12T19:38:03",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213000303/https://www.oann.com/president-trump-rep-omar-should-resign-congress-has-no-place-for-anti-semitism/",
+      "memento-datetime": "2019-02-13T00:03:03",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T00:03:03"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T19:38:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

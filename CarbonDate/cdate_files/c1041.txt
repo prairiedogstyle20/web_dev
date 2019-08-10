@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://shareblue.com/trump-bought-50000-golf-toy-blocking-workers-paychecks/",
+  "uri": "https://shareblue.com/trump-bought-50000-golf-toy-blocking-workers-paychecks/",
+  "estimated-creation-date": "2019-02-13T13:49:42",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T13:49:42"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214122938/https://shareblue.com/trump-bought-50000-golf-toy-blocking-workers-paychecks/",
+      "memento-datetime": "2019-02-14T12:29:38",
+      "memento-pubdate": "2019-02-13T13:49:42",
+      "earliest": "2019-02-13T13:49:42"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

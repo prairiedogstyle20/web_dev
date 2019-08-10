@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.metalocus.es/es/noticias/espacio-urbano-win4-centro-deportivo-por-em2n",
+  "uri": "https://www.metalocus.es/es/noticias/espacio-urbano-win4-centro-deportivo-por-em2n",
+  "estimated-creation-date": "2019-02-11T11:31:00",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T18:28:22"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-11T11:31:00"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

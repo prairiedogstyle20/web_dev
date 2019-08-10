@@ -1,0 +1,43 @@
+{
+  "self": "http://localhost:8888/cd/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html",
+  "uri": "https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html",
+  "estimated-creation-date": "2019-02-13T08:01:11",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T10:08:27"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213122108/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html",
+      "memento-datetime": "2019-02-13T12:21:08",
+      "memento-pubdate": "2019-02-13T10:08:27",
+      "earliest": "2019-02-13T10:08:27"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190213140153/https://www.tagesschau.de/ausland/bbc-kameramann-trump-veranstaltung-101.html",
+      "memento-datetime": "2019-02-13T14:01:53",
+      "memento-pubdate": "2019-02-13T14:01:53",
+      "earliest": "2019-02-13T14:01:53"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T08:01:11"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

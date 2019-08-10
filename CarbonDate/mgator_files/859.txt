@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.conservativereview.com/news/bezos-trump-saudi-collusion-conspiracy-theory-goes-flames/",
+  "self": "http://localhost:1208/timemap/json/https://www.conservativereview.com/news/bezos-trump-saudi-collusion-conspiracy-theory-goes-flames/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T22:15:50Z",
+        "uri": "http://web.archive.org/web/20190212221550/https://www.conservativereview.com/news/bezos-trump-saudi-collusion-conspiracy-theory-goes-flames/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T22:15:50Z",
+      "uri": "http://web.archive.org/web/20190212221550/https://www.conservativereview.com/news/bezos-trump-saudi-collusion-conspiracy-theory-goes-flames/"
+    },
+    "last": {
+      "datetime": "2019-02-12T22:15:50Z",
+      "uri": "http://web.archive.org/web/20190212221550/https://www.conservativereview.com/news/bezos-trump-saudi-collusion-conspiracy-theory-goes-flames/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.conservativereview.com/news/bezos-trump-saudi-collusion-conspiracy-theory-goes-flames/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.conservativereview.com/news/bezos-trump-saudi-collusion-conspiracy-theory-goes-flames/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.conservativereview.com/news/bezos-trump-saudi-collusion-conspiracy-theory-goes-flames/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.conservativereview.com/news/bezos-trump-saudi-collusion-conspiracy-theory-goes-flames/"
+}

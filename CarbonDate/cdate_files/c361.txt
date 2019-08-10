@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://koaa.com/news/2019/02/11/prime-time-sports-forced-to-close-after-removing-nike-apparel-from-store/",
+  "uri": "https://koaa.com/news/2019/02/11/prime-time-sports-forced-to-close-after-removing-nike-apparel-from-store/",
+  "estimated-creation-date": "2019-02-12T01:39:13",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T01:39:13"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212212709/https://koaa.com/news/2019/02/11/prime-time-sports-forced-to-close-after-removing-nike-apparel-from-store/",
+      "memento-datetime": "2019-02-12T21:27:09",
+      "memento-pubdate": "2019-02-12T01:39:13",
+      "earliest": "2019-02-12T01:39:13"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190213221425/https://koaa.com/news/2019/02/11/prime-time-sports-forced-to-close-after-removing-nike-apparel-from-store/",
+      "memento-datetime": "2019-02-13T22:14:25",
+      "memento-pubdate": "2019-02-13T22:14:25",
+      "earliest": "2019-02-13T22:14:25"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T01:47:33"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

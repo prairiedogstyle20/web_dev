@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.reuters.com/article/us-usa-shutdown-trump-graham/senator-graham-says-trump-is-inclined-to-sign-funding-deal-idUSKCN1Q22O2?feedType=RSS&feedName=domesticNews",
+  "uri": "https://www.reuters.com/article/us-usa-shutdown-trump-graham/senator-graham-says-trump-is-inclined-to-sign-funding-deal-idUSKCN1Q22O2?feedType=RSS&feedName=domesticNews",
+  "estimated-creation-date": "2019-02-13T19:47:58",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:47:58"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214153814/https://www.reuters.com/article/us-usa-shutdown-trump-graham/senator-graham-says-trump-is-inclined-to-sign-funding-deal-idUSKCN1Q22O2?feedType=RSS&feedName=domesticNews",
+      "memento-datetime": "2019-02-14T15:38:14",
+      "memento-pubdate": "2019-02-13T19:47:58",
+      "earliest": "2019-02-13T19:47:58"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

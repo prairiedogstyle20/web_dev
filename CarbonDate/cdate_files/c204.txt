@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.sfchronicle.com/sports/golf/article/Concord-golfer-Yealimi-Noh-17-turns-pro-with-13614111.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&utm_source=t.co&utm_medium=referral",
+  "uri": "https://www.sfchronicle.com/sports/golf/article/Concord-golfer-Yealimi-Noh-17-turns-pro-with-13614111.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&utm_source=t.co&utm_medium=referral",
+  "estimated-creation-date": "2019-02-13T20:27:32",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-14T01:33:18"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:27:32"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

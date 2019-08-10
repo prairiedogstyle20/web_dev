@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.timeshighereducation.com/news/us-officials-retreat-provocative-higher-education-reforms",
+  "uri": "https://www.timeshighereducation.com/news/us-officials-retreat-provocative-higher-education-reforms",
+  "estimated-creation-date": "2018-10-24T12:04:13",
+  "earliest-sources": [
+    "last-modified"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2018-10-24T12:04:13"
+    },
+    "pubdate": {
+      "earliest": "2019-02-04T00:01:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-10T01:12:01"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

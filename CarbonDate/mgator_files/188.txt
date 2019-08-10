@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.voanews.com/a/vietnam-trump-kim-summit/4784713.html",
+  "self": "http://localhost:1208/timemap/json/https://www.voanews.com/a/vietnam-trump-kim-summit/4784713.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T14:57:20Z",
+        "uri": "http://web.archive.org/web/20190213145720/https://www.voanews.com/a/vietnam-trump-kim-summit/4784713.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T14:57:20Z",
+      "uri": "http://web.archive.org/web/20190213145720/https://www.voanews.com/a/vietnam-trump-kim-summit/4784713.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T14:57:20Z",
+      "uri": "http://web.archive.org/web/20190213145720/https://www.voanews.com/a/vietnam-trump-kim-summit/4784713.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.voanews.com/a/vietnam-trump-kim-summit/4784713.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.voanews.com/a/vietnam-trump-kim-summit/4784713.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.voanews.com/a/vietnam-trump-kim-summit/4784713.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.voanews.com/a/vietnam-trump-kim-summit/4784713.html"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://sachkahoon.com/hanumaa-century-missed-by-mayank-century/",
+  "uri": "https://sachkahoon.com/hanumaa-century-missed-by-mayank-century/",
+  "estimated-creation-date": "2019-02-13T07:19:45",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T07:19:45"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:20:52"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

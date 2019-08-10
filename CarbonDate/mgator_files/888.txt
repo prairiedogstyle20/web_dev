@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.dailywire.com/news/43354/curl-trump-vanquishes-pelosi-battle-over-border-joseph-curl",
+  "self": "http://localhost:1208/timemap/json/https://www.dailywire.com/news/43354/curl-trump-vanquishes-pelosi-battle-over-border-joseph-curl",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T13:27:14Z",
+        "uri": "http://web.archive.org/web/20190213132714/https://www.dailywire.com/news/43354/curl-trump-vanquishes-pelosi-battle-over-border-joseph-curl"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T13:27:14Z",
+      "uri": "http://web.archive.org/web/20190213132714/https://www.dailywire.com/news/43354/curl-trump-vanquishes-pelosi-battle-over-border-joseph-curl"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:27:14Z",
+      "uri": "http://web.archive.org/web/20190213132714/https://www.dailywire.com/news/43354/curl-trump-vanquishes-pelosi-battle-over-border-joseph-curl"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.dailywire.com/news/43354/curl-trump-vanquishes-pelosi-battle-over-border-joseph-curl",
+    "json_format": "http://localhost:1208/timemap/json/https://www.dailywire.com/news/43354/curl-trump-vanquishes-pelosi-battle-over-border-joseph-curl",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.dailywire.com/news/43354/curl-trump-vanquishes-pelosi-battle-over-border-joseph-curl"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.dailywire.com/news/43354/curl-trump-vanquishes-pelosi-battle-over-border-joseph-curl"
+}

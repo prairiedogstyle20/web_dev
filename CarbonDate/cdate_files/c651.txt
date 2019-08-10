@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.redbubble.com/people/ozzyme/works/35912605-know-all-no-wall?asc=u&c=1026799-trump&p=t-shirt&rel=carousel&style=womens",
+  "uri": "https://www.redbubble.com/people/ozzyme/works/35912605-know-all-no-wall?asc=u&c=1026799-trump&p=t-shirt&rel=carousel&style=womens",
+  "estimated-creation-date": "2019-02-06T22:20:45",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T22:20:45"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

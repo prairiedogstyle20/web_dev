@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.sante-et-sports.com/2017/04/comment-reduire-taux-cholesterol-substance-naturelle.html",
+  "uri": "https://www.sante-et-sports.com/2017/04/comment-reduire-taux-cholesterol-substance-naturelle.html",
+  "estimated-creation-date": "2017-04-24T15:06:46",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-13T09:52:25"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170424175303/http://www.sante-et-sports.com:80/2017/04/comment-reduire-taux-cholesterol-substance-naturelle.html",
+      "memento-datetime": "2017-04-24T15:06:46",
+      "memento-pubdate": "",
+      "earliest": "2017-04-24T15:06:46"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T08:00:13"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

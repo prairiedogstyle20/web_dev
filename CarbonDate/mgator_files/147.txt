@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.yahoo.com/news/trump-apos-former-lawyer-says-152459960.html",
+  "self": "http://localhost:1208/timemap/json/https://www.yahoo.com/news/trump-apos-former-lawyer-says-152459960.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T03:16:18Z",
+        "uri": "http://web.archive.org/web/20190214031618/https://www.yahoo.com/news/trump-apos-former-lawyer-says-152459960.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T03:16:18Z",
+      "uri": "http://web.archive.org/web/20190214031618/https://www.yahoo.com/news/trump-apos-former-lawyer-says-152459960.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T03:16:18Z",
+      "uri": "http://web.archive.org/web/20190214031618/https://www.yahoo.com/news/trump-apos-former-lawyer-says-152459960.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.yahoo.com/news/trump-apos-former-lawyer-says-152459960.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.yahoo.com/news/trump-apos-former-lawyer-says-152459960.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.yahoo.com/news/trump-apos-former-lawyer-says-152459960.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.yahoo.com/news/trump-apos-former-lawyer-says-152459960.html"
+}

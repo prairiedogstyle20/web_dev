@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/http://mha123.blogspot.com/2019/02/westminster-dog-show-king-named-best-in.html",
+  "uri": "http://mha123.blogspot.com/2019/02/westminster-dog-show-king-named-best-in.html",
+  "estimated-creation-date": "2019-02-13T04:19:30",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T14:15:33"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T04:19:30"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

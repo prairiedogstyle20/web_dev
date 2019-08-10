@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://ws.bbc34.cs.streamuk.com/",
+  "uri": "https://ws.bbc34.cs.streamuk.com/",
+  "estimated-creation-date": "2016-12-06T00:22:58",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20161206002258/https://ws.bbc34.cs.streamuk.com/",
+      "memento-datetime": "2016-12-06T00:22:58",
+      "memento-pubdate": "",
+      "earliest": "2016-12-06T00:22:58"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

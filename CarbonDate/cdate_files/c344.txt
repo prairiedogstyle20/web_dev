@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thetimesherald.com/story/sports/high-school/2019/02/06/brandon-day-our-youth-sports-culture-broken/2791281002/",
+  "uri": "https://www.thetimesherald.com/story/sports/high-school/2019/02/06/brandon-day-our-youth-sports-culture-broken/2791281002/",
+  "estimated-creation-date": "2019-02-06T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:08:22"
+    },
+    "pubdate": {
+      "earliest": "2019-02-06T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T19:04:37"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nydailynews.com/news/politics/ny-pol-ny-schumer-trump-sign-bill-border-security-20190212-story.html",
+  "uri": "https://www.nydailynews.com/news/politics/ny-pol-ny-schumer-trump-sign-bill-border-security-20190212-story.html",
+  "estimated-creation-date": "2019-02-12T05:00:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T05:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213132924/http://www.nydailynews.com/news/politics/ny-pol-ny-schumer-trump-sign-bill-border-security-20190212-story.html",
+      "memento-datetime": "2019-02-13T13:29:24",
+      "memento-pubdate": "2019-02-12T05:00:00",
+      "earliest": "2019-02-12T05:00:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T17:22:03"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

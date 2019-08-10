@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.statesmanjournal.com/videos/sports/high-school/2019/02/13/south-salem-girls-basketball-holds-off-west-salem-leads-conference/2856711002/",
+  "uri": "https://www.statesmanjournal.com/videos/sports/high-school/2019/02/13/south-salem-girls-basketball-holds-off-west-salem-leads-conference/2856711002/",
+  "estimated-creation-date": "2019-02-13T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:17:02"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

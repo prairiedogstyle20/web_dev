@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://newsunbox.com/trump-says-he-has-a-lot-of-options-to-secure-his-border-wall-funds/",
+  "uri": "https://newsunbox.com/trump-says-he-has-a-lot-of-options-to-secure-his-border-wall-funds/",
+  "estimated-creation-date": "2019-02-13T20:29:20",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T20:29:20"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:19"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

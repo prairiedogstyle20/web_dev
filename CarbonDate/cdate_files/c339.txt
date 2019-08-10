@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS",
+  "uri": "https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS",
+  "estimated-creation-date": "2019-01-28T10:03:14",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190128100314/https://www.amazon.com/s/ref=nb_sb_ss_c_1_18?url=search-alias%3Daps&field-keywords=everything+trump+touches+dies&sprefix=everything+trump+t,aps,193&crid=3IC44WOS6J0BS",
+      "memento-datetime": "2019-01-28T10:03:14",
+      "memento-pubdate": "",
+      "earliest": "2019-01-28T10:03:14"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://news.biglobe.ne.jp/sports/0213/spn_190213_9153444543.html",
+  "uri": "https://news.biglobe.ne.jp/sports/0213/spn_190213_9153444543.html",
+  "estimated-creation-date": "2019-02-12T22:43:45",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T22:43:45"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

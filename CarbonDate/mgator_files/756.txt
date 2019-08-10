@@ -1,0 +1,63 @@
+10
+{
+  "original_uri": "https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump",
+  "self": "http://localhost:1208/timemap/json/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T18:55:20Z",
+        "uri": "http://web.archive.org/web/20190212185520/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+      },
+      {
+        "datetime": "2019-02-12T19:20:58Z",
+        "uri": "http://web.archive.org/web/20190212192058/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+      },
+      {
+        "datetime": "2019-02-12T19:27:13Z",
+        "uri": "http://web.archive.org/web/20190212192713/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+      },
+      {
+        "datetime": "2019-02-13T02:23:55Z",
+        "uri": "http://web.archive.org/web/20190213022355/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+      },
+      {
+        "datetime": "2019-02-13T03:14:20Z",
+        "uri": "http://web.archive.org/web/20190213031420/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+      },
+      {
+        "datetime": "2019-02-13T07:39:33Z",
+        "uri": "http://web.archive.org/web/20190213073933/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+      },
+      {
+        "datetime": "2019-02-13T08:31:07Z",
+        "uri": "http://web.archive.org/web/20190213083107/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+      },
+      {
+        "datetime": "2019-02-13T12:51:59Z",
+        "uri": "http://web.archive.org/web/20190213125159/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+      },
+      {
+        "datetime": "2019-02-14T05:35:24Z",
+        "uri": "http://web.archive.org/web/20190214053524/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+      },
+      {
+        "datetime": "2019-02-14T06:27:49Z",
+        "uri": "http://web.archive.org/web/20190214062749/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T18:55:20Z",
+      "uri": "http://web.archive.org/web/20190212185520/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+    },
+    "last": {
+      "datetime": "2019-02-14T06:27:49Z",
+      "uri": "http://web.archive.org/web/20190214062749/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump",
+    "json_format": "http://localhost:1208/timemap/json/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.theguardian.com/film/2019/feb/12/harrison-ford-world-government-summit-climate-change-trump"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.sports.ru/hockey/1071580568.html",
+  "uri": "https://www.sports.ru/hockey/1071580568.html",
+  "estimated-creation-date": "2019-02-13T20:30:53",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:53"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

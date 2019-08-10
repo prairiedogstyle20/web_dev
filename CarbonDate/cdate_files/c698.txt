@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.wsj.com/articles/china-u-s-seek-to-narrow-gap-on-trade-for-trump-xi-to-close-at-summit-11549976897?mod=pls_whats_news_us_business_f",
+  "uri": "https://www.wsj.com/articles/china-u-s-seek-to-narrow-gap-on-trade-for-trump-xi-to-close-at-summit-11549976897?mod=pls_whats_news_us_business_f",
+  "estimated-creation-date": "2019-02-13T01:18:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T01:18:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214123101/https://www.wsj.com/articles/china-u-s-seek-to-narrow-gap-on-trade-for-trump-xi-to-close-at-summit-11549976897?mod=pls_whats_news_us_business_f",
+      "memento-datetime": "2019-02-14T12:31:01",
+      "memento-pubdate": "2019-02-13T01:18:00",
+      "earliest": "2019-02-13T01:18:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T05:31:15"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

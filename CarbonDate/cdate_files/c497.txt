@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://bongino.com/dont-be-fooled-wages-are-not-stagnating-under-trump/",
+  "uri": "https://bongino.com/dont-be-fooled-wages-are-not-stagnating-under-trump/",
+  "estimated-creation-date": "2019-02-11T21:45:41",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-11T21:45:41"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190212183059/https://bongino.com/dont-be-fooled-wages-are-not-stagnating-under-trump/",
+      "memento-datetime": "2019-02-12T18:30:59",
+      "memento-pubdate": "2019-02-11T21:45:41",
+      "earliest": "2019-02-11T21:45:41"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-11T21:47:49"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

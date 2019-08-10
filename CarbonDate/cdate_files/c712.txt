@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://events.time.ly/8mebqa8/26226973?instance=20190214000000",
+  "uri": "https://events.time.ly/8mebqa8/26226973?instance=20190214000000",
+  "estimated-creation-date": "2019-02-13T08:00:02",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T08:00:02"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.usatoday.com/story/news/2019/02/13/whelan-brother-state-department-letting-him-languish-russia-jail/2840501002/",
+  "uri": "https://www.usatoday.com/story/news/2019/02/13/whelan-brother-state-department-letting-him-languish-russia-jail/2840501002/",
+  "estimated-creation-date": "2002-04-20T23:59:59",
+  "earliest-sources": [
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-14T21:44:41"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213200402/https://www.usatoday.com/story/news/2019/02/13/whelan-brother-state-department-letting-him-languish-russia-jail/2840501002/",
+      "memento-datetime": "2019-02-13T15:11:26",
+      "memento-pubdate": "2002-04-20T23:59:59",
+      "earliest": "2002-04-20T23:59:59"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T14:55:38"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

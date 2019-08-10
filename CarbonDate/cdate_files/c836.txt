@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://www.tokyo-sports.co.jp/entame/entertainment/1279939/",
+  "uri": "https://www.tokyo-sports.co.jp/entame/entertainment/1279939/",
+  "estimated-creation-date": "2019-02-13T16:00:12",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-14T10:09:54"
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214124041/https://www.tokyo-sports.co.jp/entame/entertainment/1279939/",
+      "memento-datetime": "2019-02-14T10:09:54",
+      "memento-pubdate": "",
+      "earliest": "2019-02-14T10:09:54"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T16:00:12"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

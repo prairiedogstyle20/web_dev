@@ -1,0 +1,51 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html",
+  "uri": "https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html",
+  "estimated-creation-date": "2018-08-24T16:05:34",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org",
+    "wayback.archive-it.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:56:09"
+    },
+    "pubdate": {
+      "earliest": "2018-08-24T16:05:34"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20180824183544/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html",
+      "memento-datetime": "2018-08-24T18:23:53",
+      "memento-pubdate": "2018-08-24T16:05:34",
+      "earliest": "2018-08-24T16:05:34"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20180824200657/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html",
+      "memento-datetime": "2018-08-24T20:06:57",
+      "memento-pubdate": "2018-08-24T20:06:57",
+      "earliest": "2018-08-24T20:06:57"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20180825012302/https://www.nytimes.com/2018/08/24/nyregion/trump-cuomo-history-new-york.html",
+      "memento-datetime": "2018-08-25T01:15:19",
+      "memento-pubdate": "2018-08-24T16:05:34",
+      "earliest": "2018-08-24T16:05:34"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:30:06"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

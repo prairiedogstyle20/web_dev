@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.nation.co.ke/sports/basketball/Triple-double-LeBron-James-but-Lakers-falter-Warriors-cruise/1128096-4979606-lb3r5m/index.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nation.co.ke/sports/basketball/Triple-double-LeBron-James-but-Lakers-falter-Warriors-cruise/1128096-4979606-lb3r5m/index.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T17:33:58Z",
+        "uri": "http://web.archive.org/web/20190213173358/https://www.nation.co.ke/sports/basketball/Triple-double-LeBron-James-but-Lakers-falter-Warriors-cruise/1128096-4979606-lb3r5m/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T17:33:58Z",
+      "uri": "http://web.archive.org/web/20190213173358/https://www.nation.co.ke/sports/basketball/Triple-double-LeBron-James-but-Lakers-falter-Warriors-cruise/1128096-4979606-lb3r5m/index.html"
+    },
+    "last": {
+      "datetime": "2019-02-13T17:33:58Z",
+      "uri": "http://web.archive.org/web/20190213173358/https://www.nation.co.ke/sports/basketball/Triple-double-LeBron-James-but-Lakers-falter-Warriors-cruise/1128096-4979606-lb3r5m/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nation.co.ke/sports/basketball/Triple-double-LeBron-James-but-Lakers-falter-Warriors-cruise/1128096-4979606-lb3r5m/index.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nation.co.ke/sports/basketball/Triple-double-LeBron-James-but-Lakers-falter-Warriors-cruise/1128096-4979606-lb3r5m/index.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nation.co.ke/sports/basketball/Triple-double-LeBron-James-but-Lakers-falter-Warriors-cruise/1128096-4979606-lb3r5m/index.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nation.co.ke/sports/basketball/Triple-double-LeBron-James-but-Lakers-falter-Warriors-cruise/1128096-4979606-lb3r5m/index.html"
+}

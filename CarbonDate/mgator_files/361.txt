@@ -1,0 +1,1039 @@
+254
+{
+  "original_uri": "https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html",
+  "self": "http://localhost:1208/timemap/json/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-12-14T15:18:56Z",
+        "uri": "http://web.archive.org/web/20171214151856/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-14T18:01:34Z",
+        "uri": "http://web.archive.org/web/20171214180134/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-14T19:49:18Z",
+        "uri": "http://web.archive.org/web/20171214194918/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-14T21:21:04Z",
+        "uri": "https://arquivo.pt/wayback/20171214212104/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T00:05:49Z",
+        "uri": "http://web.archive.org/web/20171215000549/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T01:09:54Z",
+        "uri": "http://web.archive.org/web/20171215010954/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T01:21:08Z",
+        "uri": "http://web.archive.org/web/20171215012108/http://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T04:02:48Z",
+        "uri": "http://web.archive.org/web/20171215040248/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T05:27:43Z",
+        "uri": "http://web.archive.org/web/20171215052743/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T08:06:57Z",
+        "uri": "http://wayback.archive-it.org/all/20171215080657/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T08:06:57Z",
+        "uri": "http://web.archive.org/web/20171215080657/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T09:16:10Z",
+        "uri": "http://web.archive.org/web/20171215091610/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T09:26:40Z",
+        "uri": "http://web.archive.org/web/20171215092640/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T09:41:41Z",
+        "uri": "http://web.archive.org/web/20171215094141/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T09:55:56Z",
+        "uri": "http://web.archive.org/web/20171215095556/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T12:14:59Z",
+        "uri": "http://web.archive.org/web/20171215121459/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-15T19:21:03Z",
+        "uri": "http://web.archive.org/web/20171215192103/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-16T00:30:04Z",
+        "uri": "http://web.archive.org/web/20171216003004/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-16T02:42:48Z",
+        "uri": "http://wayback.archive-it.org/all/20171216024248/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-16T02:42:48Z",
+        "uri": "http://web.archive.org/web/20171216024248/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-16T02:51:36Z",
+        "uri": "http://web.archive.org/web/20171216025136/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-16T08:06:43Z",
+        "uri": "http://web.archive.org/web/20171216080643/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-16T17:38:03Z",
+        "uri": "http://web.archive.org/web/20171216173803/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-17T00:25:05Z",
+        "uri": "http://web.archive.org/web/20171217002505/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-17T04:46:01Z",
+        "uri": "http://web.archive.org/web/20171217044601/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-17T05:01:27Z",
+        "uri": "http://web.archive.org/web/20171217050127/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-17T07:25:29Z",
+        "uri": "http://web.archive.org/web/20171217072529/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-17T08:07:50Z",
+        "uri": "http://web.archive.org/web/20171217080750/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-18T03:12:15Z",
+        "uri": "http://web.archive.org/web/20171218031215/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-18T10:08:29Z",
+        "uri": "http://web.archive.org/web/20171218100829/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-19T01:19:26Z",
+        "uri": "http://web.archive.org/web/20171219011926/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-19T03:10:02Z",
+        "uri": "http://web.archive.org/web/20171219031002/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-19T11:37:03Z",
+        "uri": "http://web.archive.org/web/20171219113703/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-20T04:53:41Z",
+        "uri": "http://web.archive.org/web/20171220045341/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-20T06:03:00Z",
+        "uri": "http://web.archive.org/web/20171220060300/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-21T04:46:07Z",
+        "uri": "http://web.archive.org/web/20171221044607/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-21T06:34:36Z",
+        "uri": "http://web.archive.org/web/20171221063436/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-21T07:09:50Z",
+        "uri": "http://web.archive.org/web/20171221070950/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-21T18:00:32Z",
+        "uri": "http://web.archive.org/web/20171221180032/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-22T08:58:57Z",
+        "uri": "http://web.archive.org/web/20171222085857/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-23T01:24:38Z",
+        "uri": "http://web.archive.org/web/20171223012438/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-23T04:41:01Z",
+        "uri": "http://web.archive.org/web/20171223044101/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-23T10:03:56Z",
+        "uri": "http://web.archive.org/web/20171223100356/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-24T01:28:44Z",
+        "uri": "http://web.archive.org/web/20171224012844/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-24T10:09:03Z",
+        "uri": "http://web.archive.org/web/20171224100903/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-24T10:32:16Z",
+        "uri": "http://wayback.archive-it.org/all/20171224103216/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-24T10:32:16Z",
+        "uri": "http://web.archive.org/web/20171224103216/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-25T01:40:20Z",
+        "uri": "http://web.archive.org/web/20171225014020/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-25T07:53:58Z",
+        "uri": "http://web.archive.org/web/20171225075358/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-26T02:13:39Z",
+        "uri": "http://web.archive.org/web/20171226021339/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-26T07:01:46Z",
+        "uri": "http://web.archive.org/web/20171226070146/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-27T02:22:06Z",
+        "uri": "http://web.archive.org/web/20171227022206/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-27T11:57:41Z",
+        "uri": "http://web.archive.org/web/20171227115741/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-28T02:35:54Z",
+        "uri": "http://web.archive.org/web/20171228023554/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-28T08:22:11Z",
+        "uri": "http://web.archive.org/web/20171228082211/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-28T12:38:03Z",
+        "uri": "http://web.archive.org/web/20171228123803/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-29T03:09:02Z",
+        "uri": "http://web.archive.org/web/20171229030902/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-30T03:23:48Z",
+        "uri": "http://web.archive.org/web/20171230032348/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2017-12-31T03:50:16Z",
+        "uri": "http://web.archive.org/web/20171231035016/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-01T04:12:27Z",
+        "uri": "http://web.archive.org/web/20180101041227/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-02T04:54:58Z",
+        "uri": "http://web.archive.org/web/20180102045458/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-02T05:08:25Z",
+        "uri": "http://web.archive.org/web/20180102050825/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-02T15:30:48Z",
+        "uri": "http://web.archive.org/web/20180102153048/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-03T03:55:55Z",
+        "uri": "http://web.archive.org/web/20180103035555/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-03T05:25:24Z",
+        "uri": "http://web.archive.org/web/20180103052524/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-04T20:03:38Z",
+        "uri": "http://web.archive.org/web/20180104200338/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-04T23:45:52Z",
+        "uri": "http://web.archive.org/web/20180104234552/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-05T20:50:51Z",
+        "uri": "http://web.archive.org/web/20180105205051/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-06T06:56:15Z",
+        "uri": "http://web.archive.org/web/20180106065615/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-06T08:35:02Z",
+        "uri": "http://web.archive.org/web/20180106083502/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-06T21:12:12Z",
+        "uri": "http://web.archive.org/web/20180106211212/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-06T21:19:32Z",
+        "uri": "http://web.archive.org/web/20180106211932/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-07T00:14:57Z",
+        "uri": "http://wayback.archive-it.org/all/20180107001457/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-07T00:14:57Z",
+        "uri": "http://web.archive.org/web/20180107001457/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-07T21:22:54Z",
+        "uri": "http://web.archive.org/web/20180107212254/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-07T21:54:07Z",
+        "uri": "http://web.archive.org/web/20180107215407/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-08T03:11:19Z",
+        "uri": "http://web.archive.org/web/20180108031119/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-10T03:03:30Z",
+        "uri": "http://web.archive.org/web/20180110030330/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-11T04:01:45Z",
+        "uri": "http://web.archive.org/web/20180111040145/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-12T06:41:16Z",
+        "uri": "http://web.archive.org/web/20180112064116/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-17T22:02:31Z",
+        "uri": "http://web.archive.org/web/20180117220231/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-22T12:10:22Z",
+        "uri": "http://web.archive.org/web/20180122121022/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-23T12:21:25Z",
+        "uri": "http://web.archive.org/web/20180123122125/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-23T17:17:27Z",
+        "uri": "http://web.archive.org/web/20180123171727/http://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-23T18:48:14Z",
+        "uri": "http://web.archive.org/web/20180123184814/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-25T14:16:59Z",
+        "uri": "http://web.archive.org/web/20180125141659/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-25T15:23:09Z",
+        "uri": "http://wayback.archive-it.org/all/20180125152309/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-25T15:23:09Z",
+        "uri": "http://web.archive.org/web/20180125152309/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-25T15:23:34Z",
+        "uri": "http://wayback.archive-it.org/all/20180125152334/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-25T15:23:34Z",
+        "uri": "http://web.archive.org/web/20180125152334/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-25T23:40:36Z",
+        "uri": "http://web.archive.org/web/20180125234036/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-28T19:01:02Z",
+        "uri": "http://web.archive.org/web/20180128190102/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-01-31T14:54:39Z",
+        "uri": "http://web.archive.org/web/20180131145439/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-01T03:57:21Z",
+        "uri": "http://web.archive.org/web/20180201035721/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-01T16:17:22Z",
+        "uri": "http://web.archive.org/web/20180201161722/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-03T21:34:19Z",
+        "uri": "http://web.archive.org/web/20180203213419/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-05T17:17:31Z",
+        "uri": "http://web.archive.org/web/20180205171731/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-05T23:54:57Z",
+        "uri": "http://web.archive.org/web/20180205235457/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-06T21:14:37Z",
+        "uri": "http://web.archive.org/web/20180206211437/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-07T03:00:06Z",
+        "uri": "http://web.archive.org/web/20180207030006/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-11T23:35:29Z",
+        "uri": "http://web.archive.org/web/20180211233529/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-14T02:12:35Z",
+        "uri": "http://web.archive.org/web/20180214021235/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-16T04:02:53Z",
+        "uri": "http://web.archive.org/web/20180216040253/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-19T03:39:14Z",
+        "uri": "http://web.archive.org/web/20180219033914/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-24T07:26:04Z",
+        "uri": "http://web.archive.org/web/20180224072604/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-25T10:14:50Z",
+        "uri": "http://web.archive.org/web/20180225101450/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-25T10:29:38Z",
+        "uri": "http://web.archive.org/web/20180225102938/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-25T12:01:50Z",
+        "uri": "http://wayback.archive-it.org/all/20180225120150/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-25T12:01:50Z",
+        "uri": "http://web.archive.org/web/20180225120150/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-26T11:58:47Z",
+        "uri": "http://web.archive.org/web/20180226115847/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-02-28T11:41:56Z",
+        "uri": "http://web.archive.org/web/20180228114156/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-03-02T19:23:20Z",
+        "uri": "http://web.archive.org/web/20180302192320/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-03-05T17:36:43Z",
+        "uri": "http://web.archive.org/web/20180305173643/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-03-13T08:01:06Z",
+        "uri": "http://web.archive.org/web/20180313080106/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-03-18T02:53:58Z",
+        "uri": "http://web.archive.org/web/20180318025358/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-03-18T22:20:35Z",
+        "uri": "http://web.archive.org/web/20180318222035/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-03-19T03:15:37Z",
+        "uri": "http://web.archive.org/web/20180319031537/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-03-19T03:49:52Z",
+        "uri": "http://web.archive.org/web/20180319034952/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-03-24T10:20:09Z",
+        "uri": "http://web.archive.org/web/20180324102009/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-03-25T14:08:46Z",
+        "uri": "http://web.archive.org/web/20180325140846/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-01T18:06:06Z",
+        "uri": "http://web.archive.org/web/20180401180606/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-03T01:16:46Z",
+        "uri": "http://web.archive.org/web/20180403011646/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-06T07:48:05Z",
+        "uri": "http://web.archive.org/web/20180406074805/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-07T08:13:10Z",
+        "uri": "http://web.archive.org/web/20180407081310/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-08T09:24:40Z",
+        "uri": "http://web.archive.org/web/20180408092440/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-08T10:40:36Z",
+        "uri": "http://web.archive.org/web/20180408104036/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-09T14:56:22Z",
+        "uri": "http://web.archive.org/web/20180409145622/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-11T11:30:02Z",
+        "uri": "http://web.archive.org/web/20180411113002/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-12T07:30:03Z",
+        "uri": "http://web.archive.org/web/20180412073003/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-13T08:51:44Z",
+        "uri": "http://web.archive.org/web/20180413085144/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-14T10:19:56Z",
+        "uri": "http://web.archive.org/web/20180414101956/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-15T11:59:49Z",
+        "uri": "http://web.archive.org/web/20180415115949/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-16T23:58:12Z",
+        "uri": "http://web.archive.org/web/20180416235812/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-17T13:48:07Z",
+        "uri": "http://web.archive.org/web/20180417134807/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-18T09:01:57Z",
+        "uri": "http://web.archive.org/web/20180418090157/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-19T14:30:52Z",
+        "uri": "http://web.archive.org/web/20180419143052/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-20T21:42:41Z",
+        "uri": "http://web.archive.org/web/20180420214241/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-22T05:08:21Z",
+        "uri": "http://web.archive.org/web/20180422050821/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-22T20:25:14Z",
+        "uri": "http://web.archive.org/web/20180422202514/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-23T23:20:55Z",
+        "uri": "http://web.archive.org/web/20180423232055/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-26T18:43:15Z",
+        "uri": "http://web.archive.org/web/20180426184315/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-28T08:00:05Z",
+        "uri": "http://web.archive.org/web/20180428080005/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-04-29T01:13:42Z",
+        "uri": "http://web.archive.org/web/20180429011342/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-01T06:38:10Z",
+        "uri": "http://web.archive.org/web/20180501063810/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-02T18:51:15Z",
+        "uri": "http://wayback.archive-it.org/all/20180502185115/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-02T18:51:15Z",
+        "uri": "http://web.archive.org/web/20180502185115/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-03T07:23:31Z",
+        "uri": "http://web.archive.org/web/20180503072331/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-03T18:45:54Z",
+        "uri": "http://wayback.archive-it.org/all/20180503184554/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-03T18:45:54Z",
+        "uri": "http://web.archive.org/web/20180503184554/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-04T06:43:37Z",
+        "uri": "http://web.archive.org/web/20180504064337/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-04T18:54:12Z",
+        "uri": "http://wayback.archive-it.org/all/20180504185412/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-04T18:54:12Z",
+        "uri": "http://web.archive.org/web/20180504185412/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-05T08:10:37Z",
+        "uri": "http://web.archive.org/web/20180505081037/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-05T19:03:15Z",
+        "uri": "http://wayback.archive-it.org/all/20180505190315/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-05T19:03:15Z",
+        "uri": "http://web.archive.org/web/20180505190315/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-07T00:55:06Z",
+        "uri": "http://wayback.archive-it.org/all/20180507005506/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-07T00:55:06Z",
+        "uri": "http://web.archive.org/web/20180507005506/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-08T00:28:04Z",
+        "uri": "http://wayback.archive-it.org/all/20180508002804/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-08T00:28:04Z",
+        "uri": "http://web.archive.org/web/20180508002804/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-08T06:45:50Z",
+        "uri": "http://web.archive.org/web/20180508064550/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-08T19:05:15Z",
+        "uri": "http://wayback.archive-it.org/all/20180508190515/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-08T19:05:15Z",
+        "uri": "http://web.archive.org/web/20180508190515/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-09T18:48:27Z",
+        "uri": "http://wayback.archive-it.org/all/20180509184827/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-09T18:48:27Z",
+        "uri": "http://web.archive.org/web/20180509184827/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-10T10:01:05Z",
+        "uri": "http://web.archive.org/web/20180510100105/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-10T19:02:51Z",
+        "uri": "http://wayback.archive-it.org/all/20180510190251/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-10T19:02:51Z",
+        "uri": "http://web.archive.org/web/20180510190251/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-11T18:48:38Z",
+        "uri": "http://web.archive.org/web/20180511184838/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-11T19:10:37Z",
+        "uri": "http://wayback.archive-it.org/all/20180511191037/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-11T19:10:37Z",
+        "uri": "http://web.archive.org/web/20180511191037/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-13T06:26:30Z",
+        "uri": "http://wayback.archive-it.org/all/20180513062630/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-13T06:26:30Z",
+        "uri": "http://web.archive.org/web/20180513062630/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-13T19:33:43Z",
+        "uri": "http://wayback.archive-it.org/all/20180513193343/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-13T19:33:43Z",
+        "uri": "http://web.archive.org/web/20180513193343/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-15T04:45:11Z",
+        "uri": "http://wayback.archive-it.org/all/20180515044511/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-15T04:45:11Z",
+        "uri": "http://web.archive.org/web/20180515044511/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-15T18:49:20Z",
+        "uri": "http://wayback.archive-it.org/all/20180515184920/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-15T18:49:20Z",
+        "uri": "http://web.archive.org/web/20180515184920/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-16T19:13:55Z",
+        "uri": "http://wayback.archive-it.org/all/20180516191355/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-16T19:13:55Z",
+        "uri": "http://web.archive.org/web/20180516191355/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-17T07:45:19Z",
+        "uri": "http://web.archive.org/web/20180517074519/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-17T19:11:57Z",
+        "uri": "http://wayback.archive-it.org/all/20180517191157/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-17T19:11:57Z",
+        "uri": "http://web.archive.org/web/20180517191157/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-18T03:59:59Z",
+        "uri": "http://web.archive.org/web/20180518035959/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-18T13:20:01Z",
+        "uri": "http://web.archive.org/web/20180518132001/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-19T05:20:18Z",
+        "uri": "http://wayback.archive-it.org/all/20180519052018/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-19T05:20:18Z",
+        "uri": "http://web.archive.org/web/20180519052018/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-19T19:29:58Z",
+        "uri": "http://wayback.archive-it.org/all/20180519192958/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-19T19:29:58Z",
+        "uri": "http://web.archive.org/web/20180519192958/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-20T23:18:09Z",
+        "uri": "http://wayback.archive-it.org/all/20180520231809/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-20T23:18:09Z",
+        "uri": "http://web.archive.org/web/20180520231809/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-21T19:22:17Z",
+        "uri": "http://wayback.archive-it.org/all/20180521192217/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-21T19:22:17Z",
+        "uri": "http://web.archive.org/web/20180521192217/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-25T22:22:22Z",
+        "uri": "http://web.archive.org/web/20180525222222/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-05-29T23:55:48Z",
+        "uri": "http://web.archive.org/web/20180529235548/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-06-05T09:58:32Z",
+        "uri": "http://web.archive.org/web/20180605095832/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-06-11T17:35:52Z",
+        "uri": "http://web.archive.org/web/20180611173552/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-06-11T19:33:34Z",
+        "uri": "http://web.archive.org/web/20180611193334/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-06-14T06:22:06Z",
+        "uri": "http://web.archive.org/web/20180614062206/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-06-18T01:53:09Z",
+        "uri": "http://web.archive.org/web/20180618015309/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-06-18T01:53:11Z",
+        "uri": "http://web.archive.org/web/20180618015311/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-06-20T08:24:39Z",
+        "uri": "http://web.archive.org/web/20180620082439/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-06-27T06:06:37Z",
+        "uri": "http://web.archive.org/web/20180627060637/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-07-02T01:12:32Z",
+        "uri": "http://web.archive.org/web/20180702011232/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-07-03T16:10:45Z",
+        "uri": "http://web.archive.org/web/20180703161045/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-07-09T00:36:22Z",
+        "uri": "http://wayback.archive-it.org/all/20180709003622/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-07-09T00:36:22Z",
+        "uri": "http://web.archive.org/web/20180709003622/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-07-21T20:11:46Z",
+        "uri": "http://web.archive.org/web/20180721201146/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-07-24T11:19:02Z",
+        "uri": "http://web.archive.org/web/20180724111902/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-07-31T16:00:11Z",
+        "uri": "http://web.archive.org/web/20180731160011/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-08-04T04:45:14Z",
+        "uri": "http://wayback.archive-it.org/all/20180804044514/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-08-04T04:45:14Z",
+        "uri": "http://web.archive.org/web/20180804044514/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-08-08T15:57:59Z",
+        "uri": "http://web.archive.org/web/20180808155759/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-08-11T16:32:00Z",
+        "uri": "http://web.archive.org/web/20180811163200/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-08-17T14:11:11Z",
+        "uri": "http://web.archive.org/web/20180817141111/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-08-20T07:20:30Z",
+        "uri": "http://web.archive.org/web/20180820072030/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-08-22T13:46:39Z",
+        "uri": "http://web.archive.org/web/20180822134639/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-08-28T16:41:24Z",
+        "uri": "http://web.archive.org/web/20180828164124/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-09-04T17:35:39Z",
+        "uri": "http://web.archive.org/web/20180904173539/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-09-11T15:42:05Z",
+        "uri": "http://web.archive.org/web/20180911154205/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-09-18T13:20:00Z",
+        "uri": "http://web.archive.org/web/20180918132000/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-10-04T09:51:47Z",
+        "uri": "http://web.archive.org/web/20181004095147/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-10-10T14:05:24Z",
+        "uri": "http://web.archive.org/web/20181010140524/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-10-11T06:48:21Z",
+        "uri": "http://web.archive.org/web/20181011064821/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-10-11T17:14:48Z",
+        "uri": "http://web.archive.org/web/20181011171448/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-10-13T18:37:46Z",
+        "uri": "http://web.archive.org/web/20181013183746/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-10-17T02:40:06Z",
+        "uri": "http://web.archive.org/web/20181017024006/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-10-23T13:51:48Z",
+        "uri": "http://web.archive.org/web/20181023135148/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-10-25T09:23:37Z",
+        "uri": "http://web.archive.org/web/20181025092337/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-10-26T06:42:33Z",
+        "uri": "http://web.archive.org/web/20181026064233/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-10-30T14:24:02Z",
+        "uri": "http://web.archive.org/web/20181030142402/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-11-07T00:23:11Z",
+        "uri": "http://web.archive.org/web/20181107002311/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-11-15T12:55:37Z",
+        "uri": "http://web.archive.org/web/20181115125537/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-11-20T10:29:03Z",
+        "uri": "http://web.archive.org/web/20181120102903/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-11-27T12:10:27Z",
+        "uri": "http://web.archive.org/web/20181127121027/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-11-27T13:53:55Z",
+        "uri": "http://web.archive.org/web/20181127135355/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-12-04T13:56:05Z",
+        "uri": "http://web.archive.org/web/20181204135605/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-12-07T21:01:55Z",
+        "uri": "http://web.archive.org/web/20181207210155/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-12-11T14:36:47Z",
+        "uri": "http://web.archive.org/web/20181211143647/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-12-15T14:12:49Z",
+        "uri": "http://web.archive.org/web/20181215141249/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-12-17T18:07:50Z",
+        "uri": "http://web.archive.org/web/20181217180750/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-12-18T09:19:56Z",
+        "uri": "http://web.archive.org/web/20181218091956/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2018-12-26T21:30:22Z",
+        "uri": "http://web.archive.org/web/20181226213022/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2019-01-01T04:18:25Z",
+        "uri": "http://web.archive.org/web/20190101041825/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2019-01-01T12:04:47Z",
+        "uri": "http://web.archive.org/web/20190101120447/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2019-01-08T20:15:25Z",
+        "uri": "http://web.archive.org/web/20190108201525/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2019-01-15T13:54:47Z",
+        "uri": "http://web.archive.org/web/20190115135447/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2019-01-23T18:26:05Z",
+        "uri": "http://web.archive.org/web/20190123182605/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2019-01-29T14:31:27Z",
+        "uri": "http://web.archive.org/web/20190129143127/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2019-02-05T10:27:29Z",
+        "uri": "http://web.archive.org/web/20190205102729/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2019-02-07T19:24:26Z",
+        "uri": "http://web.archive.org/web/20190207192426/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2019-02-08T10:51:27Z",
+        "uri": "http://web.archive.org/web/20190208105127/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2019-02-10T10:11:20Z",
+        "uri": "http://web.archive.org/web/20190210101120/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      },
+      {
+        "datetime": "2019-02-12T16:14:20Z",
+        "uri": "http://web.archive.org/web/20190212161420/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+      }
+    ],
+    "first": {
+      "datetime": "2017-12-14T15:18:56Z",
+      "uri": "http://web.archive.org/web/20171214151856/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+    },
+    "last": {
+      "datetime": "2019-02-12T16:14:20Z",
+      "uri": "http://web.archive.org/web/20190212161420/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.nytimes.com/interactive/2017/12/14/opinion/sunday/trump-lies-obama-who-is-worse.html"
+}

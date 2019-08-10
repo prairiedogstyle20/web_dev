@@ -1,0 +1,32 @@
+{
+  "self": "http://localhost:8888/cd/https://www.news2.fr/2019/02/13/trump-shields-the-saudi-crown-prince/",
+  "uri": "https://www.news2.fr/2019/02/13/trump-shields-the-saudi-crown-prince/",
+  "estimated-creation-date": "2019-02-13T07:58:34",
+  "earliest-sources": [
+    "pubdate",
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T07:58:34"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:58:34"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

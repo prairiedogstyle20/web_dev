@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://actualidad.rt.com/actualidad/305446-historia-insolito-muro-trump-argentina",
+  "uri": "https://actualidad.rt.com/actualidad/305446-historia-insolito-muro-trump-argentina",
+  "estimated-creation-date": "2019-02-13T16:44:34",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213220416/https://actualidad.rt.com/actualidad/305446-historia-insolito-muro-trump-argentina",
+      "memento-datetime": "2019-02-13T22:04:16",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T22:04:16"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T16:44:34"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

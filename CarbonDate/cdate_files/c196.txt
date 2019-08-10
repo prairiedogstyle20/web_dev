@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://paper.li/tendershadow/newspaper?edition_id=f71d2bf0-2f64-11e9-b211-0cc47a0d164b",
+  "uri": "https://paper.li/tendershadow/newspaper?edition_id=f71d2bf0-2f64-11e9-b211-0cc47a0d164b",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

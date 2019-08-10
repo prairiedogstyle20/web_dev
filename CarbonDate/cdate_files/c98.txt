@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.indy100.com/article/republicans-hillary-clinton-trump-slogan-twitter-2016-campaign-8775901",
+  "uri": "https://www.indy100.com/article/republicans-hillary-clinton-trump-slogan-twitter-2016-campaign-8775901",
+  "estimated-creation-date": "2019-02-12T16:52:26",
+  "earliest-sources": [
+    "last-modified",
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-12T16:52:26"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T16:52:26"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213182038/http://www.indy100.com/article/republicans-hillary-clinton-trump-slogan-twitter-2016-campaign-8775901",
+      "memento-datetime": "2019-02-13T18:20:38",
+      "memento-pubdate": "",
+      "earliest": "2019-02-13T18:20:38"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T17:15:41"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

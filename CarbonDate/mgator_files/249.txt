@@ -1,0 +1,247 @@
+56
+{
+  "original_uri": "http://paceandspacehoops.com/",
+  "self": "http://localhost:1208/timemap/json/http://paceandspacehoops.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-12-27T00:55:19Z",
+        "uri": "http://web.archive.org/web/20151227005519/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2016-01-08T00:45:29Z",
+        "uri": "http://web.archive.org/web/20160108004529/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2016-02-09T18:46:51Z",
+        "uri": "http://web.archive.org/web/20160209184651/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2016-03-12T00:22:49Z",
+        "uri": "http://web.archive.org/web/20160312002249/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2016-05-22T21:50:30Z",
+        "uri": "http://web.archive.org/web/20160522215030/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2016-06-23T01:14:51Z",
+        "uri": "http://web.archive.org/web/20160623011451/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2016-08-02T06:04:09Z",
+        "uri": "http://web.archive.org/web/20160802060409/http://paceandspacehoops.com/"
+      },
+      {
+        "datetime": "2016-08-06T22:45:12Z",
+        "uri": "http://web.archive.org/web/20160806224512/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2016-09-06T23:05:52Z",
+        "uri": "http://web.archive.org/web/20160906230552/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2016-10-08T02:11:18Z",
+        "uri": "http://web.archive.org/web/20161008021118/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2016-10-09T21:24:29Z",
+        "uri": "http://web.archive.org/web/20161009212429/http://paceandspacehoops.com/"
+      },
+      {
+        "datetime": "2016-11-10T06:29:14Z",
+        "uri": "http://web.archive.org/web/20161110062914/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2016-11-11T10:23:31Z",
+        "uri": "http://web.archive.org/web/20161111102331/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2016-11-21T22:40:15Z",
+        "uri": "http://web.archive.org/web/20161121224015/http://paceandspacehoops.com/"
+      },
+      {
+        "datetime": "2016-12-11T11:28:53Z",
+        "uri": "http://web.archive.org/web/20161211112853/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2017-01-19T16:21:52Z",
+        "uri": "http://webarchive.loc.gov/all/20170119162152/http://paceandspacehoops.com/"
+      },
+      {
+        "datetime": "2017-01-26T22:30:38Z",
+        "uri": "http://webarchive.loc.gov/all/20170126223038/http://paceandspacehoops.com/"
+      },
+      {
+        "datetime": "2017-04-15T06:46:39Z",
+        "uri": "http://webarchive.loc.gov/all/20170415064639/http://paceandspacehoops.com/"
+      },
+      {
+        "datetime": "2017-04-28T21:10:24Z",
+        "uri": "http://web.archive.org/web/20170428211024/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2017-05-16T04:02:46Z",
+        "uri": "http://web.archive.org/web/20170516040246/http://paceandspacehoops.com/"
+      },
+      {
+        "datetime": "2017-05-16T23:38:41Z",
+        "uri": "http://web.archive.org/web/20170516233841/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2017-05-30T01:03:55Z",
+        "uri": "http://web.archive.org/web/20170530010355/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2017-06-17T14:22:41Z",
+        "uri": "http://web.archive.org/web/20170617142241/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2017-06-29T18:28:28Z",
+        "uri": "http://web.archive.org/web/20170629182828/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2017-07-19T11:19:59Z",
+        "uri": "http://web.archive.org/web/20170719111959/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2017-07-30T14:02:42Z",
+        "uri": "http://web.archive.org/web/20170730140242/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2017-08-19T16:15:51Z",
+        "uri": "http://web.archive.org/web/20170819161551/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2017-08-30T16:03:28Z",
+        "uri": "http://web.archive.org/web/20170830160328/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2017-09-12T15:22:14Z",
+        "uri": "http://web.archive.org/web/20170912152214/http://paceandspacehoops.com/"
+      },
+      {
+        "datetime": "2017-09-19T23:06:37Z",
+        "uri": "http://web.archive.org/web/20170919230637/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2017-09-21T01:50:36Z",
+        "uri": "http://web.archive.org/web/20170921015036/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2017-09-30T16:32:27Z",
+        "uri": "http://web.archive.org/web/20170930163227/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2017-10-02T03:16:16Z",
+        "uri": "http://web.archive.org/web/20171002031616/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2017-10-22T10:36:44Z",
+        "uri": "http://web.archive.org/web/20171022103644/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2017-11-01T15:27:03Z",
+        "uri": "http://web.archive.org/web/20171101152703/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2017-11-22T02:56:55Z",
+        "uri": "http://web.archive.org/web/20171122025655/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2017-12-03T02:31:39Z",
+        "uri": "http://web.archive.org/web/20171203023139/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2017-12-23T14:12:59Z",
+        "uri": "http://web.archive.org/web/20171223141259/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2018-01-03T03:27:48Z",
+        "uri": "http://web.archive.org/web/20180103032748/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2018-01-23T18:51:58Z",
+        "uri": "http://web.archive.org/web/20180123185158/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2018-01-25T09:46:33Z",
+        "uri": "http://web.archive.org/web/20180125094633/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2018-01-25T23:44:09Z",
+        "uri": "http://web.archive.org/web/20180125234409/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2018-02-03T12:11:46Z",
+        "uri": "http://web.archive.org/web/20180203121146/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2018-03-05T10:56:01Z",
+        "uri": "http://web.archive.org/web/20180305105601/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2018-03-07T06:06:21Z",
+        "uri": "http://web.archive.org/web/20180307060621/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2018-03-14T21:15:10Z",
+        "uri": "http://web.archive.org/web/20180314211510/http://paceandspacehoops.com/"
+      },
+      {
+        "datetime": "2018-04-05T10:37:44Z",
+        "uri": "http://web.archive.org/web/20180405103744/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2018-04-07T10:42:34Z",
+        "uri": "http://web.archive.org/web/20180407104234/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2018-05-09T02:40:36Z",
+        "uri": "http://web.archive.org/web/20180509024036/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2018-06-07T02:56:04Z",
+        "uri": "http://web.archive.org/web/20180607025604/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2018-06-08T21:16:46Z",
+        "uri": "http://web.archive.org/web/20180608211646/http://paceandspacehoops.com:80/?"
+      },
+      {
+        "datetime": "2018-07-07T23:27:47Z",
+        "uri": "http://web.archive.org/web/20180707232747/http://paceandspacehoops.com:80/"
+      },
+      {
+        "datetime": "2018-08-09T01:04:35Z",
+        "uri": "http://web.archive.org/web/20180809010435/http://paceandspacehoops.com/"
+      },
+      {
+        "datetime": "2018-10-06T09:49:16Z",
+        "uri": "http://web.archive.org/web/20181006094916/http://paceandspacehoops.com/"
+      },
+      {
+        "datetime": "2018-12-31T02:04:33Z",
+        "uri": "http://web.archive.org/web/20181231020433/http://paceandspacehoops.com/"
+      },
+      {
+        "datetime": "2019-01-27T13:26:19Z",
+        "uri": "http://web.archive.org/web/20190127132619/http://paceandspacehoops.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2015-12-27T00:55:19Z",
+      "uri": "http://web.archive.org/web/20151227005519/http://paceandspacehoops.com:80/"
+    },
+    "last": {
+      "datetime": "2019-01-27T13:26:19Z",
+      "uri": "http://web.archive.org/web/20190127132619/http://paceandspacehoops.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://paceandspacehoops.com/",
+    "json_format": "http://localhost:1208/timemap/json/http://paceandspacehoops.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://paceandspacehoops.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://paceandspacehoops.com/"
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "http://americanupdate.com/articles/actor-chris-evans-mocks-trump-and-his-voters",
+  "self": "http://localhost:1208/timemap/json/http://americanupdate.com/articles/actor-chris-evans-mocks-trump-and-his-voters",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T13:16:02Z",
+        "uri": "http://web.archive.org/web/20190213131602/http://americanupdate.com/articles/actor-chris-evans-mocks-trump-and-his-voters"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T13:16:02Z",
+      "uri": "http://web.archive.org/web/20190213131602/http://americanupdate.com/articles/actor-chris-evans-mocks-trump-and-his-voters"
+    },
+    "last": {
+      "datetime": "2019-02-13T13:16:02Z",
+      "uri": "http://web.archive.org/web/20190213131602/http://americanupdate.com/articles/actor-chris-evans-mocks-trump-and-his-voters"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://americanupdate.com/articles/actor-chris-evans-mocks-trump-and-his-voters",
+    "json_format": "http://localhost:1208/timemap/json/http://americanupdate.com/articles/actor-chris-evans-mocks-trump-and-his-voters",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://americanupdate.com/articles/actor-chris-evans-mocks-trump-and-his-voters"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://americanupdate.com/articles/actor-chris-evans-mocks-trump-and-his-voters"
+}

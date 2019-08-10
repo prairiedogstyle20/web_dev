@@ -1,0 +1,49 @@
+{
+  "self": "http://localhost:8888/cd/https://www.newyorker.com/humor/borowitz-report/trump-picks-el-chapo-to-run-d-e-a",
+  "uri": "https://www.newyorker.com/humor/borowitz-report/trump-picks-el-chapo-to-run-d-e-a",
+  "estimated-creation-date": "2016-11-28T00:00:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2016-11-28T00:00:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20161128152917/http://www.newyorker.com/humor/borowitz-report/trump-picks-el-chapo-to-run-d-e-a",
+      "memento-datetime": "2016-11-28T15:29:17",
+      "memento-pubdate": "2016-11-28T08:29:01",
+      "earliest": "2016-11-28T08:29:01"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20161128161031/http://www.newyorker.com/humor/borowitz-report/trump-picks-el-chapo-to-run-d-e-a",
+      "memento-datetime": "2016-11-28T16:10:31",
+      "memento-pubdate": "2016-11-28T16:10:31",
+      "earliest": "2016-11-28T16:10:31"
+    },
+    "wayback.archive-it.org": {
+      "uri-m": "http://wayback.archive-it.org/all/20170528170921/http://www.newyorker.com/humor/borowitz-report/trump-picks-el-chapo-to-run-d-e-a",
+      "memento-datetime": "2017-05-28T17:09:21",
+      "memento-pubdate": "2016-11-28T08:29:01",
+      "earliest": "2016-11-28T08:29:01"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-07T14:48:29"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

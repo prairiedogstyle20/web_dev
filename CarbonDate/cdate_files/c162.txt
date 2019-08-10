@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/",
+  "uri": "https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/",
+  "estimated-creation-date": "2019-02-13T15:12:43",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T15:12:43"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214062859/https://www.thegatewaypundit.com/2019/02/cnn-hack-jim-acosta-whines-about-trump-supporters-making-fun-of-him-at-rallies-video/",
+      "memento-datetime": "2019-02-14T06:28:59",
+      "memento-pubdate": "2019-02-13T15:12:43",
+      "earliest": "2019-02-13T15:12:43"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T22:03:05"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://www.walesonline.co.uk/news/wales-news/boys-banned-playing-netball-urdd-15825982",
+  "self": "http://localhost:1208/timemap/json/https://www.walesonline.co.uk/news/wales-news/boys-banned-playing-netball-urdd-15825982",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T20:21:41Z",
+        "uri": "http://web.archive.org/web/20190213202141/https://www.walesonline.co.uk/news/wales-news/boys-banned-playing-netball-urdd-15825982"
+      },
+      {
+        "datetime": "2019-02-14T14:26:44Z",
+        "uri": "http://web.archive.org/web/20190214142644/https://www.walesonline.co.uk/news/wales-news/boys-banned-playing-netball-urdd-15825982"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T20:21:41Z",
+      "uri": "http://web.archive.org/web/20190213202141/https://www.walesonline.co.uk/news/wales-news/boys-banned-playing-netball-urdd-15825982"
+    },
+    "last": {
+      "datetime": "2019-02-14T14:26:44Z",
+      "uri": "http://web.archive.org/web/20190214142644/https://www.walesonline.co.uk/news/wales-news/boys-banned-playing-netball-urdd-15825982"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.walesonline.co.uk/news/wales-news/boys-banned-playing-netball-urdd-15825982",
+    "json_format": "http://localhost:1208/timemap/json/https://www.walesonline.co.uk/news/wales-news/boys-banned-playing-netball-urdd-15825982",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.walesonline.co.uk/news/wales-news/boys-banned-playing-netball-urdd-15825982"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.walesonline.co.uk/news/wales-news/boys-banned-playing-netball-urdd-15825982"
+}

@@ -1,0 +1,107 @@
+21
+{
+  "original_uri": "https://www.envirobuild.com/blogs/articles/donald-trump-amphibian",
+  "self": "http://localhost:1208/timemap/json/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-12-18T19:39:06Z",
+        "uri": "http://web.archive.org/web/20181218193906/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-19T13:43:40Z",
+        "uri": "http://web.archive.org/web/20181219134340/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-20T00:43:38Z",
+        "uri": "http://web.archive.org/web/20181220004338/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-20T02:51:55Z",
+        "uri": "http://web.archive.org/web/20181220025155/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-20T07:41:44Z",
+        "uri": "http://web.archive.org/web/20181220074144/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-20T08:02:00Z",
+        "uri": "http://wayback.archive-it.org/all/20181220080200/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-20T08:02:00Z",
+        "uri": "http://web.archive.org/web/20181220080200/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-20T11:21:32Z",
+        "uri": "http://web.archive.org/web/20181220112132/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-21T16:12:41Z",
+        "uri": "http://web.archive.org/web/20181221161241/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-22T18:39:37Z",
+        "uri": "http://web.archive.org/web/20181222183937/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-23T18:36:25Z",
+        "uri": "http://web.archive.org/web/20181223183625/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-24T15:08:55Z",
+        "uri": "http://web.archive.org/web/20181224150855/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-25T14:19:16Z",
+        "uri": "http://web.archive.org/web/20181225141916/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-27T23:13:32Z",
+        "uri": "http://web.archive.org/web/20181227231332/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-28T17:38:44Z",
+        "uri": "http://web.archive.org/web/20181228173844/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-29T21:09:26Z",
+        "uri": "http://web.archive.org/web/20181229210926/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-30T18:53:41Z",
+        "uri": "http://web.archive.org/web/20181230185341/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2018-12-31T18:52:47Z",
+        "uri": "http://web.archive.org/web/20181231185247/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2019-01-01T23:59:07Z",
+        "uri": "http://web.archive.org/web/20190101235907/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2019-01-02T20:30:49Z",
+        "uri": "http://web.archive.org/web/20190102203049/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      },
+      {
+        "datetime": "2019-02-02T23:01:47Z",
+        "uri": "http://web.archive.org/web/20190202230147/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+      }
+    ],
+    "first": {
+      "datetime": "2018-12-18T19:39:06Z",
+      "uri": "http://web.archive.org/web/20181218193906/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+    },
+    "last": {
+      "datetime": "2019-02-02T23:01:47Z",
+      "uri": "http://web.archive.org/web/20190202230147/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian",
+    "json_format": "http://localhost:1208/timemap/json/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.envirobuild.com/blogs/articles/donald-trump-amphibian"
+}

@@ -1,0 +1,37 @@
+{
+  "self": "http://localhost:8888/cd/https://sports.ndtv.com/cricket/world-cup-2019-pakistan-can-beat-india-in-this-world-cup-feels-moin-khan-1993016",
+  "uri": "https://sports.ndtv.com/cricket/world-cup-2019-pakistan-can-beat-india-in-this-world-cup-feels-moin-khan-1993016",
+  "estimated-creation-date": "2019-02-13T11:43:19",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T16:33:51"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T19:16:12"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190214053400/https://sports.ndtv.com/cricket/world-cup-2019-pakistan-can-beat-india-in-this-world-cup-feels-moin-khan-1993016",
+      "memento-datetime": "2019-02-14T05:33:56",
+      "memento-pubdate": "2019-02-13T19:16:12",
+      "earliest": "2019-02-13T19:16:12"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T11:43:19"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

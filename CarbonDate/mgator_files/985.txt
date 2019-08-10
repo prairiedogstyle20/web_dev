@@ -1,0 +1,51 @@
+7
+{
+  "original_uri": "https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn",
+  "self": "http://localhost:1208/timemap/json/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T15:35:07Z",
+        "uri": "http://web.archive.org/web/20190212153507/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-13T01:22:32Z",
+        "uri": "http://web.archive.org/web/20190213012232/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-13T04:42:41Z",
+        "uri": "http://web.archive.org/web/20190213044241/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-13T05:10:45Z",
+        "uri": "http://web.archive.org/web/20190213051045/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-13T13:10:03Z",
+        "uri": "http://web.archive.org/web/20190213131003/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T03:36:49Z",
+        "uri": "http://web.archive.org/web/20190214033649/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn"
+      },
+      {
+        "datetime": "2019-02-14T08:21:22Z",
+        "uri": "http://web.archive.org/web/20190214082122/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T15:35:07Z",
+      "uri": "http://web.archive.org/web/20190212153507/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn"
+    },
+    "last": {
+      "datetime": "2019-02-14T08:21:22Z",
+      "uri": "http://web.archive.org/web/20190214082122/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cnn.com/videos/business/2019/02/12/trump-supporter-attacks-bbc-cameraman-vpx.cnn"
+}

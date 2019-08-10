@@ -1,0 +1,71 @@
+12
+{
+  "original_uri": "https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/",
+  "self": "http://localhost:1208/timemap/json/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-06T04:15:05Z",
+        "uri": "http://web.archive.org/web/20190206041505/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+      },
+      {
+        "datetime": "2019-02-06T05:00:05Z",
+        "uri": "http://web.archive.org/web/20190206050005/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+      },
+      {
+        "datetime": "2019-02-06T17:05:01Z",
+        "uri": "http://web.archive.org/web/20190206170501/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+      },
+      {
+        "datetime": "2019-02-07T17:46:17Z",
+        "uri": "http://web.archive.org/web/20190207174617/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+      },
+      {
+        "datetime": "2019-02-08T18:38:20Z",
+        "uri": "http://web.archive.org/web/20190208183820/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+      },
+      {
+        "datetime": "2019-02-08T21:40:07Z",
+        "uri": "http://wayback.archive-it.org/all/20190208214007/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+      },
+      {
+        "datetime": "2019-02-08T21:40:07Z",
+        "uri": "http://web.archive.org/web/20190208214007/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+      },
+      {
+        "datetime": "2019-02-09T19:10:17Z",
+        "uri": "http://web.archive.org/web/20190209191017/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+      },
+      {
+        "datetime": "2019-02-10T19:53:56Z",
+        "uri": "http://web.archive.org/web/20190210195356/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+      },
+      {
+        "datetime": "2019-02-11T20:48:30Z",
+        "uri": "http://web.archive.org/web/20190211204830/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+      },
+      {
+        "datetime": "2019-02-12T21:33:34Z",
+        "uri": "http://web.archive.org/web/20190212213334/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+      },
+      {
+        "datetime": "2019-02-13T22:18:49Z",
+        "uri": "http://web.archive.org/web/20190213221849/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-06T04:15:05Z",
+      "uri": "http://web.archive.org/web/20190206041505/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+    },
+    "last": {
+      "datetime": "2019-02-13T22:18:49Z",
+      "uri": "http://web.archive.org/web/20190213221849/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-better-healthcare-system-improving-quality-life-americans/"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://santamariatimes.com/sports/high-school/lompoc-s-julian-araujo-makes-professional-debut-with-la-galaxy/article_07af4900-abb1-5275-8a1f-bc0254710f4c.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+  "uri": "https://santamariatimes.com/sports/high-school/lompoc-s-julian-araujo-makes-professional-debut-with-la-galaxy/article_07af4900-abb1-5275-8a1f-bc0254710f4c.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+  "estimated-creation-date": "2019-02-12T13:19:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-13T06:46:02"
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T13:19:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T22:46:06"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

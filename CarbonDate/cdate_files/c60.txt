@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.nytimes.com/2019/02/12/opinion/trump-payday-loans.html?partner=rss&emc=rss",
+  "uri": "https://www.nytimes.com/2019/02/12/opinion/trump-payday-loans.html?partner=rss&emc=rss",
+  "estimated-creation-date": "2019-02-13T00:00:04",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-15T15:15:35"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T00:00:04"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213122917/https://www.nytimes.com/2019/02/12/opinion/trump-payday-loans.html?partner=rss&emc=rss",
+      "memento-datetime": "2019-02-13T11:58:42",
+      "memento-pubdate": "2019-02-13T00:00:04",
+      "earliest": "2019-02-13T00:00:04"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T00:24:48"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

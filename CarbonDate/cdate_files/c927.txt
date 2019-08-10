@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://outdoor-ch.one-first.info/2019/02/13/post-89926/",
+  "uri": "https://outdoor-ch.one-first.info/2019/02/13/post-89926/",
+  "estimated-creation-date": "2019-02-13T07:46:28",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T07:46:28"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:53:01"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

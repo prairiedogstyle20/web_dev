@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://thehill.com/homenews/administration/429798-top-trump-ally-on-khashoggi-killing-americas-atrocities-are-equal-or",
+  "self": "http://localhost:1208/timemap/json/https://thehill.com/homenews/administration/429798-top-trump-ally-on-khashoggi-killing-americas-atrocities-are-equal-or",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T19:44:02Z",
+        "uri": "http://web.archive.org/web/20190213194402/https://thehill.com/homenews/administration/429798-top-trump-ally-on-khashoggi-killing-americas-atrocities-are-equal-or"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T19:44:02Z",
+      "uri": "http://web.archive.org/web/20190213194402/https://thehill.com/homenews/administration/429798-top-trump-ally-on-khashoggi-killing-americas-atrocities-are-equal-or"
+    },
+    "last": {
+      "datetime": "2019-02-13T19:44:02Z",
+      "uri": "http://web.archive.org/web/20190213194402/https://thehill.com/homenews/administration/429798-top-trump-ally-on-khashoggi-killing-americas-atrocities-are-equal-or"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://thehill.com/homenews/administration/429798-top-trump-ally-on-khashoggi-killing-americas-atrocities-are-equal-or",
+    "json_format": "http://localhost:1208/timemap/json/https://thehill.com/homenews/administration/429798-top-trump-ally-on-khashoggi-killing-americas-atrocities-are-equal-or",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://thehill.com/homenews/administration/429798-top-trump-ally-on-khashoggi-killing-americas-atrocities-are-equal-or"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://thehill.com/homenews/administration/429798-top-trump-ally-on-khashoggi-killing-americas-atrocities-are-equal-or"
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/donald-trump-had-no-idea-that-enquirer-was-investigating-jeff-bezos/67972903",
+  "self": "http://localhost:1208/timemap/json/https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/donald-trump-had-no-idea-that-enquirer-was-investigating-jeff-bezos/67972903",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T15:10:40Z",
+        "uri": "http://web.archive.org/web/20190213151040/https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/donald-trump-had-no-idea-that-enquirer-was-investigating-jeff-bezos/67972903"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T15:10:40Z",
+      "uri": "http://web.archive.org/web/20190213151040/https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/donald-trump-had-no-idea-that-enquirer-was-investigating-jeff-bezos/67972903"
+    },
+    "last": {
+      "datetime": "2019-02-13T15:10:40Z",
+      "uri": "http://web.archive.org/web/20190213151040/https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/donald-trump-had-no-idea-that-enquirer-was-investigating-jeff-bezos/67972903"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/donald-trump-had-no-idea-that-enquirer-was-investigating-jeff-bezos/67972903",
+    "json_format": "http://localhost:1208/timemap/json/https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/donald-trump-had-no-idea-that-enquirer-was-investigating-jeff-bezos/67972903",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/donald-trump-had-no-idea-that-enquirer-was-investigating-jeff-bezos/67972903"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/donald-trump-had-no-idea-that-enquirer-was-investigating-jeff-bezos/67972903"
+}

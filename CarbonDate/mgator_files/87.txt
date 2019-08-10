@@ -1,0 +1,67 @@
+11
+{
+  "original_uri": "https://www.bbc.com/news/world-latin-america-47209526",
+  "self": "http://localhost:1208/timemap/json/https://www.bbc.com/news/world-latin-america-47209526",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T02:17:43Z",
+        "uri": "http://web.archive.org/web/20190213021743/http://www.bbc.com/news/world-latin-america-47209526"
+      },
+      {
+        "datetime": "2019-02-13T02:17:44Z",
+        "uri": "http://web.archive.org/web/20190213021744/https://www.bbc.com/news/world-latin-america-47209526"
+      },
+      {
+        "datetime": "2019-02-13T02:33:39Z",
+        "uri": "http://web.archive.org/web/20190213023339/https://www.bbc.com/news/world-latin-america-47209526"
+      },
+      {
+        "datetime": "2019-02-13T06:14:25Z",
+        "uri": "http://web.archive.org/web/20190213061425/https://www.bbc.com/news/world-latin-america-47209526"
+      },
+      {
+        "datetime": "2019-02-13T07:22:55Z",
+        "uri": "http://web.archive.org/web/20190213072255/https://www.bbc.com/news/world-latin-america-47209526"
+      },
+      {
+        "datetime": "2019-02-13T11:56:22Z",
+        "uri": "http://web.archive.org/web/20190213115622/https://www.bbc.com/news/world-latin-america-47209526"
+      },
+      {
+        "datetime": "2019-02-13T13:16:30Z",
+        "uri": "http://web.archive.org/web/20190213131630/https://www.bbc.com/news/world-latin-america-47209526"
+      },
+      {
+        "datetime": "2019-02-13T15:49:30Z",
+        "uri": "http://web.archive.org/web/20190213154930/https://www.bbc.com/news/world-latin-america-47209526"
+      },
+      {
+        "datetime": "2019-02-14T02:09:01Z",
+        "uri": "http://web.archive.org/web/20190214020901/https://www.bbc.com/news/world-latin-america-47209526"
+      },
+      {
+        "datetime": "2019-02-14T02:52:22Z",
+        "uri": "http://web.archive.org/web/20190214025222/http://www.bbc.com/news/world-latin-america-47209526"
+      },
+      {
+        "datetime": "2019-02-14T02:52:24Z",
+        "uri": "http://web.archive.org/web/20190214025224/https://www.bbc.com/news/world-latin-america-47209526"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T02:17:43Z",
+      "uri": "http://web.archive.org/web/20190213021743/http://www.bbc.com/news/world-latin-america-47209526"
+    },
+    "last": {
+      "datetime": "2019-02-14T02:52:24Z",
+      "uri": "http://web.archive.org/web/20190214025224/https://www.bbc.com/news/world-latin-america-47209526"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.bbc.com/news/world-latin-america-47209526",
+    "json_format": "http://localhost:1208/timemap/json/https://www.bbc.com/news/world-latin-america-47209526",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bbc.com/news/world-latin-america-47209526"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.bbc.com/news/world-latin-america-47209526"
+}

@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.jpost.com/Opinion/Expert-reverses-course-says-Trumps-most-pro-Israel-president-ever-579570",
+  "uri": "https://www.jpost.com/Opinion/Expert-reverses-course-says-Trumps-most-pro-Israel-president-ever-579570",
+  "estimated-creation-date": "2019-02-03T20:39:00",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-03T20:39:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190204144717/https://www.jpost.com/Opinion/Expert-reverses-course-says-Trumps-most-pro-Israel-president-ever-579570",
+      "memento-datetime": "2019-02-04T14:47:17",
+      "memento-pubdate": "2019-02-03T20:39:00",
+      "earliest": "2019-02-03T20:39:00"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-06T13:48:21"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

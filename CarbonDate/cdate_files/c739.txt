@@ -1,0 +1,29 @@
+{
+  "self": "http://localhost:8888/cd/https://www.c-span.org/video/?457880-1/president-trump-delivers-remarks-law-enforcement-conference&live",
+  "uri": "https://www.c-span.org/video/?457880-1/president-trump-delivers-remarks-law-enforcement-conference&live",
+  "estimated-creation-date": "",
+  "earliest-sources": [],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

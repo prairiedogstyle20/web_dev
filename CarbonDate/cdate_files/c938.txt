@@ -1,0 +1,38 @@
+{
+  "self": "http://localhost:8888/cd/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos",
+  "uri": "https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos",
+  "estimated-creation-date": "2017-09-08T11:22:42",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2017-09-08T11:22:42"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20170908224903/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos",
+      "memento-datetime": "2017-09-08T22:49:03",
+      "memento-pubdate": "2017-09-08T11:22:42",
+      "earliest": "2017-09-08T11:22:42"
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:28:44"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+1
+{
+  "original_uri": "https://www.radiotelevisionmarti.com/a/trump-duque-critican-rechazo-maduro-ayuda-humanitaria-venezuela/228632.html",
+  "self": "http://localhost:1208/timemap/json/https://www.radiotelevisionmarti.com/a/trump-duque-critican-rechazo-maduro-ayuda-humanitaria-venezuela/228632.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T01:34:59Z",
+        "uri": "http://web.archive.org/web/20190214013459/https://www.radiotelevisionmarti.com/a/trump-duque-critican-rechazo-maduro-ayuda-humanitaria-venezuela/228632.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T01:34:59Z",
+      "uri": "http://web.archive.org/web/20190214013459/https://www.radiotelevisionmarti.com/a/trump-duque-critican-rechazo-maduro-ayuda-humanitaria-venezuela/228632.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T01:34:59Z",
+      "uri": "http://web.archive.org/web/20190214013459/https://www.radiotelevisionmarti.com/a/trump-duque-critican-rechazo-maduro-ayuda-humanitaria-venezuela/228632.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.radiotelevisionmarti.com/a/trump-duque-critican-rechazo-maduro-ayuda-humanitaria-venezuela/228632.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.radiotelevisionmarti.com/a/trump-duque-critican-rechazo-maduro-ayuda-humanitaria-venezuela/228632.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.radiotelevisionmarti.com/a/trump-duque-critican-rechazo-maduro-ayuda-humanitaria-venezuela/228632.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.radiotelevisionmarti.com/a/trump-duque-critican-rechazo-maduro-ayuda-humanitaria-venezuela/228632.html"
+}

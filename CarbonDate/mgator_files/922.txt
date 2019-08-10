@@ -1,0 +1,59 @@
+9
+{
+  "original_uri": "https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/",
+  "self": "http://localhost:1208/timemap/json/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-11T21:16:15Z",
+        "uri": "http://web.archive.org/web/20190211211615/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+      },
+      {
+        "datetime": "2019-02-11T22:25:19Z",
+        "uri": "http://web.archive.org/web/20190211222519/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+      },
+      {
+        "datetime": "2019-02-12T03:15:07Z",
+        "uri": "http://web.archive.org/web/20190212031507/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+      },
+      {
+        "datetime": "2019-02-12T07:29:08Z",
+        "uri": "http://web.archive.org/web/20190212072908/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+      },
+      {
+        "datetime": "2019-02-12T07:34:38Z",
+        "uri": "http://web.archive.org/web/20190212073438/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+      },
+      {
+        "datetime": "2019-02-12T10:42:34Z",
+        "uri": "http://web.archive.org/web/20190212104234/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+      },
+      {
+        "datetime": "2019-02-12T10:42:36Z",
+        "uri": "http://web.archive.org/web/20190212104236/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+      },
+      {
+        "datetime": "2019-02-12T23:05:47Z",
+        "uri": "http://web.archive.org/web/20190212230547/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+      },
+      {
+        "datetime": "2019-02-12T23:59:10Z",
+        "uri": "http://web.archive.org/web/20190212235910/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-11T21:16:15Z",
+      "uri": "http://web.archive.org/web/20190211211615/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+    },
+    "last": {
+      "datetime": "2019-02-12T23:59:10Z",
+      "uri": "http://web.archive.org/web/20190212235910/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.breitbart.com/politics/2019/02/11/donald-trump-approval-rating-52-percent-9-point-jump-10-days/"
+}

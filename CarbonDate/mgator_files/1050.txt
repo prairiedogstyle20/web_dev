@@ -1,0 +1,31 @@
+2
+{
+  "original_uri": "https://truepundit.com/trump-democrats-want-criminals-in-the-us/",
+  "self": "http://localhost:1208/timemap/json/https://truepundit.com/trump-democrats-want-criminals-in-the-us/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T03:10:55Z",
+        "uri": "http://web.archive.org/web/20190213031055/https://truepundit.com/trump-democrats-want-criminals-in-the-us/"
+      },
+      {
+        "datetime": "2019-02-13T12:39:15Z",
+        "uri": "http://web.archive.org/web/20190213123915/https://truepundit.com/trump-democrats-want-criminals-in-the-us/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T03:10:55Z",
+      "uri": "http://web.archive.org/web/20190213031055/https://truepundit.com/trump-democrats-want-criminals-in-the-us/"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:39:15Z",
+      "uri": "http://web.archive.org/web/20190213123915/https://truepundit.com/trump-democrats-want-criminals-in-the-us/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://truepundit.com/trump-democrats-want-criminals-in-the-us/",
+    "json_format": "http://localhost:1208/timemap/json/https://truepundit.com/trump-democrats-want-criminals-in-the-us/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://truepundit.com/trump-democrats-want-criminals-in-the-us/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://truepundit.com/trump-democrats-want-criminals-in-the-us/"
+}

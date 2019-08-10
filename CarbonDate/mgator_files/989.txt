@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "http://www.dailykos.com/stories/2019/2/4/1832122/-Trump-administration-rolls-out-plan-to-end-HIV-in-ten-years-and-its-likely-to-be-a-disaster",
+  "self": "http://localhost:1208/timemap/json/http://www.dailykos.com/stories/2019/2/4/1832122/-Trump-administration-rolls-out-plan-to-end-HIV-in-ten-years-and-its-likely-to-be-a-disaster",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-05T05:24:49Z",
+        "uri": "http://web.archive.org/web/20190205052449/https://www.dailykos.com/stories/2019/2/4/1832122/-Trump-administration-rolls-out-plan-to-end-HIV-in-ten-years-and-its-likely-to-be-a-disaster"
+      },
+      {
+        "datetime": "2019-02-05T12:27:00Z",
+        "uri": "http://web.archive.org/web/20190205122700/http://www.dailykos.com/stories/2019/2/4/1832122/-Trump-administration-rolls-out-plan-to-end-HIV-in-ten-years-and-its-likely-to-be-a-disaster"
+      },
+      {
+        "datetime": "2019-02-07T11:36:37Z",
+        "uri": "http://web.archive.org/web/20190207113637/http://www.dailykos.com/stories/2019/2/4/1832122/-Trump-administration-rolls-out-plan-to-end-HIV-in-ten-years-and-its-likely-to-be-a-disaster"
+      },
+      {
+        "datetime": "2019-02-07T15:59:25Z",
+        "uri": "http://web.archive.org/web/20190207155925/https://www.dailykos.com/stories/2019/2/4/1832122/-Trump-administration-rolls-out-plan-to-end-HIV-in-ten-years-and-its-likely-to-be-a-disaster"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-05T05:24:49Z",
+      "uri": "http://web.archive.org/web/20190205052449/https://www.dailykos.com/stories/2019/2/4/1832122/-Trump-administration-rolls-out-plan-to-end-HIV-in-ten-years-and-its-likely-to-be-a-disaster"
+    },
+    "last": {
+      "datetime": "2019-02-07T15:59:25Z",
+      "uri": "http://web.archive.org/web/20190207155925/https://www.dailykos.com/stories/2019/2/4/1832122/-Trump-administration-rolls-out-plan-to-end-HIV-in-ten-years-and-its-likely-to-be-a-disaster"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/http://www.dailykos.com/stories/2019/2/4/1832122/-Trump-administration-rolls-out-plan-to-end-HIV-in-ten-years-and-its-likely-to-be-a-disaster",
+    "json_format": "http://localhost:1208/timemap/json/http://www.dailykos.com/stories/2019/2/4/1832122/-Trump-administration-rolls-out-plan-to-end-HIV-in-ten-years-and-its-likely-to-be-a-disaster",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/http://www.dailykos.com/stories/2019/2/4/1832122/-Trump-administration-rolls-out-plan-to-end-HIV-in-ten-years-and-its-likely-to-be-a-disaster"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/http://www.dailykos.com/stories/2019/2/4/1832122/-Trump-administration-rolls-out-plan-to-end-HIV-in-ten-years-and-its-likely-to-be-a-disaster"
+}

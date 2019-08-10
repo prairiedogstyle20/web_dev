@@ -1,0 +1,39 @@
+4
+{
+  "original_uri": "https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html",
+  "self": "http://localhost:1208/timemap/json/https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-14T01:15:43Z",
+        "uri": "http://web.archive.org/web/20190214011543/http://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html"
+      },
+      {
+        "datetime": "2019-02-14T06:01:42Z",
+        "uri": "http://web.archive.org/web/20190214060142/https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html"
+      },
+      {
+        "datetime": "2019-02-14T06:54:26Z",
+        "uri": "http://web.archive.org/web/20190214065426/https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html"
+      },
+      {
+        "datetime": "2019-02-14T11:25:34Z",
+        "uri": "http://web.archive.org/web/20190214112534/https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-14T01:15:43Z",
+      "uri": "http://web.archive.org/web/20190214011543/http://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html"
+    },
+    "last": {
+      "datetime": "2019-02-14T11:25:34Z",
+      "uri": "http://web.archive.org/web/20190214112534/https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.latimes.com/sports/lakers/la-sp-luke-walton-lakers-job-20190213-story.html"
+}

@@ -1,0 +1,43 @@
+5
+{
+  "original_uri": "https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia",
+  "self": "http://localhost:1208/timemap/json/https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T19:04:20Z",
+        "uri": "http://web.archive.org/web/20190212190420/https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia"
+      },
+      {
+        "datetime": "2019-02-12T19:10:34Z",
+        "uri": "http://web.archive.org/web/20190212191034/https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia"
+      },
+      {
+        "datetime": "2019-02-12T21:22:47Z",
+        "uri": "http://web.archive.org/web/20190212212247/https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia"
+      },
+      {
+        "datetime": "2019-02-13T01:28:16Z",
+        "uri": "http://web.archive.org/web/20190213012816/https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia"
+      },
+      {
+        "datetime": "2019-02-13T12:22:15Z",
+        "uri": "http://web.archive.org/web/20190213122215/https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T19:04:20Z",
+      "uri": "http://web.archive.org/web/20190212190420/https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia"
+    },
+    "last": {
+      "datetime": "2019-02-13T12:22:15Z",
+      "uri": "http://web.archive.org/web/20190213122215/https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia",
+    "json_format": "http://localhost:1208/timemap/json/https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.vox.com/2019/2/12/18221707/trump-rally-el-paso-northam-abortion-virginia"
+}

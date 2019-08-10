@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749",
+  "self": "http://localhost:1208/timemap/json/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-12T22:24:50Z",
+        "uri": "http://web.archive.org/web/20190212222450/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749"
+      },
+      {
+        "datetime": "2019-02-13T03:22:28Z",
+        "uri": "http://web.archive.org/web/20190213032228/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749"
+      },
+      {
+        "datetime": "2019-02-13T07:22:08Z",
+        "uri": "http://web.archive.org/web/20190213072208/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749"
+      },
+      {
+        "datetime": "2019-02-13T14:55:56Z",
+        "uri": "http://web.archive.org/web/20190213145556/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749"
+      },
+      {
+        "datetime": "2019-02-14T04:12:01Z",
+        "uri": "http://web.archive.org/web/20190214041201/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749"
+      },
+      {
+        "datetime": "2019-02-14T10:54:56Z",
+        "uri": "http://web.archive.org/web/20190214105456/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-12T22:24:50Z",
+      "uri": "http://web.archive.org/web/20190212222450/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749"
+    },
+    "last": {
+      "datetime": "2019-02-14T10:54:56Z",
+      "uri": "http://web.archive.org/web/20190214105456/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749",
+    "json_format": "http://localhost:1208/timemap/json/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.newsweek.com/robert-reich-trump-does-want-socialism-only-rich-opinion-1327749"
+}

@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.thedailybeast.com/nonprofit-trump-administration-aims-to-house-detained-kids-on-toxic-site?ref=scroll",
+  "uri": "https://www.thedailybeast.com/nonprofit-trump-administration-aims-to-house-detained-kids-on-toxic-site?ref=scroll",
+  "estimated-creation-date": "2019-02-13T09:46:16",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T09:46:16"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T19:01:32"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

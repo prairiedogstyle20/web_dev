@@ -1,0 +1,44 @@
+{
+  "self": "http://localhost:8888/cd/https://thehill.com/homenews/house/429777-omar-responds-to-trump-calling-for-her-resignation-you-have-trafficked-in-hate",
+  "uri": "https://thehill.com/homenews/house/429777-omar-responds-to-trump-calling-for-her-resignation-you-have-trafficked-in-hate",
+  "estimated-creation-date": "2019-02-13T09:32:35",
+  "earliest-sources": [
+    "pubdate",
+    "web.archive.org"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T09:32:35"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "web.archive.org": {
+      "uri-m": "http://web.archive.org/web/20190213154040/https://thehill.com/homenews/house/429777-omar-responds-to-trump-calling-for-her-resignation-you-have-trafficked-in-hate",
+      "memento-datetime": "2019-02-13T15:40:40",
+      "memento-pubdate": "2019-02-13T09:32:35",
+      "earliest": "2019-02-13T09:32:35"
+    },
+    "archive.md": {
+      "uri-m": "http://archive.md/20190213184812/https://thehill.com/homenews/house/429777-omar-responds-to-trump-calling-for-her-resignation-you-have-trafficked-in-hate",
+      "memento-datetime": "2019-02-13T18:48:12",
+      "memento-pubdate": "2019-02-13T18:48:12",
+      "earliest": "2019-02-13T18:48:12"
+    },
+    "twitter.com": {
+      "earliest": ""
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

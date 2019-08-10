@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos",
+  "self": "http://localhost:1208/timemap/json/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-09-08T22:49:03Z",
+        "uri": "http://web.archive.org/web/20170908224903/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos"
+      },
+      {
+        "datetime": "2018-04-01T12:53:03Z",
+        "uri": "http://web.archive.org/web/20180401125303/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos"
+      },
+      {
+        "datetime": "2018-05-16T13:23:11Z",
+        "uri": "http://web.archive.org/web/20180516132311/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos"
+      },
+      {
+        "datetime": "2018-07-12T06:07:38Z",
+        "uri": "http://web.archive.org/web/20180712060738/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos"
+      },
+      {
+        "datetime": "2018-08-01T06:28:27Z",
+        "uri": "http://web.archive.org/web/20180801062827/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos"
+      },
+      {
+        "datetime": "2018-09-24T12:33:00Z",
+        "uri": "http://web.archive.org/web/20180924123300/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos"
+      }
+    ],
+    "first": {
+      "datetime": "2017-09-08T22:49:03Z",
+      "uri": "http://web.archive.org/web/20170908224903/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos"
+    },
+    "last": {
+      "datetime": "2018-09-24T12:33:00Z",
+      "uri": "http://web.archive.org/web/20180924123300/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos",
+    "json_format": "http://localhost:1208/timemap/json/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.metro.us/president-trump/donald-and-ivanka-trump-awkward-photos"
+}

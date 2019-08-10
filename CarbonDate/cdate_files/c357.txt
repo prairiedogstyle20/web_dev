@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.cnbc.com/2019/02/12/trump-says-he-is-open-to-letting-march-1-deadline-for-china-tariffs-slide.html?__source=iosappshare%7Ccom.buffer.buffer.BufferComposeExtension",
+  "uri": "https://www.cnbc.com/2019/02/12/trump-says-he-is-open-to-letting-march-1-deadline-for-china-tariffs-slide.html?__source=iosappshare%7Ccom.buffer.buffer.BufferComposeExtension",
+  "estimated-creation-date": "2019-02-12T12:25:09",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": "2019-02-12T12:25:09"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:53:47"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

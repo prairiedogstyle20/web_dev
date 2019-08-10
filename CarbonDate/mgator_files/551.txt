@@ -1,0 +1,711 @@
+172
+{
+  "original_uri": "https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s",
+  "self": "http://localhost:1208/timemap/json/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-12-08T09:39:40Z",
+        "uri": "http://web.archive.org/web/20151208093940/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-08T14:57:28Z",
+        "uri": "http://web.archive.org/web/20151208145728/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-08T23:55:28Z",
+        "uri": "http://webarchive.loc.gov/all/20151208235528/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-09T01:43:45Z",
+        "uri": "http://web.archive.org/web/20151209014345/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-09T21:04:54Z",
+        "uri": "http://web.archive.org/web/20151209210454/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s?"
+      },
+      {
+        "datetime": "2015-12-09T22:40:55Z",
+        "uri": "http://web.archive.org/web/20151209224055/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-10T07:16:18Z",
+        "uri": "http://web.archive.org/web/20151210071618/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-11T09:09:16Z",
+        "uri": "http://web.archive.org/web/20151211090916/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-12T16:56:56Z",
+        "uri": "http://web.archive.org/web/20151212165656/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-14T00:42:42Z",
+        "uri": "http://web.archive.org/web/20151214004242/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-15T22:45:26Z",
+        "uri": "http://web.archive.org/web/20151215224526/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-16T04:05:17Z",
+        "uri": "http://webarchive.loc.gov/all/20151216040517/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-17T09:45:44Z",
+        "uri": "http://web.archive.org/web/20151217094544/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-18T14:55:53Z",
+        "uri": "http://web.archive.org/web/20151218145553/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-18T19:39:52Z",
+        "uri": "http://web.archive.org/web/20151218193952/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-20T08:26:28Z",
+        "uri": "http://web.archive.org/web/20151220082628/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-23T00:07:45Z",
+        "uri": "http://webarchive.loc.gov/all/20151223000745/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-23T09:04:38Z",
+        "uri": "http://web.archive.org/web/20151223090438/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-30T02:27:29Z",
+        "uri": "http://webarchive.loc.gov/all/20151230022729/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-30T09:45:44Z",
+        "uri": "http://web.archive.org/web/20151230094544/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-31T02:53:38Z",
+        "uri": "http://web.archive.org/web/20151231025338/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2015-12-31T22:59:24Z",
+        "uri": "http://web.archive.org/web/20151231225924/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-01-06T03:15:11Z",
+        "uri": "http://webarchive.loc.gov/all/20160106031511/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-01-06T03:47:05Z",
+        "uri": "http://webarchive.loc.gov/all/20160106034705/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-01-13T10:47:27Z",
+        "uri": "http://webarchive.loc.gov/all/20160113104727/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-01-16T02:17:48Z",
+        "uri": "http://webarchive.loc.gov/all/20160116021748/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-01-20T06:46:40Z",
+        "uri": "http://web.archive.org/web/20160120064640/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s?"
+      },
+      {
+        "datetime": "2016-01-20T11:10:45Z",
+        "uri": "http://webarchive.loc.gov/all/20160120111045/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-01-26T01:51:26Z",
+        "uri": "http://web.archive.org/web/20160126015126/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-02-02T00:03:40Z",
+        "uri": "http://web.archive.org/web/20160202000340/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-02-03T10:18:24Z",
+        "uri": "http://web.archive.org/web/20160203101824/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-02-03T12:38:22Z",
+        "uri": "http://webarchive.loc.gov/all/20160203123822/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-02-04T18:23:21Z",
+        "uri": "http://web.archive.org/web/20160204182321/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-02-08T06:00:46Z",
+        "uri": "http://web.archive.org/web/20160208060046/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-02-10T18:38:16Z",
+        "uri": "http://webarchive.loc.gov/all/20160210183816/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-02-12T21:17:13Z",
+        "uri": "http://webarchive.loc.gov/all/20160212211713/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-02-17T13:20:41Z",
+        "uri": "http://webarchive.loc.gov/all/20160217132041/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-02-17T20:32:32Z",
+        "uri": "http://web.archive.org/web/20160217203232/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-02-18T06:41:52Z",
+        "uri": "http://web.archive.org/web/20160218064152/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-02-27T18:48:03Z",
+        "uri": "http://webarchive.loc.gov/all/20160227184803/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-02-29T09:54:02Z",
+        "uri": "http://web.archive.org/web/20160229095402/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s?"
+      },
+      {
+        "datetime": "2016-03-03T09:17:01Z",
+        "uri": "http://webarchive.loc.gov/all/20160303091701/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-04T05:44:28Z",
+        "uri": "http://web.archive.org/web/20160304054428/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-09T12:40:40Z",
+        "uri": "http://web.archive.org/web/20160309124040/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-11T15:07:03Z",
+        "uri": "http://webarchive.loc.gov/all/20160311150703/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-12T11:55:52Z",
+        "uri": "http://webarchive.loc.gov/all/20160312115552/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-14T10:12:31Z",
+        "uri": "http://webarchive.loc.gov/all/20160314101231/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-20T02:51:55Z",
+        "uri": "http://web.archive.org/web/20160320025155/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-21T21:28:04Z",
+        "uri": "http://web.archive.org/web/20160321212804/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-22T01:51:24Z",
+        "uri": "http://web.archive.org/web/20160322015124/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-22T15:52:37Z",
+        "uri": "http://webarchive.loc.gov/all/20160322155237/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-23T07:25:19Z",
+        "uri": "http://web.archive.org/web/20160323072519/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-24T17:00:56Z",
+        "uri": "http://web.archive.org/web/20160324170056/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-25T20:38:26Z",
+        "uri": "http://webarchive.loc.gov/all/20160325203826/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-28T15:07:17Z",
+        "uri": "http://web.archive.org/web/20160328150717/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-31T08:58:12Z",
+        "uri": "http://webarchive.loc.gov/all/20160331085812/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-31T12:51:15Z",
+        "uri": "http://web.archive.org/web/20160331125115/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-03-31T15:04:05Z",
+        "uri": "http://web.archive.org/web/20160331150405/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s?"
+      },
+      {
+        "datetime": "2016-04-01T19:17:20Z",
+        "uri": "http://web.archive.org/web/20160401191720/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-04-03T04:12:36Z",
+        "uri": "http://web.archive.org/web/20160403041236/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-04-04T10:59:37Z",
+        "uri": "http://web.archive.org/web/20160404105937/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-04-07T08:24:03Z",
+        "uri": "http://webarchive.loc.gov/all/20160407082403/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-04-14T07:35:24Z",
+        "uri": "http://webarchive.loc.gov/all/20160414073524/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-04-18T06:02:30Z",
+        "uri": "http://webarchive.loc.gov/all/20160418060230/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-04-20T10:06:01Z",
+        "uri": "http://web.archive.org/web/20160420100601/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-04-21T10:27:37Z",
+        "uri": "http://webarchive.loc.gov/all/20160421102737/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-04-27T01:31:36Z",
+        "uri": "http://webarchive.loc.gov/all/20160427013136/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-04-29T14:44:57Z",
+        "uri": "http://webarchive.loc.gov/all/20160429144457/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-05-05T04:57:21Z",
+        "uri": "http://webarchive.loc.gov/all/20160505045721/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-05-14T11:20:18Z",
+        "uri": "http://web.archive.org/web/20160514112018/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-05-24T19:02:41Z",
+        "uri": "http://web.archive.org/web/20160524190241/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-05-26T02:10:38Z",
+        "uri": "http://webarchive.loc.gov/all/20160526021038/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-06-04T18:49:58Z",
+        "uri": "http://webarchive.loc.gov/all/20160604184958/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-06-16T03:33:27Z",
+        "uri": "http://webarchive.loc.gov/all/20160616033327/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-06-19T06:02:11Z",
+        "uri": "http://webarchive.loc.gov/all/20160619060211/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-06-23T00:45:54Z",
+        "uri": "http://wayback.archive-it.org/all/20160623004554/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-06-23T00:45:54Z",
+        "uri": "http://web.archive.org/web/20160623004554/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-06-24T01:53:24Z",
+        "uri": "http://webarchive.loc.gov/all/20160624015324/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-07-08T12:25:11Z",
+        "uri": "http://webarchive.loc.gov/all/20160708122511/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-07-14T20:52:37Z",
+        "uri": "http://webarchive.loc.gov/all/20160714205237/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-07-21T17:18:56Z",
+        "uri": "http://webarchive.loc.gov/all/20160721171856/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-07-27T07:58:44Z",
+        "uri": "http://web.archive.org/web/20160727075844/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-07-29T16:14:56Z",
+        "uri": "http://webarchive.loc.gov/all/20160729161456/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-08-08T08:56:41Z",
+        "uri": "http://webarchive.loc.gov/all/20160808085641/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-08-27T23:38:57Z",
+        "uri": "http://web.archive.org/web/20160827233857/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-08-29T01:34:59Z",
+        "uri": "http://web.archive.org/web/20160829013459/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-10-04T20:01:15Z",
+        "uri": "http://web.archive.org/web/20161004200115/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-10-05T22:46:02Z",
+        "uri": "http://web.archive.org/web/20161005224602/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-10-10T12:13:10Z",
+        "uri": "http://web.archive.org/web/20161010121310/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-10-11T13:00:38Z",
+        "uri": "http://web.archive.org/web/20161011130038/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-11-06T09:33:09Z",
+        "uri": "http://web.archive.org/web/20161106093309/http://www.npr.org:80/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-11-28T12:55:48Z",
+        "uri": "http://web.archive.org/web/20161128125548/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2016-12-30T10:49:56Z",
+        "uri": "http://webarchive.loc.gov/all/20161230104956/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-02-15T05:09:11Z",
+        "uri": "http://web.archive.org/web/20170215050911/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-03-18T00:46:03Z",
+        "uri": "http://wayback.archive-it.org/all/20170318004603/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-03-18T00:46:03Z",
+        "uri": "http://web.archive.org/web/20170318004603/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-04T21:39:39Z",
+        "uri": "http://web.archive.org/web/20170904213939/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-05T03:22:17Z",
+        "uri": "http://webarchive.loc.gov/all/20170905032217/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-07T15:39:00Z",
+        "uri": "http://webarchive.loc.gov/all/20170907153900/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-19T05:00:46Z",
+        "uri": "http://web.archive.org/web/20170919050046/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-19T16:38:02Z",
+        "uri": "http://web.archive.org/web/20170919163802/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-19T23:30:12Z",
+        "uri": "http://web.archive.org/web/20170919233012/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-20T17:29:06Z",
+        "uri": "http://web.archive.org/web/20170920172906/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-21T02:19:01Z",
+        "uri": "http://web.archive.org/web/20170921021901/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-21T08:00:32Z",
+        "uri": "http://web.archive.org/web/20170921080032/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-21T23:21:56Z",
+        "uri": "http://web.archive.org/web/20170921232156/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-21T23:42:05Z",
+        "uri": "http://web.archive.org/web/20170921234205/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-22T06:24:04Z",
+        "uri": "http://web.archive.org/web/20170922062404/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-23T11:41:54Z",
+        "uri": "http://web.archive.org/web/20170923114154/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-24T08:58:42Z",
+        "uri": "http://web.archive.org/web/20170924085842/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-09-26T05:28:31Z",
+        "uri": "http://web.archive.org/web/20170926052831/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-10-07T05:12:36Z",
+        "uri": "http://web.archive.org/web/20171007051236/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-10-07T05:12:37Z",
+        "uri": "http://web.archive.org/web/20171007051237/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-10-09T00:10:10Z",
+        "uri": "http://web.archive.org/web/20171009001010/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-11-17T02:32:02Z",
+        "uri": "http://wayback.archive-it.org/all/20171117023202/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-11-17T02:32:02Z",
+        "uri": "http://web.archive.org/web/20171117023202/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-11-30T08:46:58Z",
+        "uri": "http://web.archive.org/web/20171130084658/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-11-30T08:47:01Z",
+        "uri": "http://web.archive.org/web/20171130084701/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2017-12-20T19:39:23Z",
+        "uri": "http://webarchive.loc.gov/all/20171220193923/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-02-23T19:22:29Z",
+        "uri": "http://wayback.archive-it.org/all/20180223192229/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-02-23T19:22:29Z",
+        "uri": "http://web.archive.org/web/20180223192229/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-04-06T20:35:19Z",
+        "uri": "http://web.archive.org/web/20180406203519/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-04-09T02:19:01Z",
+        "uri": "http://web.archive.org/web/20180409021901/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-04-25T03:15:17Z",
+        "uri": "http://web.archive.org/web/20180425031517/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-04-25T03:15:25Z",
+        "uri": "http://web.archive.org/web/20180425031525/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-04-26T10:34:34Z",
+        "uri": "http://web.archive.org/web/20180426103434/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-04-26T20:29:15Z",
+        "uri": "http://web.archive.org/web/20180426202915/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-04-26T20:29:23Z",
+        "uri": "http://web.archive.org/web/20180426202923/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-04-28T08:56:56Z",
+        "uri": "http://web.archive.org/web/20180428085656/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-04-28T08:57:07Z",
+        "uri": "http://web.archive.org/web/20180428085707/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-04-29T02:30:25Z",
+        "uri": "http://web.archive.org/web/20180429023025/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-04-29T02:30:31Z",
+        "uri": "http://web.archive.org/web/20180429023031/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-03T09:13:41Z",
+        "uri": "http://web.archive.org/web/20180503091341/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-03T09:13:57Z",
+        "uri": "http://web.archive.org/web/20180503091357/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-03T11:38:35Z",
+        "uri": "http://web.archive.org/web/20180503113835/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-04T08:12:40Z",
+        "uri": "http://web.archive.org/web/20180504081240/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-04T08:12:48Z",
+        "uri": "http://web.archive.org/web/20180504081248/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-05T09:48:12Z",
+        "uri": "http://web.archive.org/web/20180505094812/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-05T09:48:20Z",
+        "uri": "http://web.archive.org/web/20180505094820/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-08T08:06:05Z",
+        "uri": "http://web.archive.org/web/20180508080605/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-08T08:06:20Z",
+        "uri": "http://web.archive.org/web/20180508080620/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-10T11:06:51Z",
+        "uri": "http://web.archive.org/web/20180510110651/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-10T19:42:51Z",
+        "uri": "http://web.archive.org/web/20180510194251/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-10T19:43:03Z",
+        "uri": "http://web.archive.org/web/20180510194303/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-05-17T11:27:20Z",
+        "uri": "http://web.archive.org/web/20180517112720/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-06-14T19:33:51Z",
+        "uri": "http://web.archive.org/web/20180614193351/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-06-26T15:59:08Z",
+        "uri": "http://wayback.archive-it.org/all/20180626155908/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-06-26T15:59:08Z",
+        "uri": "http://web.archive.org/web/20180626155908/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-07-17T20:33:00Z",
+        "uri": "http://web.archive.org/web/20180717203300/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-07-26T01:29:05Z",
+        "uri": "http://web.archive.org/web/20180726012905/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-08-02T01:59:13Z",
+        "uri": "http://web.archive.org/web/20180802015913/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-08-09T02:42:28Z",
+        "uri": "http://web.archive.org/web/20180809024228/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-08-11T20:09:03Z",
+        "uri": "http://web.archive.org/web/20180811200903/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-08-12T18:57:08Z",
+        "uri": "http://web.archive.org/web/20180812185708/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-08-16T03:21:51Z",
+        "uri": "http://web.archive.org/web/20180816032151/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-08-23T03:47:09Z",
+        "uri": "http://web.archive.org/web/20180823034709/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-08-30T03:56:27Z",
+        "uri": "http://web.archive.org/web/20180830035627/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-09-06T04:56:51Z",
+        "uri": "http://web.archive.org/web/20180906045651/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-09-13T05:22:13Z",
+        "uri": "http://web.archive.org/web/20180913052213/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-09-20T05:56:10Z",
+        "uri": "http://web.archive.org/web/20180920055610/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-09-24T20:23:19Z",
+        "uri": "http://web.archive.org/web/20180924202319/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-09-29T01:27:19Z",
+        "uri": "http://web.archive.org/web/20180929012719/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-12-01T12:38:08Z",
+        "uri": "http://web.archive.org/web/20181201123808/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-12-07T12:17:36Z",
+        "uri": "http://web.archive.org/web/20181207121736/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-12-07T12:17:40Z",
+        "uri": "http://archive.md/20181207121740/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-12-07T12:28:16Z",
+        "uri": "http://web.archive.org/web/20181207122816/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-12-07T12:39:09Z",
+        "uri": "http://web.archive.org/web/20181207123909/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-12-07T12:49:44Z",
+        "uri": "http://web.archive.org/web/20181207124944/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-12-07T12:59:48Z",
+        "uri": "http://web.archive.org/web/20181207125948/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-12-07T13:10:12Z",
+        "uri": "http://web.archive.org/web/20181207131012/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-12-12T17:15:26Z",
+        "uri": "http://web.archive.org/web/20181212171526/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      },
+      {
+        "datetime": "2018-12-15T22:52:08Z",
+        "uri": "http://web.archive.org/web/20181215225208/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+      }
+    ],
+    "first": {
+      "datetime": "2015-12-08T09:39:40Z",
+      "uri": "http://web.archive.org/web/20151208093940/http://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+    },
+    "last": {
+      "datetime": "2018-12-15T22:52:08Z",
+      "uri": "http://web.archive.org/web/20181215225208/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s",
+    "json_format": "http://localhost:1208/timemap/json/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.npr.org/2015/12/07/458836388/trump-calls-for-total-and-complete-shutdown-of-muslims-entering-u-s"
+}

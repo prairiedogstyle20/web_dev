@@ -1,0 +1,47 @@
+6
+{
+  "original_uri": "https://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso",
+  "self": "http://localhost:1208/timemap/json/https://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-02-13T01:19:20Z",
+        "uri": "http://web.archive.org/web/20190213011920/https://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso"
+      },
+      {
+        "datetime": "2019-02-14T05:31:27Z",
+        "uri": "http://web.archive.org/web/20190214053127/https://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso"
+      },
+      {
+        "datetime": "2019-02-14T05:31:27Z",
+        "uri": "http://web.archive.org/web/20190214053127/https://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso"
+      },
+      {
+        "datetime": "2019-02-14T07:21:28Z",
+        "uri": "http://web.archive.org/web/20190214072128/https://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso"
+      },
+      {
+        "datetime": "2019-02-14T07:21:30Z",
+        "uri": "http://web.archive.org/web/20190214072130/http://bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso"
+      },
+      {
+        "datetime": "2019-02-14T07:21:34Z",
+        "uri": "http://web.archive.org/web/20190214072134/http://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso"
+      }
+    ],
+    "first": {
+      "datetime": "2019-02-13T01:19:20Z",
+      "uri": "http://web.archive.org/web/20190213011920/https://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso"
+    },
+    "last": {
+      "datetime": "2019-02-14T07:21:34Z",
+      "uri": "http://web.archive.org/web/20190214072134/http://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso",
+    "json_format": "http://localhost:1208/timemap/json/https://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.bbc.co.uk/news/av/world-us-canada-47220741/president-trump-and-beto-o-rourke-s-rival-rallies-in-el-paso"
+}

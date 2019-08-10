@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://hedgeaccordingly.com/nba-finds-no-tampering-violation-between-lakers-ben-simmons/",
+  "uri": "https://hedgeaccordingly.com/nba-finds-no-tampering-violation-between-lakers-ben-simmons/",
+  "estimated-creation-date": "2019-02-12T20:02:57",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-12T20:02:57"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

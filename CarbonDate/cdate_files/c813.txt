@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.theadvocate.com/baton_rouge/sports/lsu/article_d0302e8e-2fc8-11e9-896d-0bee30807267.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+  "uri": "https://www.theadvocate.com/baton_rouge/sports/lsu/article_d0302e8e-2fc8-11e9-896d-0bee30807267.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+  "estimated-creation-date": "2019-02-13T14:08:00",
+  "earliest-sources": [
+    "pubdate"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": "2019-02-13T23:09:13"
+    },
+    "pubdate": {
+      "earliest": "2019-02-13T14:08:00"
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T20:29:56"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}

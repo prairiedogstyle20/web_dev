@@ -1,0 +1,151 @@
+32
+{
+  "original_uri": "https://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/",
+  "self": "http://localhost:1208/timemap/json/https://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-05-18T03:55:05Z",
+        "uri": "http://web.archive.org/web/20170518035505/http://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-05-20T03:36:03Z",
+        "uri": "http://web.archive.org/web/20170520033603/http://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-05-20T22:03:25Z",
+        "uri": "http://web.archive.org/web/20170520220325/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-05-20T22:03:25Z",
+        "uri": "http://web.archive.org/web/20170520220325/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents"
+      },
+      {
+        "datetime": "2017-05-23T01:41:40Z",
+        "uri": "http://web.archive.org/web/20170523014140/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-06-17T06:01:35Z",
+        "uri": "http://web.archive.org/web/20170617060135/http://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-07-01T06:25:49Z",
+        "uri": "http://web.archive.org/web/20170701062549/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-07-01T06:25:49Z",
+        "uri": "http://web.archive.org/web/20170701062549/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents"
+      },
+      {
+        "datetime": "2017-07-06T07:30:02Z",
+        "uri": "http://web.archive.org/web/20170706073002/http://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-07-22T15:17:25Z",
+        "uri": "http://web.archive.org/web/20170722151725/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-07-31T22:30:04Z",
+        "uri": "http://web.archive.org/web/20170731223004/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-07-31T22:30:04Z",
+        "uri": "http://web.archive.org/web/20170731223004/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents"
+      },
+      {
+        "datetime": "2017-09-01T05:17:33Z",
+        "uri": "http://web.archive.org/web/20170901051733/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-09-01T05:17:33Z",
+        "uri": "http://web.archive.org/web/20170901051733/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents"
+      },
+      {
+        "datetime": "2017-10-02T00:41:16Z",
+        "uri": "http://web.archive.org/web/20171002004116/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-10-02T00:41:16Z",
+        "uri": "http://web.archive.org/web/20171002004116/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents"
+      },
+      {
+        "datetime": "2017-10-29T02:48:14Z",
+        "uri": "http://web.archive.org/web/20171029024814/http://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-11-02T09:31:10Z",
+        "uri": "http://web.archive.org/web/20171102093110/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-11-02T09:31:10Z",
+        "uri": "http://web.archive.org/web/20171102093110/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents"
+      },
+      {
+        "datetime": "2017-12-03T22:41:18Z",
+        "uri": "http://web.archive.org/web/20171203224118/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-12-03T22:41:18Z",
+        "uri": "http://web.archive.org/web/20171203224118/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents"
+      },
+      {
+        "datetime": "2017-12-06T09:25:02Z",
+        "uri": "http://web.archive.org/web/20171206092502/http://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-12-06T09:30:32Z",
+        "uri": "http://web.archive.org/web/20171206093032/https://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2017-12-29T05:15:48Z",
+        "uri": "http://web.archive.org/web/20171229051548/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2018-01-05T20:55:30Z",
+        "uri": "http://web.archive.org/web/20180105205530/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2018-01-05T20:55:30Z",
+        "uri": "http://web.archive.org/web/20180105205530/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents"
+      },
+      {
+        "datetime": "2018-02-05T23:08:32Z",
+        "uri": "http://web.archive.org/web/20180205230832/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents"
+      },
+      {
+        "datetime": "2018-03-09T08:37:57Z",
+        "uri": "http://web.archive.org/web/20180309083757/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents"
+      },
+      {
+        "datetime": "2018-04-09T09:58:35Z",
+        "uri": "http://web.archive.org/web/20180409095835/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents"
+      },
+      {
+        "datetime": "2018-06-11T22:04:36Z",
+        "uri": "http://web.archive.org/web/20180611220436/http://heavy.com:80/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents"
+      },
+      {
+        "datetime": "2018-10-04T23:32:13Z",
+        "uri": "http://web.archive.org/web/20181004233213/http://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      },
+      {
+        "datetime": "2018-11-24T23:42:51Z",
+        "uri": "http://web.archive.org/web/20181124234251/https://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-05-18T03:55:05Z",
+      "uri": "http://web.archive.org/web/20170518035505/http://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+    },
+    "last": {
+      "datetime": "2018-11-24T23:42:51Z",
+      "uri": "http://web.archive.org/web/20181124234251/https://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/",
+    "json_format": "http://localhost:1208/timemap/json/https://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://heavy.com/news/2017/05/robert-mueller-family-daughters-wife-biography-fbi-trump-age-parents/"
+}

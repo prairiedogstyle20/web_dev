@@ -1,0 +1,31 @@
+{
+  "self": "http://localhost:8888/cd/https://www.facebook.com/908009612563863/posts/2570879956276812/",
+  "uri": "https://www.facebook.com/908009612563863/posts/2570879956276812/",
+  "estimated-creation-date": "2019-02-13T07:51:34",
+  "earliest-sources": [
+    "twitter.com"
+  ],
+  "sources": {
+    "bing.com": {
+      "earliest": ""
+    },
+    "last-modified": {
+      "earliest": ""
+    },
+    "pubdate": {
+      "earliest": ""
+    },
+    "google.com": {
+      "earliest": ""
+    },
+    "backlinks": {
+      "earliest": ""
+    },
+    "twitter.com": {
+      "earliest": "2019-02-13T07:51:34"
+    },
+    "bitly.com": {
+      "earliest": ""
+    }
+  }
+}
